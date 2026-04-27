@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# 缓存
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store

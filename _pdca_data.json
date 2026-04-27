@@ -1,0 +1,538 @@
+[
+  {
+    "shop": "咸宁中商",
+    "full_name": "湖北咸宁咸安区淦河大道中商百货专柜",
+    "gmv_30d": 81295.0,
+    "gmv_45d": 101433.0,
+    "gmv_ytd": 524868.0,
+    "gmv_ly": 646410.0,
+    "yoy": -18.8,
+    "orders_30d": 55,
+    "qty_30d": 171.0,
+    "orders_45d": 73,
+    "atv_45d": 1389.0,
+    "lx_ratio_45d": 3.04,
+    "sku_width_ytd": 341,
+    "guides_ytd": 5,
+    "monthly": [
+      [
+        "01",
+        15.8
+      ],
+      [
+        "02",
+        24.7
+      ],
+      [
+        "03",
+        5.0
+      ],
+      [
+        "04",
+        6.9
+      ]
+    ],
+    "vip_rate": 100.0,
+    "vip_members_45d": 67,
+    "repurchase_rate": 9.0,
+    "repeat_members": 6,
+    "total_members": 67,
+    "rfm_top": 0,
+    "rfm_churn": 0,
+    "rfm_dev": 39,
+    "rfm_keep": 0,
+    "inv_qty": 14651,
+    "inv_tag_amt": 7480907.0,
+    "inv_sku": 465,
+    "dead_sku": 370,
+    "turnover_days": 99,
+    "arrived_qty": 1484,
+    "sold_qty": 831.0,
+    "sell_rate": 56.0,
+    "arr_sku": 245,
+    "top10": [
+      {
+        "style_color": "326113901501",
+        "qty": 6.0,
+        "amount": 6910.0,
+        "unit_price": 1152.0
+      },
+      {
+        "style_color": "226113800512",
+        "qty": 5.0,
+        "amount": 4901.0,
+        "unit_price": 980.0
+      },
+      {
+        "style_color": "226113800115",
+        "qty": 4.0,
+        "amount": 4676.0,
+        "unit_price": 1169.0
+      },
+      {
+        "style_color": "226113800601",
+        "qty": 5.0,
+        "amount": 4626.0,
+        "unit_price": 925.0
+      },
+      {
+        "style_color": "226113900201",
+        "qty": 5.0,
+        "amount": 4455.0,
+        "unit_price": 891.0
+      },
+      {
+        "style_color": "326120500112",
+        "qty": 6.0,
+        "amount": 4138.0,
+        "unit_price": 690.0
+      },
+      {
+        "style_color": "326113801788",
+        "qty": 3.0,
+        "amount": 3749.0,
+        "unit_price": 1250.0
+      },
+      {
+        "style_color": "326115201301",
+        "qty": 6.0,
+        "amount": 3487.0,
+        "unit_price": 581.0
+      },
+      {
+        "style_color": "226213201012",
+        "qty": 7.0,
+        "amount": 3123.0,
+        "unit_price": 446.0
+      },
+      {
+        "style_color": "326120500301",
+        "qty": 5.0,
+        "amount": 2963.0,
+        "unit_price": 593.0
+      }
+    ],
+    "top_guides": [
+      {
+        "guide_name": "潘群芳",
+        "gmv": 42425.0,
+        "orders": 27,
+        "lx": 3.2962962962962963
+      },
+      {
+        "guide_name": "李朦",
+        "gmv": 23713.0,
+        "orders": 17,
+        "lx": 3.2941176470588234
+      },
+      {
+        "guide_name": "顾影",
+        "gmv": 22959.0,
+        "orders": 18,
+        "lx": 2.8333333333333335
+      }
+    ]
+  },
+  {
+    "shop": "赤壁摩尔城",
+    "full_name": "湖北省咸宁市赤壁市莼川大道摩尔城店中店",
+    "gmv_30d": 101761.0,
+    "gmv_45d": 136825.0,
+    "gmv_ytd": 659043.0,
+    "gmv_ly": 144544.0,
+    "yoy": 355.9,
+    "orders_30d": 98,
+    "qty_30d": 208.0,
+    "orders_45d": 134,
+    "atv_45d": 1021.0,
+    "lx_ratio_45d": 2.09,
+    "sku_width_ytd": 390,
+    "guides_ytd": 6,
+    "monthly": [
+      [
+        "01",
+        17.8
+      ],
+      [
+        "02",
+        32.6
+      ],
+      [
+        "03",
+        7.7
+      ],
+      [
+        "04",
+        7.9
+      ]
+    ],
+    "vip_rate": 100.0,
+    "vip_members_45d": 103,
+    "repurchase_rate": 19.4,
+    "repeat_members": 20,
+    "total_members": 103,
+    "rfm_top": 8,
+    "rfm_churn": 0,
+    "rfm_dev": 55,
+    "rfm_keep": 0,
+    "inv_qty": 15415,
+    "inv_tag_amt": 8610910.0,
+    "inv_sku": 501,
+    "dead_sku": 390,
+    "turnover_days": 83,
+    "arrived_qty": 1712,
+    "sold_qty": 977.0,
+    "sell_rate": 57.1,
+    "arr_sku": 279,
+    "top10": [
+      {
+        "style_color": "226113800601",
+        "qty": 7.0,
+        "amount": 6638.0,
+        "unit_price": 948.0
+      },
+      {
+        "style_color": "226113800512",
+        "qty": 6.0,
+        "amount": 5813.0,
+        "unit_price": 969.0
+      },
+      {
+        "style_color": "326113801535",
+        "qty": 5.0,
+        "amount": 5741.0,
+        "unit_price": 1148.0
+      },
+      {
+        "style_color": "326111500747",
+        "qty": 5.0,
+        "amount": 5347.0,
+        "unit_price": 1069.0
+      },
+      {
+        "style_color": "226113800301",
+        "qty": 4.0,
+        "amount": 4624.0,
+        "unit_price": 1156.0
+      },
+      {
+        "style_color": "326110700201",
+        "qty": 7.0,
+        "amount": 4389.0,
+        "unit_price": 627.0
+      },
+      {
+        "style_color": "226210801212",
+        "qty": 6.0,
+        "amount": 4266.0,
+        "unit_price": 711.0
+      },
+      {
+        "style_color": "326115201001",
+        "qty": 7.0,
+        "amount": 4125.0,
+        "unit_price": 589.0
+      },
+      {
+        "style_color": "326211602737",
+        "qty": 7.0,
+        "amount": 4080.0,
+        "unit_price": 583.0
+      },
+      {
+        "style_color": "326113801601",
+        "qty": 3.0,
+        "amount": 4047.0,
+        "unit_price": 1349.0
+      }
+    ],
+    "top_guides": [
+      {
+        "guide_name": "李志婕",
+        "gmv": 92510.0,
+        "orders": 93,
+        "lx": 2.075268817204301
+      },
+      {
+        "guide_name": "龚瑶",
+        "gmv": 34076.0,
+        "orders": 33,
+        "lx": 2.0606060606060606
+      },
+      {
+        "guide_name": "黄晴",
+        "gmv": 9197.0,
+        "orders": 7,
+        "lx": 2.4285714285714284
+      }
+    ]
+  },
+  {
+    "shop": "孝感吾悦",
+    "full_name": "湖北省孝感市孝南区复兴大道吾悦广场店中店",
+    "gmv_30d": 86813.0,
+    "gmv_45d": 127260.0,
+    "gmv_ytd": 575203.0,
+    "gmv_ly": 40598.0,
+    "yoy": 1316.8,
+    "orders_30d": 90,
+    "qty_30d": 202.0,
+    "orders_45d": 125,
+    "atv_45d": 1018.0,
+    "lx_ratio_45d": 2.19,
+    "sku_width_ytd": 316,
+    "guides_ytd": 3,
+    "monthly": [
+      [
+        "01",
+        20.6
+      ],
+      [
+        "02",
+        21.3
+      ],
+      [
+        "03",
+        8.3
+      ],
+      [
+        "04",
+        7.3
+      ]
+    ],
+    "vip_rate": 100.0,
+    "vip_members_45d": 95,
+    "repurchase_rate": 21.1,
+    "repeat_members": 20,
+    "total_members": 95,
+    "rfm_top": 8,
+    "rfm_churn": 0,
+    "rfm_dev": 57,
+    "rfm_keep": 0,
+    "inv_qty": 12105,
+    "inv_tag_amt": 5408179.0,
+    "inv_sku": 343,
+    "dead_sku": 241,
+    "turnover_days": 66,
+    "arrived_qty": 1317,
+    "sold_qty": 837.0,
+    "sell_rate": 63.6,
+    "arr_sku": 248,
+    "top10": [
+      {
+        "style_color": "226113800601",
+        "qty": 11.0,
+        "amount": 10791.0,
+        "unit_price": 981.0
+      },
+      {
+        "style_color": "326113901501",
+        "qty": 4.0,
+        "amount": 4624.0,
+        "unit_price": 1156.0
+      },
+      {
+        "style_color": "226213200912",
+        "qty": 11.0,
+        "amount": 4525.0,
+        "unit_price": 411.0
+      },
+      {
+        "style_color": "226112600501",
+        "qty": 7.0,
+        "amount": 4389.0,
+        "unit_price": 627.0
+      },
+      {
+        "style_color": "226116400212",
+        "qty": 8.0,
+        "amount": 4300.0,
+        "unit_price": 538.0
+      },
+      {
+        "style_color": "326111602101",
+        "qty": 7.0,
+        "amount": 4151.0,
+        "unit_price": 593.0
+      },
+      {
+        "style_color": "226113800736",
+        "qty": 3.0,
+        "amount": 4017.0,
+        "unit_price": 1339.0
+      },
+      {
+        "style_color": "226210801512",
+        "qty": 5.0,
+        "amount": 3579.0,
+        "unit_price": 716.0
+      },
+      {
+        "style_color": "226113800115",
+        "qty": 3.0,
+        "amount": 3481.0,
+        "unit_price": 1160.0
+      },
+      {
+        "style_color": "326115300465",
+        "qty": 4.0,
+        "amount": 3236.0,
+        "unit_price": 809.0
+      }
+    ],
+    "top_guides": [
+      {
+        "guide_name": "盛娟",
+        "gmv": 48821.0,
+        "orders": 45,
+        "lx": 2.2888888888888888
+      },
+      {
+        "guide_name": "陈颖",
+        "gmv": 42413.0,
+        "orders": 42,
+        "lx": 2.1904761904761907
+      },
+      {
+        "guide_name": "熊慧容",
+        "gmv": 36026.0,
+        "orders": 38,
+        "lx": 2.0789473684210527
+      }
+    ]
+  },
+  {
+    "shop": "蕲春大中华",
+    "full_name": "湖北黄冈蕲春县漕河大道大中华广场店中店",
+    "gmv_30d": 123256.0,
+    "gmv_45d": 158778.0,
+    "gmv_ytd": 486644.0,
+    "gmv_ly": 526795.0,
+    "yoy": -7.6,
+    "orders_30d": 105,
+    "qty_30d": 309.0,
+    "orders_45d": 137,
+    "atv_45d": 1159.0,
+    "lx_ratio_45d": 2.85,
+    "sku_width_ytd": 404,
+    "guides_ytd": 8,
+    "monthly": [
+      [
+        "01",
+        11.6
+      ],
+      [
+        "02",
+        19.5
+      ],
+      [
+        "03",
+        8.3
+      ],
+      [
+        "04",
+        9.3
+      ]
+    ],
+    "vip_rate": 99.3,
+    "vip_members_45d": 88,
+    "repurchase_rate": 25.0,
+    "repeat_members": 22,
+    "total_members": 88,
+    "rfm_top": 10,
+    "rfm_churn": 0,
+    "rfm_dev": 38,
+    "rfm_keep": 0,
+    "inv_qty": 14410,
+    "inv_tag_amt": 8454396.0,
+    "inv_sku": 487,
+    "dead_sku": 330,
+    "turnover_days": 55,
+    "arrived_qty": 1404,
+    "sold_qty": 876.0,
+    "sell_rate": 62.4,
+    "arr_sku": 246,
+    "top10": [
+      {
+        "style_color": "326111500747",
+        "qty": 5.0,
+        "amount": 5371.0,
+        "unit_price": 1074.0
+      },
+      {
+        "style_color": "326113801301",
+        "qty": 5.0,
+        "amount": 5347.0,
+        "unit_price": 1069.0
+      },
+      {
+        "style_color": "326113901501",
+        "qty": 4.0,
+        "amount": 4624.0,
+        "unit_price": 1156.0
+      },
+      {
+        "style_color": "226213200212",
+        "qty": 7.0,
+        "amount": 4375.0,
+        "unit_price": 625.0
+      },
+      {
+        "style_color": "226113800736",
+        "qty": 3.0,
+        "amount": 4017.0,
+        "unit_price": 1339.0
+      },
+      {
+        "style_color": "326120500236",
+        "qty": 7.0,
+        "amount": 3749.0,
+        "unit_price": 536.0
+      },
+      {
+        "style_color": "326115201001",
+        "qty": 6.0,
+        "amount": 3519.0,
+        "unit_price": 587.0
+      },
+      {
+        "style_color": "226113800115",
+        "qty": 3.0,
+        "amount": 3481.0,
+        "unit_price": 1160.0
+      },
+      {
+        "style_color": "326111602267",
+        "qty": 5.0,
+        "amount": 3131.0,
+        "unit_price": 626.0
+      },
+      {
+        "style_color": "326120500301",
+        "qty": 5.0,
+        "amount": 3117.0,
+        "unit_price": 623.0
+      }
+    ],
+    "top_guides": [
+      {
+        "guide_name": "邓小莉",
+        "gmv": 69293.0,
+        "orders": 60,
+        "lx": 2.716666666666667
+      },
+      {
+        "guide_name": "吕红",
+        "gmv": 67140.0,
+        "orders": 60,
+        "lx": 2.55
+      },
+      {
+        "guide_name": "高珂",
+        "gmv": 21946.0,
+        "orders": 16,
+        "lx": 4.625
+      }
+    ]
+  }
+]

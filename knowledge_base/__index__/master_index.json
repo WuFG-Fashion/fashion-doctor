@@ -1,0 +1,82 @@
+{
+  "kb_version": "2.1",
+  "kb_root": "C:\\Users\\MacBookPro\\Fashion Doctor\\knowledge_base",
+  "last_updated": "2026-04-26",
+  "total_entries": 6,
+  "levels": {
+    "L1": {
+      "name": "知识库总库",
+      "desc": "Fashion Doctor 服装零售知识库根目录"
+    },
+    "L2": {
+      "name": "品类库",
+      "desc": "按业务域分类的二级目录"
+    },
+    "L3": {
+      "name": "专题库",
+      "desc": "L2下的细分专题，每条内容存为一个文件"
+    }
+  },
+  "L2_categories": [
+    {
+      "id": "L2_01",
+      "name": "零售基础理论",
+      "desc": "KPI体系、数据模型、零售术语、行业基准",
+      "L3": [
+        {
+          "id": "L3_01_01",
+          "name": "KPI健康基准",
+          "path": "L2_01_零售基础理论/L3_01_01_KPI健康基准/kpi_benchmark.md",
+          "file_count": 1,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "id": "L2_02",
+      "name": "竞品分析",
+      "desc": "太平鸟/GXG/MLB/速写数据对比",
+      "L3": [
+        {
+          "id": "L3_02_01",
+          "name": "太平鸟男装",
+          "path": "L2_02_竞品分析/L3_02_01_太平鸟男装/peacebird.md",
+          "file_count": 1,
+          "status": "ok"
+        },
+        {
+          "id": "L3_02_02",
+          "name": "GXG",
+          "path": "L2_02_竞品分析/L3_02_02_GXG/gxg.md",
+          "file_count": 1,
+          "status": "ok"
+        },
+        {
+          "id": "L3_02_03",
+          "name": "MLB",
+          "path": "L2_02_竞品分析/L3_02_03_MLB/mlb.md",
+          "file_count": 1,
+          "status": "ok"
+        },
+        {
+          "id": "L3_02_04",
+          "name": "速写江南布衣",
+          "path": "L2_02_竞品分析/L3_02_04_速写江南布衣/croquis.md",
+          "file_count": 1,
+          "status": "ok"
+        },
+        {
+          "id": "L3_02_05",
+          "name": "竞品综合对比",
+          "path": "L2_02_竞品分析/L3_02_05_竞品综合对比/competitor_overview.md",
+          "file_count": 1,
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "retrieval_module": {
+    "path": "knowledge_base/retrieval_mod.py",
+    "desc": "检索主模块，含5种内容类型提取器"
+  }
+}

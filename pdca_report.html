@@ -1,0 +1,1038 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fashion Doctor · 店铺PDCA诊断报告 2026</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif; background: #0d1117; color: #e6edf3; font-size: 13px; }
+a { color: #58a6ff; text-decoration: none; }
+
+/* ── Header ── */
+header { background: linear-gradient(135deg,#161b22 0%,#1f6feb22 100%); border-bottom: 1px solid #30363d; padding: 18px 28px; display: flex; align-items: center; gap: 20px; }
+header .logo { font-size: 22px; }
+header h1 { font-size: 18px; font-weight: 600; flex: 1; }
+header .sub { color: #8b949e; font-size: 12px; }
+
+/* ── Time Range Bar ── */
+.tr-bar { background: #161b22; border-bottom: 1px solid #30363d; padding: 10px 28px; display: flex; align-items: center; gap: 8px; }
+.tr-label { color: #8b949e; font-size: 12px; margin-right: 4px; }
+.tr-btn { background: #21262d; border: 1px solid #30363d; color: #8b949e; padding: 5px 18px; border-radius: 20px; cursor: pointer; font-size: 12px; transition: all .2s; }
+.tr-btn:hover { border-color: #58a6ff; color: #58a6ff; }
+.tr-btn.active { background: #1f6feb; border-color: #1f6feb; color: #fff; font-weight: 600; }
+
+/* ── Main Layout ── */
+.wrap { display: flex; min-height: 100vh; }
+
+/* ── Left Sidebar ── */
+.sidebar { width: 200px; background: #161b22; border-right: 1px solid #30363d; padding: 16px 0; flex-shrink: 0; }
+.shop-card { padding: 10px 16px; cursor: pointer; border-left: 3px solid transparent; transition: all .15s; margin: 2px 0; }
+.shop-card:hover { background: #1f2937; }
+.shop-card.active { border-left-color: #1f6feb; background: #1f6feb18; }
+.shop-name { font-size: 13px; font-weight: 600; margin-bottom: 3px; }
+.shop-score { font-size: 11px; color: #8b949e; }
+.score-pill { display: inline-block; width: 30px; text-align: center; border-radius: 10px; font-size: 11px; font-weight: 700; }
+.pill-high { background: #238636; color: #fff; }
+.pill-mid  { background: #9e6a03; color: #fff; }
+.pill-low  { background: #da3633; color: #fff; }
+
+/* ── Main Content ── */
+.main { flex: 1; padding: 20px 24px; overflow-x: hidden; }
+
+/* ── KPI Strip ── */
+.kpi-strip { display: grid; grid-template-columns: repeat(5,1fr); gap: 10px; margin-bottom: 16px; }
+.kpi-card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 12px 14px; text-align: center; }
+.kpi-card .v { font-size: 22px; font-weight: 700; }
+.kpi-card .lbl { font-size: 11px; color: #8b949e; margin-top: 3px; }
+.kpi-card .sub { font-size: 10px; color: #6e7681; margin-top: 2px; }
+.kpi-card .trend { font-size: 10px; margin-top: 4px; }
+.up { color: #3fb950; }
+.dn { color: #f85149; }
+.fl { color: #8b949e; }
+
+/* ── Alerts ── */
+.alerts { margin-bottom: 16px; }
+.alert { padding: 8px 12px; border-radius: 7px; margin-bottom: 6px; font-size: 12px; display: flex; gap: 8px; align-items: flex-start; }
+.alert-dot { width: 7px; height: 7px; border-radius: 50%; margin-top: 5px; flex-shrink: 0; }
+.alert-red   { background: #f8514922; border: 1px solid #f8514933; }
+.alert-red   .alert-dot { background: #f85149; }
+.alert-orange{ background: #d2992222; border: 1px solid #d2992233; }
+.alert-orange .alert-dot { background: #d29922; }
+.alert-blue  { background: #388bfd22; border: 1px solid #388bfd33; }
+.alert-blue  .alert-dot { background: #58a6ff; }
+
+/* ── PDCA Tabs ── */
+.pdca-tabs { display: flex; gap: 6px; margin-bottom: 14px; }
+.pdca-tab { background: #21262d; border: 1px solid #30363d; color: #8b949e; padding: 7px 18px; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all .2s; }
+.pdca-tab:hover { color: #e6edf3; }
+.pdca-tab.active { background: #1f6feb; border-color: #1f6feb; color: #fff; font-weight: 600; }
+
+/* ── PDCA Panels ── */
+.pdca-panel { display: none; }
+.pdca-panel.active { display: block; }
+
+/* ── Grid Layouts ── */
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+
+/* ── Cards ── */
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 16px; margin-bottom: 12px; }
+.card-title { font-size: 13px; font-weight: 600; color: #8b949e; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
+
+/* ── KPI Squares ── */
+.kpi-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; }
+.kpi-box { background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; text-align: center; }
+.kpi-box .val { font-size: 18px; font-weight: 700; }
+.kpi-box .lbl { font-size: 11px; color: #8b949e; margin-top: 3px; }
+.kpi-box.warn { border-color: #d29922; background: #d2992210; }
+.kpi-box.danger { border-color: #da3633; background: #da363310; }
+.kpi-box.good  { border-color: #238636; background: #23863610; }
+
+/* ── Bar Charts ── */
+.bar-chart { margin-bottom: 8px; }
+.bar-label { font-size: 11px; color: #8b949e; margin-bottom: 3px; display: flex; justify-content: space-between; }
+.bar-track { height: 8px; background: #21262d; border-radius: 4px; overflow: hidden; }
+.bar-fill { height: 100%; border-radius: 4px; transition: width .6s ease; }
+
+/* ── Action Cards ── */
+.action-card { background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px 14px; margin-bottom: 8px; border-left: 3px solid; }
+.action-card.p1 { border-left-color: #f85149; }
+.action-card.p2 { border-left-color: #d29922; }
+.action-card.p3 { border-left-color: #58a6ff; }
+.action-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.priority-badge { padding: 2px 8px; border-radius: 10px; font-size: 10px; font-weight: 700; }
+.badge-p1 { background: #f8514933; color: #f85149; }
+.badge-p2 { background: #d2992233; color: #d29922; }
+.badge-p3 { background: #58a6ff33; color: #58a6ff; }
+.action-title { font-weight: 600; font-size: 13px; }
+.action-meta { display: flex; gap: 16px; font-size: 11px; color: #8b949e; margin-top: 5px; }
+.action-meta span { display: flex; align-items: center; gap: 4px; }
+
+/* ── Progress ── */
+.progress-row { margin-bottom: 10px; }
+.progress-lbl { display: flex; justify-content: space-between; font-size: 12px; color: #8b949e; margin-bottom: 4px; }
+.progress-track { height: 6px; background: #21262d; border-radius: 3px; overflow: hidden; }
+.progress-fill { height: 100%; border-radius: 3px; }
+
+/* ── Standard Table ── */
+.std-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.std-table th { background: #21262d; color: #8b949e; text-align: left; padding: 7px 10px; border-bottom: 1px solid #30363d; font-size: 11px; }
+.std-table td { padding: 7px 10px; border-bottom: 1px solid #21262d; }
+.std-table tr:hover td { background: #1f2937; }
+.ck { color: #3fb950; }
+.cm { color: #d29922; }
+.cb { color: #f85149; }
+
+/* ── Calendar ── */
+.cal-grid { display: grid; grid-template-columns: repeat(7,1fr); gap: 4px; text-align: center; }
+.cal-dow { font-size: 10px; color: #8b949e; padding-bottom: 4px; }
+.cal-day { font-size: 11px; padding: 5px; border-radius: 6px; }
+.cal-day.event { background: #1f6feb33; color: #58a6ff; cursor: pointer; }
+.cal-day.today { background: #23863633; color: #3fb950; }
+
+/* ── Shop Summary ── */
+.shop-sum { background: #1f6feb18; border: 1px solid #1f6feb44; border-radius: 10px; padding: 14px 16px; margin-bottom: 14px; display: flex; align-items: center; gap: 16px; }
+.shop-sum .ss-name { font-size: 16px; font-weight: 700; }
+.shop-sum .ss-badge { padding: 3px 12px; border-radius: 20px; font-size: 11px; font-weight: 600; }
+.ss-good { background: #23863633; color: #3fb950; }
+.ss-mid  { background: #d2992233; color: #d29922; }
+.ss-low  { background: #da363322; color: #f85149; }
+
+/* ── Section headers ── */
+.section-title { font-size: 15px; font-weight: 600; margin-bottom: 12px; padding-bottom: 6px; border-bottom: 1px solid #30363d; }
+
+/* ── Radar ── */
+canvas { max-width: 100%; }
+
+/* ── Time note ── */
+.time-note { text-align: center; font-size: 11px; color: #6e7681; margin-bottom: 12px; padding: 6px; background: #0d1117; border-radius: 6px; }
+
+/* ── Dead stock ── */
+.dead-row { display: flex; gap: 8px; margin-bottom: 6px; align-items: center; font-size: 12px; }
+.dead-label { width: 100px; color: #8b949e; flex-shrink: 0; }
+.dead-bar-wrap { flex: 1; height: 8px; background: #21262d; border-radius: 4px; overflow: hidden; }
+.dead-bar { height: 100%; background: #da3633; border-radius: 4px; }
+.dead-pct { width: 40px; text-align: right; color: #f85149; flex-shrink: 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">👔</div>
+  <h1>Fashion Doctor · 店铺PDCA诊断报告</h1>
+  <div class="sub">卡宾零售 · 2026-04-25 &nbsp;|&nbsp; 数据截至 2026-04-24</div>
+</header>
+
+<div class="tr-bar">
+  <span class="tr-label">时间范围：</span>
+  <button class="tr-btn active" onclick="setRange(0, this)">7天</button>
+  <button class="tr-btn" onclick="setRange(1, this)">30天</button>
+  <button class="tr-btn" onclick="setRange(2, this)">60天</button>
+  <button class="tr-btn" onclick="setRange(3, this)">全年</button>
+</div>
+
+<div class="wrap">
+  <!-- Sidebar -->
+  <div class="sidebar" id="shopSidebar"></div>
+
+  <!-- Main -->
+  <div class="main" id="mainContent"></div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════
+// DATA (all 4 shops × 4 time ranges)
+// ═══════════════════════════════════════════════
+const NOW = new Date('2026-04-25');
+const DATA = {
+  A748: {
+    name: '赤壁摩尔城', short: '赤壁',
+    ranges: {
+      0: { start:'2026-04-18', end:'2026-04-24',
+           gmv:12453, gmv_last:7890, orders:12, aov:1038,
+           inv_qty:1340, inv_sku:87, turns:6.2,
+           dead_qty:1068, dead_pct:79.7,
+           vip:18, vip_rate:12.8, vip_rp:23.4, vip_rp_rate:5.2,
+           sell7:763, sell7_rate:41.3, sell30:2876, sell30_rate:67.2,
+           top3:['龚瑶','吕红','李志婕'], top3_gmv:9240, top3_pct:74.2,
+           avg_disc:null, member:56 },
+      1: { start:'2026-03-26', end:'2026-04-24',
+           gmv:58234, gmv_last:45120, orders:61, aov:954,
+           inv_qty:1340, inv_sku:87, turns:14.8,
+           dead_qty:1068, dead_pct:79.7,
+           vip:94, vip_rate:14.6, vip_rp:198, vip_rp_rate:6.8,
+           sell7:763, sell7_rate:41.3, sell30:2876, sell30_rate:67.2,
+           top3:['龚瑶','吕红','李志婕'], top3_gmv:43120, top3_pct:74.1,
+           avg_disc:null, member:412 },
+      2: { start:'2026-02-24', end:'2026-04-24',
+           gmv:108432, gmv_last:89000, orders:119, aov:911,
+           inv_qty:1340, inv_sku:87, turns:26.4,
+           dead_qty:1068, dead_pct:79.7,
+           vip:182, vip_rate:15.3, vip_rp:412, vip_rp_rate:7.4,
+           sell7:763, sell7_rate:41.3, sell30:2876, sell30_rate:67.2,
+           top3:['龚瑶','李志婕','吕红'], top3_gmv:78600, top3_pct:72.5,
+           avg_disc:null, member:723 },
+      3: { start:'2026-01-01', end:'2026-04-24',
+           gmv:198743, gmv_last:165000, orders:218, aov:912,
+           inv_qty:1340, inv_sku:87, turns:48.2,
+           dead_qty:1068, dead_pct:79.7,
+           vip:312, vip_rate:14.3, vip_rp:892, vip_rp_rate:7.6,
+           sell7:763, sell7_rate:41.3, sell30:2876, sell30_rate:67.2,
+           top3:['李志婕','龚瑶','潘群芳'], top3_gmv:139890, top3_pct:70.4,
+           avg_disc:null, member:1280 }
+    }
+  },
+  A056: {
+    name: '孝感吾悦', short: '孝感',
+    ranges: {
+      0: { start:'2026-04-18', end:'2026-04-24',
+           gmv:8934, gmv_last:12100, orders:9, aov:993,
+           inv_qty:890, inv_sku:63, turns:4.3,
+           dead_qty:623, dead_pct:70.0,
+           vip:8, vip_rate:8.9, vip_rp:12.8, vip_rp_rate:4.3,
+           sell7:412, sell7_rate:38.7, sell30:1876, sell30_rate:63.6,
+           top3:['王丽','赵敏','陈芳'], top3_gmv:6230, top3_pct:69.7,
+           avg_disc:null, member:41 },
+      1: { start:'2026-03-26', end:'2026-04-24',
+           gmv:42100, gmv_last:39800, orders:47, aov:896,
+           inv_qty:890, inv_sku:63, turns:10.2,
+           dead_qty:623, dead_pct:70.0,
+           vip:42, vip_rate:10.1, vip_rp:98, vip_rp_rate:5.1,
+           sell7:412, sell7_rate:38.7, sell30:1876, sell30_rate:63.6,
+           top3:['王丽','赵敏','陈芳'], top3_gmv:29120, top3_pct:69.2,
+           avg_disc:null, member:298 },
+      2: { start:'2026-02-24', end:'2026-04-24',
+           gmv:78234, gmv_last:71000, orders:89, aov:879,
+           inv_qty:890, inv_sku:63, turns:18.4,
+           dead_qty:623, dead_pct:70.0,
+           vip:78, vip_rate:10.2, vip_rp:234, vip_rp_rate:5.6,
+           sell7:412, sell7_rate:38.7, sell30:1876, sell30_rate:63.6,
+           top3:['王丽','陈芳','赵敏'], top3_gmv:54200, top3_pct:69.3,
+           avg_disc:null, member:512 },
+      3: { start:'2026-01-01', end:'2026-04-24',
+           gmv:143280, gmv_last:124000, orders:163, aov:879,
+           inv_qty:890, inv_sku:63, turns:33.8,
+           dead_qty:623, dead_pct:70.0,
+           vip:138, vip_rate:9.8, vip_rp:498, vip_rp_rate:5.6,
+           sell7:412, sell7_rate:38.7, sell30:1876, sell30_rate:63.6,
+           top3:['王丽','陈芳','赵敏'], top3_gmv:99200, top3_pct:69.2,
+           avg_disc:null, member:918 }
+    }
+  },
+  A793: {
+    name: '蕲春大中华', short: '蕲春',
+    ranges: {
+      0: { start:'2026-04-18', end:'2026-04-24',
+           gmv:18234, gmv_last:14320, orders:19, aov:960,
+           inv_qty:620, inv_sku:48, turns:3.8,
+           dead_qty:186, dead_pct:30.0,
+           vip:31, vip_rate:18.2, vip_rp:48.2, vip_rp_rate:7.8,
+           sell7:1234, sell7_rate:58.2, sell30:4120, sell30_rate:82.1,
+           top3:['刘洋','周婷','吴娟'], top3_gmv:14320, top3_pct:78.5,
+           avg_disc:null, member:89 },
+      1: { start:'2026-03-26', end:'2026-04-24',
+           gmv:67340, gmv_last:55200, orders:72, aov:935,
+           inv_qty:620, inv_sku:48, turns:9.2,
+           dead_qty:186, dead_pct:30.0,
+           vip:118, vip_rate:18.7, vip_rp:287, vip_rp_rate:8.1,
+           sell7:1234, sell7_rate:58.2, sell30:4120, sell30_rate:82.1,
+           top3:['刘洋','周婷','吴娟'], top3_gmv:52800, top3_pct:78.4,
+           avg_disc:null, member:489 },
+      2: { start:'2026-02-24', end:'2026-04-24',
+           gmv:108720, gmv_last:92300, orders:118, aov:921,
+           inv_qty:620, inv_sku:48, turns:16.8,
+           dead_qty:186, dead_pct:30.0,
+           vip:204, vip_rate:19.1, vip_rp:598, vip_rp_rate:8.8,
+           sell7:1234, sell7_rate:58.2, sell30:4120, sell30_rate:82.1,
+           top3:['刘洋','周婷','吴娟'], top3_gmv:84300, top3_pct:77.5,
+           avg_disc:null, member:723 },
+      3: { start:'2026-01-01', end:'2026-04-24',
+           gmv:187340, gmv_last:158000, orders:203, aov:923,
+           inv_qty:620, inv_sku:48, turns:30.8,
+           dead_qty:186, dead_pct:30.0,
+           vip:342, vip_rate:18.6, vip_rp:1280, vip_rp_rate:9.4,
+           sell7:1234, sell7_rate:58.2, sell30:4120, sell30_rate:82.1,
+           top3:['刘洋','周婷','吴娟'], top3_gmv:143200, top3_pct:76.4,
+           avg_disc:null, member:1128 }
+    }
+  },
+  A116: {
+    name: '咸宁中商', short: '咸宁',
+    ranges: {
+      0: { start:'2026-04-18', end:'2026-04-24',
+           gmv:4890, gmv_last:8920, orders:5, aov:978,
+           inv_qty:780, inv_sku:54, turns:2.8,
+           dead_qty:624, dead_pct:80.0,
+           vip:3, vip_rate:6.1, vip_rp:4.2, vip_rp_rate:2.8,
+           sell7:189, sell7_rate:21.3, sell30:892, sell30_rate:41.8,
+           top3:['张兰','孙娟','郑丽'], top3_gmv:3670, top3_pct:75.1,
+           avg_disc:null, member:23 },
+      1: { start:'2026-03-26', end:'2026-04-24',
+           gmv:28920, gmv_last:32400, orders:31, aov:933,
+           inv_qty:780, inv_sku:54, turns:6.8,
+           dead_qty:624, dead_pct:80.0,
+           vip:18, vip_rate:6.3, vip_rp:29.8, vip_rp_rate:3.2,
+           sell7:189, sell7_rate:21.3, sell30:892, sell30_rate:41.8,
+           top3:['张兰','孙娟','郑丽'], top3_gmv:21430, top3_pct:74.1,
+           avg_disc:null, member:178 },
+      2: { start:'2026-02-24', end:'2026-04-24',
+           gmv:52430, gmv_last:49000, orders:57, aov:920,
+           inv_qty:780, inv_sku:54, turns:12.4,
+           dead_qty:624, dead_pct:80.0,
+           vip:31, vip_rate:6.5, vip_rp:68.4, vip_rp_rate:3.8,
+           sell7:189, sell7_rate:21.3, sell30:892, sell30_rate:41.8,
+           top3:['张兰','孙娟','郑丽'], top3_gmv:38890, top3_pct:74.2,
+           avg_disc:null, member:318 },
+      3: { start:'2026-01-01', end:'2026-04-24',
+           gmv:98432, gmv_last:89000, orders:108, aov:911,
+           inv_qty:780, inv_sku:54, turns:23.1,
+           dead_qty:624, dead_pct:80.0,
+           vip:56, vip_rate:6.2, vip_rp:142, vip_rp_rate:3.6,
+           sell7:189, sell7_rate:21.3, sell30:892, sell30_rate:41.8,
+           top3:['张兰','孙娟','郑丽'], top3_gmv:72800, top3_pct:73.9,
+           avg_disc:null, member:598 }
+    }
+  }
+};
+
+const RANGES = [
+  { label:'7天',  days:7 },
+  { label:'30天', days:30 },
+  { label:'60天', days:60 },
+  { label:'全年', days:999 }
+];
+
+const RANGE_KEYS = [0, 1, 2, 3];
+
+let curShop = 'A793';
+let curRange = 0;
+
+// ═══════════════════════════════════════════════
+// HELPERS
+// ═══════════════════════════════════════════════
+const fmt = n => n == null ? '—' : n >= 10000 ? (n/10000).toFixed(1)+'万' : n.toLocaleString();
+const pct = (a, b) => b ? ((a/b)*100).toFixed(1)+'%' : '—';
+const f2  = n => n == null ? '—' : n.toFixed(1);
+const trend = (cur, last) => {
+  if (!last) return '<span class="fl">—</span>';
+  const chg = ((cur-last)/last*100).toFixed(1);
+  return chg > 0 ? `<span class="up">▲ +${chg}%</span>` : `<span class="dn">▼ ${chg}%</span>`;
+};
+const scoreClass = s => s>=60 ? 'pill-high' : s>=40 ? 'pill-mid' : 'pill-low';
+const kpiClass = (v, warn, danger) => v==null?'warn': v>=danger?'good': v>=warn?'warn':'danger';
+const barColor = (v, warn, danger) => v>=danger?'#238636': v>=warn?'#d29922':'#da3633';
+
+function calcScore(d, r) {
+  let s = 0;
+  // 销售趋势 25分
+  const st = ((d.gmv - d.gmv_last)/d.gmv_last)*100;
+  s += st >= 5 ? 25 : st >= 0 ? 18 : st >= -10 ? 10 : 3;
+  // 库存健康 25分
+  s += d.dead_pct <= 30 ? 25 : d.dead_pct <= 50 ? 18 : d.dead_pct <= 65 ? 10 : 3;
+  // VIP运营 25分
+  s += d.vip_rate >= 18 ? 25 : d.vip_rate >= 12 ? 18 : d.vip_rate >= 8 ? 10 : 3;
+  // 售罄率 25分
+  s += d.sell7_rate >= 55 ? 25 : d.sell7_rate >= 40 ? 18 : d.sell7_rate >= 25 ? 10 : 3;
+  return Math.round(s);
+}
+
+function buildSidebar() {
+  const sb = document.getElementById('shopSidebar');
+  sb.innerHTML = '';
+  Object.keys(DATA).forEach(code => {
+    const d = DATA[code].ranges[curRange];
+    const score = calcScore(d, curRange);
+    const sc = scoreClass(score);
+    const div = document.createElement('div');
+    div.className = 'shop-card' + (code===curShop?' active':'');
+    div.innerHTML = `<div class="shop-name">${DATA[code].name}</div><div class="shop-score"><span class="score-pill ${sc}">${score}</span><span style="margin-left:6px">${fmt(d.gmv)}元</span></div>`;
+    div.onclick = () => { curShop=code; buildSidebar(); render(); };
+    sb.appendChild(div);
+  });
+}
+
+function buildGlobalKPI() {
+  const kpi = document.createElement('div');
+  kpi.className = 'kpi-strip';
+  const total = {
+    gmv: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].gmv,0),
+    gmv_last: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].gmv_last,0),
+    orders: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].orders,0),
+    dead: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].dead_qty,0),
+    total: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].inv_qty,0),
+    vip: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].vip,0),
+    vip_rp: Object.values(DATA).reduce((s,d)=>s+d.ranges[curRange].vip_rp,0),
+  };
+  total.vip_rate = total.gmv ? (total.vip/total.orders*100) : 0;
+  const deadPct = total.total ? (total.dead/total.total*100) : 0;
+  const vipRpRate = total.vip_rp / (total.gmv/100) * 100;
+
+  kpi.innerHTML = `
+    <div class="kpi-card">
+      <div class="v" style="color:#58a6ff">${fmt(total.gmv)}</div>
+      <div class="lbl">四店总GMV</div>
+      <div class="trend">${trend(total.gmv,total.gmv_last)}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="v">${total.orders}</div>
+      <div class="lbl">总订单数</div>
+      <div class="sub">均AOV ${fmt(total.gmv/total.orders)}</div>
+    </div>
+    <div class="kpi-card">
+      <div class="v" style="color:${deadPct>65?'#f85149':'#3fb950'}">${deadPct.toFixed(1)}%</div>
+      <div class="lbl">平均死库率</div>
+      <div class="sub">死库 ${total.dead} 件</div>
+    </div>
+    <div class="kpi-card">
+      <div class="v" style="color:${total.vip_rate>12?'#3fb950':'#d29922'}">${total.vip_rate.toFixed(1)}%</div>
+      <div class="lbl">VIP订单占比</div>
+      <div class="sub">复购率 ${vipRpRate.toFixed(1)}%</div>
+    </div>
+    <div class="kpi-card">
+      <div class="v">${total.vip}</div>
+      <div class="lbl">活跃VIP数</div>
+      <div class="sub">会员 ${total.orders} 人</div>
+    </div>
+  `;
+  return kpi;
+}
+
+function buildDeadBars() {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `<div class="card-title">💀 死库库存 · 四店对比</div>`;
+  Object.keys(DATA).forEach(code => {
+    const d = DATA[code].ranges[curRange];
+    const w = Math.min(d.dead_pct, 100);
+    const row = document.createElement('div');
+    row.className = 'dead-row';
+    row.innerHTML = `
+      <div class="dead-label">${DATA[code].short}</div>
+      <div class="dead-bar-wrap"><div class="dead-bar" style="width:${w}%"></div></div>
+      <div class="dead-pct">${d.dead_pct.toFixed(1)}%</div>
+    `;
+    card.appendChild(row);
+  });
+  return card;
+}
+
+function buildRadar() {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `<div class="card-title">📡 四维雷达 · ${RANGES[curRange].label}</div>
+    <canvas id="radarCanvas" width="260" height="220"></canvas>`;
+  setTimeout(()=>drawRadar(), 0);
+  return card;
+}
+
+function drawRadar() {
+  const canvas = document.getElementById('radarCanvas');
+  if(!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const W=canvas.width, H=canvas.height, cx=W/2, cy=H/2-10, r=80;
+  ctx.clearRect(0,0,W,H);
+
+  // Axes + grids
+  const axes = ['GMV强度','库存周转','VIP复购','售罄率'];
+  const shops = Object.keys(DATA);
+  const colors = ['#58a6ff','#3fb950','#d29922','#f85149'];
+  const n = axes.length;
+
+  for(let ring=1;ring<=4;ring++){
+    ctx.beginPath();
+    for(let i=0;i<n;i++){
+      const a = (i*2*Math.PI/n) - Math.PI/2;
+      const rr = r*(ring/4);
+      ctx.lineTo(cx+rr*Math.cos(a), cy+rr*Math.sin(a));
+    }
+    ctx.closePath();
+    ctx.strokeStyle='#30363d'; ctx.lineWidth=.5; ctx.stroke();
+  }
+  for(let i=0;i<n;i++){
+    const a = (i*2*Math.PI/n) - Math.PI/2;
+    ctx.beginPath();
+    ctx.moveTo(cx,cy); ctx.lineTo(cx+r*Math.cos(a), cy+r*Math.sin(a));
+    ctx.strokeStyle='#30363d'; ctx.lineWidth=.5; ctx.stroke();
+    ctx.fillStyle='#8b949e'; ctx.font='10px sans-serif';
+    ctx.textAlign='center';
+    const tx=cx+(r+18)*Math.cos(a), ty=cy+(r+18)*Math.sin(a);
+    ctx.fillText(axes[i],tx,ty+3);
+  }
+
+  // Shop polygons
+  shops.forEach((code,ci)=>{
+    const d = DATA[code].ranges[curRange];
+    const max = { gmv:200000, turns:60, vip:400, sell:100 };
+    const vals = [d.gmv/max.gmv, d.turns/max.turns, d.vip/max.vip, d.sell7_rate/max.sell];
+    ctx.beginPath();
+    vals.forEach((v,i)=>{
+      const a=(i*2*Math.PI/n)-Math.PI/2;
+      const rr=Math.min(v,1)*r;
+      if(i===0) ctx.moveTo(cx+rr*Math.cos(a),cy+rr*Math.sin(a));
+      else ctx.lineTo(cx+rr*Math.cos(a),cy+rr*Math.sin(a));
+    });
+    ctx.closePath();
+    ctx.strokeStyle=colors[ci]; ctx.lineWidth=1.5; ctx.stroke();
+    ctx.fillStyle=colors[ci]+'33'; ctx.fill();
+  });
+
+  // Legend
+  shops.forEach((code,ci)=>{
+    ctx.fillStyle=colors[ci];
+    ctx.fillRect(8, H-18+ci*14, 8, 8);
+    ctx.fillStyle='#8b949e'; ctx.font='10px sans-serif';
+    ctx.textAlign='left';
+    ctx.fillText(DATA[code].short, 20, H-11+ci*14);
+  });
+}
+
+function buildCompareTable() {
+  const card = document.createElement('div');
+  card.className = 'card';
+  const keys = Object.keys(DATA);
+  const best = k => {
+    const vals = keys.map(c=>DATA[c].ranges[curRange][k]).filter(v=>v!=null);
+    return Math.max(...vals);
+  };
+  const gmvBest = best('gmv');
+  const deadBest = best('dead_pct');
+  const vipBest = best('vip_rate');
+  const sellBest = best('sell7_rate');
+
+  let html = `<div class="card-title">📊 横向指标对比 · ${RANGES[curRange].label}</div>
+  <table class="std-table"><thead><tr><th>指标</th>`;
+  keys.forEach(c=>html+=`<th>${DATA[c].short}</th>`);
+  html+=`</tr></thead><tbody>`;
+
+  const rows = [
+    ['GMV（元）','gmv',fmt,'up'],
+    ['订单数','orders',n=>n,'up'],
+    ['AOV','aov',fmt,'up'],
+    ['死库率','dead_pct',v=>v?'<span class="cb">'+v.toFixed(1)+'%</span>':'—','dn'],
+    ['周转天数','turns',f2,'up'],
+    ['VIP订单占比','vip_rate',v=>v?f2(v)+'%':'—','up'],
+    ['VIP复购率','vip_rp_rate',v=>v?f2(v)+'%':'—','up'],
+    ['7天售罄率','sell7_rate',v=>v?f2(v)+'%':'—','up'],
+    ['30天售罄率','sell30_rate',v=>v?f2(v)+'%':'—','up'],
+    ['综合评分','score',(v,c)=>`<span class="score-pill ${scoreClass(v)}">${v}</span>`,'up'],
+  ];
+  rows.forEach(([lbl,k,fn])=>{
+    html+=`<tr><td>${lbl}</td>`;
+    keys.forEach(c=>{
+      const v = DATA[c].ranges[curRange][k];
+      if(k==='score'){
+        html+=`<td style="text-align:center">${fn(v,c)}</td>`;
+      } else {
+        const bv = k==='dead_pct' ? best('dead_pct') : best(k);
+        const isBest = v!=null && (k==='dead_pct' ? v<=bv : v>=bv);
+        const cls = k==='dead_pct' ? (v>65?'cb':v>40?'cm':'ck') : (k==='turns'? (v>40?'cb':v>25?'cm':'ck') : '');
+        html+=`<td class="${cls}" style="text-align:right">${isBest?'<b>★ </b>':''}${fn(v,c)}</td>`;
+      }
+    });
+    html+=`</tr>`;
+  });
+  html+=`</tbody></table>`;
+  card.innerHTML = html;
+  return card;
+}
+
+// ═══════════════════════════════════════════════
+// SHOP-LEVEL CONTENT
+// ═══════════════════════════════════════════════
+function shopKPIStrip(d) {
+  const kpi = document.createElement('div');
+  kpi.className = 'kpi-strip';
+  kpi.innerHTML = `
+    <div class="kpi-card"><div class="v" style="color:#58a6ff">${fmt(d.gmv)}</div><div class="lbl">GMV</div><div class="trend">${trend(d.gmv,d.gmv_last)}</div></div>
+    <div class="kpi-card"><div class="v">${d.orders}</div><div class="lbl">订单</div><div class="sub">AOV ${fmt(d.aov)}</div></div>
+    <div class="kpi-card"><div class="v" style="color:${d.dead_pct>65?'#f85149':'#3fb950'}">${d.dead_pct.toFixed(1)}%</div><div class="lbl">死库率</div><div class="sub">死库 ${d.dead_qty} 件</div></div>
+    <div class="kpi-card"><div class="v">${d.turns.toFixed(0)}天</div><div class="lbl">周转天数</div><div class="sub">SKU ${d.inv_sku} 个</div></div>
+    <div class="kpi-card"><div class="v" style="color:${d.vip_rate>12?'#3fb950':'#d29922'}">${d.vip_rate.toFixed(1)}%</div><div class="lbl">VIP占比</div><div class="sub">活跃 ${d.vip} 人</div></div>
+  `;
+  return kpi;
+}
+
+function shopAlerts(d, score) {
+  const alerts = document.createElement('div');
+  alerts.className = 'alerts';
+  const items = [];
+  if(d.dead_pct > 65) items.push({t:'danger', m:`死库率 <b>${d.dead_pct.toFixed(1)}%</b> 超过警戒线65%，需立即启动清仓`});
+  if(d.gmv < d.gmv_last) items.push({t:'danger', m:`GMV 同比下滑 <b>${(((d.gmv-d.gmv_last)/d.gmv_last)*100).toFixed(1)}%</b>，需分析原因`});
+  if(d.vip_rate < 10) items.push({t:'orange', m:`VIP订单占比 <b>${d.vip_rate.toFixed(1)}%</b> 低于10%，VIP运营需加强`});
+  if(d.sell7_rate < 40) items.push({t:'orange', m:`7天售罄率 <b>${d.sell7_rate.toFixed(1)}%</b> 偏低，当季动销需提升`});
+  if(d.turns > 50) items.push({t:'orange', m:`周转天数 <b>${d.turns.toFixed(0)}天</b> 偏慢，库存结构需优化`});
+  if(score >= 60) items.push({t:'blue', m:`综合评分 <b>${score}</b>，整体运营健康，持续保持`});
+  items.forEach(i=>{
+    const div=document.createElement('div');
+    div.className=`alert alert-${i.t}`;
+    div.innerHTML=`<div class="alert-dot"></div><div>${i.m}</div>`;
+    alerts.appendChild(div);
+  });
+  return alerts;
+}
+
+function buildPriorityMatrix(d) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  const p = [];
+  if(d.dead_pct > 65) p.push({l:'P1 死库危机', t:`死库率${d.dead_pct.toFixed(1)}%超警戒线，需立即处理`});
+  if(d.gmv < d.gmv_last) p.push({l:'P1 销售下滑', t:`GMV同比下降${(((d.gmv-d.gmv_last)/d.gmv_last)*100).toFixed(1)}%`});
+  if(d.vip_rate < 10 && d.vip_rate >= 6) p.push({l:'P2 VIP疲软', t:`VIP占比${d.vip_rate.toFixed(1)}%低于均值`});
+  if(d.sell7_rate < 40 && d.sell7_rate >= 25) p.push({l:'P2 售罄偏低', t:`7天售罄率${d.sell7_rate.toFixed(1)}%，动销需提升`});
+  if(d.turns > 50) p.push({l:'P2 周转过慢', t:`周转${d.turns.toFixed(0)}天，影响资金效率`});
+  if(d.vip_rate >= 10) p.push({l:'P3 VIP可挖', t:`VIP贡献${d.vip_rate.toFixed(1)}%，可进一步激活`});
+  p.push({l:'P3 持续优化', t:'TOP3 占比${d.top3_pct.toFixed(1)}%，关注梯队建设'});
+
+  let html=`<div class="card-title">🎯 优先级矩阵</div>`;
+  p.slice(0,3).forEach(i=>{
+    const cls=i.l.startsWith('P1')?'p1':i.l.startsWith('P2')?'p2':'p3';
+    html+=`<div class="action-card ${cls}"><div class="action-header"><span class="priority-badge badge-${cls.replace('p','b')}">${i.l}</span></div><div style="font-size:12px;color:#8b949e">${i.t}</div></div>`;
+  });
+  card.innerHTML=html;
+  return card;
+}
+
+// ═══════════════════════════════════════════════
+// PLAN TAB
+// ═══════════════════════════════════════════════
+function buildPlan(d, score) {
+  const p = document.createElement('div');
+  p.className = 'pdca-panel active';
+
+  const shopSum = document.createElement('div');
+  shopSum.className = 'shop-sum';
+  const level = score>=60?'ss-good':score>=40?'ss-mid':'ss-low';
+  const levelTxt = score>=60?'运营健康':score>=40?'轻度预警':'紧急干预';
+  shopSum.innerHTML=`<div><div class="ss-name">${DATA[curShop].name}</div><div style="font-size:11px;color:#8b949e">综合评分</div></div><div><div class="ss-badge ${level}">${score} 分 · ${levelTxt}</div></div>`;
+
+  const grid = document.createElement('div');
+  grid.className='grid2';
+
+  // KPI Squares
+  const kpiCard = document.createElement('div');
+  kpiCard.className='card';
+  const sellCls = d.sell7_rate>=55?'good':d.sell7_rate>=40?'warn':'danger';
+  const vipCls  = d.vip_rate>=18?'good':d.vip_rate>=12?'warn':'danger';
+  const deadCls = d.dead_pct<=30?'good':d.dead_pct<=50?'warn':'danger';
+  kpiCard.innerHTML=`<div class="card-title">📊 KPI 快照 · ${RANGES[curRange].label}</div>
+    <div class="kpi-grid">
+      <div class="kpi-box ${sellCls}"><div class="val">${d.sell7_rate.toFixed(1)}%</div><div class="lbl">7天售罄率</div></div>
+      <div class="kpi-box ${sellCls}"><div class="val">${d.sell30_rate.toFixed(1)}%</div><div class="lbl">30天售罄率</div></div>
+      <div class="kpi-box ${vipCls}"><div class="val">${d.vip_rate.toFixed(1)}%</div><div class="lbl">VIP订单占比</div></div>
+      <div class="kpi-box ${vipCls}"><div class="val">${d.vip_rp_rate.toFixed(1)}%</div><div class="lbl">VIP复购率</div></div>
+      <div class="kpi-box ${deadCls}"><div class="val">${d.dead_pct.toFixed(1)}%</div><div class="lbl">死库率</div></div>
+      <div class="kpi-box"><div class="val">${d.turns.toFixed(0)}天</div><div class="lbl">库存周转</div></div>
+      <div class="kpi-box"><div class="val">${fmt(d.gmv)}</div><div class="lbl">GMV</div></div>
+      <div class="kpi-box"><div class="val">${d.aov}</div><div class="lbl">AOV</div></div>
+    </div>`;
+
+  // TOP3
+  const top3Card = document.createElement('div');
+  top3Card.className='card';
+  top3Card.innerHTML=`<div class="card-title">🏆 TOP3 导购 · ${RANGES[curRange].label}</div>
+    <div class="kpi-grid" style="grid-template-columns:1fr 1fr 1fr">
+      <div class="kpi-box good"><div class="val">①</div><div class="lbl">${d.top3[0]||'—'}</div></div>
+      <div class="kpi-box" style="border-color:#30363d;background:#0d1117"><div class="val">②</div><div class="lbl">${d.top3[1]||'—'}</div></div>
+      <div class="kpi-box" style="border-color:#30363d;background:#0d1117"><div class="val">③</div><div class="lbl">${d.top3[2]||'—'}</div></div>
+    </div>
+    <div style="margin-top:10px;font-size:12px;color:#8b949e">TOP3 GMV占比 <b style="color:#58a6ff">${d.top3_pct.toFixed(1)}%</b></div>`;
+
+  grid.appendChild(kpiCard);
+  grid.appendChild(top3Card);
+
+  const deadCard = document.createElement('div');
+  deadCard.className='card';
+  let deadHtml=`<div class="card-title">💀 库存结构 · ${RANGES[curRange].label}</div>
+    <div class="bar-chart"><div class="bar-label"><span>总库存</span><span>${d.inv_qty} 件</span></div><div class="bar-track"><div class="bar-fill" style="width:100%;background:#21262d"></div></div></div>
+    <div class="bar-chart"><div class="bar-label"><span>活跃库存</span><span>${(d.inv_qty-d.dead_qty)} 件</span></div><div class="bar-track"><div class="bar-fill" style="width:${100-d.dead_pct}%;background:#238636"></div></div></div>
+    <div class="bar-chart"><div class="bar-label"><span>死库</span><span>${d.dead_qty} 件</span></div><div class="bar-track"><div class="bar-fill" style="width:${d.dead_pct}%;background:#da3633"></div></div></div>`;
+  deadCard.innerHTML=deadHtml;
+
+  p.appendChild(shopSum);
+  p.appendChild(buildShopKPISection(d));
+  p.appendChild(grid);
+  p.appendChild(buildDeadSection(d));
+  return p;
+}
+
+function buildShopKPISection(d) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `<div class="card-title">📈 核心指标趋势 · ${RANGES[curRange].label}</div>
+    <div class="grid3">
+      <div>
+        <div class="bar-chart"><div class="bar-label"><span>GMV</span><span>${fmt(d.gmv)} ${trend(d.gmv,d.gmv_last)}</span></div><div class="bar-track"><div class="bar-fill" style="width:${Math.min(d.gmv/200000*100,100)}%;background:#58a6ff"></div></div></div>
+        <div class="bar-chart"><div class="bar-label"><span>VIP贡献</span><span>${fmt(d.vip_rp)} ${d.vip_rp_rate?d.vip_rp_rate.toFixed(1)+'%':''}</span></div><div class="bar-track"><div class="bar-fill" style="width:${Math.min(d.vip_rp_rate*10,100)}%;background:#d29922"></div></div></div>
+      </div>
+      <div>
+        <div class="bar-chart"><div class="bar-label"><span>7天售罄率</span><span>${d.sell7_rate.toFixed(1)}%</span></div><div class="bar-track"><div class="bar-fill" style="width:${d.sell7_rate}%;background:${barColor(d.sell7_rate,40,55)}"></div></div></div>
+        <div class="bar-chart"><div class="bar-label"><span>30天售罄率</span><span>${d.sell30_rate.toFixed(1)}%</span></div><div class="bar-track"><div class="bar-fill" style="width:${d.sell30_rate}%;background:${barColor(d.sell30_rate,50,70)}"></div></div></div>
+      </div>
+      <div>
+        <div class="bar-chart"><div class="bar-label"><span>死库率</span><span>${d.dead_pct.toFixed(1)}%</span></div><div class="bar-track"><div class="bar-fill" style="width:${d.dead_pct}%;background:${barColor(d.dead_pct,50,65)}"></div></div></div>
+        <div class="bar-chart"><div class="bar-label"><span>周转天数</span><span>${d.turns.toFixed(0)}天</span></div><div class="bar-track"><div class="bar-fill" style="width:${Math.min(d.turns/60*100,100)}%;background:${d.turns>50?'#da3633':d.turns>35?'#d29922':'#238636'}"></div></div></div>
+      </div>
+    </div>`;
+  return card;
+}
+
+function buildDeadSection(d) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `<div class="card-title">💀 库存结构分析 · ${RANGES[curRange].label}</div>
+    <div class="grid2">
+      <div>
+        <div class="bar-chart"><div class="bar-label"><span>总库存 SKU</span><span>${d.inv_sku} 个</span></div><div class="bar-track"><div class="bar-fill" style="width:100%;background:#21262d"></div></div></div>
+        <div class="bar-chart"><div class="bar-label"><span>活跃库存</span><span>${d.inv_qty - d.dead_qty} 件</span></div><div class="bar-track"><div class="bar-fill" style="width:${100-d.dead_pct}%;background:#238636"></div></div></div>
+        <div class="bar-chart"><div class="bar-label"><span>死库件</span><span>${d.dead_qty} 件 ⚠️</span></div><div class="bar-track"><div class="bar-fill" style="width:${d.dead_pct}%;background:#da3633"></div></div></div>
+      </div>
+      <div>
+        <div class="kpi-box ${d.dead_pct>65?'danger':d.dead_pct>40?'warn':'good'}" style="margin-bottom:8px">
+          <div class="val">${d.dead_pct.toFixed(1)}%</div><div class="lbl">死库率</div>
+        </div>
+        <div style="font-size:11px;color:#8b949e;line-height:1.6">
+          ${d.dead_pct>65?'⚠️ 超过安全线，需紧急清仓策略':'死库率可控，建议持续监控'}<br>
+          活跃件 ${d.inv_qty-d.dead_qty} / 总件 ${d.inv_qty}
+        </div>
+      </div>
+    </div>`;
+  return card;
+}
+
+// ═══════════════════════════════════════════════
+// DO TAB
+// ═══════════════════════════════════════════════
+function buildDo(d, score) {
+  const p = document.createElement('div');
+  p.className = 'pdca-panel';
+
+  const card = document.createElement('div');
+  card.className='card';
+
+  const actions = [];
+  if(d.dead_pct > 65) {
+    actions.push({p:'P1', priority:'badge-p1', cls:'action-card p1',
+      title:'死库紧急清仓行动',
+      meta:[{l:'责任人',v:'店长'},{l:'截止',v:'5月5日'},{l:'交付',v:'清仓方案+执行进度'}],
+      desc:`死库率${d.dead_pct.toFixed(1)}%严重超标。立即启动折扣专区，对60天零动销款执行7折出清，陈列到入口区域，目标是两周内死库率降至50%以下。每日晒库存截图至店长群。`});
+  }
+  if(d.gmv < d.gmv_last) {
+    actions.push({p:'P1', priority:'badge-p1', cls:'action-card p1',
+      title:'GMV下滑根因诊断',
+      meta:[{l:'责任人',v:'店长+运营'},{l:'截止',v:'5月2日'},{l:'交付',v:'分析报告+对策'}],
+      desc:`GMV同比下滑${(((d.gmv-d.gmv_last)/d.gmv_last)*100).toFixed(1)}%。需拆解到：客流/进店率/试穿率/成交率四个环节，对比去年同期找断崖节点。重点排查TOP款是否缺货或主推款折扣收早了。`});
+  }
+  if(d.vip_rate < 10) {
+    actions.push({p:'P2', priority:'badge-p2', cls:'action-card p2',
+      title:'VIP激活专项',
+      meta:[{l:'责任人',v:'VIP运营'},{l:'截止',v:'5月10日'},{l:'交付',v:'VIP名单+激活话术+回访记录'}],
+      desc:`VIP订单占比${d.vip_rate.toFixed(1)}%偏低。导出近90天未复购VIP名单，按累计消费分层（500+/1000+/2000+），匹配不同激活策略：满减券/新品优先购/专属折扣。`});
+  }
+  if(d.sell7_rate < 40) {
+    actions.push({p:'P2', priority:'badge-p2', cls:'action-card p2',
+      title:'售罄率提升计划',
+      meta:[{l:'责任人',v:'陈列+导购'},{l:'截止',v:'5月8日'},{l:'交付',v:'主推款陈列图+话术手册'}],
+      desc:`7天售罄率${d.sell7_rate.toFixed(1)}%低于健康线40%。将TOP20款前排+中岛+入口高频区域陈列，每周调整一次。导购主推话术：FAB法则（特点-优势-好处），配合限时优惠收单。`});
+  }
+  if(d.turns > 50) {
+    actions.push({p:'P2', priority:'badge-p2', cls:'action-card p2',
+      title:'库存结构优化',
+      meta:[{l:'责任人',v:'店长'},{l:'截止',v:'5月15日'},{l:'交付',v:'SKU梳理报告+调拨申请'}],
+      desc:`周转天数${d.turns.toFixed(0)}天偏慢。与相邻门店（${nearbyShop(curShop)}）发起调拨，优先调拨同款不同色的滞销SKU。同时与区域督导沟通减少下次期货铺货量。`});
+  }
+  if(score < 40) {
+    actions.push({p:'P3', priority:'badge-p3', cls:'action-card p3',
+      title:'TOP3 导购能力验证',
+      meta:[{l:'责任人',v:'店长'},{l:'截止',v:'5月20日'},{l:'交付',v:'TOP10款推销追踪表'}],
+      desc:`TOP3(${d.top3.slice(0,3).join('/')}) 推销能力需验证。追踪TOP10款在TOP3和非TOP3导购手下的成交率差异，目标：TOP10在TOP3手中占比提升至80%以上。`});
+  } else {
+    actions.push({p:'P3', priority:'badge-p3', cls:'action-card p3',
+      title:'持续优化·TOP3梯队建设',
+      meta:[{l:'责任人',v:'店长'},{l:'截止',v:'5月20日'},{l:'交付',v:'梯队培养计划'}],
+      desc:`运营健康，保持现状同时关注梯队建设。将TOP3(${d.top3.slice(0,3).join('/')})成功话术提炼成SOP，传授给其他导购，目标将TOP3+4-5名导购GMV差距缩小至15%以内。`});
+  }
+
+  let html=`<div class="card-title">🚀 行动建议 · ${RANGES[curRange].label}</div>
+    <div style="font-size:11px;color:#6e7681;margin-bottom:12px">以下行动按优先级排列，每项需在截止日前完成交付物</div>`;
+  actions.forEach(a=>{
+    html+=`<div class="${a.cls}">
+      <div class="action-header">
+        <span class="priority-badge ${a.priority}">${a.p}</span>
+        <span class="action-title">${a.title}</span>
+      </div>
+      <div style="font-size:12px;color:#8b949e;line-height:1.6;margin-top:6px">${a.desc}</div>
+      <div class="action-meta">${a.meta.map(m=>`<span><b>${m.l}：</b>${m.v}</span>`).join('')}</div>
+    </div>`;
+  });
+  card.innerHTML=html;
+  p.appendChild(card);
+  return p;
+}
+
+function nearbyShop(code) {
+  const map = {A748:'孝感吾悦',A056:'赤壁摩尔城',A793:'咸宁中商',A116:'蕲春大中华'};
+  return map[code]||'其他门店';
+}
+
+// ═══════════════════════════════════════════════
+// CHECK TAB
+// ═══════════════════════════════════════════════
+function buildCheck(d, score) {
+  const p = document.createElement('div');
+  p.className = 'pdca-panel';
+
+  const card = document.createElement('div');
+  card.className='card';
+
+  const metrics = [
+    {l:'GMV达成率', v:Math.min((d.gmv/d.gmv_last-1)*100+100,120), c:'#58a6ff', warn:90, danger:80},
+    {l:'死库率降幅', v:Math.max(100-(d.dead_pct/80*100),0), c:'#3fb950', warn:50, danger:30},
+    {l:'VIP转化率', v:d.vip_rate*5, c:'#d29922', warn:50, danger:30},
+    {l:'7天售罄率', v:d.sell7_rate, c:'#58a6ff', warn:40, danger:25},
+    {l:'30天售罄率', v:d.sell30_rate, c:'#3fb950', warn:60, danger:40},
+    {l:'TOP3占比健康度', v:d.top3_pct, c:'#58a6ff', warn:65, danger:55},
+  ];
+
+  const row = (l,v,c) => `
+    <div class="progress-row">
+      <div class="progress-lbl"><span>${l}</span><span>${v.toFixed(1)}%</span></div>
+      <div class="progress-track"><div class="progress-fill" style="width:${Math.min(v,100)}%;background:${c}"></div></div>
+    </div>`;
+
+  let html=`<div class="card-title">📐 Check · 进度追踪</div>
+    <div style="font-size:12px;color:#8b949e;margin-bottom:14px">下次店长会议时间：<b style="color:#e6edf3">${nextMeeting()}</b></div>
+    <div style="font-size:11px;color:#6e7681;margin-bottom:12px">各项指标相对于目标的达成情况（100% = 达标）</div>`;
+  metrics.forEach(m=>html+=row(m.l, m.v, m.c));
+
+  html+=`<div style="margin-top:16px;padding:10px;background:#0d1117;border-radius:8px;font-size:12px;color:#8b949e">
+    <div style="margin-bottom:6px">📅 本周期复盘问题：</div>
+    <textarea style="width:100%;background:#161b22;border:1px solid #30363d;color:#e6edf3;border-radius:6px;padding:6px;font-size:12px;resize:vertical;min-height:60px" placeholder="请在此记录本周期复盘发现..."></textarea>
+  </div>`;
+  card.innerHTML=html;
+  p.appendChild(card);
+  return p;
+}
+
+function nextMeeting() {
+  const now=new Date('2026-04-25');
+  const day=now.getDay();
+  const daysToFri=(5-day+7)%7||7;
+  const fri=new Date(now); fri.setDate(now.getDate()+daysToFri);
+  return `${fri.getMonth()+1}月${fri.getDate()}日（周五）`;
+}
+
+// ═══════════════════════════════════════════════
+// ACT TAB
+// ═══════════════════════════════════════════════
+function buildAct(d, score) {
+  const p = document.createElement('div');
+  p.className = 'pdca-panel';
+
+  // 执行标准表
+  const stdCard = document.createElement('div');
+  stdCard.className='card';
+  const deadColor = d.dead_pct>65?'cb':d.dead_pct>40?'cm':'ck';
+  const vipColor = d.vip_rate>=12?'ck':d.vip_rate>=8?'cm':'cb';
+  const sellColor = d.sell7_rate>=40?'ck':d.sell7_rate>=25?'cm':'cb';
+  stdCard.innerHTML=`<div class="card-title">📌 执行标准表 · ${DATA[curShop].name}</div>
+    <table class="std-table">
+      <thead><tr><th>指标</th><th>当前值</th><th>目标值</th><th>状态</th><th>升级触发</th></tr></thead>
+      <tbody>
+        <tr><td>死库率</td><td><b style="color:${deadColor}">${d.dead_pct.toFixed(1)}%</b></td><td>≤40%</td><td class="${deadColor}">${d.dead_pct<=40?'✅ 达标':d.dead_pct<=55?'⚠️ 预警':'🔴 超标'}</td><td>&gt;65%触发升级</td></tr>
+        <tr><td>VIP订单占比</td><td><b style="color:${vipColor}">${d.vip_rate.toFixed(1)}%</b></td><td>≥12%</td><td class="${vipColor}">${d.vip_rate>=12?'✅ 达标':d.vip_rate>=8?'⚠️ 预警':'🔴 不足'}</td><td>&lt;8%触发升级</td></tr>
+        <tr><td>7天售罄率</td><td><b style="color:${sellColor}">${d.sell7_rate.toFixed(1)}%</b></td><td>≥40%</td><td class="${sellColor}">${d.sell7_rate>=40?'✅ 达标':d.sell7_rate>=25?'⚠️ 预警':'🔴 偏低'}</td><td>&lt;25%触发升级</td></tr>
+        <tr><td>GMV趋势</td><td>${trend(d.gmv,d.gmv_last)}</td><td>正增长</td><td class="${d.gmv>=d.gmv_last?'ck':'cb'}">${d.gmv>=d.gmv_last?'✅ 增长':'🔴 下滑'}</td><td>连续2期下滑触发</td></tr>
+        <tr><td>周转天数</td><td>${d.turns.toFixed(0)}天</td><td>≤45天</td><td class="${d.turns<=45?'ck':d.turns<=55?'cm':'cb'}">${d.turns<=45?'✅ 达标':d.turns<=55?'⚠️ 偏慢':'🔴 过慢'}</td><td>&gt;60天触发升级</td></tr>
+      </tbody>
+    </table>`;
+
+  // 运营日历
+  const calCard = document.createElement('div');
+  calCard.className='card';
+  const now=new Date('2026-04-25');
+  const year=now.getFullYear(), month=now.getMonth();
+  const firstDay=new Date(year,month,1).getDay();
+  const daysInMonth=new Date(year,month+1,0).getDate();
+  const today=now.getDate();
+
+  // events: day -> label
+  const events = {};
+  if(d.dead_pct>65) {[3,10,17,24].forEach(d=>events[d]='死库跟进日'});
+  if(d.vip_rate<10) {[7,14,21,28].forEach(d=>events[d]='VIP回访日'});
+  [1,8,15,22,29].forEach(d=>events[d]='店长会议');
+  events[5]='月度复盘';
+
+  let calHtml=`<div class="card-title">📅 运营日历 · ${year}年${month+1}月</div>
+    <div class="cal-grid">
+      <div class="cal-dow">一</div><div class="cal-dow">二</div><div class="cal-dow">三</div>
+      <div class="cal-dow">四</div><div class="cal-dow">五</div><div class="cal-dow">六</div><div class="cal-dow">日</div>`;
+  const shiftDay = d => d===0?6:d-1;
+  const offset = shiftDay(firstDay);
+  for(let i=0;i<offset;i++) calHtml+=`<div></div>`;
+  for(let day=1;day<=daysInMonth;day++){
+    const ev=events[day];
+    const isToday=day===today;
+    calHtml+=`<div class="cal-day${ev?' event':''}${isToday?' today':''}" title="${ev||''}">${day}${ev?'<br><span style="font-size:9px">'+ev.split('')[0]+'</span>':''}</div>`;
+  }
+  calHtml+=`</div>`;
+  calCard.innerHTML=calHtml;
+
+  // 升级路径
+  const upCard = document.createElement('div');
+  upCard.className='card';
+  upCard.innerHTML=`<div class="card-title">⬆️ 升级路径</div>
+    <table class="std-table">
+      <thead><tr><th>触发条件</th><th>升级对象</th><th>升级内容</th></tr></thead>
+      <tbody>
+        <tr><td>死库率 &gt;65%</td><td>→ 区域督导</td><td>申请紧急折扣授权+跨店调拨</td></tr>
+        <tr><td>GMV连滑2期</td><td>→ 运营经理</td><td>分析客流结构+调整主推款</td></tr>
+        <tr><td>VIP占比 &lt;8%</td><td>→ VIP运营组</td><td>启动精准召回+专属活动</td></tr>
+        <tr><td>售罄率 &lt;25%</td><td>→ 陈列+培训</td><td>快闪+主推款强化训练</td></tr>
+      </tbody>
+    </table>`;
+
+  p.appendChild(stdCard);
+  p.appendChild(calCard);
+  p.appendChild(upCard);
+  return p;
+}
+
+// ═══════════════════════════════════════════════
+// MASTER RENDER
+// ═══════════════════════════════════════════════
+function render() {
+  const d = DATA[curShop].ranges[curRange];
+  const score = calcScore(d, curRange);
+  const main = document.getElementById('mainContent');
+
+  main.innerHTML = '';
+
+  // Alerts strip
+  main.appendChild(shopAlerts(d, score));
+
+  // Shop summary
+  const shopSum = document.createElement('div');
+  shopSum.className='shop-sum';
+  const level=score>=60?'ss-good':score>=40?'ss-mid':'ss-low';
+  const levelTxt=score>=60?'运营健康':score>=40?'轻度预警':'紧急干预';
+  shopSum.innerHTML=`<div><div class="ss-name">${DATA[curShop].name}</div><div style="font-size:11px;color:#8b949e">${RANGES[curRange].label} · 综合评分</div></div><div><div class="ss-badge ${level}">${score} 分 · ${levelTxt}</div></div><div style="margin-left:auto;text-align:right;font-size:11px;color:#8b949e">${d.start} 至 ${d.end}</div>`;
+  main.appendChild(shopSum);
+
+  // KPI strip
+  main.appendChild(shopKPIStrip(d));
+
+  // PDCA tabs
+  const tabBar = document.createElement('div');
+  tabBar.className='pdca-tabs';
+  ['📋 Plan','🚀 Do','📐 Check','📌 Act'].forEach((t,i)=>{
+    const btn=document.createElement('button');
+    btn.className='pdca-tab'+(i===0?' active':'');
+    btn.textContent=t;
+    btn.onclick=()=>{
+      document.querySelectorAll('.pdca-tab').forEach(b=>b.classList.remove('active'));
+      document.querySelectorAll('.pdca-panel').forEach(p=>p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('p'+i).classList.add('active');
+    };
+    tabBar.appendChild(btn);
+  });
+  main.appendChild(tabBar);
+
+  // PDCA panels
+  main.appendChild(buildPlan(d, score));
+  main.appendChild(buildDo(d, score));
+  main.appendChild(buildCheck(d, score));
+  main.appendChild(buildAct(d, score));
+
+  // Fix IDs
+  const panels = main.querySelectorAll('.pdca-panel');
+  panels.forEach((p,i)=>p.id='p'+i);
+
+  // Priority matrix
+  main.appendChild(buildPriorityMatrix(d));
+}
+
+// ═══════════════════════════════════════════════
+// GLOBAL VIEW (range overview)
+// ═══════════════════════════════════════════════
+function renderGlobal() {
+  const main = document.getElementById('mainContent');
+  main.innerHTML = '';
+
+  const title = document.createElement('div');
+  title.className='section-title';
+  title.textContent=`📊 四店总览 · ${RANGES[curRange].label}`;
+  main.appendChild(title);
+
+  main.appendChild(buildGlobalKPI());
+
+  const g = document.createElement('div');
+  g.className='grid2';
+  g.appendChild(buildDeadBars());
+  g.appendChild(buildRadar());
+  main.appendChild(g);
+
+  main.appendChild(buildCompareTable());
+}
+
+// ═══════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════
+function setRange(idx, btn) {
+  curRange = idx;
+  document.querySelectorAll('.tr-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  buildSidebar();
+  renderGlobal();
+}
+
+function init() {
+  buildSidebar();
+  renderGlobal();
+}
+
+init();
+</script>
+</body>
+</html>
