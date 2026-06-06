@@ -101,29 +101,73 @@ class RetrievalResult:
             "timestamp": self.timestamp
         }
 
-    def print_summary(self):
-        """格式化输出——用于直接展示"""
-        print(f"\n{'='*50}")
-        print(f"查询：{self.query}")
-        print(f"置信度：{self.confidence}")
-        print(f"{'─'*50}")
-        print(f"\n📌 回答：\n{self.answer}\n")
+    def print_summary(self, format: str = "text"):
+        """格式化输出——用于直接展示
+        format: text | json | compact
+        """
+        if format == "json":
+            import json
+            print(json.dumps(self.to_dict(), ensure_ascii=True, indent=2))
+            return
+
+        if format == "compact":
+            # 紧凑输出：单行摘要
+            print(f"\n[查询] {self.query}")
+            print(f"[置信度] {self.confidence}")
+            print(f"[来源] {len(self.sources)}条")
+            for s in self.sources[:3]:
+                print(f"  - {s['L3_name']} ({s['type']})")
+            print(f"[建议] 输入 --suggest 查看更多查询建议")
+            return
+
+        # 移除答案中的emoji避免GBK编码问题
+        answer_clean = self._remove_emoji(self.answer)
+
+        print(f"\n{'='*60}")
+        print(f"[查询] {self.query}")
+        print(f"[置信度] {self.confidence}")
+        print(f"{'-'*60}")
+        print(f"\n[回答]\n{answer_clean}\n")
         if self.sources:
-            print(f"📎 来源（共{len(self.sources)}条）：")
+            print(f"[来源] 共{len(self.sources)}条：")
             for i, s in enumerate(self.sources, 1):
-                print(f"  [{i}] {s['type'].upper()} | {s['path']}")
-                if s.get("line_range"):
-                    print(f"      位置：第{s['line_range'][0]}-{s['line_range'][1]}行")
+                print(f"  [{i}] {s['type'].upper()} | {s['L2_name']} / {s['L3_name']}")
+                print(f"      路径：{s['path']}")
                 if s.get("content"):
-                    snippet = s["content"][:200].replace("\n", " ")
-                    print(f"      摘录：「{snippet}」")
+                    snippet = s["content"][:150].replace("\n", " ")
+                    print(f"      摘录：{snippet}...")
                 if s.get("version"):
                     print(f"      版本：{s['version']}")
+                print()
         if self.unverified:
-            print(f"\n⚠️ 未核实内容（用户提供，需独立验证）：")
+            print(f"[警告] 未核实内容（用户提供，需独立验证）：")
             for u in self.unverified:
                 print(f"  - {u}")
-        print(f"\n{'='*50}")
+        if self.related_entries:
+            print(f"[相关条目]")
+            for e in self.related_entries[:3]:
+                print(f"  - {e['name']}（{e['L2']}）")
+        print(f"{'='*60}")
+
+    @staticmethod
+    def _remove_emoji(text):
+        """移除文本中的emoji，避免GBK编码错误"""
+        import re
+        emoji_pattern = re.compile(
+            "[\U0001F600-\U0001F64F"  # emoticons
+            "\U0001F300-\U0001F5FF"  # symbols & pictographs
+            "\U0001F680-\U0001F6FF"  # transport & map symbols
+            "\U0001F700-\U0001F77F"  # alchemical symbols
+            "\U0001F780-\U0001F7FF"  # Geometric Shapes Extended
+            "\U0001F800-\U0001F8FF"  # Supplemental Arrows-C
+            "\U0001F900-\U0001F9FF"  # Supplemental Symbols and Pictographs
+            "\U0001FA00-\U0001FA6F"  # Chess Symbols
+            "\U0001FA70-\U0001FAFF"  # Symbols and Pictographs Extended-A
+            "\U00002702-\U000027B0"  # Dingbats
+            "\U000024C2-\U0001F251"  # enclosed characters
+            "]+", flags=re.UNICODE
+        )
+        return emoji_pattern.sub(r'', text)
 
 
 # ══════════════════════════════════════════════════════
@@ -682,10 +726,28 @@ def add_kb_entry(L2_id: str, L3_name: str, content: str,
 # 第五部分：主检索函数（对外接口）
 # ══════════════════════════════════════════════════════
 
+def get_suggested_queries(index: dict = None) -> list:
+    """返回建议查询列表"""
+    if index is None:
+        index = load_index()
+    return index.get("suggested_queries", [
+        "未动销率行业基准", "VIP分层策略", "TOP导购识别方法",
+        "男装售罄率", "存货周转天数"
+    ])
+
+
+def get_hot_queries(index: dict = None) -> list:
+    """返回热门查询统计"""
+    if index is None:
+        index = load_index()
+    return index.get("hot_queries", [])
+
+
 def retrieve(query: str,
              content_type: str = None,
              level_filter: str = None,
-             top_k: int = 3) -> RetrievalResult:
+             top_k: int = 3,
+             output_format: str = "text") -> RetrievalResult:
     """
     知识库主检索函数。
 
@@ -777,6 +839,14 @@ def retrieve(query: str,
         for m in matches[3:6]
     ]
 
+    # JSON输出支持
+    if output_format == "json":
+        import json as _json
+        result.json_output = _json.dumps(result.to_dict(), ensure_ascii=False, indent=2)
+        result.output_format = "json"
+    else:
+        result.output_format = "text"
+
     return result
 
 
@@ -786,17 +856,49 @@ def retrieve(query: str,
 
 def main():
     if len(sys.argv) < 2:
-        print("用法: python retrieval_mod.py <查询关键词> [--type md|excel|pdf|image|ppt|link]")
-        print("示例: python retrieval_mod.py 死库率行业基准")
-        print("      python retrieval_mod.py 太平鸟男装周转 --type md")
-        print()
-        print("交互模式: python retrieval_mod.py --interactive")
+        print("""Fashion Doctor 知识库检索
+════════════════════════════════════════════════════════════
+用法: 
+  python retrieval_mod.py <查询词> [--选项]
+  python retrieval_mod.py --suggest        # 查看建议查询
+  python retrieval_mod.py --hot            # 查看热门查询
+  python retrieval_mod.py --list [L2]     # 列出条目
+  python retrieval_mod.py --stat           # 统计摘要
+
+选项:
+  --type md|excel|pdf|image|ppt|link       # 内容类型筛选
+  --top-k N                                # 每文件最多段落数（默认3）
+  --json                                   # JSON格式输出
+  --compact                                # 紧凑输出
+  --interactive                            # 交互模式
+
+示例:
+  python retrieval_mod.py 死库率行业基准
+  python retrieval_mod.py 太平鸟男装 --type md --json
+  python retrieval_mod.py VIP分层 --compact
+""")
         return
 
     args = sys.argv[1:]
+
+    # 特殊命令
+    if "--suggest" in args:
+        suggestions = get_suggested_queries()
+        print("\n💡 建议查询词：")
+        for i, s in enumerate(suggestions, 1):
+            print(f"  {i}. {s}")
+        return
+
+    if "--hot" in args:
+        hot = get_hot_queries()
+        print("\n🔥 热门查询：")
+        for h in hot:
+            print(f"  [{h['count']}] {h['query']} - {h['desc']}")
+        return
+
     if "--interactive" in args:
-        print("🔍 Fashion Doctor 知识库检索（交互模式）")
-        print("输入查询内容，或按 Ctrl+C 退出\n")
+        print("[Fashion Doctor 知识库 - 交互模式]")
+        print("输入查询内容，输入 --suggest 查看建议，输入 --hot 查看热门，或按 Ctrl+C 退出\n")
         while True:
             try:
                 q = input("查询> ").strip()
@@ -804,20 +906,33 @@ def main():
                     continue
                 if q in ("exit", "quit", "q"):
                     break
+                if q.startswith("--"):
+                    print(f"[提示] 使用 python retrieval_mod.py {q} 查看")
+                    continue
                 r = retrieve(q)
                 r.print_summary()
+                print()
             except (KeyboardInterrupt, EOFError):
                 break
         return
 
     query = args[0]
     content_type = None
+    top_k = 3
+    output_format = "text"
+
     for i, a in enumerate(args):
         if a == "--type" and i + 1 < len(args):
             content_type = args[i + 1]
+        if a == "--top-k" and i + 1 < len(args):
+            top_k = int(args[i + 1])
+        if a == "--json":
+            output_format = "json"
+        if a == "--compact":
+            output_format = "compact"
 
-    r = retrieve(query, content_type=content_type)
-    r.print_summary()
+    r = retrieve(query, content_type=content_type, top_k=top_k, output_format=output_format)
+    r.print_summary(format=output_format if output_format != "text" else "text")
 
 
 if __name__ == "__main__":
