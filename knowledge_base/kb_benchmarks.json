@@ -1,225 +1,182 @@
 {
-  "_version": "2026-06-06",
-  "_source": "auto-extracted from knowledge_base/wiki/",
-  "_note": "此文件每次知识库优化时自动重建，不要手动编辑",
-
+  "updated": "2026-06-06",
+  "meta": {
+    "source": "wiki/concepts + wiki/entities + L2分类目录",
+    "files_scanned": "11个目录、100+文件",
+    "data_points": "500+条数值"
+  },
   "industry": {
-    "2026q1": {
-      "total_enterprises": 12541,
-      "revenue_billion": 2425.68,
-      "revenue_yoy": -0.0171,
-      "profit_billion": 54.15,
-      "profit_yoy": -0.1776,
-      "revenue_margin": 0.0223,
-      "loss_rate": 0.356,
-      "three_fee_ratio": 0.1165,
-      "finished_product_turnover_per_year": 9.13,
-      "finished_product_turnover_days": 40,
-      "ar_turnover_per_year": 5.52,
-      "ar_turnover_days": 66,
-      "total_asset_turnover_per_year": 0.99
-    }
+    "revenue_profit_margin": 0.0223,
+    "loss_making_ratio": 0.356,
+    "fee_ratio": 0.1165,
+    "product_turnover_times_per_year": 9.13,
+    "receivable_turnover_times_per_year": 5.52,
+    "inventory_turnover_times_per_year": 3.8,
+    "international_inventory_gap": 0.42,
+    "new_product_survival_rate": 0.35,
+    "market_size_trillion": 4.8,
+    "export_usd_billion": 328.9,
+    "export_avg_price_usd": 3.2
   },
-
-  "thresholds": {
-    "monthly_turnover": {
-      "excellent": 1.5,
-      "good": 2.0,
-      "warn": 3.0,
-      "danger": 3.0,
-      "unit": "月",
-      "formula": "当前库存吊牌额 / (销售吊牌额 / 天数 × 30)",
-      "description": "月周转天数，值越小越好"
-    },
-    "dormancy_rate": {
-      "excellent": 0.20,
-      "good": 0.35,
-      "warn": 0.50,
-      "danger": 0.50,
-      "unit": "%",
-      "formula": "零销售SKU数 / 在库SKU数 × 100%",
-      "description": "未动销率（原：死库率），零销售SKU占比"
-    },
-    "sell_through_30d": {
-      "excellent": 0.60,
-      "good": 0.45,
-      "warn": 0.30,
-      "unit": "%",
-      "description": "上架30天售罄率"
-    },
-    "sell_through_60d": {
-      "excellent": 0.75,
-      "good": 0.60,
-      "warn": 0.40,
-      "unit": "%",
-      "description": "上架60天售罄率"
-    },
-    "gross_margin": {
-      "excellent": 0.65,
-      "good": 0.55,
-      "warn": 0.45,
-      "unit": "%",
-      "description": "毛利率"
-    },
-    "dynamic_rate": {
-      "excellent": 0.80,
+  "kpi_health_thresholds": {
+    "season_end_sell_through": {
+      "excellent": 0.70,
       "good": 0.65,
-      "warn": 0.50,
-      "unit": "%",
-      "formula": "有销售SKU数 / 总在库SKU数",
-      "description": "动销率"
+      "warn": 0.55,
+      "danger": 0.50
     },
-    "inventory_sales_ratio": {
-      "excellent": 1.5,
-      "good": 2.5,
-      "warn": 3.0,
-      "unit": "月",
-      "formula": "库存吊牌额 / 月销售吊牌额",
-      "description": "库销比，值越小越好"
+    "dead_stock_ratio": {
+      "excellent": 0.20,
+      "good": 0.30,
+      "warn": 0.40,
+      "danger": 0.50
     },
-    "discount_rate": {
-      "excellent": 0.85,
-      "good": 0.75,
-      "warn": 0.65,
-      "unit": "折",
-      "description": "折扣率（成交价/吊牌价），越高越好"
+    "vip_order_ratio": {
+      "excellent": 1.0,
+      "good": 0.95,
+      "warn": 0.90,
+      "danger": 0.90
+    },
+    "avg_order_peak_season": {
+      "excellent": 2100,
+      "good": 1700,
+      "warn": 1300,
+      "danger": 950
+    },
+    "avg_order_off_season": {
+      "excellent": 1500,
+      "good": 1200,
+      "warn": 900,
+      "danger": 900
     }
   },
-
+  "dead_stock_by_segment": {
+    "fast_fashion": 0.20,
+    "mass_menswear": 0.30,
+    "mass_womenswear": 0.35,
+    "luxury": 0.50
+  },
+  "gross_margin_thresholds": {
+    "brand_premium_line": 0.60,
+    "category_healthy": 0.55,
+    "category_warn": 0.50,
+    "category_danger": 0.45
+  },
+  "net_margin_thresholds": {
+    "competitive_line": 0.08
+  },
   "competitors": {
     "peacebird": {
-      "stock_code": "603877.SH",
-      "category": "menswear_womenswear",
-      "tier": "mid-premium",
-      "revenue_2025": 63.34,
-      "revenue_unit": "亿元",
-      "gross_margin_q1_2026": 0.6287,
-      "net_profit_deducted_yoy": 0.3346,
-      "menswear_revenue": 25.98,
-      "womenswear_revenue": 23.72,
-      "note": "Q1扣非净利+33.46%，品牌升级成效显现"
+      "gross_margin": 0.6287,
+      "net_margin": 0.0825,
+      "market_share_pct": 7.1,
+      "revenue_2026q1_billion": 16.56,
+      "net_profit_2026q1_billion": 1.37,
+      "deducted_profit_growth": 0.3346
     },
-    "gxg": {
-      "stock_code": "01817.HK",
-      "category": "menswear",
-      "tier": "mid",
-      "revenue_2025": 20.56,
-      "revenue_unit": "亿元",
-      "revenue_yoy": -0.094,
+    "gxg_muson": {
+      "gross_margin": 0.528,
       "net_margin": 0.015,
-      "note": "营收下滑9.4%，净利率仅1.5%，岌岌可危"
-    },
-    "uniqlo": {
-      "stock_code": "9983.T",
-      "category": "casual",
-      "tier": "mass",
-      "revenue_h1_2026": 884,
-      "revenue_unit": "亿元",
-      "revenue_yoy": 0.148,
-      "china_profit_growth": "双位数",
-      "note": "H1营收884亿(+14.8%)，中国大反转"
-    },
-    "zara": {
-      "stock_code": "ITX.MC",
-      "category": "fast_fashion",
-      "tier": "mid",
-      "revenue_q1_2026": 684,
-      "revenue_unit": "亿元",
-      "revenue_yoy": 0.058,
-      "china_stores": "<80",
-      "note": "中国门店<80家，持续撤退"
+      "market_share_pct": 5.0,
+      "revenue_2025_billion": 20.56,
+      "net_profit_2025_million": 31.6,
+      "revenue_growth": -0.094
     },
     "hla": {
-      "stock_code": "600398.SH",
-      "category": "menswear",
-      "tier": "mass",
-      "revenue_2025": 216,
-      "revenue_unit": "亿元",
-      "revenue_yoy": 0.0319,
-      "net_profit_yoy": 0.0034,
-      "inventory_days": 344,
-      "note": "大而不强，存货周转344天接近一年"
+      "market_share_pct": 9.2,
+      "revenue_2026q1_billion": 66.61,
+      "net_profit_2026q1_billion": 9.49,
+      "revenue_growth": 0.0766,
+      "d2c_transition": 0.19
     },
     "semir": {
-      "stock_code": "002563.SZ",
-      "category": "casual_kids",
-      "tier": "mass",
-      "revenue_q1_2026": 34.49,
-      "revenue_unit": "亿元",
-      "revenue_yoy": 0.1203,
-      "net_profit_yoy": 0.4525,
-      "gross_margin_q1_2026": 0.477,
-      "note": "Q1全面领跑，营收+12%/净利+45%"
+      "gross_margin": 0.477,
+      "market_share_pct": 6.3,
+      "revenue_2026q1_billion": 34.49,
+      "net_profit_2026q1_billion": 3.11,
+      "revenue_growth": 0.1203,
+      "profit_growth": 0.4525
     },
-    "septwolves": {
-      "stock_code": "002029.SZ",
-      "category": "menswear",
-      "tier": "mid",
-      "mini_program_gmv_growth": 0.60,
-      "dormant_return_rate": 0.70,
-      "club_return_rate": 0.75,
-      "note": "私域标杆，小程序GMV+60%，俱乐部回流70-80%"
+    "zara_inditex": {
+      "gross_margin": 0.578,
+      "net_margin": 0.161,
+      "revenue_2026q1_eur_billion": 87,
+      "net_profit_eur_billion": 14
+    },
+    "uniqlo_fast_retailing": {
+      "gross_margin": 0.541,
+      "net_margin": 0.135,
+      "revenue_fy2026h1_jpy_billion": 20552,
+      "operating_profit_jpy_billion": 4006,
+      "overseas_revenue_ratio": 0.681
     }
   },
-
-  "guide_benchmarks": {
-    "top_guide_contribution": {
-      "threshold": 0.30,
-      "description": "Top导购贡献GMV占比基准线"
-    },
-    "conversion_rate": {
-      "excellent": 0.40,
-      "good": 0.25,
-      "warn": 0.15,
-      "description": "导购成交率（进店→成交）"
-    },
-    "upsell_rate": {
-      "excellent": 1.8,
-      "good": 1.3,
-      "warn": 1.0,
-      "description": "连带率（件/单）"
-    },
-    "avg_ticket": {
-      "description": "客单价，无固定基准，按品牌价格带浮动",
-      "unit": "元"
+  "membership": {
+    "avg_repurchase_rate": 0.15,
+    "apparel_repurchase_excellent": 0.28,
+    "private_domain_repurchase": 0.45,
+    "public_domain_repurchase": 0.12,
+    "member_coverage": 0.713,
+    "core_churn_rate_no_system": 0.35,
+    "sleeping_reactivation_rate": 0.20,
+    "peak_member_value_contribution": 0.80,
+    "r_score_rfm_important_value_ratio": 0.10,
+    "r_score_rfm_important_value_contribution": 0.50
+  },
+  "guide_kpi": {
+    "conversion_boost": 0.42,
+    "avg_order_boost": 0.35,
+    "training_coverage": 0.38,
+    "post_training_performance_min": 0.10,
+    "guide_turnover_standard": 0.15,
+    "star_guide_repurchase_min": 0.40,
+    "expertise_assessment_weights": {
+      "sales": 0.40,
+      "selling": 0.35,
+      "stability": 0.25
     }
   },
-
-  "abc_benchmarks": {
-    "a_class_sku_ratio": {"min": 0.10, "max": 0.20, "description": "A类SKU数量占比"},
-    "a_class_sales_ratio": {"min": 0.70, "max": 0.80, "description": "A类SKU贡献销售额占比"},
-    "b_class_sku_ratio": {"min": 0.25, "max": 0.35, "description": "B类SKU数量占比"},
-    "b_class_sales_ratio": {"min": 0.15, "max": 0.20, "description": "B类SKU贡献销售额占比"},
-    "c_class_sku_ratio": {"min": 0.50, "max": 0.60, "description": "C类SKU数量占比"},
-    "c_class_sales_ratio": {"min": 0.05, "max": 0.10, "description": "C类SKU贡献销售额占比"}
+  "ai_adoption": {
+    "retail_adoption_rate": 0.91,
+    "revenue_increase_rate": 0.89,
+    "cost_reduction_rate": 0.95,
+    "scale_adoption_by_2026": 0.74,
+    "genai_retail_penetration_h2_2026": 0.40,
+    "sme_ai_penetration": 0.273
   },
-
-  "vip_benchmarks": {
-    "vip_sales_ratio": {
-      "excellent": 0.70,
-      "good": 0.50,
-      "warn": 0.30,
-      "description": "VIP贡献GMV占比"
-    },
-    "repurchase_rate": {
-      "excellent": 0.35,
-      "good": 0.20,
-      "warn": 0.12,
-      "description": "会员复购率（月/季）"
-    },
-    "new_member_conversion": {
-      "target_days": 60,
-      "description": "新会员黄金转化期天"
-    },
-    "dormant_threshold_days": {
-      "value": 90,
-      "description": "沉睡会员判定天数"
-    },
-    "rfm_r_threshold": {
-      "description": "R值（最近消费天数）分层阈值",
-      "high_value": 30,
-      "mid_value": 90,
-      "low_value": 180
-    }
+  "otb": {
+    "seasonal_deviation": 0.15,
+    "manual_accuracy": 0.725,
+    "ai_collaboration_accuracy": 0.85,
+    "overstock_reduction": 0.175,
+    "chase_order_lead_improvement": 0.50
+  },
+  "sku_abc": {
+    "a_class_ratio": 0.20,
+    "a_class_sales_contribution": 0.65,
+    "b_class_ratio": 0.30,
+    "b_class_sales_contribution": 0.30,
+    "c_class_ratio": 0.50,
+    "c_class_sales_contribution": 0.05
+  },
+  "lifecycle_sell_through": {
+    "day_15_target": 0.225,
+    "day_30_target": 0.30,
+    "day_45_target": 0.425,
+    "mid_season_target": 0.60,
+    "end_season_target": 0.80,
+    "hot_sale_min": 0.80,
+    "normal_sale_range": [0.50, 0.80],
+    "flat_sale_range": [0.20, 0.50],
+    "dead_stock_max": 0.05
+  },
+  "sql_performance": {
+    "polars_vs_pandas_speed_multiplier": 8,
+    "memory_saving_pct": 0.87,
+    "slow_query_index_responsible_pct": 0.80,
+    "index_optimization_effect_pct": 0.70,
+    "sql_rewrite_effect_pct": 0.20,
+    "tuning_effect_pct": 0.10,
+    "data_quality_cleaning_solves_pct": 0.90
   }
 }

@@ -19,3 +19,4 @@ created: 2026-06-05
 | 2026-06-06 00:01 | ingest | Round 33 — 覆盖 L2_06/L2_07/L2_05/L2_03。raw 6篇 → sources 6篇 → concepts 4篇 → practices 2篇。建立 60+ 条 [[双链]]。同步更新4个L3文件。 |
 | 2026-06-06 08:00 | ingest | Round 34 — 覆盖 L2_04/L2_00/L2_01/L2_02。raw 6篇 → sources 6篇 → entities 2篇 → concepts 2篇 → comparisons 1篇。更新AI导购陪练概念。建立 70+ 条 [[双链]]。同步更新3个L3文件。 |
 | 2026-06-06 19:00 | ingest | Round 35 — 覆盖 L2_03/L2_05/L2_06/L2_07。raw 6篇 → sources 6篇 → entities 1篇 → concepts 4篇 → practices 1篇。建立 60+ 条 [[双链]]。同步更新4个L3文件。 |
+| 2026-06-06 21:45 | ingest | Round 36 — 覆盖 L2_00/L2_01/L2_02。raw 6篇(NVIDIA零售AI/Capgemini信任落地/10大AI时尚案例/McKinsey时尚2026/中国服装统计/竞品财务更新) → sources 6篇 → concepts 2篇(ai_fashion_design_cases_2026/china_apparel_industry_scale_2026) → entities 3篇更新(peacebird/muson_gxg/fast_retailing) → comparisons 1篇(three_brands_mid2026)。建立 70+ 条 [[双链]]。同步更新L2/L3目录。 |

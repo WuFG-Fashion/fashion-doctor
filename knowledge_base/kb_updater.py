@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-KB_ROOT = Path(r"C:\Users\MacBookPro\Fashion Doctor\knowledge_base")
+KB_ROOT = Path(__file__).resolve().parent
 INDEX_FILE = KB_ROOT / "__index__" / "master_index.json"
 
 # ── L2 品类映射（目录名 → 品类信息）─────────────────

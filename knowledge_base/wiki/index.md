@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-06 08:00
+updated: 2026-06-06 21:45
 ---
 
 # Fashion Doctor 知识库导航
@@ -55,6 +55,8 @@ updated: 2026-06-06 08:00
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
 | [[polars_vs_pandas_2026]] ⭐ NEW | 2026选型：>100万行选Polars，5-11倍性能 | python, polars, pandas, benchmark |
+| [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
+| [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -72,11 +74,20 @@ updated: 2026-06-06 08:00
 |------|------|------|
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
+| [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
+|------|------|------|
+| [[2026-06-06_NVIDIA零售AI规模化落地]] ⭐ NEW | NVIDIA 2026零售AI：从试点到规模化落地 | ai, retail, smart_store |
+| [[2026-06-06_Capgemini零售AI信任落地]] ⭐ NEW | Capgemini：71%消费者忧AI/信任瓶颈/2.3x数据基础 | ai, trust, data_governance, genai |
+| [[2026-06-06_AI时尚设计10大案例]] ⭐ NEW | 10大品牌AI设计：H&M样品-50%/Levi's退货-30-40% | ai, fashion_design, case_study |
+| [[2026-06-06_McKinsey时尚行业2026]] ⭐ NEW | McKinsey：76%高管忧关税/AI首要但90%无法规模化 | fashion_industry, tariff, second_hand |
+| [[2026-06-06_中国服装行业统计2026]] ⭐ NEW | 中国服装产值3.8万亿/全球35%/AI设计仅25%渗透 | china_apparel, industry_scale |
+| [[2026-06-06_竞品财务更新202606]] ⭐ NEW | 太平鸟扣非+33.46%/GXG节流续命/优衣库H1+14.8% | peacebird, gxg, uniqlo, financial |
+| [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 |------|------|------|
 | [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 | [[2026-06-05_探马SCRM_RFM分层运营]] | 探马SCRM服装RFM案例 | vip, rfm, private_domain |
@@ -135,5 +146,6 @@ updated: 2026-06-06 08:00
 | 33 | 06-06 00:01 | L2_06/07/05/03 | s6/e0/c4/p2 |
 | 34 | 06-06 08:00 | L2_04/00/01/02 | s6/e2/c2/co1 |
 | 35 | 06-06 19:00 | L2_03/05/06/07 | s6/e1/c4/p1 |
+| 36 | 06-06 21:45 | L2_00/01/02 | s6/e0/c2/co1 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
