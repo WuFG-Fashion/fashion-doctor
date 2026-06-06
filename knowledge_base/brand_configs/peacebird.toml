@@ -1,0 +1,52 @@
+# ============================================================
+# 太平鸟男装 — 品牌配置文件
+# ============================================================
+# 此文件定义太平鸟品牌特有的阈值、对标竞品、品类参数
+# 未定义的指标自动继承 knowledge_base/kb_benchmarks.json 通用值
+# ============================================================
+
+[identity]
+name = "太平鸟男装"
+name_en = "PEACEBIRD MEN"
+stock_code = "603877.SH"
+category = "menswear"       # menswear / womenswear / kidswear / casual
+tier = "mid-premium"         # mass / mid / mid-premium / premium / luxury
+price_band = [300, 3000]     # 主力价格带（元）
+founded = 1996
+
+# ----- 自定义阈值（覆盖通用基准）-----
+# 太平鸟作为中高端品牌，毛利率和售罄标准高于行业均值
+
+[thresholds]
+gross_margin.excellent = 0.65        # 行业通用55%，太平鸟目标65%
+gross_margin.good = 0.58
+sell_through_30d.excellent = 0.65    # 行业通用60%，太平鸟略高
+sell_through_30d.warn = 0.35
+upsell_rate.excellent = 2.0          # 连带率，太平鸟配装强，目标更高
+upsell_rate.good = 1.5
+monthly_turnover.excellent = 1.3     # 行业通用1.5，太平鸟要求更严
+avg_ticket.target = 1200             # 客单价目标
+
+# ----- 对标竞品 -----
+# 分析报告中自动拉取这些竞品做对比
+
+[competitors]
+primary = ["gxg", "海澜之家"]         # 直接竞品
+secondary = ["优衣库", "森马"]        # 参考竞品
+watch = ["ZARA", "七匹狼"]            # 关注对象
+
+# ----- 会员运营参数 -----
+
+[vip]
+high_value_threshold = 3000           # 高价值会员年消费门槛
+vip_tiers = ["银卡", "金卡", "钻石卡", "黑卡"]
+new_member_golden_window = 60         # 新会员黄金转化天数
+dormant_days = 90                     # 沉睡判定天数
+
+# ----- 商品参数 -----
+
+[merchandise]
+typical_sku_count = 800               # 典型在售SKU数
+season_count = 4                      # 每年波段数（春夏/夏秋/秋冬/冬春）
+lead_time_days = 45                   # 补货前置天数
+markdown_timeline = [30, 60, 90]      # 降价时间点（上架后天数）
