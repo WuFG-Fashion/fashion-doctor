@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-06 21:45
+updated: 2026-06-07 07:50
 ---
 
 # Fashion Doctor 知识库导航
@@ -24,6 +24,7 @@ updated: 2026-06-06 21:45
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25% | brand, competitor, menswear |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
+| [[lululemon]] ⭐ NEW | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30% | brand, competitor, athleisure |
 | 待迁移 | MLB、速写/江南布衣、H&M | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -57,6 +58,9 @@ updated: 2026-06-06 21:45
 | [[polars_vs_pandas_2026]] ⭐ NEW | 2026选型：>100万行选Polars，5-11倍性能 | python, polars, pandas, benchmark |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
+| [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
+| [[apparel_ai_agents_2026]] ⭐ NEW | 服装垂直AI智能体：四层架构+9大场景+三步战略 | ai, agent, fashion, supply_chain |
+| [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -75,6 +79,7 @@ updated: 2026-06-06 21:45
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
+| [[six_brands_2026q1]] ⭐ NEW | 六品牌2026Q1对比：森马利润王/太平鸟拐点/ZARA撤退/lululemon狂奔 | competitor, comparison, 2026Q1 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
@@ -118,6 +123,11 @@ updated: 2026-06-06 21:45
 | [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]] ⭐ NEW | Polars 5-11x快/内存省87%/选型决策矩阵 | polars, pandas, benchmark |
 | [[2026-06-06_鼎捷_大型集团主数据治理]] ⭐ NEW | 60%协同障碍/一致性68%→97%/协同+45% | data_governance, master_data, multi_brand |
 | [[2026-06-06_百家号_数据质量常态化治理]] ⭐ NEW | 四大指标框架/零售优先时效性+完整性 | data_quality, governance, monitoring |
+| [[2026-06-07_全零售AI火花大会_落地攻坚]] ⭐ NEW | 2026零售AI"落地攻坚年"：四大趋势+锅圈/银泰/孩子王案例 | ai, retail, smart_store |
+| [[2026-06-07_2026Q1服装行业运行扫描]] ⭐ NEW | 2026Q1行业数据：零售3032.6亿+9.4%/利润-17.76%/出口量升价跌 | industry, kpi, benchmark |
+| [[2026-06-07_垂直AI智能体_服装新风口]] ⭐ NEW | 服装垂直AI Agent：四层架构+9大智能体+三步实施 | ai, agent, fashion |
+| [[2026-06-07_AI虚拟试衣_服装电商]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60% | ai, virtual_tryon, ecommerce |
+| [[2026-06-07_竞品财务更新2026Q1]] ⭐ NEW | 六品牌2026Q1：森马+45%/太平鸟扣非+33.46%/海澜+1.51%/ZARA<60店 | competitor, financial, 2026Q1 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -147,5 +157,6 @@ updated: 2026-06-06 21:45
 | 34 | 06-06 08:00 | L2_04/00/01/02 | s6/e2/c2/co1 |
 | 35 | 06-06 19:00 | L2_03/05/06/07 | s6/e1/c4/p1 |
 | 36 | 06-06 21:45 | L2_00/01/02 | s6/e0/c2/co1 |
+| 37 | 06-07 07:50 | L2_00/01/02 | s5/e1/c3/co1 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

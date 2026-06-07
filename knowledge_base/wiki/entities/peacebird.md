@@ -4,7 +4,7 @@ title: 太平鸟
 tags: [peacebird, competitor, menswear, womenswear, kidswear, a_share]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-06
+updated: 2026-06-07
 cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]]
 ---
 
