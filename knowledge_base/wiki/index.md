@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-07 07:50
+updated: 2026-06-07 13:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -61,6 +61,8 @@ updated: 2026-06-07 07:50
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
 | [[apparel_ai_agents_2026]] ⭐ NEW | 服装垂直AI智能体：四层架构+9大场景+三步战略 | ai, agent, fashion, supply_chain |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
+| [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
+| [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -128,6 +130,12 @@ updated: 2026-06-07 07:50
 | [[2026-06-07_垂直AI智能体_服装新风口]] ⭐ NEW | 服装垂直AI Agent：四层架构+9大智能体+三步实施 | ai, agent, fashion |
 | [[2026-06-07_AI虚拟试衣_服装电商]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60% | ai, virtual_tryon, ecommerce |
 | [[2026-06-07_竞品财务更新2026Q1]] ⭐ NEW | 六品牌2026Q1：森马+45%/太平鸟扣非+33.46%/海澜+1.51%/ZARA<60店 | competitor, financial, 2026Q1 |
+| [[2026-06-07_RFM分层与自动化触达2026]] ⭐ NEW | 有赞2026：RFM八类分层+四步自动化+三行业案例 | vip, rfm, repurchase, automation |
+| [[2026-06-07_服装会员系统TOP榜2026]] ⭐ NEW | 2026服装会员系统三大阵营横评：轻量/私域/ERP | vip, membership, pos, system_selection |
+| [[2026-06-07_2026AI陪练选型指南]] ⭐ NEW | 8大AI陪练产品对比+选型三维框架+零售场景 | ai, coaching, training, guide |
+| [[2026-06-07_智能销售陪练闭环]] ⭐ NEW | 学-练-考-评闭环：新人1.5天/14维评估/效率+50% | ai, coaching, closed_loop, retail |
+| [[2026-06-07_2026服装企划趋势预测]] ⭐ NEW | 知衣：四大趋势渠道+企划四步工作流+选款效率+50% | merchandise, planning, trend, data_tool |
+| [[2026-06-07_2026全球服装行业变革]] ⭐ NEW | 中研网：全球格局+供应链重构+数字化+情感价值 | apparel, global, supply_chain, sustainability |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -158,5 +166,6 @@ updated: 2026-06-07 07:50
 | 35 | 06-06 19:00 | L2_03/05/06/07 | s6/e1/c4/p1 |
 | 36 | 06-06 21:45 | L2_00/01/02 | s6/e0/c2/co1 |
 | 37 | 06-07 07:50 | L2_00/01/02 | s5/e1/c3/co1 |
+| 38 | 06-07 13:55 | L2_03/04/05 | s6/e0/c3/p1 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
