@@ -63,6 +63,8 @@ updated: 2026-06-07 13:55
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
+| [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
+| [[streamlit_dashboard_2026]] ⭐ NEW | Streamlit 2026生产级实践：缓存/状态/7大故障修复 | streamlit, production, caching |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -71,8 +73,9 @@ updated: 2026-06-07 13:55
 | [[零售数据仓库SQL实践]] ⭐ NEW | 销售/库存/会员/导购四大场景SQL优化模板 | sql, optimization, practice |
 | [[私域运营方法论]] ⭐ NEW | 私域四策略+服装零售实施路径+工具矩阵 | vip, private_domain, scrm |
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
-| 待迁移：Streamlit多Tab | 来自 L3_07_04 Streamlit多Tab组件 | streamlit, dashboard |
-| 待迁移：数据质量 | 来自 L3_06_01 数据质量红线 | data_quality, pipeline |
+| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ NEW | 四层架构+5大挑战+8步实施+品类映射代码 | multi_brand, analytics, architecture |
+| [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ NEW | pages模块化+缓存体系+品牌配置驱动+7项生产检查 | streamlit, dashboard, production, code |
+| 待迁移：数据质量 | 来自 L3_06_01 数据质量红线（→ [[data_quality_governance]]） | data_quality, pipeline |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理 | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
@@ -136,6 +139,10 @@ updated: 2026-06-07 13:55
 | [[2026-06-07_智能销售陪练闭环]] ⭐ NEW | 学-练-考-评闭环：新人1.5天/14维评估/效率+50% | ai, coaching, closed_loop, retail |
 | [[2026-06-07_2026服装企划趋势预测]] ⭐ NEW | 知衣：四大趋势渠道+企划四步工作流+选款效率+50% | merchandise, planning, trend, data_tool |
 | [[2026-06-07_2026全球服装行业变革]] ⭐ NEW | 中研网：全球格局+供应链重构+数字化+情感价值 | apparel, global, supply_chain, sustainability |
+| [[2026-06-07_Polars_2.0流式ETL]] ⭐ NEW | Polars 2.0流式引擎：TB级12GB内存/批次断点续传/26x快 | polars, streaming, etl, arrow |
+| [[2026-06-07_Python看板框架对比2026]] ⭐ NEW | 2026看板框架：Streamlit/Dash/Gradio对比+7大生产故障 | streamlit, dash, gradio, comparison |
+| [[2026-06-07_零售数据分析框架2026]] ⭐ NEW | 2026零售分析8层技术栈+8步实施路径 | retail, analytics, framework |
+| [[2026-06-07_数据治理平台TOP榜2026]] ⭐ NEW | 2026数据治理TOP6+四大趋势+选型指南 | data_governance, platform, selection |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -167,5 +174,6 @@ updated: 2026-06-07 13:55
 | 36 | 06-06 21:45 | L2_00/01/02 | s6/e0/c2/co1 |
 | 37 | 06-07 07:50 | L2_00/01/02 | s5/e1/c3/co1 |
 | 38 | 06-07 13:55 | L2_03/04/05 | s6/e0/c3/p1 |
+| 39 | 06-07 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
