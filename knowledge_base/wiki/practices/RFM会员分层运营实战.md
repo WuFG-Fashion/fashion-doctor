@@ -5,7 +5,7 @@ tags: [vip, rfm, retail, membership, operational]
 sources: [2026-06-05_丽晶_全渠道会员一体化, 2026-06-05_探马SCRM_RFM分层运营, 2026-06-07_RFM分层与自动化触达2026, 2026-06-07_服装会员系统TOP榜2026]
 created: 2026-06-05
 updated: 2026-06-07
-cross_refs: [[全渠道会员一体化]], [[会员复购率提升策略]], [[沉睡会员唤醒策略]], [[探马SCRM]], [[丽晶]]
+cross_refs: [[全渠道会员一体化]], [[会员复购率提升策略]], [[sleeping_member_reactivation|沉睡会员唤醒策略]], [[探马SCRM]], [[丽晶]]
 ---
 
 # RFM会员分层运营实战
@@ -105,7 +105,7 @@ GROUP BY vip_id;
 
 - [[全渠道会员一体化]]
 - [[会员复购率提升策略]]
-- [[沉睡会员唤醒策略]]
+- [[sleeping_member_reactivation|沉睡会员唤醒策略]]
 - [[探马SCRM]]
 - [[丽晶]]
 

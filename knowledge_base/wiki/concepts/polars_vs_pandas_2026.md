@@ -111,4 +111,4 @@ def sales_summary() -> pl.DataFrame:
 - [[SQL查询性能优化]]
 - [[ETL架构选型]]
 - [[零售数据仓库SQL实践]]
-- [[数据质量常态化治理]]
+- [[data_quality_governance|数据质量常态化治理]]

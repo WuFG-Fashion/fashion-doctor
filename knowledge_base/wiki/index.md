@@ -98,8 +98,6 @@ updated: 2026-06-07 13:55
 | [[2026-06-06_中国服装行业统计2026]] ⭐ NEW | 中国服装产值3.8万亿/全球35%/AI设计仅25%渗透 | china_apparel, industry_scale |
 | [[2026-06-06_竞品财务更新202606]] ⭐ NEW | 太平鸟扣非+33.46%/GXG节流续命/优衣库H1+14.8% | peacebird, gxg, uniqlo, financial |
 | [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
-|------|------|------|
-| [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 | [[2026-06-05_探马SCRM_RFM分层运营]] | 探马SCRM服装RFM案例 | vip, rfm, private_domain |
 | [[2026-06-05_Megaview_AI导购陪练]] | Megaview导购AI陪练全方案 | guide, ai, training |
 | [[2026-06-05_中研网_2026服装行业趋势]] | 中研网2026服装趋势分析 | retail, supply_chain, trend |

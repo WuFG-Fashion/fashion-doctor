@@ -5,7 +5,7 @@ tags: [polars, pandas, python, data_analysis, benchmark]
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[Polars_vs_Pandas_2026选型指南]], [[SQL查询性能优化]], [[零售数据仓库SQL实践]]
+cross_refs: [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]], [[SQL查询性能优化]], [[零售数据仓库SQL实践]]
 ---
 
 # Polars vs Pandas 2026选型指南
@@ -42,7 +42,7 @@ cross_refs: [[Polars_vs_Pandas_2026选型指南]], [[SQL查询性能优化]], [[
 | 兼顾速度与生态 | Polars→Pandas混合 |
 
 ## 关联知识
-- [[Polars_vs_Pandas_2026选型指南]]
+- [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]]
 - [[SQL查询性能优化]]
 - [[零售数据仓库SQL实践]]
 - [[ETL架构选型]]

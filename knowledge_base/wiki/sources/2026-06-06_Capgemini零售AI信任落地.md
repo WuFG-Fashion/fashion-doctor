@@ -5,7 +5,7 @@ tags: [ai, retail, capgemini, trust, data_governance, genai]
 sources: [Capgemini 2026 / tecdat.cn 2026-04-20]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[retail_ai_adoption_2026]], [[data_quality_governance]], [[NVIDIA零售AI规模化落地]]
+cross_refs: [[retail_ai_adoption_2026]], [[data_quality_governance]], [[2026-06-06_NVIDIA零售AI规模化落地|NVIDIA零售AI规模化落地]]
 ---
 
 # Capgemini 2026零售AI信任与落地
@@ -25,5 +25,5 @@ cross_refs: [[retail_ai_adoption_2026]], [[data_quality_governance]], [[NVIDIA�
 
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景：91%/89%/95%
 - [[data_quality_governance]] — 数据质量常态化治理框架
-- [[NVIDIA零售AI规模化落地]] — NVIDIA同期报告
+- [[2026-06-06_NVIDIA零售AI规模化落地|NVIDIA零售AI规模化落地]] — NVIDIA同期报告
 - [[McKinsey时尚行业2026]] — AI规模化90%困境

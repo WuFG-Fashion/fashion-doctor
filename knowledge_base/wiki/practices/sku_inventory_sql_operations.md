@@ -4,7 +4,7 @@ title: 服装SKU进销存管理实操
 tags: [sku, inventory, replenishment, practice, sql]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[服装SKU精细化管理]], [[SQL查询性能优化]], [[动态OTB管理]]
+cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[SQL查询性能优化]], [[动态OTB管理]]
 ---
 
 # 服装SKU进销存管理实操
@@ -103,7 +103,7 @@ ORDER BY sales_30d ASC;
 | 库销比 | 库存额/月销售额 | >3:1 |
 
 ## 关联知识
-- [[服装SKU精细化管理]]
+- [[sku_fine_management|服装SKU精细化管理]]
 - [[SQL查询性能优化]]
 - [[动态OTB管理]]
 - [[零售数据仓库SQL实践]]

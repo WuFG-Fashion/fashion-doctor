@@ -1,9 +1,10 @@
 {
-  "updated": "2026-06-06",
+  "updated": "2026-06-08",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "11个目录、100+文件",
-    "data_points": "500+条数值"
+    "files_scanned": "36 个 wiki/concepts + entities 文件",
+    "data_points": "500+条数值",
+    "last_scan": "2026-06-08"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -20,22 +21,22 @@
   },
   "kpi_health_thresholds": {
     "season_end_sell_through": {
-      "excellent": 0.70,
+      "excellent": 0.7,
       "good": 0.65,
       "warn": 0.55,
-      "danger": 0.50
+      "danger": 0.5
     },
     "dead_stock_ratio": {
-      "excellent": 0.20,
-      "good": 0.30,
-      "warn": 0.40,
-      "danger": 0.50
+      "excellent": 0.2,
+      "good": 0.3,
+      "warn": 0.4,
+      "danger": 0.5
     },
     "vip_order_ratio": {
       "excellent": 1.0,
       "good": 0.95,
-      "warn": 0.90,
-      "danger": 0.90
+      "warn": 0.9,
+      "danger": 0.9
     },
     "avg_order_peak_season": {
       "excellent": 2100,
@@ -51,15 +52,15 @@
     }
   },
   "dead_stock_by_segment": {
-    "fast_fashion": 0.20,
-    "mass_menswear": 0.30,
+    "fast_fashion": 0.2,
+    "mass_menswear": 0.3,
     "mass_womenswear": 0.35,
-    "luxury": 0.50
+    "luxury": 0.5
   },
   "gross_margin_thresholds": {
-    "brand_premium_line": 0.60,
+    "brand_premium_line": 0.6,
     "category_healthy": 0.55,
-    "category_warn": 0.50,
+    "category_warn": 0.5,
     "category_danger": 0.45
   },
   "net_margin_thresholds": {
@@ -118,20 +119,20 @@
     "public_domain_repurchase": 0.12,
     "member_coverage": 0.713,
     "core_churn_rate_no_system": 0.35,
-    "sleeping_reactivation_rate": 0.20,
-    "peak_member_value_contribution": 0.80,
-    "r_score_rfm_important_value_ratio": 0.10,
-    "r_score_rfm_important_value_contribution": 0.50
+    "sleeping_reactivation_rate": 0.2,
+    "peak_member_value_contribution": 0.8,
+    "r_score_rfm_important_value_ratio": 0.1,
+    "r_score_rfm_important_value_contribution": 0.5
   },
   "guide_kpi": {
     "conversion_boost": 0.42,
     "avg_order_boost": 0.35,
     "training_coverage": 0.38,
-    "post_training_performance_min": 0.10,
+    "post_training_performance_min": 0.1,
     "guide_turnover_standard": 0.15,
-    "star_guide_repurchase_min": 0.40,
+    "star_guide_repurchase_min": 0.4,
     "expertise_assessment_weights": {
-      "sales": 0.40,
+      "sales": 0.4,
       "selling": 0.35,
       "stability": 0.25
     }
@@ -141,7 +142,7 @@
     "revenue_increase_rate": 0.89,
     "cost_reduction_rate": 0.95,
     "scale_adoption_by_2026": 0.74,
-    "genai_retail_penetration_h2_2026": 0.40,
+    "genai_retail_penetration_h2_2026": 0.4,
     "sme_ai_penetration": 0.273
   },
   "otb": {
@@ -149,34 +150,40 @@
     "manual_accuracy": 0.725,
     "ai_collaboration_accuracy": 0.85,
     "overstock_reduction": 0.175,
-    "chase_order_lead_improvement": 0.50
+    "chase_order_lead_improvement": 0.5
   },
   "sku_abc": {
-    "a_class_ratio": 0.20,
+    "a_class_ratio": 0.2,
     "a_class_sales_contribution": 0.65,
-    "b_class_ratio": 0.30,
-    "b_class_sales_contribution": 0.30,
-    "c_class_ratio": 0.50,
+    "b_class_ratio": 0.3,
+    "b_class_sales_contribution": 0.3,
+    "c_class_ratio": 0.5,
     "c_class_sales_contribution": 0.05
   },
   "lifecycle_sell_through": {
     "day_15_target": 0.225,
-    "day_30_target": 0.30,
+    "day_30_target": 0.3,
     "day_45_target": 0.425,
-    "mid_season_target": 0.60,
-    "end_season_target": 0.80,
-    "hot_sale_min": 0.80,
-    "normal_sale_range": [0.50, 0.80],
-    "flat_sale_range": [0.20, 0.50],
+    "mid_season_target": 0.6,
+    "end_season_target": 0.8,
+    "hot_sale_min": 0.8,
+    "normal_sale_range": [
+      0.5,
+      0.8
+    ],
+    "flat_sale_range": [
+      0.2,
+      0.5
+    ],
     "dead_stock_max": 0.05
   },
   "sql_performance": {
     "polars_vs_pandas_speed_multiplier": 8,
     "memory_saving_pct": 0.87,
-    "slow_query_index_responsible_pct": 0.80,
-    "index_optimization_effect_pct": 0.70,
-    "sql_rewrite_effect_pct": 0.20,
-    "tuning_effect_pct": 0.10,
-    "data_quality_cleaning_solves_pct": 0.90
+    "slow_query_index_responsible_pct": 0.8,
+    "index_optimization_effect_pct": 0.7,
+    "sql_rewrite_effect_pct": 0.2,
+    "tuning_effect_pct": 0.1,
+    "data_quality_cleaning_solves_pct": 0.9
   }
 }

@@ -5,7 +5,7 @@ tags: [kpi, benchmark, industry, china_apparel, financial, turnover]
 sources: [2026-06-05_中国服装协会_2026Q1行业经济运行分析.md]
 created: 2026-06-05
 updated: 2026-06-05
-cross_refs: [[KPI健康基准]], [[four_brands_2025]], [[零售术语体系]]
+cross_refs: [[KPI健康基准]], [[four_brands_2025]], [[china_apparel_industry_2026q1|行业运营基准]]
 ---
 
 # 2026Q1中国服装行业运营基准
@@ -58,5 +58,5 @@ cross_refs: [[KPI健康基准]], [[four_brands_2025]], [[零售术语体系]]
 ## 关联知识
 - [[KPI健康基准]]
 - [[four_brands_2025]]
-- [[零售术语体系]]
+- [[china_apparel_industry_2026q1|行业运营基准]]
 - [[服装行业竞争格局]]

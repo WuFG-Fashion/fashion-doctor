@@ -5,7 +5,7 @@ tags: [otb, merchandise, supply_chain, ai, retail_planning]
 sources: [2026-06-06_网易_季中OTB失控核心矛盾]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[柔性供应链与商品企划]], [[AI商品管理系统]], [[服装行业竞争格局]]
+cross_refs: [[柔性供应链与商品企划]], AI商品管理系统, [[服装行业竞争格局]]
 ---
 
 # 动态OTB管理
@@ -57,6 +57,6 @@ cross_refs: [[柔性供应链与商品企划]], [[AI商品管理系统]], [[服�
 
 ## 关联知识
 - [[柔性供应链与商品企划]]
-- [[AI商品管理系统]]
+- AI商品管理系统
 - [[服装行业竞争格局]]
 - [[china_apparel_industry_2026q1]]

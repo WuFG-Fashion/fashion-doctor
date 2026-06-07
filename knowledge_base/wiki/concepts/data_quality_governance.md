@@ -94,4 +94,4 @@ cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据
 - [[ETL架构选型]]
 - [[多品牌数据治理体系]]
 - [[零售数据仓库SQL实践]]
-- [[Polars_vs_Pandas_2026选型指南]]
+- [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]]
