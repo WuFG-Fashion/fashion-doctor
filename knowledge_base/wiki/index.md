@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-08 13:55
+updated: 2026-06-08 19:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -68,6 +68,8 @@ updated: 2026-06-08 13:55
 | [[streamlit_dashboard_2026]] ⭐ NEW | Streamlit 2026生产级实践：缓存/状态/7大故障修复 | streamlit, production, caching |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
+| [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
+| [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -78,8 +80,9 @@ updated: 2026-06-08 13:55
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
 | [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ NEW | 四层架构+5大挑战+8步实施+品类映射代码 | multi_brand, analytics, architecture |
 | [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ NEW | pages模块化+缓存体系+品牌配置驱动+7项生产检查 | streamlit, dashboard, production, code |
-| 待迁移：数据质量 | 来自 L3_06_01 数据质量红线（→ [[data_quality_governance]]） | data_quality, pipeline |
-| 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理 | brand, configuration |
+| [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
+| [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
+| 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
 | 页面 | 说明 | 标签 |
@@ -155,6 +158,10 @@ updated: 2026-06-08 13:55
 | [[2026-06-07_Python看板框架对比2026]] ⭐ NEW | 2026看板框架：Streamlit/Dash/Gradio对比+7大生产故障 | streamlit, dash, gradio, comparison |
 | [[2026-06-07_零售数据分析框架2026]] ⭐ NEW | 2026零售分析8层技术栈+8步实施路径 | retail, analytics, framework |
 | [[2026-06-07_数据治理平台TOP榜2026]] ⭐ NEW | 2026数据治理TOP6+四大趋势+选型指南 | data_governance, platform, selection |
+| [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]] ⭐ NEW | PythonDataBench 10M行基准：Polars 7.7x/DuckDB 10x/混合栈方案 | polars, duckdb, pandas, benchmark |
+| [[2026-06-08_Streamlit_v147特性解析]] ⭐ NEW | Streamlit v1.47主题增强/width-height参数/Session State | streamlit, dashboard, theme, api |
+| [[2026-06-08_2026企业数据质量五阶段管控]] ⭐ NEW | FineReport五阶段路线图+零售案例+$3.1万亿损失 | data_quality, governance, five_stage |
+| [[2026-06-08_2026湖仓一体与ETL新四化]] ⭐ NEW | 湖仓一体/Iceberg标准/ETL低代码流批一体 | data_lakehouse, etl, iceberg |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -189,5 +196,6 @@ updated: 2026-06-08 13:55
 | 39 | 06-07 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 | 40 | 06-08 07:50 | L2_00/01/02 | s5/e0/c2/co0 |
 | 41 | 06-08 13:55 | L2_03/04/05 | s6/e0/c0/p1 |
+| 42 | 06-08 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

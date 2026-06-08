@@ -1,11 +1,11 @@
 ---
 type: concept
 title: Streamlit 2026生产级最佳实践
-tags: [streamlit, dashboard, caching, session_state, production]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard]
+tags: [streamlit, dashboard, caching, session_state, production, theme]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析]
 created: 2026-06-07
-updated: 2026-06-07
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]]
+updated: 2026-06-08
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -89,3 +89,37 @@ st.caption("所有时间均为北京时间 (UTC+8)")
 - [[multi_brand_unified_analytics]]
 - [[ETL架构选型]]
 - [[polars_vs_pandas_2026]]
+- [[duckdb_olap_engine_2026]]
+
+## v1.47 主题与API升级（2026-06更新）
+
+### 主题配置增强
+
+| 配置项 | 作用 | 推荐值 |
+|------|------|--------|
+| `theme.baseFontWeight` | 正文字体粗细 | 400 |
+| `theme.chartCategoricalColors` | 图表分类色板 | 品牌主题色系 |
+| `theme.dataframeHeaderBackgroundColor` | 表头背景 | 品牌主色 |
+| `theme.headingFontSizes` | 各级标题字号 | 默认 |
+| `theme.linkUnderline` | 链接下划线 | False |
+
+### API新增
+
+| 组件 | 新增参数 | 作用 |
+|------|---------|------|
+| `st.html/st.pills/st.segmented_control/st.multiselect` | `width` | 精确控制组件宽度 |
+| `st.metric/st.text_area` | `height` | 精确控制高度 |
+| `st.code/st.form` | `height="stretch"` | 填充剩余空间 |
+| 缓存函数 | `show_time` | 在spinner中显示耗时 |
+| `st.dialog` | `title` 支持Markdown | 富文本弹窗标题 |
+
+### 多页面管理（推荐写法）
+
+```python
+pg = st.navigation(
+    st.Page("pages/overview.py", title="总览", url_path="overview", default=True),
+    st.Page("pages/brand.py", title="品牌分析", url_path="brand"),
+    st.Page("pages/vip.py", title="会员", url_path="vip")
+)
+pg.run()
+```

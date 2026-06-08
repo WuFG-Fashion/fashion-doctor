@@ -1,18 +1,18 @@
 ---
 type: concept
-title: Polars vs Pandas 2026选型指南
-tags: [polars, pandas, python, data_analysis, benchmark, etl]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas]
+title: Polars vs Pandas vs DuckDB 2026选型指南
+tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比]
 created: 2026-06-06
-updated: 2026-06-07
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[2026-06-07_Polars_2.0流式ETL]]
+updated: 2026-06-08
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]]
 ---
 
-# Polars vs Pandas 2026选型指南
+# Polars vs Pandas vs DuckDB 2026选型指南
 
-> **一句话摘要**：2026年Python数据分析选型决策框架——Polars在1000万行级别数据上比Pandas快5-11倍且内存省87%，数据>100万行时应优先选Polars；<100万行或重度依赖ML生态时Pandas仍是合理选择。
+> **一句话摘要**：2026年Python数据分析选型已从"Polars vs Pandas"升级为"三引擎协同"——DuckDB做SQL聚合+窗口函数（10x）、Polars做ETL流水线（惰性+流式）、Pandas做ML可视化（生态王者），通过Apache Arrow零拷贝串联。
 
-> **来源**：Kanaries Docs 2026性能基准测试
+> **来源**：Kanaries Docs 2026 + PythonDataBench 2026-02
 
 ## 性能基准（1000万行数据集）
 
@@ -107,8 +107,79 @@ def sales_summary() -> pl.DataFrame:
 
 > **结论**：Polars 2.0已具备处理TB级ETL的流式能力，多品牌服装系统可选其为默认ETL引擎。
 
+## DuckDB：第三种力量（2026-06新增）
+
+### Polars vs DuckDB vs Pandas 基准（10M行）
+
+| 操作 | Pandas | Polars | DuckDB | 最佳 |
+|------|--------|--------|--------|:---:|
+| CSV读取 | 1x | **7.7x** | 6x | Polars |
+| GroupBy聚合 | 1x | 8.7x | **9.4x** | DuckDB |
+| Join | 1x | **5x** | 4x | Polars |
+| 窗口函数 | 1x | - | **10x** | DuckDB |
+| 峰值内存 | 最高 | **低30-60%** | 中等(可溢出磁盘) | Polars |
+
+### DuckDB独有优势
+
+| 维度 | DuckDB优势 |
+|------|-----------|
+| SQL原生 | 团队会SQL→零学习成本，复杂查询比DataFrame API更易维护 |
+| 文件直查 | `SELECT FROM 'data.parquet'` 无需加载到内存 |
+| 磁盘溢出 | 数据超过内存自动spill，Polars惰性模式无法处理超内存操作 |
+| 联邦查询 | ATTACH多数据库，跨源聚合无需ETL |
+
+### 三引擎混合栈（2026最佳实践）
+
+```
+DuckDB → Polars → Pandas
+  ↓         ↓         ↓
+ SQL准备   特征工程   ML/可视化
+```
+
+| 阶段 | 工具 | 典型操作 |
+|------|------|---------|
+| 数据准备 | **DuckDB** | 多表JOIN、复杂聚合、窗口函数、跨源查询 |
+| 特征工程 | **Polars** | 惰性求值、列变换、类型转换、流式写入 |
+| ML集成 | **Pandas** | scikit-learn、XGBoost、matplotlib/seaborn |
+
+```python
+# 混合栈示例：Arrow零拷贝串联
+import duckdb, polars as pl
+
+# DuckDB做SQL聚合
+result = duckdb.sql("""
+    SELECT brand, category, SUM(amount) as revenue,
+           COUNT(DISTINCT customer_id) as customers
+    FROM 'sales_2026.parquet'
+    WHERE sale_date >= '2026-01-01'
+    GROUP BY brand, category
+""").pl()  # → Polars (零拷贝)
+
+# Polars做特征工程
+features = result.with_columns([
+    (pl.col("revenue") / pl.col("customers")).alias("arpu"),
+    pl.col("revenue").rank("dense").over("brand").alias("cat_rank")
+])
+
+# → Pandas做ML
+pdf = features.to_pandas()
+```
+
+### 零售场景选型速查
+
+| 场景 | 数据量 | 推荐工具 | 原因 |
+|------|--------|:---:|------|
+| 临时探索性SQL | 任意 | **DuckDB** | SQL直写，无需Python脚本 |
+| 多品牌跨库聚合 | 百万-千万 | **DuckDB** | ATTACH联邦查询 |
+| 定时ETL流水线 | 千万-亿 | **Polars** | 惰性+流式+断点续传 |
+| 实时看板数据 | 持续流式 | **Polars 2.0** | streaming=True |
+| 机器学习/预测 | <百万 | **Pandas** | sklearn/LightGBM生态 |
+| 销售日报PDF | 万-十万 | **DuckDB+Pandas** | SQL出数→Pandas画图 |
+
 ## 关联知识
 - [[SQL查询性能优化]]
 - [[ETL架构选型]]
 - [[零售数据仓库SQL实践]]
 - [[data_quality_governance|数据质量常态化治理]]
+- [[duckdb_olap_engine_2026|DuckDB嵌入式OLAP引擎]]
+- [[streamlit_dashboard_2026|Streamlit生产级实践]]

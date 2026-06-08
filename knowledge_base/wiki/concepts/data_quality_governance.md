@@ -2,10 +2,10 @@
 type: concept
 title: 数据质量常态化治理
 tags: [data_quality, governance, monitoring, data_consistency, timeliness]
-sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html]
+sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控]
 created: 2026-06-06
-updated: 2026-06-07
-cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]]
+updated: 2026-06-08
+cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]]
 ---
 
 # 数据质量常态化治理
@@ -89,6 +89,24 @@ cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据
 - **自有技术团队**：腾讯云WeData语义层或开源方案
 - **中小企业**：数猎天下模块解耦+快速落地
 - **自建轻量方案**：Streamlit/Polars/SQL组合，手写质量规则脚本
+
+## 五阶段落地路线图（2026-06新增）
+
+基于FineReport 2026年发布的系统化数据质量管控方案，匹配服装零售行业实际：
+
+| 阶段 | 周期 | 关键任务 | 服装零售场景 |
+|------|:---:|---------|-------------|
+| 1. 现状评估 | 1-2月 | 数据质量摸底/问题清单 | 盘点各品牌db字段标准一致性 |
+| 2. 战略规划 | 2-3月 | 管控方案/组织架构 | 设立数据Owner（品牌维度） |
+| 3. 流程建设 | 2-4月 | 数据标准/校验机制 | 统一barcode→style_color映射 |
+| 4. 工具上线 | 2-6月 | 监控平台/预警系统 | 搭建Streamlit+SQL质量看板 |
+| 5. 持续优化 | 长期 | 评估改进/绩效提升 | 周级质量报告+自动化修复 |
+
+### 零售案例验证
+
+- 某连锁零售上线主数据管理：客户画像准确率 **+20%**，营销转化率 **+12%**
+- IBM报告：全球数据质量问题年均损失 **$3.1万亿**
+- 制造业参考：FineReport做数据填报+校验+权限分级，出错率 30%→**5%**
 
 ## 关联知识
 - [[ETL架构选型]]
