@@ -84,3 +84,5 @@ cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[SQL查询
 - [[SQL查询性能优化]]
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]]
 - [[零售数据仓库SQL实践]]
+
+- [[2026-06-08_lenxdt_服装订货会精准策划]]

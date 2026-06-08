@@ -91,6 +91,7 @@ st.caption("所有时间均为北京时间 (UTC+8)")
 - [[polars_vs_pandas_2026]]
 - [[duckdb_olap_engine_2026]]
 
+- [[2026-06-07_Python看板框架对比2026]]
 ## v1.47 主题与API升级（2026-06更新）
 
 ### 主题配置增强

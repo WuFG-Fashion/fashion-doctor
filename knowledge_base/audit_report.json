@@ -1,0 +1,251 @@
+{
+  "audit_date": "2026-06-08",
+  "total_pages": 118,
+  "perfect_pages": 89,
+  "issues_pages": 29,
+  "summary": {
+    "no_frontmatter": 0,
+    "no_type": 0,
+    "type_mismatch": 0,
+    "no_tags": 0,
+    "no_sources": 4,
+    "no_links": 10,
+    "no_oneliner": 11,
+    "expired_90d": 0
+  },
+  "directory_stats": {
+    "comparisons": {
+      "total": 4,
+      "no_fm": 0,
+      "no_links": 0,
+      "issues": 1
+    },
+    "concepts": {
+      "total": 29,
+      "no_fm": 0,
+      "no_links": 0,
+      "issues": 5
+    },
+    "entities": {
+      "total": 11,
+      "no_fm": 0,
+      "no_links": 0,
+      "issues": 2
+    },
+    "practices": {
+      "total": 9,
+      "no_fm": 0,
+      "no_links": 0,
+      "issues": 5
+    },
+    "sources": {
+      "total": 65,
+      "no_fm": 0,
+      "no_links": 10,
+      "issues": 16
+    }
+  },
+  "issues": [
+    {
+      "file": "comparisons\\menswear_brands_2026q1.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）",
+        "⚠️ 缺少来源标注（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "concepts\\duckdb_olap_engine_2026.md",
+      "issues": [
+        "⚠️ 页面有 4 个 H1 标题"
+      ]
+    },
+    {
+      "file": "concepts\\polars_vs_pandas_2026.md",
+      "issues": [
+        "⚠️ 页面有 8 个 H1 标题"
+      ]
+    },
+    {
+      "file": "concepts\\streamlit_dashboard_2026.md",
+      "issues": [
+        "⚠️ 页面有 2 个 H1 标题"
+      ]
+    },
+    {
+      "file": "concepts\\服装门店经营AI化2026.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "concepts\\男装品牌竞争格局2026Q1.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "entities\\hla.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）",
+        "⚠️ 缺少来源标注（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "entities\\semir.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）",
+        "⚠️ 缺少来源标注（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "practices\\brand_config_driven_system.md",
+      "issues": [
+        "⚠️ 页面有 3 个 H1 标题"
+      ]
+    },
+    {
+      "file": "practices\\data_quality_retail_practice.md",
+      "issues": [
+        "⚠️ 页面有 3 个 H1 标题"
+      ]
+    },
+    {
+      "file": "practices\\multi_brand_unified_analytics.md",
+      "issues": [
+        "⚠️ 页面有 4 个 H1 标题"
+      ]
+    },
+    {
+      "file": "practices\\sku_inventory_sql_operations.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少来源标注（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "practices\\streamlit_production_dashboard.md",
+      "issues": [
+        "⚠️ 页面有 23 个 H1 标题"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_FindPowerAI_2026AI销售陪练选型.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_妍丽北森_AI陪练零售案例.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_服装门店AI数字化2026.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_森马2026Q1.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_海澜之家2025年报.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-06_男装品牌2026Q1四强对比.md",
+      "issues": [
+        "⚠️ frontmatter 缺少 sources 字段（CLAUDE.md 5.1）",
+        "⚠️ 缺少一句话摘要 (blockquote)（CLAUDE.md 5.1）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-07_Polars_2.0流式ETL.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-07_Python看板框架对比2026.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-07_数据治理平台TOP榜2026.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-07_零售数据分析框架2026.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_lenxdt_服装订货会精准策划.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_中研网_2026全球服装行业趋势.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_人人都是产品经理_安踏私域复购策略.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_思创_AI陪练成交率提升13.8.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_有赞_RFM分层自动化触达2026.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    },
+    {
+      "file": "sources\\2026-06-08_百家号_Megaview_Agent陪练2026.md",
+      "issues": [
+        "❌ 没有任何 [[双链]]（CLAUDE.md 5.1 要求至少一条）"
+      ]
+    }
+  ],
+  "orphan_pages": [
+    "sources\\2026-06-07_Polars_2.0流式ETL.md",
+    "sources\\2026-06-07_Python看板框架对比2026.md",
+    "sources\\2026-06-07_数据治理平台TOP榜2026.md",
+    "sources\\2026-06-07_零售数据分析框架2026.md",
+    "sources\\2026-06-08_lenxdt_服装订货会精准策划.md",
+    "sources\\2026-06-08_中研网_2026全球服装行业趋势.md",
+    "sources\\2026-06-08_人人都是产品经理_安踏私域复购策略.md",
+    "sources\\2026-06-08_思创_AI陪练成交率提升13.8.md",
+    "sources\\2026-06-08_有赞_RFM分层自动化触达2026.md",
+    "sources\\2026-06-08_百家号_Megaview_Agent陪练2026.md"
+  ]
+}

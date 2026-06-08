@@ -71,3 +71,5 @@ cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL
 - [[零售数据仓库SQL实践]]
 - [[ETL架构选型]]
 - [[polars_vs_pandas_2026]]
+
+- [[2026-06-07_Python看板框架对比2026]]
