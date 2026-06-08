@@ -65,6 +65,8 @@ updated: 2026-06-07 13:55
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[streamlit_dashboard_2026]] ⭐ NEW | Streamlit 2026生产级实践：缓存/状态/7大故障修复 | streamlit, production, caching |
+| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
+| [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -91,6 +93,11 @@ updated: 2026-06-07 13:55
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-06-08_全零售AI火花大会v2]] ⭐ NEW | CCFA AI火花大会腾讯深度版：英特尔/银泰/锅圈/孩子王/百果园五大案例 | ai, retail, smart_store |
+| [[2026-06-08_知衣FD_AI试衣工具选型]] ⭐ NEW | 知衣FD：商拍成本降80-92%/1天→30秒/五步标准化 | ai, virtual_tryon, ecommerce |
+| [[2026-06-08_中国服装协会_2026Q1深度分析]] ⭐ NEW | 2026Q1行业全数据：营收2425.68亿/利润率2.23%/亏损面35.60% | industry, kpi, benchmark |
+| [[2026-06-08_产业链利润分化_2026Q1]] ⭐ NEW | 产业链利润分化：化纤+40% vs 服装-17.6%，剪刀差57.6pp | supply_chain, profit, cost |
+| [[2026-06-08_lululemon_2026Q1]] ⭐ NEW | lululemon Q1：营收25亿/净利-38%/中国+30%/全年指引下调 | lululemon, financial, competitor |
 | [[2026-06-06_NVIDIA零售AI规模化落地]] ⭐ NEW | NVIDIA 2026零售AI：从试点到规模化落地 | ai, retail, smart_store |
 | [[2026-06-06_Capgemini零售AI信任落地]] ⭐ NEW | Capgemini：71%消费者忧AI/信任瓶颈/2.3x数据基础 | ai, trust, data_governance, genai |
 | [[2026-06-06_AI时尚设计10大案例]] ⭐ NEW | 10大品牌AI设计：H&M样品-50%/Levi's退货-30-40% | ai, fashion_design, case_study |
@@ -173,5 +180,6 @@ updated: 2026-06-07 13:55
 | 37 | 06-07 07:50 | L2_00/01/02 | s5/e1/c3/co1 |
 | 38 | 06-07 13:55 | L2_03/04/05 | s6/e0/c3/p1 |
 | 39 | 06-07 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
+| 40 | 06-08 07:50 | L2_00/01/02 | s5/e0/c2/co0 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
