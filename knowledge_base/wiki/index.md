@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-07 13:55
+updated: 2026-06-08 13:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -61,6 +61,7 @@ updated: 2026-06-07 13:55
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
 | [[apparel_ai_agents_2026]] ⭐ NEW | 服装垂直AI智能体：四层架构+9大场景+三步战略 | ai, agent, fashion, supply_chain |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
+| [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
@@ -93,8 +94,14 @@ updated: 2026-06-07 13:55
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-06-08_有赞_RFM分层自动化触达2026]] ⭐ NEW | 有赞2026版RFM八类分层+四步自动化，65%品牌低复购/企微70%触达率 | vip, rfm, automation |
+| [[2026-06-08_人人都是产品经理_安踏私域复购策略]] ⭐ NEW | 安踏1.2亿私域会员复购>40%，"魔法数字"+三大标签体系 | vip, anta, private_domain |
 | [[2026-06-08_全零售AI火花大会v2]] ⭐ NEW | CCFA AI火花大会腾讯深度版：英特尔/银泰/锅圈/孩子王/百果园五大案例 | ai, retail, smart_store |
+| [[2026-06-08_百家号_Megaview_Agent陪练2026]] ⭐ NEW | CCFA 45%导购不足/52%政策滞后，Megaview成交率+18%/客单价+12% | guide, ai, coaching |
+| [[2026-06-08_思创_AI陪练成交率提升13.8]] ⭐ NEW | 思创三阶训练法，133人成交率+13.8%，培训周期90天→30天 | guide, ai, training |
 | [[2026-06-08_知衣FD_AI试衣工具选型]] ⭐ NEW | 知衣FD：商拍成本降80-92%/1天→30秒/五步标准化 | ai, virtual_tryon, ecommerce |
+| [[2026-06-08_中研网_2026全球服装行业趋势]] ⭐ NEW | AI SKU级售罄率预测/数字孪生工厂/Z世代驱动个性化定制 | merchandise, global, sustainability |
+| [[2026-06-08_lenxdt_服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货+三角款结构+售罄率KPI体系 | merchandise, buying, otb |
 | [[2026-06-08_中国服装协会_2026Q1深度分析]] ⭐ NEW | 2026Q1行业全数据：营收2425.68亿/利润率2.23%/亏损面35.60% | industry, kpi, benchmark |
 | [[2026-06-08_产业链利润分化_2026Q1]] ⭐ NEW | 产业链利润分化：化纤+40% vs 服装-17.6%，剪刀差57.6pp | supply_chain, profit, cost |
 | [[2026-06-08_lululemon_2026Q1]] ⭐ NEW | lululemon Q1：营收25亿/净利-38%/中国+30%/全年指引下调 | lululemon, financial, competitor |
@@ -181,5 +188,6 @@ updated: 2026-06-07 13:55
 | 38 | 06-07 13:55 | L2_03/04/05 | s6/e0/c3/p1 |
 | 39 | 06-07 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 | 40 | 06-08 07:50 | L2_00/01/02 | s5/e0/c2/co0 |
+| 41 | 06-08 13:55 | L2_03/04/05 | s6/e0/c0/p1 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
