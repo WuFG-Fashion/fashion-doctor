@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-09 07:50
+updated: 2026-06-09 13:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -15,7 +15,7 @@ updated: 2026-06-09 07:50
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
-| [[探马SCRM]] | 服装行业SCRM，RFM分层+导购赋能 | vendor, scrm, membership |
+| [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ NEW | 太平鸟603877，2025FY 63.34亿，毛利率62.87% | brand, competitor, a_share |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
@@ -72,6 +72,7 @@ updated: 2026-06-09 07:50
 | [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
+| [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -168,6 +169,11 @@ updated: 2026-06-09 07:50
 | [[2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1]] ⭐ NEW | Inditex Q1毛利率61.2%(+67bp)/净利€13.75亿/PBT利润率20.1% | zara, inditex, financial, 2026Q1 |
 | [[2026-06-09_FastRetailing_优衣库FY2026Q1]] ⭐ NEW | 迅销Q1 ¥1.0277万亿(+14.8%)/国际+20.3%/全年指引上调 | uniqlo, fast_retailing, financial, 2026Q1 |
 | [[2026-06-09_NRF_2026时尚科技AI创新者]] ⭐ NEW | Agentic Commerce/OpenAI×Target/4家女性领导创新公司 | ai, agentic_commerce, fashion_tech, nrf |
+| [[2026-06-09_跨境电商私域复购运营2026]] ⭐ NEW | 私域复购+18-35pp/LTV 1.6-2.8x/RFM+行为分层/2026五大趋势 | vip, private_domain, repurchase, ltv |
+| [[2026-06-09_探马SCRM全链路实测2026Q2]] ⭐ NEW | 探马22万客户/ROI 1:9.2/六维选型框架/分层定价实测 | vip, scrm, membership, system_selection |
+| [[2026-06-09_服装导购培训机构排行2026]] ⭐ NEW | 4家机构横评：成交率+30-65%/客单价+45%/复购+50% | guide, training, retail |
+| [[2026-06-09_服装快反供应链云上订货2026]] ⭐ NEW | 库存周转90天→云上订货+ERP+30%/智能仓储准确率95%/无人产线-60%人力 | supply_chain, inventory, digitalization |
+| [[2026-06-09_2026服装供应链革新趋势]] ⭐ NEW | 一手APP渗透65%+/六维评估/采购频次3.2x/10万从业者调研 | merchandise, sourcing, supply_chain |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -204,5 +210,6 @@ updated: 2026-06-09 07:50
 | 41 | 06-08 13:55 | L2_03/04/05 | s6/e0/c0/p1 |
 | 42 | 06-08 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 | 43 | 06-09 07:50 | L2_00/01/02 | s4/e0/c2/co0 |
+| **44** | **06-09 13:55** | **L2_03/04/05** | **s5/e0/c1/p0** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
