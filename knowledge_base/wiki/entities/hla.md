@@ -53,6 +53,6 @@ sources:
 ## 关联知识
 - [[男装品牌竞争格局2026Q1]]
 - [[semir|森马]]
-- [[太平鸟]]
+- [[peacebird|太平鸟]]
 - [[fast_retailing|优衣库]]
 - [[china_apparel_industry_2026q1|行业KPI基准]]

@@ -55,3 +55,5 @@ updated: 2026-06-05
 ---
 
 > 知识库版本：v4.0 (Karpathy 架构) | 总页面：24 (待迁移 23) | 覆盖品牌：7+ | 覆盖领域：7
+## 关联页面
+[[服装行业竞争格局]], [[retail_ai_adoption_2026]], [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[four_brands_2025]]

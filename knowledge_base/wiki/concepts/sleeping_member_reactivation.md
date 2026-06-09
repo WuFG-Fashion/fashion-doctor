@@ -5,7 +5,7 @@ tags: [vip, dormant_member, repurchase, member_reactivation, private_domain]
 sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]]
+cross_refs: [[septwolves|七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]]
 ---
 
 # 沉睡会员唤醒策略
@@ -61,7 +61,7 @@ cross_refs: [[七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运
 4. **从唤醒到留存**：唤醒只是起点，需配套会员权益长期留存
 
 ## 关联知识
-- [[七匹狼]]
+- [[septwolves|七匹狼]]
 - [[会员复购率提升策略]]
 - [[RFM会员分层运营实战]]
 - [[私域运营方法论]]

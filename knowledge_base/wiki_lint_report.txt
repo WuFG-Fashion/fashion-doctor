@@ -1,0 +1,2385 @@
+﻿==============================================
+  FASHION DOCTOR WIKI KNOWLEDGE BASE LINT REPORT
+  Generated: 2026-06-10 02:02:13
+==============================================
+
+=== SUMMARY STATISTICS ===
+Total .md files: 139
+Total wiki links (in body): 713
+Total cross_refs (frontmatter): 216
+Total sources (frontmatter): 179
+Files missing frontmatter: 0
+Files with zero wiki links: 1
+Malformed wiki links (nested brackets): 4
+
+=== FILE TYPE DISTRIBUTION ===
+  comparison: 4
+  concept: 33
+  entity: 11
+  index: 1
+  log: 1
+  overview: 1
+  practice: 10
+  source: 78
+
+=== TOP 40 TAG FREQUENCIES ===
+  1. ai (39 files)
+  2. retail (30 files)
+  3. competitor (25 files)
+  4. vip (17 files)
+  5. financial (16 files)
+  6. supply_chain (15 files)
+  7. merchandise (13 files)
+  8. membership (12 files)
+  9. 2026Q1 (12 files)
+  10. repurchase (11 files)
+  11. coaching (11 files)
+  12. benchmark (11 files)
+  13. private_domain (11 files)
+  14. python (10 files)
+  15. comparison (9 files)
+  16. menswear (9 files)
+  17. training (9 files)
+  18. guide (8 files)
+  19. trend (8 files)
+  20. polars (8 files)
+  21. multi_brand (7 files)
+  22. sql (7 files)
+  23. industry (7 files)
+  24. uniqlo (7 files)
+  25. pandas (7 files)
+  26. peacebird (7 files)
+  27. zara (7 files)
+  28. global (7 files)
+  29. streamlit (7 files)
+  30. digitalization (7 files)
+  31. rfm (7 files)
+  32. data_governance (6 files)
+  33. virtual_tryon (6 files)
+  34. etl (6 files)
+  35. dashboard (6 files)
+  36. inventory (6 files)
+  37. data_quality (6 files)
+  38. duckdb (5 files)
+  39. architecture (5 files)
+  40. data_warehouse (5 files)
+
+=== TOP 50 MOST REFERENCED WIKI LINKS ===
+  1. 服装行业竞争格局 -> referenced by 35 files
+  2. retail_ai_adoption_2026 -> referenced by 28 files
+  3. ETL架构选型 -> referenced by 21 files
+  4. 全渠道会员一体化 -> referenced by 20 files
+  5. china_apparel_industry_2026q1 -> referenced by 19 files
+  6. RFM会员分层运营实战 -> referenced by 18 files
+  7. 柔性供应链与商品企划 -> referenced by 17 files
+  8. multi_brand_unified_analytics -> referenced by 17 files
+  9. AI导购陪练 -> referenced by 17 files
+  10. SQL查询性能优化 -> referenced by 16 files
+  11. four_brands_2025 -> referenced by 16 files
+  12. polars_vs_pandas_2026 -> referenced by 16 files
+  13. 零售数据仓库SQL实践 -> referenced by 16 files
+  14. 动态OTB管理 -> referenced by 16 files
+  15. data_quality_governance -> referenced by 15 files
+  16. 会员复购率提升策略 -> referenced by 15 files
+  17. fast_retailing -> referenced by 14 files
+  18. ai_fashion_design_cases_2026 -> referenced by 13 files
+  19. 私域运营方法论 -> referenced by 12 files
+  20. 服装门店经营AI化2026 -> referenced by 12 files
+  21. peacebird -> referenced by 10 files
+  22. streamlit_dashboard_2026 -> referenced by 10 files
+  23. inditex_zara -> referenced by 10 files
+  24. 深维智信 -> referenced by 10 files
+  25. china_apparel_industry_scale_2026 -> referenced by 9 files
+  26. streamlit_production_dashboard -> referenced by 9 files
+  27. sku_fine_management -> referenced by 9 files
+  28. 探马SCRM -> referenced by 9 files
+  29. semir -> referenced by 9 files
+  30. data_quality_retail_practice -> referenced by 9 files
+  31. 太平鸟 -> referenced by 8 files
+  32. 男装品牌竞争格局2026Q1 -> referenced by 8 files
+  33. hla -> referenced by 8 files
+  34. sleeping_member_reactivation -> referenced by 8 files
+  35. duckdb_olap_engine_2026 -> referenced by 7 files
+  36. python_dashboard_ecosystem_2026 -> referenced by 7 files
+  37. 导购培训闭环体系 -> referenced by 7 files
+  38. three_brands_mid2026 -> referenced by 7 files
+  39. data_lakehouse_2026 -> referenced by 6 files
+  40. ai_virtual_tryon_2026 -> referenced by 6 files
+  41. muson_gxg -> referenced by 6 files
+  42. six_brands_2026q1 -> referenced by 6 files
+  43. data_library_selection_guide_2026 -> referenced by 5 files
+  44. data_governance_tech_routes_2026 -> referenced by 5 files
+  45. 丽晶 -> referenced by 5 files
+  46. 2026-06-09_Scopir_Python数据分析库2026横评 -> referenced by 4 files
+  47. 2026-06-08_百家号_Megaview_Agent陪练2026 -> referenced by 4 files
+  48. 2026-06-06_McKinsey时尚行业2026 -> referenced by 4 files
+  49. 2026-06-07_数据治理平台TOP榜2026 -> referenced by 4 files
+  50. menswear_brands_2026q1 -> referenced by 4 files
+
+=== PER-DIRECTORY SUMMARY ===
+  (root)/: 3 files | 140 wiki links | 0 missing FM | 1 no links
+  comparisons/: 4 files | 24 wiki links | 0 missing FM | 0 no links
+  concepts/: 33 files | 172 wiki links | 0 missing FM | 0 no links
+  entities/: 11 files | 55 wiki links | 0 missing FM | 0 no links
+  practices/: 10 files | 51 wiki links | 0 missing FM | 0 no links
+  sources/: 78 files | 271 wiki links | 0 missing FM | 0 no links
+
+=== FILES WITH ZERO WIKI LINKS ===
+  - overview.md
+
+=== MALFORMED WIKI LINKS (nested brackets) ===
+  FILE: sources/2026-06-08_百家号_Megaview_Agent陪练2026.md
+    LINK: [[[AI导购陪练]]
+  FILE: sources/2026-06-08_人人都是产品经理_安踏私域复购策略.md
+    LINK: [[[会员复购率提升策略]]
+  FILE: sources/2026-06-08_思创_AI陪练成交率提升13.8.md
+    LINK: [[[AI导购陪练]]
+  FILE: sources/2026-06-08_有赞_RFM分层自动化触达2026.md
+    LINK: [[[RFM会员分层运营实战]]
+
+
+========== DETAILED FILE-BY-FILE REPORT ==========
+
+────────────────────────────────────────
+FILE: comparisons/four_brands_2025.md
+  type: comparison
+  title: 四大品牌2025/2026财务对比
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [7] competitor, financial, comparison, peacebird, gxg, uniqlo, zara
+  cross_refs: [4] muson_gxg, fast_retailing, inditex_zara, 服装行业竞争格局
+  sources: [4] 2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-05_慕尚集团_GXG2025年报.md, 2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-05_Inditex_ZARA_FY2026Q1.md
+  wiki_links (body): [6]
+    - [[peacebird]]
+    - [[muson_gxg]]
+    - [[fast_retailing]]
+    - [[inditex_zara]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: comparisons/menswear_brands_2026q1.md
+  type: comparison
+  title: 男装品牌 2026Q1 财务四强对比
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] competitor, financials, comparison, menswear, 2026Q1
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[hla]]
+    - [[semir]]
+    - [[太平鸟]]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: comparisons/six_brands_2026q1.md
+  type: comparison
+  title: 六品牌2026Q1财务对比
+  created: 2026-06-07
+  updated: 2026-06-09
+  tags: [10] competitor, financial, comparison, peacebird, hla, semir, zara, uniqlo, lululemon, 2026Q1
+  cross_refs: [7] hla, semir, inditex_zara, fast_retailing, lululemon, four_brands_2025, three_brands_mid2026
+  sources: [5] 2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md
+  wiki_links (body): [5]
+    - [[four_brands_2025]]
+    - [[three_brands_mid2026]]
+    - [[menswear_brands_2026q1]]
+    - [[china_apparel_2026q1_operations]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: comparisons/three_brands_mid2026.md
+  type: comparison
+  title: 太平鸟 vs GXG vs 优衣库 — 2026年中期对比
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [8] peacebird, gxg, uniqlo, competitor, financial, comparison, 2026Q1, 2025FY
+  cross_refs: [3] muson_gxg, fast_retailing, four_brands_2025
+  sources: [1] 2026-06-06_竞品财务更新202606
+  wiki_links (body): [8]
+    - [[peacebird]]
+    - [[muson_gxg]]
+    - [[fast_retailing]]
+    - [[four_brands_2025]]
+    - [[menswear_brands_2026q1]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+    - [[2026-06-06_竞品财务更新202606]]
+
+────────────────────────────────────────
+FILE: concepts/agentic_commerce_fashion_2026.md
+  type: concept
+  title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [6] ai, agentic_commerce, fashion_retail, openai, nrf, search
+  cross_refs: [2] apparel_ai_agents_2026, ai_fashion_market_2026
+  sources: [1] 2026-06-09_NRF_2026时尚科技AI创新者.md
+  wiki_links (body): [5]
+    - [[retail_ai_adoption_2026]]
+    - [[data_quality_governance]]
+    - [[apparel_ai_agents_2026]]
+    - [[ai_fashion_market_2026]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: concepts/ai_fashion_design_cases_2026.md
+  type: concept
+  title: AI时尚设计十大案例（2026）
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [9] ai, fashion_design, case_study, virtual_prototype, sustainability, hnm, nike, levis, zara
+  cross_refs: [3] 服装门店经营AI化2026, inditex_zara, fast_retailing
+  sources: [1] DigitalDefynd 2026-05-28
+  wiki_links (body): [5]
+    - [[retail_ai_adoption_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[inditex_zara]]
+    - [[fast_retailing]]
+    - [[2026-06-06_AI时尚设计10大案例]]
+
+────────────────────────────────────────
+FILE: concepts/ai_fashion_ecommerce_tryon_tools_2026.md
+  type: concept
+  title: 服装AI试衣工具选型与落地（2026）
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech
+  cross_refs: [1] ai_fashion_design_cases_2026
+  sources: [1] 2026-06-08_知衣FD_AI试衣工具选型.md
+  wiki_links (body): [3]
+    - [[ai_virtual_tryon_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[retail_ai_adoption_2026]]
+
+────────────────────────────────────────
+FILE: concepts/ai_fashion_market_2026.md
+  type: concept
+  title: AI时尚市场规模与品牌应用全景2026
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [6] ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size
+  cross_refs: [3] ai_virtual_tryon_2026, ai_fashion_ecommerce_tryon_tools_2026, retail_ai_adoption_2026
+  sources: [1] 2026-06-09_Style3D_AI时尚品牌应用2026.md
+  wiki_links (body): [5]
+    - [[ai_fashion_design_cases_2026]]
+    - [[ai_virtual_tryon_2026]]
+    - [[ai_fashion_ecommerce_tryon_tools_2026]]
+    - [[retail_ai_adoption_2026]]
+    - [[apparel_ai_agents_2026]]
+
+────────────────────────────────────────
+FILE: concepts/ai_virtual_tryon_2026.md
+  type: concept
+  title: AI虚拟试衣技术2026
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, virtual_tryon, ecommerce, conversion, fashion_tech
+  cross_refs: [1] ai_fashion_design_cases_2026
+  sources: [1] 2026-06-07_AI虚拟试衣_服装电商.md
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: concepts/AI导购陪练.md
+  type: concept
+  title: AI导购陪练
+  created: 2026-06-05
+  updated: 2026-06-08
+  tags: [6] guide, ai, training, retail, coaching, llm
+  cross_refs: [1] 导购培训闭环体系
+  sources: [7] 2026-06-05_Megaview_AI导购陪练, 2026-06-06_FindPowerAI_2026AI销售陪练选型, 2026-06-06_妍丽北森_AI陪练零售案例, 2026-06-07_2026AI陪练选型指南, 2026-06-07_智能销售陪练闭环, 2026-06-08_百家号_Megaview_Agent陪练2026, 2026-06-08_思创_AI陪练成交率提升13.8
+  wiki_links (body): [5]
+    - [[深维智信]]
+    - [[导购培训闭环体系]]
+    - [[retail_ai_adoption_2026]]
+    - [[2026-06-08_思创_AI陪练成交率提升13.8]]
+    - [[2026-06-08_百家号_Megaview_Agent陪练2026]]
+
+────────────────────────────────────────
+FILE: concepts/apparel_ai_agents_2026.md
+  type: concept
+  title: 服装行业垂直AI智能体2026
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, agent, fashion, supply_chain, digitalization
+  cross_refs: [2] ai_fashion_design_cases_2026, 服装门店经营AI化2026
+  sources: [1] 2026-06-07_垂直AI智能体_服装新风口.md
+  wiki_links (body): [5]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[AI导购陪练]]
+    - [[服装门店经营AI化2026]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: concepts/apparel_supply_chain_profit_chasm_2026q1.md
+  type: concept
+  title: 服装产业链利润分化（2026Q1）
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] industry, profit, supply_chain, cost_pressure, benchmark
+  cross_refs: [1] china_apparel_industry_scale_2026
+  sources: [1] 2026-06-08_产业链利润分化_2026Q1.md
+  wiki_links (body): [5]
+    - [[china_apparel_industry_2026q1]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[柔性供应链与商品企划]]
+    - [[动态OTB管理]]
+    - [[six_brands_2026q1]]
+
+────────────────────────────────────────
+FILE: concepts/china_apparel_2026q1_operations.md
+  type: concept
+  title: 中国服装行业2026Q1运行基准
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] industry, kpi, benchmark, financial, 2026Q1
+  cross_refs: [1] china_apparel_industry_scale_2026
+  sources: [2] 2026-06-07_2026Q1服装行业运行扫描.md, 2026-06-05_中国服装协会_2026Q1行业经济运行分析.md
+  wiki_links (body): [4]
+    - [[china_apparel_industry_2026q1]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: concepts/china_apparel_industry_2026q1.md
+  type: concept
+  title: 2026Q1中国服装行业运营基准
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [6] kpi, benchmark, industry, china_apparel, financial, turnover
+  cross_refs: [1] four_brands_2025
+  sources: [1] 2026-06-05_中国服装协会_2026Q1行业经济运行分析.md
+  wiki_links (body): [3]
+    - [[china_apparel_industry_2026q1]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: concepts/china_apparel_industry_scale_2026.md
+  type: concept
+  title: 中国服装行业规模与结构（2026）
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] china_apparel, industry_scale, market_size, workforce, digitalization
+  cross_refs: [1] 服装行业竞争格局
+  sources: [1] WorldMetrics.org 2026-02
+  wiki_links (body): [6]
+    - [[china_apparel_industry_2026q1]]
+    - [[服装行业竞争格局]]
+    - [[2026-06-06_中国服装行业统计2026]]
+    - [[2026-06-06_McKinsey时尚行业2026]]
+    - [[retail_ai_adoption_2026]]
+    - [[2026-06-08_中研网_2026全球服装行业趋势]]
+
+────────────────────────────────────────
+FILE: concepts/data_governance_tech_routes_2026.md
+  type: concept
+  title: 2026数据治理平台技术路线选型
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [6] data_governance, platform, ai_native, cloud_native, modular, selection
+  cross_refs: [2] data_lakehouse_2026, multi_brand_unified_analytics
+  sources: [2] https://www.cnblogs.com/zhanglijundata/articles/20247756, 2026-06-09_解码数据局_数据治理平台四大技术路线2026
+  wiki_links (body): [7]
+    - [[data_quality_governance]]
+    - [[data_lakehouse_2026]]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+    - [[streamlit_dashboard_2026]]
+    - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
+    - [[2026-06-07_数据治理平台TOP榜2026]]
+
+────────────────────────────────────────
+FILE: concepts/data_lakehouse_2026.md
+  type: concept
+  title: 湖仓一体2026架构
+  created: 2026-06-08
+  updated: 2026-06-09
+  tags: [5] data_lakehouse, apache_iceberg, data_warehouse, etl, architecture
+  cross_refs: [4] multi_brand_unified_analytics, data_quality_governance, duckdb_olap_engine_2026, data_governance_tech_routes_2026
+  sources: [2] 2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479
+  wiki_links (body): [7]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+    - [[data_quality_governance]]
+    - [[duckdb_olap_engine_2026]]
+    - [[streamlit_production_dashboard]]
+    - [[data_governance_tech_routes_2026]]
+    - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
+
+────────────────────────────────────────
+FILE: concepts/data_quality_governance.md
+  type: concept
+  title: 数据质量常态化治理
+  created: 2026-06-06
+  updated: 2026-06-09
+  tags: [5] data_quality, governance, monitoring, data_consistency, timeliness
+  cross_refs: [4] data_governance_tech_routes_2026, 零售数据仓库SQL实践, 2026-06-07_数据治理平台TOP榜2026, multi_brand_unified_analytics
+  sources: [4] https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026
+  wiki_links (body): [6]
+    - [[ETL架构选型]]
+    - [[data_governance_tech_routes_2026]]
+    - [[零售数据仓库SQL实践]]
+    - [[polars_vs_pandas_2026]]
+    - [[data_lakehouse_2026]]
+    - [[2026-06-07_数据治理平台TOP榜2026]]
+
+────────────────────────────────────────
+FILE: concepts/duckdb_olap_engine_2026.md
+  type: concept
+  title: DuckDB嵌入式OLAP分析引擎
+  created: 2026-06-08
+  updated: 2026-06-09
+  tags: [6] duckdb, olap, sql, analytics, embedded, python
+  cross_refs: [4] SQL查询性能优化, ETL架构选型, 零售数据仓库SQL实践, data_library_selection_guide_2026
+  sources: [2] 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822
+  wiki_links (body): [7]
+    - [[polars_vs_pandas_2026]]
+    - [[SQL查询性能优化]]
+    - [[ETL架构选型]]
+    - [[零售数据仓库SQL实践]]
+    - [[streamlit_dashboard_2026]]
+    - [[data_library_selection_guide_2026]]
+    - [[2026-06-09_Scopir_Python数据分析库2026横评]]
+
+────────────────────────────────────────
+FILE: concepts/ETL架构选型.md
+  type: concept
+  title: ETL架构选型
+  created: 2026-06-06
+  updated: 2026-06-09
+  tags: [5] etl, data_warehouse, architecture, multi_brand, data_quality
+  cross_refs: [2] data_quality_retail_practice, streamlit_production_dashboard
+  sources: [1] 2026-06-06_FineDataLink_ETL数据仓库选型
+  wiki_links (body): [6]
+    - [[multi_brand_unified_analytics]]
+    - [[data_quality_retail_practice]]
+    - [[streamlit_production_dashboard]]
+    - [[SQL查询性能优化]]
+    - [[2026-06-07_Polars_2.0流式ETL]]
+    - [[data_library_selection_guide_2026]]
+
+────────────────────────────────────────
+FILE: concepts/polars_vs_pandas_2026.md
+  type: concept
+  title: Polars vs Pandas vs DuckDB 2026选型指南
+  created: 2026-06-06
+  updated: 2026-06-09
+  tags: [7] polars, duckdb, pandas, python, data_analysis, benchmark, etl
+  cross_refs: [4] ETL架构选型, 零售数据仓库SQL实践, duckdb_olap_engine_2026, 2026-06-07_Polars_2.0流式ETL
+  sources: [4] https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评
+  wiki_links (body): [9]
+    - [[SQL查询性能优化]]
+    - [[ETL架构选型]]
+    - [[零售数据仓库SQL实践]]
+    - [[data_quality_governance]]
+    - [[duckdb_olap_engine_2026]]
+    - [[streamlit_dashboard_2026]]
+    - [[data_library_selection_guide_2026]]
+    - [[2026-06-09_Scopir_Python数据分析库2026横评]]
+    - [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
+
+────────────────────────────────────────
+FILE: concepts/python_dashboard_ecosystem_2026.md
+  type: concept
+  title: 2026 Python看板生态系统
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [6] python, dashboard, streamlit, dash, gradio, comparison
+  cross_refs: [1] 零售数据仓库SQL实践
+  sources: [2] 2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard
+  wiki_links (body): [5]
+    - [[streamlit_dashboard_2026]]
+    - [[零售数据仓库SQL实践]]
+    - [[ETL架构选型]]
+    - [[polars_vs_pandas_2026]]
+    - [[2026-06-07_Python看板框架对比2026]]
+
+────────────────────────────────────────
+FILE: concepts/retail_ai_adoption_2026.md
+  type: concept
+  title: 2026零售AI采纳全景
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] ai, retail, adoption, roi, trend
+  cross_refs: [1] 服装行业竞争格局
+  sources: [2] 2026-06-05_NVIDIA_2026零售AI报告.md, 2026-06-05_Capgemini_2026零售AI趋势报告.md
+  wiki_links (body): [4]
+    - [[AI导购陪练]]
+    - [[服装行业竞争格局]]
+    - [[柔性供应链与商品企划]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: concepts/sku_fine_management.md
+  type: concept
+  title: 服装SKU精细化管理
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [6] sku, inventory, abc_xyz, replenishment, sell_through, merchandise
+  cross_refs: [1] 柔性供应链与商品企划
+  sources: [1] https://www.jiandaoyun.com/nblog/463605/
+  wiki_links (body): [6]
+    - [[动态OTB管理]]
+    - [[柔性供应链与商品企划]]
+    - [[SQL查询性能优化]]
+    - [[polars_vs_pandas_2026]]
+    - [[零售数据仓库SQL实践]]
+    - [[2026-06-08_lenxdt_服装订货会精准策划]]
+
+────────────────────────────────────────
+FILE: concepts/sleeping_member_reactivation.md
+  type: concept
+  title: 沉睡会员唤醒策略
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] vip, dormant_member, repurchase, member_reactivation, private_domain
+  cross_refs: [2] 会员复购率提升策略, RFM会员分层运营实战
+  sources: [2] http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223
+  wiki_links (body): [6]
+    - [[七匹狼]]
+    - [[会员复购率提升策略]]
+    - [[RFM会员分层运营实战]]
+    - [[私域运营方法论]]
+    - [[全渠道会员一体化]]
+    - [[2026-06-08_有赞_RFM分层自动化触达2026]]
+
+────────────────────────────────────────
+FILE: concepts/SQL查询性能优化.md
+  type: concept
+  title: SQL查询性能优化
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] sql, optimization, mysql, performance, retail_data
+  cross_refs: [1] data_quality_retail_practice
+  sources: [2] 2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战
+  wiki_links (body): [4]
+    - [[零售数据仓库SQL实践]]
+    - [[data_quality_retail_practice]]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: concepts/streamlit_dashboard_2026.md
+  type: concept
+  title: Streamlit 2026生产级最佳实践
+  created: 2026-06-07
+  updated: 2026-06-09
+  tags: [7] streamlit, dashboard, caching, session_state, production, theme, dataframe
+  cross_refs: [3] multi_brand_unified_analytics, streamlit_production_dashboard, duckdb_olap_engine_2026
+  sources: [4] 2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026
+  wiki_links (body): [8]
+    - [[python_dashboard_ecosystem_2026]]
+    - [[streamlit_production_dashboard]]
+    - [[multi_brand_unified_analytics]]
+    - [[ETL架构选型]]
+    - [[polars_vs_pandas_2026]]
+    - [[duckdb_olap_engine_2026]]
+    - [[2026-06-07_Python看板框架对比2026]]
+    - [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
+
+────────────────────────────────────────
+FILE: concepts/导购培训闭环体系.md
+  type: concept
+  title: 导购培训闭环体系
+  created: 2026-06-07
+  updated: 2026-06-09
+  tags: [6] guide, training, ai, coaching, retail, closed_loop
+  cross_refs: [1] 深维智信
+  sources: [3] 2026-06-07_智能销售陪练闭环, 2026-06-07_2026AI陪练选型指南, 2026-06-09_百家号_服装导购培训机构排行2026.md
+  wiki_links (body): [6]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+    - [[retail_ai_adoption_2026]]
+    - [[2026-06-08_思创_AI陪练成交率提升13.8]]
+    - [[2026-06-08_百家号_Megaview_Agent陪练2026]]
+    - [[2026-06-09_服装导购培训机构排行2026]]
+
+────────────────────────────────────────
+FILE: concepts/动态OTB管理.md
+  type: concept
+  title: 动态OTB管理
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] otb, merchandise, supply_chain, ai, retail_planning
+  cross_refs: [1] [柔性供应链与商品企划]], AI商品管理系统, [[服装行业竞争格局]
+  sources: [1] 2026-06-06_网易_季中OTB失控核心矛盾
+  wiki_links (body): [4]
+    - [[柔性供应链与商品企划]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+    - [[2026-06-08_lenxdt_服装订货会精准策划]]
+
+────────────────────────────────────────
+FILE: concepts/服装采购渠道选型2026.md
+  type: concept
+  title: 服装采购渠道选型2026
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] merchandise, sourcing, supply_chain, procurement, digitalization
+  cross_refs: [1] 柔性供应链与商品企划
+  sources: [1] 2026-06-09_百家号_2026服装供应链革新趋势.md
+  wiki_links (body): [5]
+    - [[服装企划趋势渠道]]
+    - [[柔性供应链与商品企划]]
+    - [[SKU精细化管理]]
+    - [[动态OTB管理]]
+    - [[2026-06-09_2026服装供应链革新趋势]]
+
+────────────────────────────────────────
+FILE: concepts/服装门店经营AI化2026.md
+  type: concept
+  title: 服装门店经营AI化 (2026)
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [3] ai, retail_digitalization, store_operation
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[retail_ai_adoption_2026]]
+    - [[动态OTB管理]]
+    - [[china_apparel_2026q1_operations]]
+    - [[SQL查询性能优化]]
+    - [[2026-06-07_零售数据分析框架2026]]
+
+────────────────────────────────────────
+FILE: concepts/服装企划趋势渠道.md
+  type: concept
+  title: 服装企划趋势渠道
+  created: 2026-06-07
+  updated: 2026-06-09
+  tags: [5] merchandise, planning, trend, data_tool, omni_channel
+  cross_refs: [5] sku_fine_management, 柔性供应链与商品企划, 服装行业竞争格局, 服装订货会精准策划, china_apparel_industry_2026q1
+  sources: [4] 2026-06-07_2026服装企划趋势预测, 2026-06-07_2026全球服装行业变革, 2026-06-08_中研网_2026全球服装行业趋势, 2026-06-09_百家号_2026服装供应链革新趋势.md
+  wiki_links (body): [6]
+    - [[动态OTB管理]]
+    - [[sku_fine_management]]
+    - [[柔性供应链与商品企划]]
+    - [[服装行业竞争格局]]
+    - [[服装订货会精准策划]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: concepts/服装行业竞争格局.md
+  type: concept
+  title: 服装行业竞争格局
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [4] competitor, retail, trend, market
+  cross_refs: [1] [[柔性供应链与商品企划]], [[太平鸟]], 竞品综合对比
+  sources: [1] 2026-06-05_中研网_2026服装行业趋势
+  wiki_links (body): [3]
+    - [[柔性供应链与商品企划]]
+    - [[太平鸟]]
+    - [[2026-06-08_中研网_2026全球服装行业趋势]]
+
+────────────────────────────────────────
+FILE: concepts/会员复购率提升策略.md
+  type: concept
+  title: 会员复购率提升策略
+  created: 2026-06-06
+  updated: 2026-06-09
+  tags: [5] vip, repurchase, ai, membership, retention
+  cross_refs: [3] RFM会员分层运营实战, 私域运营方法论, sleeping_member_reactivation
+  sources: [5] 2026-06-06_原创力_会员复购率提升案例, 2026-06-06_百家号_跨境电商私域复购, 2026-06-08_人人都是产品经理_安踏私域复购策略, 2026-06-09_百家号_跨境电商私域复购运营2026.md, 2026-06-09_探马SCRM_私域运营全链路实测2026Q2.md
+  wiki_links (body): [7]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[私域运营方法论]]
+    - [[retail_ai_adoption_2026]]
+    - [[sleeping_member_reactivation]]
+    - [[2026-06-08_人人都是产品经理_安踏私域复购策略]]
+    - [[探马SCRM]]
+
+────────────────────────────────────────
+FILE: concepts/男装品牌竞争格局2026Q1.md
+  type: concept
+  title: 男装品牌竞争格局 2026Q1
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] competitor, comparison, menswear, 2026
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[hla]]
+    - [[semir]]
+    - [[太平鸟]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_2026q1_operations]]
+
+────────────────────────────────────────
+FILE: concepts/全渠道会员一体化.md
+  type: concept
+  title: 全渠道会员一体化
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] vip, membership, omnichannel, retail, rfm
+  cross_refs: [2] 丽晶, 探马SCRM
+  sources: [2] 2026-06-05_丽晶_全渠道会员一体化, 2026-06-05_探马SCRM_RFM分层运营
+  wiki_links (body): [4]
+    - [[RFM会员分层运营实战]]
+    - [[丽晶]]
+    - [[探马SCRM]]
+    - [[2026-06-08_人人都是产品经理_安踏私域复购策略]]
+
+────────────────────────────────────────
+FILE: concepts/柔性供应链与商品企划.md
+  type: concept
+  title: 柔性供应链与商品企划
+  created: 2026-06-05
+  updated: 2026-06-09
+  tags: [5] merchandise, supply_chain, retail, trend, ai
+  cross_refs: [1] sku_fine_management
+  sources: [2] 2026-06-05_中研网_2026服装行业趋势, 2026-06-09_百家号_服装快反供应链云上订货2026.md
+  wiki_links (body): [2]
+    - [[服装行业竞争格局]]
+    - [[sku_fine_management]]
+
+────────────────────────────────────────
+FILE: entities/fast_retailing.md
+  type: entity
+  title: 迅销（优衣库）
+  created: 2026-06-05
+  updated: 2026-06-09
+  tags: [5] uniqlo, fast_retailing, competitor, global, japan
+  cross_refs: [6] inditex_zara, muson_gxg, four_brands_2025, three_brands_mid2026, six_brands_2026q1, 服装行业竞争格局
+  sources: [2] 2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md
+  wiki_links (body): [4]
+    - [[peacebird]]
+    - [[inditex_zara]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: entities/hla.md
+  type: entity
+  title: 海澜之家 (HLA)
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] competitor, menswear, entity, stock_600398
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[semir]]
+    - [[太平鸟]]
+    - [[fast_retailing]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: entities/inditex_zara.md
+  type: entity
+  title: Inditex（ZARA）
+  created: 2026-06-05
+  updated: 2026-06-09
+  tags: [6] zara, inditex, competitor, fast_fashion, global, spain
+  cross_refs: [3] fast_retailing, four_brands_2025, six_brands_2026q1
+  sources: [2] 2026-06-05_Inditex_ZARA_FY2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md
+  wiki_links (body): [4]
+    - [[peacebird]]
+    - [[fast_retailing]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: entities/lululemon.md
+  type: entity
+  title: lululemon
+  created: 2026-06-07
+  updated: 2026-06-08
+  tags: [5] lululemon, competitor, athleisure, global, canada
+  cross_refs: [4] fast_retailing, semir, inditex_zara, six_brands_2026q1
+  sources: [2] 2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-08_lululemon_2026Q1.md
+  wiki_links (body): [6]
+    - [[peacebird]]
+    - [[fast_retailing]]
+    - [[semir]]
+    - [[inditex_zara]]
+    - [[服装行业竞争格局]]
+    - [[six_brands_2026q1]]
+
+────────────────────────────────────────
+FILE: entities/muson_gxg.md
+  type: entity
+  title: 慕尚集团（GXG）
+  created: 2026-06-05
+  updated: 2026-06-06
+  tags: [4] gxg, competitor, menswear, hk_listed
+  cross_refs: [3] fast_retailing, four_brands_2025, three_brands_mid2026
+  sources: [1] 2026-06-05_慕尚集团_GXG2025年报.md
+  wiki_links (body): [6]
+    - [[peacebird]]
+    - [[fast_retailing]]
+    - [[four_brands_2025]]
+    - [[three_brands_mid2026]]
+    - [[服装行业竞争格局]]
+    - [[2026-06-06_竞品财务更新202606]]
+
+────────────────────────────────────────
+FILE: entities/peacebird.md
+  type: entity
+  title: 太平鸟
+  created: 2026-06-05
+  updated: 2026-06-07
+  tags: [6] peacebird, competitor, menswear, womenswear, kidswear, a_share
+  cross_refs: [7] fast_retailing, inditex_zara, hla, semir, four_brands_2025, three_brands_mid2026, 服装行业竞争格局
+  sources: [1] 2026-06-05_太平鸟_2025年报2026Q1.md
+  wiki_links (body): [8]
+    - [[muson_gxg]]
+    - [[fast_retailing]]
+    - [[inditex_zara]]
+    - [[four_brands_2025]]
+    - [[three_brands_mid2026]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[2026-06-06_竞品财务更新202606]]
+
+────────────────────────────────────────
+FILE: entities/semir.md
+  type: entity
+  title: 森马服饰 (Semir)
+  created: 2026-06-06
+  updated: 2026-06-07
+  tags: [4] competitor, menswear, entity, stock_002563
+  cross_refs: []
+  sources: []
+  wiki_links (body): [4]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[hla]]
+    - [[太平鸟]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: entities/septwolves.md
+  type: entity
+  title: 七匹狼
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [6] septwolves, brand, competitor, menswear, a_share, private_domain
+  cross_refs: [2] 私域运营方法论, sleeping_member_reactivation
+  sources: [1] http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml
+  wiki_links (body): [8]
+    - [[hla]]
+    - [[semir]]
+    - [[会员复购率提升策略]]
+    - [[私域运营方法论]]
+    - [[sleeping_member_reactivation]]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[AI导购陪练]]
+
+────────────────────────────────────────
+FILE: entities/丽晶.md
+  type: entity
+  title: 丽晶
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] vendor, retail, erp, membership, omnichannel
+  cross_refs: [1] [全渠道会员一体化]], [[RFM会员分层运营实战]
+  sources: [1] 2026-06-05_丽晶_全渠道会员一体化
+  wiki_links (body): [2]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+
+────────────────────────────────────────
+FILE: entities/深维智信.md
+  type: entity
+  title: 深维智信 (Megaview)
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [6] vendor, ai, training, coaching, retail, llm
+  cross_refs: [1] [AI导购陪练]], [[导购培训闭环体系]
+  sources: [1] 2026-06-05_Megaview_AI导购陪练
+  wiki_links (body): [3]
+    - [[AI导购陪练]]
+    - [[导购培训闭环体系]]
+    - [[2026-06-08_百家号_Megaview_Agent陪练2026]]
+
+────────────────────────────────────────
+FILE: entities/探马SCRM.md
+  type: entity
+  title: 探马SCRM
+  created: 2026-06-05
+  updated: 2026-06-09
+  tags: [6] vendor, scrm, membership, private_domain, rfm, retail
+  cross_refs: [2] 全渠道会员一体化, 私域运营方法论
+  sources: [2] 2026-06-05_探马SCRM_RFM分层运营, 2026-06-09_探马SCRM_私域运营全链路实测2026Q2.md
+  wiki_links (body): [5]
+    - [[RFM会员分层运营实战]]
+    - [[全渠道会员一体化]]
+    - [[私域运营方法论]]
+    - [[会员复购率提升策略]]
+    - [[2026-06-09_探马SCRM全链路实测2026Q2]]
+
+────────────────────────────────────────
+FILE: index.md
+  type: index
+  title: 知识库导航
+  created: 2026-06-05
+  updated: 2026-06-09 19:55
+  tags: []
+  cross_refs: []
+  sources: []
+  wiki_links (body): [136]
+    - [[丽晶]]
+    - [[探马SCRM]]
+    - [[深维智信]]
+    - [[peacebird]]
+    - [[muson_gxg]]
+    - [[fast_retailing]]
+    - [[inditex_zara]]
+    - [[hla]]
+    - [[semir]]
+    - [[septwolves]]
+    - [[lululemon]]
+    - [[全渠道会员一体化]]
+    - [[AI导购陪练]]
+    - [[柔性供应链与商品企划]]
+    - [[服装行业竞争格局]]
+    - [[retail_ai_adoption_2026]]
+    - [[china_apparel_industry_2026q1]]
+    - [[SQL查询性能优化]]
+    - [[ETL架构选型]]
+    - [[动态OTB管理]]
+    - [[会员复购率提升策略]]
+    - [[服装门店经营AI化2026]]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[sleeping_member_reactivation]]
+    - [[sku_fine_management]]
+    - [[data_quality_governance]]
+    - [[polars_vs_pandas_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[ai_virtual_tryon_2026]]
+    - [[apparel_ai_agents_2026]]
+    - [[china_apparel_2026q1_operations]]
+    - [[服装订货会精准策划]]
+    - [[导购培训闭环体系]]
+    - [[服装企划趋势渠道]]
+    - [[python_dashboard_ecosystem_2026]]
+    - [[streamlit_dashboard_2026]]
+    - [[ai_fashion_ecommerce_tryon_tools_2026]]
+    - [[apparel_supply_chain_profit_chasm_2026q1]]
+    - [[duckdb_olap_engine_2026]]
+    - [[data_lakehouse_2026]]
+    - [[data_governance_tech_routes_2026]]
+    - [[ai_fashion_market_2026]]
+    - [[agentic_commerce_fashion_2026]]
+    - [[服装采购渠道选型2026]]
+    - [[RFM会员分层运营实战]]
+    - [[零售数据仓库SQL实践]]
+    - [[私域运营方法论]]
+    - [[sku_inventory_sql_operations]]
+    - [[multi_brand_unified_analytics]]
+    - [[streamlit_production_dashboard]]
+    - [[data_quality_retail_practice]]
+    - [[brand_config_driven_system]]
+    - [[data_library_selection_guide_2026]]
+    - [[four_brands_2025]]
+    - [[menswear_brands_2026q1]]
+    - [[three_brands_mid2026]]
+    - [[six_brands_2026q1]]
+    - [[2026-06-08_有赞_RFM分层自动化触达2026]]
+    - [[2026-06-08_人人都是产品经理_安踏私域复购策略]]
+    - [[2026-06-08_全零售AI火花大会v2]]
+    - [[2026-06-08_百家号_Megaview_Agent陪练2026]]
+    - [[2026-06-08_思创_AI陪练成交率提升13.8]]
+    - [[2026-06-08_知衣FD_AI试衣工具选型]]
+    - [[2026-06-08_中研网_2026全球服装行业趋势]]
+    - [[2026-06-08_lenxdt_服装订货会精准策划]]
+    - [[2026-06-08_中国服装协会_2026Q1深度分析]]
+    - [[2026-06-08_产业链利润分化_2026Q1]]
+    - [[2026-06-08_lululemon_2026Q1]]
+    - [[2026-06-06_NVIDIA零售AI规模化落地]]
+    - [[2026-06-06_Capgemini零售AI信任落地]]
+    - [[2026-06-06_AI时尚设计10大案例]]
+    - [[2026-06-06_McKinsey时尚行业2026]]
+    - [[2026-06-06_中国服装行业统计2026]]
+    - [[2026-06-06_竞品财务更新202606]]
+    - [[2026-06-05_丽晶_全渠道会员一体化]]
+    - [[2026-06-05_探马SCRM_RFM分层运营]]
+    - [[2026-06-05_Megaview_AI导购陪练]]
+    - [[2026-06-05_中研网_2026服装行业趋势]]
+    - [[2026-06-05_NVIDIA_2026零售AI报告]]
+    - [[2026-06-05_Capgemini_2026零售AI趋势报告]]
+    - [[2026-06-05_中国服装协会_2026Q1行业经济运行分析]]
+    - [[2026-06-05_太平鸟_2025年报2026Q1]]
+    - [[2026-06-05_慕尚集团_GXG2025年报]]
+    - [[2026-06-05_迅销_优衣库FY2026H1]]
+    - [[2026-06-05_Inditex_ZARA_FY2026Q1]]
+    - [[2026-06-06_腾讯云社区_MySQL查询优化]]
+    - [[2026-06-06_百度开发者_SQL优化实战]]
+    - [[2026-06-06_FineDataLink_ETL数据仓库选型]]
+    - [[2026-06-06_网易_季中OTB失控核心矛盾]]
+    - [[2026-06-06_原创力_会员复购率提升案例]]
+    - [[2026-06-06_百家号_跨境电商私域复购]]
+    - [[2026-06-06_森马2026Q1]]
+    - [[2026-06-06_海澜之家2025年报]]
+    - [[2026-06-06_男装品牌2026Q1四强对比]]
+    - [[2026-06-06_FindPowerAI_2026AI销售陪练选型]]
+    - [[2026-06-06_妍丽北森_AI陪练零售案例]]
+    - [[2026-06-06_服装门店AI数字化2026]]
+    - [[2026-06-06_新浪财经_七匹狼私域会员运营]]
+    - [[2026-06-06_百家号_2026沉睡会员唤醒方法]]
+    - [[2026-06-06_简道云_服装SKU进销存管理]]
+    - [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
+    - [[2026-06-06_鼎捷_大型集团主数据治理]]
+    - [[2026-06-06_百家号_数据质量常态化治理]]
+    - [[2026-06-07_全零售AI火花大会_落地攻坚]]
+    - [[2026-06-07_2026Q1服装行业运行扫描]]
+    - [[2026-06-07_垂直AI智能体_服装新风口]]
+    - [[2026-06-07_AI虚拟试衣_服装电商]]
+    - [[2026-06-07_竞品财务更新2026Q1]]
+    - [[2026-06-07_RFM分层与自动化触达2026]]
+    - [[2026-06-07_服装会员系统TOP榜2026]]
+    - [[2026-06-07_2026AI陪练选型指南]]
+    - [[2026-06-07_智能销售陪练闭环]]
+    - [[2026-06-07_2026服装企划趋势预测]]
+    - [[2026-06-07_2026全球服装行业变革]]
+    - [[2026-06-07_Polars_2.0流式ETL]]
+    - [[2026-06-07_Python看板框架对比2026]]
+    - [[2026-06-07_零售数据分析框架2026]]
+    - [[2026-06-07_数据治理平台TOP榜2026]]
+    - [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
+    - [[2026-06-08_Streamlit_v147特性解析]]
+    - [[2026-06-08_2026企业数据质量五阶段管控]]
+    - [[2026-06-08_2026湖仓一体与ETL新四化]]
+    - [[2026-06-09_Style3D_AI时尚品牌应用2026]]
+    - [[2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1]]
+    - [[2026-06-09_FastRetailing_优衣库FY2026Q1]]
+    - [[2026-06-09_NRF_2026时尚科技AI创新者]]
+    - [[2026-06-09_跨境电商私域复购运营2026]]
+    - [[2026-06-09_探马SCRM全链路实测2026Q2]]
+    - [[2026-06-09_服装导购培训机构排行2026]]
+    - [[2026-06-09_服装快反供应链云上订货2026]]
+    - [[2026-06-09_2026服装供应链革新趋势]]
+    - [[2026-06-09_Scopir_Python数据分析库2026横评]]
+    - [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
+    - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
+    - [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
+
+────────────────────────────────────────
+FILE: log.md
+  type: log
+  title: 操作日志
+  created: 2026-06-05
+  updated: 
+  tags: []
+  cross_refs: []
+  sources: []
+  wiki_links (body): [4]
+    - [[关联知识]]
+    - [[双链]]
+    - [[data_quality_retail_practice]]
+    - [[brand_config_driven_system]]
+
+────────────────────────────────────────
+FILE: overview.md
+  type: overview
+  title: 知识库综述
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: []
+  cross_refs: []
+  sources: []
+  wiki_links (body): []
+
+────────────────────────────────────────
+FILE: practices/brand_config_driven_system.md
+  type: practice
+  title: 品牌配置驱动多品牌系统
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] brand, configuration, python, streamlit, multi_brand, architecture
+  cross_refs: [1] streamlit_production_dashboard
+  sources: [2] L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合
+  wiki_links (body): [5]
+    - [[multi_brand_unified_analytics]]
+    - [[streamlit_production_dashboard]]
+    - [[data_quality_governance]]
+    - [[ETL架构选型]]
+    - [[data_lakehouse_2026]]
+
+────────────────────────────────────────
+FILE: practices/data_library_selection_guide_2026.md
+  type: practice
+  title: 数据分析库选型决策指南（2026版）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [7] polars, duckdb, pandas, python, selection, decision_tree, retail
+  cross_refs: [2] duckdb_olap_engine_2026, ETL架构选型
+  sources: [3] https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评
+  wiki_links (body): [6]
+    - [[polars_vs_pandas_2026]]
+    - [[duckdb_olap_engine_2026]]
+    - [[ETL架构选型]]
+    - [[streamlit_dashboard_2026]]
+    - [[multi_brand_unified_analytics]]
+    - [[SQL查询性能优化]]
+
+────────────────────────────────────────
+FILE: practices/data_quality_retail_practice.md
+  type: practice
+  title: 数据质量零售实操规范
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] data_quality, retail, sql, validation, anomaly_detection
+  cross_refs: [2] 零售数据仓库SQL实践, SQL查询性能优化
+  sources: [2] L3_06_01_数据质量红线, 2026-06-08_2026企业数据质量五阶段管控
+  wiki_links (body): [5]
+    - [[data_quality_governance]]
+    - [[零售数据仓库SQL实践]]
+    - [[SQL查询性能优化]]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: practices/multi_brand_unified_analytics.md
+  type: practice
+  title: 多品牌统一数据分析架构
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] multi_brand, analytics, architecture, data_integration, dashboard
+  cross_refs: [2] 零售数据仓库SQL实践, python_dashboard_ecosystem_2026
+  sources: [2] 2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03)
+  wiki_links (body): [8]
+    - [[ETL架构选型]]
+    - [[python_dashboard_ecosystem_2026]]
+    - [[streamlit_production_dashboard]]
+    - [[data_quality_governance]]
+    - [[零售数据仓库SQL实践]]
+    - [[2026-06-07_数据治理平台TOP榜2026]]
+    - [[2026-06-07_零售数据分析框架2026]]
+    - [[data_governance_tech_routes_2026]]
+
+────────────────────────────────────────
+FILE: practices/RFM会员分层运营实战.md
+  type: practice
+  title: RFM会员分层运营实战
+  created: 2026-06-05
+  updated: 2026-06-08
+  tags: [5] vip, rfm, retail, membership, operational
+  cross_refs: [3] 会员复购率提升策略, sleeping_member_reactivation, 探马SCRM
+  sources: [5] 2026-06-05_丽晶_全渠道会员一体化, 2026-06-05_探马SCRM_RFM分层运营, 2026-06-07_RFM分层与自动化触达2026, 2026-06-07_服装会员系统TOP榜2026, 2026-06-08_有赞_RFM分层自动化触达2026
+  wiki_links (body): [6]
+    - [[全渠道会员一体化]]
+    - [[会员复购率提升策略]]
+    - [[sleeping_member_reactivation]]
+    - [[探马SCRM]]
+    - [[丽晶]]
+    - [[2026-06-08_有赞_RFM分层自动化触达2026]]
+
+────────────────────────────────────────
+FILE: practices/sku_inventory_sql_operations.md
+  type: practice
+  title: 服装SKU进销存管理实操
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] sku, inventory, replenishment, practice, sql
+  cross_refs: [1] SQL查询性能优化
+  sources: []
+  wiki_links (body): [4]
+    - [[sku_fine_management]]
+    - [[SQL查询性能优化]]
+    - [[动态OTB管理]]
+    - [[零售数据仓库SQL实践]]
+
+────────────────────────────────────────
+FILE: practices/streamlit_production_dashboard.md
+  type: practice
+  title: Streamlit生产级多品牌看板构建
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] streamlit, dashboard, multi_brand, production, code
+  cross_refs: [2] multi_brand_unified_analytics, python_dashboard_ecosystem_2026
+  sources: [2] 2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04)
+  wiki_links (body): [5]
+    - [[streamlit_dashboard_2026]]
+    - [[multi_brand_unified_analytics]]
+    - [[python_dashboard_ecosystem_2026]]
+    - [[零售数据仓库SQL实践]]
+    - [[polars_vs_pandas_2026]]
+
+────────────────────────────────────────
+FILE: practices/服装订货会精准策划.md
+  type: practice
+  title: 服装订货会精准策划
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] merchandise, buying, otb, sell_through, inventory, planning
+  cross_refs: [2] 动态OTB管理, sku_fine_management
+  sources: [1] 2026-06-08_lenxdt_服装订货会精准策划
+  wiki_links (body): [4]
+    - [[服装企划趋势渠道]]
+    - [[动态OTB管理]]
+    - [[sku_fine_management]]
+    - [[柔性供应链与商品企划]]
+
+────────────────────────────────────────
+FILE: practices/零售数据仓库SQL实践.md
+  type: practice
+  title: 零售数据仓库SQL实践
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] sql, optimization, retail_data, data_warehouse, practice
+  cross_refs: [1] data_quality_retail_practice
+  sources: [2] 2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战
+  wiki_links (body): [4]
+    - [[SQL查询性能优化]]
+    - [[data_quality_retail_practice]]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: practices/私域运营方法论.md
+  type: practice
+  title: 私域运营方法论
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] vip, private_domain, repurchase, wechat, scrm
+  cross_refs: [1] 全渠道会员一体化
+  sources: [2] 2026-06-06_百家号_跨境电商私域复购, 2026-06-06_原创力_会员复购率提升案例
+  wiki_links (body): [4]
+    - [[会员复购率提升策略]]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[探马SCRM]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_Capgemini_2026零售AI趋势报告.md
+  type: source
+  title: 2026-06-05 Capgemini 2026零售AI趋势报告
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] ai, retail, trust, consumer, data_governance
+  cross_refs: [1] [retail_ai_adoption_2026]], [[AI导购陪练]
+  sources: [1] https://tecdat.cn/2026年零售业ai趋势报告：从概念炒作到价值落地
+  wiki_links (body): [3]
+    - [[retail_ai_adoption_2026]]
+    - [[AI导购陪练]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_Inditex_ZARA_FY2026Q1.md
+  type: source
+  title: 2026-06-05 Inditex ZARA FY2026Q1
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [6] zara, inditex, competitor, financial, fast_fashion, global
+  cross_refs: [1] four_brands_2025
+  sources: [1] https://life.tom.com/202606/1935003522.html
+  wiki_links (body): [3]
+    - [[inditex_zara]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_Megaview_AI导购陪练.md
+  type: source
+  title: 2026-06-05 Megaview AI陪练赋能零售导购
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] guide, ai, training, retail, coaching
+  cross_refs: [1] 深维智信
+  sources: [1] https://blog.megaview.com/archives/24143
+  wiki_links (body): [3]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+    - [[导购培训闭环体系]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_NVIDIA_2026零售AI报告.md
+  type: source
+  title: 2026-06-05 NVIDIA 2026零售AI报告
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] ai, retail, llm, agent, personalization
+  cross_refs: [1] [[retail_ai_adoption_2026]], [[AI导购陪练]], 零售AI案例
+  sources: [1] https://news.qq.com/rain/a/20260506A073E200
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[AI导购陪练]]
+    - [[服装行业竞争格局]]
+    - [[柔性供应链与商品企划]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_丽晶_全渠道会员一体化.md
+  type: source
+  title: 2026-06-05 丽晶 全渠道会员一体化管理
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] vip, retail, membership, omnichannel, rfm
+  cross_refs: [1] RFM会员分层运营实战
+  sources: [1] https://baijiahao.baidu.com/s?id=1864844768158276187
+  wiki_links (body): [3]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[丽晶]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_慕尚集团_GXG2025年报.md
+  type: source
+  title: 2026-06-05 慕尚集团 GXG 2025年报
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [4] gxg, competitor, financial, menswear
+  cross_refs: [1] four_brands_2025
+  sources: [1] http://finance.sina.com.cn/stock/estate/integration/2026-03-26/doc-inhsiusk0025893.shtml
+  wiki_links (body): [3]
+    - [[muson_gxg]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_太平鸟_2025年报2026Q1.md
+  type: source
+  title: 2026-06-05 太平鸟 2025年报2026Q1
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] peacebird, competitor, financial, menswear, womenswear
+  cross_refs: [1] four_brands_2025
+  sources: [1] https://k.sina.com.cn/article_7857201856_1d45362c001904sy10.html
+  wiki_links (body): [3]
+    - [[peacebird]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_探马SCRM_RFM分层运营.md
+  type: source
+  title: 2026-06-05 探马SCRM RFM会员分层运营服装案例
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] vip, retail, rfm, private_domain, membership
+  cross_refs: [1] 探马SCRM
+  sources: [1] https://www.cnblogs.com/-1688/p/20253115
+  wiki_links (body): [3]
+    - [[RFM会员分层运营实战]]
+    - [[探马SCRM]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_迅销_优衣库FY2026H1.md
+  type: source
+  title: 2026-06-05 迅销 优衣库 FY2026H1
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] uniqlo, fast_retailing, competitor, financial, global
+  cross_refs: [1] four_brands_2025
+  sources: [1] https://baijiahao.baidu.com/s?id=1862081433545035003
+  wiki_links (body): [3]
+    - [[fast_retailing]]
+    - [[four_brands_2025]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_中国服装协会_2026Q1行业经济运行分析.md
+  type: source
+  title: 2026-06-05 中国服装协会 2026Q1行业经济运行分析
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] kpi, benchmark, industry, china_apparel, financial
+  cross_refs: [1] china_apparel_industry_2026q1
+  sources: [1] https://baijiahao.baidu.com/s?id=1865248763113327965
+  wiki_links (body): [2]
+    - [[china_apparel_industry_2026q1]]
+    - [[four_brands_2025]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-05_中研网_2026服装行业趋势.md
+  type: source
+  title: 2026-06-05 中研网 2026服装行业市场趋势
+  created: 2026-06-05
+  updated: 2026-06-05
+  tags: [5] retail, merchandise, supply_chain, trend, ai
+  cross_refs: [1] 服装行业竞争格局
+  sources: [1] https://www.chinairn.com/news/20260417/16283143.shtml
+  wiki_links (body): [3]
+    - [[柔性供应链与商品企划]]
+    - [[服装行业竞争格局]]
+    - [[sku_fine_management]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_AI时尚设计10大案例.md
+  type: source
+  title: 2026年AI时尚设计10大案例
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] ai, fashion_design, case_study, virtual_prototype, sustainability
+  cross_refs: [1] retail_ai_adoption_2026
+  sources: [1] DigitalDefynd 2026-05-28
+  wiki_links (body): [5]
+    - [[ai_fashion_design_cases_2026]]
+    - [[retail_ai_adoption_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[inditex_zara]]
+    - [[fast_retailing]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_Capgemini零售AI信任落地.md
+  type: source
+  title: Capgemini 2026零售AI信任与落地
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [6] ai, retail, capgemini, trust, data_governance, genai
+  cross_refs: [1] data_quality_governance
+  sources: [1] Capgemini 2026 / tecdat.cn 2026-04-20
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[data_quality_governance]]
+    - [[2026-06-06_NVIDIA零售AI规模化落地]]
+    - [[2026-06-06_McKinsey时尚行业2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_FindPowerAI_2026AI销售陪练选型.md
+  type: source
+  title: FindPowerAI 2026 AI销售陪练选型指南
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] ai, guide_training, coaching, technology_selection
+  cross_refs: []
+  sources: []
+  wiki_links (body): [3]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+    - [[探马SCRM]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_FineDataLink_ETL数据仓库选型.md
+  type: source
+  title: 2026-03-27 FineDataLink 2026年ETL数据仓库选型指南
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] etl, data_warehouse, architecture, multi_brand
+  cross_refs: [1] multi_brand_unified_analytics
+  sources: [1] https://www.finedatalink.com/blog/article/69c5e0891916e24b22e6e3e4
+  wiki_links (body): [4]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+    - [[data_quality_retail_practice]]
+    - [[streamlit_production_dashboard]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_Kanaries_Polars_vs_Pandas_2026.md
+  type: source
+  title: Polars vs Pandas 2026选型指南
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] polars, pandas, python, data_analysis, benchmark
+  cross_refs: [1] SQL查询性能优化
+  sources: [1] https://docs.kanaries.net/zh/articles/polars-vs-pandas
+  wiki_links (body): [4]
+    - [[polars_vs_pandas_2026]]
+    - [[SQL查询性能优化]]
+    - [[零售数据仓库SQL实践]]
+    - [[ETL架构选型]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_McKinsey时尚行业2026.md
+  type: source
+  title: McKinsey State of Fashion 2026
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [6] fashion_industry, mckinsey, tariff, ai, second_hand, consumer_behavior
+  cross_refs: [1] china_apparel_industry_2026q1
+  sources: [1] McKinsey/BoF 2026-02
+  wiki_links (body): [4]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+    - [[retail_ai_adoption_2026]]
+    - [[2026-06-06_中国服装行业统计2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_NVIDIA零售AI规模化落地.md
+  type: source
+  title: NVIDIA 2026零售AI规模化落地
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] ai, retail, nvidia, smart_store, personalization
+  cross_refs: [1] 服装门店经营AI化2026
+  sources: [1] 雪球/腾讯新闻 2026-05-06
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[2026-06-06_Capgemini零售AI信任落地]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_百度开发者_SQL优化实战.md
+  type: source
+  title: 2026-03-02 百度开发者 SQL优化实战指南
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] sql, optimization, execution_plan, index_design
+  cross_refs: [1] [SQL查询性能优化]], [[零售数据仓库SQL实践]
+  sources: [1] https://developer.baidu.com/article/detail.html?id=6118318
+  wiki_links (body): [3]
+    - [[SQL查询性能优化]]
+    - [[零售数据仓库SQL实践]]
+    - [[data_quality_retail_practice]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_百家号_2026沉睡会员唤醒方法.md
+  type: source
+  title: 2026沉睡会员唤醒4类方法
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] vip, dormant_member, repurchase, member_reactivation
+  cross_refs: [1] 会员复购率提升策略
+  sources: [1] https://baijiahao.baidu.com/s?id=1859281518509086223
+  wiki_links (body): [5]
+    - [[sleeping_member_reactivation]]
+    - [[会员复购率提升策略]]
+    - [[RFM会员分层运营实战]]
+    - [[私域运营方法论]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_百家号_跨境电商私域复购.md
+  type: source
+  title: 2026-05-28 百家号 跨境电商私域复购运营
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] vip, repurchase, private_domain, ltv, customer_lifecycle
+  cross_refs: [1] 会员复购率提升策略
+  sources: [1] https://baijiahao.baidu.com/s?id=1866436970166986604
+  wiki_links (body): [4]
+    - [[私域运营方法论]]
+    - [[会员复购率提升策略]]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_百家号_数据质量常态化治理.md
+  type: source
+  title: 2026数据质量常态化治理四大核心指标
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] data_quality, governance, monitoring, data_consistency
+  cross_refs: [1] [[data_quality_governance|数据质量常态化治理]], [[ETL架构选型]], 多品牌数据治理体系
+  sources: [1] https://baijiahao.baidu.com/s?id=1865940131230636888
+  wiki_links (body): [3]
+    - [[data_quality_governance]]
+    - [[ETL架构选型]]
+    - [[零售数据仓库SQL实践]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_鼎捷_大型集团主数据治理.md
+  type: source
+  title: 2026大型集团主数据治理体系
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] data_governance, master_data, multi_brand, dcmm, data_consistency
+  cross_refs: [1] [[data_quality_governance|数据质量常态化治理]], [[ETL架构选型]], 多品牌数据治理体系
+  sources: [1] https://www.digiwin.com/t.php/p/13859.html
+  wiki_links (body): [3]
+    - [[data_quality_governance]]
+    - [[ETL架构选型]]
+    - [[polars_vs_pandas_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_服装门店AI数字化2026.md
+  type: source
+  title: 服装门店 AI 数字化经营 2026
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] ai, retail_digitalization, store_operation, 2026
+  cross_refs: []
+  sources: []
+  wiki_links (body): [4]
+    - [[服装门店经营AI化2026]]
+    - [[retail_ai_adoption_2026]]
+    - [[动态OTB管理]]
+    - [[会员复购率提升策略]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_海澜之家2025年报.md
+  type: source
+  title: 海澜之家 2025年报 & 2026Q1 全分析
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] competitor, financials, hla, 2025FY, 2026Q1
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[semir]]
+    - [[太平鸟]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_简道云_服装SKU进销存管理.md
+  type: source
+  title: 服装SKU进销存管理优化
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] sku, inventory, abc_classification, replenishment, sell_through
+  cross_refs: [2] 动态OTB管理, SQL查询性能优化
+  sources: [1] https://www.jiandaoyun.com/nblog/463605/
+  wiki_links (body): [5]
+    - [[sku_fine_management]]
+    - [[动态OTB管理]]
+    - [[柔性供应链与商品企划]]
+    - [[SQL查询性能优化]]
+    - [[polars_vs_pandas_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_竞品财务更新202606.md
+  type: source
+  title: 太平鸟/GXG/优衣库 2026年6月财务更新
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [6] peacebird, gxg, uniqlo, financial, 2026Q1, 2025FY
+  cross_refs: [2] muson_gxg, fast_retailing
+  sources: [2] 东方财富/10jqka/百家号/Fast Retailing IR, 2026-04/06
+  wiki_links (body): [5]
+    - [[peacebird]]
+    - [[muson_gxg]]
+    - [[fast_retailing]]
+    - [[three_brands_mid2026]]
+    - [[four_brands_2025]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_男装品牌2026Q1四强对比.md
+  type: source
+  title: 男装品牌 2026Q1 四强对比
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] competitor, financials, comparison, 2026Q1
+  cross_refs: []
+  sources: []
+  wiki_links (body): [5]
+    - [[hla]]
+    - [[semir]]
+    - [[太平鸟]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_森马2026Q1.md
+  type: source
+  title: 森马服饰 2026Q1 财报
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] competitor, financials, 2026Q1, semir
+  cross_refs: []
+  sources: []
+  wiki_links (body): [4]
+    - [[男装品牌竞争格局2026Q1]]
+    - [[hla]]
+    - [[太平鸟]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_腾讯云社区_MySQL查询优化.md
+  type: source
+  title: 2026-04-22 腾讯云社区 MySQL查询优化 3.2s→0.08s
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [4] sql, optimization, mysql, retail_data
+  cross_refs: [1] [SQL查询性能优化]], [[零售数据仓库SQL实践]
+  sources: [1] https://cloud.tencent.cn/developer/article/2658901
+  wiki_links (body): [4]
+    - [[SQL查询性能优化]]
+    - [[零售数据仓库SQL实践]]
+    - [[data_quality_retail_practice]]
+    - [[ETL架构选型]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_网易_季中OTB失控核心矛盾.md
+  type: source
+  title: 2026-04-29 网易 季中OTB失控核心矛盾与解法
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] otb, merchandise, supply_chain, ai, retail_planning
+  cross_refs: [1] [[动态OTB管理]], [[柔性供应链与商品企划]], AI商品管理系统
+  sources: [1] https://www.163.com/dy/article/KRMJ9MD405566NH6.html
+  wiki_links (body): [3]
+    - [[动态OTB管理]]
+    - [[柔性供应链与商品企划]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_新浪财经_七匹狼私域会员运营.md
+  type: source
+  title: 七匹狼2026私域会员运营实践
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] septwolves, vip, private_domain, repurchase, member_loyalty
+  cross_refs: [2] 会员复购率提升策略, 私域运营方法论
+  sources: [1] http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml
+  wiki_links (body): [7]
+    - [[七匹狼]]
+    - [[会员复购率提升策略]]
+    - [[私域运营方法论]]
+    - [[sleeping_member_reactivation]]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[AI导购陪练]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_妍丽北森_AI陪练零售案例.md
+  type: source
+  title: 妍丽 × 北森 AI陪练零售门店案例
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] ai, guide_training, coaching, retail_case, beisen
+  cross_refs: []
+  sources: []
+  wiki_links (body): [2]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_原创力_会员复购率提升案例.md
+  type: source
+  title: 2026-03-05 原创力 2026智慧零售会员复购率提升案例
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] vip, repurchase, ai, membership, loyalty
+  cross_refs: [1] 全渠道会员一体化
+  sources: [1] https://m.book118.com/html/2026/0305/5111124012013131.shtm
+  wiki_links (body): [4]
+    - [[会员复购率提升策略]]
+    - [[全渠道会员一体化]]
+    - [[RFM会员分层运营实战]]
+    - [[私域运营方法论]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-06_中国服装行业统计2026.md
+  type: source
+  title: 中国服装行业统计2026
+  created: 2026-06-06
+  updated: 2026-06-06
+  tags: [5] china_apparel, industry_scale, export, digitalization, workforce
+  cross_refs: [1] china_apparel_industry_scale_2026
+  sources: [1] WorldMetrics.org 2026-02-12
+  wiki_links (body): [4]
+    - [[china_apparel_industry_2026q1]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[服装行业竞争格局]]
+    - [[2026-06-06_McKinsey时尚行业2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_2026AI陪练选型指南.md
+  type: source
+  title: 2026企业AI陪练产品选型指南
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, coaching, training, guide, retail
+  cross_refs: [1] [AI导购陪练]], [[深维智信]
+  sources: [1] https://blog.csdn.net/2501_92416556/article/details/158890084
+  wiki_links (body): [3]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+    - [[retail_ai_adoption_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_2026Q1服装行业运行扫描.md
+  type: source
+  title: 2026Q1中国服装行业经济运行扫描
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] industry, kpi, benchmark, financial, 2026Q1
+  cross_refs: [1] china_apparel_industry_scale_2026
+  sources: [1] 2026-06-07_2026Q1服装行业经济运行扫描.md
+  wiki_links (body): [4]
+    - [[china_apparel_industry_2026q1]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[服装行业竞争格局]]
+    - [[男装品牌竞争格局2026Q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_2026服装企划趋势预测.md
+  type: source
+  title: 2026服装企划趋势预测与四大渠道横测
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] merchandise, planning, trend, data_tool, sku
+  cross_refs: [1] [动态OTB管理]], [[sku_fine_management]
+  sources: [1] https://blog.csdn.net/yuwenwei5/article/details/161616938
+  wiki_links (body): [3]
+    - [[动态OTB管理]]
+    - [[sku_fine_management]]
+    - [[柔性供应链与商品企划]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_2026全球服装行业变革.md
+  type: source
+  title: 2026全球服装行业变革：个性化与情感价值
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] apparel, global, supply_chain, customization, sustainability
+  cross_refs: [1] 动态OTB管理
+  sources: [1] https://www.chinairn.com/hyzx/20260427/145645384.shtml
+  wiki_links (body): [4]
+    - [[柔性供应链与商品企划]]
+    - [[动态OTB管理]]
+    - [[服装行业竞争格局]]
+    - [[china_apparel_industry_scale_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_AI虚拟试衣_服装电商.md
+  type: source
+  title: AI虚拟试衣2026：重塑服装电商体验
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, virtual_tryon, ecommerce, fashion_tech, conversion
+  cross_refs: [1] [ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026]
+  sources: [1] 2026-06-07_AI虚拟试衣_服装电商革命.md
+  wiki_links (body): [3]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[服装门店经营AI化2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_Polars_2.0流式ETL.md
+  type: source
+  title: Polars 2.0 流式ETL & 数据清洗终极指南
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [6] polars, etl, streaming, data_cleaning, arrow, performance
+  cross_refs: [4] SQL查询性能优化, ETL架构选型, [[[polars_vs_pandas_2026, ETL架构选型, data_quality_governance
+  sources: [1] https://blog.csdn.net/InstrIsle/article/details/159518188
+  wiki_links (body): [3]
+    - [[polars_vs_pandas_2026]]
+    - [[ETL架构选型]]
+    - [[data_quality_governance]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_Python看板框架对比2026.md
+  type: source
+  title: 2026年Python看板框架：Streamlit vs Dash vs Gradio完全指南
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [6] streamlit, dash, gradio, dashboard, python, comparison
+  cross_refs: [2] python_dashboard_ecosystem_2026, ETL架构选型, [[[streamlit_dashboard_2026
+  sources: [1] https://www.usedatabrain.com/how-to/create-python-dashboard
+  wiki_links (body): [2]
+    - [[python_dashboard_ecosystem_2026]]
+    - [[streamlit_dashboard_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_RFM分层与自动化触达2026.md
+  type: source
+  title: RFM分层+自动化触达的2026完整指南
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [6] vip, rfm, repurchase, membership, automation, retail
+  cross_refs: [1] 会员复购率提升策略
+  sources: [1] https://www.sohu.com/a/982848507_122112148
+  wiki_links (body): [4]
+    - [[会员复购率提升策略]]
+    - [[RFM会员分层运营实战]]
+    - [[全渠道会员一体化]]
+    - [[sleeping_member_reactivation]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_垂直AI智能体_服装新风口.md
+  type: source
+  title: 垂直AI智能体：服装行业2026新风口
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, agent, fashion, digitalization, supply_chain
+  cross_refs: [1] ai_fashion_design_cases_2026
+  sources: [1] 2026-06-07_垂直AI智能体_服装行业新风口.md
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[AI导购陪练]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_服装会员系统TOP榜2026.md
+  type: source
+  title: 2026服装店会员系统TOP榜深度横评
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] vip, membership, pos, ai_marketing, retail
+  cross_refs: [1] 私域运营方法论
+  sources: [1] https://baijiahao.baidu.com/s?id=1864870368817015199
+  wiki_links (body): [4]
+    - [[RFM会员分层运营实战]]
+    - [[私域运营方法论]]
+    - [[丽晶]]
+    - [[会员复购率提升策略]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_竞品财务更新2026Q1.md
+  type: source
+  title: 竞品财务更新2026Q1：六品牌中期对比
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [8] competitor, financial, peacebird, hla, semir, zara, lululemon, 2026Q1
+  cross_refs: [3] hla, semir, inditex_zara
+  sources: [1] 2026-06-07_竞品财务更新2026Q1_六品牌.md
+  wiki_links (body): [8]
+    - [[peacebird]]
+    - [[hla]]
+    - [[semir]]
+    - [[inditex_zara]]
+    - [[fast_retailing]]
+    - [[four_brands_2025]]
+    - [[menswear_brands_2026q1]]
+    - [[three_brands_mid2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_零售数据分析框架2026.md
+  type: source
+  title: 2026零售数据分析完整框架：从数据到决策
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] retail, data_analytics, framework, multi_brand, implementation
+  cross_refs: [3] ETL架构选型, python_dashboard_ecosystem_2026, [[服装门店经营AI化2026, [multi_brand_unified_analytics
+  sources: [1] https://www.nimbleway.com/blog/retail-data-analytics-the-complete-2026-guide-to-benefits-tools-implementation
+  wiki_links (body): [2]
+    - [[服装门店经营AI化2026]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_全零售AI火花大会_落地攻坚.md
+  type: source
+  title: 2026全零售AI火花大会：从试点到落地攻坚
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] ai, retail, smart_store, trend, 2026
+  cross_refs: [1] ai_fashion_design_cases_2026
+  sources: [1] 2026-06-07_2026全零售AI火花大会_四大趋势.md
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[AI导购陪练]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_数据治理平台TOP榜2026.md
+  type: source
+  title: 2026数据治理平台TOP榜与企业选型指南
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [5] data_governance, data_quality, platform, selection, compliance
+  cross_refs: [3] ETL架构选型, multi_brand_unified_analytics, [[[data_quality_governance, multi_brand_unified_analytics
+  sources: [1] https://www.sohu.com/a/1027823738_122828445
+  wiki_links (body): [2]
+    - [[data_quality_governance]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-07_智能销售陪练闭环.md
+  type: source
+  title: 智能销售陪练：学-练-考-评闭环体系
+  created: 2026-06-07
+  updated: 2026-06-07
+  tags: [6] ai, coaching, guide, training, retail, sales
+  cross_refs: [1] [AI导购陪练]], [[深维智信]
+  sources: [1] https://so.html5.qq.com/page/real/search_news?docid=70000021_9006a192a7660652
+  wiki_links (body): [3]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+    - [[retail_ai_adoption_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_2026湖仓一体与ETL新四化.md
+  type: source
+  title: 2026湖仓一体与ETL新四化架构
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] data_lakehouse, etl, data_warehouse, apache_iceberg, low_code
+  cross_refs: [1] ETL架构选型
+  sources: [1] https://www.finedatalink.com/blog/article/69c5e0f81916e24b22e6e54d
+  wiki_links (body): [3]
+    - [[data_lakehouse_2026]]
+    - [[ETL架构选型]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_2026企业数据质量五阶段管控.md
+  type: source
+  title: 2026企业数据质量五阶段管控体系
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] data_quality, governance, monitoring, automation, five_stage
+  cross_refs: [1] [data_quality_governance]], [[data_quality_retail_practice]
+  sources: [1] https://www.finereport.com/blog/article/695aec3a86e97409bb910c15
+  wiki_links (body): [3]
+    - [[data_quality_governance]]
+    - [[data_quality_retail_practice]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_lenxdt_服装订货会精准策划.md
+  type: source
+  title: 服装订货会精准策划方法论
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] merchandise, buying, otb, sell_through, inventory
+  cross_refs: [2] 动态OTB管理, sku_fine_management, [[sku_fine_management
+  sources: [1] 2026-06-08_lenxdt_服装订货会精准策划.md
+  wiki_links (body): [2]
+    - [[动态OTB管理]]
+    - [[sku_fine_management]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_lululemon_2026Q1.md
+  type: source
+  title: lululemon 2026Q1财报 — 北美失速中国撑场
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [4] lululemon, financial, q1_2026, competitor
+  cross_refs: [1] six_brands_2026q1
+  sources: [2] https://www.brandark.com/t/8ICsmRkU, https://www.caixin.com/2026-06-05/102451368.html
+  wiki_links (body): [3]
+    - [[lululemon]]
+    - [[six_brands_2026q1]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_Polars_DuckDB_Pandas三大引擎对比.md
+  type: source
+  title: 2026 Polars/DuckDB/Pandas三大数据分析引擎对比
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] polars, duckdb, pandas, python, benchmark, olap
+  cross_refs: [1] [polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]
+  sources: [1] https://pythondatabench.com/article/beyond-pandas-practical-guide-polars-duckdb-python-data-science
+  wiki_links (body): [3]
+    - [[polars_vs_pandas_2026]]
+    - [[duckdb_olap_engine_2026]]
+    - [[SQL查询性能优化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_Streamlit_v147特性解析.md
+  type: source
+  title: Streamlit v1.47.0 深度特性解析
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] streamlit, dashboard, theme, api, production
+  cross_refs: [1] streamlit_production_dashboard
+  sources: [1] https://docs.streamlit.io/develop/quick-reference/cheat-sheet
+  wiki_links (body): [3]
+    - [[streamlit_dashboard_2026]]
+    - [[streamlit_production_dashboard]]
+    - [[python_dashboard_ecosystem_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_百家号_Megaview_Agent陪练2026.md
+  type: source
+  title: Megaview Agent陪练 2026版
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] guide, ai, training, coaching, retail
+  cross_refs: [3] 导购培训闭环体系, 深维智信, [[[AI导购陪练, 深维智信
+  sources: [1] 2026-06-08_百家号_Megaview_Agent陪练2026.md
+  wiki_links (body): [3]
+    - [[[AI导购陪练]]
+    - [[导购培训闭环体系]]
+    - [[深维智信]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_产业链利润分化_2026Q1.md
+  type: source
+  title: 国家统计局 2026Q1纺织服装工业利润分化
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] industry, profit, supply_chain, upstream, downstream
+  cross_refs: [1] [apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[china_apparel_industry_2026q1]
+  sources: [1] https://www.100ppi.com/news/detail-20260427-5582535.html
+  wiki_links (body): [2]
+    - [[apparel_supply_chain_profit_chasm_2026q1]]
+    - [[china_apparel_industry_2026q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_全零售AI火花大会v2.md
+  type: source
+  title: 2026全零售AI火花大会v2 — 腾讯新闻深度版
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] ai, retail, smart_store, agent, digital_transformation
+  cross_refs: [1] ai_virtual_tryon_2026
+  sources: [1] https://news.qq.com/rain/a/20260415A07Q3400
+  wiki_links (body): [4]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_virtual_tryon_2026]]
+    - [[服装门店经营AI化2026]]
+    - [[2026-06-07_垂直AI智能体_服装新风口]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_人人都是产品经理_安踏私域复购策略.md
+  type: source
+  title: 安踏私域1.2亿会员复购策略
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] vip, private_domain, repurchase, customer_loyalty, anta
+  cross_refs: [3] RFM会员分层运营实战, 私域运营方法论, [[[会员复购率提升策略, 全渠道会员一体化
+  sources: [1] 2026-06-08_人人都是产品经理_安踏私域复购策略.md
+  wiki_links (body): [2]
+    - [[[会员复购率提升策略]]
+    - [[全渠道会员一体化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_思创_AI陪练成交率提升13.8.md
+  type: source
+  title: 思创AI陪练成交率提升13.8%
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] guide, ai, training, coaching, onboarding
+  cross_refs: [2] 导购培训闭环体系, 深维智信, [[[AI导购陪练
+  sources: [1] 2026-06-08_思创_AI陪练成交率提升13.8.md
+  wiki_links (body): [2]
+    - [[[AI导购陪练]]
+    - [[导购培训闭环体系]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_有赞_RFM分层自动化触达2026.md
+  type: source
+  title: 有赞 RFM分层自动化触达（2026版）
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] vip, rfm, repurchase, automation, private_domain
+  cross_refs: [3] 会员复购率提升策略, 探马SCRM, [[[RFM会员分层运营实战, sleeping_member_reactivation
+  sources: [1] 2026-06-08_有赞_RFM分层自动化触达2026.md
+  wiki_links (body): [2]
+    - [[[RFM会员分层运营实战]]
+    - [[sleeping_member_reactivation]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_知衣FD_AI试衣工具选型.md
+  type: source
+  title: 知衣FD — 2026服装电商AI试衣工具选型
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [5] ai, virtual_tryon, ecommerce, fashion_tech, roi
+  cross_refs: [1] ai_fashion_design_cases_2026
+  sources: [1] https://www.zhiyitech.com/activity/all/1553
+  wiki_links (body): [3]
+    - [[ai_virtual_tryon_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[retail_ai_adoption_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_中国服装协会_2026Q1深度分析.md
+  type: source
+  title: 中国服装协会 2026Q1行业经济运行深度分析
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] industry, kpi, benchmark, apparel, china, q1_2026
+  cross_refs: [1] china_apparel_industry_scale_2026
+  sources: [1] https://baijiahao.baidu.com/s?id=1865248763113327965
+  wiki_links (body): [3]
+    - [[china_apparel_industry_2026q1]]
+    - [[china_apparel_industry_scale_2026]]
+    - [[apparel_supply_chain_profit_chasm_2026q1]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-08_中研网_2026全球服装行业趋势.md
+  type: source
+  title: 中研网 2026全球服装行业趋势
+  created: 2026-06-08
+  updated: 2026-06-08
+  tags: [6] merchandise, global, supply_chain, sustainability, ai, trend
+  cross_refs: [3] 动态OTB管理, retail_ai_adoption_2026, [[china_apparel_industry_scale_2026, 服装行业竞争格局
+  sources: [1] 2026-06-08_中研网_2026全球服装行业趋势.md
+  wiki_links (body): [2]
+    - [[china_apparel_industry_scale_2026]]
+    - [[服装行业竞争格局]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_2026服装供应链革新趋势.md
+  type: source
+  title: 2026中国服装供应链革新趋势
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [4] supply_chain, merchandise, sourcing, digitalization
+  cross_refs: [1] 柔性供应链与商品企划
+  sources: [1] 2026-06-09_百家号_2026服装供应链革新趋势.md
+  wiki_links (body): [4]
+    - [[服装企划趋势渠道]]
+    - [[柔性供应链与商品企划]]
+    - [[动态OTB管理]]
+    - [[SKU精细化管理]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_FastRetailing_优衣库FY2026Q1.md
+  type: source
+  title: 迅销集团 FY2026 Q1 财报（截至2025.11）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] uniqlo, fast_retailing, financial, 2026Q1, competitor
+  cross_refs: [1] [fast_retailing]], [[six_brands_2026q1]
+  sources: [1] raw/articles/2026-06-09_FastRetailing_优衣库FY2026Q1.md
+  wiki_links (body): [3]
+    - [[fast_retailing]]
+    - [[six_brands_2026q1]]
+    - [[three_brands_mid2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测.md
+  type: source
+  title: Polars vs Pandas 2026深度评测（Kanaries）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [6] polars, pandas, benchmark, python, data_analysis, migration
+  cross_refs: [1] python_dashboard_ecosystem_2026
+  sources: []
+  wiki_links (body): [3]
+    - [[polars_vs_pandas_2026]]
+    - [[data_library_selection_guide_2026]]
+    - [[2026-06-09_Scopir_Python数据分析库2026横评]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_Kanaries_Streamlit_DataFrame优化2026.md
+  type: source
+  title: Streamlit DataFrame 显示与优化2026（Kanaries）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [6] streamlit, dataframe, visualization, optimization, pandas, polars
+  cross_refs: [1] polars_vs_pandas_2026
+  sources: []
+  wiki_links (body): [4]
+    - [[streamlit_dashboard_2026]]
+    - [[streamlit_production_dashboard]]
+    - [[polars_vs_pandas_2026]]
+    - [[python_dashboard_ecosystem_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_NRF_2026时尚科技AI创新者.md
+  type: source
+  title: NRF 2026 — 时尚科技AI创新者
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] ai, agentic_commerce, fashion_tech, retail, nrf
+  cross_refs: [1] [retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]
+  sources: [1] raw/articles/2026-06-09_NRF_2026时尚科技AI创新者.md
+  wiki_links (body): [3]
+    - [[retail_ai_adoption_2026]]
+    - [[ai_fashion_design_cases_2026]]
+    - [[ai_fashion_market_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md
+  type: source
+  title: RetailBoss — Inditex/ZARA FY2026Q1 深度数据
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] zara, inditex, financial, 2026Q1, competitor
+  cross_refs: [1] [inditex_zara]], [[six_brands_2026q1]
+  sources: [1] raw/articles/2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md
+  wiki_links (body): [3]
+    - [[inditex_zara]]
+    - [[six_brands_2026q1]]
+    - [[four_brands_2025]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_Scopir_Python数据分析库2026横评.md
+  type: source
+  title: Python数据分析库2026全面横评（Scopir）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [7] python, polars, duckdb, pandas, modin, benchmark, comparison
+  cross_refs: [1] [polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]
+  sources: []
+  wiki_links (body): [3]
+    - [[polars_vs_pandas_2026]]
+    - [[duckdb_olap_engine_2026]]
+    - [[SQL查询性能优化]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_Style3D_AI时尚品牌应用2026.md
+  type: source
+  title: Style3D — AI时尚品牌应用全景2026
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] ai, fashion_design, virtual_tryon, supply_chain, case_study
+  cross_refs: [1] ai_virtual_tryon_2026
+  sources: [1] raw/articles/2026-06-09_Style3D_AI时尚品牌应用2026.md
+  wiki_links (body): [4]
+    - [[ai_fashion_design_cases_2026]]
+    - [[ai_virtual_tryon_2026]]
+    - [[ai_fashion_ecommerce_tryon_tools_2026]]
+    - [[retail_ai_adoption_2026]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_服装导购培训机构排行2026.md
+  type: source
+  title: 2026服装导购培训机构排行榜
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [4] guide, training, coaching, retail
+  cross_refs: [1] AI导购陪练
+  sources: [1] 2026-06-09_百家号_服装导购培训机构排行2026.md
+  wiki_links (body): [3]
+    - [[导购培训闭环体系]]
+    - [[AI导购陪练]]
+    - [[深维智信]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_服装快反供应链云上订货2026.md
+  type: source
+  title: 2026服装快反供应链与云上订货
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [4] supply_chain, inventory, merchandise, digitalization
+  cross_refs: [1] 动态OTB管理
+  sources: [1] 2026-06-09_百家号_服装快反供应链云上订货2026.md
+  wiki_links (body): [4]
+    - [[柔性供应链与商品企划]]
+    - [[动态OTB管理]]
+    - [[SKU精细化管理]]
+    - [[零售数据仓库SQL实践]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_解码数据局_数据治理平台四大技术路线2026.md
+  type: source
+  title: 2026数据治理平台四大技术路线全解析（解码数据局）
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] data_governance, platform, ai_native, cloud_native, modular
+  cross_refs: [1] data_governance_tech_routes_2026
+  sources: []
+  wiki_links (body): [4]
+    - [[data_governance_tech_routes_2026]]
+    - [[data_quality_governance]]
+    - [[data_lakehouse_2026]]
+    - [[multi_brand_unified_analytics]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_跨境电商私域复购运营2026.md
+  type: source
+  title: 2026年跨境电商私域复购运营
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] vip, private_domain, repurchase, ltv, membership
+  cross_refs: [1] 私域运营方法论
+  sources: [1] 2026-06-09_百家号_跨境电商私域复购运营2026.md
+  wiki_links (body): [5]
+    - [[会员复购率提升策略]]
+    - [[私域运营方法论]]
+    - [[RFM会员分层运营实战]]
+    - [[沉睡会员唤醒策略]]
+    - [[探马SCRM]]
+
+────────────────────────────────────────
+FILE: sources/2026-06-09_探马SCRM全链路实测2026Q2.md
+  type: source
+  title: 探马SCRM私域运营全链路实测2026Q2
+  created: 2026-06-09
+  updated: 2026-06-09
+  tags: [5] vip, scrm, private_domain, membership, system_selection
+  cross_refs: [1] 私域运营方法论
+  sources: [1] 2026-06-09_探马SCRM_私域运营全链路实测2026Q2.md
+  wiki_links (body): [4]
+    - [[探马SCRM]]
+    - [[私域运营方法论]]
+    - [[RFM会员分层运营实战]]
+    - [[会员复购率提升策略]]
+
+
