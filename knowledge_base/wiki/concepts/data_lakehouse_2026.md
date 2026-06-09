@@ -4,8 +4,8 @@ title: 湖仓一体2026架构
 tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture]
 sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479]
 created: 2026-06-08
-updated: 2026-06-08
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]]
+updated: 2026-06-09
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
 ---
 
 # 湖仓一体2026架构
@@ -76,3 +76,5 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 - [[data_quality_governance]]
 - [[duckdb_olap_engine_2026]]
 - [[streamlit_production_dashboard]]
+- [[data_governance_tech_routes_2026|数据治理平台技术路线选型]]
+- [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]

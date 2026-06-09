@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-09 13:55
+updated: 2026-06-09 19:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -70,6 +70,7 @@ updated: 2026-06-09 13:55
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
+| [[data_governance_tech_routes_2026]] ⭐ NEW | 数据治理平台四大技术路线：AI原生/云生态/分布式/模块化+920亿市场 | data_governance, platform, selection |
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -85,6 +86,7 @@ updated: 2026-06-09 13:55
 | [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ NEW | pages模块化+缓存体系+品牌配置驱动+7项生产检查 | streamlit, dashboard, production, code |
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
+| [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
@@ -174,6 +176,10 @@ updated: 2026-06-09 13:55
 | [[2026-06-09_服装导购培训机构排行2026]] ⭐ NEW | 4家机构横评：成交率+30-65%/客单价+45%/复购+50% | guide, training, retail |
 | [[2026-06-09_服装快反供应链云上订货2026]] ⭐ NEW | 库存周转90天→云上订货+ERP+30%/智能仓储准确率95%/无人产线-60%人力 | supply_chain, inventory, digitalization |
 | [[2026-06-09_2026服装供应链革新趋势]] ⭐ NEW | 一手APP渗透65%+/六维评估/采购频次3.2x/10万从业者调研 | merchandise, sourcing, supply_chain |
+| [[2026-06-09_Scopir_Python数据分析库2026横评]] ⭐ NEW | Scopir六库横评：Polars TPC-H 22/22领先/能耗1/8/Modin不推荐 | python, polars, duckdb, benchmark |
+| [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]] ⭐ NEW | Kanaries详细基准：GroupBy 8x/排序11.7x/惰性求值/迁移速查表 | polars, pandas, benchmark, migration |
+| [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]] ⭐ NEW | 920亿市场/31.2%CAGR/四大路线：AI原生/云生态/分布式/模块化 | data_governance, platform, ai_native |
+| [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]] ⭐ NEW | Streamlit DataFrame三方法/五优化/Polars零拷贝/column_config | streamlit, dataframe, optimization |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -211,5 +217,6 @@ updated: 2026-06-09 13:55
 | 42 | 06-08 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
 | 43 | 06-09 07:50 | L2_00/01/02 | s4/e0/c2/co0 |
 | **44** | **06-09 13:55** | **L2_03/04/05** | **s5/e0/c1/p0** |
+| **45** | **06-09 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1/p1** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

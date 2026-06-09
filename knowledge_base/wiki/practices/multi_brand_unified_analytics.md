@@ -135,3 +135,4 @@ for brand in brands:
 
 - [[2026-06-07_数据治理平台TOP榜2026]]
 - [[2026-06-07_零售数据分析框架2026]]
+- [[data_governance_tech_routes_2026|数据治理平台技术路线选型]]

@@ -4,8 +4,8 @@ title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型]
 created: 2026-06-06
-updated: 2026-06-06
-cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]]
+updated: 2026-06-09
+cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]]
 ---
 
 # ETL架构选型
@@ -59,3 +59,4 @@ cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]],
 - [[SQL查询性能优化]]
 
 - [[2026-06-07_Polars_2.0流式ETL]]
+- [[data_library_selection_guide_2026|数据分析库选型决策指南]]

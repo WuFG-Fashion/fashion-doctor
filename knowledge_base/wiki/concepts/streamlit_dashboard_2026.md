@@ -1,11 +1,11 @@
 ---
 type: concept
 title: Streamlit 2026生产级最佳实践
-tags: [streamlit, dashboard, caching, session_state, production, theme]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析]
+tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026]
 created: 2026-06-07
-updated: 2026-06-08
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]]
+updated: 2026-06-09
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -82,6 +82,35 @@ st.caption("所有时间均为北京时间 (UTC+8)")
 - [ ] 应用放认证代理后面
 - [ ] 至少一个健康检查（uptime+合成测试）
 
+## DataFrame 显示与性能优化（2026-06新增）
+
+### 三种显示方法
+
+| 方法 | 适用 | 性能 | 交互 |
+|------|------|:---:|:---:|
+| `st.dataframe()` | **生产主力** | 高（虚拟滚动） | 排序/过滤/搜索 |
+| `st.table()` | <1000行静态展示 | 中 | 无 |
+| `st.data_editor()` | 用户编辑场景 | 中 | 编辑/复制/添加行 |
+
+### 五大优化策略
+
+| 策略 | 方法 |
+|------|------|
+| 限制行数 | `df.head(10000)` 或服务端预聚合 |
+| 列宽控制 | `column_config`指定像素宽度 |
+| 缓存数据 | `@st.cache_data` |
+| 列投影 | SELECT时只取展示列 |
+| Arrow互通 | Polars零拷贝传给Streamlit（v1.30+） |
+
+### 服装零售看板场景
+
+| 场景 | 推荐组件 |
+|------|---------|
+| 销售流水明细 | `st.dataframe()` + 虚拟滚动（百万行级别） |
+| KPI卡片 | `st.metric()` + delta对比 |
+| 品牌对比表 | `st.dataframe()` + column_config条件高亮/进度条 |
+| 排行榜 | `st.dataframe()` + 预排序+head(20) |
+
 ## 关联知识
 
 - [[python_dashboard_ecosystem_2026]]
@@ -92,6 +121,7 @@ st.caption("所有时间均为北京时间 (UTC+8)")
 - [[duckdb_olap_engine_2026]]
 
 - [[2026-06-07_Python看板框架对比2026]]
+- [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
 ## v1.47 主题与API升级（2026-06更新）
 
 ### 主题配置增强

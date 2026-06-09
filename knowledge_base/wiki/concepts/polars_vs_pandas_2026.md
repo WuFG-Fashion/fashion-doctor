@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评]
 created: 2026-06-06
-updated: 2026-06-08
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]]
+updated: 2026-06-09
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -24,6 +24,26 @@ cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库
 | Join(1000万×100万) | 2.1s | **0.35s** | 3-8x |
 
 > **关键结论**：<10万行几乎无差别；性能差距从100万行开始显著
+
+### TPC-H官方基准（PDS-H测试套件，2025-05）
+
+| 指标 | 数据 |
+|------|------|
+| 查询全面领先 | Polars在全部**22个**TPC-H衍生查询中均大幅领先Pandas |
+| 能耗（合成数据） | Polars能耗≈Pandas的**1/8**（即Pandas的12.5%） |
+| 能耗（TPC-H查询） | Polars仅消耗Pandas约**63%**的能量 |
+| Modin评价 | 内存更高+API不完整+小数据更慢（**不推荐**） |
+
+### 2026六库定位总表（Scopir横评）
+
+| 库 | 定位 | 推荐场景 |
+|------|------|----------|
+| **Polars 1.x** | 性能优先标杆 | 生产数据管道/惰性求值/ETL流水线 |
+| **DuckDB 1.x** | SQL聚合之王 | 多表JOIN/窗口函数/联邦查询/文件直查 |
+| **Pandas 2.2** | 生态王者 | ML/scikit-learn/Excel/Jupyter探索 |
+| **Modin** | ❌ 不推荐 | 两端不靠（兼容不如Pandas/性能不如Polars） |
+| **Vaex** | 维护模式 | 不推荐新项目 |
+| **DataFusion** | 增长中 | Rust原生项目 |
 
 ## 选型决策矩阵
 
@@ -183,3 +203,6 @@ pdf = features.to_pandas()
 - [[data_quality_governance|数据质量常态化治理]]
 - [[duckdb_olap_engine_2026|DuckDB嵌入式OLAP引擎]]
 - [[streamlit_dashboard_2026|Streamlit生产级实践]]
+- [[data_library_selection_guide_2026|数据分析库选型决策指南]]
+- [[2026-06-09_Scopir_Python数据分析库2026横评]]
+- [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
