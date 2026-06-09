@@ -5,7 +5,7 @@ tags: [data_quality, governance, monitoring, data_consistency, timeliness]
 sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控]
 created: 2026-06-06
 updated: 2026-06-08
-cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]]
+cross_refs: [[ETL架构选型]], 多品牌数据治理体系, [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]]
 ---
 
 # 数据质量常态化治理
@@ -110,7 +110,7 @@ cross_refs: [[ETL架构选型]], [[多品牌数据治理体系]], [[零售数据
 
 ## 关联知识
 - [[ETL架构选型]]
-- [[多品牌数据治理体系]]
+- 多品牌数据治理体系
 - [[零售数据仓库SQL实践]]
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]]
 

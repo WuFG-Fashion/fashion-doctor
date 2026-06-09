@@ -2,10 +2,10 @@
 type: entity
 title: Inditex（ZARA）
 tags: [zara, inditex, competitor, fast_fashion, global, spain]
-sources: [2026-06-05_Inditex_ZARA_FY2026Q1.md]
+sources: [2026-06-05_Inditex_ZARA_FY2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-07
-cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[服装行业竞争格局]]
+updated: 2026-06-09
+cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brands_2026q1]], [[服装行业竞争格局]]
 ---
 
 # Inditex / ZARA
@@ -18,13 +18,19 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[服装行
 - 主品牌：ZARA
 - 全球门店：5,456家(2026.4)
 
-## FY2026 Q1（2026年2-4月，6月3日发布）
+## FY2026 Q1（2026年2-4月，6月3日发布）🔥最新
 
 | 指标 | 欧元 | 人民币(~) | 同比 |
 |------|------|--------|------|
 | 净销售额 | 87.5亿 | ~690亿 | +5.8%（固定汇率+8.8%） |
-| 毛利润 | 54亿 | ~426亿 | — |
-| 净利润 | 14亿 | ~110亿 | — |
+| 毛利率 | **61.2%** | — | +67bp（vs 60.6%） |
+| EBITDA | 25.7亿 | ~202亿 | +7.3% |
+| EBIT | 17.6亿 | ~139亿 | +7% |
+| 净利润 | **13.75亿** | ~108亿 | +5.4% |
+| PBT利润率 | **20.1%** | — | +24bp |
+| 净现金 | 108亿 | ~852亿 | — |
+
+> Q2初期（5.1-6.1）销售固定汇率+11.5%，远超分析师~8%预期
 
 ## FY2024全年（基准年）
 

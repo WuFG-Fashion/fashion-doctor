@@ -5,7 +5,7 @@ tags: [sql, optimization, retail_data, data_warehouse, practice]
 sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[SQL查询性能优化]], [[数据质量红线]], [[ETL架构选型]]
+cross_refs: [[SQL查询性能优化]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]]
 ---
 
 # 零售数据仓库SQL实践
@@ -91,6 +91,6 @@ WHERE sale_date = '2026-06-06';
 
 ## 关联知识
 - [[SQL查询性能优化]]
-- [[数据质量红线]]
+- [[data_quality_retail_practice|数据质量零售实操规范]]
 - [[ETL架构选型]]
-- [[多品牌数据系统架构]]
+- [[multi_brand_unified_analytics|多品牌统一数据分析架构]]

@@ -5,7 +5,7 @@ tags: [competitor, financial, comparison, peacebird, gxg, uniqlo, zara]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-05_慕尚集团_GXG2025年报.md, 2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-05_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05
 updated: 2026-06-05
-cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[服装行业竞争格局]], [[KPI健康基准]]
+cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[服装行业竞争格局]], [[china_apparel_industry_2026q1|行业KPI基准]]
 ---
 
 # 四大品牌 2025/2026 财务对比
@@ -22,7 +22,7 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], 
 | 净利润(RMB) | 1.37亿 | 0.32亿 | ~119亿(半年) | ~110亿(Q1) |
 | 净利润率 | 8.25% | ~1.5% | ~13.5% | ~16.1% |
 | 毛利率 | 62.87% | >50% | N/A | 57.8% |
-| 中国门店 | — | ~996 | 881 | <80 |
+| 中国门店 | — | 926（2025底） | 881 | <80 |
 | 门店趋势 | — | ↓收缩 | ↓提质减量 | ↓↓大撤退 |
 | 市值 | — | — | ~1万亿RMB | — |
 
@@ -63,5 +63,5 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], 
 - [[fast_retailing]]
 - [[inditex_zara]]
 - [[服装行业竞争格局]]
-- [[KPI健康基准]]
+- [[china_apparel_industry_2026q1|行业KPI基准]]
 - [[china_apparel_industry_2026q1]]

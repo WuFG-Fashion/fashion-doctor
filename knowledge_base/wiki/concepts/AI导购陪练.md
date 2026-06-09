@@ -5,7 +5,7 @@ tags: [guide, ai, training, retail, coaching, llm]
 sources: [2026-06-05_Megaview_AI导购陪练, 2026-06-06_FindPowerAI_2026AI销售陪练选型, 2026-06-06_妍丽北森_AI陪练零售案例, 2026-06-07_2026AI陪练选型指南, 2026-06-07_智能销售陪练闭环, 2026-06-08_百家号_Megaview_Agent陪练2026, 2026-06-08_思创_AI陪练成交率提升13.8]
 created: 2026-06-05
 updated: 2026-06-08
-cross_refs: [[深维智信]], [[导购培训闭环体系]], [[明星导购识别]], [[retail_ai_adoption_2026]]
+cross_refs: [[深维智信]], [[导购培训闭环体系]], 明星导购识别, [[retail_ai_adoption_2026]]
 ---
 
 # AI导购陪练
@@ -79,7 +79,7 @@ cross_refs: [[深维智信]], [[导购培训闭环体系]], [[明星导购识别
 
 - [[深维智信]]
 - [[导购培训闭环体系]]
-- [[明星导购识别]]
+- 明星导购识别
 - [[retail_ai_adoption_2026]]
 - 推销能力关键指标
 

@@ -5,7 +5,7 @@ tags: [guide, ai, training, retail, coaching]
 sources: [https://blog.megaview.com/archives/24143]
 created: 2026-06-05
 updated: 2026-06-05
-cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训体系]]
+cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]
 ---
 
 # 2026-06-05 Megaview AI陪练赋能零售导购
@@ -28,5 +28,5 @@ cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训体系]]
 
 - [[AI导购陪练]]
 - [[深维智信]]
-- [[导购培训体系]]
-- [[明星导购识别]]
+- [[导购培训闭环体系]]
+- 明星导购识别

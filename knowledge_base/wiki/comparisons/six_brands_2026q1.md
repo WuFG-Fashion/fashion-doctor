@@ -2,10 +2,10 @@
 type: comparison
 title: 六品牌2026Q1财务对比
 tags: [competitor, financial, comparison, peacebird, hla, semir, zara, uniqlo, lululemon, 2026Q1]
-sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md]
+sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md]
 created: 2026-06-07
-updated: 2026-06-08
-cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装产业链利润分化2026Q1]]
+updated: 2026-06-09
+cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[four_brands_2025]], [[three_brands_mid2026]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]]
 ---
 
 # 六品牌2026Q1财务对比
@@ -22,16 +22,16 @@ cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailin
 4. **规模与利润剪刀差**：海澜规模最大但净利增速最低，lululemon营收+4%但净利-38%
 5. **关税冲击差异化**：lululemon毛利率-410bp，关税影响2.8pp远超其他品牌
 
-## 完整对比表
+## 完整对比表（2026-06-09更新）
 
 | 品牌 | Q1营收 | 营收增速 | 利润增速 | 毛利率 | 核心判断 |
 |------|--------|---------|---------|--------|---------|
 | 海澜之家 | 66.61亿 | +7.66% | +1.51% | 45.93% | 规模最大，利润弱 |
-| Inditex | 87.5亿€ | +5.8% | — | — | 全球稳，中国退 |
+| Inditex | 87.5亿€ | +5.8%（固定汇率+8.8%） | 净利+5.4% | **61.2%**(+67bp) | 全球稳，毛利率新高，Q2+11.5%超预期 |
 | 森马 | 34.49亿 | **+12.03%** | **+45.25%** | 47.7% | 🔥增速王+利润王 |
 | lululemon | 25亿$ | +4% | **-38%** | 54.2% | ⚠️利润恶化，中国+30%唯一亮点 |
 | 太平鸟 | 16.56亿 | -0.75% | 扣非+33.46% | **62.87%** | 💎盈利拐点 |
-| 迅销 | H1 884亿 | +14.8% | — | — | 🌍全球碾压 |
+| 迅销 | Q1 ¥1.0277万亿 | +14.8% | 营业利润**+31%** | — | 🌍全球碾压，国际+20.3%/全区域两位数增长 |
 
 ## 按维度深度对比
 

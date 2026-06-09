@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-08 19:55
+updated: 2026-06-09 07:50
 ---
 
 # Fashion Doctor 知识库导航
@@ -70,6 +70,8 @@ updated: 2026-06-08 19:55
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
+| [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
+| [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -162,6 +164,10 @@ updated: 2026-06-08 19:55
 | [[2026-06-08_Streamlit_v147特性解析]] ⭐ NEW | Streamlit v1.47主题增强/width-height参数/Session State | streamlit, dashboard, theme, api |
 | [[2026-06-08_2026企业数据质量五阶段管控]] ⭐ NEW | FineReport五阶段路线图+零售案例+$3.1万亿损失 | data_quality, governance, five_stage |
 | [[2026-06-08_2026湖仓一体与ETL新四化]] ⭐ NEW | 湖仓一体/Iceberg标准/ETL低代码流批一体 | data_lakehouse, etl, iceberg |
+| [[2026-06-09_Style3D_AI时尚品牌应用2026]] ⭐ NEW | AI时尚市场$39.9亿/十大品牌ROI/五大AI工具分类 | ai, fashion_design, case_study |
+| [[2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1]] ⭐ NEW | Inditex Q1毛利率61.2%(+67bp)/净利€13.75亿/PBT利润率20.1% | zara, inditex, financial, 2026Q1 |
+| [[2026-06-09_FastRetailing_优衣库FY2026Q1]] ⭐ NEW | 迅销Q1 ¥1.0277万亿(+14.8%)/国际+20.3%/全年指引上调 | uniqlo, fast_retailing, financial, 2026Q1 |
+| [[2026-06-09_NRF_2026时尚科技AI创新者]] ⭐ NEW | Agentic Commerce/OpenAI×Target/4家女性领导创新公司 | ai, agentic_commerce, fashion_tech, nrf |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -179,7 +185,7 @@ updated: 2026-06-08 19:55
 
 - 查询 KPI 基准：wiki/concepts/ → [[china_apparel_industry_2026q1]] / L3_01_01 KPI健康基准
 - 查询竞品数据：wiki/entities/ → [[peacebird]] / [[muson_gxg]] / [[fast_retailing]] / [[inditex_zara]]
-- 查询系统设计：wiki/practices/ → [[Streamlit多Tab]] / [[品牌配置]]
+- 查询系统设计：wiki/practices/ → [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] / [[brand_config_driven_system|品牌配置驱动多品牌系统]]
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
@@ -197,5 +203,6 @@ updated: 2026-06-08 19:55
 | 40 | 06-08 07:50 | L2_00/01/02 | s5/e0/c2/co0 |
 | 41 | 06-08 13:55 | L2_03/04/05 | s6/e0/c0/p1 |
 | 42 | 06-08 19:55 | L2_06/07 + 查漏 | s4/e0/c2/p2 |
+| 43 | 06-09 07:50 | L2_00/01/02 | s4/e0/c2/co0 |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

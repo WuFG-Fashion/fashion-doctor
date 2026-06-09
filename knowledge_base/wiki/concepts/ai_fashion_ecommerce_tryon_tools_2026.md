@@ -5,7 +5,7 @@ tags: [ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech]
 sources: [2026-06-08_知衣FD_AI试衣工具选型.md]
 created: 2026-06-08
 updated: 2026-06-08
-cross_refs: [[AI虚拟试衣_2026]], [[AI时尚设计10大案例]], [[零售AI采纳全景]]
+cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]]
 ---
 
 # 服装AI试衣工具选型与落地（2026）
@@ -74,9 +74,9 @@ cross_refs: [[AI虚拟试衣_2026]], [[AI时尚设计10大案例]], [[零售AI�
 
 ## 关联页面
 
-- [[AI虚拟试衣_2026]] — 通用虚拟试衣技术指标（停留+40%/退货-25%）
-- [[AI时尚设计10大案例]] — H&M/Levi's等品牌AI设计落地
-- [[零售AI采纳全景]] — 2026零售AI采纳全景
+- [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]] — 通用虚拟试衣技术指标（停留+40%/退货-25%）
+- [[ai_fashion_design_cases_2026]] — H&M/Levi's等品牌AI设计落地
+- [[retail_ai_adoption_2026|2026零售AI采纳全景]] — 2026零售AI采纳全景
 
 ## 待办 / 待验证
 

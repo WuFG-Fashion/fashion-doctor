@@ -5,7 +5,7 @@ tags: [china_apparel, industry_scale, market_size, workforce, digitalization]
 sources: [WorldMetrics.org 2026-02]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[中国服装行业统计2026]]
+cross_refs: [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[2026-06-06_中国服装行业统计2026]]
 ---
 
 # 中国服装行业规模与结构（2026）
@@ -106,8 +106,8 @@ cross_refs: [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[�
 
 - [[china_apparel_industry_2026q1]] — 2026Q1运营基准（利润率2.23%/亏损面35.6%）
 - [[服装行业竞争格局]] — 四类竞争主体
-- [[中国服装行业统计2026]] — 原始来源摘要
-- [[McKinsey时尚行业2026]] — 全球时尚行业趋势
+- [[2026-06-06_中国服装行业统计2026]] — 原始来源摘要
+- [[2026-06-06_McKinsey时尚行业2026]] — 全球时尚行业趋势
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景
 
 - [[2026-06-08_中研网_2026全球服装行业趋势]]

@@ -5,7 +5,7 @@ tags: [etl, data_warehouse, architecture, multi_brand]
 sources: [https://www.finedatalink.com/blog/article/69c5e0891916e24b22e6e3e4]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[ETL架构选型]], [[多品牌数据系统架构]], [[数据质量红线]]
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]]
 ---
 
 # 2026-03-27 FineDataLink 2026年ETL数据仓库选型指南
@@ -52,6 +52,6 @@ cross_refs: [[ETL架构选型]], [[多品牌数据系统架构]], [[数据质量
 
 ## 关联知识
 - [[ETL架构选型]]
-- [[多品牌数据系统架构]]
-- [[数据质量红线]]
-- [[Streamlit多品牌看板架构]]
+- [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
+- [[data_quality_retail_practice|数据质量零售实操规范]]
+- [[streamlit_production_dashboard|Streamlit生产级多品牌看板]]
