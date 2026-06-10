@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-09 19:55
+updated: 2026-06-10 07:50
 ---
 
 # Fashion Doctor 知识库导航
@@ -74,6 +74,8 @@ updated: 2026-06-09 19:55
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
+| [[ai_fashion_capability_2026]] ⭐ NEW | AI时尚六大能力2026：设计75-80%/Mango全面替代/Zara 2张照片/WhatsApp 36.8x ROAS | ai, fashion_design, virtual_tryon, supply_chain |
+| [[china_apparel_2025_annual]] ⭐ NEW | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05%/亏损面22.61% | industry, kpi, benchmark, 2025 |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -180,6 +182,10 @@ updated: 2026-06-09 19:55
 | [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]] ⭐ NEW | Kanaries详细基准：GroupBy 8x/排序11.7x/惰性求值/迁移速查表 | polars, pandas, benchmark, migration |
 | [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]] ⭐ NEW | 920亿市场/31.2%CAGR/四大路线：AI原生/云生态/分布式/模块化 | data_governance, platform, ai_native |
 | [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]] ⭐ NEW | Streamlit DataFrame三方法/五优化/Polars零拷贝/column_config | streamlit, dataframe, optimization |
+| [[2026-06-10_Veeton_AI时尚2026能力报告]] ⭐ NEW | Veeton 2026 AI时尚报告：ASOS设计-75-80%/Mango全面AI替代/Zara 2张照片/WhatsApp 36.8x ROAS | ai, fashion_design, virtual_tryon, ecommerce |
+| [[2026-06-10_红豆股份_智慧红豆2.0_AI转型]] ⭐ NEW | 红豆股份智慧红豆2.0：工厂效率+32%/首创AI技术官/五大智能化平台 | ai, smart_factory, digital_transformation |
+| [[2026-06-10_商务部_2025年服装行业全年经济运行]] ⭐ NEW | 商务部2025全年数据：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% | industry, kpi, benchmark, financial |
+| [[2026-06-10_新浪财经_2025服饰服装年报分析]] ⭐ NEW | 2025年报分析：超半数毛利率45%+/净利率-55%~+17%/太平鸟被点名为高毛利低净利代表 | financial, industry, brand, profit_margin |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -218,5 +224,6 @@ updated: 2026-06-09 19:55
 | 43 | 06-09 07:50 | L2_00/01/02 | s4/e0/c2/co0 |
 | **44** | **06-09 13:55** | **L2_03/04/05** | **s5/e0/c1/p0** |
 | **45** | **06-09 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1/p1** |
+| **46** | **06-10 07:50** | **L2_00/01/02** | **s4/e0/c2/co0** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -29,4 +29,4 @@ created: 2026-06-05
 | 2026-06-08 19:55 | ingest | Round 42 — 覆盖 L2_06/L2_07 + 查漏补缺。raw 4篇(Polars/DuckDB/Pandas引擎对比/Streamlit v1.47/数据质量五阶段管控/湖仓一体与ETL新四化) → sources 4篇 → concepts 2篇新增(duckdb_olap_engine_2026/data_lakehouse_2026) + 3篇更新(polars_vs_pandas_2026添加DuckDB/data_quality_governance添加五阶段/streamlit_dashboard_2026添加v1.47) → practices 2篇新增(data_quality_retail_practice/brand_config_driven_system)。待迁移项清零：数据质量实操→[[data_quality_retail_practice]]，品牌配置→[[brand_config_driven_system]]。L2_06/L2_07全部L3内容已迁移至wiki/。建立 60+ 条 [[双链]]。 |
 | 2026-06-09 13:55 | ingestB | L2_03/04/05 — 采集5篇/织网15条/矛盾0处(raw5→s5→c4更新更新+1新增:服装采购渠道选型2026→e1更新:探马SCRM→L3同步5处) |
 | 2026-06-09 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(s4:Scopir六库横评+Kanaries Polars评测+数据治理四大路线+Streamlit DataFrame优化 → c1新增:data_governance_tech_routes_2026 + c3更新:polars_vs_pandas_2026/data_quality_governance/streamlit_dashboard_2026 → p1新增:data_library_selection_guide_2026) |
-| 2026-06-10 01:55 | optimize | lint(断链18/孤岛1/矛盾1/过期0/分类0)+织网+索引 |
+| 2026-06-10 07:50 | ingestA | L2_00/01/02 — 采集4篇/织网6条/矛盾0处 |
