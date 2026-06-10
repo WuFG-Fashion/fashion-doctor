@@ -30,3 +30,4 @@ created: 2026-06-05
 | 2026-06-09 13:55 | ingestB | L2_03/04/05 — 采集5篇/织网15条/矛盾0处(raw5→s5→c4更新更新+1新增:服装采购渠道选型2026→e1更新:探马SCRM→L3同步5处) |
 | 2026-06-09 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(s4:Scopir六库横评+Kanaries Polars评测+数据治理四大路线+Streamlit DataFrame优化 → c1新增:data_governance_tech_routes_2026 + c3更新:polars_vs_pandas_2026/data_quality_governance/streamlit_dashboard_2026 → p1新增:data_library_selection_guide_2026) |
 | 2026-06-10 13:55 | ingestB | L2_03/04/05 — 采集5篇/织网5条/矛盾0处(s5→c3更新:AI导购陪练+动态OTB管理+sku_fine_management→p1更新:私域运营方法论) |
+| 2026-06-10 18:00 | ingest | 手动采集 — 《208个管理思维》魏俊杰 全书概要(s1:208个管理思维_魏俊杰) |
