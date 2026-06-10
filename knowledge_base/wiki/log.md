@@ -32,3 +32,4 @@ created: 2026-06-05
 | 2026-06-10 13:55 | ingestB | L2_03/04/05 — 采集5篇/织网5条/矛盾0处(s5→c3更新:AI导购陪练+动态OTB管理+sku_fine_management→p1更新:私域运营方法论) |
 | 2026-06-10 18:00 | ingest | 手动采集 — 《208个管理思维》魏俊杰 全书概要(s1:208个管理思维_魏俊杰) |
 | 2026-06-10 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网6条/矛盾0处(s4:Streamlit架构演进+ETL选型避坑+数据治理六厂商+Polars工程化三件套 → c4更新:streamlit_dashboard/polars_vs_pandas/ETL架构选型/data_governance_tech_routes → p2更新:streamlit_production/multi_brand_unified) |
+| 2026-06-11 01:55 | optimize | lint(断链11/孤岛0/矛盾0/过期0/分类0)+织网+索引 |

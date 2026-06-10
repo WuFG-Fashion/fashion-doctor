@@ -5,7 +5,7 @@ tags: [guide, ai, training, coaching, retail]
 sources: [2026-06-08_百家号_Megaview_Agent陪练2026.md]
 created: 2026-06-08
 updated: 2026-06-08
-cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信, [[AI导购陪练]], [[深维智信]]]
+cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
 
 ---
 

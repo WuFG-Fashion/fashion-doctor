@@ -101,7 +101,7 @@ def quality_check(brand: str) -> pl.DataFrame:
 | 阶段 | 任务 | 预期收益 |
 |:---:|------|---------|
 | 1 | 识别耗时最长的操作（Profile） | 定位瓶颈 |
-| 2 | 将Pandas代码转Polars表达式（对照[[polars_vs_pandas_2026#迁移速查表\|速查表]]） | 语法转换 |
+| 2 | 将Pandas代码转Polars表达式（对照[[polars_vs_pandas_2026#迁移速查表|速查表]]） | 语法转换 |
 | 3 | 启用惰性求值：`.lazy()...collect()` | 自动优化 |
 | 4 | 将CSV→Parquet格式迁移 | I/O提速3-5x |
 | 5 | 引入DuckDB做复杂SQL | 聚合/JOIN提速5-10x |
