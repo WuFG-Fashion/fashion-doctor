@@ -1,10 +1,10 @@
 ---
 type: practice
 title: Streamlit生产级多品牌看板构建
-tags: [streamlit, dashboard, multi_brand, production, code]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04)]
+tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进]
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-10
 cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]]
 ---
 
@@ -170,3 +170,67 @@ st.caption("⏰ 所有时间均为北京时间 (UTC+8)")
 - [[python_dashboard_ecosystem_2026]]
 - [[零售数据仓库SQL实践]]
 - [[polars_vs_pandas_2026]]
+
+## v1.57 Starlette部署更新（2026-06新增）
+
+### 架构迁移影响
+
+Streamlit v1.57起默认使用Starlette/Uvicorn替代Tornado。对部署的影响：
+
+| 配置项 | 旧值(Tornado) | 新值(Starlette) |
+|------|------|------|
+| Web服务器 | Tornado WSGI | **Starlette ASGI + Uvicorn** |
+| `server._async` | 手动配置 | 自动处理（已移除） |
+| WebSocket头获取 | `_get_websocket_headers()` | **`st.context.headers`** |
+| 与FastAPI集成 | 需要复杂hack | **直接通过`st.App` ASGI入口** |
+
+### Starlette部署模板
+
+```python
+# app.py — 使用st.App实现ASGI部署
+import streamlit as st
+
+app = st.App()
+
+@app.route("/health")
+async def health_check(request):
+    return {"status": "ok"}
+
+if __name__ == "__main__":
+    app.run()
+```
+
+### Nginx + Uvicorn配置
+
+```nginx
+server {
+    listen 80;
+    server_name dashboard.example.com;
+    
+    location / {
+        proxy_pass http://127.0.0.1:8501;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_buffering off;  # WebSocket关键
+    }
+}
+```
+
+### Polars Arrow零拷贝优化
+
+v1.57支持Polars DataFrame直接传入，绕过pandas转换：
+
+```python
+# 旧写法（两次转换）
+@st.cache_data
+def load_sales():
+    return pl.scan_parquet("sales.parquet").collect().to_pandas()
+
+# v1.57+ 新写法（零拷贝）
+@st.cache_data
+def load_sales():
+    return pl.scan_parquet("sales.parquet").collect()
+
+st.dataframe(load_sales())  # 直接传Polars DataFrame
+```

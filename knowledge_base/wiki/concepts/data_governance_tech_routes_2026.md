@@ -1,10 +1,10 @@
 ---
 type: concept
 title: 2026数据治理平台技术路线选型
-tags: [data_governance, platform, ai_native, cloud_native, modular, selection]
-sources: [https://www.cnblogs.com/zhanglijundata/articles/20247756, 2026-06-09_解码数据局_数据治理平台四大技术路线2026]
+tags: [data_governance, platform, ai_native, cloud_native, modular, selection, vendor, mcp, retail]
+sources: [https://www.cnblogs.com/zhanglijundata/articles/20247756, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026]
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-10
 cross_refs: [[data_quality_governance]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[ETL架构选型]]
 ---
 
@@ -103,3 +103,36 @@ cross_refs: [[data_quality_governance]], [[data_lakehouse_2026]], [[multi_brand_
 - [[streamlit_dashboard_2026]] — Streamlit生产级看板
 - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]] — 来源原文
 - [[2026-06-07_数据治理平台TOP榜2026]] — TOP6平台横向对比
+- [[2026-06-10_界面新闻_数据治理六厂商选型2026]] — 六厂商能力详解
+
+## 2026年六厂商能力对比（2026-06新增）
+
+> **选型双标尺**：智能化深度（治理效率上限）+ 平台开放度（集成灵活性）
+
+| 厂商 | 核心产品 | 智能化 | 开放度 | 优势行业 | 服装零售适配 |
+|:---|:---|:---:|:---:|:---|:---:|
+| **百分点科技** | AI-DG + BD-OS | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 政务/应急/央国企 | 中高（MCP开放架构） |
+| **阿里云** | DataWorks | ⭐⭐⭐⭐ | ⭐⭐⭐ | 互联网/电商/零售 | 中（电商经验丰富） |
+| **腾讯云** | WeData | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 金融/游戏/互联网 | 中 |
+| **华为云** | DataArts Studio | ⭐⭐⭐ | ⭐⭐⭐ | 政企/制造/能源 | 中低 |
+| **用友** | BIP数据中台 | ⭐⭐⭐ | ⭐⭐⭐ | 央国企/制造 | **高（ERP延伸）** |
+| **金蝶** | 云·苍穹数据中台 | ⭐⭐⭐ | ⭐⭐⭐ | 制造/零售/集团 | **高（ERP延伸）** |
+
+### 四条选型路径
+
+| 路径 | 推荐厂商 | 适用条件 |
+|:---|:---|:---|
+| **开放智能** | 百分点 | 系统多元、不想被绑定、追求AI原生+MCP开放 |
+| **云生态集成** | 阿里/腾讯/华为 | 已深度绑定特定云平台 |
+| **ERP延伸** | **用友/金蝶** | 已用其ERP的服装零售企业（最短路径） |
+| **长期进化** | 开放架构平台 | 为2028年Data Agent战略做准备 |
+
+### 服装零售选型决策树
+
+```
+已使用用友/金蝶ERP？
+  ├── 是 → 优先选对应数据中台（投资回报最高）
+  └── 否 → 系统多元？
+            ├── 是 → 选百分点（MCP开放集成）
+            └── 否 → 选阿里云DataWorks（电商零售最成熟）
+```

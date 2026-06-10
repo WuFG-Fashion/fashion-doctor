@@ -1,11 +1,11 @@
 ---
 type: practice
 title: 多品牌统一数据分析架构
-tags: [multi_brand, analytics, architecture, data_integration, dashboard]
-sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03)]
+tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
+sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026]
 created: 2026-06-07
-updated: 2026-06-07
-cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]]
+updated: 2026-06-10
+cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]]
 ---
 
 # 多品牌统一数据分析架构
@@ -136,3 +136,40 @@ for brand in brands:
 - [[2026-06-07_数据治理平台TOP榜2026]]
 - [[2026-06-07_零售数据分析框架2026]]
 - [[data_governance_tech_routes_2026|数据治理平台技术路线选型]]
+
+## ETL选型与多品牌数据融合实操（2026-06新增）
+
+### 多品牌ETL选型关键决策
+
+| 决策点 | 考量因素 | 推荐方向 |
+|:---|:---|:---|
+| 开发效率 | 多品牌意味着多套ERP/DB，脚本量大 | 低代码平台（拖拽+DAG编排） |
+| 实时性 | 库存同步、销售看板需要分钟级 | 流批一体（Kafka + 实时引擎） |
+| 数据治理 | 不同品牌数据口径不一致 | 全流程治理平台（质量+血缘+权限） |
+| 国产化 | 服装零售数据敏感 | 本土部署方案优先 |
+
+### 多品牌数据融合三原则
+
+```python
+# 原则1：统一主键映射
+BRAND_KEY_MAP = {
+    "peacebird": {"shop_id": "store_code", "product_id": "sku_code"},
+    "cabbeen":  {"shop_id": "shop_no", "product_id": "item_code"},
+}
+
+# 原则2：规范任务调度（实时优先、离线其次）
+# Kafka缓冲 → 实时优先消费 → 离线批处理冲突时排队
+
+# 原则3：自动化质量治理
+# 主键唯一性 + 完整性校验 + 异常自动报警
+```
+
+### 五步PoC验证清单
+
+| 步骤 | 验证内容 | 通过标准 |
+|:---:|------|------|
+| 1 | 所有品牌数据源连通性 | 100% ERP/DB/文件接入 |
+| 2 | 全量同步准确性 | 行数/金额与源系统一致 |
+| 3 | 增量同步正确性 | 不重不漏 |
+| 4 | 实时延迟 | 设计目标内（如<5分钟） |
+| 5 | 异常容错 | 断网/超时自动重试+告警 |

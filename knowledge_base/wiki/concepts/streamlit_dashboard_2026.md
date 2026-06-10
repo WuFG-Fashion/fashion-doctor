@@ -1,26 +1,62 @@
 ---
 type: concept
 title: Streamlit 2026生产级最佳实践
-tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026]
+tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进]
 created: 2026-06-07
-updated: 2026-06-09
+updated: 2026-06-10
 cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]]
 ---
 
 # Streamlit 2026生产级最佳实践
 
-> **一句话摘要**：Streamlit v1.55是2026年内部数据看板的默认选择，掌握缓存策略、Session State管理和7大生产故障修复即可上生产。
+> **一句话摘要**：Streamlit 2026年完成Tornado→Starlette/Uvicorn架构迁移（v1.57），Polars零拷贝Arrow直传上线，新增st.bottom/st.menu_button/st.iframe三大组件，是Streamlit历史上最大的架构升级年。
 
-> **来源**：UseDataBrain 2026 Guide + Streamlit官方文档
+> **来源**：UseDataBrain 2026 Guide + Streamlit官方Release Notes
 
 ## 2026年关键版本特性
 
 | 版本 | 关键特性 |
 |------|---------|
-| v1.55 (2026-04) | Snowflake旗下，每两周发版 |
-| v1.40+ | `@st.cache_data(persist=True)` 持久化缓存 |
-| v1.30+ | 默认每会话返回`st.session_state`副本 |
+| **v1.57 (2026-04-29)** | **Starlette默认启用**、Polars Arrow零拷贝、st.bottom、:shimmer[] |
+| v1.56 (2026-04) | st.menu_button、st.iframe、pandas 3.x、selectbox filter_mode |
+| v1.55 (2026-03) | 动态容器on_change、Widget bind、流式Markdown CSS颜色 |
+| v1.53 (2026-01) | Starlette实验性引入、st.App ASGI入口、st.logout、会话级缓存 |
+
+## v1.57 架构革命：Tornado → Starlette/Uvicorn
+
+2026年4月29日，Streamlit正式完成从Tornado到Starlette/Uvicorn的Web服务器迁移：
+
+| 维度 | Tornado（旧） | Starlette/Uvicorn（新） |
+|------|:---:|:---:|
+| 异步模型 | 同步回调 | ASGI原生异步 |
+| Web框架集成 | 独立运行 | 可与FastAPI/Starlette集成 |
+| HTTP中间件 | 不支持 | 支持自定义中间件 |
+| 生命周期钩子 | 无 | start/shutdown钩子 |
+| 性能 | 基准线 | 高并发提升 |
+| 路由控制 | 固定 | `st.App`暴露底层路由 |
+
+### Polars Arrow零拷贝
+
+```python
+# v1.57+：Polars DataFrame直接传Streamlit，零拷贝
+import polars as pl
+df = pl.scan_parquet("sales.parquet").collect()
+st.dataframe(df)  # 完全绕过pandas，Arrow直传
+
+# v1.56及之前：Polars → Pandas → Streamlit（两次转换）
+st.dataframe(df.to_pandas())
+```
+
+### v1.57新增核心组件
+
+| 组件 | 用途 | 服装零售场景 |
+|------|------|-------------|
+| **`st.bottom`** | 固定在页面底部的容器 | 品牌切换栏/全局筛选器/数据刷新按钮 |
+| **`st.menu_button`** | 带弹出容器的下拉按钮 | 品牌选择菜单/设置/导出选项 |
+| **`st.iframe`** | 嵌入外部URL或HTML | 嵌入BI报表、地图、第三方看板 |
+| **`:shimmer[]`** | Markdown动画加载文本 | 数据加载中的优雅提示 |
+| **`st.App.secrets`** | 程序化传递secrets | 多品牌环境动态切换数据库凭证 |
 
 ## 7大生产故障及修复
 
@@ -122,6 +158,7 @@ st.caption("所有时间均为北京时间 (UTC+8)")
 
 - [[2026-06-07_Python看板框架对比2026]]
 - [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
+- [[2026-06-10_Streamlit官方_2026版本架构演进]]
 ## v1.47 主题与API升级（2026-06更新）
 
 ### 主题配置增强

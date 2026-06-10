@@ -1,11 +1,11 @@
 ---
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
-tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评]
+tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]
 created: 2026-06-06
-updated: 2026-06-09
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]]
+updated: 2026-06-10
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -206,3 +206,44 @@ pdf = features.to_pandas()
 - [[data_library_selection_guide_2026|数据分析库选型决策指南]]
 - [[2026-06-09_Scopir_Python数据分析库2026横评]]
 - [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
+- [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
+
+## Polars + MLflow + Streamlit 工程化三件套（2026-06新增）
+
+### 性能实测（生产环境）
+
+| 场景 | Pandas | Polars | 倍数 |
+|------|--------|--------|:---:|
+| 12GB信用卡交易处理 | 187秒/内存41GB | 23秒/内存8.2GB | **8.1x** |
+| 出行特征计算 | 基准线 | — | **5.3x** |
+| 跨境电商ETL(12源增量) | 3小时 | 22分钟 | **8.2x** |
+| 风控模型特征更新(每小时) | 45分钟 | <6分钟 | **7.5x** |
+| 150GB日志处理 | 内存128GB | 内存18GB | **7.1x内存** |
+
+### 三件套协同架构
+
+```
+数据采集(Polars)  →  模型管理(MLflow)  →  应用交付(Streamlit)
+    ↓                    ↓                     ↓
+ 惰性求值/流式ETL    实验追踪/Registry    交互看板/业务决策
+    ↓                    ↓                     ↓
+ 跨12源数据增量抽取  四阶段模型治理        Nginx+Gunicorn部署
+```
+
+### MLflow模型治理四阶段
+
+```
+注册模型 → Staging(测试) → Production(生产) → Archived(归档)
+```
+
+实际效果：某银行上线周期7天→4小时，故障回滚小时级→分钟级
+
+### 渐进式引入策略
+
+1. `memory_profiler`识别热点（read_csv/merge/groupby.agg/pivot_table）
+2. 独立模块Polars重写，`to_pandas()`导出兼容下游
+3. Workshop现场对比性能，建立团队共识
+
+### 核心理念
+
+> Polars保证**数据可信**，MLflow保证**模型可信**，Streamlit保证**交付可信**——从原始日志到业务决策的全链路可追溯体系。

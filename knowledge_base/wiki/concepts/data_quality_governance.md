@@ -2,9 +2,9 @@
 type: concept
 title: 数据质量常态化治理
 tags: [data_quality, governance, monitoring, data_consistency, timeliness]
-sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026]
+sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026]
 created: 2026-06-06
-updated: 2026-06-09
+updated: 2026-06-10
 cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]]
 ---
 

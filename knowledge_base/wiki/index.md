@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-10 07:50
+updated: 2026-06-10 19:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -37,7 +37,7 @@ updated: 2026-06-10 07:50
 | [[retail_ai_adoption_2026]] ⭐ NEW | 2026零售AI采纳全景：91%/89%/95%三大指标 | ai, retail, adoption, roi |
 | [[china_apparel_industry_2026q1]] ⭐ NEW | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
-| [[ETL架构选型]] ⭐ NEW | 2026年ETL三大趋势+7维度选型+多品牌适配 | etl, data_warehouse, architecture |
+| [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
 | [[会员复购率提升策略]] ⭐ NEW | AI推荐+分层权益+场景触达，复购+18-35pp | vip, repurchase, membership |
 | [[服装门店经营AI化2026]] ⭐ NEW | 65%手工记账→AI经营大脑，周转+60%复购+35% | ai, retail_digitalization, store_operation |
@@ -55,7 +55,7 @@ updated: 2026-06-10 07:50
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ NEW | 2026选型：>100万行选Polars，5-11倍性能 | python, polars, pandas, benchmark |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，5-11倍性能 + MLflow+Streamlit工程化三件套 | python, polars, pandas, benchmark, mlflow |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
@@ -65,12 +65,12 @@ updated: 2026-06-10 07:50
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
-| [[streamlit_dashboard_2026]] ⭐ NEW | Streamlit 2026生产级实践：缓存/状态/7大故障修复 | streamlit, production, caching |
+| [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移+Polars Arrow零拷贝+新组件 | streamlit, production, caching, starlette |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
-| [[data_governance_tech_routes_2026]] ⭐ NEW | 数据治理平台四大技术路线：AI原生/云生态/分布式/模块化+920亿市场 | data_governance, platform, selection |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 数据治理平台四大技术路线+六厂商对比+四条选型路径+服装零售决策树 | data_governance, platform, selection, vendor |
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -84,8 +84,8 @@ updated: 2026-06-10 07:50
 | [[零售数据仓库SQL实践]] ⭐ NEW | 销售/库存/会员/导购四大场景SQL优化模板 | sql, optimization, practice |
 | [[私域运营方法论]] ⭐ NEW | 私域四策略+服装零售实施路径+工具矩阵 | vip, private_domain, scrm |
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
-| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ NEW | 四层架构+5大挑战+8步实施+品类映射代码 | multi_brand, analytics, architecture |
-| [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ NEW | pages模块化+缓存体系+品牌配置驱动+7项生产检查 | streamlit, dashboard, production, code |
+| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+多品牌数据融合三原则 | multi_brand, analytics, architecture, etl |
+| [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.57 Starlette部署+Polars零拷贝 | streamlit, dashboard, production, code, starlette |
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
@@ -192,6 +192,10 @@ updated: 2026-06-10 07:50
 | [[2026-06-10_季中OTB滚动管理2026]] ⭐ NEW | OTB三矛盾+滚动解法，追单7-10→3-5天，尾货率改善15-20% | otb, merchandise, supply_chain, inventory |
 | [[2026-06-10_服装SKU三色N码管理2026]] ⭐ NEW | 三维矩阵(款号-颜色-尺码)SKU管理，500款=15000SKU，库存周转+30% | sku, inventory, erp, merchandise |
 | [[2026-06-10_208个管理思维_魏俊杰]] ⭐ NEW | 魏俊杰编著，208个管理思维模型按PDCA编排为7大能力模块 | management, thinking_model, framework, toolkit |
+| [[2026-06-10_Streamlit官方_2026版本架构演进]] ⭐ NEW | Streamlit v1.53→v1.57：Tornado→Starlette迁移/Polars Arrow零拷贝/新组件三件套 | streamlit, architecture, starlette, asgi |
+| [[2026-06-10_FineDataLink_ETL选型避坑2026]] ⭐ NEW | 2026 ETL选型：三趋势/五步流程/五大踩坑/多品牌融合三原则 | etl, data_warehouse, multi_brand, selection |
+| [[2026-06-10_界面新闻_数据治理六厂商选型2026]] ⭐ NEW | 2026六厂商能力对比：智能化×开放度双标尺/四条路径/服装零售适配 | data_governance, platform, vendor, retail |
+| [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]] ⭐ NEW | 三件套工程化：Polars 8.1x/MLflow四阶段/Streamlit生产部署 | polars, mlflow, streamlit, engineering |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -233,5 +237,6 @@ updated: 2026-06-10 07:50
 | **46** | **06-10 07:50** | **L2_00/01/02** | **s4/e0/c2/co0** |
 | **47** | **06-10 13:55** | **L2_03/04/05** | **s5/e0/c3/p1** |
 | **48** | **06-10 18:00** | **手动采集** | **s1(208个管理思维)** |
+| **49** | **06-10 19:55** | **L2_06/07 + 查漏** | **s4/e0/c4(更新)/p2(更新)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
