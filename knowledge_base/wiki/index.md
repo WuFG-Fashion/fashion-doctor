@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-10 19:55
+updated: 2026-06-11 08:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -47,7 +47,7 @@ updated: 2026-06-10 19:55
 | 待迁移：VIP分层 | 来自 L3_03_01 VIP分层模型 | vip, customer |
 | 待迁移：明星导购 | 来自 L3_04_01 明星导购识别 | guide, evaluation |
 | 待迁移：波段上货 | 来自 L3_05_01 波段上货节奏 | merchandise, timing |
-| 待迁移：大模型动态 | 来自 L3_00_01 大模型动态 | ai, llm |
+| [[apparel_inventory_benchmark_2026]] ⭐ NEW | 2026服装库存全景：1850亿/积压率45%/周转2.1次/四维健康红线 | inventory, stock, turnover, kpi, benchmark |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -196,6 +196,10 @@ updated: 2026-06-10 19:55
 | [[2026-06-10_FineDataLink_ETL选型避坑2026]] ⭐ NEW | 2026 ETL选型：三趋势/五步流程/五大踩坑/多品牌融合三原则 | etl, data_warehouse, multi_brand, selection |
 | [[2026-06-10_界面新闻_数据治理六厂商选型2026]] ⭐ NEW | 2026六厂商能力对比：智能化×开放度双标尺/四条路径/服装零售适配 | data_governance, platform, vendor, retail |
 | [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]] ⭐ NEW | 三件套工程化：Polars 8.1x/MLflow四阶段/Streamlit生产部署 | polars, mlflow, streamlit, engineering |
+| [[2026-06-11_知衣科技_FD+AI设计工具]] ⭐ NEW | 知衣FD+深度实测：10亿+数据库，商拍1天→30秒/SKU 20款/半天/成本-80-92% | ai, fashion_design, virtual_tryon, tool |
+| [[2026-06-11_服装零售库存困局与小程序解法]] ⭐ NEW | 库存积压率45%/周转2.1次/盘活<18%→小程序实测+42pp/周转-73天 | inventory, stock, turnover, retail |
+| [[2026-06-11_海澜之家港股A+H上市]] ⭐ NEW | 海澜2025营收210.62亿/净利21.32亿/净利率三年降3.94pp/港股冲刺 | hla, financial, menswear, ipo |
+| [[2026-06-11_森马服饰2026Q1业绩分析]] ⭐ NEW | 森马Q1净利+45%/儿童+13.9%/存货-4.8亿/毛利率47.77%/机构维持买入 | semir, financial, 2026Q1, childrenswear |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -238,5 +242,6 @@ updated: 2026-06-10 19:55
 | **47** | **06-10 13:55** | **L2_03/04/05** | **s5/e0/c3/p1** |
 | **48** | **06-10 18:00** | **手动采集** | **s1(208个管理思维)** |
 | **49** | **06-10 19:55** | **L2_06/07 + 查漏** | **s4/e0/c4(更新)/p2(更新)** |
+| **50** | **06-11 07:50** | **L2_00/01/02** | **s4/e2(更新)/c1(新增)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

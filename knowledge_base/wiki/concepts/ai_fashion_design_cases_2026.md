@@ -5,7 +5,7 @@ tags: [ai, fashion_design, case_study, virtual_prototype, sustainability, hnm, n
 sources: [DigitalDefynd 2026-05-28]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]]
+cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]]
 ---
 
 # AI时尚设计十大案例（2026）
@@ -71,6 +71,7 @@ Accenture SXD实现面料利用率接近100%，从设计阶段而非生产后管
 - [[inditex_zara]] — ZARA品牌实体页
 - [[fast_retailing]] — 优衣库品牌实体页
 - [[2026-06-06_AI时尚设计10大案例]] — 原始来源摘要
+- [[2026-06-11_知衣科技_FD+AI设计工具]] — FD+深度实测（商拍-92%/设计+77%）
 
 ## 待办 / 待验证
 

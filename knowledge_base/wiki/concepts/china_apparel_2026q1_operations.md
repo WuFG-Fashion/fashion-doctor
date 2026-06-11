@@ -5,7 +5,7 @@ tags: [industry, kpi, benchmark, financial, 2026Q1]
 sources: [2026-06-07_2026Q1服装行业运行扫描.md, 2026-06-05_中国服装协会_2026Q1行业经济运行分析.md]
 created: 2026-06-07
 updated: 2026-06-07
-cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[男装品牌竞争格局2026Q1]]
+cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[男装品牌竞争格局2026Q1]], [[apparel_inventory_benchmark_2026]], [[apparel_supply_chain_profit_chasm_2026q1]]
 ---
 
 # 中国服装行业2026Q1运行基准
