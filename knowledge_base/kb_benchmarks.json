@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-12",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "46 个 wiki/concepts + entities 文件",
-    "data_points": "123+条数值",
-    "last_scan": "2026-06-11"
+    "files_scanned": "52 个 wiki/concepts + entities 文件",
+    "data_points": "180+条数值",
+    "last_scan": "2026-06-12"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -14,10 +14,29 @@
     "receivable_turnover_times_per_year": 5.52,
     "inventory_turnover_times_per_year": 3.8,
     "international_inventory_gap": 0.42,
-    "new_product_survival_rate": 0.35,
-    "market_size_trillion": 4.8,
+    "total_asset_turnover_times_per_year": 0.99,
+    "market_size_trillion": 3.8,
     "export_usd_billion": 328.9,
     "export_avg_price_usd": 3.2
+  },
+  "industry_2025_annual": {
+    "revenue_billion_rmb": 11119.95,
+    "revenue_growth_pct": -0.1267,
+    "profit_total_billion_rmb": 450.64,
+    "profit_growth_pct": -0.2734,
+    "revenue_profit_margin": 0.0405,
+    "loss_making_ratio": 0.2261,
+    "fee_ratio": 0.1035,
+    "cost_per_100_rmb_revenue": 84.52,
+    "product_turnover_times_per_year": 9.69,
+    "receivable_turnover_times_per_year": 5.4,
+    "total_asset_turnover_times_per_year": 1.05,
+    "domestic_retail_billion_rmb": 11044.5,
+    "domestic_retail_growth_pct": 0.028,
+    "online_retail_growth_pct": 0.019,
+    "export_total_usd_billion": 1511.8,
+    "export_growth_pct": -0.05,
+    "export_avg_price_usd": 3.5
   },
   "kpi_health_thresholds": {
     "season_end_sell_through": {
@@ -36,7 +55,7 @@
       "excellent": 1.0,
       "good": 0.95,
       "warn": 0.9,
-      "danger": 0.9
+      "danger": 0.85
     },
     "avg_order_peak_season": {
       "excellent": 2100,
@@ -64,7 +83,8 @@
     "category_danger": 0.45
   },
   "net_margin_thresholds": {
-    "competitive_line": 0.08
+    "competitive_line": 0.08,
+    "q1_profit_margin_warning": 0.03
   },
   "competitors": {
     "peacebird": {
@@ -187,6 +207,28 @@
     "data_quality_cleaning_solves_pct": 0.9
   },
   "ai_fashion": {
-    "market_size_billion_usd": 39.9
+    "market_size_billion_usd": 39.9,
+    "cagr_pct": 0.39,
+    "design_sample_reduction_pct": 0.5,
+    "virtual_tryon_return_reduction_pct": 0.25,
+    "virtual_tryon_dwell_increase_pct": 0.4,
+    "virtual_tryon_ctr_increase_pct": 0.6,
+    "trend_prediction_accuracy_pct": 0.85,
+    "design_to_shelf_weeks": 2,
+    "supply_chain_excess_inventory_reduction_pct": 0.2,
+    "personalization_engagement_increase_pct": 0.25
+  },
+  "inventory_health_redlines": {
+    "backlog_rate_healthy_max": 0.3,
+    "backlog_rate_danger_min": 0.45,
+    "turnover_days_healthy_max": 60,
+    "turnover_days_danger_min": 150,
+    "turnover_rate_healthy_min": 4.0,
+    "turnover_rate_danger_max": 2.5,
+    "activation_rate_healthy_min": 0.4,
+    "activation_rate_baseline": 0.18,
+    "retail_inventory_billion_rmb": 1850,
+    "sme_backlog_rate": 0.45,
+    "working_capital_occupied_pct": 0.6
   }
 }

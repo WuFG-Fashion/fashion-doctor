@@ -5,7 +5,7 @@ tags: [inventory, stock, turnover, dead_stock, kpi, benchmark]
 sources: [2026-06-11_百家号_2026服装零售库存困局与小程序解法.md]
 created: 2026-06-11
 updated: 2026-06-11
-cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], [[sku_fine_management|服装SKU精细化管理]], [[dynamic_otb_management|动态OTB管理]]
+cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], [[sku_fine_management|服装SKU精细化管理]], [[动态OTB管理]]
 ---
 
 # 服装行业库存基准与健康红线 (2026)
@@ -82,8 +82,8 @@ cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], 
 - [[china_apparel_2026q1_operations]] — 2026Q1行业运营基准
 - [[china_apparel_2025_annual]] — 2025全年行业大盘（利润率4.05%）
 - [[sku_fine_management|服装SKU精细化管理]] — ABC分类与安全库存
-- [[dynamic_otb_management|动态OTB管理]] — 季中OTB偏离15%解法
-- [[服装快反供应链云上订货2026]] — 库存周转90天→云上订货优化路径
+- [[动态OTB管理]] — 季中OTB偏离15%解法
+- [[2026-06-09_服装快反供应链云上订货2026|服装快反供应链云上订货2026]] — 库存周转90天→云上订货优化路径
 
 ## 待办 / 待验证
 - 百家号库存积压率45%/周转率2.1次等数据需官方渠道交叉验证
