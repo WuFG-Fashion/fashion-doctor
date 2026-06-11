@@ -5,7 +5,7 @@ tags: [polars, duckdb, pandas, python, selection, decision_tree, retail]
 sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评]
 created: 2026-06-09
 updated: 2026-06-09
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]]
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]]
 ---
 
 # 数据分析库选型决策指南（2026版）

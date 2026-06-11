@@ -2,10 +2,10 @@
 type: practice
 title: 多品牌统一数据分析架构
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
-sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026]
+sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026]
 created: 2026-06-07
-updated: 2026-06-10
-cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]]
+updated: 2026-06-11
+cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]]
 ---
 
 # 多品牌统一数据分析架构
@@ -136,6 +136,49 @@ for brand in brands:
 - [[2026-06-07_数据治理平台TOP榜2026]]
 - [[2026-06-07_零售数据分析框架2026]]
 - [[data_governance_tech_routes_2026|数据治理平台技术路线选型]]
+- [[data_lakehouse_2026]]
+- [[retail_analytics_reporting_2026]]
+
+## 数据中台架构与多品牌融合（2026-06新增）
+
+### 2026年中台能力矩阵与多品牌映射
+
+| 中台模块 | 功能 | 多品牌价值 |
+|---------|------|----------|
+| 数据采集 | 多源异构+实时同步 | 统一接入各品牌ERP/POS/CRM |
+| 数据集成 | 跨系统ETL | 消除品牌间数据孤岛 |
+| 数据治理 | 元数据/质量/血缘 | 跨品牌数据口径统一 |
+| 数据服务 | Data API/BI | 统一数据服务层输出 |
+| 监控运维 | 任务监控/告警 | 全品牌数据管道可视 |
+
+### 连锁零售200+门店实战数据
+
+> 来源：FineDataLink 2026案例
+
+| 指标 | 优化前 | 优化后 | 提升 |
+|------|-------|-------|:---:|
+| 新需求上线周期 | 2个月 | 2周 | **4倍** |
+| 报表实时性 | T+1 | 分钟级 | **3倍** |
+| IT人力投入 | 100% | 60% | **-40%** |
+| 数据质量问题 | 90+处/月 | <9处/月 | **-90%** |
+
+### 五步能力建设路径
+
+```
+1. 统一平台选型 → 一站式集成治理平台(覆盖多源/治理/服务全链路)
+2. 自动化补齐 → AI检测+异常处理+自动血缘
+3. 标准体系 → 数据标准+质量规范+权限模型
+4. 服务化输出 → API/组件开放治理能力给业务部门
+5. 持续优化 → 监控告警+定期复盘+治理闭环
+```
+
+### 多品牌中台选型速查
+
+| 企业规模 | 推荐方案 | 原因 |
+|---------|:---:|------|
+| 大集团(5+品牌) | 一站式集成治理 | 系统多元、需闭环治理 |
+| 中等规模(2-4品牌) | 低代码集成+自建 | 敏捷迭代、成本可控 |
+| 小微/单一品牌 | 轻量ETL+Streamlit | 极简架构、快速上线 |
 
 ## ETL选型与多品牌数据融合实操（2026-06新增）
 

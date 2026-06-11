@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构]
 created: 2026-06-06
-updated: 2026-06-10
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]]
+updated: 2026-06-11
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -207,6 +207,74 @@ pdf = features.to_pandas()
 - [[2026-06-09_Scopir_Python数据分析库2026横评]]
 - [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
 - [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
+- [[2026-06-11_chenxutan_Polars深度实战Rust架构]]
+- [[retail_analytics_reporting_2026]]
+
+## Polars Rust 架构深度解析（2026-06新增）
+
+### 底层三大引擎
+
+```
+Rust 核心 (无GIL/内存安全/零成本抽象)
+         +
+  Apache Arrow 列式存储 (连续内存/SIMD/零拷贝)
+         +
+  Rayon 多线程引擎 (自动任务分解到多核)
+```
+
+### PDS-H 官方基准（10GB数据，Polars团队2025.05发布）
+
+| 操作 | Polars 流式引擎 | Pandas | 差距 |
+|------|---------------|--------|:---:|
+| 全量处理 | 3.89秒 | 365.71秒 | **94倍** |
+| 读取(240M行Parquet) | 8.7秒 | 41.2秒 | 4.7x |
+| 过滤 | 0.34秒 | 3.8秒 | 11x |
+| 分组聚合 | 1.8秒 | 18.4秒 | 10x |
+| 排序 | 1.3秒 | 14.1秒 | 10.8x |
+
+### Lazy Execution 四大优化详解
+
+| 优化 | 原理 | 效果 |
+|------|------|------|
+| **谓词下推** | 过滤条件推至数据源层，只读需要的行 | 可能只读10GB而非1TB |
+| **列裁剪** | 100列CSV只选3列时仅解析3列 | 减少90%+无用IO |
+| **聚合下推** | 利用Parquet统计信息(min/max)跳过数据块 | 跳过不需要的Row Group |
+| **常量折叠** | `col*2+10`编译期重写为`col*constant` | 减少运行时计算 |
+
+### 8核CPU 1000万行实测
+
+| 操作 | Polars | Pandas | 倍差 |
+|------|--------|--------|:---:|
+| 读取 | 1.14秒 | 5.23秒 | 4.6x |
+| 聚合 | 0.92秒 | 8.97秒 | **9.8x** |
+
+### 2026年生态数据
+
+| 指标 | 数值（2026-06） |
+|------|--------------|
+| GitHub Stars | **80,000+** |
+| 贡献者 | 500+ |
+| 月下载量 | 500万+ |
+| Discord成员 | 20,000+ |
+| 企业采用 | Databricks(Delta Lake)/Kaggle(30%+Notebook)/金融科技 |
+
+### 2026下半年路线图
+
+| 特性 | 状态 | 说明 |
+|------|------|------|
+| GPU加速 | 🚀 实验性 | CUDA后端 |
+| 分布式执行 | 🚀 计划中 | 集成Ray/Dask |
+| SQL增强 | 🚀 计划中 | 完整SQL 2003兼容 |
+| 文件格式 | 🚀 计划中 | Avro/Iceberg原生支持 |
+
+### 迁移路线图
+
+```python
+# 混合策略：Polars做ETL → Pandas做ML/可视化
+df_pl = pl.scan_csv("huge_file.csv").filter(...).collect()
+df_pd = df_pl.to_pandas()  # 零拷贝转换
+model = LinearRegression().fit(df_pd[["x"]], df_pd["y"])
+```
 
 ## Polars + MLflow + Streamlit 工程化三件套（2026-06新增）
 

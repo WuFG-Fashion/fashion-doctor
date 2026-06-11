@@ -5,7 +5,7 @@ tags: [python, dashboard, streamlit, dash, gradio, comparison]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard]
 created: 2026-06-07
 updated: 2026-06-07
-cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]]
+cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]]
 ---
 
 # 2026 Python看板生态系统

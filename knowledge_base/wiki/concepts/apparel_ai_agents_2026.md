@@ -5,7 +5,7 @@ tags: [ai, agent, fashion, supply_chain, digitalization]
 sources: [2026-06-07_垂直AI智能体_服装新风口.md]
 created: 2026-06-07
 updated: 2026-06-07
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]]
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]], [[2026-06-11_百家号_数据治理AI驱动选型2026]]
 ---
 
 # 服装行业垂直AI智能体2026

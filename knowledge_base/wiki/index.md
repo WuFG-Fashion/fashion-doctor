@@ -48,6 +48,7 @@ updated: 2026-06-11 13:55
 | 待迁移：明星导购 | 来自 L3_04_01 明星导购识别 | guide, evaluation |
 | 待迁移：波段上货 | 来自 L3_05_01 波段上货节奏 | merchandise, timing |
 | [[apparel_inventory_benchmark_2026]] ⭐ NEW | 2026服装库存全景：1850亿/积压率45%/周转2.1次/四维健康红线 | inventory, stock, turnover, kpi, benchmark |
+| [[retail_analytics_reporting_2026]] ⭐ NEW | 服装零售报表2026：五大趋势+六维KPI+五步优化+李宁补货+20% | retail, analytics, reporting, ai_bi |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -55,7 +56,7 @@ updated: 2026-06-11 13:55
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，5-11倍性能 + MLflow+Streamlit工程化三件套 | python, polars, pandas, benchmark, mlflow |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 | python, polars, pandas, benchmark, mlflow, rust |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
@@ -69,8 +70,8 @@ updated: 2026-06-11 13:55
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
-| [[data_lakehouse_2026]] ⭐ NEW | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地路径 | data_lakehouse, iceberg, etl, architecture |
-| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 数据治理平台四大技术路线+六厂商对比+四条选型路径+服装零售决策树 | data_governance, platform, selection, vendor |
+| [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例 | data_lakehouse, iceberg, etl, architecture, middle_platform |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+六厂商对比+四条选型+AI驱动七维选型+服装零售四阶段AI就绪 | data_governance, platform, selection, vendor, ai_driven |
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -84,7 +85,7 @@ updated: 2026-06-11 13:55
 | [[零售数据仓库SQL实践]] ⭐ NEW | 销售/库存/会员/导购四大场景SQL优化模板 | sql, optimization, practice |
 | [[私域运营方法论]] ⭐ NEW | 私域四策略+服装零售实施路径+工具矩阵 | vip, private_domain, scrm |
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
-| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+多品牌数据融合三原则 | multi_brand, analytics, architecture, etl |
+| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+数据融合三原则+数据中台200+门店案例 | multi_brand, analytics, architecture, etl, middle_platform |
 | [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.57 Starlette部署+Polars零拷贝 | streamlit, dashboard, production, code, starlette |
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
@@ -206,6 +207,10 @@ updated: 2026-06-11 13:55
 | [[2026-06-11_Megaview零售门店AI陪练实战方法论]] ⭐ NEW | KPMG基线+Megaview实测：达标-42%/遗忘-35%/真实度8.7/10 | guide, ai, coaching, training, megaview |
 | [[2026-06-11_海量SKU三维矩阵与库存智能引擎]] ⭐ NEW | 500款=15000SKU三维矩阵/AI四引擎/周转+30%/3天追单 | sku, inventory, erp, merchandise |
 | [[2026-06-11_服装订货会波段三角款精准控量]] ⭐ NEW | 波段10-15/60-70%/三角款/售罄75-85%/四阶段闭环 | merchandise, buying, otb, sell_through |
+| [[2026-06-11_chenxutan_Polars深度实战Rust架构]] ⭐ NEW | Polars Rust+Arrow架构94x(PDS-H)/Lazy四大优化/2026路线图(GPU/SQL2003) | polars, rust, arrow, benchmark |
+| [[2026-06-11_百家号_数据治理AI驱动选型2026]] ⭐ NEW | 合规→AI驱动转变/七大选型维度/服装零售四阶段AI就绪路径 | data_governance, ai_driven, retail, platform_selection |
+| [[2026-06-11_FineReport_服装数据分析报表优化2026]] ⭐ NEW | 五大趋势+六维KPI+五步优化+案例(李宁+20%/安踏+15%) | retail, analytics, reporting, ai_bi |
+| [[2026-06-11_FineDataLink_数据中台搭建方案2026]] ⭐ NEW | 四架构分型/六步落地/200+门店案例(上线2月→2周/实时+3倍) | data_middle_platform, architecture, etl, retail |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -250,5 +255,6 @@ updated: 2026-06-11 13:55
 | **49** | **06-10 19:55** | **L2_06/07 + 查漏** | **s4/e0/c4(更新)/p2(更新)** |
 | **50** | **06-11 07:50** | **L2_00/01/02** | **s4/e2(更新)/c1(新增)** |
 | **51** | **06-11 13:55** | **L2_03/04/05** | **s6/e0/c6(更新)/p1(更新)** |
+| **52** | **06-11 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1(新增)/c3(更新)/p1(更新)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
