@@ -5,7 +5,7 @@ tags: [kpi, benchmark, industry, china_apparel, financial, turnover]
 sources: [2026-06-05_中国服装协会_2026Q1行业经济运行分析.md]
 created: 2026-06-05
 updated: 2026-06-05
-cross_refs: [[china_apparel_industry_2026q1|行业KPI基准]], [[four_brands_2025]], [[china_apparel_industry_2026q1|行业运营基准]], [[china_apparel_2025_annual]], [[retail_analytics_reporting_2026]], [[2026-06-11_FineReport_服装数据分析报表优化2026]]
+cross_refs: [[china_apparel_industry_2026q1|行业KPI基准]], [[four_brands_2025]], [[china_apparel_industry_2026q1|行业运营基准]], [[china_apparel_2025_annual]], [[retail_analytics_reporting_2026]], [[2026-06-11_FineReport_服装数据分析报表优化2026]], [[china_apparel_export_2026]], [[2026-06-12_海关总署_2026年1-4月服装出口]]
 ---
 
 # 2026Q1中国服装行业运营基准

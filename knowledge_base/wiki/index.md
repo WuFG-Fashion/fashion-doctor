@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-11 13:55
+updated: 2026-06-12 08:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -17,10 +17,10 @@ updated: 2026-06-11 13:55
 | [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
-| [[peacebird]] ⭐ NEW | 太平鸟603877，2025FY 63.34亿，毛利率62.87% | brand, competitor, a_share |
+| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，数字化1.8亿/线上毛利率54.93% | brand, competitor, a_share |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ NEW | 迅销/优衣库，FY2026H1 884亿(+14.8%) | brand, competitor, global |
-| [[inditex_zara]] ⭐ NEW | Inditex/ZARA，FY2026Q1 684亿(+5.8%) | brand, competitor, fast_fashion |
+| [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店(品牌级拆解) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25% | brand, competitor, menswear |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
@@ -49,6 +49,7 @@ updated: 2026-06-11 13:55
 | 待迁移：波段上货 | 来自 L3_05_01 波段上货节奏 | merchandise, timing |
 | [[apparel_inventory_benchmark_2026]] ⭐ NEW | 2026服装库存全景：1850亿/积压率45%/周转2.1次/四维健康红线 | inventory, stock, turnover, kpi, benchmark |
 | [[retail_analytics_reporting_2026]] ⭐ NEW | 服装零售报表2026：五大趋势+六维KPI+五步优化+李宁补货+20% | retail, analytics, reporting, ai_bi |
+| [[china_apparel_export_2026]] ⭐ NEW | 2026年1-4月出口442.3亿(-0.9%)/针织+1.8%梭织-3.7%/在美份额10.7%被越南反超 | export, trade, supply_chain, industry |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -105,6 +106,10 @@ updated: 2026-06-11 13:55
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-06-12_Capgemini_零售AI信任鸿沟2026]] ⭐ NEW | Capgemini：71%/76%/66%信任三大壁垒 + Ralph Lauren Ask Ralph案例 | ai, trust, retail, luxury |
+| [[2026-06-12_海关总署_2026年1-4月服装出口]] ⭐ NEW | 海关总署：出口442.3亿(-0.9%)/针织+1.8%/梭织-3.7%/在美份额10.7% | export, trade, customs, industry |
+| [[2026-06-12_新浪财经_29家服装企业2026Q1全景]] ⭐ NEW | 29家全球服装企业Q1：亚瑟士+47.2%领跑/森马+45.25%/耐克大中华-7% | competitor, financial, global, q1 |
+| [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]] ⭐ NEW | Inditex门店品牌拆解：Zara-50/Lefties+8唯一增长/capex 23亿€ | zara, inditex, store, capex |
 | [[2026-06-08_有赞_RFM分层自动化触达2026]] ⭐ NEW | 有赞2026版RFM八类分层+四步自动化，65%品牌低复购/企微70%触达率 | vip, rfm, automation |
 | [[2026-06-08_人人都是产品经理_安踏私域复购策略]] ⭐ NEW | 安踏1.2亿私域会员复购>40%，"魔法数字"+三大标签体系 | vip, anta, private_domain |
 | [[2026-06-08_全零售AI火花大会v2]] ⭐ NEW | CCFA AI火花大会腾讯深度版：英特尔/银泰/锅圈/孩子王/百果园五大案例 | ai, retail, smart_store |
@@ -256,5 +261,6 @@ updated: 2026-06-11 13:55
 | **50** | **06-11 07:50** | **L2_00/01/02** | **s4/e2(更新)/c1(新增)** |
 | **51** | **06-11 13:55** | **L2_03/04/05** | **s6/e0/c6(更新)/p1(更新)** |
 | **52** | **06-11 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1(新增)/c3(更新)/p1(更新)** |
+| **53** | **06-12 07:50** | **L2_00/01/02** | **s4/e2(更新)/c2(1新增+1更新)/co0** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

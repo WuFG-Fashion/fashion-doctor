@@ -4,8 +4,8 @@ title: Inditex（ZARA）
 tags: [zara, inditex, competitor, fast_fashion, global, spain]
 sources: [2026-06-05_Inditex_ZARA_FY2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-09
-cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brands_2026q1]], [[服装行业竞争格局]]
+updated: 2026-06-12
+cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brands_2026q1]], [[服装行业竞争格局]], [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]]
 ---
 
 # Inditex / ZARA
@@ -57,6 +57,31 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brand
 | 2025.4 | 5,562 | 1,545 | 388 | — |
 | 2026.4 | 5,456 | 1,495 | 376 | **<60** |
 | 变化 | -106 | -50 | -12 | 持续收缩 |
+
+### 门店品牌级拆解 ⭐ NEW
+
+| 品牌 | 2026.4 | 2025.4 | 变化 | 趋势 |
+|------|--------|--------|------|------|
+| Zara | 1,495 | 1,545 | -50 | 主品牌收缩 |
+| Pull&Bear | 792 | 804 | -12 | 收缩 |
+| Bershka | 851 | 855 | -4 | 基本持平 |
+| Stradivarius | 837 | 838 | -1 | 持平 |
+| Massimo Dutti | 528 | 536 | -8 | 收缩 |
+| Oysho | 379 | 395 | -16 | 加速收缩 |
+| Zara Home | 376 | 388 | -12 | 收缩 |
+| **Lefties** | **217** | **209** | **+8** | **唯一增长** ⭐ |
+| **合计** | **5,456** | **5,562** | **-106** | 全面瘦身 |
+
+> Lefties是Inditex低价品牌线，定位类似Primark，年内在西班牙等地扩张。全集团唯一逆势增长品牌折射"消费降级→低价渠道"趋势。
+
+### FY2026资本支出 ⭐ NEW
+
+| 指标 | 数据 |
+|------|------|
+| 常规资本支出 | ~23亿€ |
+| 主要投向 | 门店优化 + 技术集成 + 线上平台升级 |
+| 销售面积增长 | +5% |
+| 毛利率预期 | 稳定±50bp |
 
 ## 中国市场策略转变
 

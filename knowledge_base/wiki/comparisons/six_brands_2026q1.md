@@ -5,7 +5,7 @@ tags: [competitor, financial, comparison, peacebird, hla, semir, zara, uniqlo, l
 sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md]
 created: 2026-06-07
 updated: 2026-06-09
-cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[four_brands_2025]], [[three_brands_mid2026]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]]
+cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[four_brands_2025]], [[three_brands_mid2026]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-12_新浪财经_29家服装企业2026Q1全景]]
 ---
 
 # 六品牌2026Q1财务对比

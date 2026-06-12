@@ -4,7 +4,7 @@ title: 太平鸟
 tags: [peacebird, competitor, menswear, womenswear, kidswear, a_share]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-07
+updated: 2026-06-12
 cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]]
 ---
 
@@ -68,6 +68,16 @@ cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semi
 | **渠道** | 大店策略+关低效店600家 | 南京路集合店月销**400万+** |
 | **组织** | 2023年打破多品牌事业部→三大中台 | 商品中心+供应链中心+零售中心 |
 | **运营** | TOC以销定产从人工→数据驱动 | 快反效率提升 |
+
+### 2025运营细节新增 ⭐
+
+| 指标 | 数据 | 说明 |
+|------|------|------|
+| 数字化累计投入 | **1.8亿元**（三年） | 落地50+项目，供应链/零售/商品全链路 |
+| 新增旗舰店/集合店 | **45家**（2025年） | 大店策略持续 |
+| 线上毛利率(Q1) | **54.93%** | 连续两年每年+5pp（2025:49%→2026Q1:54.93%） |
+| 线上毛利增幅 | +5.23pp | 核心增长引擎 |
+| 直营收入增速 | **+7.9%** | 店效修复显著 |
 
 ## 关联知识
 - [[muson_gxg]] — GXG竞品对比
