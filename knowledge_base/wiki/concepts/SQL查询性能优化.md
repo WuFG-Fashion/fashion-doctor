@@ -5,7 +5,7 @@ tags: [sql, optimization, mysql, performance, retail_data]
 sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]]
+cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]]
 ---
 
 # SQL查询性能优化

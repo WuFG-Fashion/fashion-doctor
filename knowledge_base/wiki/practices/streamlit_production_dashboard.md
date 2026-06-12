@@ -2,10 +2,10 @@
 type: practice
 title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026]
 created: 2026-06-07
-updated: 2026-06-10
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]]
+updated: 2026-06-12
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]]
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -234,3 +234,62 @@ def load_sales():
 
 st.dataframe(load_sales())  # 直接传Polars DataFrame
 ```
+
+## v1.58 并行片段与分页实战（2026-06新增）
+
+### Parallel Fragments — 多品牌看板并发加载
+
+```python
+# 多品牌数据并行加载，不阻塞 UI
+@st.fragment(parallel=True)
+def load_brand_a():
+    df_a = pl.scan_parquet("brand_a/sales.parquet").collect()
+    st.subheader("品牌A")
+    st.dataframe(df_a)
+
+@st.fragment(parallel=True)
+def load_brand_b():
+    df_b = pl.scan_parquet("brand_b/sales.parquet").collect()
+    st.subheader("品牌B")
+    st.dataframe(df_b)
+
+@st.fragment(parallel=True)
+def live_kpi():
+    # 实时KPI轮询
+    while True:
+        col1, col2, col3 = st.columns(3)
+        col1.metric("实时销售", fetch_live_sales())
+        col2.metric("在线门店", fetch_live_shops())
+        col3.metric("今日客流量", fetch_live_traffic())
+        time.sleep(10)
+```
+
+### st.pagination — 海量SKU分页
+
+```python
+# config/brands.py 增加分页配置
+BRANDS["peacebird"]["pagination"] = {
+    "page_size": 50,  # 每页50条SKU
+    "max_pages": 100,
+}
+
+# 分页组件
+def render_sku_table(df, page_size=50):
+    total_pages = len(df) // page_size + 1
+    page = st.pagination(total_pages)
+    start = page * page_size
+    st.dataframe(df.iloc[start:start+page_size])
+```
+
+### v1.58 组件更新速查
+
+| 组件 | 版本 | 多品牌看板场景 |
+|------|:---:|---------------|
+| `@st.fragment(parallel=True)` | v1.58 | 多品牌数据并行加载 |
+| `st.pagination` | v1.58 | SKU明细/会员列表分页 |
+| `st.bottom` | v1.57 | 品牌切换栏常驻底部 |
+| `st.menu_button` | v1.56 | 品牌选择下拉菜单 |
+| `st.iframe` | v1.56 | BI报表嵌入 |
+| `AudioColumn` | v1.56 | 商品展示视频列 |
+| `filter_mode` | v1.56 | selectbox搜索过滤 |
+| `on_change` 容器 | v1.55 | 标签切换自动刷新 |

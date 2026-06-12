@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-12 08:00
+updated: 2026-06-12 20:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -50,6 +50,8 @@ updated: 2026-06-12 08:00
 | [[apparel_inventory_benchmark_2026]] ⭐ NEW | 2026服装库存全景：1850亿/积压率45%/周转2.1次/四维健康红线 | inventory, stock, turnover, kpi, benchmark |
 | [[retail_analytics_reporting_2026]] ⭐ NEW | 服装零售报表2026：五大趋势+六维KPI+五步优化+李宁补货+20% | retail, analytics, reporting, ai_bi |
 | [[china_apparel_export_2026]] ⭐ NEW | 2026年1-4月出口442.3亿(-0.9%)/针织+1.8%梭织-3.7%/在美份额10.7%被越南反超 | export, trade, supply_chain, industry |
+| [[retail_data_workflow_2026]] ⭐ NEW | CRISP-DM七步工作流×服装零售/Pandas-Polars-DuckDB三引擎选型/EDA三类+可视化全家桶 | retail, analytics, workflow, crisp_dm, eda |
+| [[etl_governance_convergence_2026]] ⭐ NEW | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 | etl, data_governance, integration, architecture |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -222,6 +224,10 @@ updated: 2026-06-12 08:00
 | [[2026-06-12_Megaview零售门店AI陪练实战2026]] ⭐ NEW | 67%脱节/800元月成本/45天上岗/三阶训练/四维评估/0.5秒反馈 | guide, ai, coaching, training, megaview |
 | [[2026-06-12_买手店OTB落地全攻略2026]] ⭐ NEW | OTB公式+五条铁律/定倍率2-2.5/周转4-8次/动态释放机制 | otb, merchandise, inventory, buying |
 | [[2026-06-12_SKU爆款打造策略2026]] ⭐ NEW | 分阶段SKU管理/数据驱动三步骤/B2B复购10-24.44%/引流款vs利润款 | sku, merchandise, data_driven, ecommerce |
+| [[2026-06-12_Streamlit全版本新特性2026]] ⭐ NEW | Streamlit v1.53-1.58全版本：Starlette架构迁移/Parallel Fragments/st.pagination/20+新组件 | streamlit, dashboard, python, production |
+| [[2026-06-12_帆软_ETL集成治理一体化]] ⭐ NEW | ETL向集成+治理一体化演进：血缘自动沉淀/质量嵌入流程/标准默认执行 | etl, data_governance, multi_brand, fine_datalink |
+| [[2026-06-12_CSDN_Python数据分析工作流2026]] ⭐ NEW | CRISP-DM七步/Pandas-Polars-DuckDB三件套/EDA三类/可视化全家桶 | python, polars, duckdb, eda, workflow |
+| [[2026-06-12_IT之家_数据治理平台选型2026]] ⭐ NEW | 数据中台四路线/亿信华辰10亿级20分钟质检/AI融入治理/失败四原因 | data_governance, platform, selection, middle_platform |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -269,5 +275,6 @@ updated: 2026-06-12 08:00
 | **52** | **06-11 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1(新增)/c3(更新)/p1(更新)** |
 | **53** | **06-12 07:50** | **L2_00/01/02** | **s4/e2(更新)/c2(1新增+1更新)/co0** |
 | **54** | **06-12 13:55** | **L2_03/04/05** | **s6/c5(更新)/p2(更新)** |
+| **55** | **06-12 19:55** | **L2_06/07 + 查漏** | **s4/c2(新增)+c3(更新)/p1(更新)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -2,10 +2,10 @@
 type: concept
 title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026]
 created: 2026-06-07
-updated: 2026-06-10
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]]
+updated: 2026-06-12
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -16,12 +16,61 @@ cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics
 
 ## 2026年关键版本特性
 
-| 版本 | 关键特性 |
-|------|---------|
-| **v1.57 (2026-04-29)** | **Starlette默认启用**、Polars Arrow零拷贝、st.bottom、:shimmer[] |
-| v1.56 (2026-04) | st.menu_button、st.iframe、pandas 3.x、selectbox filter_mode |
-| v1.55 (2026-03) | 动态容器on_change、Widget bind、流式Markdown CSS颜色 |
-| v1.53 (2026-01) | Starlette实验性引入、st.App ASGI入口、st.logout、会话级缓存 |
+| 版本 | 日期 | 关键特性 |
+|------|------|---------|
+| **v1.58** | 2026-05-28 | **Parallel Fragments(@st.fragment parallel=True)**、st.pagination、CLI skills、自定义异常处理 |
+| **v1.57** | 2026-04-29 | **Starlette默认启用**、Polars Arrow零拷贝、st.bottom、:shimmer[] |
+| v1.56 | 2026-03-31 | st.menu_button、st.iframe、pandas 3.x、selectbox filter_mode、AudioColumn/VideoColumn |
+| v1.55 | 2026-03-03 | 动态容器on_change、Widget bind、st.metric delta_description、st.image link |
+| v1.54 | 2026-02-04 | 图表配色主题、config.toml热加载、st.logo Material图标 |
+| v1.53 | 2026-01-14 | Starlette实验、st.App ASGI入口、会话级缓存、st.logout |
+
+## v1.58 并行执行与分页（2026-06新增）
+
+### @st.fragment(parallel=True) — 并行片段
+
+v1.58 支持片段并发运行，实现后台工作流而不阻塞 UI：
+
+```python
+@st.fragment(parallel=True)
+def heavy_computation():
+    df = load_large_dataset()  # 后台执行
+    st.dataframe(df)
+
+@st.fragment(parallel=True)
+def real_time_metrics():
+    while True:
+        metrics = fetch_live_kpi()
+        st.metric("实时销售", f"¥{metrics['sales']}")
+        time.sleep(5)
+```
+
+### st.pagination — 原生分页
+
+```python
+data = load_million_rows()
+total_pages = len(data) // page_size
+page = st.pagination(total_pages)
+st.dataframe(data.iloc[page * page_size: (page+1) * page_size])
+```
+
+### 其他新能力
+- **CLI skills**：`streamlit skills` 安装 AI 代理技能
+- **自定义异常处理**：`st.App` 可附加自定义异常处理器
+- **st.expander/st.status type 参数**：更紧凑的视觉样式
+- **移除**：`element.add_rows`、LangChain 回调处理器
+
+### v1.58 组件对比
+
+| 组件 | 版本 | 用途 | 服装零售场景 |
+|------|:---:|------|-------------|
+| `@st.fragment(parallel=True)` | v1.58 | 并行片段 | 后台加载大数据 + 实时KPI并行 |
+| `st.pagination` | v1.58 | 分页 | 海量SKU明细分页浏览 |
+| `st.bottom` | v1.57 | 固定底部容器 | 品牌切换栏/全局筛选器 |
+| `st.menu_button` | v1.56 | 弹出菜单按钮 | 品牌选择/设置/导出 |
+| `st.iframe` | v1.56 | 嵌入外部内容 | BI报表/地图嵌入 |
+| `AudioColumn/VideoColumn` | v1.56 | 数据框音视频 | 商品展示视频预览 |
+| 动态容器on_change | v1.55 | 容器触发重运行 | 标签页切换自动刷新 |
 
 ## v1.57 架构革命：Tornado → Starlette/Uvicorn
 
