@@ -216,6 +216,12 @@ updated: 2026-06-12 08:00
 | [[2026-06-11_百家号_数据治理AI驱动选型2026]] ⭐ NEW | 合规→AI驱动转变/七大选型维度/服装零售四阶段AI就绪路径 | data_governance, ai_driven, retail, platform_selection |
 | [[2026-06-11_FineReport_服装数据分析报表优化2026]] ⭐ NEW | 五大趋势+六维KPI+五步优化+案例(李宁+20%/安踏+15%) | retail, analytics, reporting, ai_bi |
 | [[2026-06-11_FineDataLink_数据中台搭建方案2026]] ⭐ NEW | 四架构分型/六步落地/200+门店案例(上线2月→2周/实时+3倍) | data_middle_platform, architecture, etl, retail |
+| [[2026-06-12_会员管理系统私域增长引擎2026]] ⭐ NEW | 精细化会员复购+42%/销售占比85%/四系统选型(微盟有赞千米ecshop) | vip, membership, private_domain, scrm |
+| [[2026-06-12_私域复购钩子设计2026]] ⭐ NEW | 三大钩子(积分/新品/生日)/复购25%→75%/服装生日+80% | vip, repurchase, private_domain, loyalty |
+| [[2026-06-12_北森AI陪练2.0零售实战]] ⭐ NEW | 北森2.0：美妆99.4%通关/珠宝16类顾客/0.5天上线/10-15min碎片训练 | guide, ai, coaching, training, beisen |
+| [[2026-06-12_Megaview零售门店AI陪练实战2026]] ⭐ NEW | 67%脱节/800元月成本/45天上岗/三阶训练/四维评估/0.5秒反馈 | guide, ai, coaching, training, megaview |
+| [[2026-06-12_买手店OTB落地全攻略2026]] ⭐ NEW | OTB公式+五条铁律/定倍率2-2.5/周转4-8次/动态释放机制 | otb, merchandise, inventory, buying |
+| [[2026-06-12_SKU爆款打造策略2026]] ⭐ NEW | 分阶段SKU管理/数据驱动三步骤/B2B复购10-24.44%/引流款vs利润款 | sku, merchandise, data_driven, ecommerce |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -262,5 +268,6 @@ updated: 2026-06-12 08:00
 | **51** | **06-11 13:55** | **L2_03/04/05** | **s6/e0/c6(更新)/p1(更新)** |
 | **52** | **06-11 19:55** | **L2_06/07 + 查漏** | **s4/e0/c1(新增)/c3(更新)/p1(更新)** |
 | **53** | **06-12 07:50** | **L2_00/01/02** | **s4/e2(更新)/c2(1新增+1更新)/co0** |
+| **54** | **06-12 13:55** | **L2_03/04/05** | **s6/c5(更新)/p2(更新)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

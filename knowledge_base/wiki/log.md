@@ -36,4 +36,5 @@ created: 2026-06-05
 | 2026-06-11 07:50 | ingestA | L2_00/01/02 — 采集4篇/织网5条/矛盾0处(raw4→s4→c1新增:apparel_inventory_benchmark_2026→e2更新:hla/semir→L3同步3处) |
 | 2026-06-11 13:55 | ingestB | L2_03/04/05 — 采集6篇/织网6条/矛盾0处(s6→c5更新:会员复购率/AI陪练/导购培训闭环/sku管理/动态OTB→p3更新:服装订货会/私域方法论/RFM分层) |
 | 2026-06-11 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(raw4→s4→c1新增:retail_analytics_reporting_2026→c3更新:polars_vs_pandas(+Rust架构94x/路线图)+data_governance_tech_routes(+AI驱动七维选型)+data_lakehouse_2026(+中台四架构)→p1更新:multi_brand_unified(+200门店案例)) |
-| 2026-06-12 01:55 | optimize | lint(断链5/孤岛1/矛盾11/过期0/分类0)+织网+索引 |
+| 2026-06-12 07:50 | ingestA | L2_00/01/02 — 采集4篇/织网12条/矛盾0处(raw4→s4→c1新增:china_apparel_export_2026+c1更新:retail_ai_adoption_2026(信任鸿沟+Ralph Lauren)→e2更新:peacebird(数字化/线上毛利)+inditex_zara(品牌门店拆解/capex)→L3同步3处) |
+| 2026-06-12 13:55 | ingestB | L2_03/04/05 — 采集6篇/织网12条/矛盾1处(流失率68%vs35%) |
