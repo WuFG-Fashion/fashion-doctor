@@ -5,7 +5,7 @@ tags: [retail, analytics, reporting, dashboard, kpi, ai_bi, fashion, optimizatio
 sources: [2026-06-11_FineReport_服装数据分析报表优化2026]
 created: 2026-06-11
 updated: 2026-06-11
-cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[china_apparel_industry_2026q1]], [[data_quality_governance]]
+cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[china_apparel_industry_2026q1]], [[data_quality_governance]], [[retail_bi_visualization_2026]]
 ---
 
 # 服装零售数据分析报表体系2026

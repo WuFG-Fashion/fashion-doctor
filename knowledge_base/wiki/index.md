@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-13 14:00
+updated: 2026-06-13 20:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -54,6 +54,7 @@ updated: 2026-06-13 14:00
 | [[china_apparel_export_2026]] ⭐ NEW | 2026年1-4月出口442.3亿(-0.9%)/针织+1.8%梭织-3.7%/在美份额10.7%被越南反超 | export, trade, supply_chain, industry |
 | [[retail_data_workflow_2026]] ⭐ NEW | CRISP-DM七步工作流×服装零售/Pandas-Polars-DuckDB三引擎选型/EDA三类+可视化全家桶 | retail, analytics, workflow, crisp_dm, eda |
 | [[etl_governance_convergence_2026]] ⭐ NEW | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 | etl, data_governance, integration, architecture |
+| [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -75,8 +76,8 @@ updated: 2026-06-13 14:00
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
-| [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例 | data_lakehouse, iceberg, etl, architecture, middle_platform |
-| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+六厂商对比+四条选型+AI驱动七维选型+服装零售四阶段AI就绪 | data_governance, platform, selection, vendor, ai_driven |
+| [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+860亿市场+五步选型+硬性基准指标+服装零售选型决策树 | data_governance, platform, selection, vendor, ai_driven, market_size |
 | [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -95,6 +96,7 @@ updated: 2026-06-13 14:00
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
+| [[bi_dashboard_retail_deployment|BI看板零售部署实操]] ⭐ NEW | 六步落地流程/Superset-DataEase-Streamlit三种方案/5大标准看板/避坑指南/Docker部署 | bi, dashboard, deployment, retail, superse, dataease, streamlit |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
@@ -240,6 +242,10 @@ updated: 2026-06-13 14:00
 | [[2026-06-13_服饰供应链数字化管理方案]] ⭐ NEW | 供应链数字化：DIO 60-75天/售罄75%+/OOS<5%/ROI公式/五大避坑 | otb, merchandise, supply_chain, sell_through, inventory |
 | [[2026-06-13_全渠道会员一体化管理]] ⭐ NEW | 丽晶三步法：统一ID→统一权益→全域标签/70%+消费者偏好融合/自动化触发 | vip, omnichannel, rfm, lijing |
 | [[2026-06-13_服装供应链数字化系统选型]] ⭐ NEW | 四大SCM服务商横评：领猫/赛趋科/用友/金蝶/72%企业数字化规划 | supply_chain, scm, vendor, system_selection |
+| [[2026-06-13_腾讯新闻_BI可视化工具排行2026]] ⭐ NEW | 2026年BI工具TOP5排行：SmartBI/Tableau/镝数图表/观远数据/Superset | bi, visualization, tool_selection, dashboard |
+| [[2026-06-13_DataEase_开源BI三剑客对比2026]] ⭐ NEW | Superset/DataEase/Metabase开源BI 2026年全面对比评测 | bi, open_source, superse, dataease, metabase |
+| [[2026-06-13_CSDN_数据治理平台厂商全景2026]] ⭐ NEW | 15+厂商全景/市场860亿/29.7%CAGR/选型五步法/核心硬性指标 | data_governance, platform, vendor, market_size |
+| [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]] ⭐ NEW | 百分点/华为/腾讯/字节/京东五大数据中台AI智能体协同能力拆解 | data_governance, middle_platform, ai_agent, architecture |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -290,5 +296,6 @@ updated: 2026-06-13 14:00
 | **55** | **06-12 19:55** | **L2_06/07 + 查漏** | **s4/c2(新增)+c3(更新)/p1(更新)** |
 | **56** | **06-13 07:50** | **L2_00/01/02** | **s5/e2新增(jnby+lilanz)+e1更新(lululemon)/c2更新(ai_agents+industry_q1)** |
 | **57** | **06-13 13:55** | **L2_03/04/05** | **s5/e2更新(丽晶+深维智信)/c5更新(会员复购率+AI陪练+全渠道一体化+动态OTB+柔性供应链)/p2更新(RFM分层+私域方法论)** |
+| **58** | **06-13 19:55** | **L2_06/07 + 查漏** | **s4/c1新增(BI可视化)+c2更新(数据治理路线+湖仓一体)/p1新增(BI看板部署)/L3同步3处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

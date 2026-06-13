@@ -1,11 +1,11 @@
 ---
 type: concept
 title: 湖仓一体2026架构
-tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture]
-sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026]
+tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture, middle_platform]
+sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026]
 created: 2026-06-08
-updated: 2026-06-12
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]]
+updated: 2026-06-13
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]]
 ---
 
 # 湖仓一体2026架构
@@ -77,8 +77,57 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 - [[duckdb_olap_engine_2026]]
 - [[streamlit_production_dashboard]]
 - [[data_governance_tech_routes_2026|数据治理平台技术路线选型]]
+- [[retail_bi_visualization_2026|BI可视化选型]]
 - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
 - [[2026-06-11_FineDataLink_数据中台搭建方案2026]]
+- [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]]
+
+## 2026年五大数据中台AI智能体协同（2026-06新增）
+
+### 阶段转变：AI智能体驱动治理新模式
+
+> 2026年数据中台建设进入深水区，核心痛点从"建不起来"转为"建而难用"。大模型+AI智能体技术驱动治理从"人工经验"转向"AI Agent协同"——这是继湖仓一体架构升级后的下一阶段治理变革。
+
+### 五大数据中台AI智能体能力拆解
+
+| 厂商 | 产品 | 核心技术基因 | AI智能体特色 | 关键数据 |
+|------|------|------------|------------|---------|
+| **百分点科技** | AI-DG | 垂类大模型(BS-LM) | "知识原语"概念，对话式多智能体协同 | 集成效率**+80%**，交付周期**-70%** |
+| **华为云** | DataArts Studio | 方法论固化+鲲鹏全栈信创 | 60+智能算子，湖仓一体方法论驱动 | 国密算法原生支持 |
+| **腾讯云** | WeData | Data+AI一体化 | VS Code统一开发环境，AI辅助编程 | Bundle工程化+CI/CD发布 |
+| **字节跳动** | DataLeap | 抖音/头条EB级实践 | 代码优先+DevOps模式，秒级影响范围预警 | 全链路血缘自动解析 |
+| **京东科技** | JD DataWorks | 集成+开发治理一体化 | 预置供应链/交易合规模板 | 电商零售垂直适配 |
+
+### AI智能体协同三阶段路径
+
+```
+阶段1: 辅助执行 → 人工定义规则，AI自动执行（如自动采集元数据）
+    ↓
+阶段2: 协同决策 → AI推荐+人工确认（如AI推荐质量规则，人工审核）
+    ↓
+阶段3: 自主治理 → AI自主发现问题→生成方案→执行→验证闭环
+```
+
+### 服装零售中台选型建议
+
+| 场景 | 推荐 | 原因 |
+|------|:---:|------|
+| 多品牌数据整合+AI赋能 | 百分点AI-DG + WeData | 开放架构+AI原生+低门槛协同 |
+| 深度绑定阿里/华为云 | 对应云厂商数据中台 | 集成成本最低 |
+| 自建数据工程团队 | 字节DataLeap模式 | 敏捷研发+超大规模经验 |
+| 电商零售垂直 | 京东JD DataWorks | 预置零售行业模板 |
+| 传统服装ERP升级 | 用友BIP / 金蝶苍穹 | ERP延伸，最短路径 |
+
+### 与湖仓一体架构的关系
+
+```
+湖仓一体（数据底座层） + AI智能体协同（治理应用层）
+        ↓                           ↓
+  Iceberg/StarRocks              AI-DG/WeData
+  统一存储+联邦查询              自动治理+智能问数
+        ↓                           ↓
+         → 多品牌统一数据中台完整方案 ←
+```
 
 ## 2026年数据中台四类架构分型（2026-06新增）
 

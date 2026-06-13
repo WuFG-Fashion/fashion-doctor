@@ -141,8 +141,23 @@ fig.update_layout(width=800)  # 不要固定宽度
 - **橙色**(#ff7f0e)：强调/需关注/待处理——次于红色的警示级别
 - **关键原则**：同一看板不超过5种颜色 / 色盲友好（红绿搭配需加图标辅助）
 
+## 2026年6月13日更新（C轮 L2_06/07采集）⭐
+
+### BI可视化工具2026全面对比（来源：腾讯新闻/DataEase，日期：**2026-06**，可信度：**高**）
+
+- **商业BI TOP5**：SmartBI（Agent BI开创者，5000+客户）> Tableau（可视化标杆）> 镝数图表（零代码）> 观远数据（云原生ChatBI）> Superset（开源）
+- **开源BI三剑客**：Superset（PB级，技术强队）/ DataEase（中文拖拽，中小企业首选）/ Metabase（自然语言查询，G2 4.6/5）
+- **AI融合三形态**：ChatBI（自然语言问数）、Agent BI（智能体编排）、AI辅助建模
+- **服装零售选型核心**：多品牌统一指标 > 可视化表现力 > AI分析能力 > 部署成本 > 信创兼容
+- **推荐组合**：大型集团 SmartBI+Superset混合 / 中小品牌 DataEase或观远数据 / 技术驱动 Streamlit+Superset
+- 详见 [[retail_bi_visualization_2026]] 和 [[bi_dashboard_retail_deployment]]
+
 ## 关联知识
 
 - [[数据质量红线]]
 - [[SQL查询优化]]
 - [[KPI健康基准]]
+- [[retail_bi_visualization_2026|BI可视化在服装零售的选型]]
+- [[bi_dashboard_retail_deployment|BI看板零售部署实操]]
+- [[streamlit_dashboard_2026|Streamlit生产级看板]]
+- [[python_dashboard_ecosystem_2026|Python看板生态]]

@@ -132,3 +132,7 @@ ORDER BY date;
 - [[系统架构设计]]
 - [[品牌配置管理]]
 - [[竞品综合对比]]
+- [[multi_brand_unified_analytics|多品牌统一分析架构]]
+- [[data_governance_tech_routes_2026|数据治理技术路线]]
+- [[retail_bi_visualization_2026|BI可视化选型]]
+- [[data_lakehouse_2026|湖仓一体架构]]
