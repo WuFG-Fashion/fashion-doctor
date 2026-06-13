@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-13",
+  "updated": "2026-06-14",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "51 个 wiki/concepts + entities 文件",
-    "data_points": "180+条数值",
-    "last_scan": "2026-06-13"
+    "files_scanned": "53 个 wiki/concepts + entities 文件",
+    "data_points": "240+条数值",
+    "last_scan": "2026-06-14"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -96,7 +96,7 @@
       "deducted_profit_growth": 0.3346
     },
     "gxg_muson": {
-      "gross_margin": 0.528,
+      "gross_margin": 0.51,
       "net_margin": 0.015,
       "market_share_pct": 5.0,
       "revenue_2025_billion": 20.56,
@@ -121,15 +121,48 @@
     "zara_inditex": {
       "gross_margin": 0.612,
       "net_margin": 0.161,
-      "revenue_2026q1_eur_billion": 87,
-      "net_profit_eur_billion": 14
+      "revenue_2026q1_eur_billion": 87.5,
+      "net_profit_eur_billion": 13.75
     },
     "uniqlo_fast_retailing": {
       "gross_margin": 0.541,
       "net_margin": 0.135,
       "revenue_fy2026h1_jpy_billion": 20552,
-      "operating_profit_jpy_billion": 4006,
+      "operating_profit_h1_jpy_billion": 3869,
       "overseas_revenue_ratio": 0.681
+    },
+    "jnby": {
+      "gross_margin": 0.665,
+      "net_margin": 0.2,
+      "revenue_2026h1_billion": 33.76,
+      "net_profit_2026h1_billion": 6.76,
+      "revenue_growth_h1": 0.07,
+      "profit_growth_h1": 0.119,
+      "high_value_members": 340000,
+      "member_retail_contribution_pct": 0.8
+    },
+    "lilanz": {
+      "revenue_2025_billion": 40,
+      "revenue_growth": 0.115,
+      "light_business_growth": 0.284,
+      "online_growth": 0.25,
+      "rd_team_ratio": 0.069
+    },
+    "lululemon": {
+      "gross_margin": 0.542,
+      "revenue_2026q1_usd_billion": 2.5,
+      "net_profit_2026q1_usd_billion": 0.195,
+      "revenue_growth_q1": 0.04,
+      "china_growth": 0.3,
+      "fy2026_guidance_usd_billion_low": 11.0,
+      "fy2026_guidance_usd_billion_high": 11.15
+    },
+    "septwolves": {
+      "miniprogram_gmv_growth": 0.6,
+      "omnichannel_member_frequency_multiplier": 2.0,
+      "sleeping_reactivation_rate": 0.16,
+      "ai_lead_conversion_rate": 0.4,
+      "new_member_golden_period_days": 60
     }
   },
   "membership": {
@@ -230,5 +263,62 @@
     "retail_inventory_billion_rmb": 1850,
     "sme_backlog_rate": 0.45,
     "working_capital_occupied_pct": 0.6
+  },
+  "industry_2026_jan_apr": {
+    "revenue_billion_rmb": 3160.86,
+    "revenue_growth_pct": -0.0342,
+    "profit_billion_rmb": 80.56,
+    "profit_growth_pct": -0.1354,
+    "revenue_profit_margin": 0.0255,
+    "retail_growth_pct": 0.083,
+    "export_growth_pct": -0.009,
+    "investment_growth_pct": -0.093,
+    "online_retail_growth_pct": 0.068,
+    "us_export_growth_pct": 0.069,
+    "us_export_apr_only_pct": 0.418
+  },
+  "supply_chain_digitalization": {
+    "dio_digital_days": 75,
+    "dio_traditional_days": 120,
+    "sell_through_digital_min": 0.75,
+    "sell_through_traditional": 0.6,
+    "oos_digital_max": 0.05,
+    "oos_traditional": 0.15,
+    "gross_margin_improvement_pp": 5,
+    "logistics_cost_reduction_pct": 0.15,
+    "chase_order_digital_days": 5,
+    "chase_order_traditional_days": 14,
+    "initial_order_ratio_digital": 0.25,
+    "initial_order_ratio_traditional": 1.0,
+    "staff_efficiency_improvement_pct": 0.5,
+    "otb_accuracy_digital": 0.89,
+    "otb_accuracy_traditional": 0.68
+  },
+  "guide_ai_training": {
+    "trained_guide_pct": 0.38,
+    "knowledge_pass_rate": 0.45,
+    "real_scenario_correct_rate": 0.3,
+    "new_product_customer_loss_pct": 0.28,
+    "beisen_cost_reduction_pct": 0.63,
+    "beisen_ramp_days_reduction_pct": 0.52,
+    "beisen_skill_improvement_pct": 0.78,
+    "beisen_scenario_accuracy_pct": 0.92,
+    "sichuang_conversion_boost_pct": 0.138,
+    "megaview_ramp_months": 1.5,
+    "megaview_conversion_boost_pct": 0.18,
+    "megaview_avg_order_boost_pct": 0.12,
+    "tamna_scrm_roi": 9.2,
+    "ai_coaching_market_billion_rmb": 72.8
+  },
+  "store_ai_digitization": {
+    "manual_accounting_pct": 0.65,
+    "inventory_backlog_experienced_pct": 0.7,
+    "intelligent_stage_pct": 0.05,
+    "dead_stock_pre_ai_pct": 0.25,
+    "dead_stock_post_ai_pct": 0.08,
+    "sell_through_pre_ai_guangzhou": 0.22,
+    "sell_through_post_ai_guangzhou": 0.41,
+    "online_stage_pct": 0.35,
+    "data_stage_pct": 0.18
   }
 }
