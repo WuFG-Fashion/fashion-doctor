@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-13 08:30
+updated: 2026-06-13 14:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -235,6 +235,11 @@ updated: 2026-06-13 08:30
 | [[2026-06-13_中国服装协会_2026年前4月行业核心指标]] ⭐ NEW | 1-4月：营收3160.86亿(-3.42%)/利润80.56亿(-13.54%)/利润率2.55%/对美+6.9% | industry, kpi, benchmark, export |
 | [[2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎]] ⭐ NEW | 江南布衣33.76亿(+7%)/利郎40亿+(+11.5%)：从推动到拉动的增长密码 | competitor, jnby, lilanz, brand_strategy |
 | [[2026-06-13_CFW时尚_lululemon_FY2026Q1更新]] ⭐ NEW | lululemon Q1增收不增利确认：25亿(+4%)/毛利率54.2%(-410bp)/四大困境 | lululemon, financial, athleisure |
+| [[2026-06-13_私域复购权益设计核心逻辑]] ⭐ NEW | 三层框架：分层精准化+价值具象化+情感绑定化=长效复购体系 | vip, membership, repurchase, loyalty_design |
+| [[2026-06-13_Megaview_Agent陪练随身实战教练]] ⭐ NEW | Megaview Agent陪练：CCFA 45%导购不足/成交率+18%/客单+12%/8类客户模拟 | guide, ai, coaching, megaview, ccfa |
+| [[2026-06-13_服饰供应链数字化管理方案]] ⭐ NEW | 供应链数字化：DIO 60-75天/售罄75%+/OOS<5%/ROI公式/五大避坑 | otb, merchandise, supply_chain, sell_through, inventory |
+| [[2026-06-13_全渠道会员一体化管理]] ⭐ NEW | 丽晶三步法：统一ID→统一权益→全域标签/70%+消费者偏好融合/自动化触发 | vip, omnichannel, rfm, lijing |
+| [[2026-06-13_服装供应链数字化系统选型]] ⭐ NEW | 四大SCM服务商横评：领猫/赛趋科/用友/金蝶/72%企业数字化规划 | supply_chain, scm, vendor, system_selection |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -284,5 +289,6 @@ updated: 2026-06-13 08:30
 | **54** | **06-12 13:55** | **L2_03/04/05** | **s6/c5(更新)/p2(更新)** |
 | **55** | **06-12 19:55** | **L2_06/07 + 查漏** | **s4/c2(新增)+c3(更新)/p1(更新)** |
 | **56** | **06-13 07:50** | **L2_00/01/02** | **s5/e2新增(jnby+lilanz)+e1更新(lululemon)/c2更新(ai_agents+industry_q1)** |
+| **57** | **06-13 13:55** | **L2_03/04/05** | **s5/e2更新(丽晶+深维智信)/c5更新(会员复购率+AI陪练+全渠道一体化+动态OTB+柔性供应链)/p2更新(RFM分层+私域方法论)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
