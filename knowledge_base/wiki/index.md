@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-12 20:00
+updated: 2026-06-13 08:30
 ---
 
 # Fashion Doctor 知识库导航
@@ -24,7 +24,9 @@ updated: 2026-06-12 20:00
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25% | brand, competitor, menswear |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
-| [[lululemon]] ⭐ NEW | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30% | brand, competitor, athleisure |
+| [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，四大困境确认低增长调整期 | brand, competitor, athleisure |
+| [[jnby]] ⭐ NEW | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献超80% | brand, competitor, womenswear, membership |
+| [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | 待迁移 | MLB、速写/江南布衣、H&M | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -35,7 +37,7 @@ updated: 2026-06-12 20:00
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ NEW | 2026零售AI采纳全景：91%/89%/95%三大指标 | ai, retail, adoption, roi |
-| [[china_apparel_industry_2026q1]] ⭐ NEW | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% | kpi, benchmark, industry |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
@@ -63,7 +65,7 @@ updated: 2026-06-12 20:00
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
-| [[apparel_ai_agents_2026]] ⭐ NEW | 服装垂直AI智能体：四层架构+9大场景+三步战略 | ai, agent, fashion, supply_chain |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Google Cloud 2026 五大转变(52%部署/88%ROI) | ai, agent, fashion, supply_chain |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
@@ -228,6 +230,11 @@ updated: 2026-06-12 20:00
 | [[2026-06-12_帆软_ETL集成治理一体化]] ⭐ NEW | ETL向集成+治理一体化演进：血缘自动沉淀/质量嵌入流程/标准默认执行 | etl, data_governance, multi_brand, fine_datalink |
 | [[2026-06-12_CSDN_Python数据分析工作流2026]] ⭐ NEW | CRISP-DM七步/Pandas-Polars-DuckDB三件套/EDA三类/可视化全家桶 | python, polars, duckdb, eda, workflow |
 | [[2026-06-12_IT之家_数据治理平台选型2026]] ⭐ NEW | 数据中台四路线/亿信华辰10亿级20分钟质检/AI融入治理/失败四原因 | data_governance, platform, selection, middle_platform |
+| [[2026-06-13_GoogleCloud_AI_Agent趋势2026]] ⭐ NEW | Google Cloud 2026 AI Agent五大转变：52%部署/88%ROI/Home Depot Magic Apron/TELUS案例 | ai, agent, retail, agentic_ai |
+| [[2026-06-13_商务部_2026Q1批发零售发展]] ⭐ NEW | 商务部2026Q1：批发零售3.5万亿(+4.1%)/便利店+8.3%/专业店+0.5% | retail, government, macro, channel |
+| [[2026-06-13_中国服装协会_2026年前4月行业核心指标]] ⭐ NEW | 1-4月：营收3160.86亿(-3.42%)/利润80.56亿(-13.54%)/利润率2.55%/对美+6.9% | industry, kpi, benchmark, export |
+| [[2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎]] ⭐ NEW | 江南布衣33.76亿(+7%)/利郎40亿+(+11.5%)：从推动到拉动的增长密码 | competitor, jnby, lilanz, brand_strategy |
+| [[2026-06-13_CFW时尚_lululemon_FY2026Q1更新]] ⭐ NEW | lululemon Q1增收不增利确认：25亿(+4%)/毛利率54.2%(-410bp)/四大困境 | lululemon, financial, athleisure |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -276,5 +283,6 @@ updated: 2026-06-12 20:00
 | **53** | **06-12 07:50** | **L2_00/01/02** | **s4/e2(更新)/c2(1新增+1更新)/co0** |
 | **54** | **06-12 13:55** | **L2_03/04/05** | **s6/c5(更新)/p2(更新)** |
 | **55** | **06-12 19:55** | **L2_06/07 + 查漏** | **s4/c2(新增)+c3(更新)/p1(更新)** |
+| **56** | **06-13 07:50** | **L2_00/01/02** | **s5/e2新增(jnby+lilanz)+e1更新(lululemon)/c2更新(ai_agents+industry_q1)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

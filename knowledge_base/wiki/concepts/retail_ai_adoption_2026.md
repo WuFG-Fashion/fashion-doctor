@@ -5,7 +5,7 @@ tags: [ai, retail, adoption, roi, trend]
 sources: [2026-06-05_NVIDIA_2026零售AI报告.md, 2026-06-05_Capgemini_2026零售AI趋势报告.md]
 created: 2026-06-05
 updated: 2026-06-12
-cross_refs: [[AI导购陪练]], [[服装行业竞争格局]], [[柔性供应链与商品企划]], [[agentic_commerce_fashion_2026]], [[china_apparel_export_2026]], [[2026-06-12_Capgemini_零售AI信任鸿沟2026]]
+cross_refs: [[AI导购陪练]], [[服装行业竞争格局]], [[柔性供应链与商品企划]], [[agentic_commerce_fashion_2026]], [[china_apparel_export_2026]], [[2026-06-12_Capgemini_零售AI信任鸿沟2026]], [[2026-06-13_GoogleCloud_AI_Agent趋势2026]], [[apparel_ai_agents_2026]]
 ---
 
 # 2026零售AI采纳全景

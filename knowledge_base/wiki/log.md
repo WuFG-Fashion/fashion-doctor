@@ -39,4 +39,4 @@ created: 2026-06-05
 | 2026-06-12 07:50 | ingestA | L2_00/01/02 — 采集4篇/织网12条/矛盾0处(raw4→s4→c1新增:china_apparel_export_2026+c1更新:retail_ai_adoption_2026(信任鸿沟+Ralph Lauren)→e2更新:peacebird(数字化/线上毛利)+inditex_zara(品牌门店拆解/capex)→L3同步3处) |
 | 2026-06-12 13:55 | ingestB | L2_03/04/05 — 采集6篇/织网12条/矛盾1处(流失率68%vs35%) |
 | 2026-06-12 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(raw4→s4→c2新增:retail_data_workflow_2026+etl_governance_convergence_2026→c3更新:streamlit_dashboard(+v1.58)/data_lakehouse(+四路线)/data_quality_governance(+ETL一体化+亿信华辰AI质检)→p1更新:streamlit_production_dashboard(+v1.58)) |
-| 2026-06-13 01:55 | optimize | lint(断链1/孤岛0/矛盾5/过期0/分类0)+织网+索引 |
+| 2026-06-13 08:00 | ingestA | L2_00/01/02 — 采集5篇/织网8条/矛盾0处(raw5→s5→e2新增(jnby+lilanz)+e1更新(lululemon)→c2更新(apparel_ai_agents+industry_q1)→L3同步4处) |

@@ -2,10 +2,10 @@
 type: concept
 title: 服装行业垂直AI智能体2026
 tags: [ai, agent, fashion, supply_chain, digitalization]
-sources: [2026-06-07_垂直AI智能体_服装新风口.md]
+sources: [2026-06-07_垂直AI智能体_服装新风口.md, 2026-06-13_GoogleCloud_AI_Agent趋势2026.md]
 created: 2026-06-07
-updated: 2026-06-07
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]], [[2026-06-11_百家号_数据治理AI驱动选型2026]]
+updated: 2026-06-13
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]], [[2026-06-13_GoogleCloud_AI_Agent趋势2026]], [[agentic_commerce_fashion_2026]]
 ---
 
 # 服装行业垂直AI智能体2026
@@ -69,3 +69,33 @@ cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服
 
 - [ ] 数商云方案的实际客户案例和ROI
 - [ ] 是否有独立第三方对服装AI Agent的市场规模预测
+
+## Google Cloud 2026 AI Agent 全球趋势 ⭐ 6月更新
+
+> 来源：Google Cloud AI Agent Trends 2026（3466名全球决策者调研）
+
+### 五大转变
+
+| 转变 | 核心数据 | 零售相关 |
+|------|---------|---------|
+| 工具→伙伴 | 52%已部署Agent，49%客服/46%营销 | TELUS 57000员工每次交互省40min |
+| 单点→流水线 | 88%早期采用者获正ROI | A2A+MCP协议无缝协作 |
+| 脚本→智能 | 客户服务Agent革命 | **Home Depot Magic Apron**（24h专业指导） |
+| 告警→行动 | 82%担心信息过载 | Torq Socrates 90%自动化 |
+| 人才升级 | 技能半衰期2-4年 | 61%每天用AI/84%要加大投入 |
+
+### 零售关键信号
+
+| 信号 | 说明 | 对服装零售影响 |
+|------|------|--------------|
+| AP2支付协议 | Google推AI代理支付协议，PayPal已采用 | Agentic Commerce基础设施就绪 |
+| 营销Agent协同 | 5个专业Agent(数据/分析/内容/创意/报告)协同 | 服装营销全链路Agent化可行 |
+| 52%部署+88%ROI | AI Agent投入产出确定性高 | 降低服装企业AI投入决策门槛 |
+
+### 对服装行业的启示
+1. **AP2支付协议** → 服装AI代理购物（Agentic Commerce）时代即将到来
+2. **Magic Apron模式** → 服装行业可借鉴"24小时AI造型顾问"
+3. **88% ROI确定性** → 服装企业AI Agent投入有扎实的回报基准
+4. **人才半衰期2-4年** → Fashion Doctor AI陪练/培训长期需求逻辑强化
+
+## 待验证
