@@ -240,3 +240,20 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 - [[数据质量红线]]
 - [[品牌配置管理]]
 - [[系统架构设计]]
+
+## 2026年6月14日更新（C轮 L2_06/07采集）⭐
+
+### 2026 Python数据分析库全景对比（来源：Scopir，日期：**2026-06**，可信度：**高**）
+
+- **六大库定位**：Polars（性能优先/Rust+惰性求值）、DuckDB（SQL聚合之王/零拷贝）、Pandas 2.2（生态王者）、Modin（❌不推荐）、Vaex（维护模式）、DataFusion（增长中）
+- **快速决策树**：<100万行→Pandas(Arrow) ✓ / SQL团队→DuckDB ✓ / 管道化→Polars ✓ / >1亿行→Polars(Lazy)/DuckDB ✓
+- **能耗对比**：大规模合成数据Polars≈Pandas的1/8能耗，TPC-H查询约为63%
+- **Modin短板**：API不完整静默回退、小数据更慢、分布式调试难（明确不推荐）
+- 详见 [[polars_vs_pandas_2026]] [[2026-06-14_Scopir_Python数据分析库2026全景对比]]
+
+### Python默认技术栈2026：uv+Ruff+Ty+Polars（来源：AI Future Thinkers，日期：**2026-06**，可信度：**高**）
+
+- **工具8合一**：uv替代pyenv+pip+venv+Poetry、Ruff替代Black+isort+Flake8、Ty替代mypy、Polars替代pandas
+- **同出Astral**：uv+Ruff+Ty均来自Astral公司，统一pyproject.toml配置
+- **uv run一站式**：永不手动激活虚拟环境，CI用`uv sync --frozen`
+- 详见 [[python_dev_stack_2026]] [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]]

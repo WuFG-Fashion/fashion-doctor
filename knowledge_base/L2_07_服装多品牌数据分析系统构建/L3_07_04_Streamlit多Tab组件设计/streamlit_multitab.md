@@ -504,3 +504,14 @@ your_project/
 
 - [[系统架构设计]]
 - [[品牌配置管理]]
+
+## 2026年6月14日更新（C轮 L2_06/07采集）⭐
+
+### Streamlit 2026全版本架构演进 v1.53→v1.58（来源：Streamlit官方，日期：**2026-06**，可信度：**高**）
+
+- **Starlette架构正式迁移**（v1.57默认）：Tornado→Uvicorn/ASGI，可集成FastAPI
+- **新组件对多Tab影响**：st.menu_button（品牌切换）、st.pagination（SKU分页）、st.bottom（固定底部）、st.iframe（嵌入BI）
+- **@st.fragment(parallel=True)**（v1.58）：多品牌数据并行加载，不阻塞UI
+- **Polars Arrow零拷贝**（v1.57）：直接传Polars DataFrame给Streamlit
+- **pandas 3.x支持**（v1.56）
+- 详见 [[streamlit_dashboard_2026]] [[streamlit_production_dashboard]]

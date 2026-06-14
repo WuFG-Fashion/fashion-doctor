@@ -64,7 +64,7 @@ updated: 2026-06-14 08:00
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 | python, polars, pandas, benchmark, mlflow, rust |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 + Scopir决策树/Modin不推荐 | python, polars, pandas, benchmark, mlflow, rust |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
@@ -74,6 +74,7 @@ updated: 2026-06-14 08:00
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
+| [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
 | [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移+Polars Arrow零拷贝+新组件 | streamlit, production, caching, starlette |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
@@ -258,6 +259,10 @@ updated: 2026-06-14 08:00
 | [[2026-06-14_Megaview_KPMG零售导购AI陪练2026]] ⭐ NEW | KPMG 2025：导购+42%成交率/+35%客单价，74%零售企业2026年规模化AI | guide, ai, coaching, kpmg |
 | [[2026-06-14_Megaview_零售AI培训系统分类]] ⭐ NEW | 三分类：场景化实战型/轻量化碎片型/数据复盘型，按门店规模选型决策 | guide, ai, coaching, tool_selection |
 | [[2026-06-14_中研网_2026全球服装行业双重变革]] ⭐ NEW | 三重变革：可持续+AI全渗透+个性化，代理优先决策模式，全球区域格局 | merchandise, apparel, global, sustainability |
+| [[2026-06-14_Streamlit_2026v1.53-1.58全版本新特性]] ⭐ NEW | Streamlit 2026全版本：Starlette迁移/v1.58并行Fragment/v1.57 Polars零拷贝/pandas 3.x | streamlit, architecture, starlette, dashboard |
+| [[2026-06-14_Scopir_Python数据分析库2026全景对比]] ⭐ NEW | Scopir横评：Polars/DuckDB/Pandas/Modin六大库+快速决策树+Modin不推荐 | python, polars, duckdb, benchmark, selection |
+| [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]] ⭐ NEW | Python 2026：uv+Ruff+Ty+Polars四件套，8合1，pyproject.toml集中配置 | python, polars, devops, toolchain |
+| [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]] ⭐ NEW | 数据中台赋能服装零售：画像+40%/ROI+30%/周转+18%，六步法 | data_middle_platform, retail, multi_brand, ai |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -311,5 +316,6 @@ updated: 2026-06-14 08:00
 | **58** | **06-13 19:55** | **L2_06/07 + 查漏** | **s4/c1新增(BI可视化)+c2更新(数据治理路线+湖仓一体)/p1新增(BI看板部署)/L3同步3处** |
 | **59** | **06-14 07:50** | **L2_00/01/02** | **s4/e2新增(top_sports+hm)/co1更新(six_brands_2026q1→八品牌)→L3同步** |
 | **60** | **06-14 13:55** | **L2_03/04/05** | **s6/c6更新(会员复购/AI陪练/培训闭环/沉睡唤醒/柔性供应链/企划趋势)+L3同步5处** |
+| **61** | **06-14 19:55** | **L2_06/07+查漏** | **s4/c1新增(python_dev_stack_2026)+c3更新(polars/streamlit/multi_brand)+L3同步4处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

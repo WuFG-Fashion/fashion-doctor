@@ -161,3 +161,14 @@ fig.update_layout(width=800)  # 不要固定宽度
 - [[bi_dashboard_retail_deployment|BI看板零售部署实操]]
 - [[streamlit_dashboard_2026|Streamlit生产级看板]]
 - [[python_dashboard_ecosystem_2026|Python看板生态]]
+
+## 2026年6月14日更新（C轮 L2_06/07采集）⭐
+
+### Streamlit 2026全版本新特性 v1.53→v1.58（来源：Streamlit官方Release Notes，日期：**2026-06**，可信度：**高**）
+
+- **架构革命**：v1.53实验性Starlette → v1.57正式默认Starlette/Uvicorn（ASGI兼容、高性能异步）
+- **5个全新组件**：st.menu_button(v1.56)、st.iframe(v1.56)、st.bottom(v1.57)、st.pagination(v1.58)、@st.fragment(parallel=True)(v1.58)
+- **Polars Arrow零拷贝**（v1.57）：Polars DataFrame直接转Arrow传给Streamlit，完全绕过Pandas
+- **AI集成**：内置AI代理技能、streamlit skills CLI、`:shimmer[]`动画文本
+- **pandas 3.x支持**（v1.56）
+- 详见 [[streamlit_dashboard_2026]] [[2026-06-14_Streamlit_2026v1.53-1.58全版本新特性]]

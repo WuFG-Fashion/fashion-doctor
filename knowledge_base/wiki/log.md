@@ -42,4 +42,5 @@ created: 2026-06-05
 | 2026-06-13 08:00 | ingestA | L2_00/01/02 — 采集5篇/织网8条/矛盾0处(raw5→s5→e2新增(jnby+lilanz)+e1更新(lululemon)→c2更新(apparel_ai_agents+industry_q1)→L3同步4处) |
 | 2026-06-13 14:00 | ingestB | L2_03/04/05 — 采集5篇/织网14条/矛盾0处(raw5→s5→c5更新(会员复购率+AI陪练+全渠道一体化+动态OTB+柔性供应链)→p2更新(RFM分层+私域方法论)→e2更新(丽晶+深维智信)→index更新) |
 | 2026-06-13 20:00 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(raw4→s4→c1新增:retail_bi_visualization_2026+c2更新:data_governance_tech_routes(+15厂商+860亿+硬指标)+data_lakehouse_2026(+五大中台AI智能体)→p1新增:bi_dashboard_retail_deployment→L3同步3处) |
-| 2026-06-14 07:50 | ingestA | L2_00/01/02 — 采集4篇/织网8条/矛盾1处(raw4→s4→e2新增hm+top_sports→co1更新six_brands→六品牌→八品牌+三种生存模式分类→L3同步3处→index更新) |
+| 2026-06-14 13:55 | ingestB | L2_03/04/05 — 采集6篇/织网10条/矛盾0处(s6→c6更新:会员复购率+AI陪练+培训闭环+沉睡唤醒+柔性供应链+企划趋势→e3更新:jnby+深维智信+探马→p1更新:私域方法论→L3同步5处→Git:d191ada) |
+| 2026-06-14 19:55 | ingestC | L2_06/07+查漏 — 采集4篇/织网待执行/矛盾待检测(raw4→s4→c1新增:python_dev_stack_2026+c3更新:polars_vs_pandas+streamlit_dashboard+multi_brand_unified→p1更新:streamlit_production_dashboard→L3同步4处) |
