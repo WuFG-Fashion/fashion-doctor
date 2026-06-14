@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-13 20:00
+updated: 2026-06-14 08:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -27,7 +27,9 @@ updated: 2026-06-13 20:00
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，四大困境确认低增长调整期 | brand, competitor, athleisure |
 | [[jnby]] ⭐ NEW | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献超80% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
-| 待迁移 | MLB、速写/江南布衣、H&M | brand, competitor |
+| [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
+| [[hm]] ⭐ NEW | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16%，降收增利 | brand, competitor, fast_fashion, turnaround |
+| 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
@@ -105,7 +107,7 @@ updated: 2026-06-13 20:00
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
-| [[six_brands_2026q1]] ⭐ NEW | 六品牌2026Q1对比：森马利润王/太平鸟拐点/ZARA撤退/lululemon狂奔 | competitor, comparison, 2026Q1 |
+| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比：森马利润王/太平鸟拐点/ZARA撤退/H&M降收增利/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
@@ -246,6 +248,10 @@ updated: 2026-06-13 20:00
 | [[2026-06-13_DataEase_开源BI三剑客对比2026]] ⭐ NEW | Superset/DataEase/Metabase开源BI 2026年全面对比评测 | bi, open_source, superse, dataease, metabase |
 | [[2026-06-13_CSDN_数据治理平台厂商全景2026]] ⭐ NEW | 15+厂商全景/市场860亿/29.7%CAGR/选型五步法/核心硬性指标 | data_governance, platform, vendor, market_size |
 | [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]] ⭐ NEW | 百分点/华为/腾讯/字节/京东五大数据中台AI智能体协同能力拆解 | data_governance, middle_platform, ai_agent, architecture |
+| [[2026-06-14_北京AI产业2025规模4500亿]] ⭐ NEW | 北京AI产业4500亿/241款大模型/智谱GLM-5.1反向代购/银河通用零售机器人 | ai, llm, beijing, ai_ecosystem |
+| [[2026-06-14_29家服装运动企业2026Q1财报全景]] ⭐ NEW | 29家全球服装运动品牌Q1：折扣零售+功能运动领跑/耐克大中华-7%/H&M降收增利 | competitor, financial, global, q1 |
+| [[2026-06-14_滔搏FY2026全年业绩257亿]] ⭐ NEW | 滔搏FY2026营收257.4亿(-4.7%)首次下滑/净利12.7亿/用户9290万/派息137.1% | topsports, sportswear, retail_agent, financial |
+| [[2026-06-14_H&M2026Q1库存降16%]] ⭐ NEW | H&M 2026Q1营收-10.3%但利润+22.7%/库存-16%/大中华区加码本土创意 | hm, fast_fashion, inventory, turnaround |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -297,5 +303,6 @@ updated: 2026-06-13 20:00
 | **56** | **06-13 07:50** | **L2_00/01/02** | **s5/e2新增(jnby+lilanz)+e1更新(lululemon)/c2更新(ai_agents+industry_q1)** |
 | **57** | **06-13 13:55** | **L2_03/04/05** | **s5/e2更新(丽晶+深维智信)/c5更新(会员复购率+AI陪练+全渠道一体化+动态OTB+柔性供应链)/p2更新(RFM分层+私域方法论)** |
 | **58** | **06-13 19:55** | **L2_06/07 + 查漏** | **s4/c1新增(BI可视化)+c2更新(数据治理路线+湖仓一体)/p1新增(BI看板部署)/L3同步3处** |
+| **59** | **06-14 07:50** | **L2_00/01/02** | **s4/e2新增(top_sports+hm)/co1更新(six_brands_2026q1→八品牌)→L3同步** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

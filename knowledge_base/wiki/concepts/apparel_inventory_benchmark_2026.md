@@ -5,7 +5,7 @@ tags: [inventory, stock, turnover, dead_stock, kpi, benchmark]
 sources: [2026-06-11_百家号_2026服装零售库存困局与小程序解法.md]
 created: 2026-06-11
 updated: 2026-06-11
-cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], [[sku_fine_management|服装SKU精细化管理]], [[动态OTB管理]]
+cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], [[sku_fine_management|服装SKU精细化管理]], [[动态OTB管理]], [[hm]], [[2026-06-14_H&M2026Q1库存降16%]]
 ---
 
 # 服装行业库存基准与健康红线 (2026)
