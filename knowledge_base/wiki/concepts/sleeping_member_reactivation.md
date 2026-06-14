@@ -4,8 +4,8 @@ title: 沉睡会员唤醒策略
 tags: [vip, dormant_member, repurchase, member_reactivation, private_domain]
 sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223]
 created: 2026-06-06
-updated: 2026-06-06
-cross_refs: [[septwolves|七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[2026-06-14_博客园_CLV生命周期优化指南]]
+updated: 2026-06-15
+cross_refs: [[septwolves|七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[2026-06-14_博客园_CLV生命周期优化指南]], [[2026-06-14_乔拓云_私域商城会员运营2026]]
 ---
 
 # 沉睡会员唤醒策略

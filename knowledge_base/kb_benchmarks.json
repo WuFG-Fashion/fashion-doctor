@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "53 个 wiki/concepts + entities 文件",
-    "data_points": "240+条数值",
-    "last_scan": "2026-06-14"
+    "files_scanned": "57 个 wiki/concepts + entities 文件",
+    "data_points": "260+条数值",
+    "last_scan": "2026-06-15"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -163,6 +163,27 @@
       "sleeping_reactivation_rate": 0.16,
       "ai_lead_conversion_rate": 0.4,
       "new_member_golden_period_days": 60
+    },
+    "topsports": {
+      "revenue_fy2026_billion": 257.4,
+      "revenue_growth": -0.047,
+      "net_profit_fy2026_billion": 12.7,
+      "net_profit_growth": -0.015,
+      "net_margin": 0.049,
+      "fee_ratio": 0.285,
+      "payout_ratio": 1.371,
+      "users_million": 92.9,
+      "brand_partners": 20
+    },
+    "hm": {
+      "revenue_2026q1_sek_billion": 496.07,
+      "revenue_growth": -0.103,
+      "operating_profit_sek_billion": 15.12,
+      "operating_profit_growth": 0.26,
+      "operating_margin": 0.03,
+      "net_profit_sek_billion": 7.24,
+      "net_profit_growth": 0.227,
+      "inventory_change_pct": -0.16
     }
   },
   "membership": {
@@ -308,7 +329,16 @@
     "megaview_conversion_boost_pct": 0.18,
     "megaview_avg_order_boost_pct": 0.12,
     "tamna_scrm_roi": 9.2,
-    "ai_coaching_market_billion_rmb": 72.8
+    "ai_coaching_market_billion_rmb": 72.8,
+    "training_practice_gap_pct": 0.67,
+    "traditional_scenario_realism_score": 6.2,
+    "ai_scenario_realism_score": 8.7,
+    "traditional_training_cost_per_person_month_rmb": 800,
+    "traditional_ramp_days": 45,
+    "ai_forgetting_improvement_pct": 0.35,
+    "ai_corpus_size_k": 100,
+    "ceo_ai_priority_pct": 0.64,
+    "ceo_ai_budget_10to20pct": 0.73
   },
   "store_ai_digitization": {
     "manual_accounting_pct": 0.65,
@@ -320,5 +350,13 @@
     "sell_through_post_ai_guangzhou": 0.41,
     "online_stage_pct": 0.35,
     "data_stage_pct": 0.18
+  },
+  "data_middle_platform_roi": {
+    "china_data_asset_utilization_pct": 0.37,
+    "member_profile_improvement_pct": 0.4,
+    "roi_improvement_pct": 0.3,
+    "inventory_turnover_improvement_pct": 0.18,
+    "ai_fusion_mau_increase_pct": 0.13,
+    "ai_fusion_avg_order_increase_pct": 0.08
   }
 }
