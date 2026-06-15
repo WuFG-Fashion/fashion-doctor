@@ -5,7 +5,7 @@ tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture, middle
 sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026]
 created: 2026-06-08
 updated: 2026-06-13
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]]
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]]
 ---
 
 # 湖仓一体2026架构

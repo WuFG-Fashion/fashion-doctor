@@ -57,6 +57,7 @@ updated: 2026-06-15 13:55
 | [[retail_data_workflow_2026]] ⭐ NEW | CRISP-DM七步工作流×服装零售/Pandas-Polars-DuckDB三引擎选型/EDA三类+可视化全家桶 | retail, analytics, workflow, crisp_dm, eda |
 | [[etl_governance_convergence_2026]] ⭐ NEW | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 | etl, data_governance, integration, architecture |
 | [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
+| [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -100,6 +101,7 @@ updated: 2026-06-15 13:55
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
 | [[bi_dashboard_retail_deployment|BI看板零售部署实操]] ⭐ NEW | 六步落地流程/Superset-DataEase-Streamlit三种方案/5大标准看板/避坑指南/Docker部署 | bi, dashboard, deployment, retail, superse, dataease, streamlit |
+| [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] ⭐ NEW | pandasql快速原型+SQLAlchemy生产集成+ETL管道分层，缩短分析时间50% | python, pandas, sql, pandasql, sqlalchemy, etl |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
@@ -271,6 +273,10 @@ updated: 2026-06-15 13:55
 | [[2026-06-15_中乔体育区域教练训战赛扶全链路模型]] ⭐ NEW | 中乔体育训-战-赛-扶模型：18h/100%通关/1带3/三维升级/数字导购战略 | guide, training, digital_coaching, store_operation |
 | [[2026-06-15_武汉女装快反供应链120工厂5件混批]] ⭐ NEW | 120+工厂/5件混批/滞销款调剂(首创)/完整柔性闭环/OTB从100%→25-40% | supply_chain, quick_response, otb, sourcing, flexible_supply |
 | [[2026-06-15_商务部_2025年1-11月服装行业经济运行]] ⭐ NEW | 商务部1-11月：营收10,118亿(-11.32%)/利润397.96亿(-27.06%)/12月加速下滑 | industry, kpi, benchmark, mofcom |
+| [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]] ⭐ NEW | CSDN：86.2%企业治理不足(IDC)/7厂商横评/瓴羊Dataphin全链路首推/月结4x提升 | data_governance, ai_driven, platform, vendor |
+| [[2026-06-15_ZOL_数据治理厂商智能协作交互横评]] ⭐ NEW | ZOL：五厂商交互范式革命/百分点AI-DG对话式治理/零售适配四星 | data_governance, interaction_paradigm, nlp, vendor |
+| [[2026-06-15_CSDN_Python数据栈边界决策框架]] ⭐ NEW | CSDN：三重边界/决策框架/Polars 6.7x/ClickHouse 10x/电商4h→15min | python, polars, benchmark, decision_framework |
+| [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] ⭐ NEW | aimojo：Pandas+SQL融合三模式/pandasql/SQLAlchemy/缩短分析50% | python, pandas, sql, pandasql, etl |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -327,5 +333,6 @@ updated: 2026-06-15 13:55
 | **61** | **06-14 19:55** | **L2_06/07+查漏** | **s4/c1新增(python_dev_stack_2026)+c3更新(polars/streamlit/multi_brand)+L3同步4处** |
 | **62** | **06-15 07:50** | **L2_00/01/02** | **s3/c3更新(retail_ai_adoption/apparel_ai_agents/china_apparel_2025_annual)+织网+矛盾检测** |
 | **63** | **06-15 13:55** | **L2_03/04/05** | **s5/c5更新(会员复购率/AI导陪/培训闭环/柔性供应链/动态OTB)+L3同步4处+织网5条回链** |
+| **64** | **06-15 20:38** | **L2_06/07 + 查漏** | **s4/c1新增(python_data_stack_decision_2026)+c2更新(data_governance_tech_routes/retail_data_workflow)+p1新增(python_sql_integration_patterns_2026)+L3同步2处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -5,7 +5,7 @@ tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, d
 sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md]
 created: 2026-06-07
 updated: 2026-06-14
-cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]]
+cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]]
 ---
 
 # 多品牌统一数据分析架构

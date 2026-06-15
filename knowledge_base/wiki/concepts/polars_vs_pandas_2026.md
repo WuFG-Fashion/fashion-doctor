@@ -5,7 +5,7 @@ tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, st
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md]
 created: 2026-06-06
 updated: 2026-06-14
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]]
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -209,6 +209,8 @@ pdf = features.to_pandas()
 - [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
 - [[2026-06-11_chenxutan_Polars深度实战Rust架构]]
 - [[retail_analytics_reporting_2026]]
+- [[python_data_stack_decision_2026|Python数据栈边界决策框架]] ⭐ NEW
+- [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] ⭐ NEW
 
 ## Python项目默认技术栈2026（2026-06新增）
 详见 [[python_dev_stack_2026]] — uv+Ruff+Ty+Polars四件套替代传统8+工具链，统一pyproject.toml配置

@@ -2,10 +2,10 @@
 type: concept
 title: 零售数据分析完整工作流(CRISP-DM)
 tags: [retail, analytics, crisp_dm, eda, workflow, python, polars]
-sources: [2026-06-12_CSDN_Python数据分析工作流2026]
+sources: [2026-06-12_CSDN_Python数据分析工作流2026, 2026-06-15_CSDN_Python数据栈边界决策框架]
 created: 2026-06-12
-updated: 2026-06-12
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_analytics_reporting_2026]]
+updated: 2026-06-15
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_analytics_reporting_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]]
 ---
 
 # 零售数据分析完整工作流(CRISP-DM)
@@ -106,10 +106,24 @@ result = duckdb.sql("""
 | 2 | 2-4周 | EDA + Plotly + Kaggle实战 | Superstore Sales 数据集 |
 | 3 | 持续 | Polars + Streamlit + 统计建模 | 实时销售仪表盘 |
 
+## Python数据栈边界速查（2026-06新增）
+
+> 结合[[python_data_stack_decision_2026|Python数据栈边界决策框架2026]]，在CRISP-DM各阶段选择最佳引擎：
+
+| CRISP-DM阶段 | <5GB | 5-100GB | >100GB |
+|-------------|:---:|:---:|:---:|
+| 数据获取 | Pandas read_csv | Polars scan_parquet | Spark read |
+| 数据清洗 | Pandas | Polars Lazy | Spark DataFrame |
+| EDA | Pandas + Seaborn | Polars + Plotly | DuckDB SQL |
+| 特征工程 | Pandas + Sklearn | Polars + Sklearn | Spark ML |
+| 建模 | Scikit-learn | Scikit-learn | Spark ML |
+| 可视化 | Plotly Express | Polars→Pandas→Plotly | DuckDB→Plotly |
+
 ## 关联页面
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026]]
 - [[duckdb_olap_engine_2026|DuckDB OLAP 引擎]]
 - [[SQL查询性能优化|SQL 查询性能优化]]
 - [[retail_analytics_reporting_2026|服装零售报表 2026]]
 - [[data_library_selection_guide_2026|数据分析库选型指南]]
+- [[python_data_stack_decision_2026|Python数据栈边界决策框架]] ⭐ NEW
 - [[2026-06-12_CSDN_Python数据分析工作流2026]]

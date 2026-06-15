@@ -257,3 +257,19 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 - **同出Astral**：uv+Ruff+Ty均来自Astral公司，统一pyproject.toml配置
 - **uv run一站式**：永不手动激活虚拟环境，CI用`uv sync --frozen`
 - 详见 [[python_dev_stack_2026]] [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]]
+
+## 2026年6月15日更新（C轮 L2_06/07采集）⭐
+
+### Python数据栈边界决策框架2026（来源：CSDN，日期：**2026-04-10**，可信度：**高**）
+
+- **三重边界清晰定义**：<5GB→Pandas / 5-100GB→Polars+DuckDB / >100GB→Spark
+- **Benchmark实测**：Polars 6.7x(Pandas)/ClickHouse 10x(Pandas)，电商案例4h→15min(16x)
+- **五步优化路径**：Python原型→Polars+DuckDB加速→Spark分布式→ClickHouse原生→Python编排
+- 详见 [[python_data_stack_decision_2026]] [[2026-06-15_CSDN_Python数据栈边界决策框架]]
+
+### Python Pandas+SQL集成实战模式（来源：aimojo，日期：**2026-06-12**，可信度：**高**）
+
+- **三模式分层**：pandasql(快速原型)→SQLAlchemy原生(生产ETL)→管道分层(自动化)
+- **效率提升**：Pandas+SQL融合可缩短分析时间50%
+- **生产红线**：pandasql大数据较慢，生产环境必须用SQLAlchemy
+- 详见 [[python_sql_integration_patterns_2026]] [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]]
