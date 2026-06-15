@@ -4,8 +4,8 @@ title: 2025年中国服装行业全年大盘
 tags: [industry, kpi, benchmark, financial, export, 2025]
 sources: [2026-06-10_商务部_2025年服装行业全年经济运行.md]
 created: 2026-06-10
-updated: 2026-06-10
-cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations]], [[服装行业竞争格局]], [[china_apparel_export_2026]]
+updated: 2026-06-15
+cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations]], [[服装行业竞争格局]], [[china_apparel_export_2026]], [[2026-06-15_商务部_2025年1-11月服装行业经济运行]]
 ---
 
 # 2025年中国服装行业全年大盘
@@ -96,3 +96,14 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations
 - [[服装行业竞争格局]] — 四类竞争主体格局
 - [[china_apparel_industry_scale_2026]] — 中国服装业3.8万亿/全球35%
 - [[apparel_supply_chain_profit_chasm_2026q1]] — 产业链利润分化
+- [[2026-06-15_商务部_2025年1-11月服装行业经济运行]] — 1-11月月度粒度补充
+
+## 月度轨迹补充 ⭐ 6月更新（商务部1-11月数据）
+
+| 阶段 | 营收增速 | 利润增速 | 利润率 | 关键发现 |
+|------|---------|---------|--------|----------|
+| 1-11月 | -11.32% | -27.06% | 3.93% | 全年低谷累积 |
+| 12月 | 拉低至-12.67% | 略拖累至-27.34% | 拉高至4.05% | 12月：加速下滑但利润率回暖 |
+| 11月当月 | 对美出口-23.0% | — | — | 全年贸易摩擦冲击峰值 |
+
+> **解读**：12月是全年最惨月份（拉低营收增速1.35pp），但高毛利冬装拉升了整体利润率。11月对美出口骤降23%是全年贸易摩擦冲击的峰值时刻。

@@ -38,7 +38,7 @@ updated: 2026-06-14 08:00
 | [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ NEW | 2026零售AI采纳全景：91%/89%/95%三大指标 | ai, retail, adoption, roi |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
@@ -68,7 +68,7 @@ updated: 2026-06-14 08:00
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Google Cloud 2026 五大转变(52%部署/88%ROI) | ai, agent, fashion, supply_chain |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议 | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
@@ -85,7 +85,7 @@ updated: 2026-06-14 08:00
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
 | [[ai_fashion_capability_2026]] ⭐ NEW | AI时尚六大能力2026：设计75-80%/Mango全面替代/Zara 2张照片/WhatsApp 36.8x ROAS | ai, fashion_design, virtual_tryon, supply_chain |
-| [[china_apparel_2025_annual]] ⭐ NEW | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05%/亏损面22.61% | industry, kpi, benchmark, 2025 |
+| [[china_apparel_2025_annual]] ⭐ UPDATED | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% + 月度轨迹(12月最惨/11月对美出口-23%) | industry, kpi, benchmark, 2025 |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -263,6 +263,9 @@ updated: 2026-06-14 08:00
 | [[2026-06-14_Scopir_Python数据分析库2026全景对比]] ⭐ NEW | Scopir横评：Polars/DuckDB/Pandas/Modin六大库+快速决策树+Modin不推荐 | python, polars, duckdb, benchmark, selection |
 | [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]] ⭐ NEW | Python 2026：uv+Ruff+Ty+Polars四件套，8合1，pyproject.toml集中配置 | python, polars, devops, toolchain |
 | [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]] ⭐ NEW | 数据中台赋能服装零售：画像+40%/ROI+30%/周转+18%，六步法 | data_middle_platform, retail, multi_brand, ai |
+| [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]] ⭐ NEW | NRF 2026观察：AI务实落地三大趋势/UCP统一商务/门店数字化 | ai, retail, nrf, agentic_ai, trust |
+| [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]] ⭐ NEW | Amazon Rufus 2.5亿月活/Walmart排班67%提效/物美损耗-50%/UCP+ACP+ACT三大协议 | ai, retail, agent, ecommerce, omnichannel |
+| [[2026-06-15_商务部_2025年1-11月服装行业经济运行]] ⭐ NEW | 商务部1-11月：营收10,118亿(-11.32%)/利润397.96亿(-27.06%)/12月加速下滑 | industry, kpi, benchmark, mofcom |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -317,5 +320,6 @@ updated: 2026-06-14 08:00
 | **59** | **06-14 07:50** | **L2_00/01/02** | **s4/e2新增(top_sports+hm)/co1更新(six_brands_2026q1→八品牌)→L3同步** |
 | **60** | **06-14 13:55** | **L2_03/04/05** | **s6/c6更新(会员复购/AI陪练/培训闭环/沉睡唤醒/柔性供应链/企划趋势)+L3同步5处** |
 | **61** | **06-14 19:55** | **L2_06/07+查漏** | **s4/c1新增(python_dev_stack_2026)+c3更新(polars/streamlit/multi_brand)+L3同步4处** |
+| **62** | **06-15 07:50** | **L2_00/01/02** | **s3/c3更新(retail_ai_adoption/apparel_ai_agents/china_apparel_2025_annual)+织网+矛盾检测** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

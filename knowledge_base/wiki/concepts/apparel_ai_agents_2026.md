@@ -4,8 +4,8 @@ title: 服装行业垂直AI智能体2026
 tags: [ai, agent, fashion, supply_chain, digitalization]
 sources: [2026-06-07_垂直AI智能体_服装新风口.md, 2026-06-13_GoogleCloud_AI_Agent趋势2026.md]
 created: 2026-06-07
-updated: 2026-06-13
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]], [[2026-06-13_GoogleCloud_AI_Agent趋势2026]], [[agentic_commerce_fashion_2026]]
+updated: 2026-06-15
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[AI导购陪练]], [[2026-06-13_GoogleCloud_AI_Agent趋势2026]], [[agentic_commerce_fashion_2026]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]]
 ---
 
 # 服装行业垂直AI智能体2026
@@ -65,10 +65,43 @@ cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服
 - [[服装门店经营AI化2026]] — 门店数字化实践
 - [[全渠道会员一体化]] — 会员系统打通
 
+## Agentic Commerce实践标杆 ⭐ 6月更新
+
+> 来源：2026年AI+零售报告（搜狐行业综合）
+
+### 全球标杆
+
+| 案例 | 关键数据 | 对服装启示 |
+|------|---------|-----------|
+| **Amazon Rufus** | 2.5亿月活/100亿$GMV/交互+210% | AI购物助手可成为平台核心流量入口 |
+| **Walmart Sparky** | 订单金额+35%/排班90→30min | 门店AI助手提效立竿见影 |
+| **Walmart Assistant** | 支持44种语言实时翻译 | 多品牌多语言门店运营 |
+| **物美×多点智鲜** | 正价率+10%/促销成本-15%/损耗-50% | AI动态定价对服装折扣策略有直接借鉴 |
+| **阿里千问App** | 交易3-5min→30秒 | Agentic Commerce闭环体验 |
+
+### 三大商业协议（UCP/ACP/ACT）——Agentic Commerce基建
+
+| 协议 | 发起方 | 核心能力 | 服装零售影响 |
+|------|--------|---------|-------------|
+| **UCP** | Google×Shopify | 跨平台商品/库存/定价/结算统一 | 服装品牌可一次接入多平台AI代理 |
+| **ACP** | OpenAI | AI代理商务标准化 | ChatGPT内直接购买服装成为可能 |
+| **ACT** | 阿里巴巴 | 淘宝天猫生态AI交易闭合 | 国内服装电商AI代理购物铺路 |
+
+> **关键判断**：三大协议标志着Agentic Commerce从概念走向基础设施——服装品牌需尽快建立AI可读的商品数据标准。
+
+### AIGC效率革命
+
+- 传统电商单人日制作10张商品图 → AI工具 **5000张/天**（500x效率）
+- 服装品牌"一衣多模""一衣多景"成为可能
+- 搭配Bloomreach Clarity智能搜索：转化率**+35%**/单次点击销售额**+39%**
+
+---
+
 ## 待验证
 
 - [ ] 数商云方案的实际客户案例和ROI
 - [ ] 是否有独立第三方对服装AI Agent的市场规模预测
+- [ ] UCP/ACP/ACT三大协议在中国的实际落地进度
 
 ## Google Cloud 2026 AI Agent 全球趋势 ⭐ 6月更新
 
