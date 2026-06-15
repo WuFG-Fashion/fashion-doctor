@@ -44,3 +44,4 @@ created: 2026-06-05
 | 2026-06-13 20:00 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处(raw4→s4→c1新增:retail_bi_visualization_2026+c2更新:data_governance_tech_routes(+15厂商+860亿+硬指标)+data_lakehouse_2026(+五大中台AI智能体)→p1新增:bi_dashboard_retail_deployment→L3同步3处) |
 | 2026-06-14 13:55 | ingestB | L2_03/04/05 — 采集6篇/织网10条/矛盾0处(s6→c6更新:会员复购率+AI陪练+培训闭环+沉睡唤醒+柔性供应链+企划趋势→e3更新:jnby+深维智信+探马→p1更新:私域方法论→L3同步5处→Git:d191ada) |
 | 2026-06-15 02:15 | optimize | lint(断链3/孤岛0/矛盾14/过期0/分类0)+织网(3条回链)+索引(9 L3)+基准(滔搏/H&M/新增导培KPMG+数据中台) |
+| 2026-06-15 07:50 | ingestA | L2_00/01/02 — 采集3篇/织网6条/矛盾0处(raw3→s3→c3更新:retail_ai_adoption+NRF趋势/apparel_ai_agents+Rufus+Walmart+物美+UCP协议/china_apparel_2025_annual+月度轨迹→回链4目标页) |

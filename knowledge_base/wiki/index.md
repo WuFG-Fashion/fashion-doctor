@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-14 08:00
+updated: 2026-06-15 13:55
 ---
 
 # Fashion Doctor 知识库导航
@@ -265,6 +265,11 @@ updated: 2026-06-14 08:00
 | [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]] ⭐ NEW | 数据中台赋能服装零售：画像+40%/ROI+30%/周转+18%，六步法 | data_middle_platform, retail, multi_brand, ai |
 | [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]] ⭐ NEW | NRF 2026观察：AI务实落地三大趋势/UCP统一商务/门店数字化 | ai, retail, nrf, agentic_ai, trust |
 | [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]] ⭐ NEW | Amazon Rufus 2.5亿月活/Walmart排班67%提效/物美损耗-50%/UCP+ACP+ACT三大协议 | ai, retail, agent, ecommerce, omnichannel |
+| [[2026-06-15_微商城运营6步法留存复购体系]] ⭐ NEW | 微商城四阶段KPI看板(拉新→激活→留存→复购)+会员体系三件套+2026精准触达趋势 | vip, repurchase, private_domain, wechat_ecosystem |
+| [[2026-06-15_零售企业会员复购率提升方案八大模块]] ⭐ NEW | 复购率+20-30%/CDP+AI驱动/五层架构(CLV+RFM+AARRR)/8个月四阶段推进/18月ROI | vip, membership, cdp, ai_recommendation, clv |
+| [[2026-06-15_零售AI培训系统排名四大选型标准]] ⭐ NEW | 四大选型标准(场景/对练/复盘/碎片)+三类型排名(实战型/碎片型/复盘型) | guide, ai, coaching, tool_selection |
+| [[2026-06-15_中乔体育区域教练训战赛扶全链路模型]] ⭐ NEW | 中乔体育训-战-赛-扶模型：18h/100%通关/1带3/三维升级/数字导购战略 | guide, training, digital_coaching, store_operation |
+| [[2026-06-15_武汉女装快反供应链120工厂5件混批]] ⭐ NEW | 120+工厂/5件混批/滞销款调剂(首创)/完整柔性闭环/OTB从100%→25-40% | supply_chain, quick_response, otb, sourcing, flexible_supply |
 | [[2026-06-15_商务部_2025年1-11月服装行业经济运行]] ⭐ NEW | 商务部1-11月：营收10,118亿(-11.32%)/利润397.96亿(-27.06%)/12月加速下滑 | industry, kpi, benchmark, mofcom |
 
 ### L2/L3 历史分类（只读保留）
@@ -321,5 +326,6 @@ updated: 2026-06-14 08:00
 | **60** | **06-14 13:55** | **L2_03/04/05** | **s6/c6更新(会员复购/AI陪练/培训闭环/沉睡唤醒/柔性供应链/企划趋势)+L3同步5处** |
 | **61** | **06-14 19:55** | **L2_06/07+查漏** | **s4/c1新增(python_dev_stack_2026)+c3更新(polars/streamlit/multi_brand)+L3同步4处** |
 | **62** | **06-15 07:50** | **L2_00/01/02** | **s3/c3更新(retail_ai_adoption/apparel_ai_agents/china_apparel_2025_annual)+织网+矛盾检测** |
+| **63** | **06-15 13:55** | **L2_03/04/05** | **s5/c5更新(会员复购率/AI导陪/培训闭环/柔性供应链/动态OTB)+L3同步4处+织网5条回链** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
