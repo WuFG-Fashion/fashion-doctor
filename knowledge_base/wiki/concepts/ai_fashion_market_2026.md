@@ -2,10 +2,10 @@
 type: concept
 title: AI时尚市场规模与品牌应用全景2026
 tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
-sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md]
+sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md]
 created: 2026-06-09
-updated: 2026-06-09
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]
+updated: 2026-06-16
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]]
 ---
 
 # AI时尚市场与品牌应用全景（2026）
@@ -79,3 +79,32 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - [[ai_fashion_ecommerce_tryon_tools_2026]] — AI试衣工具选型与落地
 - [[retail_ai_adoption_2026]] — 零售AI采纳率91%/89%/95%
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
+
+## 全球大模型应用中长期预测 ⭐ 6月更新
+
+> 来源：IIM《全球服装行业大模型应用行业技术发展与市场前景分析报告》(2026年)
+
+### 中长期规模预测
+| 指标 | 数据 |
+|------|------|
+| 2030年全球服装AI累计投入 | >**400亿美元** |
+| 其中大模型直接投入占比 | >**60%** |
+| 消费者AI服务渗透率(2025底) | **35%** |
+| 深度AI整合：产品周期缩短 | **40%** |
+| 深度AI整合：库存周转提升 | **25%** |
+| AI专利增长(2025 vs 2023) | **+150%** |
+| 全球大模型项目数 | **>200个** |
+
+### 三层竞争格局
+| 层级 | 玩家 | 定位 |
+|------|------|------|
+| 通用平台层 | 云端科技巨头 | 基础大模型基础设施 |
+| 垂直应用层 | 时尚AI服务商 | 行业专用模型+场景方案 |
+| 品牌自研层 | 领先服装品牌 | 自有技术布局 |
+
+### 新兴商业模式
+- 按产出收益分成（生成设计结果抽成）
+- 品牌×技术公司联合实验室共建
+- 轻量化模型工具包租赁（面向中小企业）
+
+> **与当前39.9亿美元市场对比**：当前AI时尚$39.9亿/CAGR 39%→2030年400亿美元累计投入，隐含加速渗透假设，两者逻辑自洽。

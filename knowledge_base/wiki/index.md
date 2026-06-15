@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-15 13:55
+updated: 2026-06-16 14:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -38,7 +38,7 @@ updated: 2026-06-15 13:55
 | [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) | ai, retail, adoption, roi, nrf |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) + 商务部四阶段框架+3100亿美元+NVIDIA四大Blueprint | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
@@ -69,7 +69,7 @@ updated: 2026-06-15 13:55
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议 | ai, agent, fashion, supply_chain, agentic_commerce |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
@@ -82,7 +82,7 @@ updated: 2026-06-15 13:55
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
 | [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+860亿市场+五步选型+硬性基准指标+服装零售选型决策树 | data_governance, platform, selection, vendor, ai_driven, market_size |
-| [[ai_fashion_market_2026]] ⭐ NEW | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道 | ai, fashion_design, case_study, market_size |
+| [[ai_fashion_market_2026]] ⭐ UPDATED | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道+IIM 2030年400亿美元累计投入/三层格局 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
 | [[ai_fashion_capability_2026]] ⭐ NEW | AI时尚六大能力2026：设计75-80%/Mango全面替代/Zara 2张照片/WhatsApp 36.8x ROAS | ai, fashion_design, virtual_tryon, supply_chain |
@@ -277,6 +277,10 @@ updated: 2026-06-15 13:55
 | [[2026-06-15_ZOL_数据治理厂商智能协作交互横评]] ⭐ NEW | ZOL：五厂商交互范式革命/百分点AI-DG对话式治理/零售适配四星 | data_governance, interaction_paradigm, nlp, vendor |
 | [[2026-06-15_CSDN_Python数据栈边界决策框架]] ⭐ NEW | CSDN：三重边界/决策框架/Polars 6.7x/ClickHouse 10x/电商4h→15min | python, polars, benchmark, decision_framework |
 | [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] ⭐ NEW | aimojo：Pandas+SQL融合三模式/pandasql/SQLAlchemy/缩短分析50% | python, pandas, sql, pandasql, etl |
+| [[2026-06-16_商务部研究院_2026AI零售演进四阶段]] ⭐ NEW | 商务部研究院：AI零售四阶段+3100亿美元/运营利润率3%→14.4%/商家成本-70% | ai, retail, adoption, agent, industry |
+| [[2026-06-16_腾讯新闻_2026零售AI决胜点NVIDIA四蓝图]] ⭐ NEW | NVIDIA四大Blueprint+七大案例：动态定价200+变量/3D数字孪生/无感结账 | ai, retail, nvidia, blueprint, smart_store |
+| [[2026-06-16_羊毛市场_16家服装企业2026Q1财报]] ⭐ NEW | 16家A股服装企业Q1：森马利润王/比音勒芬增速王/营收净利背离普遍 | competitor, financial, 2026Q1, brand |
+| [[2026-06-16_IIM_全球服装大模型应用市场预测2026]] ⭐ NEW | IIM：2030年服装AI累计400亿美元/产品周期-40%/库存周转+25%/三层格局 | ai, fashion_design, supply_chain, market_size, llm |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -334,5 +338,6 @@ updated: 2026-06-15 13:55
 | **62** | **06-15 07:50** | **L2_00/01/02** | **s3/c3更新(retail_ai_adoption/apparel_ai_agents/china_apparel_2025_annual)+织网+矛盾检测** |
 | **63** | **06-15 13:55** | **L2_03/04/05** | **s5/c5更新(会员复购率/AI导陪/培训闭环/柔性供应链/动态OTB)+L3同步4处+织网5条回链** |
 | **64** | **06-15 20:38** | **L2_06/07 + 查漏** | **s4/c1新增(python_data_stack_decision_2026)+c2更新(data_governance_tech_routes/retail_data_workflow)+p1新增(python_sql_integration_patterns_2026)+L3同步2处** |
+| **65** | **06-16 14:35** | **L2_00/01/02** | **s4/c3更新(retail_ai_adoption+商务部四阶段/apparel_ai_agents+NVIDIA蓝图/ai_fashion_market+IIM 400亿)+L3同步3处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
