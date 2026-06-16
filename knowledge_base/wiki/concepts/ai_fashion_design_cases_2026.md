@@ -5,7 +5,7 @@ tags: [ai, fashion_design, case_study, virtual_prototype, sustainability, hnm, n
 sources: [DigitalDefynd 2026-05-28]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]]
+cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]]
 ---
 
 # AI时尚设计十大案例（2026）

@@ -39,7 +39,7 @@ updated: 2026-06-16 14:35
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) + 商务部四阶段框架+3100亿美元+NVIDIA四大Blueprint | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) | kpi, benchmark, industry |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) + 1-5月最新(服装+7.2%/品牌专卖店-7.6%/逐月五连降) | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
@@ -68,7 +68,7 @@ updated: 2026-06-16 14:35
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 + Scopir决策树/Modin不推荐 | python, polars, pandas, benchmark, mlflow, rust |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
-| [[ai_virtual_tryon_2026]] ⭐ NEW | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB | ai, virtual_tryon, ecommerce |
+| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) | ai, virtual_tryon, ecommerce, tool_selection |
 | [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
@@ -77,7 +77,7 @@ updated: 2026-06-16 14:35
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
 | [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移+Polars Arrow零拷贝+新组件 | streamlit, production, caching, starlette |
-| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ NEW | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% | ai, virtual_tryon, tool_selection |
+| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% + Kolors开源竞品/即梦双模型对比 | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
@@ -281,6 +281,9 @@ updated: 2026-06-16 14:35
 | [[2026-06-16_腾讯新闻_2026零售AI决胜点NVIDIA四蓝图]] ⭐ NEW | NVIDIA四大Blueprint+七大案例：动态定价200+变量/3D数字孪生/无感结账 | ai, retail, nvidia, blueprint, smart_store |
 | [[2026-06-16_羊毛市场_16家服装企业2026Q1财报]] ⭐ NEW | 16家A股服装企业Q1：森马利润王/比音勒芬增速王/营收净利背离普遍 | competitor, financial, 2026Q1, brand |
 | [[2026-06-16_IIM_全球服装大模型应用市场预测2026]] ⭐ NEW | IIM：2030年服装AI累计400亿美元/产品周期-40%/库存周转+25%/三层格局 | ai, fashion_design, supply_chain, market_size, llm |
+| [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]] ⭐ NEW | 1-5月服装鞋帽零售6,425亿(+7.2%)/5月+3.8%/品牌专卖店-7.6%/逐月五连降 | retail, kpi, benchmark, industry, macro |
+| [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]] ⭐ NEW | 5款AI试衣工具横评：Kolors最强开源(+30%纹理)/OutfitAnyone电商/即梦静动全链路 | ai, virtual_tryon, tool_selection, roi |
+| [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]] ⭐ NEW | 即梦双模型618实测：Seedream商拍+Seedance短视频全链路唯一方案 | ai, virtual_tryon, ecommerce, 618 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -339,5 +342,6 @@ updated: 2026-06-16 14:35
 | **63** | **06-15 13:55** | **L2_03/04/05** | **s5/c5更新(会员复购率/AI导陪/培训闭环/柔性供应链/动态OTB)+L3同步4处+织网5条回链** |
 | **64** | **06-15 20:38** | **L2_06/07 + 查漏** | **s4/c1新增(python_data_stack_decision_2026)+c2更新(data_governance_tech_routes/retail_data_workflow)+p1新增(python_sql_integration_patterns_2026)+L3同步2处** |
 | **65** | **06-16 14:35** | **L2_00/01/02** | **s4/c3更新(retail_ai_adoption+商务部四阶段/apparel_ai_agents+NVIDIA蓝图/ai_fashion_market+IIM 400亿)+L3同步3处** |
+| **66** | **06-17 06:35** | **L2_00/01/02** | **s3/c2更新(ai_virtual_tryon+5工具横评/industry_q1+1-5月数据)+c1更新(ai_fashion_ecommerce_tryon)+L3同步3处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

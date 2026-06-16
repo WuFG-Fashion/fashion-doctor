@@ -5,7 +5,7 @@ tags: [ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech]
 sources: [2026-06-08_知衣FD_AI试衣工具选型.md]
 created: 2026-06-08
 updated: 2026-06-08
-cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]]
+cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]]
 ---
 
 # 服装AI试衣工具选型与落地（2026）
@@ -82,3 +82,22 @@ cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_des
 
 - 其他AI试衣工具（如ZMO.AI、Botika等）的产品对比待补充
 - 知衣FD在男装品类的实际效果数据待验证
+
+## 竞品对比：Kolors vs 即梦 ⭐ 6月更新
+
+> 来源：FlowpixAI实测 + 搜狐618测评
+
+| 维度 | Kolors | 即梦双模型 | 知衣FD |
+|------|--------|-----------|--------|
+| 核心能力 | 虚拟试衣（最强开源） | 商拍+短视频全链路 | 商拍+设计全链路 |
+| 纹理保持 | 比前代+30% | 版型精准还原 | 100亿图片训练 |
+| 部署 | 需GPU+技术能力 | SaaS即用 | SaaS即用 |
+| 成本 | 免费(GPU自费) | 未公开 | 年费数千-上万元 |
+| 动态视频 | ❌ | ✅ 10-15秒 | ✅ 3分钟/条 |
+| 最佳场景 | 高质量商拍 | 618大促批量 | 日常电商+设计 |
+| 入门门槛 | 高 | 极低 | 低 |
+
+### 选型建议
+- **追求极致效果+有技术团队** → Kolors（开源免费，效果最强）
+- **618/双11大批量铺货** → 即梦双模型（唯一静+动全链路）
+- **日常电商+设计一体化** → 知衣FD（最成熟的垂直方案）

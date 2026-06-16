@@ -1,11 +1,11 @@
 ---
 type: concept
 title: AI虚拟试衣技术2026
-tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech]
-sources: [2026-06-07_AI虚拟试衣_服装电商.md]
+tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection]
+sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md]
 created: 2026-06-07
-updated: 2026-06-07
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]]
+updated: 2026-06-17
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]]
 ---
 
 # AI虚拟试衣技术2026
@@ -56,3 +56,41 @@ cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服
 
 - [ ] 国内服装品牌实际部署虚拟试衣的ROI数据
 - [ ] 各平台（淘宝/抖音/微信）虚拟试衣技术方案对比
+
+## 2026年6月工具横评 ⭐ 更新
+
+> 来源：FlowpixAI 2026-06-09 实测 + 搜狐 618实测
+
+### 5款AI虚拟试衣工具横评
+
+| 工具 | 实力 | 适用场景 | 成本 | 亮点 |
+|------|------|---------|------|------|
+| **Kolors** | ⭐⭐⭐⭐⭐ | 电商卖家 | 免费(GPU) | 最强开源，纹理+30%，上衣/连衣裙惊人 |
+| **OutfitAnyone** | ⭐⭐⭐⭐ | 淘宝/天猫 | 免费+API | 阿里系，换模特+换衣一体，厚款差 |
+| **IDM-VTON** | ⭐⭐⭐⭐ | 学术研究 | 开源 | 学术SOTA，细节好 |
+| **Midjourney** | ⭐⭐⭐ | 穿搭博主 | $10/月 | 创意Lookbook，非真正试衣 |
+| **FASHN AI** | ⭐⭐⭐ | 普通消费者 | 免费+付费 | 消费级最佳体验 |
+
+### 即梦双模型（618最佳方案）
+
+| 模型 | 功能 | 亮点 |
+|------|------|------|
+| Seedream 5.0 Lite | 静态商拍 | 零门槛/版型精准/批量统一/模特定制 |
+| Seedance 2.0 | 动态视频 | 静转动/10-15秒短片/批量生成/零后期 |
+
+### ROI数据更新
+| 指标 | 数据 |
+|------|------|
+| 模特拍摄成本节省 | **60%-70%** |
+| 典型年节省（50款/季） | **~8万元** |
+| 当前阶段判断 | "刚好能用、但还不够完美"——入局最佳时机 |
+
+### 工具选型推荐
+
+| 场景 | 推荐 | 理由 |
+|------|------|------|
+| 月上新>50款电商 | Kolors + 知衣FD | 最强效果+专业垂直 |
+| 淘宝/天猫春夏女装 | OutfitAnyone | 阿里生态，轻薄款最优 |
+| 618/双11大促铺货 | 即梦双模型 | 唯一静+动全链路 |
+| 内容创作 | Midjourney | 创意自由度最高 |
+| 普通消费者 | FASHN AI | 零门槛体验
