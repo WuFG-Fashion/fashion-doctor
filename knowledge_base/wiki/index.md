@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-16 14:35
+updated: 2026-06-17 14:53
 ---
 
 # Fashion Doctor 知识库导航
@@ -282,6 +282,12 @@ updated: 2026-06-16 14:35
 | [[2026-06-16_羊毛市场_16家服装企业2026Q1财报]] ⭐ NEW | 16家A股服装企业Q1：森马利润王/比音勒芬增速王/营收净利背离普遍 | competitor, financial, 2026Q1, brand |
 | [[2026-06-16_IIM_全球服装大模型应用市场预测2026]] ⭐ NEW | IIM：2030年服装AI累计400亿美元/产品周期-40%/库存周转+25%/三层格局 | ai, fashion_design, supply_chain, market_size, llm |
 | [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]] ⭐ NEW | 1-5月服装鞋帽零售6,425亿(+7.2%)/5月+3.8%/品牌专卖店-7.6%/逐月五连降 | retail, kpi, benchmark, industry, macro |
+| [[2026-06-17_跨境电商私域复购运营]] ⭐ NEW | 跨境电商私域复购：平台复购+18-35pp/LTV 1.6-2.8x/WhatsApp打开率85%+/VIP<10%贡献30-50%收入 | vip, private_domain, repurchase, ltv |
+| [[2026-06-17_服饰DTC品牌忠诚度2026]] ⭐ NEW | Rijoy+麦肯锡/贝恩/Deloitte：CAC+222%/情感忠诚首降29%/Lululemon/Nike/Shein/Gymshark标杆 | vip, loyalty, dtc, ai |
+| [[2026-06-17_北森AI陪练7款实测2026]] ⭐ NEW | 北森发布7款AI陪练横评(9.8-6.8分)：麦肯锡新人-42%/转化+35%/选型建议 | guide, ai, coaching, tool_selection |
+| [[2026-06-17_零售导购团队业绩提升]] ⭐ NEW | 四步带教法+Megaview三场景：68%消费者受导购影响/63%企业断层/72%管理者仍做销售 | guide, training, coaching, management |
+| [[2026-06-17_StyleMatrix_OTB规划方法论2026]] ⭐ NEW | OTB=销售额+期末库存+降价-期初库存-在途/双重计量(金额+单位)/OTR协同/AI增强 | otb, merchandise, supply_chain, planning |
+| [[2026-06-17_淘宝2026秋冬服饰白皮书]] ⭐ NEW | 淘宝×智篆GI：七大风格趋势(现代诗人/阿普瑞/软雾绒系等)/件单价驱动/品类结构变化 | merchandise, planning, trend, category |
 | [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]] ⭐ NEW | 5款AI试衣工具横评：Kolors最强开源(+30%纹理)/OutfitAnyone电商/即梦静动全链路 | ai, virtual_tryon, tool_selection, roi |
 | [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]] ⭐ NEW | 即梦双模型618实测：Seedream商拍+Seedance短视频全链路唯一方案 | ai, virtual_tryon, ecommerce, 618 |
 
@@ -343,5 +349,6 @@ updated: 2026-06-16 14:35
 | **64** | **06-15 20:38** | **L2_06/07 + 查漏** | **s4/c1新增(python_data_stack_decision_2026)+c2更新(data_governance_tech_routes/retail_data_workflow)+p1新增(python_sql_integration_patterns_2026)+L3同步2处** |
 | **65** | **06-16 14:35** | **L2_00/01/02** | **s4/c3更新(retail_ai_adoption+商务部四阶段/apparel_ai_agents+NVIDIA蓝图/ai_fashion_market+IIM 400亿)+L3同步3处** |
 | **66** | **06-17 06:35** | **L2_00/01/02** | **s3/c2更新(ai_virtual_tryon+5工具横评/industry_q1+1-5月数据)+c1更新(ai_fashion_ecommerce_tryon)+L3同步3处** |
+| **67** | **06-17 14:53** | **L2_03/04/05** | **s6/c5更新(会员复购率+DTC忠诚度/AI陪练7款实测+四步带教/导培闭环/动态OTB+StyleMatrix/企划趋势+淘宝7风格)+L3同步5处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
