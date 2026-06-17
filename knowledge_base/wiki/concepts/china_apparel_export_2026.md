@@ -4,8 +4,8 @@ title: 中国服装出口2026
 tags: [export, trade, customs, industry, supply_chain, benchmark]
 sources: [2026-06-12_海关总署_2026年1-4月服装出口.md]
 created: 2026-06-12
-updated: 2026-06-15
-cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[china_apparel_2025_annual]], [[服装行业竞争格局]], [[2026-06-13_中国服装协会_2026年前4月行业核心指标]], [[2026-06-15_商务部_2025年1-11月服装行业经济运行]], [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]]
+updated: 2026-06-18
+cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[china_apparel_2025_annual]], [[服装行业竞争格局]], [[2026-06-13_中国服装协会_2026年前4月行业核心指标]], [[2026-06-15_商务部_2025年1-11月服装行业经济运行]], [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]], [[2026-06-18_国家统计局_2026年1-2月服装行业运行]]
 ---
 
 # 中国服装出口2026（1-4月）

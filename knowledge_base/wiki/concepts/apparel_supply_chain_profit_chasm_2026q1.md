@@ -4,8 +4,8 @@ title: 服装产业链利润分化（2026Q1）
 tags: [industry, profit, supply_chain, cost_pressure, benchmark]
 sources: [2026-06-08_产业链利润分化_2026Q1.md]
 created: 2026-06-08
-updated: 2026-06-08
-cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026|中国服装行业规模与结构（2026）]], [[柔性供应链与商品企划]]
+updated: 2026-06-18
+cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026|中国服装行业规模与结构（2026）]], [[柔性供应链与商品企划]], [[2026-06-18_东吴证券_纺织服饰2025年报及2026Q1总结]]
 ---
 
 # 服装产业链利润分化（2026Q1）

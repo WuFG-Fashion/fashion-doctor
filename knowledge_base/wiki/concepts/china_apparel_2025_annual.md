@@ -4,8 +4,8 @@ title: 2025年中国服装行业全年大盘
 tags: [industry, kpi, benchmark, financial, export, 2025]
 sources: [2026-06-10_商务部_2025年服装行业全年经济运行.md]
 created: 2026-06-10
-updated: 2026-06-15
-cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations]], [[服装行业竞争格局]], [[china_apparel_export_2026]], [[2026-06-15_商务部_2025年1-11月服装行业经济运行]], [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]]
+updated: 2026-06-18
+cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations]], [[服装行业竞争格局]], [[china_apparel_export_2026]], [[2026-06-15_商务部_2025年1-11月服装行业经济运行]], [[2026-06-17_国家统计局_2026年1-5月消费数据与服装零售]], [[2026-06-18_东吴证券_纺织服饰2025年报及2026Q1总结]]
 ---
 
 # 2025年中国服装行业全年大盘

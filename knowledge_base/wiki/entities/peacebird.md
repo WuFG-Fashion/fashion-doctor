@@ -2,9 +2,9 @@
 type: entity
 title: 太平鸟
 tags: [peacebird, competitor, menswear, womenswear, kidswear, a_share]
-sources: [2026-06-05_太平鸟_2025年报2026Q1.md]
+sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-18_新浪证券_15家A股服饰服装存货分析.md]
 created: 2026-06-05
-updated: 2026-06-12
+updated: 2026-06-18
 cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]]
 ---
 
@@ -47,6 +47,7 @@ cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semi
 | 三费率 | 49.25% | 远高于行业11.65%(口径不同) |
 | Q1现金流 | 2.15亿 | 上年同期-2.99亿（扭正） |
 | 门店数 | 3,248家(2025末) | 关闭低效店约600家 |
+| 2025年末存货 | 14.35亿 | A股服饰第三（海澜108亿/森马31.78亿） |
 
 ## 2026Q1 运营亮点（6月更新）
 

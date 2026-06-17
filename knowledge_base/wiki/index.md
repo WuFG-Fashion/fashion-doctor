@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-17 14:53
+updated: 2026-06-18 07:15
 ---
 
 # Fashion Doctor 知识库导航
@@ -290,6 +290,9 @@ updated: 2026-06-17 14:53
 | [[2026-06-17_淘宝2026秋冬服饰白皮书]] ⭐ NEW | 淘宝×智篆GI：七大风格趋势(现代诗人/阿普瑞/软雾绒系等)/件单价驱动/品类结构变化 | merchandise, planning, trend, category |
 | [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]] ⭐ NEW | 5款AI试衣工具横评：Kolors最强开源(+30%纹理)/OutfitAnyone电商/即梦静动全链路 | ai, virtual_tryon, tool_selection, roi |
 | [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]] ⭐ NEW | 即梦双模型618实测：Seedream商拍+Seedance短视频全链路唯一方案 | ai, virtual_tryon, ecommerce, 618 |
+| [[2026-06-18_国家统计局_2026年1-2月服装行业运行]] ⭐ NEW | 1-2月：营收1,629.85亿(+0.89%)/利润率3.58%/出口+14.8%/穿类网上+18.0% | industry, kpi, benchmark, q1 |
+| [[2026-06-18_新浪证券_15家A股服饰服装存货分析]] ⭐ NEW | 海澜108亿/森马31.78亿/太平鸟14.35亿存货，周转红榜：三夫470天/欣贺423天 | inventory, stock, turnover, hla, semir |
+| [[2026-06-18_东吴证券_纺织服饰2025年报及2026Q1总结]] ⭐ NEW | 品牌26Q1触底反弹+8.3%/+9.0%，制造持续承压-1.2%/-6.9%，上游纱线利润弹性 | industry, financial, sector_comparison |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -350,5 +353,6 @@ updated: 2026-06-17 14:53
 | **65** | **06-16 14:35** | **L2_00/01/02** | **s4/c3更新(retail_ai_adoption+商务部四阶段/apparel_ai_agents+NVIDIA蓝图/ai_fashion_market+IIM 400亿)+L3同步3处** |
 | **66** | **06-17 06:35** | **L2_00/01/02** | **s3/c2更新(ai_virtual_tryon+5工具横评/industry_q1+1-5月数据)+c1更新(ai_fashion_ecommerce_tryon)+L3同步3处** |
 | **67** | **06-17 14:53** | **L2_03/04/05** | **s6/c5更新(会员复购率+DTC忠诚度/AI陪练7款实测+四步带教/导培闭环/动态OTB+StyleMatrix/企划趋势+淘宝7风格)+L3同步5处** |
+| **68** | **06-18 06:35** | **L2_00/01/02** | **s3/c1更新(industry_q1+1-2月+东吴证券)+e3更新(hla/semir/peacebird存货)+L3同步2处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
