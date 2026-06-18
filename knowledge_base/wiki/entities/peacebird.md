@@ -2,10 +2,10 @@
 type: entity
 title: 太平鸟
 tags: [peacebird, competitor, menswear, womenswear, kidswear, a_share]
-sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-18_新浪证券_15家A股服饰服装存货分析.md]
+sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-18_新浪证券_15家A股服饰服装存货分析.md, 2026-06-19_新华社_AI改写衣橱服装产业革命.md]
 created: 2026-06-05
-updated: 2026-06-18
-cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]]
+updated: 2026-06-19
+cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]]
 ---
 
 # 太平鸟 (PEACEBIRD, 603877.SH)
@@ -79,6 +79,24 @@ cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semi
 | 线上毛利率(Q1) | **54.93%** | 连续两年每年+5pp（2025:49%→2026Q1:54.93%） |
 | 线上毛利增幅 | +5.23pp | 核心增长引擎 |
 | 直营收入增速 | **+7.9%** | 店效修复显著 |
+
+## AI 数字化实践 ⭐ NEW (2026-06)
+
+> 来源：[[2026-06-19_新华社_AI改写衣橱服装产业革命]]
+
+| AI 应用 | 详情 | 效果 |
+|---------|------|------|
+| **线稿成款** | AI辅助设计验证 | 验证周期数周→数天 |
+| **AI内容生产** | AI生图+AI视频 | 效率提升**超一倍** |
+| **数据决策** | 消费数据实时分析 | 补货和调仓决策更精准 |
+| **AI Agent探索** | 跨域调用数据 | "设计-生产-零售"全链路打通 |
+
+**AI三阶段战略**（张申俊/数字化技术部总监）：
+1. **标准化+产品化**：AI实践跨品牌、跨部门快速复用
+2. **全链路打通**：跨域调用数据，"设计-生产-零售"一体化
+3. **AI Agent落地**：探索AI Agent在业务场景中的部署
+
+> 数据从"事后复盘报表"变成"决策起点"——AI成为连接数据和决策的加速器。
 
 ## 关联知识
 - [[muson_gxg]] — GXG竞品对比

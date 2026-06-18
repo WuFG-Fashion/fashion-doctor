@@ -49,4 +49,4 @@ created: 2026-06-05
 | 2026-06-16 14:35 | ingestA | L2_00/01/02 — 采集4篇/织网12条/矛盾0处(raw4→s4:商务部AI四阶段3100亿+NVIDIA四Blueprint+16品牌Q1全景+IIM 400亿→c3更新:retail_ai_adoption/apparel_ai_agents/ai_fashion_market→L3同步3处) |
 | 2026-06-17 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网10条/矛盾0处(raw3→s3:国家统计局1-5月零售+Kolors/即梦AI试衣横评→c2更新:ai_virtual_tryon+industry_q1→c1更新:ai_fashion_ecommerce_tryon→L3同步3处) |
 | 2026-06-17 14:53 | ingestB | L2_03/04/05 — 采集6篇/织网10条/矛盾0处(s6:跨境私域复购+DTC忠诚度+北森7款实测+导购业绩提升+StyleMatrix OTB+淘宝秋冬白皮书→c5更新:会员复购率+AI陪练+导培闭环+动态OTB+企划趋势→L3同步5处) |
-| 2026-06-18 07:15 | ingestA | L2_00/01/02 — 采集3篇/织网12条/矛盾0处(raw3→s3:1-2月行业效益1679亿/利润率3.58%+15家A股存货全景+东吴证券品牌vs制造板块对比→c1更新:industry_q1→e3更新:hla/semir/peacebird存货→L3同步2处→Git:03b634f) |
+| 2026-06-18 21:24 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处 (raw4: ETL vs ELT+数据治理三档+15品牌横评+Polars 2.0 → s4 → c3更新: ETL架构/data_gov_tech/polars_vs_pandas → L3同步2处) |

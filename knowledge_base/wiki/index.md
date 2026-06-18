@@ -17,12 +17,12 @@ updated: 2026-06-18 21:24
 | [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
-| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，数字化1.8亿/线上毛利率54.93% | brand, competitor, a_share |
+| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ NEW | 迅销/优衣库，FY2026H1 884亿(+14.8%) | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店(品牌级拆解) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
-| [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25% | brand, competitor, menswear |
+| [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，四大困境确认低增长调整期 | brand, competitor, athleisure |
 | [[jnby]] ⭐ NEW | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献超80% | brand, competitor, womenswear, membership |
@@ -38,8 +38,8 @@ updated: 2026-06-18 21:24
 | [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) + 商务部四阶段框架+3100亿美元+NVIDIA四大Blueprint | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) + 1-5月最新(服装+7.2%/品牌专卖店-7.6%/逐月五连降) | kpi, benchmark, industry |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + 五大品牌AI实战(森马/太平鸟/UR/波司登/贝德) + 618AI全域落地 + 安永AI三维标准 | ai, retail, adoption, roi, nrf |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 安永三类品类框架(政策/情绪/刚需) + 618服饰消费快报 + 1-5月最新 | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
@@ -297,6 +297,10 @@ updated: 2026-06-18 21:24
 | [[2026-06-18_国家统计局_2026年1-2月服装行业运行]] ⭐ NEW | 1-2月：营收1,629.85亿(+0.89%)/利润率3.58%/出口+14.8%/穿类网上+18.0% | industry, kpi, benchmark, q1 |
 | [[2026-06-18_新浪证券_15家A股服饰服装存货分析]] ⭐ NEW | 海澜108亿/森马31.78亿/太平鸟14.35亿存货，周转红榜：三夫470天/欣贺423天 | inventory, stock, turnover, hla, semir |
 | [[2026-06-18_东吴证券_纺织服饰2025年报及2026Q1总结]] ⭐ NEW | 品牌26Q1触底反弹+8.3%/+9.0%，制造持续承压-1.2%/-6.9%，上游纱线利润弹性 | industry, financial, sector_comparison |
+| [[2026-06-19_新华社_AI改写衣橱服装产业革命]] ⭐ NEW | 新华社：五大品牌AI全链路实战——森马设计30秒/太平鸟线稿成款/UR调拨+80%/波司登4分钟/贝德AI驾驶舱 | ai, fashion_design, supply_chain, peacebird, semir |
+| [[2026-06-19_中新经纬_2026年618消费洞察报告]] ⭐ NEW | 2026年618：网络零售+7.7%/AI全域落地(京东全链路/淘宝千问/抖音豆包)/服装增长强劲/货架电商回归60% | ai, retail, ecommerce, 618 |
+| [[2026-06-19_安永_2026消费零售行业年中观察]] ⭐ NEW | 安永：社零12.77万亿(+2.4%)/三类品类框架/服饰库存痛点/场景化选品/AI三维价值判断 | retail, macro, apparel, consumer |
+| [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]] ⭐ NEW | 618服饰TOP5：优衣库>UR>ZARA>海澜之家>太平鸟/淘宝48.4%份额/三大黑马(Songmont/星期六/猫人) | competitor, brand, ecommerce, 618 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -359,5 +363,6 @@ updated: 2026-06-18 21:24
 | **67** | **06-17 14:53** | **L2_03/04/05** | **s6/c5更新(会员复购率+DTC忠诚度/AI陪练7款实测+四步带教/导培闭环/动态OTB+StyleMatrix/企划趋势+淘宝7风格)+L3同步5处** |
 | **68** | **06-18 06:35** | **L2_00/01/02** | **s3/c1更新(industry_q1+1-2月+东吴证券)+e3更新(hla/semir/peacebird存货)+L3同步2处** |
 | **69** | **06-18 21:24** | **L2_06/07 + 查漏** | **s4(ETL vs ELT/数据治理三档/15品牌/Polars 2.0)/c3更新(ETL架构/data_governance/polars_vs_pandas)/L3同步2处/织网8条/矛盾0处** |
+| **70** | **06-19 06:35** | **L2_00/01/02** | **s4(新华社AI五大品牌/618洞察报告/安永年中观察/618服饰排行)/e2更新(peacebird+semir AI数据)/c2更新(retail_ai+industry_q1)/L3同步3处/织网12条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -4,8 +4,8 @@ title: Inditex（ZARA）
 tags: [zara, inditex, competitor, fast_fashion, global, spain]
 sources: [2026-06-05_Inditex_ZARA_FY2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-12
-cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brands_2026q1]], [[服装行业竞争格局]], [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[hm]]
+updated: 2026-06-19
+cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brands_2026q1]], [[服装行业竞争格局]], [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[hm]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]]
 ---
 
 # Inditex / ZARA
@@ -95,3 +95,4 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brand
 - [[fast_retailing]]
 - [[four_brands_2025]]
 - [[服装行业竞争格局]]
+- [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]] — 世界服饰网：2026天猫618服饰品牌排行榜

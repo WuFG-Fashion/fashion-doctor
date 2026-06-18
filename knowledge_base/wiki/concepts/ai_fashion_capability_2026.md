@@ -4,8 +4,8 @@ title: AI时尚六大能力2026全景
 tags: [ai, fashion_design, virtual_tryon, ecommerce, supply_chain, whatsapp]
 sources: [2026-06-10_Veeton_AI时尚2026能力报告.md]
 created: 2026-06-10
-updated: 2026-06-10
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_market_2026]], [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]]
+updated: 2026-06-19
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_market_2026]], [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]]
 ---
 
 # AI时尚六大能力2026全景
@@ -86,3 +86,4 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - [[agentic_commerce_fashion_2026]] — Agentic Commerce新范式
 - [[ai_fashion_ecommerce_tryon_tools_2026]] — 服装AI试衣工具选型
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
+- [[2026-06-19_新华社_AI改写衣橱服装产业革命]] — 新华社：AI改写衣橱，服装产业革命

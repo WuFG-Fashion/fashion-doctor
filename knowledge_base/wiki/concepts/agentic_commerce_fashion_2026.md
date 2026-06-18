@@ -4,8 +4,8 @@ title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
 sources: [2026-06-09_NRF_2026时尚科技AI创新者.md]
 created: 2026-06-09
-updated: 2026-06-15
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]]
+updated: 2026-06-19
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]]
 ---
 
 # 代理式商务与时尚零售AI新范式（2026）
@@ -75,3 +75,4 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 - [[ai_fashion_market_2026]] — AI时尚市场与品牌应用全景
 - [[服装行业竞争格局]] — 行业竞争格局
 - [[data_quality_governance]] — 数据质量治理
+- [[2026-06-19_中新经纬_2026年618消费洞察报告]] — 中新经纬：2026年618消费洞察报告
