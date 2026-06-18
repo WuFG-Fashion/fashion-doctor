@@ -2,10 +2,10 @@
 type: concept
 title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
-sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026]
+sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06
-updated: 2026-06-10
-cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]]
+updated: 2026-06-18
+cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]]
 ---
 
 # ETL架构选型
@@ -100,3 +100,40 @@ cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]],
 | 开发效率低 | 互联网公司8人团队全职维护 | 成本暴增 |
 | 增量同步不准 | 零售企业数据重复入仓 | 报表失真 |
 | 数据治理缺失 | 医疗企业面临合规风险 | 数据不可用 |
+
+## ETL vs ELT 双模选型（2026-06新增）
+
+### 本质区别
+
+| 维度 | ETL（先转换后加载） | ELT（先加载后转换） |
+|------|-----|-----|
+| 执行顺序 | 抽取→转换→加载 | 抽取→加载→转换 |
+| 计算依赖 | 中间件/ETL服务器 | 数据仓库/大数据平台 |
+| 适用场景 | 结构化、批量、GB级 | 大数据、实时/近实时、TB+级 |
+| 性能瓶颈 | 服务器IO与计算 | 仓库算力 |
+| 代表平台 | Informatica/DataStage | Snowflake/Redshift/FineDataLink(ELT) |
+
+### 场景决策矩阵
+
+| 业务场景 | 数据量级 | 推荐模式 | 实例 |
+|---------|---------|---------|------|
+| 传统报表分析 | GB级以下 | ETL | 财务月报/历史归档 |
+| 大数据分析/BI | TB~PB级 | **ELT优先** | 电商全域分析/用户行为追踪 |
+| 多源异构整合 | 多系统/格式 | **双模式混合** | IoT+ERP+CRM融合 |
+| AI/ML建模 | 非结构化 | ELT+流处理 | Kafka+流引擎 |
+| 数据治理合规 | 全量+增量 | ELT | 审计追溯/元数据追踪 |
+
+### 典型案例
+
+**某大型零售企业**：传统ETL每日夜间批量同步，处理窗口**4小时**；迁移FineDataLink ELT模式后利用数仓算力并行转换，**30分钟**完成（提速**8倍**）。
+
+### 2026双模选型原则
+
+- 企业不应"二选一"，而应"场景驱动动态组合"
+- 优选支持ETL/ELT双模式的国产平台（如FineDataLink）
+- 低代码DAG调度实现自由切换，避免技术锁定
+- 数据源异构、接口复杂 → ETL优先；数据量大、数仓算力强 → ELT优先
+
+## 关联知识
+- [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]]
+- [[data_lakehouse_2026|湖仓一体与ETL新四化]]

@@ -4,8 +4,8 @@ title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
 sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822]
 created: 2026-06-08
-updated: 2026-06-09
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]]
+updated: 2026-06-18
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎

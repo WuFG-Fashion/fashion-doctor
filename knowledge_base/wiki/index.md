@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-18 07:15
+updated: 2026-06-18 21:24
 ---
 
 # Fashion Doctor 知识库导航
@@ -41,7 +41,7 @@ updated: 2026-06-18 07:15
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走 + NRF三大趋势(UCP/Agent务实化/门店数字化) + 商务部四阶段框架+3100亿美元+NVIDIA四大Blueprint | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-4月扩展(利润率2.55%/内销放缓/对美暴增) + 1-5月最新(服装+7.2%/品牌专卖店-7.6%/逐月五连降) | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
-| [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 | etl, data_warehouse, architecture |
+| [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
 | [[会员复购率提升策略]] ⭐ NEW | AI推荐+分层权益+场景触达，复购+18-35pp | vip, repurchase, membership |
 | [[服装门店经营AI化2026]] ⭐ NEW | 65%手工记账→AI经营大脑，周转+60%复购+35% | ai, retail_digitalization, store_operation |
@@ -81,7 +81,7 @@ updated: 2026-06-18 07:15
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
-| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+860亿市场+五步选型+硬性基准指标+服装零售选型决策树 | data_governance, platform, selection, vendor, ai_driven, market_size |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 | data_governance, platform, selection, vendor, ai_driven, market_size |
 | [[ai_fashion_market_2026]] ⭐ UPDATED | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道+IIM 2030年400亿美元累计投入/三层格局 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -117,6 +117,10 @@ updated: 2026-06-18 07:15
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]] ⭐ NEW | ETL vs ELT 2026双模式选型：FineDataLink零售企业4h→30min提速8倍 | etl, data_warehouse, multi_brand, fine_datalink |
+| [[2026-06-18_百家号_2026数据治理性价比三档方案]] ⭐ NEW | IDC 350亿/28.7%/AI>50%，三档方案(DCMM/DSMM基准) | data_governance, platform, vendor, dcmm, ai_driven |
+| [[2026-06-18_百家号_15个数据治理品牌2026横评]] ⭐ NEW | 15品牌三梯队：普元/瓴羊→帆软/袋鼠云→DataHub/Atlas开源 | data_governance, platform, vendor, open_source, saas |
+| [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]] ⭐ NEW | Polars 2.0：谓词下推20x/内存降49%/零拷贝Join/声明式管道 | polars, python, benchmark, parquet, streaming |
 | [[2026-06-12_Capgemini_零售AI信任鸿沟2026]] ⭐ NEW | Capgemini：71%/76%/66%信任三大壁垒 + Ralph Lauren Ask Ralph案例 | ai, trust, retail, luxury |
 | [[2026-06-12_海关总署_2026年1-4月服装出口]] ⭐ NEW | 海关总署：出口442.3亿(-0.9%)/针织+1.8%/梭织-3.7%/在美份额10.7% | export, trade, customs, industry |
 | [[2026-06-12_新浪财经_29家服装企业2026Q1全景]] ⭐ NEW | 29家全球服装企业Q1：亚瑟士+47.2%领跑/森马+45.25%/耐克大中华-7% | competitor, financial, global, q1 |
@@ -354,5 +358,6 @@ updated: 2026-06-18 07:15
 | **66** | **06-17 06:35** | **L2_00/01/02** | **s3/c2更新(ai_virtual_tryon+5工具横评/industry_q1+1-5月数据)+c1更新(ai_fashion_ecommerce_tryon)+L3同步3处** |
 | **67** | **06-17 14:53** | **L2_03/04/05** | **s6/c5更新(会员复购率+DTC忠诚度/AI陪练7款实测+四步带教/导培闭环/动态OTB+StyleMatrix/企划趋势+淘宝7风格)+L3同步5处** |
 | **68** | **06-18 06:35** | **L2_00/01/02** | **s3/c1更新(industry_q1+1-2月+东吴证券)+e3更新(hla/semir/peacebird存货)+L3同步2处** |
+| **69** | **06-18 21:24** | **L2_06/07 + 查漏** | **s4(ETL vs ELT/数据治理三档/15品牌/Polars 2.0)/c3更新(ETL架构/data_governance/polars_vs_pandas)/L3同步2处/织网8条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化]
 created: 2026-06-06
-updated: 2026-06-14
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]]
+updated: 2026-06-18
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -320,3 +320,63 @@ model = LinearRegression().fit(df_pd[["x"]], df_pd["y"])
 ### 核心理念
 
 > Polars保证**数据可信**，MLflow保证**模型可信**，Streamlit保证**交付可信**——从原始日志到业务决策的全链路可追溯体系。
+
+## Polars 2.0 核心升级详解（2026-06新增）
+
+### 2.0 vs 1.x 关键演进
+
+| 特性维度 | Polars 1.x | Polars 2.0 |
+|---------|-----------|-----------|
+| 执行引擎 | LazyFrame基础优化 | **Arrow Flight SQL Planner**，谓词下推至Parquet页级 |
+| 字符串处理 | Rust std::string，无SIMD | **SIMD向量化正则引擎**，UTF-8边界自动对齐 |
+| 流式执行 | 不支持 | **streaming=True**，TB级避免全量内存驻留 |
+| 物理计划剪枝 | 无 | 投影列裁剪 + 冗余Filter合并 |
+| 声明式管道 | 无 | pipe()+**collect_schema()**，模式感知清洗 |
+
+### 关键性能基准（10GB Parquet TPC-DS lineitem）
+
+| 策略 | 初始化耗时 | 内存峰值 |
+|------|-----------|---------|
+| 默认Schema推断 | 1.82s | 426MB |
+| **FileMetaData预读+列裁剪** | **0.09s (20x)** | **17MB** |
+
+### 10M行等值Join
+
+| 策略 | 内存峰值 | GC暂停次数 |
+|------|---------|-----------|
+| std::unordered_map | 2.1GB | 17 |
+| **内联预分配+arena** | **1.3GB** | **0** |
+
+### 10GB Parquet清洗参数实测
+
+| 参数组合 | 峰值内存 | 加载耗时 |
+|---------|---------|---------|
+| rechunk=True | 3820MB | 42.1s |
+| **low_memory=True** | **1960MB (降49%)** | 58.7s |
+| chunked_buffer=128MB | 2410MB | 46.3s |
+
+### 生产环境迁移效果
+- 12TB ETL流水线：编译阶段错误检出率 **+73%**
+- collect()前内存峰值 **-41%**
+- explain(optimized=True) 可直接定位冗余cast操作
+
+### 声明式管道范式迁移
+
+```python
+# Polars 2.0：模式感知声明式管道
+lazy_df = (
+    pl.scan_parquet("data.parquet")
+    .pipe(lambda lf: lf.filter(pl.col("age") > 18))
+    .pipe(lambda lf: lf.with_columns(
+        pl.col("salary").log10().alias("log_salary")
+    ))
+    .collect_schema()  # 提前捕获字段类型变更，编译期校验
+)
+```
+
+### 2.0与Dask/Delta Lake互操作
+- Arrow IPC流式传输 + LZ4压缩：平均延迟591ms，吞吐167MB/s
+- write_metadata=True减少Dask侧schema解析37%
+
+## 关联知识（续）
+- [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]] — Polars 2.0新版实测来源

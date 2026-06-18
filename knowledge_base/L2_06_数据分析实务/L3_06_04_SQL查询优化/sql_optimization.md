@@ -6,6 +6,16 @@
 
 ---
 
+## 最新更新 (2026-06-18)
+
+> 本页内容已迁移至 wiki/ 体系。请查阅：
+> - [[SQL查询性能优化]] — SQL三维优化法（索引+改写+参数）
+> - [[polars_vs_pandas_2026]] — Polars 2.0新特性（Arrow Flight SQL/谓词下推/SIMD正则）
+> - [[ETL架构选型]] — ETL vs ELT双模式选型（零售企业4h→30min提速8倍）
+> - [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] — 三模式分层集成
+
+---
+
 ## 6. 2026年5月17日00:54更新（第十七轮采集）
 
 ### [Vanna零售业：销售分析和库存管理的SQL自动化]（来源：CSDN blog.csdn.net，日期：**2025-09-05**，可信度：中高）

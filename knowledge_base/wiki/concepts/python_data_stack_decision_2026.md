@@ -4,8 +4,8 @@ title: Python数据栈边界决策框架2026
 tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics, data_engineering]
 sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287]
 created: 2026-06-15
-updated: 2026-06-15
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]]
+updated: 2026-06-18
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]]
 ---
 
 # Python数据栈边界决策框架2026
