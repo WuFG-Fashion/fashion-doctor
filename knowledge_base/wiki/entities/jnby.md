@@ -5,7 +5,7 @@ tags: [jnby, competitor, womenswear, hk_listed, membership, brand_strategy]
 sources: [2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎.md]
 created: 2026-06-13
 updated: 2026-06-13
-cross_refs: [[lilanz]], [[peacebird]], [[muson_gxg]], [[会员复购率提升策略]], [[服装行业竞争格局]], [[2026-06-14_凡科_服装连锁会员精准营销]]
+cross_refs: [[lilanz]], [[peacebird]], [[muson_gxg]], [[会员复购率提升策略]], [[服装行业竞争格局]], [[2026-06-14_凡科_服装连锁会员精准营销]], [[2026-06-19_服装供应链SCM白皮书2026]]
 ---
 
 # 江南布衣 (JNBY, 03306.HK)
