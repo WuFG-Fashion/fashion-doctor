@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-19 15:32
+updated: 2026-06-20 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -24,6 +24,7 @@ updated: 2026-06-19 15:32
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
+| [[bienlefen]] ⭐ NEW | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，16家A股同行盈利质量王 | brand, competitor, sportswear, premium |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，四大困境确认低增长调整期 | brand, competitor, athleisure |
 | [[jnby]] ⭐ NEW | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献超80% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -301,6 +302,9 @@ updated: 2026-06-19 15:32
 | [[2026-06-19_中新经纬_2026年618消费洞察报告]] ⭐ NEW | 2026年618：网络零售+7.7%/AI全域落地(京东全链路/淘宝千问/抖音豆包)/服装增长强劲/货架电商回归60% | ai, retail, ecommerce, 618 |
 | [[2026-06-19_安永_2026消费零售行业年中观察]] ⭐ NEW | 安永：社零12.77万亿(+2.4%)/三类品类框架/服饰库存痛点/场景化选品/AI三维价值判断 | retail, macro, apparel, consumer |
 | [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]] ⭐ NEW | 618服饰TOP5：优衣库>UR>ZARA>海澜之家>太平鸟/淘宝48.4%份额/三大黑马(Songmont/星期六/猫人) | competitor, brand, ecommerce, 618 |
+| [[2026-06-20_CFW_2026年1-4月服装行业运行分析]] ⭐ NEW | CFW/国家统计局：1-4月营收3160亿(-3.42%)/利润率2.55%/内销+8.3%/对美4月暴增+41.8% | industry, kpi, benchmark, export |
+| [[2026-06-20_网易_29家全球服装运动企业2026Q1业绩汇总]] ⭐ NEW | 网易/全球企业动态：29家汇总，亚瑟士+47%领跑/优衣库H1+14.8%/耐克大中华-7% | competitor, financial, global, 2026Q1 |
+| [[2026-06-20_羊毛市场_16家A股服装企业2026Q1财报]] ⭐ NEW | 羊毛市场：16家A股Q1全景，比音勒芬净利率25.4%称王/森马利润+45%/欣贺+191% | competitor, financial, a_share, 2026Q1 |
 | [[2026-06-19_门店系统会员私域对比测评]] ⭐ NEW | 乔拓云(10级会员/AI全场景/年费744.5元)vs唯顿(基础收银)，五维测评：2026门店竞争力已从"会收银"升级为"会运营" | vip, membership, private_domain, system_selection |
 | [[2026-06-19_AI企微私域复购全链路方案]] ⭐ NEW | 获客成本180元/复购率15%→AI驱动+30%/微盛AI标签85%精准/ROI 1:6/5大行业案例 | vip, repurchase, ai, scrm, wechat_ecosystem |
 | [[2026-06-19_AI培训系统排名2026零售导购选型]] ⭐ NEW | 2026年三类AI培训工具(场景化实战型/轻量化碎片型/数据复盘型)+四大选型标准 | guide, ai, coaching, tool_selection |
@@ -370,5 +374,7 @@ updated: 2026-06-19 15:32
 | **68** | **06-18 06:35** | **L2_00/01/02** | **s3/c1更新(industry_q1+1-2月+东吴证券)+e3更新(hla/semir/peacebird存货)+L3同步2处** |
 | **69** | **06-18 21:24** | **L2_06/07 + 查漏** | **s4(ETL vs ELT/数据治理三档/15品牌/Polars 2.0)/c3更新(ETL架构/data_governance/polars_vs_pandas)/L3同步2处/织网8条/矛盾0处** |
 | **71** | **06-19 15:32** | **L2_03/04/05** | **s6(门店系统/AI企微复购/AI培训排名/北森全场景/OTB采销公式/SCM白皮书)/c5更新(会员复购率/AI导陪/导培闭环/动态OTB/企划趋势)+c1更新(柔性供应链)/L3同步3处/织网10条** |
+
+| **72** | **06-20 06:35** | **L2_00/01/02** | **s3/e1新增(bienlefen)+e4更新(peacebird/hla/semir/fast_retailing)/c1更新(industry_q1)/co1更新(six_brands)/L3同步3处/织网17条/矛盾1处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
