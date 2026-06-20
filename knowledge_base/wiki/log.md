@@ -51,3 +51,4 @@ created: 2026-06-05
 | 2026-06-17 14:53 | ingestB | L2_03/04/05 — 采集6篇/织网10条/矛盾0处(s6:跨境私域复购+DTC忠诚度+北森7款实测+导购业绩提升+StyleMatrix OTB+淘宝秋冬白皮书→c5更新:会员复购率+AI陪练+导培闭环+动态OTB+企划趋势→L3同步5处) |
 | 2026-06-18 21:24 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处 (raw4: ETL vs ELT+数据治理三档+15品牌横评+Polars 2.0 → s4 → c3更新: ETL架构/data_gov_tech/polars_vs_pandas → L3同步2处) |
 | 2026-06-20 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网17条/矛盾1处 (raw3→s3→e1新增:bienlefen+e4更新:peacebird+hla+semir+fast_retailing→c1更新:industry_q1→co1更新:six_brands→L3同步3处→矛盾:迅销营业利润3869vs4006.66亿→Git:待推送) |
+| 2026-06-21 02:33 | optimize | lint(断链7/孤岛0/矛盾8/过期0/分类0)+织网+索引 |
