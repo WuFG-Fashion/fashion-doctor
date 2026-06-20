@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-20 06:35
+updated: 2026-06-21 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -19,7 +19,7 @@ updated: 2026-06-20 06:35
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ NEW | 迅销/优衣库，FY2026H1 884亿(+14.8%) | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店(品牌级拆解) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
@@ -69,7 +69,7 @@ updated: 2026-06-20 06:35
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 + Scopir决策树/Modin不推荐 | python, polars, pandas, benchmark, mlflow, rust |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
-| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) | ai, virtual_tryon, ecommerce, tool_selection |
+| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
 | [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
@@ -308,6 +308,8 @@ updated: 2026-06-20 06:35
 | [[2026-06-19_北森AI陪练零售全场景实战]] ⭐ NEW | 北森官网2026：美妆1800+人通关99.4%/珠宝2万+员工/新人+20%/培训成本-35%/看齐销冠率100% | guide, ai, coaching, training, beisen |
 | [[2026-06-19_服装OTB采销目标管理体系]] ⭐ NEW | OTB=销售计划+销售跟踪+滚动库存/补充采购量公式/提前30-60天限额/季末库存管控 | otb, merchandise, inventory, sell_through |
 | [[2026-06-19_服装供应链SCM白皮书2026]] ⭐ NEW | 时尚CIO：400+品牌实践/交期-22%/库存+30%/采购成本-3-5%/高梵快反3天/江南布衣三方协同 | supply_chain, scm, merchandise, agile, resilience |
+| [[2026-06-21_雪球_服饰行业冰火两重天2026]] ⭐ NEW | 雪球深度：迅销H1溢利2,792.9亿(+19.6%)/优衣库中国881家单店×1.5/Inditex FY2025 398.64亿€/GAP中国复活/Mango+13% | competitor, financial, uniqlo, zara, gap, strategy |
+| [[2026-06-21_搜狐_AI服饰消费新纪元2026]] ⭐ NEW | 算法定义时尚：AI穿搭社媒78.4%正面/Z世代女性核心/虚拟试穿"质感还原"为灵魂/安踏AI365/SHEIN以销定产 | ai, virtual_tryon, consumer_behavior, genz, fashion_tech |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -373,5 +375,6 @@ updated: 2026-06-20 06:35
 | **71** | **06-19 15:32** | **L2_03/04/05** | **s6(门店系统/AI企微复购/AI培训排名/北森全场景/OTB采销公式/SCM白皮书)/c5更新(会员复购率/AI导陪/导培闭环/动态OTB/企划趋势)+c1更新(柔性供应链)/L3同步3处/织网10条** |
 
 | **72** | **06-20 06:35** | **L2_00/01/02** | **s3/e1新增(bienlefen)+e4更新(peacebird/hla/semir/fast_retailing)/c1更新(industry_q1)/co1更新(six_brands)/L3同步3处/织网17条/矛盾1处** |
+| **73** | **06-21 06:35** | **L2_00/01/02** | **s2/e1更新(fast_retailing)/c1更新(ai_virtual_tryon+AI穿搭消费者洞察)/L3同步2处/织网待执行/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

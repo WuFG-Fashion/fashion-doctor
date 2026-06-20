@@ -4,8 +4,8 @@ title: lululemon
 tags: [lululemon, competitor, athleisure, global, canada]
 sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md]
 created: 2026-06-07
-updated: 2026-06-20
-cross_refs: [[peacebird]], [[fast_retailing]], [[semir]], [[inditex_zara]], [[six_brands_2026q1]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-14_29家服装运动企业2026Q1财报全景]]
+updated: 2026-06-21
+cross_refs: [[peacebird]], [[fast_retailing]], [[semir]], [[inditex_zara]], [[six_brands_2026q1]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[2026-06-21_雪球_服饰行业冰火两重天2026]]
 ---
 
 # lululemon
