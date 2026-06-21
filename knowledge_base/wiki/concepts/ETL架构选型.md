@@ -4,8 +4,8 @@ title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06
-updated: 2026-06-18
-cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]]
+updated: 2026-06-22
+cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]]
 ---
 
 # ETL架构选型

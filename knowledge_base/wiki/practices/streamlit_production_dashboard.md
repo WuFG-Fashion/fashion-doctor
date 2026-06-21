@@ -2,10 +2,10 @@
 type: practice
 title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md]
 created: 2026-06-07
-updated: 2026-06-14
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]]
+updated: 2026-06-22
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]]
 ---
 
 # Streamlit生产级多品牌看板构建

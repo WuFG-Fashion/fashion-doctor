@@ -4,8 +4,8 @@ title: ETL治理一体化演进2026
 tags: [etl, data_governance, integration, data_quality, architecture, multi_brand]
 sources: [2026-06-12_帆软_ETL集成治理一体化]
 created: 2026-06-12
-updated: 2026-06-12
-cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]]
+updated: 2026-06-22
+cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]]
 ---
 
 # ETL治理一体化演进2026

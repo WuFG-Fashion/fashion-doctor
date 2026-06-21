@@ -283,3 +283,20 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 - **效率提升**：Pandas+SQL融合可缩短分析时间50%
 - **生产红线**：pandasql大数据较慢，生产环境必须用SQLAlchemy
 - 详见 [[python_sql_integration_patterns_2026]] [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]]
+
+## 2026年6月22日更新（C轮 L2_06/07采集）⭐
+
+### DuckDB 1.5 + Sirius GPU加速（来源：chenxutan，日期：**2026-04-08**，可信度：**高**）
+
+- **DuckDB 1.5.1**：ExtensionKit(C#扩展)/Parquet Bloom Filter(10-100x)/存储格式升级/musl+LoongArch
+- **Sirius GPU扩展**：NVIDIA GH200上ClickBench性价比7.2x / 零拷贝Arrow↔cuDF / Substrait格式桥梁
+- **GPU适用场景**：大规模聚合/多表JOIN/复杂正则(JIT编译13x)/重复查询GPU缓存
+- **SQL实战**：`SET sirius.enable_gpu = true` + `SET sirius.cache_tables = true`
+- 详见 [[duckdb_olap_engine_2026]] [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]]
+
+### 数据资产管理2026全景（来源：百家号，日期：**2026-06-02**，可信度：**高**）
+
+- **七大核心能力**：元数据/标准/质量/主数据/资产目录/安全合规/AI数据供给（2026新增）
+- **AI驱动升级**：人工工作量压缩40%/治理效率提升3倍/AI识别85%+质量问题
+- **数据分析关联**：数据资产管理为SQL分析提供可信数据基础——元数据不全→分析可信度低
+- 详见 [[data_asset_management_2026]] [[2026-06-21_数据资产管理全景指南2026]]

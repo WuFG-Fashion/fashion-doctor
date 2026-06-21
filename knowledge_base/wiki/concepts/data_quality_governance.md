@@ -4,8 +4,8 @@ title: 数据质量常态化治理
 tags: [data_quality, governance, monitoring, data_consistency, timeliness]
 sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026]
 created: 2026-06-06
-updated: 2026-06-12
-cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]]
+updated: 2026-06-22
+cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]]
 ---
 
 # 数据质量常态化治理

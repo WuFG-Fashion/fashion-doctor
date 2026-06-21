@@ -292,3 +292,27 @@ Fashion Doctor/
 - **瓴羊Dataphin全链路**：50+数据源/10+引擎/超级X智能全家桶/月结4x提升
 - **系统架构参考**：多品牌系统的数据治理层可参考百分点AI-DG(对话式降低门槛)或瓴羊Dataphin(全链路一体化)
 - 详见 [[data_governance_tech_routes_2026]] [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]] [[2026-06-15_ZOL_数据治理厂商智能协作交互横评]]
+
+## 2026年6月22日更新（C轮 L2_06/07采集）⭐
+
+### DuckDB 1.5 + Sirius GPU加速（来源：chenxutan，日期：**2026-04-08**，可信度：**高**）
+
+- **引擎升级**：DuckDB 1.5.1 ExtensionKit(C#扩展)/Parquet Bloom Filter(10-100x)；Sirius GPU扩展ClickBench 7.2x性价比
+- **架构参考**：零拷贝Arrow↔cuDF/Substrait桥梁/多节点多GPU扩展规划
+- **多品牌适用**：大规模聚合/JOIN可用GPU加速，百万级数据实时分析
+- 详见 [[duckdb_olap_engine_2026]] [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]]
+
+### 数据资产管理2026全景（来源：百家号，日期：**2026-06-02**，可信度：**高**）
+
+- **系统基础设施**：七大核心能力覆盖元数据→AI数据供给，人工工作量-40%/效率+300%
+- **多品牌系统关联**：数据资产管理为多品牌系统提供统一口径/标准/血缘，AI驱动质量自动识别
+- **选型参考**：普元易数(5星)/网易数帆/亿信华辰/盟拓 四厂商七维对比
+- 详见 [[data_asset_management_2026]] [[2026-06-21_数据资产管理全景指南2026]]
+
+### Streamlit v1.57-1.58 架构升级（来源：Streamlit官方，日期：**2026-05-28**，可信度：**高**）
+
+- **Starlette正式化**(v1.57)：Tornado→Starlette/Uvicorn默认，ASGI中间件支持(认证/限流/CORS)
+- **并行Fragment**(v1.58)：`@st.fragment(parallel=True)`多品牌Tab独立并发刷新
+- **Polars零拷贝**(v1.57)：Polars DataFrame直接Arrow直传Streamlit，绕过pandas转换
+- **新组件**：st.pagination(分页)/st.bottom(固定底部)/st.App.secrets(编程式注入)
+- 详见 [[streamlit_dashboard_2026]] [[2026-06-21_Streamlit_2026_H2_Starlette正式化]]

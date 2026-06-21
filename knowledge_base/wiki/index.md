@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-21 16:27
+updated: 2026-06-22 00:10
 ---
 
 # Fashion Doctor 知识库导航
@@ -77,17 +77,18 @@ updated: 2026-06-21 16:27
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
-| [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移+Polars Arrow零拷贝+新组件 | streamlit, production, caching, starlette |
+| [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移(v1.57正式)+Polars Arrow零拷贝+并行Fragment(v1.58) | streamlit, production, caching, starlette, parallel_fragment |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% + Kolors开源竞品/即梦双模型对比 | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
-| [[duckdb_olap_engine_2026]] ⭐ NEW | DuckDB嵌入式OLAP引擎：窗口函数10x/三引擎混合栈/Apache Arrow零拷贝 | duckdb, olap, sql, python |
+| [[duckdb_olap_engine_2026]] ⭐ UPDATED | DuckDB嵌入式OLAP引擎：1.5 ExtensionKit+Bloom Filter+Sirius GPU 7.2x性价比/零拷贝Arrow↔cuDF | duckdb, olap, sql, python, gpu |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
 | [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 | data_governance, platform, selection, vendor, ai_driven, market_size |
 | [[ai_fashion_market_2026]] ⭐ UPDATED | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道+IIM 2030年400亿美元累计投入/三层格局 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ NEW | Agentic Commerce/OpenAI×Target AI买手时代/4大创新场景 | ai, agentic_commerce, fashion_retail, nrf |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
-| [[ai_fashion_capability_2026]] ⭐ NEW | AI时尚六大能力2026：设计75-80%/Mango全面替代/Zara 2张照片/WhatsApp 36.8x ROAS | ai, fashion_design, virtual_tryon, supply_chain |
+| [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x) | data_governance, data_asset, ai_driven, dcmm |
 | [[china_apparel_2025_annual]] ⭐ UPDATED | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% + 月度轨迹(12月最惨/11月对美出口-23%) | industry, kpi, benchmark, 2025 |
+| [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x)/普元易数5星全生命周期 | data_governance, data_asset, ai_driven, dcmm, platform_selection |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -314,6 +315,9 @@ updated: 2026-06-21 16:27
 | [[2026-06-19_CSDN_2026企业AI陪练综合能力榜单]] ⭐ NEW | 500HR调研/9大平台排名：职行力96.5(用户1000万+)/钉学91.0/平安知鸟90.5/讯飞88.0 | guide, ai, coaching, training, tool_selection |
 | [[2026-01-28_搜狐_服装库存破局双轨制与ESG合规]] ⭐ NEW | 库存周转180天/利润15→7元/预防+消化双轨/ESG合规/库销比>2.5危险 | inventory, stock, turnover, esg, supply_chain |
 | [[2026-05-07_新浪财经_永辉SKU优化调改实践]] ⭐ NEW | 永辉SKU 16000+→8000-10000/淘汰56%供应商/3年100个亿元单品/四基石框架 | sku, merchandise, inventory, category_management, retail |
+| [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] ⭐ NEW | DuckDB 1.5.1+Sirius GPU：ClickBench 7.2x性价比/ExtensionKit C#扩展/Parquet Bloom Filter | duckdb, gpu, sirius, cudf, benchmark |
+| [[2026-06-21_数据资产管理全景指南2026]] ⭐ NEW | 2026数据资产管理全景：入表/AI驱动/七大能力/四厂商对比/人工-40% | data_governance, data_asset, ai_driven, platform_selection |
+| [[2026-06-21_Streamlit_2026_H2_Starlette正式化]] ⭐ NEW | Streamlit v1.57星链正式化+v1.58并行Fragment/st.pagination/Polars零拷贝 | streamlit, starlette, polars, parallel_fragment |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -381,5 +385,7 @@ updated: 2026-06-21 16:27
 | **72** | **06-20 06:35** | **L2_00/01/02** | **s3/e1新增(bienlefen)+e4更新(peacebird/hla/semir/fast_retailing)/c1更新(industry_q1)/co1更新(six_brands)/L3同步3处/织网17条/矛盾1处** |
 | **73** | **06-21 06:35** | **L2_00/01/02** | **s2/e1更新(fast_retailing)/c1更新(ai_virtual_tryon+AI穿搭消费者洞察)/L3同步2处/织网待执行/矛盾0处** |
 | **74** | **06-21 16:27** | **L2_03/04/05** | **s4(new)/c4更新(会员复购率/AI导陪/动态OTB/SKU)/L3同步5处/织网+矛盾1处** |
+
+**75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/L3同步2处/织网X条/矛盾X处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

@@ -2,10 +2,10 @@
 type: concept
 title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md]
 created: 2026-06-07
-updated: 2026-06-14
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]]
+updated: 2026-06-22
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -74,16 +74,21 @@ st.dataframe(data.iloc[page * page_size: (page+1) * page_size])
 
 ## v1.57 架构革命：Tornado → Starlette/Uvicorn
 
-2026年4月29日，Streamlit正式完成从Tornado到Starlette/Uvicorn的Web服务器迁移：
+2026年4月29日，Streamlit正式完成从Tornado到Starlette/Uvicorn的Web服务器迁移，这是2026年最大的底层变更：
 
 | 维度 | Tornado（旧） | Starlette/Uvicorn（新） |
 |------|:---:|:---:|
 | 异步模型 | 同步回调 | ASGI原生异步 |
 | Web框架集成 | 独立运行 | 可与FastAPI/Starlette集成 |
-| HTTP中间件 | 不支持 | 支持自定义中间件 |
+| HTTP中间件 | 不支持 | 支持自定义中间件（认证/限流/CORS） |
 | 生命周期钩子 | 无 | start/shutdown钩子 |
 | 性能 | 基准线 | 高并发提升 |
-| 路由控制 | 固定 | `st.App`暴露底层路由 |
+| 路由控制 | 固定 | `st.App`暴露底层路由+异常处理 |
+
+### 迁移时间线
+- **v1.53 (01-14)**：实验性`server.useStarlette` + `st.App`ASGI入口
+- **v1.57 (04-29)**：**Starlette/Uvicorn正式默认启用**，替代Tornado
+- **v1.58 (05-28)**：`st.App`支持自定义脚本异常处理器
 
 ### Polars Arrow零拷贝
 

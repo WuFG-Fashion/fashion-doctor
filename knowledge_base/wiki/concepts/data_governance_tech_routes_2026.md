@@ -4,8 +4,8 @@ title: 2026数据治理平台技术路线选型
 tags: [data_governance, platform, ai_native, cloud_native, modular, selection, vendor, mcp, retail]
 sources: [2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-11_百家号_数据治理AI驱动选型2026, 2026-06-13_CSDN_数据治理平台厂商全景2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026, 2026-06-15_CSDN_AI驱动数据治理全链路一体化, 2026-06-15_ZOL_数据治理厂商智能协作交互横评, 2026-06-18_百家号_2026数据治理性价比三档方案, 2026-06-18_百家号_15个数据治理品牌2026横评]
 created: 2026-06-09
-updated: 2026-06-18
-cross_refs: [[data_quality_governance]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[ETL架构选型]], [[apparel_ai_agents_2026]], [[retail_analytics_reporting_2026]], [[retail_bi_visualization_2026]], [[python_data_stack_decision_2026]]
+updated: 2026-06-22
+cross_refs: [[data_quality_governance]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[ETL架构选型]], [[apparel_ai_agents_2026]], [[retail_analytics_reporting_2026]], [[retail_bi_visualization_2026]], [[python_data_stack_decision_2026]], [[data_asset_management_2026]]
 ---
 
 # 2026数据治理平台技术路线选型

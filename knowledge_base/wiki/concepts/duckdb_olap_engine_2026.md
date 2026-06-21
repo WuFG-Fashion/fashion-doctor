@@ -2,10 +2,10 @@
 type: concept
 title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
-sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822]
+sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md]
 created: 2026-06-08
-updated: 2026-06-18
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]]
+updated: 2026-06-22
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -90,6 +90,52 @@ DuckDB → Polars → Pandas
 | 生态较新 | 不如Pandas生态成熟（ML库兼容性） |
 | 内存上限 | 虽支持磁盘溢出，但TB级需分片处理 |
 
+## DuckDB 1.5 新特性（2026年3月发布）
+
+| 特性 | 说明 | 影响 |
+|------|------|------|
+| **ExtensionKit** | 支持C#编写扩展 | 降低开发门槛，从"工具"→"平台" |
+| **Parquet Bloom Filter** | 自动跳过不相关数据块 | 百万行查询性能提升**10-100倍** |
+| **存储格式升级** | 可选新压缩算法（v1.2.0+格式） | 向后兼容，按需升级压缩比 |
+| **多平台支持** | musl C library + LoongArch | Alpine Linux/国产芯片原生支持 |
+
+## Sirius GPU加速扩展 ⭐ NEW
+
+### 架构
+- **最小侵入设计**：不修改DuckDB核心，作为扩展模块运行
+- **数据流**：DuckDB优化器→Substrait计划→Sirius格式→GPU(cuDF)→结果回传CPU
+- **零拷贝**：Sirius ↔ Arrow ↔ cuDF 三向零拷贝，消除PCIe传输瓶颈
+
+### ClickBench性能
+
+| 系统 | 相对执行时间 | 性价比提升 |
+|------|:----------:|:---------:|
+| **Sirius (GPU)** | **1.0** | **7.2x** |
+| Umbra | 1.3 | - |
+| DuckDB (CPU) | 2.1 | - |
+| ClickHouse | 2.4 | - |
+
+> 测试平台：NVIDIA GH200 Grace Hopper
+
+### 适用/不适用
+
+| ✅ 适用场景 | ❌ 不适用场景 |
+|------------|-------------|
+| 大规模聚合（GROUP BY/SUM/COUNT） | 小数据集（<100MB） |
+| 多表JOIN | 纯I/O瓶颈场景 |
+| 正则表达式/复杂过滤（JIT编译） | 全局Top-N排序 |
+| 重复查询（GPU缓存热数据） | 字符串密集操作 |
+
+### 实战配置
+
+```sql
+INSTALL sirius FROM community;
+LOAD sirius;
+SET sirius.enable_gpu = true;
+SET sirius.gpu_device = 0;
+SET sirius.cache_tables = true;   -- 热数据GPU缓存
+```
+
 ## 关联知识
 
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026选型]]
@@ -99,4 +145,5 @@ DuckDB → Polars → Pandas
 - [[streamlit_dashboard_2026|Streamlit生产级实践]]
 - [[data_library_selection_guide_2026|数据分析库选型决策指南]]
 - [[2026-06-09_Scopir_Python数据分析库2026横评]]
-- [[python_data_stack_decision_2026|Python数据栈边界决策框架]] ⭐ NEW
+- [[python_data_stack_decision_2026|Python数据栈边界决策框架]]
+- [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] ⭐ NEW
