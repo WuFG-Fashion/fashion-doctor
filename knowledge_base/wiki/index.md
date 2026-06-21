@@ -24,7 +24,7 @@ updated: 2026-06-22 00:10
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
-| [[bienlefen]] ⭐ NEW | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，16家A股同行盈利质量王 | brand, competitor, sportswear, premium |
+| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，16家A股同行盈利质量王 | brand, competitor, sportswear, premium |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，四大困境确认低增长调整期 | brand, competitor, athleisure |
 | [[jnby]] ⭐ NEW | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献超80% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -318,6 +318,9 @@ updated: 2026-06-22 00:10
 | [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] ⭐ NEW | DuckDB 1.5.1+Sirius GPU：ClickBench 7.2x性价比/ExtensionKit C#扩展/Parquet Bloom Filter | duckdb, gpu, sirius, cudf, benchmark |
 | [[2026-06-21_数据资产管理全景指南2026]] ⭐ NEW | 2026数据资产管理全景：入表/AI驱动/七大能力/四厂商对比/人工-40% | data_governance, data_asset, ai_driven, platform_selection |
 | [[2026-06-21_Streamlit_2026_H2_Starlette正式化]] ⭐ NEW | Streamlit v1.57星链正式化+v1.58并行Fragment/st.pagination/Polars零拷贝 | streamlit, starlette, polars, parallel_fragment |
+| [[2026-06-22_Genlook_12大AI时尚趋势2026]] ⭐ NEW | Genlook 12大AI时尚趋势2026：GenAI购物+4700%/VTO市场$85B/转化+35%/60%品牌用AI内容 | ai, virtual_tryon, fashion_ecommerce, agentic_commerce, vto, geo |
+| [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]] ⭐ NEW | 搜狐零售AI三阶段：IT(1.0)→数字化(2.0)→AI-Agentic(3.0)/中国零售AI四层架构 | ai, agent, retail, framework, maturity_model |
+| [[2026-06-22_新浪财经_比音勒芬2025年年报]] ⭐ NEW | 比音勒芬2025FY：营收43.14亿(+7.73%)/净利5.51亿(-29.46%)/毛利率75.09%/费用率58.63% | bienlefen, competitor, financial, 2025FY |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -387,5 +390,6 @@ updated: 2026-06-22 00:10
 | **74** | **06-21 16:27** | **L2_03/04/05** | **s4(new)/c4更新(会员复购率/AI导陪/动态OTB/SKU)/L3同步5处/织网+矛盾1处** |
 
 **75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/p2更新/L3同步2处/织网12条/矛盾0处** |
+| **76** | **06-22 06:35** | **L2_00/01/02** | **s3/e1更新(bienlefen:Fy2025数据)+c2更新(ai_virtual_tryon:Genlook $85B/apparel_ai_agents:三阶段模型)/L3同步3处/织网6条回链/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
