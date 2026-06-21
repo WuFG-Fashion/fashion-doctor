@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-21 06:35
+updated: 2026-06-21 16:27
 ---
 
 # Fashion Doctor 知识库导航
@@ -310,6 +310,10 @@ updated: 2026-06-21 06:35
 | [[2026-06-19_服装供应链SCM白皮书2026]] ⭐ NEW | 时尚CIO：400+品牌实践/交期-22%/库存+30%/采购成本-3-5%/高梵快反3天/江南布衣三方协同 | supply_chain, scm, merchandise, agile, resilience |
 | [[2026-06-21_雪球_服饰行业冰火两重天2026]] ⭐ NEW | 雪球深度：迅销H1溢利2,792.9亿(+19.6%)/优衣库中国881家单店×1.5/Inditex FY2025 398.64亿€/GAP中国复活/Mango+13% | competitor, financial, uniqlo, zara, gap, strategy |
 | [[2026-06-21_搜狐_AI服饰消费新纪元2026]] ⭐ NEW | 算法定义时尚：AI穿搭社媒78.4%正面/Z世代女性核心/虚拟试穿"质感还原"为灵魂/安踏AI365/SHEIN以销定产 | ai, virtual_tryon, consumer_behavior, genz, fashion_tech |
+| [[2026-06-19_百家号_零售会员系统功能需求与实施]] ⭐ NEW | 2026零售会员系统7大功能+5步落地+5平台横评(乔拓云9.8/年均744.5元) | vip, membership, system_selection, private_domain |
+| [[2026-06-19_CSDN_2026企业AI陪练综合能力榜单]] ⭐ NEW | 500HR调研/9大平台排名：职行力96.5(用户1000万+)/钉学91.0/平安知鸟90.5/讯飞88.0 | guide, ai, coaching, training, tool_selection |
+| [[2026-01-28_搜狐_服装库存破局双轨制与ESG合规]] ⭐ NEW | 库存周转180天/利润15→7元/预防+消化双轨/ESG合规/库销比>2.5危险 | inventory, stock, turnover, esg, supply_chain |
+| [[2026-05-07_新浪财经_永辉SKU优化调改实践]] ⭐ NEW | 永辉SKU 16000+→8000-10000/淘汰56%供应商/3年100个亿元单品/四基石框架 | sku, merchandise, inventory, category_management, retail |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -376,5 +380,6 @@ updated: 2026-06-21 06:35
 
 | **72** | **06-20 06:35** | **L2_00/01/02** | **s3/e1新增(bienlefen)+e4更新(peacebird/hla/semir/fast_retailing)/c1更新(industry_q1)/co1更新(six_brands)/L3同步3处/织网17条/矛盾1处** |
 | **73** | **06-21 06:35** | **L2_00/01/02** | **s2/e1更新(fast_retailing)/c1更新(ai_virtual_tryon+AI穿搭消费者洞察)/L3同步2处/织网待执行/矛盾0处** |
+| **74** | **06-21 16:27** | **L2_03/04/05** | **s4(new)/c4更新(会员复购率/AI导陪/动态OTB/SKU)/L3同步5处/织网+矛盾1处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

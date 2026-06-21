@@ -3,10 +3,10 @@ type: practice
 title: 服装SKU进销存管理实操
 tags: [sku, inventory, replenishment, practice, sql]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-21
 sources:
   - 2026-06-06_简道云_服装SKU进销存管理
-cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[SQL查询性能优化]], [[动态OTB管理]]
+cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[SQL查询性能优化]], [[动态OTB管理]], [[2026-01-28_搜狐_服装库存破局双轨制与ESG合规]], [[2026-05-07_新浪财经_永辉SKU优化调改实践]]
 ---
 
 # 服装SKU进销存管理实操
