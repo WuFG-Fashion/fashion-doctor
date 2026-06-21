@@ -54,3 +54,4 @@ created: 2026-06-05
 | 2026-06-21 02:33 | optimize | lint(断链7/孤岛0/矛盾8/过期0/分类0)+织网+索引 |
 | 2026-06-21 06:35 | ingestA | L2_00/01/02 — 采集2篇/织网6条/矛盾0处 (raw2→s2:雪球+搜狐AI服饰→e1更新:fast_retailing→c1更新:ai_virtual_tryon→L3同步2处) |
 | 2026-06-21 16:27 | ingestB | L2_03/04/05 — 采集4篇/织网9条/矛盾1处 (raw4→s4→c4更新:会员复购率/AI导陪/动态OTB/SKU→L3同步5处) |
+| 2026-06-22 00:10 | ingestC | L2_06/07+查漏 — 采集3篇/织网12条/矛盾0处 (raw3→s3→c1新增:data_asset_management+c2更新:duckdb Sirius GPU/streamlit Starlette→p2更新→L3同步2处→Git:9f6910c) |

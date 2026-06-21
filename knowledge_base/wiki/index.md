@@ -386,6 +386,6 @@ updated: 2026-06-22 00:10
 | **73** | **06-21 06:35** | **L2_00/01/02** | **s2/e1更新(fast_retailing)/c1更新(ai_virtual_tryon+AI穿搭消费者洞察)/L3同步2处/织网待执行/矛盾0处** |
 | **74** | **06-21 16:27** | **L2_03/04/05** | **s4(new)/c4更新(会员复购率/AI导陪/动态OTB/SKU)/L3同步5处/织网+矛盾1处** |
 
-**75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/L3同步2处/织网X条/矛盾X处** |
+**75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/p2更新/L3同步2处/织网12条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
