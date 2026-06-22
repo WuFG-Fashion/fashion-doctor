@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-22 00:10
+updated: 2026-06-23 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -321,6 +321,9 @@ updated: 2026-06-22 00:10
 | [[2026-06-22_Genlook_12大AI时尚趋势2026]] ⭐ NEW | Genlook 12大AI时尚趋势2026：GenAI购物+4700%/VTO市场$85B/转化+35%/60%品牌用AI内容 | ai, virtual_tryon, fashion_ecommerce, agentic_commerce, vto, geo |
 | [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]] ⭐ NEW | 搜狐零售AI三阶段：IT(1.0)→数字化(2.0)→AI-Agentic(3.0)/中国零售AI四层架构 | ai, agent, retail, framework, maturity_model |
 | [[2026-06-22_新浪财经_比音勒芬2025年年报]] ⭐ NEW | 比音勒芬2025FY：营收43.14亿(+7.73%)/净利5.51亿(-29.46%)/毛利率75.09%/费用率58.63% | bienlefen, competitor, financial, 2025FY |
+| [[2026-06-22_Bain_Agentic_AI零售2026]] ⭐ NEW | Bain 2026：Agentic AI自主购物重构客户旅程，Rufus $120亿/信任×3/三大战略回应 | ai, agentic_commerce, retail, bain |
+| [[2026-06-22_世界服装鞋帽网_服装业倒春寒2026]] ⭐ NEW | 2026年6月服装业"倒春寒"：折扣提前至6月/4月零售-14.51%/K型分化/四维实操 | industry, inventory, discount, kpi |
+| [[2026-06-22_东方财富_比音勒芬618线上爆发]] ⭐ NEW | 比音勒芬618全线上翻倍+，抖音+337%/天猫+126%/京东20x+，线上占比仅10% | bienlefen, competitor, ecommerce, 618 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -391,5 +394,6 @@ updated: 2026-06-22 00:10
 
 **75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/p2更新/L3同步2处/织网12条/矛盾0处** |
 | **76** | **06-22 06:35** | **L2_00/01/02** | **s3/e1更新(bienlefen:Fy2025数据)+c2更新(ai_virtual_tryon:Genlook $85B/apparel_ai_agents:三阶段模型)/L3同步3处/织网6条回链/矛盾0处** |
+| **77** | **06-23 06:35** | **L2_00/01/02** | **s3(Bain Agentic AI/倒春寒/比音勒芬618)+e1更新(bienlefen)+c2更新(agentic_commerce/industry_q1)/L3同步3处/织网6条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

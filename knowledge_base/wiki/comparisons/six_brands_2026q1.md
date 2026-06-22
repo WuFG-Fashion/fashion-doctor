@@ -5,7 +5,7 @@ tags: [competitor, financial, comparison, peacebird, hla, semir, zara, uniqlo, l
 sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md, 2026-06-14_29家服装运动企业2026Q1财报全景.md, 2026-06-14_滔搏FY2026全年业绩257亿.md, 2026-06-14_H&M2026Q1库存降16%.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md]
 created: 2026-06-07
 updated: 2026-06-21
-cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[hm]], [[top_sports]], [[four_brands_2025]], [[three_brands_mid2026]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-12_新浪财经_29家服装企业2026Q1全景]], [[jnby]], [[lilanz]], [[2026-06-13_CFW时尚_lululemon_FY2026Q1更新]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]], [[2026-06-08_网易_29家服装运动企业2026Q1业绩汇总]], [[2026-05-11_羊毛市场_16家A股服装企业2026Q1财报]], [[bienlefen]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-22_新浪财经_比音勒芬2025年年报]]
+cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailing]], [[lululemon]], [[hm]], [[top_sports]], [[four_brands_2025]], [[three_brands_mid2026]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-12_新浪财经_29家服装企业2026Q1全景]], [[jnby]], [[lilanz]], [[2026-06-13_CFW时尚_lululemon_FY2026Q1更新]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]], [[2026-06-08_网易_29家服装运动企业2026Q1业绩汇总]], [[2026-05-11_羊毛市场_16家A股服装企业2026Q1财报]], [[bienlefen]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-22_新浪财经_比音勒芬2025年年报]], [[2026-06-22_东方财富_比音勒芬618线上爆发]]
 ---
 
 # 八品牌2026Q1财务对比
