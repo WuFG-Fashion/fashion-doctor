@@ -4,8 +4,8 @@ title: 滔搏国际（TOP SPORTS）
 tags: [topsports, sportswear, retail_agent, nike, adidas, hk_listed]
 sources: [raw/articles/2026-06-14_百家号_滔搏FY2026全年业绩257亿.md]
 created: 2026-06-14
-updated: 2026-06-14
-cross_refs: [[服装行业竞争格局]], [[six_brands_2026q1]], [[china_apparel_industry_2026q1]]
+updated: 2026-06-24
+cross_refs: [[服装行业竞争格局]], [[six_brands_2026q1]], [[china_apparel_industry_2026q1]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
 ---
 
 # 滔搏国际（TOP SPORTS）

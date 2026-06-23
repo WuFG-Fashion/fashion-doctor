@@ -2,10 +2,10 @@
 type: entity
 title: 迅销（优衣库）
 tags: [uniqlo, fast_retailing, competitor, global, japan]
-sources: [2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md, 2026-06-21_雪球_服饰行业冰火两重天2026.md]
+sources: [2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md, 2026-06-21_雪球_服饰行业冰火两重天2026.md, 2026-06-24_RetailWatch_29品牌2026Q1业绩更新.md]
 created: 2026-06-05
-updated: 2026-06-21
-cross_refs: [[peacebird]], [[inditex_zara]], [[muson_gxg]], [[four_brands_2025]], [[three_brands_mid2026]], [[six_brands_2026q1]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[hm]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]], [[2026-06-21_雪球_服饰行业冰火两重天2026]]
+updated: 2026-06-24
+cross_refs: [[peacebird]], [[inditex_zara]], [[muson_gxg]], [[four_brands_2025]], [[three_brands_mid2026]], [[six_brands_2026q1]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-12_Inditex_ZARA_FY2026Q1运营深度]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[hm]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
 ---
 
 # 迅销/优衣库 (06288.HK / 9983.T)

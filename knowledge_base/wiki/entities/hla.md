@@ -7,7 +7,8 @@ founded: 1997
 headquarters: 江阴
 listed: 上交所(600398.SH)
 created: 2026-06-06
-updated: 2026-06-20
+updated: 2026-06-24
+cross_refs: [[semir]], [[peacebird]], [[six_brands_2026q1]], [[menswear_brands_2026q1]], [[apparel_inventory_benchmark_2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
 sources:
   - 2026-06-06_海澜之家2025年报
   - 2026-06-11_百家号_海澜之家冲刺港股A+H上市.md

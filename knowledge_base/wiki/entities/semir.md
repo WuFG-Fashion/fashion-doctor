@@ -7,7 +7,8 @@ founded: 1996
 headquarters: 温州
 listed: 深交所(002563.SZ)
 created: 2026-06-06
-updated: 2026-06-20
+updated: 2026-06-24
+cross_refs: [[hla]], [[peacebird]], [[six_brands_2026q1]], [[menswear_brands_2026q1]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
 sources:
   - 2026-06-06_森马2026Q1
   - 2026-06-11_同花顺_森马服饰2026Q1业绩深度分析.md

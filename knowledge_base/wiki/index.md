@@ -59,6 +59,7 @@ updated: 2026-06-23 17:53
 | [[etl_governance_convergence_2026]] ⭐ NEW | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 | etl, data_governance, integration, architecture |
 | [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
 | [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
+| [[apparel_ai_policy_2026]] ⭐ NEW | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -329,6 +330,8 @@ updated: 2026-06-23 17:53
 | [[2026-06-23_CSDN_2026企业AI陪练500HR调研榜单]] ⭐ NEW | CSDN 500HR调研9大平台排名：职行力96.5/1000万用户领跑 | ai, coaching, ranking, hr_tech |
 | [[2026-06-23_51CTO_服装趋势预测四大渠道横评]] ⭐ NEW | 51CTO四大趋势渠道横评：知衣1000亿+数据/40万+店铺/小时级更新 | merchandise, trend, planning, zhiyi |
 | [[2026-06-23_搜狐_服装电商AI全链路工作流]] ⭐ NEW | 搜狐全链路五环节AI工具矩阵：爆款命中率+60%/商拍成本→40元 | ai, fashion_design, ecommerce, zhiyi |
+| [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]] ⭐ NEW | Retail Watch 29家全球服装运动品牌Q1：亚瑟士+47.2%领跑/迅销H1营业利润4006.66亿确认/Gap+75.6% | competitor, financial, global, q1 |
+| [[2026-06-24_五部门_AI纺织行动方案2026-2028]] ⭐ NEW | 五部门"AI+纺织"首次写入国家级方案，2028年培育≥25个卓越品牌，点名AI视觉检测/智能质检 | policy, ai, textile, national_strategy |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -401,5 +404,6 @@ updated: 2026-06-23 17:53
 | **76** | **06-22 06:35** | **L2_00/01/02** | **s3/e1更新(bienlefen:Fy2025数据)+c2更新(ai_virtual_tryon:Genlook $85B/apparel_ai_agents:三阶段模型)/L3同步3处/织网6条回链/矛盾0处** |
 | **77** | **06-23 06:35** | **L2_00/01/02** | **s3(Bain Agentic AI/倒春寒/比音勒芬618)+e1更新(bienlefen)+c2更新(agentic_commerce/industry_q1)/L3同步3处/织网6条/矛盾0处** |
 | **78** | **06-23 17:53** | **L2_03/04/05** | **s5(new)/c5更新(会员复购率/AI导陪/导培闭环/企划趋势/动态OTB)/L3同步5处/织网待执行** |
+| **79** | **06-24 06:35** | **L2_00/01/02** | **s2(Retail Watch 29品牌Q1+五部门AI纺织)/c1新增(纺织服装AI国家政策)+c3更新(retail_ai_adoption/apparel_ai_agents/ai_fashion_market/ai_fashion_design/industry_q1)/e3更新(fast_retailing/lululemon)/L3同步3处/织网10条/矛盾1处(迅销营业利润3869→4006.66)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
