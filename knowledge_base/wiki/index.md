@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-23 06:35
+updated: 2026-06-23 17:53
 ---
 
 # Fashion Doctor 知识库导航
@@ -324,6 +324,11 @@ updated: 2026-06-23 06:35
 | [[2026-06-22_Bain_Agentic_AI零售2026]] ⭐ NEW | Bain 2026：Agentic AI自主购物重构客户旅程，Rufus $120亿/信任×3/三大战略回应 | ai, agentic_commerce, retail, bain |
 | [[2026-06-22_世界服装鞋帽网_服装业倒春寒2026]] ⭐ NEW | 2026年6月服装业"倒春寒"：折扣提前至6月/4月零售-14.51%/K型分化/四维实操 | industry, inventory, discount, kpi |
 | [[2026-06-22_东方财富_比音勒芬618线上爆发]] ⭐ NEW | 比音勒芬618全线上翻倍+，抖音+337%/天猫+126%/京东20x+，线上占比仅10% | bienlefen, competitor, ecommerce, 618 |
+| [[2026-06-23_乔拓云_私域商城会员运营复购提升]] ⭐ NEW | 乔拓云2026会员运营指南：三大破局+四步复购法+自动化营销体系 | vip, membership, private_domain, repurchase |
+| [[2026-06-23_Megaview_零售导购四步带教法]] ⭐ NEW | Megaview四步带教法+AI陪练双轨赋能，73%/68%/63%行业数据基准 | guide, training, ai, coaching, megaview |
+| [[2026-06-23_CSDN_2026企业AI陪练500HR调研榜单]] ⭐ NEW | CSDN 500HR调研9大平台排名：职行力96.5/1000万用户领跑 | ai, coaching, ranking, hr_tech |
+| [[2026-06-23_51CTO_服装趋势预测四大渠道横评]] ⭐ NEW | 51CTO四大趋势渠道横评：知衣1000亿+数据/40万+店铺/小时级更新 | merchandise, trend, planning, zhiyi |
+| [[2026-06-23_搜狐_服装电商AI全链路工作流]] ⭐ NEW | 搜狐全链路五环节AI工具矩阵：爆款命中率+60%/商拍成本→40元 | ai, fashion_design, ecommerce, zhiyi |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -395,5 +400,6 @@ updated: 2026-06-23 06:35
 **75** | **06-22 00:10** | **L2_06/07+查漏** | **s3/c1新增(data_asset_management)+c2更新(duckdb GPU+streamlit Starlette)/p2更新/L3同步2处/织网12条/矛盾0处** |
 | **76** | **06-22 06:35** | **L2_00/01/02** | **s3/e1更新(bienlefen:Fy2025数据)+c2更新(ai_virtual_tryon:Genlook $85B/apparel_ai_agents:三阶段模型)/L3同步3处/织网6条回链/矛盾0处** |
 | **77** | **06-23 06:35** | **L2_00/01/02** | **s3(Bain Agentic AI/倒春寒/比音勒芬618)+e1更新(bienlefen)+c2更新(agentic_commerce/industry_q1)/L3同步3处/织网6条/矛盾0处** |
+| **78** | **06-23 17:53** | **L2_03/04/05** | **s5(new)/c5更新(会员复购率/AI导陪/导培闭环/企划趋势/动态OTB)/L3同步5处/织网待执行** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
