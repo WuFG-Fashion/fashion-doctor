@@ -4,8 +4,8 @@ title: 四大品牌2025/2026财务对比
 tags: [competitor, financial, comparison, peacebird, gxg, uniqlo, zara]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-05_慕尚集团_GXG2025年报.md, 2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-05_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05
-updated: 2026-06-05
-cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[服装行业竞争格局]], [[china_apparel_industry_2026q1|行业KPI基准]]
+updated: 2026-06-25
+cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[服装行业竞争格局]], [[china_apparel_industry_2026q1|行业KPI基准]], [[2026-06-10_观察者网_ZARA中国旗舰店战略转型]]
 ---
 
 # 四大品牌 2025/2026 财务对比

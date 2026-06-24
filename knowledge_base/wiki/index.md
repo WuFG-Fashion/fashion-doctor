@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-24 23:08
+updated: 2026-06-25 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -336,6 +336,9 @@ updated: 2026-06-24 23:08
 | [[2026-06-24_2026主流ETL工具横向评测]] ⭐ NEW | SegmentFault：Kettle/DataX/Informatica/DataStage/FDL/ETLCloud六款9维评测+场景选型 | etl, tool_selection, multi_brand, data_warehouse |
 | [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]] ⭐ NEW | CSDN：Polars 2.0+Arrow 18.0零拷贝清洗2-7x加速+GPU Offload A100实测+企业级特性前瞻 | polars, arrow, gpu, zero_copy, etl |
 | [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]] ⭐ NEW | Streamlit官方：6个版本完整changelog，Starlette正式化/并行Fragment/Polars零拷贝/AI Skills CLI | streamlit, starlette, parallel_fragment, production |
+| [[2026-06-10_观察者网_ZARA中国旗舰店战略转型]] ⭐ NEW | ZARA中国旗舰店战略：Q2+11.5%/利润增速首次低于收入/Capex 27亿€/Massimo Dutti接手Tiffany铺位 | competitor, zara, inditex, fast_fashion, brand_strategy |
+| [[2026-06-22_国信证券_纺织服装6月投资策略]] ⭐ NEW | 国信证券6月策略：5月服装社零+3.8%/电商K型分化/比音勒芬+84%/海外品牌库存比 | industry, kpi, ecommerce, benchmark |
+| [[2026-06-24_全球纺织网_竞品最新动态汇总]] ⭐ NEW | GAP中国连续两季盈利/比音勒芬Snow Peak/耐克抖音58%/江南布衣碳中和/巴拉巴拉Gore-Tex | competitor, brand, gap, bienlefen, jnby, nike |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -410,5 +413,6 @@ updated: 2026-06-24 23:08
 | **78** | **06-23 17:53** | **L2_03/04/05** | **s5(new)/c5更新(会员复购率/AI导陪/导培闭环/企划趋势/动态OTB)/L3同步5处/织网待执行** |
 | **79** | **06-24 06:35** | **L2_00/01/02** | **s2(Retail Watch 29品牌Q1+五部门AI纺织)/c1新增(纺织服装AI国家政策)+c3更新(retail_ai_adoption/apparel_ai_agents/ai_fashion_market/ai_fashion_design/industry_q1)/e3更新(fast_retailing/lululemon)/L3同步3处/织网10条/矛盾1处(迅销营业利润3869→4006.66)** |
 | **80** | **06-24 23:08** | **L2_06/07+查漏** | **s4(DuckDB vs Polars基准/ETL工具横评/Polars+Arrow深度协同/Streamlit全版本)/c4更新(duckdb+polars+streamlit+ETL架构)/p2更新/织网8条/矛盾0处** |
+| **81** | **06-25 06:35** | **L2_00/01/02** | **s3(国信证券6月策略+竞品最新动态+ZARA旗舰店战略)/e3更新(bienlefen/inditex_zara/jnby)/c1更新(industry_q1)/L3同步3处/织网8条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
