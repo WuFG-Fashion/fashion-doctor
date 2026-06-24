@@ -4,8 +4,8 @@ title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
 sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md]
 created: 2026-06-08
-updated: 2026-06-22
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]]
+updated: 2026-06-24
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -136,6 +136,24 @@ SET sirius.gpu_device = 0;
 SET sirius.cache_tables = true;   -- 热数据GPU缓存
 ```
 
+## DuckDB vs Polars 单机基准对比（2026-03 新增）⭐
+
+PyInns 2026年3月实测，覆盖1亿-10亿行数据集（单节点M3 Max / Ryzen 7950X）：
+
+| 操作 | DuckDB | Polars | 优胜 |
+|------|--------|--------|:---:|
+| 10GB Parquet读取 | 2-6s | 1.5-5s | Polars |
+| 5亿行Join+Window+Agg | 8-25s | 10-35s | DuckDB |
+| 10亿行GroupBy+FIlter | 15-40s | 12-35s | Polars |
+| 5亿行峰值内存 | 2-6GB | 1.5-5GB | Polars |
+| 超内存流式 | 自动spill | streaming=True | 平手 |
+
+### 决策规则（2026年）
+
+- SQL-first / BI报表 → **DuckDB**（类PostgreSQL体验，MotherDuck云）
+- Python ETL管道 / DataFrame风格 → **Polars**（Lazy API，uv+Ruff生态）
+- 两者都需要 → **混合**：Arrow零拷贝互转 `duckdb.sql("...").pl()`
+
 ## 关联知识
 
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026选型]]
@@ -147,3 +165,4 @@ SET sirius.cache_tables = true;   -- 热数据GPU缓存
 - [[2026-06-09_Scopir_Python数据分析库2026横评]]
 - [[python_data_stack_decision_2026|Python数据栈边界决策框架]]
 - [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] ⭐ NEW
+- [[2026-06-24_DuckDB_vs_Polars_2026基准对比]] ⭐ NEW

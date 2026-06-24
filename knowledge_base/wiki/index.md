@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-23 17:53
+updated: 2026-06-24 23:08
 ---
 
 # Fashion Doctor 知识库导航
@@ -332,6 +332,10 @@ updated: 2026-06-23 17:53
 | [[2026-06-23_搜狐_服装电商AI全链路工作流]] ⭐ NEW | 搜狐全链路五环节AI工具矩阵：爆款命中率+60%/商拍成本→40元 | ai, fashion_design, ecommerce, zhiyi |
 | [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]] ⭐ NEW | Retail Watch 29家全球服装运动品牌Q1：亚瑟士+47.2%领跑/迅销H1营业利润4006.66亿确认/Gap+75.6% | competitor, financial, global, q1 |
 | [[2026-06-24_五部门_AI纺织行动方案2026-2028]] ⭐ NEW | 五部门"AI+纺织"首次写入国家级方案，2028年培育≥25个卓越品牌，点名AI视觉检测/智能质检 | policy, ai, textile, national_strategy |
+| [[2026-06-24_DuckDB_vs_Polars_2026基准对比]] ⭐ NEW | PyInns：DuckDB 1.2+ vs Polars 1.x 单节点1亿-10亿行基准对比，Arrow零拷贝混合方案 | duckdb, polars, benchmark, python |
+| [[2026-06-24_2026主流ETL工具横向评测]] ⭐ NEW | SegmentFault：Kettle/DataX/Informatica/DataStage/FDL/ETLCloud六款9维评测+场景选型 | etl, tool_selection, multi_brand, data_warehouse |
+| [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]] ⭐ NEW | CSDN：Polars 2.0+Arrow 18.0零拷贝清洗2-7x加速+GPU Offload A100实测+企业级特性前瞻 | polars, arrow, gpu, zero_copy, etl |
+| [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]] ⭐ NEW | Streamlit官方：6个版本完整changelog，Starlette正式化/并行Fragment/Polars零拷贝/AI Skills CLI | streamlit, starlette, parallel_fragment, production |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -405,5 +409,6 @@ updated: 2026-06-23 17:53
 | **77** | **06-23 06:35** | **L2_00/01/02** | **s3(Bain Agentic AI/倒春寒/比音勒芬618)+e1更新(bienlefen)+c2更新(agentic_commerce/industry_q1)/L3同步3处/织网6条/矛盾0处** |
 | **78** | **06-23 17:53** | **L2_03/04/05** | **s5(new)/c5更新(会员复购率/AI导陪/导培闭环/企划趋势/动态OTB)/L3同步5处/织网待执行** |
 | **79** | **06-24 06:35** | **L2_00/01/02** | **s2(Retail Watch 29品牌Q1+五部门AI纺织)/c1新增(纺织服装AI国家政策)+c3更新(retail_ai_adoption/apparel_ai_agents/ai_fashion_market/ai_fashion_design/industry_q1)/e3更新(fast_retailing/lululemon)/L3同步3处/织网10条/矛盾1处(迅销营业利润3869→4006.66)** |
+| **80** | **06-24 23:08** | **L2_06/07+查漏** | **s4(DuckDB vs Polars基准/ETL工具横评/Polars+Arrow深度协同/Streamlit全版本)/c4更新(duckdb+polars+streamlit+ETL架构)/p2更新/织网8条/矛盾0处** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

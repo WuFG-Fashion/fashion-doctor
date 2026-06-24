@@ -4,8 +4,8 @@ title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06
-updated: 2026-06-22
-cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]]
+updated: 2026-06-24
+cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-06-24_2026主流ETL工具横向评测]]
 ---
 
 # ETL架构选型
@@ -137,3 +137,39 @@ cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]],
 ## 关联知识
 - [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]]
 - [[data_lakehouse_2026|湖仓一体与ETL新四化]]
+
+## 2026主流ETL工具横向评测九维对比（2026-06新增）⭐
+
+SegmentFault 2026年3月对Kettle/DataX/Informatica/DataStage/FineDataLink/ETLCloud六款工具9维评测：
+
+| 指标 | Kettle | DataX | Informatica | DataStage | FDL | ETLCloud |
+|------|:---:|:---:|:---:|:---:|:---:|:---:|
+| 离线ETL | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★★★ |
+| 实时CDC | ★☆☆☆☆ | ☆☆☆☆☆ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★★★★ |
+| 调度编排 | ★★★☆☆ | ☆☆☆☆☆ | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★★★ |
+| 数据服务API | ☆☆☆☆☆ | ☆☆☆☆☆ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★★★★ |
+| 可视化程度 | ★★★☆☆ | ★☆☆☆☆ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★★★ |
+| 易用性 | ★★★☆☆ | ★★☆☆☆ | ★★★☆☆ | ★★☆☆☆ | ★★★★☆ | ★★★★★ |
+| 性能表现 | ★★★☆☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★☆☆ | ★★★★☆ |
+| 成本友好 | ★★★★★ | ★★★★★ | ★☆☆☆☆ | ★☆☆☆☆ | ★★★☆☆ | ★★★★★ |
+| 国产化 | ★★★★☆ | ★★★★★ | ★☆☆☆☆ | ★☆☆☆☆ | ★★★★★ | ★★★★★ |
+
+### 场景化选型速查
+
+| 场景 | 首选 | 备选 | 关键约束 |
+|------|------|------|---------|
+| 创业公司 | ETLCloud社区版 | DataX | 零成本+可视化 |
+| 中型数仓 | ETLCloud商业版 | FineDataLink | 功能+成本平衡 |
+| 大型金融 | Informatica | ETLCloud企业版 | 稳定性/安全/合规 |
+| 实时集成 | ETLCloud CDC | Informatica | CDC原生支持 |
+| 国产化替代 | ETLCloud | FineDataLink | 信创兼容 |
+
+### 服装零售ETL选型适配
+
+| 需求 | 推荐 | 理由 |
+|------|------|------|
+| POS实时同步 | ETLCloud CDC | 门店POS→数仓秒级 |
+| 多品牌ERP批量对齐 | DataX+ETLCloud | 大批量离线+调度 |
+| 历史数据入仓 | ETLCloud整库同步 | 断点续传+自动调度 |
+| 数据分析API | ETLCloud数据服务 | 一键发布，报表消费 |
+| 低成本起步 | Kettle | 开源免费，社区活跃 |
