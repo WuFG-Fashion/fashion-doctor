@@ -339,6 +339,12 @@ updated: 2026-06-25 06:35
 | [[2026-06-10_观察者网_ZARA中国旗舰店战略转型]] ⭐ NEW | ZARA中国旗舰店战略：Q2+11.5%/利润增速首次低于收入/Capex 27亿€/Massimo Dutti接手Tiffany铺位 | competitor, zara, inditex, fast_fashion, brand_strategy |
 | [[2026-06-22_国信证券_纺织服装6月投资策略]] ⭐ NEW | 国信证券6月策略：5月服装社零+3.8%/电商K型分化/比音勒芬+84%/海外品牌库存比 | industry, kpi, ecommerce, benchmark |
 | [[2026-06-24_全球纺织网_竞品最新动态汇总]] ⭐ NEW | GAP中国连续两季盈利/比音勒芬Snow Peak/耐克抖音58%/江南布衣碳中和/巴拉巴拉Gore-Tex | competitor, brand, gap, bienlefen, jnby, nike |
+| [[2026-06-25_零售会员系统7大功能5步落地]] ⭐ NEW | 2026零售会员系统7功能+5步落地+5平台横评(乔拓云9.8/彼确定制9.2) | vip, membership, system_selection |
+| [[2026-06-25_私域商城复购权益设计三大逻辑]] ⭐ NEW | 复购权益三大逻辑：分层精准化+价值具象化+情感绑定化 | vip, repurchase, loyalty_design |
+| [[2026-06-25_CSDN_2026企业AI陪练综合能力榜单]] ⭐ NEW | CSDN 500HR调研9平台排名：职行力96.5/钉学91.0/平安知鸟90.5 | guide, ai, coaching, ranking |
+| [[2026-06-25_POS_AI智能搭配推荐服装门店]] ⭐ NEW | 丽晶POS+AI搭配引擎：客单价+30-50%/人机协同 | guide, ai, pos, lijing |
+| [[2026-06-25_服饰行业全渠道OMS库存策略]] ⭐ NEW | 商派一盘货+分渠分级+智能履约三策略/WOS模型 | otb, inventory, omnichannel, oms |
+| [[2026-06-25_服装数字化供应链政策与服务商]] ⭐ NEW | 工信部三政策+领猫/赛趋科/用友/金蝶四大SCM选型 | supply_chain, policy, vendor, scm |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -413,6 +419,6 @@ updated: 2026-06-25 06:35
 | **78** | **06-23 17:53** | **L2_03/04/05** | **s5(new)/c5更新(会员复购率/AI导陪/导培闭环/企划趋势/动态OTB)/L3同步5处/织网待执行** |
 | **79** | **06-24 06:35** | **L2_00/01/02** | **s2(Retail Watch 29品牌Q1+五部门AI纺织)/c1新增(纺织服装AI国家政策)+c3更新(retail_ai_adoption/apparel_ai_agents/ai_fashion_market/ai_fashion_design/industry_q1)/e3更新(fast_retailing/lululemon)/L3同步3处/织网10条/矛盾1处(迅销营业利润3869→4006.66)** |
 | **80** | **06-24 23:08** | **L2_06/07+查漏** | **s4(DuckDB vs Polars基准/ETL工具横评/Polars+Arrow深度协同/Streamlit全版本)/c4更新(duckdb+polars+streamlit+ETL架构)/p2更新/织网8条/矛盾0处** |
-| **81** | **06-25 06:35** | **L2_00/01/02** | **s3(国信证券6月策略+竞品最新动态+ZARA旗舰店战略)/e3更新(bienlefen/inditex_zara/jnby)/c1更新(industry_q1)/L3同步3处/织网8条/矛盾0处** |
+| **82** | **06-25 17:57** | **L2_03/04/05 (B轮)** | **s6/c5更新(会员复购率/AI导陪/导培闭环/动态OTB/服装企划)/L3同步5处/织网10条/矛盾0处 ✅** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
