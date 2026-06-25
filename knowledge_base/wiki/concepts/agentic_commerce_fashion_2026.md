@@ -2,10 +2,10 @@
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
-sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md]
+sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md]
 created: 2026-06-09
-updated: 2026-06-22
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]]
+updated: 2026-06-26
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]]
 ---
 
 # 代理式商务与时尚零售AI新范式（2026）
@@ -68,6 +68,26 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 2. **产品数据质量决定AI时代竞争力**：数据不完整→AI代理无法推荐→品牌隐形
 3. **收据数字化是沉睡资产**：纸质收据→数字触点→购后营销
 4. **Agentic Commerce对Fashion Doctor**：需关注AI代理如何影响服装购买决策链
+
+## Google UCP协议大统一 ⭐ 6月新增
+
+> 来源：[[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]]
+
+### 时间线
+| 时间 | 里程碑 |
+|------|--------|
+| 2025.09 | OpenAI推出ICP协议（ChatGPT Instant Checkout），Etsy/Shopify首批接入 |
+| 2026.01 | Google发布UCP（Universal Commerce Protocol），Shopify联合开发 |
+| 2026.04 | **Amazon/Meta/Microsoft/Salesforce/Stripe加入UCP技术委员会** |
+
+→ UCP正式成为行业标准协议，覆盖20+零售商和全部主要科技平台
+
+### 品牌应对：AEO（答案引擎优化）
+1. **提高被AI找到的能力**：JSON-LD product schema标记 + 结构化product feed（SKU/价格/库存/变体）
+2. **做好被AI Agent完成购买的能力**：可被API调用的商品接口 + 语义化产品描述
+
+### 麦肯锡预测
+- Agentic Commerce到2030年驱动全球**3-5万亿美元**交易规模
 
 ## Bain 2026：Agentic AI零售经济学（2026-05）
 

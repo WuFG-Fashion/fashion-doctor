@@ -7,14 +7,13 @@ founded: 1997
 headquarters: 江阴
 listed: 上交所(600398.SH)
 created: 2026-06-06
-updated: 2026-06-24
-cross_refs: [[semir]], [[peacebird]], [[six_brands_2026q1]], [[menswear_brands_2026q1]], [[apparel_inventory_benchmark_2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
+updated: 2026-06-26
+cross_refs: [[semir]], [[peacebird]], [[six_brands_2026q1]], [[menswear_brands_2026q1]], [[apparel_inventory_benchmark_2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]], [[2026-06-26_国盛证券_纺织服饰2026中期策略]]
 sources:
   - 2026-06-06_海澜之家2025年报
   - 2026-06-11_百家号_海澜之家冲刺港股A+H上市.md
   - 2026-06-18_新浪证券_15家A股服饰服装存货分析.md
   - 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md
-cross_refs: [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]]
 ---
 
 # 海澜之家 (HLA)
