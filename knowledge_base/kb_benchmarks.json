@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-24",
+  "updated": "2026-06-27",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "59 个 wiki/concepts + entities 文件",
-    "data_points": "270+条数值",
-    "last_scan": "2026-06-24"
+    "files_scanned": "62 个 wiki/concepts + entities 文件",
+    "data_points": "275+条数值",
+    "last_scan": "2026-06-27"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -186,11 +186,15 @@
       "inventory_change_pct": -0.16
     },
     "bienlefen": {
+      "gross_margin": 0.7509,
       "net_margin": 0.254,
+      "revenue_2025fy_billion": 43.14,
+      "net_profit_2025fy_billion": 5.51,
       "revenue_2026q1_billion": 15.22,
       "net_profit_2026q1_billion": 3.86,
       "revenue_growth": 0.1836,
       "profit_growth": 0.1654,
+      "pe_2026e": 17.8,
       "sector_rank_revenue_growth": 1,
       "sector_rank_net_margin": 1,
       "sector_rank_profit_quality": 1
