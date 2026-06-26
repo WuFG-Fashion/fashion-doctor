@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-27 03:19
+updated: 2026-06-27 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -24,9 +24,9 @@ updated: 2026-06-27 03:19
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
-| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8× | brand, competitor, sportswear, premium |
+| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/三维框架正向拐点 | brand, competitor, sportswear, premium |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
-| [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1 | brand, competitor, womenswear, membership |
+| [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
 | [[hm]] ⭐ NEW | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16%，降收增利 | brand, competitor, fast_fashion, turnaround |
@@ -39,8 +39,8 @@ updated: 2026-06-27 03:19
 | [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+五品牌AI实战+618AI+安永标准 | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 618服饰快报 + 1-5月最新 | kpi, benchmark, industry |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化 | ai, retail, adoption, roi, nrf |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
@@ -60,7 +60,7 @@ updated: 2026-06-27 03:19
 | [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
 | [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
 | [[apparel_ai_policy_2026]] ⭐ UPDATED | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
-| [[light_luxury_brand_framework_2026]] ⭐ NEW | 轻奢品牌三维跟踪框架(规模-价格-投入)：亚瑟士+10×/Lululemon走弱/拉夫劳伦+185% | competitor, luxury, framework, brand_strategy |
+| [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 | competitor, luxury, framework, brand_strategy |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -350,6 +350,9 @@ updated: 2026-06-27 03:19
 | [[2026-06-26_国盛证券_纺织服饰2026中期策略]] ⭐ NEW | 国盛证券中期策略：1-5月服饰社零+7.2%/海澜股息率7.5%/四大投资主线 | industry, kpi, benchmark, investment |
 | [[2026-06-26_新华网_时尚产业周报_竞品动态202606]] ⭐ NEW | 新华网周报：Inditex Q1+8.8%/维密+15%/Lululemon下调/江南布衣21.8亿总部/锐步关停 | competitor, financial, inditex, lululemon, jnby, 618 |
 | [[2026-06-26_高端消费复苏_618轻奢品牌三维框架]] ⭐ NEW | 618轻奢突围+FILA双榜第一/可隆19→10/比音勒芬男装第六+三维跟踪框架(规模-价格-投入) | competitor, luxury, bienlefen, jnby, anta, framework |
+| [[2026-06-27_星图数据_2026年618全网战报]] ⭐ NEW | 618全网9340亿(+4.0%)/即时零售628亿(+112.3%)/AI原生大促元年/三大平台AI策略分化 | ecommerce, 618, ai, retail, instant_retail |
+| [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]] ⭐ NEW | 网络零售+7.7%/60%货架电商/AI全域落地/AI智能产品爆发(AI耳机+227.3%) | ecommerce, 618, ai, retail, consumer_behavior |
+| [[2026-06-27_概念爱好者_纺织服装复苏轻奢三维框架深化]] ⭐ NEW | 高端消费复苏(恒隆-18→+18%)/S型曲线+凡勃伦溢价/比音电商+71.5%/江南股息8.2%/安踏亚玛芬+70% | competitor, luxury, framework, financial |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -427,5 +430,7 @@ updated: 2026-06-27 03:19
 | **82** | **06-25 17:57** | **L2_03/04/05 (B轮)** | **s6/c5更新(会员复购率/AI导陪/导培闭环/动态OTB/服装企划)/L3同步5处/织网10条/矛盾0处 ✅** |
 
 | **84** | **06-26 06:35** | **L2_00/01/02 (A轮)** | **s4/e4更新/c3更新/c1新增(三维框架)/L3同步4处/织网5条/矛盾0处 ✅** |
+
+| **85** | **06-27 06:35** | **L2_00/01/02 (A轮)** | **s3/e2更新+c3更新(零售AI+三维框架+行业基准)/L3同步3处/织网6条** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
