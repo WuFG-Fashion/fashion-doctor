@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-27 23:11
+updated: 2026-06-28 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -363,6 +363,8 @@ updated: 2026-06-27 23:11
 | [[2026-06-27_IT之家_数据治理选型2026年5月]] ⭐ NEW | IT之家六强：亿信华辰连续4年IDC第一/13000+客户/20分钟10亿级质检 | data_governance, platform, vendor, ranking |
 | [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] ⭐ NEW | 1000万行/5GB实测：DuckDB 3.8秒(126x)/Polars 9秒(54x)/Pandas 8分12秒 | polars, duckdb, pandas, benchmark, arrow |
 | [[2026-06-27_chenxutan_Polars深层架构与生态2026]] ⭐ NEW | Polars PDS-H 94x/80K+Stars/月500万下载/四大懒执行优化 | polars, rust, arrow, benchmark, ecosystem |
+| [[2026-06-28_搜狐证券_海澜之家2026Q1深度]] ⭐ NEW | 海澜之家Q1主品牌+11.17%/多品牌+32.56%/线上18.26%/即时零售/存货92.93亿 | hla, competitor, financial, omnichannel |
+| [[2026-06-28_证券时报_太平鸟品牌升级与数字化]] ⭐ NEW | 太平鸟"三年砺新"收官：扣非+33.46%/线上毛利率54.93%/设计师合作OAMC/MING MA | peacebird, competitor, brand_strategy, digital_transformation |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -384,6 +386,8 @@ updated: 2026-06-27 23:11
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
+| **87** | **06-28 06:35** | **L2_00/01/02 (A轮)** | **s2/e2更新(hla+peacebird)/L3同步2处/织网待执行** |
+
 | Round | 日期 | 覆盖分类 | wiki 新增 |
 |-------|------|---------|----------|
 | 31 | 06-05 17:00 | L2_03/04/05 | s4/e3/c4/p1 |
