@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026]
 created: 2026-06-06
-updated: 2026-06-24
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]]
+updated: 2026-06-27
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -421,3 +421,59 @@ CUDA Graph驱动的列式算子卸载模型：
 ## 关联知识（续）
 - [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]] — Polars 2.0新版实测来源
 - [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]] — Polars 2.0 + Arrow 18.0深度协同来源 ⭐ NEW
+- [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] — 1000万行/5GB三引擎实测126x DuckDB
+- [[2026-06-27_chenxutan_Polars深层架构与生态2026]] — Polars深层Rust架构与2026生态全景
+
+## 2026年1000万行/5GB CSV三引擎实测（2026-06新增）
+
+### 实测基准对比
+
+2026年4月，今日头条发布三引擎1000万行CSV同机实测：
+
+| 指标 | Pandas | Polars | DuckDB | 结论 |
+|------|--------|--------|--------|------|
+| 加载速度 | 8分12秒 | 9秒 | **3.8秒** | DuckDB 126x |
+| 内存占用 | 5.2GB | 0.8GB | **0.3GB** | DuckDB最低 |
+| 筛选速度 | 1x基准 | 5x | 视场景 | Polars最优 |
+| 加速比 | 1x | 54x | **126x** | DuckDB加载领先 |
+
+### 50GB混合流水线范式
+
+```python
+import duckdb, polars as pl, pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+
+# 阶段1: DuckDB 扛体量—从50GB磁盘预筛选
+raw = duckdb.sql("""
+    SELECT user_id, event_type, amount, created_at
+    FROM 'data/events_*.parquet'
+    WHERE created_at >= '2025-01-01' AND amount BETWEEN 10 AND 50000
+""").pl()  # 零拷贝→Polars
+
+# 阶段2: Polars 提速度—多线程特征工程
+features = (
+    raw.with_columns([
+        pl.col("created_at").dt.hour().alias("hour"),
+        (pl.col("amount") / pl.col("amount").mean().over("user_id")).alias("rel_amount"),
+    ])
+    .group_by("user_id").agg([
+        pl.col("amount").mean().alias("avg_amount"),
+        pl.col("event_type").n_unique().alias("unique_events"),
+        pl.col("hour").mode().first().alias("peak_hour"),
+    ]).collect()
+)
+
+# 阶段3: Pandas 连生态—ML建模
+X = features.to_pandas().drop("user_id", axis=1)
+model = RandomForestClassifier().fit(X, labels)
+```
+
+### 三引擎分工公式
+
+```
+DuckDB("扛体量") → Polars("提速度") → Pandas("连生态")
+超内存大文件SQL       复杂多列转换           ML/可视化
+126x加载              5-10x多线程           生态最全
+```
+
+> **关键结论**：Apache Arrow零拷贝串联是关键——DuckDB→`.pl()`→Polars→`.to_pandas()`，全程不额外占内存，2026年最优解是三者协同而非二选一。

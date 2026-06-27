@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-27 06:35
+updated: 2026-06-27 23:11
 ---
 
 # Fashion Doctor 知识库导航
@@ -359,6 +359,10 @@ updated: 2026-06-27 06:35
 | [[2026-06-27_2026服装零售售罄率考核基准]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[2026-06-27_职行力AI陪练2026榜首]] ⭐ NEW | 500HR调研9平台:职行力96.5/1000万+用户/42%市占/周大生1月→1周/广汽30d→7d | guide, ai, coaching, ranking |
 | [[2026-06-27_私域商城复购运营选型2026]] ⭐ NEW | 乔拓云/唯顿/固乔/Shopify四选型+复购+18-25%+服装案例3月9.8%→31.8% | vip, membership, system_selection |
+| [[2026-06-27_搜狐_数据治理平台TOP榜2026年5月]] ⭐ NEW | 搜狐六强：华为/阿里/腾讯/明略/火山/数猎——治理决定中台价值 | data_governance, platform, vendor, ranking |
+| [[2026-06-27_IT之家_数据治理选型2026年5月]] ⭐ NEW | IT之家六强：亿信华辰连续4年IDC第一/13000+客户/20分钟10亿级质检 | data_governance, platform, vendor, ranking |
+| [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] ⭐ NEW | 1000万行/5GB实测：DuckDB 3.8秒(126x)/Polars 9秒(54x)/Pandas 8分12秒 | polars, duckdb, pandas, benchmark, arrow |
+| [[2026-06-27_chenxutan_Polars深层架构与生态2026]] ⭐ NEW | Polars PDS-H 94x/80K+Stars/月500万下载/四大懒执行优化 | polars, rust, arrow, benchmark, ecosystem |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -440,5 +444,7 @@ updated: 2026-06-27 06:35
 | **85** | **06-27 06:35** | **L2_00/01/02 (A轮)** | **s3/e2更新+c3更新(零售AI+三维框架+行业基准)/L3同步3处/织网6条** |
 
 | **86** | **06-27 18:00** | **L2_03/04/05 (B轮)** | **s5/c1新增(售罄率考核基准)+c3更新(会员复购/AI陪练/导培闭环)/L3同步5处/织网10条/矛盾1处(30天售罄率)** |
+
+| **87** | **06-27 23:11** | **L2_06/07+查漏 (C轮)** | **s4/raw4/c2更新(data_gov+polars)/p2更新(multi_brand+streamlit)+p1更新(选型指南)/L3同步2处/织网待执行** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。

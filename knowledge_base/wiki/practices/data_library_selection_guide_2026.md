@@ -2,10 +2,10 @@
 type: practice
 title: 数据分析库选型决策指南（2026版）
 tags: [polars, duckdb, pandas, python, selection, decision_tree, retail]
-sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评]
+sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026]
 created: 2026-06-09
-updated: 2026-06-09
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]]
+updated: 2026-06-27
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]]
 ---
 
 # 数据分析库选型决策指南（2026版）
@@ -122,3 +122,48 @@ def quality_check(brand: str) -> pl.DataFrame:
 - [[streamlit_dashboard_2026]] — Streamlit看板集成
 - [[multi_brand_unified_analytics]] — 多品牌统一分析
 - [[SQL查询性能优化]] — SQL性能优化三维法
+- [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] — 1000万行/5GB三引擎实测126x
+
+## 模板3：50GB超大文件混合流水线（2026-06新增）
+
+2026年4月今日头条实测验证——50GB Parquet文件全程不崩溃、不卡顿：
+
+```python
+import duckdb, polars as pl, pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+
+# 阶段1: DuckDB 扛体量 — 从50GB磁盘文件预筛选（不加载到内存）
+raw = duckdb.sql("""
+    SELECT user_id, event_type, amount, created_at
+    FROM 'data/events_*.parquet'
+    WHERE created_at >= '2025-01-01' AND amount BETWEEN 10 AND 50000
+""").pl()  # 零拷贝 → Polars，不占用额外内存
+
+# 阶段2: Polars 提速度 — 复杂多列转换（多线程5-10x）
+features = (
+    raw.with_columns([
+        pl.col("created_at").dt.hour().alias("hour"),
+        (pl.col("amount") / pl.col("amount").mean().over("user_id")).alias("rel_amount"),
+    ])
+    .group_by("user_id").agg([
+        pl.col("amount").mean().alias("avg_amount"),
+        pl.col("event_type").n_unique().alias("unique_events"),
+        pl.col("hour").mode().first().alias("peak_hour"),
+    ]).collect()
+)
+
+# 阶段3: Pandas 连生态 — 小体量结果→ML（仅1万行级）
+X = features.to_pandas().drop("user_id", axis=1)
+model = RandomForestClassifier().fit(X, labels)
+```
+
+### 服装零售超大文件场景适配
+
+| 场景 | 原始数据量 | 工具链 | 说明 |
+|------|:---:|------|------|
+| 全渠道年度交易 | 10-50GB | DuckDB→Polars→Pandas | SQL预筛选→多线程聚合→报表 |
+| 全品牌VIP行为日志 | 20-100GB | DuckDB→Polars | 磁盘直查→懒加载ETL |
+| 电商618大促流水 | 5-20GB | DuckDB | 单引擎SQL直查即可 |
+| 全国门店IoT数据 | 100GB+ | DuckDB+Polars | 流式spilling不OOM |
+
+> **关键经验**：Apache Arrow零拷贝是关键——`.pl()`和`.to_pandas()`全程不复制数据。Polars `collect(streaming=True)` 处理TB级数据不OOM。
