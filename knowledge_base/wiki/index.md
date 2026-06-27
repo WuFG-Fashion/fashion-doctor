@@ -67,6 +67,7 @@ updated: 2026-06-27 06:35
 |------|------|------|
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
+| [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 + Scopir决策树/Modin不推荐 | python, polars, pandas, benchmark, mlflow, rust |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
@@ -353,6 +354,11 @@ updated: 2026-06-27 06:35
 | [[2026-06-27_星图数据_2026年618全网战报]] ⭐ NEW | 618全网9340亿(+4.0%)/即时零售628亿(+112.3%)/AI原生大促元年/三大平台AI策略分化 | ecommerce, 618, ai, retail, instant_retail |
 | [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]] ⭐ NEW | 网络零售+7.7%/60%货架电商/AI全域落地/AI智能产品爆发(AI耳机+227.3%) | ecommerce, 618, ai, retail, consumer_behavior |
 | [[2026-06-27_概念爱好者_纺织服装复苏轻奢三维框架深化]] ⭐ NEW | 高端消费复苏(恒隆-18→+18%)/S型曲线+凡勃伦溢价/比音电商+71.5%/江南股息8.2%/安踏亚玛芬+70% | competitor, luxury, framework, financial |
+| [[2026-06-27_RFM客户分层5步落地模型]] ⭐ NEW | RFM R1-R4/F1-F4/M1-M4分档+5级会员制+积分100:1元+30天复购15%→50%+LTV 3-5x | vip, rfm, repurchase, loyalty |
+| [[2026-06-27_北森AI陪练2026三优势实测]] ⭐ NEW | 五维角色构建/互动真实感9.2/10/使用率89%vs行业65%/落地成功率95%/新人-52%+技能+78% | guide, ai, coaching, beisen |
+| [[2026-06-27_2026服装零售售罄率考核基准]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
+| [[2026-06-27_职行力AI陪练2026榜首]] ⭐ NEW | 500HR调研9平台:职行力96.5/1000万+用户/42%市占/周大生1月→1周/广汽30d→7d | guide, ai, coaching, ranking |
+| [[2026-06-27_私域商城复购运营选型2026]] ⭐ NEW | 乔拓云/唯顿/固乔/Shopify四选型+复购+18-25%+服装案例3月9.8%→31.8% | vip, membership, system_selection |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -432,5 +438,7 @@ updated: 2026-06-27 06:35
 | **84** | **06-26 06:35** | **L2_00/01/02 (A轮)** | **s4/e4更新/c3更新/c1新增(三维框架)/L3同步4处/织网5条/矛盾0处 ✅** |
 
 | **85** | **06-27 06:35** | **L2_00/01/02 (A轮)** | **s3/e2更新+c3更新(零售AI+三维框架+行业基准)/L3同步3处/织网6条** |
+
+| **86** | **06-27 18:00** | **L2_03/04/05 (B轮)** | **s5/c1新增(售罄率考核基准)+c3更新(会员复购/AI陪练/导培闭环)/L3同步5处/织网10条/矛盾1处(30天售罄率)** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
