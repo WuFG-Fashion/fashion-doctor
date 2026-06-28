@@ -2,10 +2,10 @@
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
-sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md]
+sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md]
 created: 2026-06-09
-updated: 2026-06-27
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]]
+updated: 2026-06-29
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]]
 ---
 
 # 代理式商务与时尚零售AI新范式（2026）

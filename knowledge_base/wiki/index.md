@@ -25,6 +25,7 @@ updated: 2026-06-28 06:35
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/三维框架正向拐点 | brand, competitor, sportswear, premium |
+| [[bosideng]] ⭐ NEW | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，连续第九年双增，AI全链路(美学大脑/导购助手/智能运营)，ESG MSCI AAA亚洲纺织首个 | brand, competitor, hk_listed, ai, esg |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -364,6 +365,9 @@ updated: 2026-06-28 06:35
 | [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] ⭐ NEW | 1000万行/5GB实测：DuckDB 3.8秒(126x)/Polars 9秒(54x)/Pandas 8分12秒 | polars, duckdb, pandas, benchmark, arrow |
 | [[2026-06-27_chenxutan_Polars深层架构与生态2026]] ⭐ NEW | Polars PDS-H 94x/80K+Stars/月500万下载/四大懒执行优化 | polars, rust, arrow, benchmark, ecosystem |
 | [[2026-06-28_搜狐证券_海澜之家2026Q1深度]] ⭐ NEW | 海澜之家Q1主品牌+11.17%/多品牌+32.56%/线上18.26%/即时零售/存货92.93亿 | hla, competitor, financial, omnichannel |
+| [[2026-06-29_波司登_FY2026财报]] ⭐ NEW | 波司登第九年双增273.5亿(+5.6%)/净利39.94亿/毛利率57.2%/AI美学大脑+导购助手 | bosideng, competitor, financial, ai |
+| [[2026-06-29_Adobe_AI电商2026数据]] ⭐ NEW | Adobe AI电商流量+138%/转化率+54%/收入+53%/市场$105亿 | ai, ecommerce, retail, conversion, agentic_commerce |
+| [[2026-06-29_36Kr_618消费洞察2026]] ⭐ NEW | 618四大趋势：AI基础设施/货架电商60%/AI耳机+227%/平台战略分化 | ecommerce, 618, ai, retail, consumer_behavior |
 | [[2026-06-28_证券时报_太平鸟品牌升级与数字化]] ⭐ NEW | 太平鸟"三年砺新"收官：扣非+33.46%/线上毛利率54.93%/设计师合作OAMC/MING MA | peacebird, competitor, brand_strategy, digital_transformation |
 
 ### L2/L3 历史分类（只读保留）
@@ -386,7 +390,7 @@ updated: 2026-06-28 06:35
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
-| **87** | **06-28 06:35** | **L2_00/01/02 (A轮)** | **s2/e2更新(hla+peacebird)/L3同步2处/织网待执行** |
+| **88** | **06-29 06:35** | **L2_00/01/02 (A轮)** | **s3/e1新增(bosideng)/c1更新(retail_ai_adoption)/L3同步2处/织网5条/矛盾0处 ✅** |
 
 | Round | 日期 | 覆盖分类 | wiki 新增 |
 |-------|------|---------|----------|
