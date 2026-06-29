@@ -369,6 +369,10 @@ updated: 2026-06-28 06:35
 | [[2026-06-29_Adobe_AI电商2026数据]] ⭐ NEW | Adobe AI电商流量+138%/转化率+54%/收入+53%/市场$105亿 | ai, ecommerce, retail, conversion, agentic_commerce |
 | [[2026-06-29_36Kr_618消费洞察2026]] ⭐ NEW | 618四大趋势：AI基础设施/货架电商60%/AI耳机+227%/平台战略分化 | ecommerce, 618, ai, retail, consumer_behavior |
 | [[2026-06-28_证券时报_太平鸟品牌升级与数字化]] ⭐ NEW | 太平鸟"三年砺新"收官：扣非+33.46%/线上毛利率54.93%/设计师合作OAMC/MING MA | peacebird, competitor, brand_strategy, digital_transformation |
+| [[2026-06-29_techchina_社群会员统一身份运营]] ⭐ NEW | 有赞：社群+会员统一身份三层架构，导购+320%/复购+193%/入会率>60% | vip, membership, private_domain, scrm |
+| [[2026-06-29_cnblogs_CLV全生命周期优化指南]] ⭐ NEW | CLV六阶段模型+RFM四分层+七日成长阶梯，复购25%→70%/CLV+60% | vip, clv, rfm, repurchase |
+| [[2026-06-29_zhihu_Agent陪练导购随身教练]] ⭐ NEW | CCFA基准(45%导购不足/28%流失)+8类客户模拟+成交+18%/客单+12% | guide, ai, coaching, training |
+| [[2026-06-29_lenxdt_订货会季节款式订货量把控]] ⭐ NEW | 波段占比确认+黄金三角款结构+订货量公式+四阶段闭环 | merchandise, buying, otb, sell_through |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -391,6 +395,8 @@ updated: 2026-06-28 06:35
 
 ---
 | **88** | **06-29 06:35** | **L2_00/01/02 (A轮)** | **s3/e1新增(bosideng)/c1更新(retail_ai_adoption)/L3同步2处/织网5条/矛盾0处 ✅** |
+
+| **89** | **06-29 18:05** | **L2_03/04/05 (B轮)** | **s4/c5更新(会员复购率+AI导陪+导培闭环+动态OTB+订货会)/p2更新(私域+RFM)/L3同步4处/织网7条/矛盾1处(休眠召回率)** |
 
 | Round | 日期 | 覆盖分类 | wiki 新增 |
 |-------|------|---------|----------|
