@@ -31,6 +31,7 @@ updated: 2026-06-28 06:35
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
 | [[hm]] ⭐ NEW | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16%，降收增利 | brand, competitor, fast_fashion, turnaround |
+| [[burberry]] ⭐ NEW | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | brand, competitor, luxury, turnaround |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -373,6 +374,8 @@ updated: 2026-06-28 06:35
 | [[2026-06-29_cnblogs_CLV全生命周期优化指南]] ⭐ NEW | CLV六阶段模型+RFM四分层+七日成长阶梯，复购25%→70%/CLV+60% | vip, clv, rfm, repurchase |
 | [[2026-06-29_zhihu_Agent陪练导购随身教练]] ⭐ NEW | CCFA基准(45%导购不足/28%流失)+8类客户模拟+成交+18%/客单+12% | guide, ai, coaching, training |
 | [[2026-06-29_lenxdt_订货会季节款式订货量把控]] ⭐ NEW | 波段占比确认+黄金三角款结构+订货量公式+四阶段闭环 | merchandise, buying, otb, sell_through |
+| [[2026-06-28_贝尔财经_Burberry_FY2026年报]] ⭐ NEW | Burberry FY2026：营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | burberry, luxury, financial, turnaround |
+| [[2026-06-22_纺商会_2026年1-5月纺织服装出口]] ⭐ NEW | 1-5月出口1167.4亿$(+0.1%)/服装-1.6%/5月-4.1%加速下行 | export, trade, textile, apparel |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -394,7 +397,7 @@ updated: 2026-06-28 06:35
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
-| **88** | **06-29 06:35** | **L2_00/01/02 (A轮)** | **s3/e1新增(bosideng)/c1更新(retail_ai_adoption)/L3同步2处/织网5条/矛盾0处 ✅** |
+| **90** | **06-30 06:35** | **L2_00/01/02 (A轮)** | **s2/e1新增(burberry)/c2更新(export+三维框架)/L3同步2处/织网5条/矛盾0处 ✅** |
 
 | **89** | **06-29 18:05** | **L2_03/04/05 (B轮)** | **s4/c5更新(会员复购率+AI导陪+导培闭环+动态OTB+订货会)/p2更新(私域+RFM)/L3同步4处/织网7条/矛盾1处(休眠召回率)** |
 
