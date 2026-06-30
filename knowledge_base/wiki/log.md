@@ -67,4 +67,4 @@ created: 2026-06-05
 | 2026-06-28 06:35 | ingestA | L2_00/01/02 — 采集2篇(海澜之家2026Q1深度/太平鸟品牌升级与数字化)/织网4条/矛盾0处 ✅ |
 | 2026-06-29 06:35 | ingestA | L2_00/01/02 — 采集3篇(波司登FY2026财报/Adobe AI电商2026/618消费洞察)/织网5条/矛盾0处 ✅ |
 | 2026-06-29 18:05 | ingestB | L2_03/04/05 — 采集4篇(raw4→s4→c5更新→p2更新→L3同步4处)/织网7条/矛盾1处(休眠召回率20%vs28%) |
-| 2026-06-30 06:35 | ingestA | L2_00/01/02 — 采集2篇(Burberry FY2026/1-5月出口)/s2/e1新增(burberry)/c2更新(export+三维框架)/L3同步2处/织网5条/矛盾0处 ✅ |
+| 2026-06-30 23:15 | ingestC | L2_06/07+查漏 — 采集4篇/织网6条/矛盾0处 ✅ (raw4: Dupple SQL PG18+AI / chenxutan Polars 15x RFM / Streamlit官方六版本 / GeeksForGeeks十大实践 → s4 → c3更新(SQL优化+PG18/Polars v1.26+RFM/Streamlit v1.53-1.58) → p1更新(零售SQL+PG18+AI工具) → L3同步2处 → Git:0d964dc) |
