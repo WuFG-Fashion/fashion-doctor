@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-30 23:15
+updated: 2026-07-01 07:00
 ---
 
 # Fashion Doctor 知识库导航
@@ -41,8 +41,8 @@ updated: 2026-06-30 23:15
 | [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化 | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 | kpi, benchmark, industry |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%) | ai, retail, adoption, roi, nrf |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
@@ -380,6 +380,8 @@ updated: 2026-06-30 23:15
 | [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]] ⭐ NEW | 1亿行RFM 15x加速(Polars 28s vs Pandas 420s)+v1.26新功能 | polars, pandas, benchmark, rfm |
 | [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]] ⭐ NEW | Streamlit 2026六版本官方汇总：Starlette/并行Fragment/pagination | streamlit, starlette, production |
 | [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] ⭐ NEW | 十大SQL最佳实践+服装零售对照：FK索引/N+1消除/EXISTS替代IN | sql, optimization, best_practice, retail |
+| [[2026-07-01_百家号_AI商品决策鞋服2026]] ⭐ NEW | AI商品决策六大环节：缺货率9.5%→5%/库存积压-40%/三大中国挑战/四阶段路径 | ai, merchandise, inventory, otb, supply_chain |
+| [[2026-07-01_联商网_2026上半年零售观察]] ⭐ NEW | 2026H1消费理由变硬：社零+1.4%增速换挡/品牌专卖店-7.6%/四大旧逻辑失效 | retail, macro, consumer_behavior, industry, trend |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -471,3 +473,6 @@ updated: 2026-06-30 23:15
 | **87** | **06-27 23:11** | **L2_06/07+查漏 (C轮)** | **s4/raw4/c2更新(data_gov+polars)/p2更新(multi_brand+streamlit)+p1更新(选型指南)/L3同步2处/织网待执行** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
+
+| **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
+
