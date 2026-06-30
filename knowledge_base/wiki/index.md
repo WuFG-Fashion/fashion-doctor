@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-06-28 06:35
+updated: 2026-06-30 23:15
 ---
 
 # Fashion Doctor 知识库导航
@@ -43,7 +43,7 @@ updated: 2026-06-28 06:35
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化 | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 | kpi, benchmark, industry |
-| [[SQL查询性能优化]] ⭐ NEW | SQL三维优化法：索引+改写+参数，10-40倍提升 | sql, optimization, mysql |
+| [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
 | [[会员复购率提升策略]] ⭐ NEW | AI推荐+分层权益+场景触达，复购+18-35pp | vip, repurchase, membership |
@@ -71,7 +71,7 @@ updated: 2026-06-28 06:35
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：>100万行选Polars，Rust架构94x(PDS-H)/80K+Stars/GPU路线图 + MLflow+Streamlit三件套 + Scopir决策树/Modin不推荐 | python, polars, pandas, benchmark, mlflow, rust |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars | python, polars, pandas, benchmark, rfm |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
@@ -376,6 +376,10 @@ updated: 2026-06-28 06:35
 | [[2026-06-29_lenxdt_订货会季节款式订货量把控]] ⭐ NEW | 波段占比确认+黄金三角款结构+订货量公式+四阶段闭环 | merchandise, buying, otb, sell_through |
 | [[2026-06-28_贝尔财经_Burberry_FY2026年报]] ⭐ NEW | Burberry FY2026：营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | burberry, luxury, financial, turnaround |
 | [[2026-06-22_纺商会_2026年1-5月纺织服装出口]] ⭐ NEW | 1-5月出口1167.4亿$(+0.1%)/服装-1.6%/5月-4.1%加速下行 | export, trade, textile, apparel |
+| [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]] ⭐ NEW | PG18多列跳过扫描+异步I/O(3x读)+AI工具(EverSQL/pgMustard) | sql, postgresql, ai_tool, optimization |
+| [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]] ⭐ NEW | 1亿行RFM 15x加速(Polars 28s vs Pandas 420s)+v1.26新功能 | polars, pandas, benchmark, rfm |
+| [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]] ⭐ NEW | Streamlit 2026六版本官方汇总：Starlette/并行Fragment/pagination | streamlit, starlette, production |
+| [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] ⭐ NEW | 十大SQL最佳实践+服装零售对照：FK索引/N+1消除/EXISTS替代IN | sql, optimization, best_practice, retail |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -397,6 +401,8 @@ updated: 2026-06-28 06:35
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
+| **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
+
 | **90** | **06-30 06:35** | **L2_00/01/02 (A轮)** | **s2/e1新增(burberry)/c2更新(export+三维框架)/L3同步2处/织网5条/矛盾0处 ✅** |
 
 | **89** | **06-29 18:05** | **L2_03/04/05 (B轮)** | **s4/c5更新(会员复购率+AI导陪+导培闭环+动态OTB+订货会)/p2更新(私域+RFM)/L3同步4处/织网7条/矛盾1处(休眠召回率)** |

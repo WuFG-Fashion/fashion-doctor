@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026]
 created: 2026-06-06
-updated: 2026-06-27
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]]
+updated: 2026-06-30
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -126,6 +126,30 @@ def sales_summary() -> pl.DataFrame:
 ```
 
 > **结论**：Polars 2.0已具备处理TB级ETL的流式能力，多品牌服装系统可选其为默认ETL引擎。
+
+## Polars v1.26 新功能（2026年中）
+
+| 功能 | 说明 | 零售场景 |
+|------|------|---------|
+| 异步执行引擎 | `collect_async()` 非阻塞 | 多品牌看板并行加载 |
+| GPU加速（实验） | `read_parquet(gpu=True)` CUDA | 亿级RFM秒级计算 |
+| 云原生数据源 | S3/Delta Lake/Iceberg直读 | 品牌数据湖联邦查询 |
+| 流式处理增强 | `streaming=True` 100GB+恒内存 | 全年全品牌流水一次性分析 |
+| 原生ML集成 | `polars.ml.train_test_split` | 需求预测建模 |
+| 生态整合 | Ibis SQL前端/ConnectorX | 与现有SQL系统无缝衔接 |
+
+### 1亿行RFM基准（16核机器，2026-06实测）
+
+| 框架 | 内存峰值 | 耗时 | 差值 |
+|------|:------:|:---:|------|
+| Pandas | 32GB | 420秒 | 基线 |
+| Polars | 4GB | 28秒 | **15x快 + 8x省内存** |
+
+### 窗口函数专项测试（1亿行）
+
+| 操作 | Pandas | Polars | 加速比 |
+|------|:------:|:-----:|:-----:|
+| 复杂窗口函数 | 95秒 | 8秒 | **11.9x** |
 
 ## DuckDB：第三种力量（2026-06新增）
 

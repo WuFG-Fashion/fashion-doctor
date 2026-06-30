@@ -1,11 +1,11 @@
 ---
 type: practice
 title: 零售数据仓库SQL实践
-tags: [sql, optimization, retail_data, data_warehouse, practice]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战]
+tags: [sql, optimization, retail_data, data_warehouse, practice, postgresql, ai_tool]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]
 created: 2026-06-06
-updated: 2026-06-06
-cross_refs: [[SQL查询性能优化]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]]
+updated: 2026-06-30
+cross_refs: [[SQL查询性能优化]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[duckdb_olap_engine_2026]]
 ---
 
 # 零售数据仓库SQL实践
@@ -94,3 +94,25 @@ WHERE sale_date = '2026-06-06';
 - [[data_quality_retail_practice|数据质量零售实操规范]]
 - [[ETL架构选型]]
 - [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
+- [[duckdb_olap_engine_2026]] — OLAP引擎加速
+
+### PostgreSQL 18实战增强（2026）
+
+| 特性 | SQL实践收益 | 服装零售场景 |
+|------|-----------|-------------|
+| 多列跳过扫描 | 索引(A,B)仅查B不再需单独B索引 | 店铺×日期索引→仅按日期查日报自动优化 |
+| 异步I/O | 分析型大表扫描读性能3x | 年度流水汇总/全量RFM重建大幅提速 |
+| 并行GIN | JSONB/全文索引并行构建 | 商品属性的JSONB索引迁移秒级完成 |
+
+### AI辅助SQL优化工作流
+1. **诊断**：`EXPLAIN (ANALYZE, BUFFERS)` — 看实际I/O
+2. **AI建议**：EverSQL（免费层）自动分析慢查询→生成索引+重写建议
+3. **可视化**：pgMustard（$79/月）将密集EXPLAIN输出转可执行建议
+4. **库内AI**：pgai（开源）在Postgres内直接调用LLM（如自动标注异常SQL）
+
+### 2026 五大SQL反模式自检清单
+- [ ] SELECT * → 指定列名
+- [ ] OR跨列 → 改UNION ALL
+- [ ] WHERE列函数 → 范围查询或用表达式索引
+- [ ] N+1查询 → 单次JOIN
+- [ ] JOIN类型不匹配 → 明确匹配类型
