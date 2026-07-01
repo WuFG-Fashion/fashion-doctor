@@ -25,7 +25,7 @@ updated: 2026-07-01 07:00
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/三维框架正向拐点 | brand, competitor, sportswear, premium |
-| [[bosideng]] ⭐ NEW | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，连续第九年双增，AI全链路(美学大脑/导购助手/智能运营)，ESG MSCI AAA亚洲纺织首个 | brand, competitor, hk_listed, ai, esg |
+| [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%) | brand, competitor, hk_listed, ai, esg |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -63,6 +63,7 @@ updated: 2026-07-01 07:00
 | [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
 | [[apparel_ai_policy_2026]] ⭐ UPDATED | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
 | [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 | competitor, luxury, framework, brand_strategy |
+| [[ai_fashion_consumer_2026]] ⭐ NEW | AI时尚消费2026：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭(Alta)+数字衣橱(Vêtir)+数字人直播(安踏>10万h/GMV>3亿) | ai, fashion_consumer, digital_human, agentic_commerce |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -386,6 +387,9 @@ updated: 2026-07-01 07:00
 | [[2026-06-24_会员管理小程序私域白皮书2026]] ⭐ NEW | 五大平台横评(乔拓云9.7)：连锁复购+35%/教培45→72%/零售1.2→2.8次 | vip, membership, system_selection, private_domain |
 | [[2026-06-30_Megaview智能体销售中心AI培训]] ⭐ NEW | Megaview AI筑基+人工赋能：场景覆盖90%+/老员工带教-60%/动态场景推演 | guide, ai, coaching, training |
 | [[2026-04-23_AI重塑时尚零售商品盈利力]] ⭐ NEW | Roland Berger价值重构+第七在线：需求6-8周分化/OTB持续优化/库存属性重构 | merchandise, otb, ai, planning |
+| [[2026-07-02_AI时尚消费入口_Phia_Daydream_Alta_Vetir]] ⭐ NEW | AI时尚消费入口：Phia $4350万/退货-50%/Daydream/Gensmo/Alta数字分身/数字人直播 | ai, fashion_consumer, digital_human, agentic_commerce |
+| [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] ⭐ NEW | 波司登非羽绒板块三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+利润增长含金量审视 | bosideng, competitor, financial, profit_quality |
+| [[2026-07-02_16家服装企业2026Q1]] ⭐ NEW | 16家A股服装Q1：森马领跑/半盈半亏/降本增效主线 | competitor, financial, 2026q1, brand |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -481,4 +485,6 @@ updated: 2026-07-01 07:00
 | **93** | **07-01 18:07** | **L2_03/04/05 (B轮)** | **s4/c4更新(会员复购率+VIP训练营+AI筑基人工赋能+闭环演进+动态OTB+RolandBerger)/L3同步5处/织网5条回链/矛盾0处 ✅** |
 
 | **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
+
+| **94** | **07-02 06:35** | **L2_00/01/02 (A轮)** | **s3/c1新增(ai_fashion_consumer_2026)/e1更新(bosideng)/c3更新(ai_virtual_tryon+agentic_commerce+retail_ai)/L3同步3处/织网9条/矛盾0处 ✅** |
 

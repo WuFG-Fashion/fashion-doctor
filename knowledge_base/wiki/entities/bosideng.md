@@ -2,10 +2,10 @@
 type: entity
 title: 波司登
 tags: [bosideng, competitor, hk_listed, down_jacket, ai]
-sources: [2026-06-29_波司登_FY2026财报.md]
+sources: [2026-06-29_波司登_FY2026财报.md, 2026-07-02_深圳新闻网_波司登FY2026深层分析.md]
 created: 2026-06-29
-updated: 2026-06-29
-cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]
+updated: 2026-07-02
+cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[apparel_supply_chain_profit_chasm_2026q1]]
 ---
 
 # 波司登（3998.HK）
@@ -30,7 +30,21 @@ cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[ap
 | 品牌羽绒服 | 235.60亿 | +8.7% | 86.2% |
 | ┗ 波司登主品牌 | 197.52亿 | +6.9% | 72.2% |
 | ┗ 雪中飞 | 25.72亿 | +16.6% | 9.4% |
-| 海外贴牌加工 | 30.94亿 | 承压 | 11.3% |
+| 海外贴牌加工 | 30.94亿 | -8.3% | 11.3% |
+| 女装 | — | -14.3% | — |
+| 校服等多元化 | — | -34% | — |
+
+### 非羽绒板块承压 ⭐ 更新（2026-07-02）
+
+> 来源：深圳新闻网波司登FY2026深层分析
+
+| 板块 | 详情 |
+|------|------|
+| **贴牌加工** | 收入-8.3%，受关税/地缘/海外消费力影响，前五大客户占90% |
+| **女装** | 收入-14.3%/毛利率-17.3pp至45.9%，杰西/邦宝商誉减值约1.5亿 |
+| **校服** | 收入-34%，学龄人口下降 |
+| **利润质量** | 归母净利+13.7% vs 经营溢利+6.6%——差额来自融资收入(2→3.7亿)+税率(31%→28.2%)+CB利息归零 |
+| **应收款** | 贸易应收款+39%，远超收入增速(+5.6%) |
 
 ## 渠道数据
 
@@ -74,3 +88,5 @@ cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[ap
 - [[apparel_ai_agents_2026]] — 服装AI智能体
 - [[ai_fashion_design_cases_2026]] — AI设计十大案例
 - [[apparel_ai_policy_2026]] — 纺织服装AI国家政策
+- [[apparel_supply_chain_profit_chasm_2026q1]] — 产业链利润分化
+- [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] — 利润增长质量审视
