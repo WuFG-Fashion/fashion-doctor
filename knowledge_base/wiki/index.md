@@ -38,15 +38,15 @@ updated: 2026-07-01 07:00
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[全渠道会员一体化]] | 线上线下会员ID/权益/标签统一 | vip, omnichannel, rfm |
-| [[AI导购陪练]] | 基于LLM的导购智能培训系统 | guide, ai, training |
+| [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%) | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%) | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
-| [[动态OTB管理]] ⭐ NEW | 季中OTB偏离15%解法：高频反馈+款式级决策 | otb, merchandise, supply_chain |
-| [[会员复购率提升策略]] ⭐ NEW | AI推荐+分层权益+场景触达，复购+18-35pp | vip, repurchase, membership |
+| [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构 | otb, merchandise, supply_chain |
+| [[会员复购率提升策略]] ⭐ UPDATED | AI推荐+分层权益+场景触达，复购+18-35pp + VIP训练营71%全勤/转化+44.18%/私域白皮书五平台基准 | vip, repurchase, membership |
 | [[服装门店经营AI化2026]] ⭐ NEW | 65%手工记账→AI经营大脑，周转+60%复购+35% | ai, retail_digitalization, store_operation |
 | [[男装品牌竞争格局2026Q1]] ⭐ NEW | 森马增速王/海澜大而不强/太平鸟拐点 | competitor, menswear, comparison |
 | 待迁移：售罄率 | 来自 L3_01_01 KPI健康基准 | kpi, sell_through |
@@ -78,7 +78,7 @@ updated: 2026-07-01 07:00
 | [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
-| [[导购培训闭环体系]] ⭐ NEW | 学-练-考-评四环节闭环，新人上岗1.5天/效率+50% | guide, training, coaching, ai |
+| [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+) | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
@@ -382,6 +382,10 @@ updated: 2026-07-01 07:00
 | [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] ⭐ NEW | 十大SQL最佳实践+服装零售对照：FK索引/N+1消除/EXISTS替代IN | sql, optimization, best_practice, retail |
 | [[2026-07-01_百家号_AI商品决策鞋服2026]] ⭐ NEW | AI商品决策六大环节：缺货率9.5%→5%/库存积压-40%/三大中国挑战/四阶段路径 | ai, merchandise, inventory, otb, supply_chain |
 | [[2026-07-01_联商网_2026上半年零售观察]] ⭐ NEW | 2026H1消费理由变硬：社零+1.4%增速换挡/品牌专卖店-7.6%/四大旧逻辑失效 | retail, macro, consumer_behavior, industry, trend |
+| [[2026-06-29_好衣库VIP复购训练营]] ⭐ NEW | 好衣库30天VIP复购特训：71%全勤/转化+44.18%/收益翻倍，私域电商复购操作系统 | vip, repurchase, membership, training |
+| [[2026-06-24_会员管理小程序私域白皮书2026]] ⭐ NEW | 五大平台横评(乔拓云9.7)：连锁复购+35%/教培45→72%/零售1.2→2.8次 | vip, membership, system_selection, private_domain |
+| [[2026-06-30_Megaview智能体销售中心AI培训]] ⭐ NEW | Megaview AI筑基+人工赋能：场景覆盖90%+/老员工带教-60%/动态场景推演 | guide, ai, coaching, training |
+| [[2026-04-23_AI重塑时尚零售商品盈利力]] ⭐ NEW | Roland Berger价值重构+第七在线：需求6-8周分化/OTB持续优化/库存属性重构 | merchandise, otb, ai, planning |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -473,6 +477,8 @@ updated: 2026-07-01 07:00
 | **87** | **06-27 23:11** | **L2_06/07+查漏 (C轮)** | **s4/raw4/c2更新(data_gov+polars)/p2更新(multi_brand+streamlit)+p1更新(选型指南)/L3同步2处/织网待执行** |
 
 > 本索引在每次 kb-ingest 或 kb-link 后自动更新。
+
+| **93** | **07-01 18:07** | **L2_03/04/05 (B轮)** | **s4/c4更新(会员复购率+VIP训练营+AI筑基人工赋能+闭环演进+动态OTB+RolandBerger)/L3同步5处/织网5条回链/矛盾0处 ✅** |
 
 | **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
 
