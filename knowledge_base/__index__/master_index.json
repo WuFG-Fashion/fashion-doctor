@@ -1,7 +1,7 @@
 {
   "kb_version": "2.1",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-07-03",
   "total_entries": 9,
   "levels": {
     "L1": {
@@ -26,8 +26,8 @@
         {
           "id": "L3_01_01",
           "name": "KPI健康基准",
-          "path": "L2_01_零售基础理论/L3_01_01_KPI健康基准/2026-06-17_1-5月服装零售数据.md",
-          "file_count": 7,
+          "path": "L2_01_零售基础理论/L3_01_01_KPI健康基准/16brands_2026q1_snapshot.md",
+          "file_count": 9,
           "status": "ok"
         },
         {
@@ -83,7 +83,7 @@
           "id": "L3_02_05",
           "name": "竞品综合对比",
           "path": "L2_02_竞品分析/L3_02_05_竞品综合对比/2026-06-17_AI试衣工具竞品对比.md",
-          "file_count": 11,
+          "file_count": 14,
           "status": "ok"
         },
         {
