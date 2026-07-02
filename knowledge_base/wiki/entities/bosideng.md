@@ -2,10 +2,10 @@
 type: entity
 title: 波司登
 tags: [bosideng, competitor, hk_listed, down_jacket, ai]
-sources: [2026-06-29_波司登_FY2026财报.md, 2026-07-02_深圳新闻网_波司登FY2026深层分析.md]
+sources: [2026-06-29_波司登_FY2026财报.md, 2026-07-02_深圳新闻网_波司登FY2026深层分析.md, 2026-07-03_中财网_纺织服装中报前瞻2026.md]
 created: 2026-06-29
 updated: 2026-07-02
-cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[apparel_supply_chain_profit_chasm_2026q1]]
+cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[apparel_supply_chain_profit_chasm_2026q1]], [[2026-07-03_中财网_纺织服装中报前瞻2026]]
 ---
 
 # 波司登（3998.HK）

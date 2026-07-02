@@ -5,7 +5,7 @@ tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
 sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md]
 created: 2026-06-09
 updated: 2026-07-02
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]]
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]]
 ---
 
 # AI时尚市场与品牌应用全景（2026）

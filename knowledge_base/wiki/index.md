@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-01 07:00
+updated: 2026-07-03 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -390,6 +390,10 @@ updated: 2026-07-01 07:00
 | [[2026-07-02_AI时尚消费入口_Phia_Daydream_Alta_Vetir]] ⭐ NEW | AI时尚消费入口：Phia $4350万/退货-50%/Daydream/Gensmo/Alta数字分身/数字人直播 | ai, fashion_consumer, digital_human, agentic_commerce |
 | [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] ⭐ NEW | 波司登非羽绒板块三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+利润增长含金量审视 | bosideng, competitor, financial, profit_quality |
 | [[2026-07-02_16家服装企业2026Q1]] ⭐ NEW | 16家A股服装Q1：森马领跑/半盈半亏/降本增效主线 | competitor, financial, 2026q1, brand |
+| [[2026-07-03_中财网_纺织服装中报前瞻2026]] ⭐ NEW | 中财网中报前瞻：滔搏Q1含税-10~20%/波司登暖冬加速/森马361报喜鸟超预期 | competitor, financial, bosideng, topsports, 2026Q2 |
+| [[2026-07-03_NVIDIA_2026零售AI全价值链落地]] ⭐ NEW | NVIDIA 2026调研：91%参与AI/89%增收/95%降本/47%Agentic AI/46%人才缺口+全价值链渗透 | ai, retail, agentic_ai, supply_chain, nvidia |
+| [[2026-07-03_商务部_2026Q1消费市场数据]] ⭐ NEW | 商务部2026Q1：社零12.8万亿+2.4%/服装鞋帽+9.3%/以旧换新4300亿/智能眼镜+4.6倍 | retail, government, macro, kpi |
+| [[2026-07-03_Vistoya_2026AI时尚趋势指南]] ⭐ NEW | Vistoya/McKinsey/BCG/Gartner：73%品牌用AI/设计样本-60%/过剩-25-40%/GEO引用率×3.2 | ai, fashion, design, geo, agentic_commerce |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
