@@ -1,11 +1,11 @@
 ---
 type: concept
 title: AI虚拟试衣技术2026
-tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection]
-sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md, 2026-06-21_搜狐_AI服饰消费新纪元2026.md, 2026-06-22_Genlook_12大AI时尚趋势2026.md]
+tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection, interactive_vvt]
+sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md, 2026-06-21_搜狐_AI服饰消费新纪元2026.md, 2026-06-22_Genlook_12大AI时尚趋势2026.md, 2026-07-04_iTryOn互动式视频虚拟试衣.md]
 created: 2026-06-07
-updated: 2026-07-02
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]]
+updated: 2026-07-04
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-04_iTryOn互动式视频虚拟试衣]]
 ---
 
 # AI虚拟试衣技术2026
@@ -170,3 +170,46 @@ cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服
 2. **视觉验证 > 文字搜索**：能"看见穿在身上的效果"改变了购买心理
 3. **品牌竞争转向体验维度**：视觉技术助品牌摆脱价格战
 4. **2026是生成式商务元年**：每个人的购物体验实时动态生成
+
+## 互动式视频虚拟试衣（Interactive VVT）⭐ 7月更新
+
+> 来源：[[2026-07-04_iTryOn互动式视频虚拟试衣]]，ICML 2026 / arXiv:2605.21431
+
+### 技术跃迁：从"穿上看"到"动手试"
+
+现有VVT技术只能让模特"穿上走秀"，无法处理人主动拉扯、拉拉链、卷袖子等互动。中山大学×阿里巴巴的 **iTryOn** 框架首次填补了这个空白。
+
+| 维度 | 传统VVT | iTryOn Interactive VVT |
+|------|---------|----------------------|
+| 任务定义 | 视频中换装 | 视频中换装+人衣互动 |
+| 能力范围 | 走秀/转身 | 拉拉链/揪衣角/卷袖子/调整领口 |
+| 核心指标 | SSIM/LPIPS/VFID | +ISR（互动成功率） |
+| 参数规模 | 5-14B | **2B**（更小更强） |
+| 竞赛水平 | MagicTryOn 14B | iTryOn 2B 全面超越 |
+
+### 三层技术架构
+
+| 层级 | 组件 | 解决的问题 |
+|------|------|------------|
+| 空间指引 | **3D手部先验**（HaMeR） | 2D骨骼无法判断手在3D空间的位置 |
+| 语义指引 | **A-RoPE**（k=4） | 动作描述与视频帧时间对齐失败 |
+| 训练优化 | **AC loss**（λ=0.5） | 互动帧仅占1-5%，学习信号被普通帧淹没 |
+
+### 核心结果
+
+| 指标 | iTryOn | 最佳竞品 |
+|------|--------|---------|
+| **ISR** | **61%** | CatV?TON 48.38% |
+| 配对VFID | 22.46 | CatV?TON 26.99 |
+| SSIM | 0.78 | - |
+
+### 产业意义
+
+- 直播电商万亿市场：AI导购有朝一日替代真人主播
+- VVT从"图片级换装"到"物理级互动"的范式转变
+- 当前局限：不懂服装语义（无拉链T恤→哑剧）、物理准确性无法量化
+
+### 关联
+- [[2026-07-04_iTryOn互动式视频虚拟试衣]] — 完整论文解读
+- [[ai_fashion_consumer_2026]] — AI时尚消费入口
+- [[ai_fashion_ecommerce_tryon_tools_2026]] — AI试衣工具选型

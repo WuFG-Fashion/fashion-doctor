@@ -401,6 +401,8 @@ updated: 2026-07-03 06:35
 | [[2026-07-03_IT之家_鹿映星河AI时尚智能镜]] ⭐ NEW | 鹿映星河AI门店经营系统：智能搭配+AI试衣+导购分析+商品诊断+经营建议 | ai, retail, smart_store, store_operation |
 | [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]] ⭐ NEW | Polars+Arrow零拷贝互操作：to_arrow/from_arrow/DuckDB Arrow/Pandas 3.0全链路 | polars, arrow, zero_copy, duckdb, interoperability |
 | [[2026-07-03_Pandas官方_Pandas_3.0]] ⭐ NEW | Pandas 3.0：Arrow-backed Dtypes默认+Copy-on-Write+5版本迭代至3.0.4 | pandas, python, arrow, version_3 |
+| [[2026-07-04_王府井AI_Agent数智化服务管理]] ⭐ NEW | 王府井×网易智企AI客服：Agent解决率98.89%/满意率+6pp/ROI 1:1.75 | ai, retail, agent, customer_service |
+| [[2026-07-04_iTryOn互动式视频虚拟试衣]] ⭐ NEW | 中山大学×阿里巴巴ICML 2026：互动式视频虚拟试衣iTryOn，ISR 61% | ai, virtual_tryon, interactive_vvt, icml_2026 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -498,6 +500,8 @@ updated: 2026-07-03 06:35
 | **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
 
 | **95** | **07-03 18:10** | **L2_03/04/05 (B轮)** | **s3/c4更新(会员复购+AI导陪+导培闭环+sku管理)/e2更新(深维智信+丽晶)/L3同步4处/织网8条回链/矛盾0处 ✅** |
+| **97** | **07-04 06:35** | **L2_00/01/02 (A轮)** | **s2(c1新增:王府井AI Agent98.89%+c1新增:iTryOn ISR 61%)/c2更新(retail_ai_adoption+ai_virtual_tryon)/织网4条回链/矛盾0处 ✅** |
+
 | **96** | **07-03 23:18** | **L2_06/07+查漏 (C轮)** | **s4(PG19+鹿映星河+Polars Arrow零拷贝+Pandas 3.0)/c2更新(SQL优化+polars)/p1更新(multi_brand)/L3同步2处** |
 
 | **94** | **07-02 06:35** | **L2_00/01/02 (A轮)** | **s3/c1新增(ai_fashion_consumer_2026)/e1更新(bosideng)/c3更新(ai_virtual_tryon+agentic_commerce+retail_ai)/L3同步3处/织网9条/矛盾0处 ✅** |
