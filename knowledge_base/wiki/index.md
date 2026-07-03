@@ -394,6 +394,9 @@ updated: 2026-07-03 06:35
 | [[2026-07-03_NVIDIA_2026零售AI全价值链落地]] ⭐ NEW | NVIDIA 2026调研：91%参与AI/89%增收/95%降本/47%Agentic AI/46%人才缺口+全价值链渗透 | ai, retail, agentic_ai, supply_chain, nvidia |
 | [[2026-07-03_商务部_2026Q1消费市场数据]] ⭐ NEW | 商务部2026Q1：社零12.8万亿+2.4%/服装鞋帽+9.3%/以旧换新4300亿/智能眼镜+4.6倍 | retail, government, macro, kpi |
 | [[2026-07-03_Vistoya_2026AI时尚趋势指南]] ⭐ NEW | Vistoya/McKinsey/BCG/Gartner：73%品牌用AI/设计样本-60%/过剩-25-40%/GEO引用率×3.2 | ai, fashion, design, geo, agentic_commerce |
+| [[2026-07-01_smzdm_服装实体店AI突破增长瓶颈]] ⭐ NEW | 服装实体店AI四维实战：AI选品(售罄率+18%)/AI短视频引流(到店0→12%)/AI客户分层/避坑三原则 | ai, retail, store_operation, vip, practical |
+| [[2026-03-17_Megaview_AI陪练转化率27%_新数据]] ⭐ NEW | Megaview 2026-03最新：转化率+27%/投诉率-35%/新人45天/MegaAgents+MegaRAG技术架构 | guide, ai, coaching, megaview, conversion |
+| [[2026-06-09_搜狐_海量SKU与直营加盟混合ERP]] ⭐ NEW | 服装ERP五大模块：三维矩阵+波段企划+AI库存引擎+多品牌统一+直营加盟混合管理 | sku, erp, inventory, franchise, multi_brand |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -489,6 +492,8 @@ updated: 2026-07-03 06:35
 | **93** | **07-01 18:07** | **L2_03/04/05 (B轮)** | **s4/c4更新(会员复购率+VIP训练营+AI筑基人工赋能+闭环演进+动态OTB+RolandBerger)/L3同步5处/织网5条回链/矛盾0处 ✅** |
 
 | **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
+
+| **95** | **07-03 18:10** | **L2_03/04/05 (B轮)** | **s3/c4更新(会员复购+AI导陪+导培闭环+sku管理)/e2更新(深维智信+丽晶)/L3同步4处/织网8条回链/矛盾0处 ✅** |
 
 | **94** | **07-02 06:35** | **L2_00/01/02 (A轮)** | **s3/c1新增(ai_fashion_consumer_2026)/e1更新(bosideng)/c3更新(ai_virtual_tryon+agentic_commerce+retail_ai)/L3同步3处/织网9条/矛盾0处 ✅** |
 

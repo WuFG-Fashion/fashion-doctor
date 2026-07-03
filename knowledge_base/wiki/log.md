@@ -69,3 +69,5 @@ created: 2026-06-05
 | 2026-06-29 18:05 | ingestB | L2_03/04/05 — 采集4篇(raw4→s4→c5更新→p2更新→L3同步4处)/织网7条/矛盾1处(休眠召回率20%vs28%) |
 | 2026-07-02 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网9条/矛盾0处 ✅ (raw3→s3→c1新增:ai_fashion_consumer_2026+e1更新:bosideng+c3更新:ai_virtual_tryon+agentic_commerce+retail_ai+L3同步3处) |
 | 2026-07-03 03:16 | optimize | lint(断链12/孤岛0/矛盾0/过期0/分类0)+织网+索引 |
+| 2026-07-03 18:10 | ingestB | L2_03/04/05 — 采集3篇/织网8条/矛盾0处 ✅ (raw3→s3→c4更新:会员复购率+AI导陪+导培闭环+sku管理→e2更新:深维智信+丽晶→L3同步4处) |
+| 2026-07-03 06:35 | ingestA | L2_00/01/02 — 采集4篇/织网10条/矛盾0处 ✅ (raw4→s4:NVIDIA全价值链+中财网中报前瞻+商务部Q1+Vistoya AI趋势→e2更新:bosideng/topsports→c2更新:retail_ai_adoption+industry_q1→L3同步4处→Git:af88d01)
