@@ -397,6 +397,10 @@ updated: 2026-07-03 06:35
 | [[2026-07-01_smzdm_服装实体店AI突破增长瓶颈]] ⭐ NEW | 服装实体店AI四维实战：AI选品(售罄率+18%)/AI短视频引流(到店0→12%)/AI客户分层/避坑三原则 | ai, retail, store_operation, vip, practical |
 | [[2026-03-17_Megaview_AI陪练转化率27%_新数据]] ⭐ NEW | Megaview 2026-03最新：转化率+27%/投诉率-35%/新人45天/MegaAgents+MegaRAG技术架构 | guide, ai, coaching, megaview, conversion |
 | [[2026-06-09_搜狐_海量SKU与直营加盟混合ERP]] ⭐ NEW | 服装ERP五大模块：三维矩阵+波段企划+AI库存引擎+多品牌统一+直营加盟混合管理 | sku, erp, inventory, franchise, multi_brand |
+| [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]] ⭐ NEW | PG19 Beta 1：60+项新特性，SQL/PGQ图查询/GROUP BY ALL/Anti-Join/SIMD COPY/IGNORE NULLS | sql, postgresql, optimization, pg19 |
+| [[2026-07-03_IT之家_鹿映星河AI时尚智能镜]] ⭐ NEW | 鹿映星河AI门店经营系统：智能搭配+AI试衣+导购分析+商品诊断+经营建议 | ai, retail, smart_store, store_operation |
+| [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]] ⭐ NEW | Polars+Arrow零拷贝互操作：to_arrow/from_arrow/DuckDB Arrow/Pandas 3.0全链路 | polars, arrow, zero_copy, duckdb, interoperability |
+| [[2026-07-03_Pandas官方_Pandas_3.0]] ⭐ NEW | Pandas 3.0：Arrow-backed Dtypes默认+Copy-on-Write+5版本迭代至3.0.4 | pandas, python, arrow, version_3 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -494,6 +498,7 @@ updated: 2026-07-03 06:35
 | **92** | **07-01 06:35** | **L2_00/01/02 (A轮)** | **s2/c2更新(retail_ai_adoption+AI商品决策/industry_q1+消费理由变硬框架)/织网8条回链/矛盾0处 ✅** |
 
 | **95** | **07-03 18:10** | **L2_03/04/05 (B轮)** | **s3/c4更新(会员复购+AI导陪+导培闭环+sku管理)/e2更新(深维智信+丽晶)/L3同步4处/织网8条回链/矛盾0处 ✅** |
+| **96** | **07-03 23:18** | **L2_06/07+查漏 (C轮)** | **s4(PG19+鹿映星河+Polars Arrow零拷贝+Pandas 3.0)/c2更新(SQL优化+polars)/p1更新(multi_brand)/L3同步2处** |
 
 | **94** | **07-02 06:35** | **L2_00/01/02 (A轮)** | **s3/c1新增(ai_fashion_consumer_2026)/e1更新(bosideng)/c3更新(ai_virtual_tryon+agentic_commerce+retail_ai)/L3同步3处/织网9条/矛盾0处 ✅** |
 

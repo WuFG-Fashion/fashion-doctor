@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0]
 created: 2026-06-06
-updated: 2026-06-30
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]]
+updated: 2026-07-03
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -501,3 +501,65 @@ DuckDB("扛体量") → Polars("提速度") → Pandas("连生态")
 ```
 
 > **关键结论**：Apache Arrow零拷贝串联是关键——DuckDB→`.pl()`→Polars→`.to_pandas()`，全程不额外占内存，2026年最优解是三者协同而非二选一。
+
+## Pandas 3.0 + Arrow 零拷贝互操作（2026-07新增）⭐
+
+### Pandas 3.0 重大变革（2026-01发布，最新3.0.4于6月28日）
+
+> 来源：[[2026-07-03_Pandas官方_Pandas_3.0]]
+
+| 变化 | 说明 | 对数据分析的影响 |
+|------|------|-----------------|
+| **Arrow-backed Dtypes** | 底层全面转向Apache Arrow列式格式 | 与Polars/DuckDB零拷贝互操作 |
+| **Copy-on-Write 默认** | 修改DataFrame子集自动创建副本 | 解决"SettingWithCopyWarning"，数据更安全 |
+| **API现代化** | 移除多个历史deprecated API | 需检查存量代码兼容性 |
+| **Streamlit兼容** | Streamlit 1.56+支持Pandas 3.x | 无缝升级看板 |
+
+版本迭代：3.0.0(1月)→3.0.1(2月)→3.0.2(3月)→3.0.3(5月)→**3.0.4(6月28日)**
+
+### Polars + Arrow 零拷贝互操作实战（2026-05）
+
+> 来源：[[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]]
+
+Polars 所有数据以 Apache Arrow 内存格式存储，与 Arrow 生态工具实现零拷贝共享：
+
+**跨工具零拷贝链路**：
+```
+Parquet (PyArrow读取)
+  → Polars (from_arrow, 零拷贝)
+    → DuckDB (to_arrow → SQL查询, 共享内存)
+      → Streamlit (to_arrow → 展示, 零拷贝)
+```
+
+| 互操作 | 方法 | 特性 |
+|--------|------|------|
+| Polars → PyArrow | `df.to_arrow()` | 零拷贝，共享内存池 |
+| PyArrow → Polars | `pl.from_arrow(arrow_table)` | 零拷贝 |
+| Polars → DuckDB | `to_arrow()` → `duckdb.sql().arrow()` | 双向零拷贝 |
+| Polars → Pandas 3.0 | `df.to_pandas()` | Arrow-backed零拷贝 |
+
+**服装零售实战全链路**：
+```python
+# 多品牌销售数据全链路零拷贝
+import pyarrow.parquet as pq, polars as pl, duckdb
+
+arrow_tbl = pq.read_table("multi_brand_sales.parquet")  # PyArrow读取
+df = pl.from_arrow(arrow_tbl)  # Polars零拷贝
+
+agg = duckdb.sql("""
+    SELECT brand, category, SUM(amount) as revenue
+    FROM arrow_tbl GROUP BY brand, category
+""").pl()  # DuckDB SQL → Polars零拷贝
+
+agg.write_parquet("brand_agg.parquet")  # 输出
+```
+全程无数据拷贝，千万级交易数据秒级完成。
+
+### 三引擎+零拷贝定位更新（2026-07）
+
+| 维度 | Pandas 3.0 | Polars 1.x | DuckDB 1.5 |
+|------|-----------|------------|------------|
+| Arrow集成 | Arrow-backed (新) | Arrow-native (原生) | Arrow读写 |
+| 零拷贝互操作 | ✅ 支持 | ✅ 原生 | ✅ Arrow |
+| CoW | ✅ 默认开启 | N/A | N/A |
+| 适用场景 | 探索分析+ML | ETL管道+大数据 | SQL聚合+窗口函数 |

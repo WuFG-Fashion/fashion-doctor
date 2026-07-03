@@ -2,10 +2,10 @@
 type: concept
 title: SQL查询性能优化
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1]
 created: 2026-06-06
-updated: 2026-06-30
-cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]]
+updated: 2026-07-03
+cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]]
 ---
 
 # SQL查询性能优化
@@ -96,6 +96,21 @@ GROUP BY shop_id, sale_date;
 | 3 | WHERE中函数 | `WHERE YEAR(date)=2026`无法用索引 | 范围查询替代 |
 | 4 | N+1查询 | 列表+逐条详情→N+1次查询 | 单次JOIN |
 | 5 | JOIN隐式类型转换 | 不同类型列JOIN→索引失效 | 明确匹配类型 |
+
+### PostgreSQL 19 Beta 1 前瞻（预计2026年9-10月发布）
+
+> 来源：[[2026-07-03_腾讯云_PostgreSQL_19_Beta1]]
+
+| 特性 | 说明 | 零售收益 |
+|------|------|---------|
+| **GROUP BY ALL** | 自动分组所有非聚合列 | 简化SKU/门店/品类多维分析SQL，减少遗漏 |
+| **Anti-Join 优化** | NOT IN/NOT EXISTS 自动转 Hash Anti Join，数倍-数十倍加速 | "未购某品类VIP"等排除查询大幅提速 |
+| **窗口函数 IGNORE NULLS** | LEAD/LAG/FIRST_VALUE 跳过 NULL | 销售缺失日期自动取前值，数据补全 |
+| **SIMD COPY** | AVX2/AVX-512 加速CSV导入 | 百万级交易流水秒级导入 |
+| **REPACK CONCURRENTLY** | 在线表重组，不阻塞读写 | 报表高峰期在线维护不影响业务 |
+| **SQL/PGQ 图查询** | 关系型数据直接执行图查询 | 顾客→商品→门店关系网络分析（新能力） |
+| **JIT 默认 off** | PG18默认on→PG19默认off | 分析型查询需手动开启 `SET jit = ON;` |
+| **LZ4 默认压缩** | TOAST 压缩从 pglz→lz4 | 大文本字段（商品描述/JSON）压缩更快 |
 
 ## 关联知识
 - [[零售数据仓库SQL实践]]
