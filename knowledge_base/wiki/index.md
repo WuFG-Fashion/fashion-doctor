@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-05 18:12
+updated: 2026-07-06 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -42,7 +42,7 @@ updated: 2026-07-05 18:12
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%) | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻** | kpi, benchmark, industry |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻+浙商PE框架三方交叉验证** | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构 | otb, merchandise, supply_chain |
@@ -62,7 +62,7 @@ updated: 2026-07-05 18:12
 | [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
 | [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
 | [[apparel_ai_policy_2026]] ⭐ UPDATED | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
-| [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 + **申万宏源×方正交叉验证(歌力思+70%/地素+22%/女装板块级复苏)** | competitor, luxury, framework, brand_strategy |
+| [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 + **申万宏源×方正交叉验证(歌力思+70%/地素+22%/女装板块级复苏) + 浙商PE估值表(6.5-16.7×)+三家券商系统化确认** | competitor, luxury, framework, brand_strategy |
 | [[ai_fashion_consumer_2026]] ⭐ NEW | AI时尚消费2026：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭(Alta)+数字衣橱(Vêtir)+数字人直播(安踏>10万h/GMV>3亿) | ai, fashion_consumer, digital_human, agentic_commerce |
 
 ### wiki/concepts/ — 概念库（二）
@@ -411,6 +411,7 @@ updated: 2026-07-05 18:12
 | [[2026-04-01_搜狐_AI销售智能教练Top5排名]] ⭐ NEW | Top5排名：北森9.8/腾讯乐享8.3/销售易7.8，客单价+5.8%/转化+11% | guide, ai, coaching, tool_selection |
 | [[2026-04-29_搜狐_服装品牌控SKU稳库存ERP选型]] ⭐ NEW | 吉客云ERP：库存准确率99.8%/人效×3-4/周转+40%/六步选型法 | sku, erp, ecommerce, inventory |
 | [[2026-01-14_知乎_OTB采销目标管理体系]] ⭐ NEW | OTB三维管理：销售计划+跟踪+滚动库存，核心公式及季末管控 | otb, merchandise, sell_through, planning |
+| [[2026-07-06_浙商证券_纺服2025&2026Q1业绩综述]] ⭐ NEW | 浙商"高端好于大众"+PE估值表(6.5-16.7×)+涨价链分析，三家券商高端复苏系统化确认 | industry, competitor, valuation, benchmark |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -517,4 +518,6 @@ updated: 2026-07-05 18:12
 | **96** | **07-03 23:18** | **L2_06/07+查漏 (C轮)** | **s4(PG19+鹿映星河+Polars Arrow零拷贝+Pandas 3.0)/c2更新(SQL优化+polars)/p1更新(multi_brand)/L3同步2处** |
 
 | **94** | **07-02 06:35** | **L2_00/01/02 (A轮)** | **s3/c1新增(ai_fashion_consumer_2026)/e1更新(bosideng)/c3更新(ai_virtual_tryon+agentic_commerce+retail_ai)/L3同步3处/织网9条/矛盾0处 ✅** |
+
+| **101** | **07-06 06:35** | **L2_00/01/02 (A轮)** | **s1/c2更新(行业基准+轻奢三维+浙商PE三方交叉)/L3同步3处/织网6条/矛盾0处 ✅** |
 
