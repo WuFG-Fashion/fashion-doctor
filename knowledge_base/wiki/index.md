@@ -30,7 +30,7 @@ updated: 2026-07-06 23:23
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
-| [[hm]] ⭐ NEW | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16%，降收增利 | brand, competitor, fast_fashion, turnaround |
+| [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16% → Q2营收548亿SEK(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳，降本红利渐尽 | brand, competitor, fast_fashion, turnaround |
 | [[burberry]] ⭐ NEW | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | brand, competitor, luxury, turnaround |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
@@ -119,7 +119,7 @@ updated: 2026-07-06 23:23
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
-| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比：森马利润王/太平鸟拐点/ZARA撤退/H&M降收增利/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1 |
+| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1, 2026Q2 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
@@ -416,6 +416,7 @@ updated: 2026-07-06 23:23
 | [[2026-07-06_腾讯云_Polars_Pandas千万级实测]] ⭐ NEW | 腾讯云千万行实测(1000万×12列)：Polars全链路5.9x/Join 7.4x/迁移四档决策矩阵 | polars, pandas, benchmark, migration |
 | [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW | Tech Insider企业级：10亿行29x/TPC-H 17x/TCO $3.40 vs $18.60/GitHub成本-75%/JPMorgan SLA | polars, pandas, enterprise, tco, benchmark |
 | [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW | Arrow深度解析：IPC反序列化48x/零拷贝90x/Flight 17.5x/DuckDB+Arrow 8.75x | apache_arrow, zero_copy, pyarrow, interoperability |
+| [[2026-07-07_广发证券_H&M_FY2026Q2]] ⭐ NEW | H&M FY2026Q2：收入548亿SEK(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳——降本红利渐尽，毛利率修复成新叙事 | hm, fast_fashion, competitor, 2026Q2 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
