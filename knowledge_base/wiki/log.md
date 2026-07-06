@@ -75,3 +75,4 @@ created: 2026-06-05
 | 2026-07-03 23:18 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:PG19 Beta1+鹿映星河AI智能镜+Polars Arrow零拷贝+Pandas 3.0→c2更新:SQL优化+polars→p1更新:multi_brand→L3同步2处)
 | 2026-07-05 18:12 | ingestB | L2_03/04/05 — 采集5篇/织网11条/矛盾0处 ✅ (raw5→s5:私域全链路+AI导购翻3倍+AI教练Top5+SKU稳库存ERP+OTB采销管理→c5更新:会员复购+AI导陪+导培闭环+sku管理+动态OTB→e2更新:深维智信+丽晶→c1更新:全渠道一体化→L3同步7处)
 | 2026-07-06 06:35 | ingestA | L2_00/01/02 — 采集1篇/织网5条/矛盾0处 ✅ (raw1→s1:浙商证券纺服Q1综述→c2更新:行业基准+轻奢三维框架+浙商PE三方交叉→L3同步3处)
+| 2026-07-06 23:23 | ingestC | L2_06/07+查漏 — 采集3篇/织网10条/矛盾0处 ✅ (raw3:腾讯云Polars实测+TechInsider企业级TCO+CSDN Arrow零拷贝→s3→c1新增:arrow_zero_copy_interop_2026+c1更新:polars_vs_pandas+腾讯云5.9x/TechInsider企业案例→L3同步2处→Git:112095c)
