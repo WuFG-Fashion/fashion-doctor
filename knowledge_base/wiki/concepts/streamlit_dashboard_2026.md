@@ -5,7 +5,7 @@ tags: [streamlit, dashboard, caching, session_state, production, theme, datafram
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]
 created: 2026-06-07
 updated: 2026-07-03
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]]
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]]
 ---
 
 # Streamlit 2026生产级最佳实践

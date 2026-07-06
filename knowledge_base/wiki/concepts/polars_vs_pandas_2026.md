@@ -2,9 +2,9 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
 created: 2026-06-06
-updated: 2026-07-03
+updated: 2026-07-06
 cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]]
 ---
 
@@ -563,3 +563,105 @@ agg.write_parquet("brand_agg.parquet")  # 输出
 | 零拷贝互操作 | ✅ 支持 | ✅ 原生 | ✅ Arrow |
 | CoW | ✅ 默认开启 | N/A | N/A |
 | 适用场景 | 探索分析+ML | ETL管道+大数据 | SQL聚合+窗口函数 |
+
+## 腾讯云千万级实测：五大操作全链路 5.9x（2026-07新增）⭐
+
+> 来源：[[2026-07-06_腾讯云_Polars_Pandas千万级实测]]
+
+### 测试环境
+
+| 项目 | 配置 |
+|------|------|
+| 硬件 | 8核16G服务器 |
+| Python | 3.12.1 / Pandas 2.2.0 / Polars 0.20.15 |
+| 数据量 | 1000万行 × 12列（CSV 567MB） |
+
+### 五大操作实测
+
+| 操作 | Pandas | Polars Eager | Polars Lazy | 加速比 |
+|------|--------|-------------|------------|:---:|
+| CSV载入 | 12.40s (1.8GB) | 2.10s (0.9GB) | — | **5.9x** |
+| 过滤 | 0.38s | 0.09s | 0.07s | **5.4x** |
+| 分组聚合 | 1.42s | 0.31s | 0.22s | **6.5x** |
+| Join合并 | 3.85s | 0.52s | — | **7.4x** |
+| 排序 | 4.67s | 0.85s | — | **5.5x** |
+| **全链路** | **22.72s** | **3.87s** | — | **5.9x** |
+
+### 公平修正：Pandas+PyArrow后端
+
+| 操作 | Pandas原生 | Pandas+PyArrow | Polars |
+|------|-----------|---------------|--------|
+| CSV载入 | 12.40s | 3.21s | 2.10s |
+| 分组聚合 | 1.42s | 0.89s | 0.31s |
+| Join合并 | 3.85s | 1.95s | 0.52s |
+
+> PyArrow后端缩小CSV差距（12.4→3.2s），但GroupBy/Join仍3-4x差距——单线程架构的计算瓶颈无法被内存格式优化弥补。
+
+### 迁移决策（四档数据量）
+
+| 数据量 | 推荐方案 |
+|--------|---------|
+| <10万行 | Pandas，迁移无意义 |
+| 10万~500万行 | Pandas+PyArrow后端 |
+| 500万~5000万行 | **Polars（单机最优解）** |
+| >5000万行 | Polars Lazy+DuckDB |
+
+### 渐进迁移策略
+
+新模块用Polars → 旧模块按需重构 → `to_pandas()`零拷贝转换毫秒级 → 不构成瓶颈。
+
+## Tech Insider 企业级基准与TCO（2026-07新增）⭐
+
+> 来源：[[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]]
+
+### H2O.ai GroupBy基准（Polars 1.24.0 vs Pandas 2.2.3 / 16核64GB）
+
+| 任务 | Polars | Pandas | 加速比 |
+|------|--------|--------|:---:|
+| 100万行按ID求和 | 0.12s | 1.8s | 15x |
+| 1000万行按ID求和 | 0.45s | 12.5s | 28x |
+| 1亿行按ID求和 | 4.8s | 138s | 29x |
+| 10亿行按ID求和(流式) | 45s | OOM崩溃 | N/A |
+
+### TPC-H（SF=10，10GB）
+
+| 查询 | Polars | Pandas | 加速比 |
+|------|--------|--------|:---:|
+| Q1 | 1.2s | 15s | 12.5x |
+| Q5（5表Join） | 2.8s | 48s | 17x |
+| Inner Join 1亿×1亿 | 8s | 120s | 15x |
+
+### 五大企业案例
+
+| 企业 | 场景 | 收益 |
+|------|------|------|
+| **GitHub** | 夜间ETL 400GB遥测 | 128GB/90min→32GB/11min，成本-75% |
+| **JPMorgan** | 盘中VaR风险建模 | 22min→3min，满足15min SLA |
+| **Cheddar** | 5000万月会话流式 | 3节点Spark→Polars单机 |
+| **Netflix** | 推荐管道 | 双轨制：Polars重型+Pandas ML |
+| **H2O.ai** | AutoML | 端到端6x墙钟提升 |
+
+### 能源效率（VU Amsterdam 2026-03）
+
+| 指标 | Polars | Pandas |
+|------|--------|--------|
+| 每1TB批次能耗 | 0.4 kWh | 1.6-2.0 kWh |
+| 能效比 | 基准 | 3-5x更高 |
+
+### TCO对比
+
+| 维度 | Polars | Pandas |
+|------|--------|--------|
+| 1TB ETL AWS成本 | $3.40/次 | $18.60/次 (8x) |
+| 年度节能(日1TB) | ~500 kWh | 基准 |
+
+### 2026最终选择公式
+
+- **<1GB + scikit-learn生态** → Pandas
+- **>1GB + 生产ETL/实时分析/金融建模** → Polars
+- **最务实** → 双轨制：Polars重型引擎+Pandas ML胶水，Arrow零拷贝串联
+
+## 关联知识（续）
+- [[2026-07-06_腾讯云_Polars_Pandas千万级实测]] ⭐ NEW
+- [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW
+- [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW

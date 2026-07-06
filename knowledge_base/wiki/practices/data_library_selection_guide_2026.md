@@ -2,10 +2,10 @@
 type: practice
 title: 数据分析库选型决策指南（2026版）
 tags: [polars, duckdb, pandas, python, selection, decision_tree, retail]
-sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026]
+sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
 created: 2026-06-09
-updated: 2026-06-27
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]]
+updated: 2026-07-06
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[arrow_zero_copy_interop_2026]]
 ---
 
 # 数据分析库选型决策指南（2026版）

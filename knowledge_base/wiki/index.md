@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-06 06:35
+updated: 2026-07-06 23:23
 ---
 
 # Fashion Doctor 知识库导航
@@ -72,7 +72,7 @@ updated: 2026-07-06 06:35
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ NEW | ABC分类+安全库存+8维度决策+四阶段推进 | sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars | python, polars, pandas, benchmark, rfm |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars/腾讯云千万级5.9x全链路/Tech Insider企业案例(GitHub-75%成本/JPMorgan SLA)/TCO | python, polars, pandas, benchmark, rfm |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
@@ -82,6 +82,7 @@ updated: 2026-07-06 06:35
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+) | guide, training, coaching, ai |
 | [[服装企划趋势渠道]] ⭐ NEW | 四大渠道横测+四步工作流+品类结构变化 | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
+| [[arrow_zero_copy_interop_2026]] ⭐ NEW | Apache Arrow零拷贝互操作2026：48x反序列化/90x类型转换/17.5x Flight + 多品牌实战全链路 | apache_arrow, zero_copy, interoperability, multi_brand |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
 | [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移(v1.57正式)+Polars Arrow零拷贝+并行Fragment(v1.58) | streamlit, production, caching, starlette, parallel_fragment |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% + Kolors开源竞品/即梦双模型对比 | ai, virtual_tryon, tool_selection |
@@ -412,6 +413,9 @@ updated: 2026-07-06 06:35
 | [[2026-04-29_搜狐_服装品牌控SKU稳库存ERP选型]] ⭐ NEW | 吉客云ERP：库存准确率99.8%/人效×3-4/周转+40%/六步选型法 | sku, erp, ecommerce, inventory |
 | [[2026-01-14_知乎_OTB采销目标管理体系]] ⭐ NEW | OTB三维管理：销售计划+跟踪+滚动库存，核心公式及季末管控 | otb, merchandise, sell_through, planning |
 | [[2026-07-06_浙商证券_纺服2025&2026Q1业绩综述]] ⭐ NEW | 浙商"高端好于大众"+PE估值表(6.5-16.7×)+涨价链分析，三家券商高端复苏系统化确认 | industry, competitor, valuation, benchmark |
+| [[2026-07-06_腾讯云_Polars_Pandas千万级实测]] ⭐ NEW | 腾讯云千万行实测(1000万×12列)：Polars全链路5.9x/Join 7.4x/迁移四档决策矩阵 | polars, pandas, benchmark, migration |
+| [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW | Tech Insider企业级：10亿行29x/TPC-H 17x/TCO $3.40 vs $18.60/GitHub成本-75%/JPMorgan SLA | polars, pandas, enterprise, tco, benchmark |
+| [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW | Arrow深度解析：IPC反序列化48x/零拷贝90x/Flight 17.5x/DuckDB+Arrow 8.75x | apache_arrow, zero_copy, pyarrow, interoperability |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -434,6 +438,8 @@ updated: 2026-07-06 06:35
 
 ---
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
+
+| **102** | **07-06 23:23** | **L2_06/07 (C轮)** | **s3/c1新增(Arrow零拷贝)+c1更新(polars+TCO)/L3同步2处/织网待执行/矛盾检测待执行** |
 
 | **90** | **06-30 06:35** | **L2_00/01/02 (A轮)** | **s2/e1新增(burberry)/c2更新(export+三维框架)/L3同步2处/织网5条/矛盾0处 ✅** |
 
