@@ -5,7 +5,7 @@ tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection, i
 sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md, 2026-06-21_搜狐_AI服饰消费新纪元2026.md, 2026-06-22_Genlook_12大AI时尚趋势2026.md, 2026-07-04_iTryOn互动式视频虚拟试衣.md]
 created: 2026-06-07
 updated: 2026-07-04
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-04_iTryOn互动式视频虚拟试衣]]
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-04_iTryOn互动式视频虚拟试衣]], [[2026-07-08_商务部_人工智能+消费实施意见]]
 ---
 
 # AI虚拟试衣技术2026

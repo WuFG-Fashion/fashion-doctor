@@ -5,7 +5,7 @@ tags: [hm, fast_fashion, competitor, global, turnaround]
 sources: [raw/articles/2026-06-14_百家号_H&M2026Q1库存降16%.md, raw/articles/2026-07-07_广发证券_H&M_FY2026Q2.md]
 created: 2026-06-14
 updated: 2026-07-07
-cross_refs: [[inditex_zara]], [[fast_retailing]], [[服装行业竞争格局]], [[apparel_inventory_benchmark_2026]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-07-07_广发证券_H&M_FY2026Q2]]
+cross_refs: [[inditex_zara]], [[fast_retailing]], [[服装行业竞争格局]], [[apparel_inventory_benchmark_2026]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-07-07_广发证券_H&M_FY2026Q2]], [[2026-07-08_迅销_优衣库日本2026年6月同店]]
 ---
 
 # H&M（Hennes & Mauritz AB）

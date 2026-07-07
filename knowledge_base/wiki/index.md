@@ -19,7 +19,7 @@ updated: 2026-07-07 18:16
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元 | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元/⚠️6月日本同店-14.1%(天气扰动) | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
@@ -41,7 +41,7 @@ updated: 2026-07-07 18:16
 | [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%) | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%) | ai, retail, adoption, roi, nrf |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻+浙商PE框架三方交叉验证** | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
@@ -417,6 +417,8 @@ updated: 2026-07-07 18:16
 | [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW | Tech Insider企业级：10亿行29x/TPC-H 17x/TCO $3.40 vs $18.60/GitHub成本-75%/JPMorgan SLA | polars, pandas, enterprise, tco, benchmark |
 | [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW | Arrow深度解析：IPC反序列化48x/零拷贝90x/Flight 17.5x/DuckDB+Arrow 8.75x | apache_arrow, zero_copy, pyarrow, interoperability |
 | [[2026-07-07_广发证券_H&M_FY2026Q2]] ⭐ NEW | H&M FY2026Q2：收入548亿SEK(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳——降本红利渐尽，毛利率修复成新叙事 | hm, fast_fashion, competitor, 2026Q2 |
+| [[2026-07-08_商务部_人工智能+消费实施意见]] ⭐ NEW | 商务部等8部门"AI+消费"实施意见：6大方面17条，数字人直播/智能推荐/Agent应用获国家级政策背书 | policy, ai, retail, ecommerce, agent |
+| [[2026-07-08_迅销_优衣库日本2026年6月同店]] ⭐ NEW | 优衣库日本6月同店-14.1%(客流-15%/客单价+1.1%)，YTD仅86.3%，全年增长靠海外 | uniqlo, fast_retailing, monthly_sales |
 | [[2026-07-07_零售会员核销与积分体系重构2026]] ⭐ NEW | 2026年零售会员核销体系：三维核销矩阵(动态/静态/身份关联)+积分3级金字塔+单笔8秒/批量5分钟万级 | vip, membership, points, loyalty |
 | [[2026-07-07_思创AI陪练三案例深度2026]] ⭐ NEW | 思创AI陪练三大标杆案例：电子设备(2-3月→3-4周)/轻奢(战略3天落地)/鞋履(完成率98%)，范式转移 | guide, ai, coaching, training, retail_case |
 | [[2026-07-07_季中OTB滚动管理与第七在线2026]] ⭐ NEW | OTB三矛盾→滚动OTB+SKU生命周期四阶段追单+第七在线AI系统，追单7-10→3-5天 | otb, merchandise, inventory, supply_chain |
@@ -445,7 +447,7 @@ updated: 2026-07-07 18:16
 ---
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
 
-| **102** | **07-06 23:23** | **L2_06/07 (C轮)** | **s3/c1新增(Arrow零拷贝)+c1更新(polars+TCO)/L3同步2处/织网10条/矛盾0处 ✅** |
+| **104** | **07-08 06:35** | **L2_00/01/02 (A轮)** | **s2/c1更新(retail_ai+AI+消费新政)/e1更新(fast_retailing+6月同店)/L3同步2处/织网待执行/矛盾待检测** |
 
 | **90** | **06-30 06:35** | **L2_00/01/02 (A轮)** | **s2/e1新增(burberry)/c2更新(export+三维框架)/L3同步2处/织网5条/矛盾0处 ✅** |
 
