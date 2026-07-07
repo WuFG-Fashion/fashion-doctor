@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-06 23:23
+updated: 2026-07-07 18:16
 ---
 
 # Fashion Doctor 知识库导航
@@ -417,6 +417,11 @@ updated: 2026-07-06 23:23
 | [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW | Tech Insider企业级：10亿行29x/TPC-H 17x/TCO $3.40 vs $18.60/GitHub成本-75%/JPMorgan SLA | polars, pandas, enterprise, tco, benchmark |
 | [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW | Arrow深度解析：IPC反序列化48x/零拷贝90x/Flight 17.5x/DuckDB+Arrow 8.75x | apache_arrow, zero_copy, pyarrow, interoperability |
 | [[2026-07-07_广发证券_H&M_FY2026Q2]] ⭐ NEW | H&M FY2026Q2：收入548亿SEK(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳——降本红利渐尽，毛利率修复成新叙事 | hm, fast_fashion, competitor, 2026Q2 |
+| [[2026-07-07_零售会员核销与积分体系重构2026]] ⭐ NEW | 2026年零售会员核销体系：三维核销矩阵(动态/静态/身份关联)+积分3级金字塔+单笔8秒/批量5分钟万级 | vip, membership, points, loyalty |
+| [[2026-07-07_思创AI陪练三案例深度2026]] ⭐ NEW | 思创AI陪练三大标杆案例：电子设备(2-3月→3-4周)/轻奢(战略3天落地)/鞋履(完成率98%)，范式转移 | guide, ai, coaching, training, retail_case |
+| [[2026-07-07_季中OTB滚动管理与第七在线2026]] ⭐ NEW | OTB三矛盾→滚动OTB+SKU生命周期四阶段追单+第七在线AI系统，追单7-10→3-5天 | otb, merchandise, inventory, supply_chain |
+| [[2026-07-07_私域商城会员标签成长路径复购2026]] ⭐ NEW | 2026私域会员四大策略(标签/权益/召回/社群)，复购率3-5倍/流失率>88% | vip, membership, repurchase, private_domain |
+| [[2026-07-07_北森AI陪练2.0全场景实战2026]] ⭐ NEW | 北森2.0多品类覆盖(珠宝/美妆/服装)，新人成本-35%/效率3x/看齐销冠率100% | guide, ai, coaching, beisen, training |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
