@@ -19,12 +19,12 @@ updated: 2026-07-07 18:16
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元/⚠️6月日本同店-14.1%(天气扰动) | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元/⚠️6月日本同店-14.1%(天气扰动)/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
-| [[semir]] | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖 | brand, competitor, menswear, ai |
+| [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖，Q2预测低基数高增长 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
-| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/三维框架正向拐点 | brand, competitor, sportswear, premium |
+| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
 | [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%) | brand, competitor, hk_listed, ai, esg |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
@@ -42,7 +42,7 @@ updated: 2026-07-07 18:16
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻+浙商PE框架三方交叉验证** | kpi, benchmark, industry |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻+浙商PE框架三方交叉验证 + H1运行态势定性(出口下行/内销增长/盈利承压)+申万Q2前瞻+5月电商品牌数据+库销比** | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构 | otb, merchandise, supply_chain |
@@ -119,13 +119,16 @@ updated: 2026-07-07 18:16
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
-| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1, 2026Q2 |
+| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1, 2026Q2 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-09_5月服装零售深度分析]] ⭐ NEW | 5月社零-0.6%但服装+3.8%，比音勒芬+121%/优衣库+76%/库销比改善 | kpi, ecommerce, competitor, industry |
+| [[2026-07-09_申万宏源2026中报前瞻]] ⭐ NEW | Q2品牌前瞻：比音勒芬高增/森马低基高增/海澜持平/户外+30-35% | competitor, financial, 2026q2, forecast |
+| [[2026-07-09_中国服装协会H1行业运行态势]] ⭐ NEW | H1定性：出口下行/内销增长/盈利承压，"十五五"科技/时尚/绿色/健康 | industry, policy, ai, fifteen_five |
 | [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]] ⭐ NEW | ETL vs ELT 2026双模式选型：FineDataLink零售企业4h→30min提速8倍 | etl, data_warehouse, multi_brand, fine_datalink |
 | [[2026-06-18_百家号_2026数据治理性价比三档方案]] ⭐ NEW | IDC 350亿/28.7%/AI>50%，三档方案(DCMM/DSMM基准) | data_governance, platform, vendor, dcmm, ai_driven |
 | [[2026-06-18_百家号_15个数据治理品牌2026横评]] ⭐ NEW | 15品牌三梯队：普元/瓴羊→帆软/袋鼠云→DataHub/Atlas开源 | data_governance, platform, vendor, open_source, saas |

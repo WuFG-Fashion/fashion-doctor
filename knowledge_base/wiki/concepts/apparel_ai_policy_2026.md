@@ -4,8 +4,8 @@ title: 纺织服装AI国家政策2026-2028
 tags: [policy, ai, textile, national_strategy, smart_factory, quality]
 sources: [2026-06-24_五部门_AI纺织行动方案2026-2028.md]
 created: 2026-06-24
-updated: 2026-06-24
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[china_apparel_industry_2026q1]], [[2026-07-08_商务部_人工智能+消费实施意见]]
+updated: 2026-07-09
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[china_apparel_industry_2026q1]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-09_中国服装协会H1行业运行态势]]
 ---
 
 # 纺织服装AI国家政策（2026-2028）
