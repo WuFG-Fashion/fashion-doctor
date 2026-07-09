@@ -427,6 +427,11 @@ updated: 2026-07-07 18:16
 | [[2026-07-07_季中OTB滚动管理与第七在线2026]] ⭐ NEW | OTB三矛盾→滚动OTB+SKU生命周期四阶段追单+第七在线AI系统，追单7-10→3-5天 | otb, merchandise, inventory, supply_chain |
 | [[2026-07-07_私域商城会员标签成长路径复购2026]] ⭐ NEW | 2026私域会员四大策略(标签/权益/召回/社群)，复购率3-5倍/流失率>88% | vip, membership, repurchase, private_domain |
 | [[2026-07-07_北森AI陪练2.0全场景实战2026]] ⭐ NEW | 北森2.0多品类覆盖(珠宝/美妆/服装)，新人成本-35%/效率3x/看齐销冠率100% | guide, ai, coaching, beisen, training |
+| [[2026-07-09_好衣库VIP复购训练营]] ⭐ NEW | 好衣库30天VIP复购特训营：200+店主/全勤71%/转化+44.18%/ABCD四层分类法 | vip, repurchase, membership, training |
+| [[2026-07-09_服装会员系统CLV白皮书]] ⭐ NEW | 2026 CLV白皮书+笑铺日记实测：利润率+15-20%/连带率1.2→1.8/TCO 600元/年 | vip, clv, membership, system_selection |
+| [[2026-07-09_导购激励定制2026]] ⭐ NEW | 导购激励2026年升级为终端动销+渠道协同+数据闭环：六费用/五因素/四能力 | guide, incentive, kpi, channel |
+| [[2026-07-09_品类管理三大误解]] ⭐ NEW | 15品牌调研：仅1家以消费者场景为品类第一维度且增速最快；月度滚动使售罄率65%→82% | merchandise, category_management, sell_through |
+| [[2026-07-09_季前商品计划波段OTB]] ⭐ NEW | 六层拆解链路：销售目标→渠道→品类→波段→OTB→SKU款深；首单70-80%/快反15-25% | merchandise, otb, sku, planning |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
