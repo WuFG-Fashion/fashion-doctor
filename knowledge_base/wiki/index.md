@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-07 18:16
+updated: 2026-07-10 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -19,7 +19,7 @@ updated: 2026-07-07 18:16
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026H1 884亿(+14.8%)，中国881店单店×1.5/全年目标3.9万亿日元/⚠️6月日本同店-14.1%(天气扰动)/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/Q3单季海外+65.2%/中国大陆同店转正/全年指引上调至7100亿/875店单店优化/⚠️6月日本同店-14.1%(天气扰动)/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖，Q2预测低基数高增长 | brand, competitor, menswear, ai |
@@ -130,6 +130,7 @@ updated: 2026-07-07 18:16
 | [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] ⭐ NEW | PG 2026全栈调优清单：64GB RAM配置方案、六大索引策略、六大反模式、PgBouncer、VACUUM、分区 | postgresql, sql, optimization, tuning |
 | [[2026-07-09_CSDN_全渠道BI三层架构]] ⭐ NEW | 服装全渠道BI三层架构：总部看全局→区域看趋势→门店看自己，四维指标体系+一键业务操作闭环 | bi, dashboard, retail, architecture, omnichannel |
 | [[2026-07-09_Nimbleway_2026零售数据分析指南]] ⭐ NEW | Nimbleway零售分析全景：77.3→119.7亿美元市场、四类分析、八层技术栈、八大实施步骤、多品牌六大最佳实践 | retail, analytics, ai, data_strategy, multi_brand |
+| [[2026-07-09_迅销FY2026Q3九个月业绩]] ⭐ NEW | 迅销FY2026 Q3（九个月）：营收3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/海外Q3+65.2%/中国大陆同店转正/全年指引上调至7100亿 | uniqlo, fast_retailing, competitor, 2026q3 |
 | [[2026-07-09_5月服装零售深度分析]] ⭐ NEW | 5月社零-0.6%但服装+3.8%，比音勒芬+121%/优衣库+76%/库销比改善 | kpi, ecommerce, competitor, industry |
 | [[2026-07-09_申万宏源2026中报前瞻]] ⭐ NEW | Q2品牌前瞻：比音勒芬高增/森马低基高增/海澜持平/户外+30-35% | competitor, financial, 2026q2, forecast |
 | [[2026-07-09_中国服装协会H1行业运行态势]] ⭐ NEW | H1定性：出口下行/内销增长/盈利承压，"十五五"科技/时尚/绿色/健康 | industry, policy, ai, fifteen_five |
@@ -458,6 +459,8 @@ updated: 2026-07-07 18:16
 
 ---
 | **107** | **07-09 23:28** | **L2_06/07+查漏 (C轮)** | **s4(PG调优+DDBvsPolars+BI三层+Nimbleway指南)/c3更新(SQL优化+duckdb+retail_bi)/p1更新(multi_brand)/L3同步2处/织网4条/矛盾0处 ✅** |
+
+| **106** | **07-10 06:35** | **L2_00/01/02 (A轮)** | **s1(迅销Q3九个月3.07万亿+17.1%)/e1更新(fast_retailing+Q3上调7100亿+中国同店转正)/织网待执行/矛盾待检测** |
 
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
 

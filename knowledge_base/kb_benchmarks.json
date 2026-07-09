@@ -129,7 +129,20 @@
       "net_margin": 0.135,
       "revenue_fy2026h1_jpy_billion": 20552,
       "operating_profit_h1_jpy_billion": 4006.66,
-      "overseas_revenue_ratio": 0.681
+      "overseas_revenue_ratio": 0.681,
+      "revenue_9m_jpy_billion": 30651,
+      "business_profit_9m_jpy_billion": 5927,
+      "net_profit_9m_jpy_billion": 4260,
+      "revenue_9m_growth_pct": 0.171,
+      "business_profit_9m_growth_pct": 0.336,
+      "q3_uniqlo_intl_revenue_growth_pct": 0.338,
+      "q3_uniqlo_intl_profit_growth_pct": 0.652,
+      "china_q3_profit_growth": "double_digit",
+      "china_stores_may2026": 875,
+      "fy2026_revenue_guidance_jpy_billion": 39700,
+      "fy2026_business_profit_guidance_jpy_billion": 7100,
+      "fy2026_net_profit_guidance_jpy_billion": 5000,
+      "annual_dividend_jpy": 640
     },
     "jnby": {
       "gross_margin": 0.665,
