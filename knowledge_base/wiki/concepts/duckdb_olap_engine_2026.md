@@ -2,10 +2,10 @@
 type: concept
 title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
-sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md]
+sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]
 created: 2026-06-08
-updated: 2026-06-24
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]]
+updated: 2026-07-09
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -153,6 +153,43 @@ PyInns 2026年3月实测，覆盖1亿-10亿行数据集（单节点M3 Max / Ryze
 - SQL-first / BI报表 → **DuckDB**（类PostgreSQL体验，MotherDuck云）
 - Python ETL管道 / DataFrame风格 → **Polars**（Lazy API，uv+Ruff生态）
 - 两者都需要 → **混合**：Arrow零拷贝互转 `duckdb.sql("...").pl()`
+
+## DuckDB vs Polars 最新基准（2026-07新增）⭐
+
+> 来源：[[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
+
+### 测试版本（均为最新）
+- DuckDB 1.5.4（2026-06-17） vs Polars 1.42.1（2026-06-30）
+
+### 核心结论：差异在舍入误差级别
+
+| 操作 | DuckDB | Polars | 结论 |
+|------|:---:|:---:|------|
+| 2TB Parquet扫描 | **45秒** | 60秒 | DuckDB领先25% |
+| 5GB数据集 | **2.3秒** | 3.3秒 | DuckDB领先 |
+| 12GB订单分组聚合 | 秒级 | 秒级 | 平手 |
+| 140GB文件峰值内存 | 1.3GB(自动溢出) | **750MB**(异步) | Polars内存更优 |
+| 窗口函数 | **持续领先** | — | DuckDB优势 |
+| CSV读取 | — | **持续领先** | Polars优势 |
+| Join | — | **持续领先** | Polars优势 |
+
+### 内存模型差异
+
+| 特性 | DuckDB | Polars |
+|------|--------|--------|
+| 超内存处理 | 自动溢出到磁盘（开箱即用） | 流式引擎（需手动启用+可流式查询结构） |
+| 默认I/O | 标准读取 | 内存映射I/O（可能导致指标虚高） |
+| 易用性 | 不用操心 | 需理解并正确配置 |
+
+### 选择公式
+
+- **SQL团队 / 临时查询 / 不想配置** → DuckDB
+- **Python ETL管道 / 转换密集型 / 静态类型** → Polars
+- **严肃生产** → 两者配合：DuckDB文件扫描+粗粒度聚合 → Polars精粒度转换 → Arrow零拷贝
+
+### 关键洞察
+
+> 文件分区比引擎选择对性能影响更大：分区可降低内存4-8倍，远超过切换引擎的收益。
 
 ## 关联知识
 

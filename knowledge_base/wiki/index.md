@@ -126,6 +126,10 @@ updated: 2026-07-07 18:16
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]] ⭐ NEW | Danilchenko 2TB Parquet实测：DuckDB 1.5.4 vs Polars 1.42.1，差异在舍入误差级别，文件分区比引擎选择更重要 | duckdb, polars, benchmark |
+| [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] ⭐ NEW | PG 2026全栈调优清单：64GB RAM配置方案、六大索引策略、六大反模式、PgBouncer、VACUUM、分区 | postgresql, sql, optimization, tuning |
+| [[2026-07-09_CSDN_全渠道BI三层架构]] ⭐ NEW | 服装全渠道BI三层架构：总部看全局→区域看趋势→门店看自己，四维指标体系+一键业务操作闭环 | bi, dashboard, retail, architecture, omnichannel |
+| [[2026-07-09_Nimbleway_2026零售数据分析指南]] ⭐ NEW | Nimbleway零售分析全景：77.3→119.7亿美元市场、四类分析、八层技术栈、八大实施步骤、多品牌六大最佳实践 | retail, analytics, ai, data_strategy, multi_brand |
 | [[2026-07-09_5月服装零售深度分析]] ⭐ NEW | 5月社零-0.6%但服装+3.8%，比音勒芬+121%/优衣库+76%/库销比改善 | kpi, ecommerce, competitor, industry |
 | [[2026-07-09_申万宏源2026中报前瞻]] ⭐ NEW | Q2品牌前瞻：比音勒芬高增/森马低基高增/海澜持平/户外+30-35% | competitor, financial, 2026q2, forecast |
 | [[2026-07-09_中国服装协会H1行业运行态势]] ⭐ NEW | H1定性：出口下行/内销增长/盈利承压，"十五五"科技/时尚/绿色/健康 | industry, policy, ai, fifteen_five |
@@ -453,6 +457,8 @@ updated: 2026-07-07 18:16
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
+| **107** | **07-09 23:28** | **L2_06/07+查漏 (C轮)** | **s4(PG调优+DDBvsPolars+BI三层+Nimbleway指南)/c3更新(SQL优化+duckdb+retail_bi)/p1更新(multi_brand)/L3同步2处/织网4条/矛盾0处 ✅** |
+
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
 
 | **104** | **07-08 06:35** | **L2_00/01/02 (A轮)** | **s2/c1更新(retail_ai+AI+消费新政)/e1更新(fast_retailing+6月同店)/L3同步2处/织网待执行/矛盾待检测** |

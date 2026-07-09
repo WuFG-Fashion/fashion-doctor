@@ -2,9 +2,9 @@
 type: concept
 title: SQL查询性能优化
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优]
 created: 2026-06-06
-updated: 2026-07-03
+updated: 2026-07-09
 cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]]
 ---
 
@@ -112,6 +112,67 @@ GROUP BY shop_id, sale_date;
 | **JIT 默认 off** | PG18默认on→PG19默认off | 分析型查询需手动开启 `SET jit = ON;` |
 | **LZ4 默认压缩** | TOAST 压缩从 pglz→lz4 | 大文本字段（商品描述/JSON）压缩更快 |
 
+## PostgreSQL 2026 性能调优完整清单（2026-07新增）⭐
+
+> 来源：[[2026-07-09_DevTo_PostgreSQL_2026性能调优]]
+
+### 硬件与核心参数（64GB RAM专用服务器）
+
+| 参数 | 推荐值 | 默认值 | 说明 |
+|------|--------|--------|------|
+| shared_buffers | 16GB (25%) | 128MB | >40% RAM反而有害 |
+| effective_cache_size | 48GB (50-75%) | 4GB | 影响查询计划选择 |
+| work_mem（分析型） | 256MB-1GB | 4MB | 每个排序/哈希操作 |
+| maintenance_work_mem | 2GB | 64MB | VACUUM/CREATE INDEX |
+| random_page_cost | 1.1 (SSD) | 4.0 | SSD必须修改 |
+| effective_io_concurrency | 200 (SSD) | 1 | 提高并行I/O |
+| max_parallel_workers | 8 | 8 | 保持 |
+| autovacuum_scale_factor | 0.05 | 0.2 | 100万行表从20万→5万死元组触发 |
+
+### 六大索引策略
+
+| 索引类型 | 用途 | 零售示例 |
+|---------|------|---------|
+| B-tree复合索引 | 多维查询 | `(shop_id, sale_date DESC)` |
+| 覆盖索引(INCLUDE) | Index-Only Scan | `(customer_id) INCLUDE(order_total, status)` |
+| 部分索引 | 跳过95%已完成数据 | `WHERE status='active'`仅索引活跃订单 |
+| GIN索引 | JSONB/全文搜索 | 会员标签查询、商品属性搜索 |
+| GiST索引 | 范围/几何 | 时间段预订、门店覆盖范围 |
+| 表达式索引 | 函数包裹列 | `LOWER(email)`索引修复 |
+| 分区本地索引 | 时序数据 | 按月份分区表，分区间独立索引 |
+
+### 六大查询反模式（含PG版）
+
+| # | 反模式 | 修正 | 零售对照 |
+|---|--------|------|---------|
+| 1 | `EXTRACT(YEAR FROM date)=2026` | `date>='2026-01-01' AND date<'2027-01-01'` | 销售查询不走索引 |
+| 2 | `WHERE user_id='42'`(隐式转换) | `WHERE user_id=42` | JOIN类型不匹配 |
+| 3 | `SELECT *` | 指定列名 | 内存/网络浪费，阻止覆盖索引 |
+| 4 | `NOT IN (SELECT...)` | `NOT EXISTS (SELECT 1...)` | 库存排除查询 |
+| 5 | `LIMIT 20 OFFSET 100000` | 键集分页 `WHERE id>last_id LIMIT 20` | 看板翻页性能 |
+| 6 | 未配置连接池 | PgBouncer事务模式 | 25连接→1000+客户端 |
+
+### PgBouncer连接池速配
+
+```ini
+pool_mode = transaction    # 最佳性能
+default_pool_size = 25     # 25服务端连接
+max_client_conn = 1000     # 1000+客户端
+```
+
+每个PG连接消耗5-10MB RAM，配合连接池max_connections可降至100以下。
+
+### 服装零售应用场景
+
+| 场景 | 调优要点 |
+|------|---------|
+| 销售订单表 | 按日期范围分区，DROP TABLE替代DELETE（避免大量WAL和死元组） |
+| 会员行为日志 | GIN索引加速JSONB标签查询 |
+| 库存快照 | 覆盖索引实现Index-Only Scan |
+| 多品牌统一查询 | PgBouncer事务模式支撑高并发Dashboard |
+| 实时销售监控 | 物化视图替代实时聚合 |
+| 促销分析 | 部分索引仅索引促销期数据 |
+
 ## 关联知识
 - [[零售数据仓库SQL实践]]
 - [[data_quality_retail_practice|数据质量零售实操规范]]
@@ -120,3 +181,4 @@ GROUP BY shop_id, sale_date;
 - [[duckdb_olap_engine_2026]] — OLAP引擎SQL加速
 - [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]] — PG18+AI工具详情
 - [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] — 十大实践+零售对照
+- [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] — 2026性能调优完整清单 ⭐ NEW
