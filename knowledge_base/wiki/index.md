@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-10 06:35
+updated: 2026-07-11 20:38
 ---
 
 # Fashion Doctor 知识库导航
@@ -25,12 +25,12 @@ updated: 2026-07-10 06:35
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖，Q2预测低基数高增长 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
-| [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%) | brand, competitor, hk_listed, ai, esg |
+| [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%) | brand, competitor, hk_listed, ai, esg |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
-| [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，2026Q1营收496亿SEK(-10.3%)/利润+22.7%/库存-16% → Q2营收548亿SEK(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳，降本红利渐尽 | brand, competitor, fast_fashion, turnaround |
+| [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，Q1营收496亿SEK(-10.3%)→Q2营收548亿(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳/全球门店4038家(-128)/线上>30%/亚太收缩/双向挤压困局 | brand, competitor, fast_fashion, turnaround |
 | [[burberry]] ⭐ NEW | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | brand, competitor, luxury, turnaround |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
@@ -38,15 +38,15 @@ updated: 2026-07-10 06:35
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[全渠道会员一体化]] | 线上线下会员ID/权益/标签统一 | vip, omnichannel, rfm |
-| [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%) | guide, ai, training |
-| [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 | merchandise, supply_chain |
+| [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%)+Megaview 1.2万导购30天(异议63→89%/NPS 42→58)+思创双轨(近三千人/以练代讲) | guide, ai, training |
+| [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 国盛中期策略(1-5月+7.2%/高分红双主线) + 安永三类品类框架 + 1-5月出口(1167.4亿+0.1%) + 商务部Q1零售基准 + 2026H1消费理由变硬框架 + **细分板块经营全景(男装53%毛利/户外+16%领跑/女装复苏)+运动流水+中报前瞻+浙商PE框架三方交叉验证 + H1运行态势定性(出口下行/内销增长/盈利承压)+申万Q2前瞻+5月电商品牌数据+库销比** | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
-| [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构 | otb, merchandise, supply_chain |
-| [[会员复购率提升策略]] ⭐ UPDATED | AI推荐+分层权益+场景触达，复购+18-35pp + VIP训练营71%全勤/转化+44.18%/私域白皮书五平台基准 | vip, repurchase, membership |
+| [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构+第七在线季前五步法(OTB提前2-3周决策/AI 14天预警) | otb, merchandise, supply_chain |
+| [[会员复购率提升策略]] ⭐ UPDATED | AI推荐+分层权益+场景触达，复购+18-35pp + VIP训练营71%全勤/转化+44.18%/私域白皮书五平台基准 + 桔尚300店复购35%/有赞付费会员礼品卡62% | vip, repurchase, membership |
 | [[服装门店经营AI化2026]] ⭐ NEW | 65%手工记账→AI经营大脑，周转+60%复购+35% | ai, retail_digitalization, store_operation |
 | [[男装品牌竞争格局2026Q1]] ⭐ NEW | 森马增速王/海澜大而不强/太平鸟拐点 | competitor, menswear, comparison |
 | 待迁移：售罄率 | 来自 L3_01_01 KPI健康基准 | kpi, sell_through |
@@ -76,7 +76,7 @@ updated: 2026-07-10 06:35
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint | ai, agent, fashion, supply_chain, agentic_commerce |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint + **Style3D数字伙伴(StyleClaw四大模块/报喜鸟三大智能体量体+50%/转化+25%/森马8月→15天/锦惠22-25数字员工)** | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+) | guide, training, coaching, ai |
@@ -437,6 +437,15 @@ updated: 2026-07-10 06:35
 | [[2026-07-09_导购激励定制2026]] ⭐ NEW | 导购激励2026年升级为终端动销+渠道协同+数据闭环：六费用/五因素/四能力 | guide, incentive, kpi, channel |
 | [[2026-07-09_品类管理三大误解]] ⭐ NEW | 15品牌调研：仅1家以消费者场景为品类第一维度且增速最快；月度滚动使售罄率65%→82% | merchandise, category_management, sell_through |
 | [[2026-07-09_季前商品计划波段OTB]] ⭐ NEW | 六层拆解链路：销售目标→渠道→品类→波段→OTB→SKU款深；首单70-80%/快反15-25% | merchandise, otb, sku, planning |
+| [[2026-06-22_波司登AI智能制造国家级典型案例]] ⭐ NEW | 波司登入选工信部数字领航类国家级案例，头样成本-60%/设备联网>90%/"以销定产"智能调度 | bosideng, ai, smart_factory, national_strategy |
+| [[2026-06-10_Style3D伙伴大会AI数字伙伴]] ⭐ NEW | StyleClaw数字伙伴AI中台+报喜鸟三大智能体(量体+50%/转化+25%/退货-10%)+森马8月→15天+锦惠22-25数字员工 | ai, agent, fashion, style3d, baoxiniao |
+| [[2026-07-03_H&M_Q2门店收缩与营业利润率]] ⭐ NEW | H&M全球门店4038家(-128)/营业利润率12%/线上>30%/双向挤压困局(ZARA上+SHEIN下) | hm, fast_fashion, store, profit_margin |
+| [[2026-07-11_有赞_付费会员体系第二增长曲线]] ⭐ NEW | 有赞付费会员体系：微奢零度299元送3350元/礼品卡62%/储值+35%额外消费 | vip, membership, paid_membership |
+| [[2026-07-11_桔尚女装_300店会员复购35%_AI提效]] ⭐ NEW | 桔尚300+店统一会员体系：复购35%/GMV+40%/会员消费占比56%/AI内容生产 | vip, membership, repurchase, ai |
+| [[2026-07-11_Megaview_AI陪练1.2万导购成交转化突破]] ⭐ NEW | Megaview 1.2万导购30天训练：异议准确率63%→89%/新人出单28%→45%/NPS 42→58 | guide, ai, coaching, megaview |
+| [[2026-07-11_思创_AI智能销售陪练双轨训练体系]] ⭐ NEW | 思创AI双轨训练：近三千人/以练代讲/新品专项+重点深耕双模式 | guide, ai, coaching, sichuang |
+| [[2026-07-11_第七在线_季前商品计划与OTB节奏管理]] ⭐ NEW | 第七在线五步法：六层拆解/波段OTB首单70-80%+快反15-25%/提前14天预警 | otb, merchandise, planning, ai |
+| [[2026-07-11_1688_服装柔性供应链白皮书_7天快反]] ⭐ NEW | 1688白皮书：柔性工厂翻倍/小单快反7天/起订50件/库存周转+30% | supply_chain, quick_response, flexible |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
@@ -460,7 +469,7 @@ updated: 2026-07-10 06:35
 ---
 | **107** | **07-09 23:28** | **L2_06/07+查漏 (C轮)** | **s4(PG调优+DDBvsPolars+BI三层+Nimbleway指南)/c3更新(SQL优化+duckdb+retail_bi)/p1更新(multi_brand)/L3同步2处/织网4条/矛盾0处 ✅** |
 
-| **106** | **07-10 06:35** | **L2_00/01/02 (A轮)** | **s1(迅销Q3九个月3.07万亿+17.1%)/e1更新(fast_retailing+Q3上调7100亿+中国同店转正)/织网待执行/矛盾待检测** |
+| **106** | **07-10 06:35** | **L2_00/01/02 (A轮)** | **s1(迅销Q3九个月3.07万亿+17.1%)/e1更新(fast_retailing+Q3上调7100亿+中国同店转正)/织网2条/矛盾0处 ✅** |
 
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
 
