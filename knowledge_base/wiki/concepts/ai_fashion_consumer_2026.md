@@ -4,8 +4,8 @@ title: AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
 tags: [ai, fashion_consumer, virtual_tryon, digital_human, agentic_commerce, consumer_behavior]
 sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md]
 created: 2026-07-02
-updated: 2026-07-02
-cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]]
+updated: 2026-07-12
+cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[2026-05-30_安踏灵犀穿搭大模型]]
 ---
 
 # AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理

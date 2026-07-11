@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-11 20:38
+updated: 2026-07-12 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -22,10 +22,11 @@ updated: 2026-07-11 20:38
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/Q3单季海外+65.2%/中国大陆同店转正/全年指引上调至7100亿/875店单店优化/⚠️6月日本同店-14.1%(天气扰动)/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
-| [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森-设计大脑"AI设计师40%+覆盖，Q2预测低基数高增长 | brand, competitor, menswear, ai |
+| [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
-| [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%) | brand, competitor, hk_listed, ai, esg |
+| [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%)+GiMS全链协同(头样100→27天/日吞吐100万件/补单8次+) | brand, competitor, hk_listed, ai, esg |
+| [[anta]] ⭐ NEW | 安踏集团，发布行业首个穿搭大模型"灵犀"，双模型闭环(灵龙设计+灵犀穿搭)，天猫测试退换货-10%/转化+10%/点击率+20%，AI辅助设计订货>90亿，数字人直播GMV>3亿 | brand, competitor, sportswear, ai |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -75,8 +76,8 @@ updated: 2026-07-11 20:38
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars/腾讯云千万级5.9x全链路/Tech Insider企业案例(GitHub-75%成本/JPMorgan SLA)/TCO | python, polars, pandas, benchmark, rfm |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
-| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint + **Style3D数字伙伴(StyleClaw四大模块/报喜鸟三大智能体量体+50%/转化+25%/森马8月→15天/锦惠22-25数字员工)** | ai, agent, fashion, supply_chain, agentic_commerce |
+| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) + **安踏灵犀实测(退换货-10%/转化+10%/点击率+20%/虚拟试鞋)** | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint + Style3D数字伙伴(StyleClaw四大模块/报喜鸟三大智能体量体+50%/转化+25%/森马8月→15天/锦惠22-25数字员工) + **安踏灵犀双模型闭环(试运行退换货-10%/转化+10%)+大森3.0(300+场景)+歌力思闪链侠+柯桥小布/AI布3.0** | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+) | guide, training, coaching, ai |
@@ -446,6 +447,10 @@ updated: 2026-07-11 20:38
 | [[2026-07-11_思创_AI智能销售陪练双轨训练体系]] ⭐ NEW | 思创AI双轨训练：近三千人/以练代讲/新品专项+重点深耕双模式 | guide, ai, coaching, sichuang |
 | [[2026-07-11_第七在线_季前商品计划与OTB节奏管理]] ⭐ NEW | 第七在线五步法：六层拆解/波段OTB首单70-80%+快反15-25%/提前14天预警 | otb, merchandise, planning, ai |
 | [[2026-07-11_1688_服装柔性供应链白皮书_7天快反]] ⭐ NEW | 1688白皮书：柔性工厂翻倍/小单快反7天/起订50件/库存周转+30% | supply_chain, quick_response, flexible |
+
+| [[2026-05-30_安踏灵犀穿搭大模型]] ⭐ NEW | 安踏"灵犀"穿搭大模型+灵龙设计双模型闭环，天猫测试退换货-10%/转化+10%/点击率+20%/AI订货>90亿 | anta, ai, virtual_tryon, agent |
+| [[2026-06-08_AI驱动服装供应链重塑]] ⭐ NEW | Zara AI 85%首批决策/库存率0.6% vs SHEIN 138变量/58天周转/滞销率-27%，波司登GiMS头样-73%/森马大森3.0 300+场景/歌力思AI闪链侠/柯桥小布+AI布 | ai, supply_chain, zara, shein, bosideng, semir |
+| [[2026-05-25_知衣FD+2.0_AI商拍]] ⭐ NEW | 知衣FD+ 2.0：六大核心功能/商拍30-45天→1-7天/单款40元/成本-95%/3000+品牌/Seedance2.0 60秒视频 | ai, virtual_tryon, ecommerce, zhiyi |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

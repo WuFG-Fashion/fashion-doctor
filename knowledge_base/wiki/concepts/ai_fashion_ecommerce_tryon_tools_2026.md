@@ -4,8 +4,8 @@ title: 服装AI试衣工具选型与落地（2026）
 tags: [ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech]
 sources: [2026-06-08_知衣FD_AI试衣工具选型.md]
 created: 2026-06-08
-updated: 2026-06-08
-cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-22_Genlook_12大AI时尚趋势2026]]
+updated: 2026-07-12
+cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[2026-05-25_知衣FD+2.0_AI商拍]]
 ---
 
 # 服装AI试衣工具选型与落地（2026）
