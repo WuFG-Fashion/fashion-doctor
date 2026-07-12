@@ -4,7 +4,7 @@ title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
 created: 2026-06-06
-updated: 2026-07-06
+updated: 2026-07-12
 cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]]
 ---
 
@@ -281,9 +281,9 @@ Rust 核心 (无GIL/内存安全/零成本抽象)
 
 | 指标 | 数值（2026-06） |
 |------|--------------|
-| GitHub Stars | **80,000+** |
+| GitHub Stars | **80,000+** ⚠️ |
 | 贡献者 | 500+ |
-| 月下载量 | 500万+ |
+| 月下载量 | 500万+ ⚠️ |
 | Discord成员 | 20,000+ |
 | 企业采用 | Databricks(Delta Lake)/Kaggle(30%+Notebook)/金融科技 |
 
@@ -661,7 +661,37 @@ agg.write_parquet("brand_agg.parquet")  # 输出
 - **>1GB + 生产ETL/实时分析/金融建模** → Polars
 - **最务实** → 双轨制：Polars重型引擎+Pandas ML胶水，Arrow零拷贝串联
 
+## TechInsider 2026-04 企业级基准与TCO更新（2026-07新增）⭐
+
+> 来源：[[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]]
+
+### 版本与市场（2026年4月）
+- Polars 1.24.0（流式引擎正式版），Pandas 2.2.3（3.0仍Alpha）
+- 周下载：Polars 280万（+250% YoY）vs Pandas 1,850万
+- 职位年增：Polars +450% vs Pandas +2%；Polars数据工程师薪资$171K（溢价$14-19K）
+
+### VU Amsterdam能源研究（2026-03，首个同行评审）
+- Polars每次等效操作耗电比Pandas少 **3-5x**
+- 每1TB批次：Polars **0.4kWh** vs Pandas **1.6-2.0kWh**
+
+### 内存占用更新（10GB CSV）
+
+| 场景 | Polars峰值 | Pandas峰值 | 缩减 |
+|------|-----------|-----------|------|
+| 10GB CSV解析+聚合 | 2.1GB | 18GB | **8.6x** |
+| 50GB Parquet扫描(流式) | 1.8GB | 32GB | **17x** |
+| 10亿行 group-by | 4.2GB | 45GB(OOM) | **10x+** |
+
+### AWS TCO更新
+- 1TB Parquet Join：Polars **$3.40/次** vs Pandas **$18.60/次**（8x大实例）
+- Polars Cloud托管：**$0.05/GB** 扫描
+- 日1TB管道年节省约500kWh
+
+### Netflix双轨制确认
+Netflix研究面向的推荐管道**保留Pandas**（笔记本<几GB），重聚合由Spark SQL上游处理。Polars+Pandas双轨为大规模ML特征工程标准范式。
+
 ## 关联知识（续）
 - [[2026-07-06_腾讯云_Polars_Pandas千万级实测]] ⭐ NEW
 - [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW
 - [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW
+- [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]] ⭐ NEW

@@ -4,7 +4,7 @@ title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]
 created: 2026-06-07
-updated: 2026-07-03
+updated: 2026-07-12
 cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]]
 ---
 
@@ -245,3 +245,30 @@ pg = st.navigation(
 )
 pg.run()
 ```
+
+## v1.59.0 新特性（2026-07新增）⭐
+
+> 来源：[[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]
+
+| 特性 | 说明 | 实用场景 |
+|------|------|---------|
+| **ButtonColumn** | column_config新增按钮列类型 | 表格行内操作按钮（审批/跳转/标记） |
+| **Mermaid图表** | st.markdown原生Mermaid渲染 | 架构图/流程图无需第三方组件 |
+| **chat_input文件粘贴** | Ctrl+V直接粘贴文件到聊天框 | 图片/文档快速上传 |
+
+### v1.58并行Fragment
+- `@st.fragment(parallel=True)`：Fragment并发运行，适合后台工作流
+- `st.pagination`：原生分页组件
+- `streamlit skills` CLI：AI Agent开发技能
+
+## 2026年上半年版本演进路线（v1.53→v1.59）
+
+```
+v1.53(01月) → v1.54(02月) → v1.55(03月) → v1.56(03月) → v1.57(04月) → v1.58(05月) → v1.59(07月)
+  Markdown增强   Widget绑定   动态容器     Python3.14    Starlette!   并行Fragment  ButtonColumn
+   Sidebar配置   Query Params  on_change    导航增强     st.bottom    st.pagination  Mermaid
+                                                         Polars零拷贝  skills CLI    文件粘贴
+```
+
+## 关联页面（续）
+- [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW

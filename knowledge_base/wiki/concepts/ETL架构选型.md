@@ -4,7 +4,7 @@ title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06
-updated: 2026-06-24
+updated: 2026-07-12
 cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-06-24_2026主流ETL工具横向评测]]
 ---
 
@@ -173,3 +173,35 @@ SegmentFault 2026年3月对Kettle/DataX/Informatica/DataStage/FineDataLink/ETLCl
 | 历史数据入仓 | ETLCloud整库同步 | 断点续传+自动调度 |
 | 数据分析API | ETLCloud数据服务 | 一键发布，报表消费 |
 | 低成本起步 | Kettle | 开源免费，社区活跃 |
+
+## 2026年ETL工具排名与全场景对比（2026-07新增）⭐
+
+> 来源：[[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]]
+
+### FineDataLink 2026年综合排名
+
+| 排名 | 平台 | 核心定位 | 适用场景 |
+|:---:|------|------|------|
+| 1 | **FineDataLink** | 低代码国产ETL | 多源集成/实时数仓/复杂ETL |
+| 2 | 阿里DataWorks | 云原生全链路 | 云原生/跨境/超大规模 |
+| 3 | 腾讯云数据治理 | 平台整合 | 数仓/同步/主数据 |
+| 4 | 华为FusionInsight | 自主可控 | 政企本地化/混合云 |
+| 5 | 星环TezData | 大数据原生 | 超大规模分析/实时处理 |
+
+### ETLCloud（中立全场景）
+- 国产流批一体，私有化/混合云/K8s多部署模式
+- CDC实时+API网关+数据服务
+- 优势：**中立无绑定**，全场景兼容
+
+### 2026年ETL选型五要素（扩展版）
+1. **开放度**：是否绑定单一云生态
+2. **实时能力**：CDC/流批一体/断点续传
+3. **部署灵活度**：纯本地/混合云/多K8s
+4. **AI集成度**：是否内置AI辅助治理
+5. **国产化兼容**：信创适配（CPU/OS/数据库）
+
+### 制造集团案例
+某制造集团10+套系统（ERP/MES等）→ FineDataLink统一数仓：ETL **4h→30min**，集成效率+75%。
+
+## 关联页面（续）
+- [[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]] ⭐ NEW

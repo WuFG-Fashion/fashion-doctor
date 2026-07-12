@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-12 06:35
+updated: 2026-07-12 23:33
 ---
 
 # Fashion Doctor 知识库导航
@@ -452,6 +452,11 @@ updated: 2026-07-12 06:35
 | [[2026-06-08_AI驱动服装供应链重塑]] ⭐ NEW | Zara AI 85%首批决策/库存率0.6% vs SHEIN 138变量/58天周转/滞销率-27%，波司登GiMS头样-73%/森马大森3.0 300+场景/歌力思AI闪链侠/柯桥小布+AI布 | ai, supply_chain, zara, shein, bosideng, semir |
 | [[2026-05-25_知衣FD+2.0_AI商拍]] ⭐ NEW | 知衣FD+ 2.0：六大核心功能/商拍30-45天→1-7天/单款40元/成本-95%/3000+品牌/Seedance2.0 60秒视频 | ai, virtual_tryon, ecommerce, zhiyi |
 
+| [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]] ⭐ NEW | TechInsider 2026-04基准：Polars 1.24.0 15-30x加速/8.6x内存/VU Amsterdam 3-5x省电/GitHub降本75%/JPMorgan 7.3x/TCO $3.40 vs $18.60 | polars, pandas, benchmark, enterprise, tco |
+| [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW | Streamlit v1.59.0：ButtonColumn/Mermaid/chat_input文件粘贴+v1.58并行Fragment+pagination | streamlit, dashboard, mermaid, parallel_fragment |
+| [[2026-07-12_DataHunter_数据治理MCP可插拔架构六厂商2026横评]] ⭐ NEW | 数据治理可插拔时代：MCP协议/IDC 2027年85%模块化/数猎天下全开放+5大智能体/六厂商开放度横评 | data_governance, mcp, vendor, ai_driven |
+| [[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]] ⭐ NEW | 2026年ETL工具全场景对比：FineDataLink排名第一/ETLCloud中立全场景/DataWorks阿里云锁定/五要素选型 | etl, tool_selection, multi_brand, data_warehouse |
+
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
 |----------|----------|------|
@@ -473,6 +478,10 @@ updated: 2026-07-12 06:35
 
 ---
 | **107** | **07-09 23:28** | **L2_06/07+查漏 (C轮)** | **s4(PG调优+DDBvsPolars+BI三层+Nimbleway指南)/c3更新(SQL优化+duckdb+retail_bi)/p1更新(multi_brand)/L3同步2处/织网4条/矛盾0处 ✅** |
+
+| **108** | **07-11 20:38** | **L2_03/04/05 (B轮)** | **s6/c4更新/织网6条/矛盾0处 ✅** |
+
+| **109** | **07-12 23:33** | **L2_06/07+查漏 (C轮)** | **s4(Polars企业级TCO+Streamlit v1.59+治理MCP+ETL排名)/c4更新(polars+streamlit+data_gov+ETL)/p2更新/L3同步3处/织网4条/矛盾0处 ✅** |
 
 | **106** | **07-10 06:35** | **L2_00/01/02 (A轮)** | **s1(迅销Q3九个月3.07万亿+17.1%)/e1更新(fast_retailing+Q3上调7100亿+中国同店转正)/织网2条/矛盾0处 ✅** |
 
