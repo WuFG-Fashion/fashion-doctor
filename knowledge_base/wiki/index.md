@@ -65,6 +65,9 @@ updated: 2026-07-12 23:33
 | [[apparel_ai_policy_2026]] ⭐ UPDATED | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
 | [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 + **申万宏源×方正交叉验证(歌力思+70%/地素+22%/女装板块级复苏) + 浙商PE估值表(6.5-16.7×)+三家券商系统化确认** | competitor, luxury, framework, brand_strategy |
 | [[ai_fashion_consumer_2026]] ⭐ NEW | AI时尚消费2026：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭(Alta)+数字衣橱(Vêtir)+数字人直播(安踏>10万h/GMV>3亿) | ai, fashion_consumer, digital_human, agentic_commerce |
+| [[2026-01-28_微盟AI试衣方案]] ⭐ NEW | 微盟AI试衣：客单价+28%/转化率+19%/退货率-15%/通义千问/全渠道路线 | ai, virtual_tryon, ecommerce, weimob |
+| [[2026-07-03_依明科技时尚AI智能体]] ⭐ NEW | 依明科技：国家备案时尚AI大模型/五大场景/11类数据底座/2750亿美元市场 | ai, agent, vendor, fashion |
+| [[2026-06-27_小红书FireRed开源AI试衣模型]] ⭐ NEW | 小红书FireRed开源：4.5秒推理/10+元素/消费级显卡/消费者信任危机(仅4%选择率) | ai, virtual_tryon, open_source, consumer_trust |
 
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
@@ -76,8 +79,8 @@ updated: 2026-07-12 23:33
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars/腾讯云千万级5.9x全链路/Tech Insider企业案例(GitHub-75%成本/JPMorgan SLA)/TCO | python, polars, pandas, benchmark, rfm |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
-| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) + **安踏灵犀实测(退换货-10%/转化+10%/点击率+20%/虚拟试鞋)** | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint + Style3D数字伙伴(StyleClaw四大模块/报喜鸟三大智能体量体+50%/转化+25%/森马8月→15天/锦惠22-25数字员工) + **安踏灵犀双模型闭环(试运行退换货-10%/转化+10%)+大森3.0(300+场景)+歌力思闪链侠+柯桥小布/AI布3.0** | ai, agent, fashion, supply_chain, agentic_commerce |
+| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60%/模型≤10MB + 5款工具横评(Kolors最强/即梦双模型全链路) + AI穿搭消费者洞察(Z世代女性78.4%正面) + **安踏灵犀实测(退换货-10%/转化+10%/点击率+20%/虚拟试鞋) + 微盟AI试衣(客单价+28%) + 小红书FireRed开源(信任危机/仅4%选择率)** | ai, virtual_tryon, ecommerce, tool_selection, consumer_behavior |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景+三步战略 + Agentic Commerce标杆(Rufus/Walmart/物美)+UCP/ACP/ACT三协议+NVIDIA四Blueprint + Style3D数字伙伴(StyleClaw四大模块/报喜鸟三大智能体量体+50%/转化+25%/森马8月→15天/锦惠22-25数字员工) + **安踏灵犀双模型闭环(试运行退换货-10%/转化+10%)+大森3.0(300+场景)+歌力思闪链侠+柯桥小布/AI布3.0 + 依明科技(国家备案/五大场景/11类数据底座)** | ai, agent, fashion, supply_chain, agentic_commerce |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+) | guide, training, coaching, ai |
@@ -86,7 +89,7 @@ updated: 2026-07-12 23:33
 | [[arrow_zero_copy_interop_2026]] ⭐ NEW | Apache Arrow零拷贝互操作2026：48x反序列化/90x类型转换/17.5x Flight + 多品牌实战全链路 | apache_arrow, zero_copy, interoperability, multi_brand |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
 | [[streamlit_dashboard_2026]] ⭐ UPDATED | Streamlit 2026 Starlette架构迁移(v1.57正式)+Polars Arrow零拷贝+并行Fragment(v1.58) | streamlit, production, caching, starlette, parallel_fragment |
-| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD 5步法/ROI测算/成本降80-92% + Kolors开源竞品/即梦双模型对比 | ai, virtual_tryon, tool_selection |
+| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD成本降80-92%/微盟+28%转化(平台路线)/小红书FireRed开源(4秒推理/信任危机) | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ UPDATED | DuckDB嵌入式OLAP引擎：1.5 ExtensionKit+Bloom Filter+Sirius GPU 7.2x性价比/零拷贝Arrow↔cuDF | duckdb, olap, sql, python, gpu |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
