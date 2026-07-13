@@ -84,4 +84,4 @@ created: 2026-06-05
 | 2026-07-11 20:38 | ingestA | L2_00/01/02 — 采集3篇/织网3条回链/矛盾1处(H&M营业利润率10.78%vs12%) |
 | 2026-07-12 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网10条回链/矛盾0处 ✅ (raw3→s3:安踏灵犀穿搭大模型退换货-10%/转化+10%+AI供应链重塑Zara 85%决策/SHEIN 138变量/森马大森3.0 300+场景+知衣FD+2.0 95%成本缩减→e1新增:anta+e3更新:bosideng/semir/inditex_zara→c2更新:ai_virtual_tryon+apparel_ai_agents→L3同步1处→Git:efe742c) |
 | 2026-07-11 20:38 | ingestB | L2_03/04/05 — 采集6篇/织网6条/矛盾0处 ✅ (raw6→s6→c4更新:会员复购率(桔尚35%+有赞付费会员)+AI导陪(Megaview 1.2万导线异议63→89%NPS 42→58+思创双轨)+动态OTB(第七在线五步法首单70-80%/快反15-25%/提前14天预警)+柔性供应链(1688 7天快反50件起订/工厂翻倍)→L3同步5处) |
-| 2026-07-12 23:33 | ingestC | L2_06/07+查漏 — 采集4篇/织网4条/矛盾0处 ✅ (raw4→s4:Polars企业级基准TCO/Streamlit v1.59/数据治理MCP可插拔/ETL工具2026排名→c4更新:polars+streamlit+data_gov+ETL→p2更新→L3同步3处→Git推送) |
+| 2026-07-13 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网9条(3 source→3 concept更新+1 concept回链)/矛盾0处 ✅ (raw3→s3: 微盟AI试衣(通义千问客单价+28%)+依明科技(国家备案)+小红书FireRed(信任危机4%选择率) → c3更新: ai_virtual_tryon(消费者信任+微盟) / ai_fashion_ecommerce_tryon_tools(微盟+FireRed) / apparel_ai_agents(依明) → c1回链: retail_ai_adoption ← 3新source → Git: f64e7a8) |
