@@ -44,4 +44,4 @@ cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[st
 - [[polars_vs_pandas_2026]] — 2026 Python DataFrame 选型对比
 - [[python_data_stack_decision_2026]] — <5GB Pandas / 5-100GB Polars+DuckDB / >100GB Spark
 - [[streamlit_dashboard_2026]] — Streamlit 2026 看板生态
-- [[数据质量常态化治理]] — CoW 机制对数据质量治理的价值
+- [[data_quality_governance|数据质量常态化治理]] — CoW 机制对数据质量治理的价值
