@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-15 03:26
+updated: 2026-07-15 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -17,7 +17,7 @@ updated: 2026-07-15 03:26
 | [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
-| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿，毛利率62.87%，AI全链路(线稿成款/内容×2/Agent探索) | brand, competitor, a_share, ai |
+| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" | brand, competitor, a_share, ai, turnaround |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
@@ -26,7 +26,7 @@ updated: 2026-07-15 03:26
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
 | [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%)+GiMS全链协同(头样100→27天/日吞吐100万件/补单8次+) | brand, competitor, hk_listed, ai, esg |
-| [[anta]] ⭐ NEW | 安踏集团，发布行业首个穿搭大模型"灵犀"，双模型闭环(灵龙设计+灵犀穿搭)，天猫测试退换货-10%/转化+10%/点击率+20%，AI辅助设计订货>90亿，数字人直播GMV>3亿 | brand, competitor, sportswear, ai |
+| [[anta]] ⭐ UPDATED | 安踏集团，灵犀大模型火山引擎发布：Lumina平台/六维评测/四道精修/Logo还原100%/成本-80%，"谁更懂消费者" | brand, competitor, sportswear, ai, virtual_tryon |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
@@ -55,7 +55,7 @@ updated: 2026-07-15 03:26
 | 待迁移：VIP分层 | 来自 L3_03_01 VIP分层模型 | vip, customer |
 | 待迁移：明星导购 | 来自 L3_04_01 明星导购识别 | guide, evaluation |
 | 待迁移：波段上货 | 来自 L3_05_01 波段上货节奏 | merchandise, timing |
-| [[apparel_inventory_benchmark_2026]] ⭐ NEW | 2026服装库存全景：1850亿/积压率45%/周转2.1次/四维健康红线 | inventory, stock, turnover, kpi, benchmark |
+| [[apparel_inventory_benchmark_2026]] ⭐ UPDATED | 2026服装库存基准：1850亿/积压率45% + 券商研报KPI(周转率季≥4.0/新品30天售罄≥35%/GMROI≥3.0) | inventory, stock, turnover, kpi, benchmark |
 | [[retail_analytics_reporting_2026]] ⭐ NEW | 服装零售报表2026：五大趋势+六维KPI+五步优化+李宁补货+20% | retail, analytics, reporting, ai_bi |
 | [[china_apparel_export_2026]] ⭐ NEW | 2026年1-4月出口442.3亿(-0.9%)/针织+1.8%梭织-3.7%/在美份额10.7%被越南反超 | export, trade, supply_chain, industry |
 | [[retail_data_workflow_2026]] ⭐ NEW | CRISP-DM七步工作流×服装零售/Pandas-Polars-DuckDB三引擎选型/EDA三类+可视化全家桶 | retail, analytics, workflow, crisp_dm, eda |
@@ -79,8 +79,8 @@ updated: 2026-07-15 03:26
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 2026选型：1亿行RFM 15x(28s vs 420s)/窗口函数11.9x/v1.26新功能(异步/GPU/流式)/94x(PDS-H)/80K+Stars/腾讯云千万级5.9x全链路/Tech Insider企业案例(GitHub-75%成本/JPMorgan SLA)/TCO | python, polars, pandas, benchmark, rfm |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
-| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60% + Kolors/即梦/安踏灵犀+微盟/小红书FireRed + **2026全球VTO产业全景(McKinsey $150-275B/DressX 10x/Saiz+70%/Agentic数据飞轮)** + iTryOn ICML2026互动式视频试衣 | ai, virtual_tryon, ecommerce, tool_selection, agentic_commerce |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + Rufus/Walmart/物美 + Style3D/报喜鸟 + 安踏灵犀/大森3.0/歌力思闪链侠 + 依明科技(国家备案) + **三态比特轻链AI(唯一备案/商拍降本九成/申洲迪尚)** | ai, agent, fashion, supply_chain, vendor |
+| [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60% + 安踏灵犀火山引擎技术详解(Lumina/六维/四道精修/Logo还原100%) + 翠微百货线下VTO + iTryOn ICML2026 + RenderedFits全景 | ai, virtual_tryon, ecommerce, anta, volcano_engine |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + 酷特智能C2M工信部案例(KTOS/近百国) + 新华网AI全产业链(森马/URV/波司登/翠微) + 安踏灵犀/大森3.0/依明/三态比特 | ai, agent, fashion, supply_chain, c2m |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+)+帆软AI诊断四化 | guide, training, coaching, ai |
@@ -130,6 +130,11 @@ updated: 2026-07-15 03:26
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-05-06_新华网_AI改写衣橱全产业链]] ⭐ NEW | 新华网官方：森马AI设计30秒/URV AI调拨售罄+80%/波司登智能制造/翠微百货虚拟试衣 | ai, apparel, design, supply_chain, xinhua |
+| [[2026-07-07_安踏灵犀穿搭大模型火山引擎]] ⭐ NEW | 火山引擎FORCE大会：灵犀Lumina平台/六维评测/四道精修/版型还原>90%/Logo还原100% | ai, anta, virtual_tryon, volcano_engine |
+| [[2026-07-10_酷特智能AGI工信部典型案例]] ⭐ NEW | 工信部2025AI典型案例：酷特智能C2M全链路/近百个国家/KTOS跨行业复制 | ai, c2m, smart_manufacturing, miit |
+| [[2026-07-15_券商研报_服装行业全景解析]] ⭐ NEW | 华泰/广发/中金研报汇总：库存周转86天/毛利率38.2%/净利率6.7%/新品售罄率≥35% | kpi, benchmark, inventory, cost, industry |
+| [[2026-06-02_浙江日报_太平鸟30周年深度]] ⭐ NEW | 浙江日报一线采访：2025FY 63.34亿/关375店，2026Q1扣非+33.46%/毛利率62.60% | peacebird, competitor, turnaround, brand_strategy |
 | [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]] ⭐ NEW | Danilchenko 2TB Parquet实测：DuckDB 1.5.4 vs Polars 1.42.1，差异在舍入误差级别，文件分区比引擎选择更重要 | duckdb, polars, benchmark |
 | [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] ⭐ NEW | PG 2026全栈调优清单：64GB RAM配置方案、六大索引策略、六大反模式、PgBouncer、VACUUM、分区 | postgresql, sql, optimization, tuning |
 | [[2026-07-09_CSDN_全渠道BI三层架构]] ⭐ NEW | 服装全渠道BI三层架构：总部看全局→区域看趋势→门店看自己，四维指标体系+一键业务操作闭环 | bi, dashboard, retail, architecture, omnichannel |

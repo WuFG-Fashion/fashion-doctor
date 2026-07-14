@@ -2,10 +2,10 @@
 type: entity
 title: 安踏集团 (ANTA)
 tags: [anta, competitor, sportswear, ai, hk_listed]
-sources: [2026-05-30_安踏_灵犀穿搭大模型.md]
+sources: [2026-05-30_安踏_灵犀穿搭大模型.md, 2026-07-15_火山引擎_安踏灵犀穿搭大模型发布.md]
 created: 2026-07-12
-updated: 2026-07-12
-cross_refs: [[ai_virtual_tryon_2026]], [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]], [[ai_fashion_consumer_2026]], [[bienlefen]]
+updated: 2026-07-15
+cross_refs: [[ai_virtual_tryon_2026]], [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]], [[ai_fashion_consumer_2026]], [[bienlefen]], [[2026-07-07_安踏灵犀穿搭大模型火山引擎]]
 ---
 
 # 安踏集团 (ANTA)
@@ -28,6 +28,19 @@ cross_refs: [[ai_virtual_tryon_2026]], [[apparel_ai_agents_2026]], [[retail_ai_a
 | 四大模型能力 | 穿搭推荐、虚拟试衣、虚拟试鞋、秒换背景 |
 | 数据底座 | 6年超百万张真实产品图 |
 | 用户交互 | 上传照片 + 输入场景 → 多套完整穿搭方案 |
+
+### 灵犀技术架构（火山引擎FORCE大会 2026-07 发布）
+
+| 维度 | 详情 |
+|------|------|
+| 技术底座 | 火山引擎 **Lumina平台** + Seedance/Seedream/Seed |
+| 六维评测 | 穿着贴合感、材质质感、画面清晰度、光影自然度、细节保真度、整体真实感 |
+| 四道精修 | 光影重建 + 品牌色域对齐 + 面料肌理增强 + 4K超分辨率 |
+| Logo还原度 | **100%** |
+| 版型材质还原度 | **>90%** |
+| 内容制作成本 | **↓80%**（制作周期从数天压缩至几分钟） |
+
+> 安踏IT副总裁王宏星："体育用品零售的下一个十年，不是谁的商品更多更便宜，而是谁更懂消费者。灵犀，就是安踏给出的答案。"
 
 ### 灵犀试运行效果（天猫测试店铺）
 
