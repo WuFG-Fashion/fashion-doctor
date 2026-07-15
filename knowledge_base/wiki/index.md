@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-15 23:37
+updated: 2026-07-16 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -100,6 +100,7 @@ updated: 2026-07-15 23:37
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x) | data_governance, data_asset, ai_driven, dcmm |
 | [[china_apparel_2025_annual]] ⭐ UPDATED | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% + 月度轨迹(12月最惨/11月对美出口-23%) | industry, kpi, benchmark, 2025 |
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x)/普元易数5星全生命周期 | data_governance, data_asset, ai_driven, dcmm, platform_selection |
+| [[global_apparel_financial_benchmarks_2026]] ⭐ NEW | 全球服装财务基准：毛利率55.3%/运营6.7%/退货25-40%/库存2.43x/LTV:CAC≥3:1/NYU Stern 35家对照 | kpi, benchmark, global, financial, dtc, inventory |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -485,6 +486,11 @@ updated: 2026-07-15 23:37
 | [[2026-07-15_Gartner_2026数据治理四大趋势与CIO_IN_OUT]] ⭐ NEW | Gartner 2026 MQ四大趋势(非结构化/整合/消费者化/动态信任)+CIO 6 IN/5 OUT | data_governance, ai, lakehouse, zero_etl, iceber |
 | [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]] ⭐ NEW | DuckDB vs Polars共存：DuckDB做聚合+Polars做变换+Arrow桥梁，分区决定内存(8x/4x) | duckdb, polars, benchmark, arrow, coexistence |
 | [[2026-07-15_Pandas_3.0_Arrow原生架构革命]] ⭐ NEW | Pandas 3.0架构革命：Arrow String 30x(80MB→12MB)/CoW默认/PyArrow迁移 | pandas, pyarrow, copy_on_write, string, zero_copy |
+
+| [[2026-07-16_style3d_partner_2026]] ⭐ NEW | StyleClaw数字伙伴AI中台+报喜鸟三大智能体(量体+50%/转化+25%)+森马8月→15天+望思达+80% | ai, agent, fashion, style3d, digital_transformation |
+| [[2026-07-16_mofcom_2026_jan_feb_apparel]] ⭐ NEW | 商务部2026年1-2月：服装零售+10.7%/出口+14.8%/利润-5.19%/利润率3.58%——春节脉冲信号 | industry, kpi, benchmark, mofcom, china_apparel |
+| [[2026-07-16_eightx_apparel_financial_benchmarks_2026]] ⭐ NEW | Eightx全球服装基准：毛利率55.3%→运营6.7%蒸发48pp/库存2.43x/退货25-40%/LTV:CAC≥3:1 | kpi, benchmark, global, dtc, financial |
+| [[2026-07-16_apparel_30_brands_2026q1_ranking]] ⭐ NEW | 2026Q1服装家纺30强：合计370.74亿/22家正增长/海澜66.61亿居首/森马+45.25%净利领跑 | competitor, ranking, financial, a_share, 2026q1 |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

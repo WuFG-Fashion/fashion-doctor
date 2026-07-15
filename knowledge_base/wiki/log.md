@@ -90,3 +90,4 @@ created: 2026-06-05
 | 2026-07-15 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网15条/矛盾1处(raw5→s5:新华网AI全产业链+安踏灵犀火山引擎+酷特智能AGI工信部+券商研报KPI+太平鸟30周年→e2更新:peacebird/anta→c3更新:apparel_ai_agents+ai_virtual_tryon+inventory_benchmark→L3同步5处→Git:fcc23db) |
 | 2026-07-15 20:43 | ingestB | L2_03/04/05 — 采集6篇/织网12条/矛盾0处 ✅ (raw6→s6:JNBY H1会员数据+微盛SCRM+Megaview5维16粒+北森五模式+七在线库存优化+区域OTB ABC→c5更新:会员复购率/AI导陪/导培闭环/动态OTB/sku管理→e1更新:jnby→L3同步7处→Git:90e583e) |
 | 2026-07-15 23:37 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:Polars 1.42云I/O+Gartner MQ4趋势+CIO IN/OUT+DuckDB共存+Pandas 3.0 Arrow革命→c3更新:polars_vs_pandas/data_governance/duckdb→p1更新:multi_brand) |
+| 2026-07-16 06:35 | ingestA | L2_00/01/02 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:Style3D伙伴大会+商务部1-2月+Eightx全球基准+Q1 30强→c1新增:global_apparel_financial_benchmarks_2026→c2更新:apparel_ai_agents+industry_q1→e1更新:semir→L3同步3处→Git:待推送) |
