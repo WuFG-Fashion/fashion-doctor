@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-15 06:35
+updated: 2026-07-15 23:37
 ---
 
 # Fashion Doctor 知识库导航
@@ -481,6 +481,10 @@ updated: 2026-07-15 06:35
 | [[2026-07-15_北森零售五模式方案]] ⭐ NEW | 北森零售五模式：自由对话/固定/3D/PPT/话术考核+多品类差异化 | guide, ai, coaching, beisen |
 | [[2026-07-15_第七在线库存优化指南]] ⭐ NEW | 中国鞋服库存周转180天/五根因+三层协同+六核心指标/GMROI 1.86-3.01 | inventory, otb, merchandise, sell_through |
 | [[2026-07-15_区域店铺OTB_ABC管理]] ⭐ NEW | 区域OTB：存货平衡/ABC管理法/存销比4.5-5.5/店铺分级精准分货 | otb, merchandise, abc, inventory |
+| [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]] ⭐ NEW | Polars 1.42：自适应云I/O 2-4x/6类矛盾过滤器/is_sorted() DataFrame级 | polars, i_o_optimization, query_optimizer, cloud |
+| [[2026-07-15_Gartner_2026数据治理四大趋势与CIO_IN_OUT]] ⭐ NEW | Gartner 2026 MQ四大趋势(非结构化/整合/消费者化/动态信任)+CIO 6 IN/5 OUT | data_governance, ai, lakehouse, zero_etl, iceber |
+| [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]] ⭐ NEW | DuckDB vs Polars共存：DuckDB做聚合+Polars做变换+Arrow桥梁，分区决定内存(8x/4x) | duckdb, polars, benchmark, arrow, coexistence |
+| [[2026-07-15_Pandas_3.0_Arrow原生架构革命]] ⭐ NEW | Pandas 3.0架构革命：Arrow String 30x(80MB→12MB)/CoW默认/PyArrow迁移 | pandas, pyarrow, copy_on_write, string, zero_copy |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

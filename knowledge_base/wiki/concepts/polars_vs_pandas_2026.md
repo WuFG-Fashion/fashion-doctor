@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命]
 created: 2026-06-06
-updated: 2026-07-12
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]]
+updated: 2026-07-15
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -695,3 +695,69 @@ Netflix研究面向的推荐管道**保留Pandas**（笔记本<几GB），重聚
 - [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]] ⭐ NEW
 - [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] ⭐ NEW
 - [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]] ⭐ NEW
+
+## Polars 1.42 新特性（2026-07新增）⭐
+
+> 来源：[[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]]
+
+Polars 1.42（2026-06-29 发布）三大亮点：
+
+| 特性 | 说明 | 实测数据 |
+|------|------|---------|
+| 自适应云I/O并发 | 动态调整S3/GCS/Azure并发请求数 | TPC-H SF=1000 整体2x，I/O密集最高4x |
+| 矛盾过滤器消除 | 识别6类矛盾谓词，折叠为空结果，零扫描 | 程序化构建谓词自动短路 |
+| is_sorted() 扩展 | DataFrame和Expr级别排序检测 | 支持descending和nulls_last |
+
+6类矛盾检测：逻辑否定、反向比较、空成员、不相交范围、非重叠区间、范围外相等。云I/O优化零API变更，现有调用自动受益。
+
+## Pandas 3.0 Arrow原生架构革命（2026-07新增）⭐
+
+> 来源：[[2026-07-15_Pandas_3.0_Arrow原生架构革命]]（匡醍量化深度解读）
+
+### Arrow String 30x 加速
+
+| 指标 | 旧版(NumPy Object) | 3.0(Arrow String) | 提升 |
+|------|-------------------|-------------------|:---:|
+| 100万行6字符内存 | ~80MB | ~12MB | **6.7x** |
+| str.upper() 计算 | baseline | 30x+ | **30x+** |
+| CSV读取 | 需手动engine='pyarrow' | 自动最优 | 零配置 |
+
+### Copy-on-Write 确定性语义
+
+Pandas 3.0 默认开启 CoW：切片是引用（零开销），修改时自动创建副本。**彻底消除 SettingWithCopyWarning**。核心推动者：Patrick Hoefler（牛津→Citadel），几乎凭一己之力重构内部索引逻辑。
+
+### Pandas 3.0 不可替代的价值
+
+- **拥有 Index 和 MultiIndex**（Polars 没有且几乎永远不会加），支持 stack/unstack/pivot_table
+- Scikit-learn / Statsmodels / 回测引擎生态血管里流淌 Pandas 格式
+- 不脱离生态即可获得接近 Polars 的性能
+
+## DuckDB vs Polars 共存生产模式（2026-07新增）⭐
+
+> 来源：[[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]（Danilchenko 生产实战）
+
+### 核心公式：DuckDB做聚合，Polars做变换，Arrow做桥梁
+
+```python
+# DuckDB SQL 扫描+粗粒度聚合 → 零拷贝 → Polars 排名+业务逻辑
+orders = duckdb.sql("""
+    SELECT customer_id, product, sum(amount) AS revenue
+    FROM 'data/orders/*.parquet'
+    WHERE order_date >= '2026-01-01'
+    GROUP BY customer_id, product
+""").pl()  # 零拷贝转Polars
+
+result = orders.with_columns(
+    revenue_rank=pl.col("revenue").rank("dense", descending=True).over("customer_id")
+).filter(pl.col("revenue_rank") <= 3)
+```
+
+### 内存抉择
+
+140GB单文件：DuckDB 1.3GB（自动溢出）vs Polars 750MB（强制异步读）。分区使DuckDB降8x、Polars降4x——**文件布局比引擎选择更影响内存**。
+
+### 选择快捷公式
+
+- SQL团队/临时查询/不想配置 → DuckDB
+- Python ETL管道/变换密集/静态类型 → Polars
+- 严肃生产 → 两者配合，Arrow零拷贝串联

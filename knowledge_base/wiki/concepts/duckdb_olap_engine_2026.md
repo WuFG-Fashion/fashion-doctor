@@ -2,10 +2,10 @@
 type: concept
 title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
-sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]
+sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比]
 created: 2026-06-08
-updated: 2026-07-09
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
+updated: 2026-07-15
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -203,3 +203,25 @@ PyInns 2026年3月实测，覆盖1亿-10亿行数据集（单节点M3 Max / Ryze
 - [[python_data_stack_decision_2026|Python数据栈边界决策框架]]
 - [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] ⭐ NEW
 - [[2026-06-24_DuckDB_vs_Polars_2026基准对比]] ⭐ NEW
+
+## DuckDB + Polars 共存生产模式（2026-07新增）⭐
+
+> 来源：[[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]
+
+### 分工公式
+
+```
+DuckDB SQL扫描+聚合 → .pl()零拷贝 → Polars 排名+变换 → .to_pandas() ML
+    126x加载               Arrow桥梁           5-10x多线程          生态最全
+```
+
+### 生产验证数据
+
+| 指标 | DuckDB 1.5.4 | Polars 1.42.1 |
+|------|-------------|---------------|
+| 2TB Parquet | ~45s | ~60s |
+| 140GB单文件峰值内存 | 1.3GB（自动溢出） | 750MB（异步读） |
+| 窗口函数 | 持续领先 | — |
+| CSV读取+Join | — | 持续领先 |
+
+> 关键：分区数据使DuckDB降8x、Polars降4x —— **文件布局 > 引擎选择**。
