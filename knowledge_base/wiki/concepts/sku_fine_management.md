@@ -4,7 +4,7 @@ title: 服装SKU精细化管理
 tags: [sku, inventory, abc_xyz, replenishment, sell_through, merchandise]
 sources: [https://www.jiandaoyun.com/nblog/463605/, 2026-06-10_搜狐_服装SKU三色N码管理2026, 2026-06-11_搜狐_海量SKU三维矩阵与库存智能引擎, 2026-07-09_微博_品类管理3个误解, 2026-07-09_百家号_季前商品计划波段OTB与SKU款深, 2026-07-13_金波_小单快反90天实战]
 created: 2026-06-06
-updated: 2026-07-13
+updated: 2026-07-15
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[SQL查询性能优化]], [[sell_through_examination_standard_2026|售罄率考核基准2026]], [[2026-05-07_新浪财经_永辉SKU优化调改实践]], [[2026-06-09_搜狐_海量SKU与直营加盟混合ERP]], [[2026-04-29_搜狐_服装品牌控SKU稳库存ERP选型]], [[2026-07-09_品类管理三大误解]], [[2026-07-09_季前商品计划波段OTB]], [[2026-07-13_金波_小单快反90天实战]]
 ---
 

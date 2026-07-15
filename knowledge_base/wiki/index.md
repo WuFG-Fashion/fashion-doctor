@@ -475,6 +475,12 @@ updated: 2026-07-15 06:35
 | [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW | Streamlit v1.59.0：ButtonColumn/Mermaid/chat_input文件粘贴+v1.58并行Fragment+pagination | streamlit, dashboard, mermaid, parallel_fragment |
 | [[2026-07-12_DataHunter_数据治理MCP可插拔架构六厂商2026横评]] ⭐ NEW | 数据治理可插拔时代：MCP协议/IDC 2027年85%模块化/数猎天下全开放+5大智能体/六厂商开放度横评 | data_governance, mcp, vendor, ai_driven |
 | [[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]] ⭐ NEW | 2026年ETL工具全场景对比：FineDataLink排名第一/ETLCloud中立全场景/DataWorks阿里云锁定/五要素选型 | etl, tool_selection, multi_brand, data_warehouse |
+| [[2026-07-15_江南布衣2026H1会员数据]] ⭐ NEW | 江南布衣2026H1：活跃会员59万/高价值34万/复购>40%/会员贡献>80%零售 | jnby, vip, membership, repurchase |
+| [[2026-07-15_微盛SCRM服装私域选型]] ⭐ NEW | 微盛SCRM：15万+企业/流失-22%/转化+25%/复购+30%/三大场景 | vendor, scrm, membership, private_domain |
+| [[2026-07-15_Megaview_5维16粒度复盘]] ⭐ NEW | Megaview 5维16粒度评分：知识留存72%/上岗6月→2月/Agent Team架构 | guide, ai, coaching, megaview |
+| [[2026-07-15_北森零售五模式方案]] ⭐ NEW | 北森零售五模式：自由对话/固定/3D/PPT/话术考核+多品类差异化 | guide, ai, coaching, beisen |
+| [[2026-07-15_第七在线库存优化指南]] ⭐ NEW | 中国鞋服库存周转180天/五根因+三层协同+六核心指标/GMROI 1.86-3.01 | inventory, otb, merchandise, sell_through |
+| [[2026-07-15_区域店铺OTB_ABC管理]] ⭐ NEW | 区域OTB：存货平衡/ABC管理法/存销比4.5-5.5/店铺分级精准分货 | otb, merchandise, abc, inventory |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

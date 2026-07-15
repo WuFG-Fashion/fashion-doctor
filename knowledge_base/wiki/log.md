@@ -87,3 +87,4 @@ created: 2026-06-05
 | 2026-07-13 20:40 | ingestB | L2_03/04/05 — 采集6篇/织网12条/矛盾0处 ✅ (raw6→s6→c5更新:会员复购率(尊云SOP-C转化≥15%/复购≥40%+忠诚度五转向Z世代73%)+AI导陪(北森珠宝35场景达标-37%客单+5.8%+帆软诊断客单+18%/复购+32%)+导培闭环(帆软四化)+动态OTB(PANTEL六步法李宁售罄62→78%/周转143→89天)+sku管理(金波快反起订-90%/滞销-25pp)→L3同步7处→Git:7e0e73c) |
 | 2026-07-14 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网15条/矛盾0处 ✅ (raw5→s5:服装协会1-5月运行/申万Q2前瞻/iTryOn ICML2026/RenderedFits VTO趋势/三态比特轻链AI→e1更新:fast_retailing(毛利率54.9%)→c3更新:china_apparel_industry_2026q1(1-5月数据)/ai_virtual_tryon_2026(RenderedFits)+agentic_commerce(VTO飞轮)+apparel_ai_agents(三态比特)→L3同步3处) |
 | 2026-07-15 03:26 | optimize | lint(断链7/孤岛0/矛盾0/过期0/分类0)+织网+索引 |
+| 2026-07-15 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网15条/矛盾1处(raw5→s5:新华网AI全产业链+安踏灵犀火山引擎+酷特智能AGI工信部+券商研报KPI+太平鸟30周年→e2更新:peacebird/anta→c3更新:apparel_ai_agents+ai_virtual_tryon+inventory_benchmark→L3同步5处→Git:fcc23db) |
