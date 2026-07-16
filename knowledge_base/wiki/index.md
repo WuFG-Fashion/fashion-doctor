@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-16 06:35
+updated: 2026-07-17 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -33,6 +33,8 @@ updated: 2026-07-16 06:35
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
 | [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，Q1营收496亿SEK(-10.3%)→Q2营收548亿(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳/全球门店4038家(-128)/线上>30%/亚太收缩/双向挤压困局 | brand, competitor, fast_fashion, turnaround |
 | [[burberry]] ⭐ NEW | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | brand, competitor, luxury, turnaround |
+| [[anzheng_fashion]] ⭐ NEW | 安正时尚603839，2026H1净利5800-8500万(+162%~285%)/扣非+303%~494%/JZ玖姿聚焦战略 | brand, competitor, womenswear, a_share |
+| [[langzi_fashion]] ⭐ NEW | 朗姿股份002612，"女装+医美+婴童"三主业，Q1女装+13.11%/医美+14%/H1经营性+30~60% | brand, competitor, womenswear, medical_aesthetics |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -491,6 +493,10 @@ updated: 2026-07-16 06:35
 | [[2026-07-16_mofcom_2026_jan_feb_apparel]] ⭐ NEW | 商务部2026年1-2月：服装零售+10.7%/出口+14.8%/利润-5.19%/利润率3.58%——春节脉冲信号 | industry, kpi, benchmark, mofcom, china_apparel |
 | [[2026-07-16_eightx_apparel_financial_benchmarks_2026]] ⭐ NEW | Eightx全球服装基准：毛利率55.3%→运营6.7%蒸发48pp/库存2.43x/退货25-40%/LTV:CAC≥3:1 | kpi, benchmark, global, dtc, financial |
 | [[2026-07-16_apparel_30_brands_2026q1_ranking]] ⭐ NEW | 2026Q1服装家纺30强：合计370.74亿/22家正增长/海澜66.61亿居首/森马+45.25%净利领跑 | competitor, ranking, financial, a_share, 2026q1 |
+| [[2026-07-13_中国服装协会_2026年1-5月行业运行]] ⭐ NEW | 1-5月营收3932.96亿(-3.75%)/利润102.77亿(-11.41%)/利润率2.61%/内销+7.4%/出口转负/月度五连降轨迹 | industry, kpi, benchmark, china_apparel |
+| [[2026-07-03_IBM_Fiducia_AI_SpeedShotX]] ⭐ NEW | IBM watsonx.ai × Kate Barton NYFW：5+2天部署/2500+客户/奢侈品AI试穿低门槛示范 | ai, virtual_tryon, luxury, ibm, agentic_commerce |
+| [[2026-07-14_安正时尚_2026H1业绩预告]] ⭐ NEW | 安正时尚603839：H1净利5800-8500万(+162~285%)/扣非+303~494%/JZ玖姿聚焦战略 | competitor, anzheng, womenswear, earnings |
+| [[2026-07-14_朗姿股份_2026H1业绩预告]] ⭐ NEW | 朗姿股份002612：H1经营性+30~60%/女装Q1+13.11%/医美+14%/双主业驱动 | competitor, langzi, womenswear, medical_aesthetics, earnings |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
