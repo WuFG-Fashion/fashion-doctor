@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-17 06:35
+updated: 2026-07-17 20:45
 ---
 
 # Fashion Doctor 知识库导航
@@ -497,6 +497,12 @@ updated: 2026-07-17 06:35
 | [[2026-07-03_IBM_Fiducia_AI_SpeedShotX]] ⭐ NEW | IBM watsonx.ai × Kate Barton NYFW：5+2天部署/2500+客户/奢侈品AI试穿低门槛示范 | ai, virtual_tryon, luxury, ibm, agentic_commerce |
 | [[2026-07-14_安正时尚_2026H1业绩预告]] ⭐ NEW | 安正时尚603839：H1净利5800-8500万(+162~285%)/扣非+303~494%/JZ玖姿聚焦战略 | competitor, anzheng, womenswear, earnings |
 | [[2026-07-14_朗姿股份_2026H1业绩预告]] ⭐ NEW | 朗姿股份002612：H1经营性+30~60%/女装Q1+13.11%/医美+14%/双主业驱动 | competitor, langzi, womenswear, medical_aesthetics, earnings |
+| [[2026-07-17_桔尚女装300门店复购35]] ⭐ NEW | 桔尚×微盟300+门店：复购率35%/会员消费占比56%/复购GMV+40%/AI内容生产 | vip, membership, repurchase, ai |
+| [[2026-07-17_有赞付费会员第二增长曲线]] ⭐ NEW | 有赞2026：微奢零度299元入会送3350元/礼品卡62%/储值消费+35% | vip, membership, paid_membership |
+| [[2026-07-17_Megaview五维16粒度]] ⭐ NEW | Megaview 5维16粒度评分/Agent Team多智能体/场景探询62→89/知识留存72%/培训成本-50% | guide, ai, coaching, megaview |
+| [[2026-07-17_思创AI陪练全国成交率26.5]] ⭐ NEW | 思创AI陪练：全国成交率+26.5%/MSP失分项+75%/新员工上岗-50%/知识落地率大幅提高 | guide, ai, coaching, training |
+| [[2026-07-17_PANTEL商品企划五步跃迁]] ⭐ NEW | PANTEL五步跃迁：品类角色+价格带+波段3+3+3+3+OTB滚动日历+店群ABCD分级，首单70%→40%/售罄+8-12pp | merchandise, otb, planning, category, pricing |
+| [[2026-07-17_第七在线商品计划七步法]] ⭐ NEW | 第七在线8步流程MFP→OTB→品类→波段→SKU→配货→补货→滚动，12核心KPI/GMROI≥2.0/AI预测WMAPE<15% | merchandise, otb, planning, inventory, ai |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
