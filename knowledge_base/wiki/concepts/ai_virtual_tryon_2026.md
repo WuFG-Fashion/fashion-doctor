@@ -4,8 +4,8 @@ title: AI虚拟试衣技术2026
 tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection, interactive_vvt]
 sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md, 2026-06-21_搜狐_AI服饰消费新纪元2026.md, 2026-06-22_Genlook_12大AI时尚趋势2026.md, 2026-07-04_iTryOn互动式视频虚拟试衣.md]
 created: 2026-06-07
-updated: 2026-07-17
-cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-04_iTryOn互动式视频虚拟试衣]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-05-30_安踏灵犀穿搭大模型]], [[anta]], [[2026-01-28_微盟AI试衣方案]], [[2026-06-27_小红书FireRed开源AI试衣模型]], [[2026-05-27_iTryOn互动式视频虚拟试衣_ICML2026]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-07_安踏灵犀穿搭大模型火山引擎]], [[2026-05-06_新华网_AI改写衣橱全产业链]], [[2026-07-03_IBM_Fiducia_AI_SpeedShotX]]
+updated: 2026-07-18
+cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服装门店经营AI化2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_fashion_consumer_2026]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[ai_fashion_market_2026]], [[2026-06-23_搜狐_服装电商AI全链路工作流]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-04_iTryOn互动式视频虚拟试衣]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-05-30_安踏灵犀穿搭大模型]], [[anta]], [[2026-01-28_微盟AI试衣方案]], [[2026-06-27_小红书FireRed开源AI试衣模型]], [[2026-05-27_iTryOn互动式视频虚拟试衣_ICML2026]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-07_安踏灵犀穿搭大模型火山引擎]], [[2026-05-06_新华网_AI改写衣橱全产业链]], [[2026-07-03_IBM_Fiducia_AI_SpeedShotX]], [[2026-07-18_Style3D伙伴大会_AI数字伙伴产业落地]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]]
 ---
 
 # AI虚拟试衣技术2026

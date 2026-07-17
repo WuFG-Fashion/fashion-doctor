@@ -91,4 +91,4 @@ created: 2026-06-05
 | 2026-07-15 20:43 | ingestB | L2_03/04/05 — 采集6篇/织网12条/矛盾0处 ✅ (raw6→s6:JNBY H1会员数据+微盛SCRM+Megaview5维16粒+北森五模式+七在线库存优化+区域OTB ABC→c5更新:会员复购率/AI导陪/导培闭环/动态OTB/sku管理→e1更新:jnby→L3同步7处→Git:90e583e) |
 | 2026-07-15 23:37 | ingestC | L2_06/07+查漏 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:Polars 1.42云I/O+Gartner MQ4趋势+CIO IN/OUT+DuckDB共存+Pandas 3.0 Arrow革命→c3更新:polars_vs_pandas/data_governance/duckdb→p1更新:multi_brand) |
 | 2026-07-16 06:35 | ingestA | L2_00/01/02 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:Style3D伙伴大会+商务部1-2月+Eightx全球基准+Q1 30强→c1新增:global_apparel_financial_benchmarks_2026→c2更新:apparel_ai_agents+industry_q1→e1更新:semir→L3同步3处→Git:待推送) |
-| 2026-07-17 20:45 | ingestB | L2_03/04/05 — 采集6篇/织网10条/矛盾0处 ✅ |
+| 2026-07-18 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网10条/矛盾0处 ✅ (raw5→s5: Style3D伙伴大会+Bloomreach AI全球+券商研报全景+迅销Q3+太平鸟FY2025→e2更新:peacebird+fast_retailing→c2更新:ai_fashion_market+apparel_ai_agents→L3同步4处)

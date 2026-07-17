@@ -2,10 +2,10 @@
 type: concept
 title: AI时尚市场规模与品牌应用全景2026
 tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
-sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md]
+sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md, 2026-07-18_Bloomreach_AI时尚零售2026全球数据.md]
 created: 2026-06-09
-updated: 2026-07-02
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]]
+updated: 2026-07-18
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]]
 ---
 
 # AI时尚市场与品牌应用全景（2026）
@@ -108,3 +108,36 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - 轻量化模型工具包租赁（面向中小企业）
 
 > **与当前39.9亿美元市场对比**：当前AI时尚$39.9亿/CAGR 39%→2030年400亿美元累计投入，隐含加速渗透假设，两者逻辑自洽。
+
+## Bloomreach全球AI时尚消费数据 ⭐ 7月更新
+
+> 来源：[[2026-07-18_Bloomreach_AI时尚零售2026全球数据]]（Bloomreach 2026）
+
+### 双市场口径
+| 市场 | 2025 | 2030E | CAGR |
+|------|------|-------|------|
+| AI时尚（含零售） | $17.5B | $94.5B | 39.8% |
+| 虚拟试穿 | $120.9B | $389.2B | 26.3% |
+
+> ⚠️ **数据差异说明**：Bloomreach的$17.5B(2025)含更广AI零售范畴 vs 本文$39.9B(2026)聚焦AI时尚设计+供应链+试穿，口径不同，非矛盾。
+
+### 消费者AI采用率（Bloomreach数据）
+| 指标 | 数据 |
+|------|------|
+| 用AI购物消费者 | **57.2%** |
+| 信任AI>朋友推荐 | **近50%** |
+| Z+α世代每周AI买时尚 | **41%** |
+| AI购物搜索增长(24→25) | **4,700%** |
+| GenAI购物>传统搜索 | **85%** |
+
+### 转化效果验证
+| 案例 | 数据 |
+|------|------|
+| 虚拟试衣全行业 | 退货最高-40% |
+| My Jewellery（荷兰） | 邮件打开+55%/结账+30%/成本-19% |
+| TFG/Bash（南非37品牌/4800+店） | 黑五转化+35.2%/RPV+39.8%/退出率-28.1% |
+
+### 关键判断
+- 时尚零售已跃升为AI支出增长前三行业
+- 虚拟试穿市场$389.2B(2030E)意味着其将从电商附属功能升级为独立消费入口
+- AI个性化从"加分项"变为"准入门槛"

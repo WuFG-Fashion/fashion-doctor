@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-17 20:45
+updated: 2026-07-18 06:35
 ---
 
 # Fashion Doctor 知识库导航
@@ -503,6 +503,11 @@ updated: 2026-07-17 20:45
 | [[2026-07-17_思创AI陪练全国成交率26.5]] ⭐ NEW | 思创AI陪练：全国成交率+26.5%/MSP失分项+75%/新员工上岗-50%/知识落地率大幅提高 | guide, ai, coaching, training |
 | [[2026-07-17_PANTEL商品企划五步跃迁]] ⭐ NEW | PANTEL五步跃迁：品类角色+价格带+波段3+3+3+3+OTB滚动日历+店群ABCD分级，首单70%→40%/售罄+8-12pp | merchandise, otb, planning, category, pricing |
 | [[2026-07-17_第七在线商品计划七步法]] ⭐ NEW | 第七在线8步流程MFP→OTB→品类→波段→SKU→配货→补货→滚动，12核心KPI/GMROI≥2.0/AI预测WMAPE<15% | merchandise, otb, planning, inventory, ai |
+| [[2026-07-18_Style3D伙伴大会_AI数字伙伴产业落地]] ⭐ NEW | Style3D第三届伙伴大会1000+嘉宾：StyleClaw数字伙伴AI中台+报喜鸟三大智能体(量体+50%/决策-30%/转化+25%)+12品牌AI+3D落地ROI数据 | ai, agent, fashion, style3d, baoxiniao, semir |
+| [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]] ⭐ NEW | Bloomreach全球AI时尚数据：AI市场$17.5B→$94.5B(39.8%CAGR)/VTO退货-40%/57.2%消费者用AI购物/TFG转化+35.2% | ai, fashion_retail, market_size, virtual_tryon, consumer_adoption |
+| [[2026-07-18_券商研报汇总_服装行业全景解析]] ⭐ NEW | 华泰/中金/广发/中信研报汇总：库存周转86天(头部58vs中小123)/CR5 18.7%/高端毛利率56.3%/成本三重挤压 | industry, benchmark, inventory, competition, cost, broker_research |
+| [[2026-07-18_迅销Q3九个月财报_中国大陆恢复正增长]] ⭐ NEW | 迅销9个月3.065万亿(+17.1%)/Q3单季利润+45.7%/国际利润+65.2%/中国大陆恢复正增长/全年指引上调至3.97万亿/净利5000亿 | uniqlo, fast_retailing, earnings, q3, china, guidance |
+| [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]] ⭐ NEW | 太平鸟2025FY 63.34亿/扣非6545万/Q1扣非+33.46%/门店2998→~1542/坪效+18.7%/元老陈红朝减持1.08亿 | peacebird, competitor, earnings, store_optimization, shareholder |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
