@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-18 23:41
+updated: 2026-07-19
 ---
 
 # Fashion Doctor 知识库导航
@@ -512,6 +512,9 @@ updated: 2026-07-18 23:41
 | [[2026-07-18_FineDataLink_2026数据治理九平台评估]] ⭐ NEW | FineDataLink九平台四维评估：integration+governance convergence/83%企业数据用不起来/宁德85亿行/日 | data_governance, platform, integration, etl, vendor, data_middle_platform |
 | [[2026-07-18_PANTEL_服装品牌商品企划五步跃迁]] ⭐ NEW | PANTEL潘俊五步跃迁：品类角色→价格带→波段→OTB→店群，首单70%→40%/售罄+8~12pp/净利率+3~5pp | otb, merchandise, planning, sell_through, sku, supply_chain |
 | [[2026-07-18_数商云_智能导购AI_Agent定制方案]] ⭐ NEW | 数商云AI Agent四层架构：Gartner 40%企业嵌入AI Agent/90%导购需求模糊/2000+/s并发/四步部署 | ai, guide, coaching, agent, private_domain, vip, membership |
+| [[2026-07-19_MetaModels_25品牌AI应用2026]] ⭐ NEW | MetaModels 25品牌AI案例：Zara 98%库存/H&M利润+30%/Nike 50%/Stitch Fix +100%/Dior AR +36%购买意向 | ai, fashion_design, supply_chain, virtual_tryon, case_study |
+| [[2026-07-19_方正证券_服装家纺中期策略2026]] ⭐ NEW | 方正证券中期策略：子板块毛利率基准(男装53%/女装68%/户外44%/家纺48%)/Q1收入增速/运动品牌流水/Q2展望 | industry, financial, sub_sector, gross_margin, benchmark, kpi |
+| [[2026-07-19_申万宏源_中期策略_Q2品牌预测]] ⭐ NEW | 申万Q2品牌预测：安踏低单位数/FILA中单位数/户外30-35%/海澜净利持平/森马高增/比音高增 | competitor, financial, q2_2026, outlook, forecast |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

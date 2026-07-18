@@ -5,7 +5,7 @@ tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
 sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md, 2026-07-18_Bloomreach_AI时尚零售2026全球数据.md]
 created: 2026-06-09
 updated: 2026-07-18
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]]
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]], [[2026-07-19_MetaModels_25品牌AI应用2026]]
 ---
 
 # AI时尚市场与品牌应用全景（2026）
@@ -79,6 +79,7 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - [[ai_fashion_ecommerce_tryon_tools_2026]] — AI试衣工具选型与落地
 - [[retail_ai_adoption_2026]] — 零售AI采纳率91%/89%/95%
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
+- [[2026-07-19_MetaModels_25品牌AI应用2026]] — 25个全球品牌AI案例(Zara/H&M/Nike/Dior等)
 
 ## 全球大模型应用中长期预测 ⭐ 6月更新
 
