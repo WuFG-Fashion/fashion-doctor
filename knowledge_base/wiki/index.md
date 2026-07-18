@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-18 06:35
+updated: 2026-07-18 23:41
 ---
 
 # Fashion Doctor 知识库导航
@@ -508,6 +508,10 @@ updated: 2026-07-18 06:35
 | [[2026-07-18_券商研报汇总_服装行业全景解析]] ⭐ NEW | 华泰/中金/广发/中信研报汇总：库存周转86天(头部58vs中小123)/CR5 18.7%/高端毛利率56.3%/成本三重挤压 | industry, benchmark, inventory, competition, cost, broker_research |
 | [[2026-07-18_迅销Q3九个月财报_中国大陆恢复正增长]] ⭐ NEW | 迅销9个月3.065万亿(+17.1%)/Q3单季利润+45.7%/国际利润+65.2%/中国大陆恢复正增长/全年指引上调至3.97万亿/净利5000亿 | uniqlo, fast_retailing, earnings, q3, china, guidance |
 | [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]] ⭐ NEW | 太平鸟2025FY 63.34亿/扣非6545万/Q1扣非+33.46%/门店2998→~1542/坪效+18.7%/元老陈红朝减持1.08亿 | peacebird, competitor, earnings, store_optimization, shareholder |
+| [[2026-07-18_Johal_2026生产力数据分析七栈基准]] ⭐ NEW | Johal七栈基准：Polars 4.7×/DuckDB 16×/Streamlit 90s部署/AI辅助5.7×/年省$14k-22k | polars, duckdb, pandas, streamlit, benchmark, sql, python |
+| [[2026-07-18_FineDataLink_2026数据治理九平台评估]] ⭐ NEW | FineDataLink九平台四维评估：integration+governance convergence/83%企业数据用不起来/宁德85亿行/日 | data_governance, platform, integration, etl, vendor, data_middle_platform |
+| [[2026-07-18_PANTEL_服装品牌商品企划五步跃迁]] ⭐ NEW | PANTEL潘俊五步跃迁：品类角色→价格带→波段→OTB→店群，首单70%→40%/售罄+8~12pp/净利率+3~5pp | otb, merchandise, planning, sell_through, sku, supply_chain |
+| [[2026-07-18_数商云_智能导购AI_Agent定制方案]] ⭐ NEW | 数商云AI Agent四层架构：Gartner 40%企业嵌入AI Agent/90%导购需求模糊/2000+/s并发/四步部署 | ai, guide, coaching, agent, private_domain, vip, membership |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |

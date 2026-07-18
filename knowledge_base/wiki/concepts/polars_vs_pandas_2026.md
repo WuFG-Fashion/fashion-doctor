@@ -2,10 +2,10 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准]
 created: 2026-06-06
-updated: 2026-07-15
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]
+updated: 2026-07-18
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -761,3 +761,33 @@ result = orders.with_columns(
 - SQL团队/临时查询/不想配置 → DuckDB
 - Python ETL管道/变换密集/静态类型 → Polars
 - 严肃生产 → 两者配合，Arrow零拷贝串联
+
+## Johal 2026生产力数据分析七栈基准（2026-07新增）⭐
+
+> 来源：[[2026-07-18_Johal_2026生产力数据分析七栈基准]]
+
+### 七栈全维度基准（M3 Max 36GB, 2.1M记录/1.8GB CSV）
+
+| 工具 | 摄入 | 分组聚合 | 多表Join | 内存 |
+|------|------|----------|---------|------|
+| Polars 1.12 | 0.9s | **340ms** | 1.1s | 0.8GB |
+| pandas 2.2 | 4.2s | 1,600ms | 8.9s | 3.1GB |
+| DuckDB 1.3 | 1.4s | 520ms | **0.38s** | 0.6GB |
+| SQLite 3.45 | 12.8s | 2.1s | 6.2s | 0.3GB |
+
+### 关键倍差
+- **Polars 4.7×** (340ms vs 1600ms 分组聚合) / 内存省**74%**
+- **DuckDB 16×** (380ms vs 6.2s 多表Join+窗口函数)
+- LazyFrame额外**40%**内存优化
+- AI辅助(Cursor+Claude)：**5.7×**查询加速(8.5min→90s)/正确率85%
+
+### Streamlit部署
+- **90秒**纯Python部署(零前端代码)
+- DuckDB+Streamlit 100-300ms / Polars+Streamlit 200-500ms
+- **$14k-$22k/年**工具费用节省(pandas+Tableau→Polars+Streamlit)
+
+### 决策矩阵
+| 工具组合 | 单节点上限 | 仪表板延迟 | 学习曲线 |
+|---------|-----------|-----------|---------|
+| Polars+Streamlit | ~10GB | 200-500ms | 2-3天 |
+| DuckDB+Streamlit | ~20GB | 100-300ms | 1天(SQL) |
