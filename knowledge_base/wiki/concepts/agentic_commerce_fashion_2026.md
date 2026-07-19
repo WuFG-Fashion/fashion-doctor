@@ -2,9 +2,9 @@
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
-sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md]
+sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026]
 created: 2026-06-09
-updated: 2026-07-02
+updated: 2026-07-20
 cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]]
 ---
 
@@ -65,9 +65,10 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 ## 战略启示
 
 1. **AI买手是下一个流量入口**：OpenAI+Target模式可能复制到中国（如豆包/DeepSeek+天猫/京东）
-2. **产品数据质量决定AI时代竞争力**：数据不完整→AI代理无法推荐→品牌隐形
-3. **收据数字化是沉睡资产**：纸质收据→数字触点→购后营销
-4. **Agentic Commerce对Fashion Doctor**：需关注AI代理如何影响服装购买决策链
+2. **中国平台2026年618已实现**：千问×淘宝打通（千问App可淘宝选品/比较/下单）、豆包×抖音商城（购物建议+直购）、京东618 AI首次全场景全产业（数字人自主策划/带货/复盘）
+3. **产品数据质量决定AI时代竞争力**：数据不完整→AI代理无法推荐→品牌隐形
+4. **收据数字化是沉睡资产**：纸质收据→数字触点→购后营销
+5. **数字人直播成本<达人1/10**：Burberry>50%双11成交来自数字人/Tommy Hilfiger 618男装数字人榜首 → 来源 [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]]
 
 ## Google UCP协议大统一 ⭐ 6月新增
 
@@ -160,3 +161,5 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 - [[服装行业竞争格局]] — 行业竞争格局
 - [[data_quality_governance]] — 数据质量治理
 - [[2026-06-19_中新经纬_2026年618消费洞察报告]] — 中新经纬：2026年618消费洞察报告
+- [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]] — VOGUE Business：AI时尚消费入口全景(京东618 AI全场景/千问×淘宝/豆包×抖音)
+- [[burberry]] — Burberry博柏利(AI数字人直播>50%双11成交)

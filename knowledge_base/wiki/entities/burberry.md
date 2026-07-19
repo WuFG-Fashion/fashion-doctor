@@ -2,10 +2,10 @@
 type: entity
 title: Burberry 博柏利
 tags: [burberry, luxury, competitor, united_kingdom, turnaround]
-sources: [2026-06-28_贝尔财经_Burberry_FY2026年报]
+sources: [2026-06-28_贝尔财经_Burberry_FY2026年报, 2026-06-30_VOGUE_Business_AI时尚消费入口2026]
 created: 2026-06-30
-updated: 2026-06-30
-cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bienlefen]]
+updated: 2026-07-20
+cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bienlefen]], [[ai_fashion_consumer_2026]], [[agentic_commerce_fashion_2026]]
 ---
 
 # Burberry 博柏利
@@ -56,6 +56,12 @@ cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bi
 | Moncler | 双位数 | ✅ |
 | Coach/Tapestry | +35% | ✅ 最强 |
 
+### AI数字人直播（2025-2026）
+
+- 较早上线AI数字人直播的奢侈品牌
+- **2025年双11**：天猫旗舰店直播间**超过50%成交来自数字人直播**（VOGUE Business 2026-06报道确认）
+- 数字人直播成本仅为达人直播的1/10不到
+
 ## 关联页面
 
-[[light_luxury_brand_framework_2026]] | [[lululemon]] | [[jnby]] | [[bienlefen]] | [[fast_retailing]]
+[[light_luxury_brand_framework_2026]] | [[lululemon]] | [[jnby]] | [[bienlefen]] | [[fast_retailing]] | [[ai_fashion_consumer_2026]] | [[agentic_commerce_fashion_2026]]

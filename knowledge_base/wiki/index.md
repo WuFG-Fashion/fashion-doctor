@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Fashion Doctor 知识库导航
@@ -32,7 +32,7 @@ updated: 2026-07-19
 | [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
 | [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，Q1营收496亿SEK(-10.3%)→Q2营收548亿(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳/全球门店4038家(-128)/线上>30%/亚太收缩/双向挤压困局 | brand, competitor, fast_fashion, turnaround |
-| [[burberry]] ⭐ NEW | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正向拐点早期 | brand, competitor, luxury, turnaround |
+| [[burberry]] ⭐ UPDATED | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正拐点+AI数字人>50%双11成交 | brand, competitor, luxury, turnaround, ai |
 | [[anzheng_fashion]] ⭐ NEW | 安正时尚603839，2026H1净利5800-8500万(+162%~285%)/扣非+303%~494%/JZ玖姿聚焦战略 | brand, competitor, womenswear, a_share |
 | [[langzi_fashion]] ⭐ NEW | 朗姿股份002612，"女装+医美+婴童"三主业，Q1女装+13.11%/医美+14%/H1经营性+30~60% | brand, competitor, womenswear, medical_aesthetics |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
@@ -401,6 +401,7 @@ updated: 2026-07-19
 | [[2026-06-28_搜狐证券_海澜之家2026Q1深度]] ⭐ NEW | 海澜之家Q1主品牌+11.17%/多品牌+32.56%/线上18.26%/即时零售/存货92.93亿 | hla, competitor, financial, omnichannel |
 | [[2026-06-29_波司登_FY2026财报]] ⭐ NEW | 波司登第九年双增273.5亿(+5.6%)/净利39.94亿/毛利率57.2%/AI美学大脑+导购助手 | bosideng, competitor, financial, ai |
 | [[2026-06-29_Adobe_AI电商2026数据]] ⭐ NEW | Adobe AI电商流量+138%/转化率+54%/收入+53%/市场$105亿 | ai, ecommerce, retail, conversion, agentic_commerce |
+| [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]] ⭐ NEW | VOGUE Business：Phia A轮$3550万(星阵容)/千问×淘宝+豆包×抖音打通/京东618 AI全场景/Burberry数字人>50%双11/Tommy Hilfiger 618男装榜首/数字人成本1/10 | ai, fashion_consumer, agentic_commerce, digital_human, luxury |
 | [[2026-06-29_36Kr_618消费洞察2026]] ⭐ NEW | 618四大趋势：AI基础设施/货架电商60%/AI耳机+227%/平台战略分化 | ecommerce, 618, ai, retail, consumer_behavior |
 | [[2026-06-28_证券时报_太平鸟品牌升级与数字化]] ⭐ NEW | 太平鸟"三年砺新"收官：扣非+33.46%/线上毛利率54.93%/设计师合作OAMC/MING MA | peacebird, competitor, brand_strategy, digital_transformation |
 | [[2026-06-29_techchina_社群会员统一身份运营]] ⭐ NEW | 有赞：社群+会员统一身份三层架构，导购+320%/复购+193%/入会率>60% | vip, membership, private_domain, scrm |
