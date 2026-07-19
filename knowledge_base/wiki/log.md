@@ -93,3 +93,4 @@ created: 2026-06-05
 | 2026-07-16 06:35 | ingestA | L2_00/01/02 — 采集4篇/织网8条/矛盾0处 ✅ (raw4→s4:Style3D伙伴大会+商务部1-2月+Eightx全球基准+Q1 30强→c1新增:global_apparel_financial_benchmarks_2026→c2更新:apparel_ai_agents+industry_q1→e1更新:semir→L3同步3处→Git:待推送) |
 | 2026-07-18 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网10条/矛盾0处 ✅ (raw5→s5: Style3D伙伴大会+Bloomreach AI全球+券商研报全景+迅销Q3+太平鸟FY2025→e2更新:peacebird+fast_retailing→c2更新:ai_fashion_market+apparel_ai_agents→L3同步4处)
 | 2026-07-18 23:41 | ingestC | L2_06/07+查漏(B未覆盖) — 采集4篇/raw4→s4→c4更新(polars+data_gov+OTB+AI导陪)→p2更新→L3同步4处/织网8条/矛盾0处 ✅ |
+| 2026-07-19 20:47 | ingestB | L2_03/04/05 — 采集6篇(raw6→s6→c5更新→L3同步7处)/织网6条回链/矛盾0处 ✅ |

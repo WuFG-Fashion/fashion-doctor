@@ -506,6 +506,12 @@ updated: 2026-07-19
 | [[2026-07-18_Style3D伙伴大会_AI数字伙伴产业落地]] ⭐ NEW | Style3D第三届伙伴大会1000+嘉宾：StyleClaw数字伙伴AI中台+报喜鸟三大智能体(量体+50%/决策-30%/转化+25%)+12品牌AI+3D落地ROI数据 | ai, agent, fashion, style3d, baoxiniao, semir |
 | [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]] ⭐ NEW | Bloomreach全球AI时尚数据：AI市场$17.5B→$94.5B(39.8%CAGR)/VTO退货-40%/57.2%消费者用AI购物/TFG转化+35.2% | ai, fashion_retail, market_size, virtual_tryon, consumer_adoption |
 | [[2026-07-18_券商研报汇总_服装行业全景解析]] ⭐ NEW | 华泰/中金/广发/中信研报汇总：库存周转86天(头部58vs中小123)/CR5 18.7%/高端毛利率56.3%/成本三重挤压 | industry, benchmark, inventory, competition, cost, broker_research |
+| [[2026-07-19_七匹狼私域会员运营深度]] ⭐ NEW | 七匹狼私域5年最高增长：小程序GMV+60%/复购会员+10%/全渠道频次2x/活动回流70-80% | vip, septwolves, private_domain, repurchase |
+| [[2026-07-19_容子木付费会员与私域复购]] ⭐ NEW | 容子木女装付费PLUS会员半年数千张/AI内容营销/企微一对一触达/五步复购法 | vip, membership, paid_membership, private_domain |
+| [[2026-07-19_Megaview_AI陪练临门一脚实战]] ⭐ NEW | Megaview三阶段AI对练：推进率23%→61%/上岗6月→2月/知识留存72%/成本-50% | guide, ai, coaching, megaview, training |
+| [[2026-07-19_北森AI陪练2.0多场景零售方案]] ⭐ NEW | 北森2.0五模式多场景：美妆99.4%通关/珠宝达标-37%/五维角色/0.5天上线 | guide, ai, coaching, beisen, training |
+| [[2026-07-19_PANTEL商品企划五步跃迁]] ⭐ NEW | PANTEL五步跃迁：品类角色→压缩首单→滚动OTB(周±20%/月±10%/季复盘)→店群分级，净利率+3-5pp | merchandise, otb, planning, category_management |
+| [[2026-07-19_第七在线商品计划完整手册]] ⭐ NEW | 第七在线七步商品计划+MFP→OTB→品类→波段→SKU→配货补货/货品结构模板(主力50-60%/引流15-25%/形象10-20%) | merchandise, otb, sku, planning, category_structure |
 | [[2026-07-18_迅销Q3九个月财报_中国大陆恢复正增长]] ⭐ NEW | 迅销9个月3.065万亿(+17.1%)/Q3单季利润+45.7%/国际利润+65.2%/中国大陆恢复正增长/全年指引上调至3.97万亿/净利5000亿 | uniqlo, fast_retailing, earnings, q3, china, guidance |
 | [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]] ⭐ NEW | 太平鸟2025FY 63.34亿/扣非6545万/Q1扣非+33.46%/门店2998→~1542/坪效+18.7%/元老陈红朝减持1.08亿 | peacebird, competitor, earnings, store_optimization, shareholder |
 | [[2026-07-18_Johal_2026生产力数据分析七栈基准]] ⭐ NEW | Johal七栈基准：Polars 4.7×/DuckDB 16×/Streamlit 90s部署/AI辅助5.7×/年省$14k-22k | polars, duckdb, pandas, streamlit, benchmark, sql, python |
