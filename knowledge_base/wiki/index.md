@@ -34,7 +34,9 @@ updated: 2026-07-21
 | [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，Q1营收496亿SEK(-10.3%)→Q2营收548亿(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳/全球门店4038家(-128)/线上>30%/亚太收缩/双向挤压困局 | brand, competitor, fast_fashion, turnaround |
 | [[burberry]] ⭐ UPDATED | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正拐点+AI数字人>50%双11成交 | brand, competitor, luxury, turnaround, ai |
 | [[anzheng_fashion]] ⭐ NEW | 安正时尚603839，2026H1净利5800-8500万(+162%~285%)/扣非+303%~494%/JZ玖姿聚焦战略 | brand, competitor, womenswear, a_share |
-| [[langzi_fashion]] ⭐ NEW | 朗姿股份002612，"女装+医美+婴童"三主业，Q1女装+13.11%/医美+14%/H1经营性+30~60% | brand, competitor, womenswear, medical_aesthetics |
+| [[langzi_fashion]] ⭐ UPDATED | 朗姿股份002612，"女装+医美+婴童"三主业，Q1女装+13.11%/医美+14%，H1归母净利-65.78%~-76.59%(高新取消+非经常性拖累)/剔除非经常性后主业+30-60%/商誉19.19亿占净资产56%+/申万维持增持15元 | brand, competitor, womenswear, medical_aesthetics, goodwill_risk |
+| [[baoxiniao]] ⭐ NEW | 报喜鸟002154，2026Q1营收14.40亿(+10.46%)/净利2.37亿(+39.03%)，与Style3D共创AI Agent定制服务大模型：量体+50%/决策-30%/转化+25%/退货-10% | brand, competitor, menswear, ai, customization |
+| [[style3d_lingdi]] ⭐ NEW | 凌迪科技/Style3D，全球时尚产业AI+3D平台，发布StyleClaw数字伙伴AI中台，服务报喜鸟/森马/望思达/The Very Group等，2026定位"物理AI元年+智能体AI落地元年" | vendor, ai, 3d, digital_twin, agent |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -182,6 +184,8 @@ updated: 2026-07-21
 | [[2026-06-06_McKinsey时尚行业2026]] ⭐ NEW | McKinsey：76%高管忧关税/AI首要但90%无法规模化 | fashion_industry, tariff, second_hand |
 | [[2026-06-06_中国服装行业统计2026]] ⭐ NEW | 中国服装产值3.8万亿/全球35%/AI设计仅25%渗透 | china_apparel, industry_scale |
 | [[2026-06-06_竞品财务更新202606]] ⭐ NEW | 太平鸟扣非+33.46%/GXG节流续命/优衣库H1+14.8% | peacebird, gxg, uniqlo, financial |
+| [[2026-07-21_Style3D伙伴大会2026]] ⭐ NEW | Style3D伙伴大会2026：StyleClaw数字伙伴AI中台发布，报喜鸟量体+50%/决策-30%/转化+25%/退货-10%，森马8月→15天，14+品牌落地 | ai, agent, apparel, style3d, lingdi, smart_manufacturing |
+| [[2026-07-21_朗姿股份2026H1业绩预告]] ⭐ NEW | 朗姿2026H1：归母净利-65.78%~-76.59%/剔除非经常性后+30-60%/高新资格取消补税5256万/商誉19.19亿 | langzi, competitor, womenswear, medical_aesthetics, financial |
 | [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 | [[2026-06-05_探马SCRM_RFM分层运营]] | 探马SCRM服装RFM案例 | vip, rfm, private_domain |
 | [[2026-06-05_Megaview_AI导购陪练]] | Megaview导购AI陪练全方案 | guide, ai, training |

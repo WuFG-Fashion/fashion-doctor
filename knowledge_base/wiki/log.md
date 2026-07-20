@@ -95,3 +95,4 @@ created: 2026-06-05
 | 2026-07-18 23:41 | ingestC | L2_06/07+查漏(B未覆盖) — 采集4篇/raw4→s4→c4更新(polars+data_gov+OTB+AI导陪)→p2更新→L3同步4处/织网8条/矛盾0处 ✅ |
 | 2026-07-19 20:47 | ingestB | L2_03/04/05 — 采集6篇(raw6→s6→c5更新→L3同步7处)/织网6条回链/矛盾0处 ✅ |
 | 2026-07-20 06:35 | ingestA | L2_00/01/02 — 采集1篇(VOGUE Business AI时尚消费入口全景)/织网2条回链/矛盾0处 ✅ (raw1→s1→e1更新:burberry+AI数字人→c2更新:ai_fashion_consumer+agentic_commerce→L3同步1处) |
+| 2026-07-21 03:23 | optimize | lint(断链19/孤岛0/矛盾0/过期0/分类0)+织网+索引 |
