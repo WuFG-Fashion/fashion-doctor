@@ -5,7 +5,7 @@ tags: [peacebird, competitor, menswear, womenswear, kidswear, a_share]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-18_新浪证券_15家A股服饰服装存货分析.md, 2026-06-19_新华社_AI改写衣橱服装产业革命.md, 2026-05-11_羊毛市场_16家A股服装企业2026Q1财报.md, 2026-06-28_证券时报_太平鸟品牌升级与数字化.md, 2026-07-15_浙江日报_太平鸟30周年深度报道.md, 2026-07-18_太平鸟2025FY年报详录与2026Q1更新.md]
 created: 2026-06-05
 updated: 2026-07-18
-cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-19_服装供应链SCM白皮书2026]], [[2026-06-28_证券时报_太平鸟品牌升级与数字化]], [[2026-07-15_浙江日报_太平鸟30周年深度报道]], [[2026-07-16_apparel_30_brands_2026q1_ranking]], [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]]
+cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-19_服装供应链SCM白皮书2026]], [[2026-06-28_证券时报_太平鸟品牌升级与数字化]], [[2026-06-02_浙江日报_太平鸟30周年深度]], [[2026-07-16_apparel_30_brands_2026q1_ranking]], [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]]
 ---
 
 # 太平鸟 (PEACEBIRD, 603877.SH)

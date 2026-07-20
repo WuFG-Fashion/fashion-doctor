@@ -5,7 +5,7 @@ tags: [ai, virtual_tryon, luxury, fashion_tech, ibm, agentic_commerce]
 sources: [raw/articles/2026-07-03_IBM_Fiducia_AI_SpeedShotX_虚拟试穿.md]
 created: 2026-07-17
 updated: 2026-07-17
-cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce]]
+cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026|agentic_commerce]]
 ---
 
 # IBM × Fiducia AI — SpeedShotX 虚拟试穿
@@ -42,5 +42,5 @@ cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce]]
 ## 关联页面
 
 - [[ai_virtual_tryon_2026]] — AI虚拟试穿趋势
-- [[agentic_commerce]] — AI代理电商
+- [[agentic_commerce_fashion_2026|agentic_commerce]] — AI代理电商
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景
