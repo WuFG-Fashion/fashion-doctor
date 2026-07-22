@@ -225,3 +225,47 @@ DuckDB SQL扫描+聚合 → .pl()零拷贝 → Polars 排名+变换 → .to_pand
 | CSV读取+Join | — | 持续领先 |
 
 > 关键：分区数据使DuckDB降8x、Polars降4x —— **文件布局 > 引擎选择**。
+
+## DuckDB 1.5.4 + Quack 客户端-服务器 + DuckLake + v2.0（2026-07新增）⭐
+
+> 来源：[[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]]
+
+### Quack 核心扩展（v1.5.3）
+- Quack 成为 DuckDB **核心扩展**：任何客户端首次使用时自动安装和加载
+- 通过 HTTP 让多个 DuckDB 实例共享同一数据库
+- 计划 DuckDB 2.0（2026秋季）推出生产就绪版本
+
+### DuckLake 1.0
+- 正式投产，SQL 数据库即 Catalog（替代传统 manifest 文件方案）
+- Quack 已集成：DuckDB 可作为远程可访问的 Catalog 服务器
+- 2.5K+ GitHub Stars
+
+### DuckDB v2.0 路线图
+- **重大版本**计划 2026 年 9 月发布
+- v1.4.x LTS (Andium) 维护至 2026 年 9 月
+- Quack 在 v2.0 中达到生产就绪
+
+### VARIANT 与 GEOMETRY 类型
+
+| 类型 | 说明 |
+|------|------|
+| VARIANT | 原生 JSON/半结构化数据，1.5.4 修复过滤条件错误 |
+| GEOMETRY | 内置空间类型（不依赖 Spatial 扩展），支持 Parquet 统计修剪 |
+
+### 版本矩阵
+
+| 版本 | 代号 | 类型 | 日期 |
+|------|------|------|------|
+| v1.5.4 | Variegata | 主线稳定 | 2026-06-17 |
+| v1.4.5 | Andium | LTS | 2026-06-17 |
+| v2.0 | — | 重大版本 | 2026秋季（计划） |
+
+### 多品牌场景：Quack 共享分析库
+
+```
+Streamlit Dashboard A ──┐
+Streamlit Dashboard B ──┼── Quack (HTTP) ── DuckDB 分析库
+Jupyter/Marimo 探索 ────┘
+```
+
+多个看板和工具通过 Quack 协议共享同一 DuckDB 实例，无需额外数据库服务器。

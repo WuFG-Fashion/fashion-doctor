@@ -18,6 +18,7 @@ cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics
 
 | 版本 | 日期 | 关键特性 |
 |------|------|---------|
+| **v1.59** | 2026-07-06 | **ButtonColumn(表格内按钮)、st.skeleton(骨架屏)、st.mermaid_chart(流程图)、App.run()(无CLI)、Fragment跨容器** |
 | **v1.58** | 2026-05-28 | **Parallel Fragments(@st.fragment parallel=True)**、st.pagination、CLI skills、自定义异常处理 |
 | **v1.57** | 2026-04-29 | **Starlette默认启用**、Polars Arrow零拷贝、st.bottom、:shimmer[] |
 | v1.56 | 2026-03-31 | st.menu_button、st.iframe、pandas 3.x、selectbox filter_mode、AudioColumn/VideoColumn |
@@ -248,18 +249,20 @@ pg.run()
 
 ## v1.59.0 新特性（2026-07新增）⭐
 
-> 来源：[[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]
+> 来源：[[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]、[[2026-07-22_Streamlit_v1.59.0]]
 
-| 特性 | 说明 | 实用场景 |
-|------|------|---------|
-| **ButtonColumn** | column_config新增按钮列类型 | 表格行内操作按钮（审批/跳转/标记） |
-| **Mermaid图表** | st.markdown原生Mermaid渲染 | 架构图/流程图无需第三方组件 |
-| **chat_input文件粘贴** | Ctrl+V直接粘贴文件到聊天框 | 图片/文档快速上传 |
-
-### v1.58并行Fragment
-- `@st.fragment(parallel=True)`：Fragment并发运行，适合后台工作流
-- `st.pagination`：原生分页组件
-- `streamlit skills` CLI：AI Agent开发技能
+| 特性 | 说明 | 服装零售场景 |
+|------|------|-------------|
+| **ButtonColumn** | column_config新增按钮列类型，表格内按钮 | 库存表每行"调拨"/会员表每行"触达" |
+| **st.skeleton** | 动画加载占位符（骨架屏），替代spinner | Dashboard数据加载期间展示专业骨架屏 |
+| **st.mermaid_chart** | 原生渲染Mermaid图表 | ETL流程图/会员分层图零成本内嵌 |
+| **App.run()** | python app.py 直接启动，无需streamlit run | 简化部署，一键启动 |
+| **chat_input文件粘贴** | Ctrl+V直接粘贴文件到聊天框 | 导购AI助手直接贴销售截图 |
+| **Fragment跨容器** | Fragment可更新任意位置元素，不触发全量rerun | 看板局部刷新优化 |
+| **MarkdownColumn** | st.dataframe单元格内渲染Markdown | 报表单元格富文本 |
+| **sidebar_locked** | st.set_page_config支持锁定侧边栏 | 生产环境保护布局 |
+| **persist_state** | Widget状态跨rerun精细化控制 | 筛选条件持久化 |
+| **camera resolution** | st.camera_input控制拍摄分辨率 | 导购巡店拍照优化 |
 
 ## 2026年上半年版本演进路线（v1.53→v1.59）
 
