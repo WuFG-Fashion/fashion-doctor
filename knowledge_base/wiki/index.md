@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Fashion Doctor 知识库导航
@@ -536,6 +536,10 @@ updated: 2026-07-22
 | [[2026-07-22_AI_agent_ecommerce_fashion_capabilities]] ⭐ NEW | 中国纺织建设规划院：电商AI Agent五大能力框架(选品/上架/咨询/供应链/售后)，服装品类专属，阿里三大Agent已上线 | ai, agent, ecommerce, fashion, capability_framework |
 | [[2026-07-22_JD_fashion_AI_ecosystem_2026]] ⭐ NEW | 京东大时尚AI生态：京点点Oxygen Vision转化率+29.03%/上架+90%/AI穿搭200万款/1000+品牌/数字人7×24免费 | ai, ecommerce, jd, digital_human, live_streaming |
 | [[2026-07-22_china_textile_apparel_export_h1_2026]] ⭐ NEW | 海关总署2026H1：纺织服装出口1459.6亿$(+1.4%)/服装-0.7%降幅收窄/6月单月+7.2%爆发 | export, trade, customs, industry, h1_2026 |
+| [[2026-07-23_新华网_AI赋能服装产业全链路]] ⭐ NEW | 新华网深度：森马/太平鸟/UR/波司登5企AI全链路，设计30秒出效果/供应链售罄+80%/15%中小企业渗透率 | ai, apparel, agent, design, supply_chain, smart_manufacturing |
+| [[2026-07-23_中国服装协会_1-5月行业运行简报]] ⭐ NEW | 1-5月最新：营收3932.96亿(-3.75%)/利润102.77亿(-11.41%)/利润率2.61%/内销+7.4%/出口-1.6%/对美5月+22.7% | industry, kpi, benchmark, export, domestic_sales |
+| [[2026-07-23_广发证券_Inditex_FY2026Q1深度]] ⭐ NEW | 广发证券深度：营收超彭博预期/存货周转93.70天(-4.41天)/Q2初期+11.5%/CAPEX 23亿€ | inditex, zara, competitor, financial, quarter_report |
+| [[2026-07-23_天风证券_森马Q1深度与分红]] ⭐ NEW | 天风国际深度：净利+45%/扣非+54%/分红率90%/存货28.7亿/上调2026E净利至10.9亿/PE 15x | semir, competitor, financial, dividend, childrenswear |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
