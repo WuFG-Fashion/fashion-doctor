@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # Fashion Doctor 知识库导航
@@ -186,6 +186,12 @@ updated: 2026-07-21
 | [[2026-06-06_竞品财务更新202606]] ⭐ NEW | 太平鸟扣非+33.46%/GXG节流续命/优衣库H1+14.8% | peacebird, gxg, uniqlo, financial |
 | [[2026-07-21_Style3D伙伴大会2026]] ⭐ NEW | Style3D伙伴大会2026：StyleClaw数字伙伴AI中台发布，报喜鸟量体+50%/决策-30%/转化+25%/退货-10%，森马8月→15天，14+品牌落地 | ai, agent, apparel, style3d, lingdi, smart_manufacturing |
 | [[2026-07-21_朗姿股份2026H1业绩预告]] ⭐ NEW | 朗姿2026H1：归母净利-65.78%~-76.59%/剔除非经常性后+30-60%/高新资格取消补税5256万/商誉19.19亿 | langzi, competitor, womenswear, medical_aesthetics, financial |
+| [[2026-07-22_微盟_七匹狼私域会员深度运营]] ⭐ NEW | 七匹狼小程序GMV+60%/复购+10%/全渠道频次2x/体验回流70-80%/90天唤醒SOP | septwolves, vip, private_domain, repurchase |
+| [[2026-07-22_有赞_容子木女装付费会员运营]] ⭐ NEW | 容子木300+门店会员销售+36%/线索转化x10/付费Plus会员数千张 | vip, membership, private_domain |
+| [[2026-07-22_Megaview_AI陪练重塑成交链路]] ⭐ NEW | Agent Team多智能体/知识留存20%→72%/上岗6→2月/5维16粒度评分 | guide, ai, training, megaview |
+| [[2026-07-22_Megaview_导购需求挖掘训练]] ⭐ NEW | 三阶段递进训练/主管投入-82%/需求成交19%→43%/人均47轮 | guide, ai, coaching, megaview |
+| [[2026-07-22_PANTEL_商品企划五步跃迁]] ⭐ NEW | 品类角色→价格带→波段→OTB→店群/首单70%→40%/净利率+3-5pp | otb, merchandise, planning, sku |
+| [[2026-07-22_第七在线_OTB终极指南]] ⭐ NEW | OTB公式/期货75-85%+快反15-25%/按周更新/五大最佳实践 | otb, merchandise, supply_chain |
 | [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 | [[2026-06-05_探马SCRM_RFM分层运营]] | 探马SCRM服装RFM案例 | vip, rfm, private_domain |
 | [[2026-06-05_Megaview_AI导购陪练]] | Megaview导购AI陪练全方案 | guide, ai, training |
