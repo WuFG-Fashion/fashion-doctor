@@ -19,7 +19,7 @@ updated: 2026-07-23
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" | brand, competitor, a_share, ai, turnaround |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 | brand, competitor, menswear, ai |
@@ -47,7 +47,7 @@ updated: 2026-07-23
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 | ai, retail, adoption, roi, nrf |
-| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-5月最新(营收3932.96亿-3.75%/利润-11.41%/利润率2.61%/内销+7.4%/出口-1.6%/对美+22.7%五连降企稳) + 细分板块经营全景(男装53%毛利/户外+16%)+运动流水+浙商PE三方交叉 | kpi, benchmark, industry |
+| [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-5月最新(营收3932.96亿-3.75%/利润-11.41%/利润率2.61%/内销+7.4%/出口-1.6%/对美+22.7%五连降企稳) + 细分板块经营全景(男装53%毛利/户外+16%)+运动流水+浙商PE三方交叉 +7-24新增H1零售7709亿+6.7%/6月出口292.7亿美元+7.2%/产能利用率75.6% | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构+第七在线季前五步法(OTB提前2-3周决策/AI 14天预警)+PANTEL六步法(李宁售罄62→78%/周转143→89天) | otb, merchandise, supply_chain |
@@ -84,7 +84,7 @@ updated: 2026-07-23
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60% + 安踏灵犀火山引擎技术详解(Lumina/六维/四道精修/Logo还原100%) + 翠微百货线下VTO + iTryOn ICML2026 + RenderedFits全景 | ai, virtual_tryon, ecommerce, anta, volcano_engine |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + 酷特智能C2M工信部案例(KTOS/近百国) + 新华网AI全产业链(森马/URV/波司登/翠微) + 安踏灵犀/大森3.0/依明/三态比特 | ai, agent, fashion, supply_chain, c2m |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + 酷特智能C2M工信部案例(KTOS/近百国) + 新华网AI全产业链(森马/URV/波司登/翠微) + 安踏灵犀/大森3.0/依明/三态比特 +7-24新增WAIC2026信号 | ai, agent, fashion, supply_chain, c2m |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+)+帆软AI诊断四化 | guide, training, coaching, ai |
@@ -128,7 +128,7 @@ updated: 2026-07-23
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
-| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 | competitor, comparison, 2026Q1, 2026Q2 |
+| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 +7-24新增中报前瞻(森马+50%+/比音勒芬+20%/海澜持平) | competitor, comparison, 2026Q1, 2026Q2 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
@@ -192,6 +192,11 @@ updated: 2026-07-23
 | [[2026-07-22_Megaview_导购需求挖掘训练]] ⭐ NEW | 三阶段递进训练/主管投入-82%/需求成交19%→43%/人均47轮 | guide, ai, coaching, megaview |
 | [[2026-07-22_PANTEL_商品企划五步跃迁]] ⭐ NEW | 品类角色→价格带→波段→OTB→店群/首单70%→40%/净利率+3-5pp | otb, merchandise, planning, sku |
 | [[2026-07-22_第七在线_OTB终极指南]] ⭐ NEW | OTB公式/期货75-85%+快反15-25%/按周更新/五大最佳实践 | otb, merchandise, supply_chain |
+| [[2026-07-24_WAIC2026_服装电商AI信号]] ⭐ NEW | WAIC 2026：AI从工具到员工，电商Agent五大能力/虚拟试衣飞轮/数字人导购落地 | ai, agent, waic, ecommerce, virtual_tryon |
+| [[2026-07-24_商务部2026Q1服装行业经济运行]] ⭐ NEW | 商务部：2026Q1服装行业经济运行，营收/利润/内销/出口官方确认+细分板块 | mofcom, industry, kpi, benchmark, q1 |
+| [[2026-07-24_统计局2026年1-6月服装零售出口]] ⭐ NEW | 国家统计局/海关：2026年1-6月限上服装零售7709亿(+6.7%)/6月1285亿(+3.9%)/出口292.7亿美元(+7.2%)/产能利用率75.6% | industry, retail, export, customs, h1 |
+| [[2026-07-24_纺织服装2026中报业绩前瞻]] ⭐ NEW | 新浪财经券商综述：2026中报前瞻，森马+50%+/比音勒芬+20%/海澜持平/太平鸟拐点/户外+30-35% | competitor, financial, 2026q2, forecast, midyear |
+| [[2026-07-24_优衣库大中华区门店收缩]] ⭐ NEW | 腾讯证券引迅销Q3：大中华区978家(中国大陆871家)/较峰值缩水55家/增长脆弱性 | uniqlo, fast_retailing, store, china, contraction |
 | [[2026-06-05_丽晶_全渠道会员一体化]] | 丽晶全渠道会员打通三步法 | vip, omnichannel, rfm |
 | [[2026-06-05_探马SCRM_RFM分层运营]] | 探马SCRM服装RFM案例 | vip, rfm, private_domain |
 | [[2026-06-05_Megaview_AI导购陪练]] | Megaview导购AI陪练全方案 | guide, ai, training |
