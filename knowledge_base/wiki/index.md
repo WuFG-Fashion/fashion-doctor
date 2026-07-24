@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Fashion Doctor 知识库导航
@@ -192,6 +192,12 @@ updated: 2026-07-23
 | [[2026-07-22_Megaview_导购需求挖掘训练]] ⭐ NEW | 三阶段递进训练/主管投入-82%/需求成交19%→43%/人均47轮 | guide, ai, coaching, megaview |
 | [[2026-07-22_PANTEL_商品企划五步跃迁]] ⭐ NEW | 品类角色→价格带→波段→OTB→店群/首单70%→40%/净利率+3-5pp | otb, merchandise, planning, sku |
 | [[2026-07-22_第七在线_OTB终极指南]] ⭐ NEW | OTB公式/期货75-85%+快反15-25%/按周更新/五大最佳实践 | otb, merchandise, supply_chain |
+| [[2026-07-24_nice_rice_会员私域复购]] ⭐ NEW | nice rice 好饭：一码入会+智能导购+营销画布，复购+75%/会员券增量200万 | vip, membership, private_domain, repurchase |
+| [[2026-07-24_风尚衣橱_女装数字化会员复购]] ⭐ NEW | 风尚衣橱：3店数字化会员系统，复购+45%/VIP+25%/唤醒18%/拉新成本-60% | vip, membership, repurchase, digitalization |
+| [[2026-07-24_Megaview_导购收入增长数据]] ⭐ NEW | Megaview：全国连锁800+导购智能陪练，收入+22%/连单1.2→1.9/客单+24%（⚠️矛盾+12%） | guide, ai, coaching, training |
+| [[2026-07-24_北森_AI陪练6000客户实证]] ⭐ NEW | 北森：6000+企业AI陪练，珠宝客单+18%/转化+35%/上岗-50%（⚠️矛盾+5.8%/+11%） | guide, ai, coaching, training, beisen |
+| [[2026-07-24_第七在线_商品计划终极指南]] ⭐ NEW | 第七在线：商品计划七步法（MFP/OTB/货品结构50-60%/15-25%/10-20%） | otb, merchandise, planning, sku |
+| [[2026-07-24_户外品牌_商品组合计划挑战]] ⭐ NEW | 户外品牌：GMV+35%增长悖论，正价售罄42→33%/周转110→145天，组合计划AI解法 | otb, merchandise, assortment, sell_through, outdoor |
 | [[2026-07-24_WAIC2026_服装电商AI信号]] ⭐ NEW | WAIC 2026：AI从工具到员工，电商Agent五大能力/虚拟试衣飞轮/数字人导购落地 | ai, agent, waic, ecommerce, virtual_tryon |
 | [[2026-07-24_商务部2026Q1服装行业经济运行]] ⭐ NEW | 商务部：2026Q1服装行业经济运行，营收/利润/内销/出口官方确认+细分板块 | mofcom, industry, kpi, benchmark, q1 |
 | [[2026-07-24_统计局2026年1-6月服装零售出口]] ⭐ NEW | 国家统计局/海关：2026年1-6月限上服装零售7709亿(+6.7%)/6月1285亿(+3.9%)/出口292.7亿美元(+7.2%)/产能利用率75.6% | industry, retail, export, customs, h1 |
