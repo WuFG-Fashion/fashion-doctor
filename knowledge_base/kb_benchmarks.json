@@ -116,8 +116,10 @@
       "revenue_2026q1_billion": 34.49,
       "net_profit_2026q1_billion": 3.11,
       "revenue_growth": 0.1203,
-      "profit_growth": 0.4525
-    },
+    "profit_growth": 0.4525,
+    "revenue_2025fy_billion": 150.90,
+    "net_profit_2025fy_billion": 8.92
+  },
     "zara_inditex": {
       "gross_margin": 0.612,
       "net_margin": 0.161,
@@ -142,8 +144,10 @@
       "fy2026_revenue_guidance_jpy_billion": 39700,
       "fy2026_business_profit_guidance_jpy_billion": 7100,
       "fy2026_net_profit_guidance_jpy_billion": 5000,
-      "annual_dividend_jpy": 640
-    },
+    "annual_dividend_jpy": 640,
+    "greater_china_revenue_9m_jpy_billion": 5608.39,
+    "greater_china_revenue_9m_growth_pct": 0.0986
+  },
     "jnby": {
       "gross_margin": 0.665,
       "net_margin": 0.2,

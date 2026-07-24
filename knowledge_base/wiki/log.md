@@ -102,4 +102,5 @@ created: 2026-06-05
 | 2026-07-22 15:09 | ingestC | L2_06/07+查漏 — 采集4篇/织网9条/矛盾0处 ✅ (raw4→s4:Polars 1.42 K8s分布式+Streamlit v1.59+现代Python数据栈+DuckDB 1.5.4 Quack→c4更新:polars+streamlit+duckdb+python_data_stack→p2更新:streamlit_production+multi_brand→L3同步3处) |
 | 2026-07-23 06:35 | ingestA | L2_00/01/02 — 采集4篇/织网12条/矛盾0处 ✅ |
 | 2026-07-24 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网8条/矛盾0处 ✅ |
+| 2026-07-25 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网13出链+4回链/矛盾0处 ✅ |
 | 2026-07-24 15:35 | ingestB | L2_03/04/05 — 采集6篇/织网12条回链+6处L3同步/矛盾2处 ✅ (raw6→s6→c5更新:会员复购/AI导陪/导培闭环/动态OTB/SKU→L3同步6处→index更新6源) |

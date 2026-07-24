@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-24
+updated: 2026-07-25
 ---
 
 # Fashion Doctor 知识库导航
@@ -19,10 +19,10 @@ updated: 2026-07-24
 | [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" | brand, competitor, a_share, ai, turnaround |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
-| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) | brand, competitor, global |
+| [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
-| [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 | brand, competitor, menswear, ai |
+| [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 +7-25修正2025FY 150.90亿/8.92亿 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
 | [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%)+GiMS全链协同(头样100→27天/日吞吐100万件/补单8次+) | brand, competitor, hk_listed, ai, esg |
@@ -103,6 +103,7 @@ updated: 2026-07-24
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x) | data_governance, data_asset, ai_driven, dcmm |
 | [[china_apparel_2025_annual]] ⭐ UPDATED | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% + 月度轨迹(12月最惨/11月对美出口-23%) | industry, kpi, benchmark, 2025 |
+| [[consumption_expansion_15th_fiveyear_2026]] ⭐ NEW | 扩大消费"十五五"规划：2030社零60万亿(CAGR3.7%)/服装升格品质+文化+场景+生命周期消费/2025限上服装15215亿+3.2%/2026 1-5月6425亿+7.2% | policy, consumption, industry, benchmark, fifteen_five |
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x)/普元易数5星全生命周期 | data_governance, data_asset, ai_driven, dcmm, platform_selection |
 | [[global_apparel_financial_benchmarks_2026]] ⭐ NEW | 全球服装财务基准：毛利率55.3%/运营6.7%/退货25-40%/库存2.43x/LTV:CAC≥3:1/NYU Stern 35家对照 | kpi, benchmark, global, financial, dtc, inventory |
 
@@ -148,6 +149,9 @@ updated: 2026-07-24
 | [[2026-07-09_5月服装零售深度分析]] ⭐ NEW | 5月社零-0.6%但服装+3.8%，比音勒芬+121%/优衣库+76%/库销比改善 | kpi, ecommerce, competitor, industry |
 | [[2026-07-09_申万宏源2026中报前瞻]] ⭐ NEW | Q2品牌前瞻：比音勒芬高增/森马低基高增/海澜持平/户外+30-35% | competitor, financial, 2026q2, forecast |
 | [[2026-07-09_中国服装协会H1行业运行态势]] ⭐ NEW | H1定性：出口下行/内销增长/盈利承压，"十五五"科技/时尚/绿色/健康 | industry, policy, ai, fifteen_five |
+| [[2026-07-25_十五五60万亿消费规划]] ⭐ NEW | 国务院"十五五"规划：2030社零60万亿/服装升格综合消费载体/2025限上服装15215亿+3.2%/1-5月6425亿+7.2% | policy, consumption, industry, fifteen_five, kpi |
+| [[2026-07-25_优衣库关店赚钱迅销Q3确认]] ⭐ NEW | 腾讯新闻引迅销Q3：3.07万亿+17.1%/大中华区5608.39亿+9.86%/超H&M成全球第二/大陆875店-42 | uniqlo, fast_retailing, competitor, 2026q3, greater_china |
+| [[2026-07-25_森马2025年报全年与2026Q1]] ⭐ NEW | 森马2025FY修正150.90亿/8.92亿(占位139亿修正)/2026Q1 34.49亿+12.03%/净利3.11亿+45.25% | semir, competitor, menswear, financial, 2025annual |
 | [[2026-07-13_尊云科技_私域SOP-C方法论]] ⭐ NEW | 尊云SOP-C私域四步法（分层→运营→个性化→转化），2026目标：转化≥15%/复购≥40%/LTV≥3x | vip, private_domain, sop, repurchase |
 | [[2026-07-13_智传营_会员忠诚度五转向]] ⭐ NEW | 2026会员忠诚度五范式转向：角色/数据/体验/场景/关系，从"经营交易"到"经营关系"，Z世代73%偏好即时奖励 | vip, loyalty, membership, z_gen |
 | [[2026-07-13_北森_AI陪练2.0珠宝方案]] ⭐ NEW | 北森AI陪练2.0：35个训练情境/4类AI顾客/新人达标-37%/客单+5.8%/转化+11% | guide, ai, training, beisen, jewelry |
@@ -579,6 +583,7 @@ updated: 2026-07-24
 | **109** | **07-12 23:33** | **L2_06/07+查漏 (C轮)** | **s4(Polars企业级TCO+Streamlit v1.59+治理MCP+ETL排名)/c4更新(polars+streamlit+data_gov+ETL)/p2更新/L3同步3处/织网4条/矛盾0处 ✅** |
 
 | **106** | **07-10 06:35** | **L2_00/01/02 (A轮)** | **s1(迅销Q3九个月3.07万亿+17.1%)/e1更新(fast_retailing+Q3上调7100亿+中国同店转正)/织网2条/矛盾0处 ✅** |
+| **107** | **07-25 06:35** | **L2_00/01/02 (A轮)** | **s3(十五五60万亿+优衣库关店赚钱Q3+森马2025FY修正)/c1新增(十五五规划)/e2更新(fast_retailing+semir)/L3同步2处/织网13出链+4回链/矛盾0处 ✅** |
 
 | **91** | **06-30 23:15** | **L2_06/07 (C轮)** | **s4/c3更新(SQL优化+PG18/Polars 15x RFM/Streamlit v1.53-1.58)/p1更新(零售SQL实践)/L3同步2处/织网6条/矛盾0处 ✅** |
 
