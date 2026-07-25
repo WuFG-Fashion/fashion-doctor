@@ -2,10 +2,10 @@
 type: concept
 title: 湖仓一体2026架构
 tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture, middle_platform]
-sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026]
+sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]
 created: 2026-06-08
-updated: 2026-06-22
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]]
+updated: 2026-07-25
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
 ---
 
 # 湖仓一体2026架构
@@ -221,3 +221,38 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 1. **AI 大模型融入治理全流程**（NL2SQL/智能诊断/指标解释）
 2. **全栈信创成刚需**（芯片→OS→DB→中间件国产化）
 3. **部署灵活性拉开差距**（私有化+公有云+混合云）
+
+## 2026年零ETL + 湖仓极简主义（2026-07新增）⭐
+
+> 来源：[[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
+
+### 数据战略回归极简主义
+
+2026 年 AI 倒逼下，数据战略从"堆工具"回归"极简"——三大 IN 趋势成为新理想：
+
+| 趋势 | 核心变化 | 对多品牌系统的意义 |
+|------|---------|-----------------|
+| **Lakehouse 成北极星** | Databricks/Snowflake/Microsoft 统一环境，单一平台覆盖结构化+非结构化+分析+ML+AI | 多品牌共享统一分析底座，免多平台切换 |
+| **零 ETL 成新理想** | 运营系统数据实时复制到分析环境，消除夜间批处理脆弱性 | 各品牌门店实时销售直入湖，消除 T+1 脚本 |
+| **对话式分析 + 自主 BI** | 静态仪表盘影响力下降，AI Agent 按需合成洞察+可视化 | 门店经营助手"本月哪个门店售罄率最高？" |
+
+### 存储与格式新标准
+
+- **向量原生存储**：RAG 依赖向量嵌入，数据库将向量作为一等对象存储，供应商竞相内嵌。
+- **Apache Iceberg 成开放表格式标准**：多引擎零拷贝共享同一份数据，提供"生态再变也无需重写"的未来防护盾。
+
+### FineDataLink 2026 趋势落地数据
+
+| 趋势 | 典型表现 | 关键数据 |
+|------|---------|---------|
+| 低代码/自动化 | 可视化 DAG、拖拽集成 | 提效 **50%+** |
+| 实时数据流成刚需 | Kafka + 流式处理为中枢 | **90% 企业要求分钟/秒级同步** |
+| 智能融合 | AI 质量监控/异常检测 | 降人力、提质量 |
+| 湖仓一体融合 | 数仓+数据湖无缝集成 | 拓展可用性+分析场景 |
+| 合规安全内嵌 | 自动脱敏/权限/审计 | 选型必备项 |
+
+### 对现有湖仓落地路径的增强
+
+- 多品牌数据摄入层：用 **Zero ETL** 通道替代批处理脚本（门店实时销售直入 Iceberg）。
+- 统一数据层：选用 **Apache Iceberg** 格式，Polars / DuckDB / Spark 共享同一份多品牌 Parquet。
+- 分析呈现层：增加**对话式分析入口**（Streamlit + AI Agent），替代部分静态仪表盘。

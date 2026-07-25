@@ -2,10 +2,10 @@
 type: concept
 title: Python数据栈边界决策框架2026
 tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics, data_engineering]
-sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈]
+sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式]
 created: 2026-06-15
-updated: 2026-07-22
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]]
+updated: 2026-07-25
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]]
 ---
 
 # Python数据栈边界决策框架2026
@@ -106,3 +106,49 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_dat
 ## 待办 / 待验证
 - [ ] 服装零售场景300GB/天日志的实际落地案例待补充
 - [ ] ClickHouse vs DuckDB 在零售OLAP场景的A/B测试数据
+
+## 2026 混合用范式：Polars 月下载破 3000 万 + Pandas 3.0 GA（2026-07新增）⭐
+
+> 来源：[[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]]
+
+### 市场与版本信号（2026 年中）
+
+| 指标 | 数据 | 说明 |
+|------|------|------|
+| Polars 月下载量 | 突破 **3000 万** | 对比 2024 初 750 万，+300% |
+| Pandas 版本 | **3.0.3**（默认 PyArrow + CoW） | 底子已非 2008 单线程时代 |
+| sklearn 短板 | 1.4+ 已支持 `set_output(transform="polars")` | Polars 生态补洞中 |
+
+### 1000 万行混合基准（8 核 32GB）
+
+| 操作 | Pandas 3.0 | Polars(lazy) | 加速比 |
+|------|-----------|-------------|:---:|
+| 过滤 | 0.41s | 0.07s | ~6x |
+| GroupBy 聚合 | 3.12s | 0.31s | ~10x |
+| 内连接 | 5.87s | 0.48s | ~12x |
+| 多列排序 | 2.44s | 0.25s | ~10x |
+| 字符串过滤 | 1.93s | 0.18s | ~11x |
+| 滚动均值(窗口30) | 4.10s | 0.44s | ~9x |
+
+### 内存节省（更夸张）
+
+| 场景 | Pandas | Polars | 节省 |
+|------|--------|--------|:---:|
+| 1000 万行混合 | 3.2 GB | 1.1 GB | 65% |
+| 字符串密集 | 5.8 GB | 1.9 GB | 67% |
+| GroupBy 峰值 | 8.4 GB | 2.3 GB | 73% |
+
+### 范式升级：从"二选一"到"哪一步用哪个"
+
+- **50 万行以下**：Pandas / Polars 几乎无感差异，Pandas 因少 lazy overhead 反而更快。
+- **真正该问的不是"用哪个"，而是"哪一步用哪个引擎"**——Arrow 原生让零拷贝互操作成为现实，"混合用"取代"二选一"。
+
+### 服装零售决策速查（更新版）
+
+| 数据量 / 场景 | 推荐 |
+|--------------|:---:|
+| <10 万行 探索 + ML | Pandas（生态王者） |
+| 10 万~500 万行 | Pandas+PyArrow 后端 |
+| 500 万~5000 万行 | **Polars（单机最优）** |
+| >5000 万行 / 流式 | Polars Lazy + DuckDB |
+| 生产 ETL + ML 最后一公里 | **Polars → Pandas 双轨**（Arrow 零拷贝） |

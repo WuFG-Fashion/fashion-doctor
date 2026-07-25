@@ -104,3 +104,4 @@ created: 2026-06-05
 | 2026-07-24 06:35 | ingestA | L2_00/01/02 — 采集5篇/织网8条/矛盾0处 ✅ |
 | 2026-07-25 06:35 | ingestA | L2_00/01/02 — 采集3篇/织网13出链+4回链/矛盾0处 ✅ |
 | 2026-07-24 15:35 | ingestB | L2_03/04/05 — 采集6篇/织网12条回链+6处L3同步/矛盾2处 ✅ (raw6→s6→c5更新:会员复购/AI导陪/导培闭环/动态OTB/SKU→L3同步6处→index更新6源) |
+| 2026-07-25 15:14 | ingestC | L2_06/07+查漏 — 采集4篇/织网7条/矛盾0处 ✅ (raw4→s4:Danilchenko Polars刷新基准+今日头条混合用范式+未央网DataAgent新范式+fjcio零ETL湖仓一体→c5更新:polars_vs_pandas+python_data_stack+data_governance+data_lakehouse+etl_governance_convergence→p1更新:multi_brand_unified_analytics→L3同步3处→index更新4源+2概念UPDATED) |

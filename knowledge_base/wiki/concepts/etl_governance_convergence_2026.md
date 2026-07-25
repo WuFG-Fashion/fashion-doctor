@@ -2,10 +2,10 @@
 type: concept
 title: ETL治理一体化演进2026
 tags: [etl, data_governance, integration, data_quality, architecture, multi_brand]
-sources: [2026-06-12_帆软_ETL集成治理一体化]
+sources: [2026-06-12_帆软_ETL集成治理一体化, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]
 created: 2026-06-12
-updated: 2026-06-22
-cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]]
+updated: 2026-07-25
+cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
 ---
 
 # ETL治理一体化演进2026
@@ -89,3 +89,24 @@ cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2
 - [[data_lakehouse_2026|湖仓一体 2026]]
 - [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
 - [[2026-06-12_帆软_ETL集成治理一体化]]
+
+## 2026 实时数据流成刚需 + 低代码提效（2026-07新增）⭐
+
+> 来源：[[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
+
+### 一体化演进的新约束
+
+2026 年下半年的治理一体化讨论，从"功能集成"进一步收敛到两个硬指标：
+
+| 约束 | 数据 | 对多品牌零售的含义 |
+|------|------|-----------------|
+| **实时数据流成刚需** | **90% 企业业务要求分钟级甚至秒级同步** | 多品牌门店销售/库存必须实时入湖，T+1 批处理不再可接受 |
+| **低代码自动化提效** | 可视化 DAG 拖拽集成，**提效 50%+** | 业务人员可参与数据集成，缩短多品牌管道上线周期 |
+| **湖仓一体融合** | 数仓+数据湖无缝集成 | 多品牌数据可用性+分析场景同步拓展 |
+| **合规安全内嵌** | 自动脱敏/权限/审计 | 服装零售敏感数据（会员/交易）选型的必备项 |
+
+### 对 ETL 治理一体化的增强
+
+- 管道选型检验清单新增：**能否做到分钟/秒级实时同步？**（替代原"能否接入多少源"）
+- 质量规则嵌入进一步前移：源头（ERP 生成即校验，呼应用友 BIP"从源头抓质量"）比管道内嵌更早拦截
+- 多品牌零售是优先受益场景：链路长、消费角色多，实时 + 低代码治理将修复成本从消费环节降到产生环节

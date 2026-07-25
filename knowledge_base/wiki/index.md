@@ -63,9 +63,9 @@ updated: 2026-07-25
 | [[retail_analytics_reporting_2026]] ⭐ NEW | 服装零售报表2026：五大趋势+六维KPI+五步优化+李宁补货+20% | retail, analytics, reporting, ai_bi |
 | [[china_apparel_export_2026]] ⭐ NEW | 2026年1-4月出口442.3亿(-0.9%)/针织+1.8%梭织-3.7%/在美份额10.7%被越南反超 | export, trade, supply_chain, industry |
 | [[retail_data_workflow_2026]] ⭐ NEW | CRISP-DM七步工作流×服装零售/Pandas-Polars-DuckDB三引擎选型/EDA三类+可视化全家桶 | retail, analytics, workflow, crisp_dm, eda |
-| [[etl_governance_convergence_2026]] ⭐ NEW | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 | etl, data_governance, integration, architecture |
+| [[etl_governance_convergence_2026]] ⭐ UPDATED | ETL治理一体化2026：治理从"事后补丁"到"事前嵌入"/血缘自动沉淀/质量前置校验 + 实时数据流刚需 + 低代码提效 | etl, data_governance, integration, architecture, realtime |
 | [[retail_bi_visualization_2026]] ⭐ NEW | 2026 BI可视化在服装零售的选型：SmartBI/Tableau/Superset/DataEase/Metabase五大工具+决策树 | bi, visualization, dashboard, tool_selection, retail |
-| [[python_data_stack_decision_2026]] ⭐ NEW | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x | python, polars, pandas, spark, clickhouse, decision_framework |
+| [[python_data_stack_decision_2026]] ⭐ UPDATED | Python数据栈三重边界+决策框架：<5GB→Pandas/5-100GB→Polars+DuckDB/>100GB→Spark，实测Polars 6.7x/ClickHouse 10x + 2026 混合用范式 | python, polars, pandas, spark, clickhouse, decision_framework |
 | [[apparel_ai_policy_2026]] ⭐ UPDATED | 纺织服装AI国家政策2026-2028："AI+纺织"首次写入五部门国家级方案/2028年≥25个卓越品牌 | policy, ai, textile, national_strategy |
 | [[light_luxury_brand_framework_2026]] ⭐ UPDATED | 轻奢品牌三维跟踪框架(规模-价格-投入)/S型曲线+凡勃伦溢价+弹性陷阱/高端消费复苏佐证(恒隆-18→+18%)/安踏净利增量分解 + **申万宏源×方正交叉验证(歌力思+70%/地素+22%/女装板块级复苏) + 浙商PE估值表(6.5-16.7×)+三家券商系统化确认** | competitor, luxury, framework, brand_strategy |
 | [[ai_fashion_consumer_2026]] ⭐ NEW | AI时尚消费2026：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭(Alta)+数字衣橱(Vêtir)+数字人直播(安踏>10万h/GMV>3亿) | ai, fashion_consumer, digital_human, agentic_commerce |
@@ -136,6 +136,10 @@ updated: 2026-07-25
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]] ⭐ NEW | 2026-07 刷新实测：240M 行真实负载下 Polars joins/group-bys ~10x、Parquet ~5x 快于 Pandas；Pandas 3.0 GA 缩小部分差距，结论仍"双轨混合用" | polars, pandas, benchmark, etl |
+| [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]] ⭐ NEW | 2026 年中实测：Polars 月下载破 3000 万、1000 万行 groupby ~10x/join ~12x/内存省 65-73%；"二选一"→"混合用" | polars, pandas, benchmark, decision |
+| [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]] ⭐ NEW | 2026 数据治理竞争从"架构"转"智能"：Data Agent 落地深度成选型标尺；IDC 2028 60% 中国 500 强部署，百分点 +80%/-70% | data_governance, data_agent, platform, ai |
+| [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]] ⭐ NEW | 2026 数据战略极简：Lakehouse 成北极星/零 ETL 成新理想/Iceberg 标准；FineDataLink 90% 企业要求分钟秒级、低代码提效 50%+ | data_lakehouse, zero_etl, iceberg, etl |
 | [[2026-05-06_新华网_AI改写衣橱全产业链]] ⭐ NEW | 新华网官方：森马AI设计30秒/URV AI调拨售罄+80%/波司登智能制造/翠微百货虚拟试衣 | ai, apparel, design, supply_chain, xinhua |
 | [[2026-07-07_安踏灵犀穿搭大模型火山引擎]] ⭐ NEW | 火山引擎FORCE大会：灵犀Lumina平台/六维评测/四道精修/版型还原>90%/Logo还原100% | ai, anta, virtual_tryon, volcano_engine |
 | [[2026-07-10_酷特智能AGI工信部典型案例]] ⭐ NEW | 工信部2025AI典型案例：酷特智能C2M全链路/近百个国家/KTOS跨行业复制 | ai, c2m, smart_manufacturing, miit |
