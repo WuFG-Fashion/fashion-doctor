@@ -2,10 +2,10 @@
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
-sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026]
+sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-26_Vistoya_2026时尚品牌AI_Agent实战.md]
 created: 2026-06-09
-updated: 2026-07-20
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]]
+updated: 2026-07-26
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]]
 ---
 
 # 代理式商务与时尚零售AI新范式（2026）
@@ -153,6 +153,26 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 - 与[[#零售经济学三大变革]]联动：元数据优化+零售媒体变现的逻辑同样适用于VTO数据资产
 - **站内广告65%预算面临风险**：流量向第三方代理转移
 
+## Vistoya 全球 Agentic Commerce 实战 ROI ⭐ 7月26日新增
+
+> 来源：[[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]]（Vistoya 2026 全球案例综述）
+
+Vistoya 汇总了 2026 年时尚品牌部署 AI Agent 的实测 ROI，覆盖从需求预测到物流的完整链路：
+
+| 场景 | 案例 | 效果 |
+|------|------|------|
+| 需求预测 | Madhappy | 过剩生产 -40% |
+| 邮件营销 | Mejuri | 邮件收入 +28%（H1 2026） |
+| 供应链 | Bain 综述 | 交付周期 lead time **-23%** / 物流成本 **-17%** |
+| 获客 | 品牌均值 | 获客成本 CAC **-22%**（6个月） |
+| 质检 | 计算机视觉 Agent | 退货率 -30% |
+| 物流 | 物流 Agent | $2.40/单节省 |
+| 设计 | Collina Strada | 样衣成本 -35% |
+
+### 与 Bain 经济学框架的呼应
+- Bain（见 [[2026-06-22_Bain_Agentic_AI零售2026]]）侧重消费者行为（8% 从 ChatGPT 开始购物、Amazon Rufus 增量 ~$120 亿）；Vistoya 补齐了**供应链侧量化收益**：交付周期 -23% / 物流 -17%，直接对应 Bain"赢得推荐+保留控制权"护城河逻辑。
+- 质检 Agent 退货率 -30%，呼应 Adobe 所述全球 $450 亿/年退货成本（见 [[apparel_ai_agents_2026]]）。
+
 ## 关联页面
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
@@ -163,3 +183,4 @@ Agentic Commerce（代理式商务）指消费者通过**AI代理**而非传统�
 - [[2026-06-19_中新经纬_2026年618消费洞察报告]] — 中新经纬：2026年618消费洞察报告
 - [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]] — VOGUE Business：AI时尚消费入口全景(京东618 AI全场景/千问×淘宝/豆包×抖音)
 - [[burberry]] — Burberry博柏利(AI数字人直播>50%双11成交)
+- [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]] — Vistoya：全球 Agentic Commerce 实战 ROI（Bain 供应链 -23%/-17%）

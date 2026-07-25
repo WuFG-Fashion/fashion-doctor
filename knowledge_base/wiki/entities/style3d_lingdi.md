@@ -4,8 +4,8 @@ title: 凌迪科技 / Style3D
 tags: [style3d, lingdi, vendor, ai, 3d, digital_twin, agent, supply_chain]
 sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21
-updated: 2026-07-21
-cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baoxiniao]], [[semir]], [[ai_virtual_tryon_2026]]
+updated: 2026-07-26
+cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baoxiniao]], [[semir]], [[ai_virtual_tryon_2026]], [[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]]
 ---
 
 # 凌迪科技 / Style3D
@@ -59,6 +59,17 @@ cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baox
 | **Alsico** | 全球工装 | 9月→数周 |
 | **Carhartt WIP** | 美国工装 | PLM集成 |
 
+## Agentic AI 全球基准（Style3D Blog, Q1 2026）⭐ 7月新增
+
+> 来源：[[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]]
+
+- BoF + McKinsey Q1 2026：**63%** 时尚品牌已将 AI 设计工作流嵌入至少一处生产环节
+- 样衣开发：**3 天 → 6 小时**
+- 实物样衣成本：**-70%**
+- 设计迭代：**4x**
+- 技术栈：意图识别 + 自主制版 + 物理仿真
+- Lever Style / Springtex：样衣修订 **-50%**
+
 ## CEO三大判断
 - "软件定义服装"
 - "智能重塑产业"
@@ -78,3 +89,4 @@ cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baox
 - [[semir]] — 森马实体页
 - [[ai_virtual_tryon_2026]] — AI虚拟试衣
 - [[2026-07-21_Style3D伙伴大会2026]] — 来源页
+- [[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]] — 来源页（全球基准数据）
