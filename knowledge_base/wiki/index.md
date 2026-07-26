@@ -136,6 +136,12 @@ updated: 2026-07-26
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-26_百丽数字化私域7200万会员复购43.6%]] ⭐ NEW | 百丽国际：7200万会员/私域复购率43.6%（对比 kb_benchmarks private_domain_repurchase=0.45，差1.4pp），数字化会员运营标杆 | vip, membership, repurchase, private_domain, belle |
+| [[2026-07-26_有赞30种会员权益玩法_易美内衣私域]] ⭐ NEW | 有赞30种会员权益玩法框架+易美内衣案例：私域复购+90%/+15%，沉睡会员唤醒策略落地 | vip, membership, private_domain, youzan, repurchase, reactivation |
+| [[2026-07-26_Megaview需求挖掘转化提升23%]] ⭐ NEW | 深维智信 Megaview：需求挖掘转化成功率+23%/对话深度+34%（⚠️矛盾：对比 kb_benchmarks megaview_conversion_boost_pct=0.18 即+18%，待验证） | guide, ai, training, megaview, coaching, conversion |
+| [[2026-07-26_Megaview即时反馈训练开口焦虑期缩短]] ⭐ NEW | 深维智信 Megaview：即时反馈训练将开口焦虑期2周→3天/知识留存<30%→72%，AI陪练闭环验证 | guide, ai, training, megaview, coaching, feedback |
+| [[2026-07-26_全渠道一盘货重构服装商品管理]] ⭐ NEW | 全渠道一盘货：线上线下仓配统一库存池，门店即前置仓/就近发货/智能调拨，倒逼首单压缩与快反提升 | merchandise, otb, omnichannel, inventory, supply_chain |
+| [[2026-07-26_区域店铺级OTB_ABC管理]] ⭐ NEW | 区域店铺级OTB的ABC管理：OTB下沉区域+店铺，款-色-码配货单元，1-3月生命周期滚动，存销比4.5-5.5 | otb, merchandise, abc, sku, inventory, planning |
 | [[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]] ⭐ NEW | Style3D Blog 2026：Agentic AI 成产业标准，AI设计工作流渗透率63%/样衣3天→<6小时/实物样衣成本-70%/设计迭代4x/样衣修订-50% | ai, agent, apparel, style3d, agentic_ai, benchmark |
 | [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]] ⭐ NEW | Vistoya 2026：全球 Agentic Commerce 实战 ROI，Madhappy 过剩生产-40%/Mejuri 邮件+28%/Bain 供应链 lead time -23% 物流-17%/CAC -22%/退货-30%/$2.40每单节省 | ai, agentic_commerce, agent, fashion, roi, supply_chain |
 | [[2026-07-26_海澜之家2026Q1渠道深化与全球化]] ⭐ NEW | 海澜之家2026Q1：毛利率45.32%/净利率13.80%/直营1647家(净增18)/加盟3985家(净减11)/海外147店+收入4.5亿(+27.7%)/迪拜悉尼首店/阿迪授权723家（⚠️矛盾：对比表45.93%→45.32%已修正） | hla, competitor, menswear, financial, channel, globalization |
