@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-27",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "21 个 wiki/entities 文件 + 50 个 wiki/concepts 文件",
-    "data_points": "280+条数值",
-    "last_scan": "2026-07-21"
+    "files_scanned": "23 个 wiki/entities 文件 + 51 个 wiki/concepts 文件",
+    "data_points": "335+条数值",
+    "last_scan": "2026-07-27"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -116,10 +116,10 @@
       "revenue_2026q1_billion": 34.49,
       "net_profit_2026q1_billion": 3.11,
       "revenue_growth": 0.1203,
-    "profit_growth": 0.4525,
-    "revenue_2025fy_billion": 150.90,
-    "net_profit_2025fy_billion": 8.92
-  },
+      "profit_growth": 0.4525,
+      "revenue_2025fy_billion": 150.9,
+      "net_profit_2025fy_billion": 8.92
+    },
     "zara_inditex": {
       "gross_margin": 0.612,
       "net_margin": 0.161,
@@ -144,10 +144,10 @@
       "fy2026_revenue_guidance_jpy_billion": 39700,
       "fy2026_business_profit_guidance_jpy_billion": 7100,
       "fy2026_net_profit_guidance_jpy_billion": 5000,
-    "annual_dividend_jpy": 640,
-    "greater_china_revenue_9m_jpy_billion": 5608.39,
-    "greater_china_revenue_9m_growth_pct": 0.0986
-  },
+      "annual_dividend_jpy": 640,
+      "greater_china_revenue_9m_jpy_billion": 5608.39,
+      "greater_china_revenue_9m_growth_pct": 0.0986
+    },
     "jnby": {
       "gross_margin": 0.665,
       "net_margin": 0.2,
@@ -227,6 +227,28 @@
       "womenswear_growth": -0.143,
       "oem_growth": -0.083,
       "school_uniform_growth": -0.34
+    },
+    "baoxiniao": {
+      "revenue_2026q1_billion": 14.4,
+      "net_profit_2026q1_billion": 2.37,
+      "revenue_growth": 0.1046,
+      "profit_growth": 0.3903
+    },
+    "burberry": {
+      "gross_margin": 0.679,
+      "revenue_fy2026_gbp_billion": 24.2,
+      "revenue_growth": -0.02,
+      "greater_china_q4_growth": 0.1
+    },
+    "langzi_fashion": {
+      "womenswear_revenue_2026q1_billion": 5.7,
+      "womenswear_growth": 0.1311,
+      "medical_aesthetics_revenue_2026q1_billion": 8.06,
+      "medical_aesthetics_growth": 0.14,
+      "h1_net_profit_growth_range": [
+        -0.6578,
+        -0.7659
+      ]
     }
   },
   "membership": {
