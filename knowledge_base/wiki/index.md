@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-26
+updated: 2026-07-27
 ---
 
 # Fashion Doctor 知识库导航
@@ -29,7 +29,7 @@ updated: 2026-07-26
 | [[anta]] ⭐ UPDATED | 安踏集团，灵犀大模型火山引擎发布：Lumina平台/六维评测/四道精修/Logo还原100%/成本-80%，"谁更懂消费者" | brand, competitor, sportswear, ai, virtual_tryon |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
 | [[jnby]] ⭐ UPDATED | 江南布衣03306，2026H1 33.76亿(+7%)/净利6.76亿(+11.9%)/毛利66.5%创新高，34万高价值会员贡献60%线下/618第十/21.8亿总部/2026E EPS1.85 PE9.1/股息率8.2% | brand, competitor, womenswear, membership |
-| [[lilanz]] ⭐ NEW | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 | brand, competitor, menswear |
+| [[lilanz]] ⭐ UPDATED | 利郎01234，2025营收首破40亿(+11.5%)/轻商务+28.4%/研发占比6.9%，技术驱动男装标杆 +7-27新增H1低双位数增长+男装K型分化(泛户外男装1430亿/女性买男装28%) | brand, competitor, menswear, k_shaped |
 | [[top_sports]] ⭐ NEW | 滔搏国际，中国最大运动零售代理商，FY2026营收257.4亿(-4.7%)/净利12.7亿/用户9290万 | brand, competitor, sportswear, retail_agent |
 | [[hm]] ⭐ UPDATED | H&M，瑞典快时尚，Q1营收496亿SEK(-10.3%)→Q2营收548亿(-3%)/毛利率56.62%(+8.72pct)/净利39.63亿趋稳/全球门店4038家(-128)/线上>30%/亚太收缩/双向挤压困局 | brand, competitor, fast_fashion, turnaround |
 | [[burberry]] ⭐ UPDATED | Burberry博柏利，FY2026营收24.2亿£/毛利率67.9%/大中华Q4+10%/正拐点+AI数字人>50%双11成交 | brand, competitor, luxury, turnaround, ai |
@@ -37,6 +37,7 @@ updated: 2026-07-26
 | [[langzi_fashion]] ⭐ UPDATED | 朗姿股份002612，"女装+医美+婴童"三主业，Q1女装+13.11%/医美+14%，H1归母净利-65.78%~-76.59%(高新取消+非经常性拖累)/剔除非经常性后主业+30-60%/商誉19.19亿占净资产56%+/申万维持增持15元 | brand, competitor, womenswear, medical_aesthetics, goodwill_risk |
 | [[baoxiniao]] ⭐ NEW | 报喜鸟002154，2026Q1营收14.40亿(+10.46%)/净利2.37亿(+39.03%)，与Style3D共创AI Agent定制服务大模型：量体+50%/决策-30%/转化+25%/退货-10% | brand, competitor, menswear, ai, customization |
 | [[style3d_lingdi]] ⭐ NEW | 凌迪科技/Style3D，全球时尚产业AI+3D平台，发布StyleClaw数字伙伴AI中台，服务报喜鸟/森马/望思达/The Very Group等，2026定位"物理AI元年+智能体AI落地元年" | vendor, ai, 3d, digital_twin, agent |
+| [[jiumuwang]] ⭐ NEW | 九牧王601566，2026H1预告归母净利3000-4500万(-74%~-83%)/扣非+24%~+49%/金融资产-1.1亿拖累/股价年内-34%，男装"裤王"主业企稳但投资端承压 | brand, competitor, menswear, financial, profit_warning |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
@@ -136,6 +137,9 @@ updated: 2026-07-26
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]] ⭐ NEW | 九牧王601566：2026H1归母净利3000-4500万(-74%~-83%)/扣非+24%~+49%/金融资产-1.1亿拖累/股价年内-34%；美邦服饰由盈转亏 | jiumuwang, competitor, menswear, financial, profit_warning |
+| [[2026-07-27_中国利郎H1低双位数增长_男装K型分化]] ⭐ NEW | 中国利郎01234 H1低双位数增长 + 男装K型分化：泛户外男装2025市场1430亿/女性买男装28%/H1服装零售7709亿+6.7% | lilanz, competitor, menswear, financial, k_shaped |
+| [[2026-07-27_虹软ArcMuse_AI商拍平台]] ⭐ NEW | 虹软ArcMuse/PSAI双层架构(视觉大模型+垂直小模型)/百余面部关键点/面料物理动态还原，视觉技术厂商的商拍平台 | ai, virtual_tryon, ecommerce, arcsoft, arcmuse, tool_selection |
 | [[2026-07-26_百丽数字化私域7200万会员复购43.6%]] ⭐ NEW | 百丽国际：7200万会员/私域复购率43.6%（对比 kb_benchmarks private_domain_repurchase=0.45，差1.4pp），数字化会员运营标杆 | vip, membership, repurchase, private_domain, belle |
 | [[2026-07-26_有赞30种会员权益玩法_易美内衣私域]] ⭐ NEW | 有赞30种会员权益玩法框架+易美内衣案例：私域复购+90%/+15%，沉睡会员唤醒策略落地 | vip, membership, private_domain, youzan, repurchase, reactivation |
 | [[2026-07-26_Megaview需求挖掘转化提升23%]] ⭐ NEW | 深维智信 Megaview：需求挖掘转化成功率+23%/对话深度+34%（⚠️矛盾：对比 kb_benchmarks megaview_conversion_boost_pct=0.18 即+18%，待验证） | guide, ai, training, megaview, coaching, conversion |
