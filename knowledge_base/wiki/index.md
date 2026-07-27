@@ -137,6 +137,10 @@ updated: 2026-07-27
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-28_优衣库关店赚钱全球第二超越H&M]] ⭐ NEW | 迅销FY2026指引3.97万亿日元(+17%)≈214亿欧元超H&M(199-208亿)成全球第二/前三季营收3.07万亿+17.1%/大中华区5608.39亿+9.86%/大陆门店926(2023.8高峰)→875(2026.5)年均净减~50家 | uniqlo, fast_retailing, competitor, global_ranking, store_closure, greater_china |
+| [[2026-07-28_纺织业2026H1产能利用率工业增加值]] ⭐ NEW | 生意社：1-6月规上纺织工业增加值+3.3%/纺织业产能利用率H1 75.6%(Q2 74.9%同比-2.9%)/服装鞋帽针纺织品零售7709亿+6.7%/6月出口292.7亿美元+7.2% | textile, industry, capacity_utilization, industrial_value_added, kpi, benchmark, h1 |
+| [[2026-07-28_veeton_2026全球AI时尚能力报告]] ⭐ NEW | Veeton 2026：ASOS生成式AI工具箱赋能100+设计师/设计流程省时75-80%/Mango AI图替PDP摄影/H&M真实模特数字孪生批量生成在模电商图 | asos, mango, hnm, ai, fashion_design, virtual_tryon, global, generative_ai, digital_twin |
+| [[2026-07-28_奥康国际AI客服全链路升级]] ⭐ NEW | 奥康国际603001电商客服AI智能体=AI大模型+RPA+专属知识库/黄金三角转化+4pp/满意度90%→96%+/挽单7-8%/投诉-20% | aokang, ai, customer_service, rpa, retail_ai, shoe, service |
 | [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]] ⭐ NEW | 九牧王601566：2026H1归母净利3000-4500万(-74%~-83%)/扣非+24%~+49%/金融资产-1.1亿拖累/股价年内-34%；美邦服饰由盈转亏 | jiumuwang, competitor, menswear, financial, profit_warning |
 | [[2026-07-27_中国利郎H1低双位数增长_男装K型分化]] ⭐ NEW | 中国利郎01234 H1低双位数增长 + 男装K型分化：泛户外男装2025市场1430亿/女性买男装28%/H1服装零售7709亿+6.7% | lilanz, competitor, menswear, financial, k_shaped |
 | [[2026-07-27_虹软ArcMuse_AI商拍平台]] ⭐ NEW | 虹软ArcMuse/PSAI双层架构(视觉大模型+垂直小模型)/百余面部关键点/面料物理动态还原，视觉技术厂商的商拍平台 | ai, virtual_tryon, ecommerce, arcsoft, arcmuse, tool_selection |
