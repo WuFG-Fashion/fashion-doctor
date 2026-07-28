@@ -4,8 +4,8 @@ title: 九牧王 (601566.SH)
 tags: [jiumuwang, competitor, menswear, a_share, profit_warning, joeone]
 sources: [2026-07-27_九牧王H1业绩预告_美邦由盈转亏]
 created: 2026-07-27
-updated: 2026-07-27
-cross_refs: [[china_apparel_industry_2026q1]], [[septwolves]], [[hla]], [[lilanz]], [[男装品牌竞争格局2026Q1]], [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]]
+updated: 2026-07-29
+cross_refs: [[china_apparel_industry_2026q1]], [[septwolves]], [[hla]], [[lilanz]], [[男装品牌竞争格局2026Q1]], [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]], [[earnings_quality_nonrecurring_2026]]
 ---
 
 # 九牧王 (601566.SH)
@@ -47,3 +47,4 @@ cross_refs: [[china_apparel_industry_2026q1]], [[septwolves]], [[hla]], [[lilanz
 - [[lilanz|利郎]] — 中高端男装（H1低双位数增长）
 - [[男装品牌竞争格局2026Q1|男装品牌竞争格局2026Q1]] — 男装利润分化
 - [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]] — 来源页
+- [[earnings_quality_nonrecurring_2026]] — 盈利质量与扣非净利润（金融资产拖累对照案例）

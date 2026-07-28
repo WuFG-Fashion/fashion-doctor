@@ -4,8 +4,8 @@ title: 安正时尚集团 (603839.SH)
 tags: [anzheng, competitor, womenswear, a_share, earnings]
 sources: [2026-07-14_安正时尚_2026H1业绩预告.md]
 created: 2026-07-17
-updated: 2026-07-17
-cross_refs: [[light_luxury_brand_framework_2026]], [[bienlefen]]
+updated: 2026-07-29
+cross_refs: [[light_luxury_brand_framework_2026]], [[bienlefen]], [[earnings_quality_nonrecurring_2026]], [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]]
 ---
 
 # 安正时尚 (603839.SH)
@@ -43,6 +43,8 @@ cross_refs: [[light_luxury_brand_framework_2026]], [[bienlefen]]
 
 - [[light_luxury_brand_framework_2026]] — 轻奢品牌三维框架
 - [[bienlefen]] — 比音勒芬（高端可比标的）
+- [[earnings_quality_nonrecurring_2026]] — 盈利质量与扣非净利润（同周期H1预告对照）
+- [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]] — 盛泰集团（报表式增长对照案例）
 - [[langzi_fashion]] — 朗姿股份（女装可比标的）
 - [[2026-07-14_安正时尚_2026H1业绩预告]] — 来源页
 

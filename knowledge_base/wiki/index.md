@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-27
+updated: 2026-07-29
 ---
 
 # Fashion Doctor 知识库导航
@@ -38,11 +38,13 @@ updated: 2026-07-27
 | [[baoxiniao]] ⭐ NEW | 报喜鸟002154，2026Q1营收14.40亿(+10.46%)/净利2.37亿(+39.03%)，与Style3D共创AI Agent定制服务大模型：量体+50%/决策-30%/转化+25%/退货-10% | brand, competitor, menswear, ai, customization |
 | [[style3d_lingdi]] ⭐ NEW | 凌迪科技/Style3D，全球时尚产业AI+3D平台，发布StyleClaw数字伙伴AI中台，服务报喜鸟/森马/望思达/The Very Group等，2026定位"物理AI元年+智能体AI落地元年" | vendor, ai, 3d, digital_twin, agent |
 | [[jiumuwang]] ⭐ NEW | 九牧王601566，2026H1预告归母净利3000-4500万(-74%~-83%)/扣非+24%~+49%/金融资产-1.1亿拖累/股价年内-34%，男装"裤王"主业企稳但投资端承压 | brand, competitor, menswear, financial, profit_warning |
+| [[安奈儿]] ⭐ NEW | 安奈儿002875，童装A股，2026H1归母亏损320-600万(较上年2869.88万收窄79%-89%)/扣非同步改善，产品渠道优化+降本增效减亏但仍未扭亏 | brand, competitor, childrenswear, a_share |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[earnings_quality_nonrecurring_2026]] ⭐ NEW | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照 | earnings, non_recurring, profit_quality, alert, h1_2026 |
 | [[全渠道会员一体化]] | 线上线下会员ID/权益/标签统一 | vip, omnichannel, rfm |
 | [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%)+Megaview 1.2万导购30天(异议63→89%/NPS 42→58)+思创双轨(近三千人/以练代讲)+北森珠宝35场景(达标-37%/客单+5.8%)+帆软诊断(客单+18%/复购+32%) | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
@@ -137,6 +139,9 @@ updated: 2026-07-27
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]] ⭐ NEW | 盛泰集团605138：2026H1归母1.5-1.8亿(+381%~477%)但扣非1000-1500万(-46%~-64%)，出售昊泰纺织70%股权1.9亿(增值122%)扮靓业绩，主业三年累计-42.63% | shengtai, earnings, non_recurring, h1_2026, alert, profitability |
+| [[2026-07-29_安奈儿H1减亏近八成]] ⭐ NEW | 安奈儿002875童装：2026H1归母亏损320-600万(较上年2869.88万收窄79%-89%)/扣非同步改善，产品渠道优化+降本增效减亏但未扭亏 | annai, childrenswear, earnings, h1_2026, turnaround |
+| [[2026-07-29_上海2026上半年区域消费基准]] ⭐ NEW | 上海2026H1社零8319.73亿(+0.7%)/限上服装鞋帽针纺+7.2%(与全国同频)/1-5月431首店(高能级76/17.6%)/本土设计品牌"买中国设计"出圈 | shanghai, regional_benchmark, kpi, retail, h1_2026 |
 | [[2026-07-28_CSDN_Polars_2.0_清洗范式跃迁]] ⭐ NEW | Polars 2.0大规模清洗范式：10M行8.2s→1.9s(4.3x)/最大42.6x vs Pandas/内存省68.7% vs Dask/10GB Parquet Spark 8.7s→Polars 3.1s | polars, etl, cleaning, benchmark, parquet |
 | [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW | Streamlit v1.60(2026-07-21)：origin spoofing CWE-346修复/query string 512KiB·1000字段上限/server.maxWidgetStateSize=25MB/client.disableDataExport | streamlit, security, production, hardening |
 | [[2026-07-28_WAIC2026_多点数智_零售AI智能体]] ⭐ NEW | WAIC2026多点数智：零售AI智能体三层架构(水滴引擎/D-BRAIN/商品·门店·数据洞察)，200 SKU/18%毛利案例 | waic, retail_ai, agent, multi_brand, dmall |
