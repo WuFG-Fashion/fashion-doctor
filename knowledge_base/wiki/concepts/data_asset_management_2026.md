@@ -2,9 +2,9 @@
 type: concept
 title: 数据资产管理2026全景
 tags: [data_governance, data_asset, capitalization, ai_driven, metadata, platform_selection, dcmm]
-sources: [2026-06-21_百家号_数据资产管理全景指南2026.md]
+sources: [2026-06-21_百家号_数据资产管理全景指南2026.md, 2026-07-28_清华_数据要素流通六大变化]
 created: 2026-06-21
-updated: 2026-06-22
+updated: 2026-07-28
 cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]]
 ---
 
@@ -75,5 +75,21 @@ cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [
 - AI驱动的数据质量自动识别可覆盖多渠道/多品牌的数据校验
 - 数据资产入表能力→多品牌数据价值量化→为融资/交易提供基础
 
+## 数据要素流通六大变化与高质量数据集（2026-07新增）⭐
+
+> 来源：[[2026-07-28_清华_数据要素流通六大变化]]
+
+清华孟庆国（2026 快消零售峰会）提出智能体时代数据要素流通**六大变化**：数据形态多模态化、价值释放转向生成/执行、流通转向模型能力、利用主体转向机器、安全治理转向全链路、计量走向 Token。
+
+**高质量数据集**类比"米其林餐厅食材供应链"——需满足场景针对性、动态适配性，而非单纯规模/质量/合规。关键转向：不再"把数据流出去"，而是"把数据转化为可调用、可治理、可计量、可分润的智能化生产力"。
+
+| 维度 | 数据 | 来源 |
+|------|------|------|
+| 2030 年 AI 为全球零售业新增利润 | 约 3100 亿美元 | 商务部研究院 |
+| 头部电商 AI 购物助手转化率提升 | 约 60% | 火山引擎 |
+| AI 智能体任务覆盖 | 超 400 项 | 火山引擎 |
+
+> 对服装零售启示：高质量数据集应面向具体场景（智能补货/会员推荐/售罄预测）建设，与"面向 AI 数据供给"维度一致；多品牌集团需先打通 ERP/POS/CRM/WMS 数据孤岛。
+
 ## 关联页面
-[[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[etl_governance_convergence_2026|ETL治理一体化]]
+[[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-07-28_清华_数据要素流通六大变化]] ⭐ NEW

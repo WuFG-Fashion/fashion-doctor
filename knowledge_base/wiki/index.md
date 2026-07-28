@@ -81,7 +81,7 @@ updated: 2026-07-27
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ UPDATED | ABC分类+安全库存+8维度决策+四阶段推进+金波小单快反90天(起订-90%/滞销-25pp) | sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
-| [[polars_vs_pandas_2026]] ⭐ UPDATED | 三引擎协同+Arrow零拷贝。1.42 K8s分布式(单节点 vs Spark 6.4x/分布式 3.2x)/575M+下载/38K+Stars | python, polars, pandas, benchmark, rfm, distributed, kubernetes |
+| [[polars_vs_pandas_2026]] ⭐ UPDATED | 三引擎协同+Arrow零拷贝。1.42 K8s分布式(单节点 vs Spark 6.4x/分布式 3.2x)/575M+下载/38K+Stars/2.0大规模清洗范式(10M行4.3x·最大42.6x vs Pandas·内存省68.7% vs Dask) | python, polars, pandas, benchmark, rfm, distributed, kubernetes |
 | [[ai_fashion_design_cases_2026]] ⭐ NEW | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% | ai, fashion_design, case_study |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60% + 安踏灵犀火山引擎技术详解(Lumina/六维/四道精修/Logo还原100%) + 翠微百货线下VTO + iTryOn ICML2026 + RenderedFits全景 | ai, virtual_tryon, ecommerce, anta, volcano_engine |
@@ -93,16 +93,16 @@ updated: 2026-07-27
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[arrow_zero_copy_interop_2026]] ⭐ NEW | Apache Arrow零拷贝互操作2026：48x反序列化/90x类型转换/17.5x Flight + 多品牌实战全链路 | apache_arrow, zero_copy, interoperability, multi_brand |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
-| [[streamlit_dashboard_2026]] ⭐ UPDATED | v1.59(2026.7.6): ButtonColumn/Skeleton/Mermaid_chart/App.run()/Fragment跨容器/Polars零拷贝 | streamlit, production, caching, starlette, parallel_fragment, button_column |
+| [[streamlit_dashboard_2026]] ⭐ UPDATED | v1.59(7.6): ButtonColumn/Skeleton/Mermaid/App.run()/Fragment跨容器 + v1.60(7.21): origin spoofing CWE-346修复/query string 512KiB·1000字段/server.maxWidgetStateSize=25MB/disableDataExport | streamlit, production, caching, security, hardening |
 | [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD成本降80-92%/微盟+28%转化(平台路线)/小红书FireRed开源(4秒推理/信任危机) | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ UPDATED | 1.5.4 Quack核心扩展(客户端-服务器)+DuckLake 1.0+VARIANT/GEOMETRY类型+v2.0 2026秋季 | duckdb, olap, sql, python, quack, ducklake |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
-| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 | data_governance, platform, selection, vendor, ai_driven, market_size |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 + WAIC2026多点数智零售AI智能体三层架构(水滴引擎/D-BRAIN/商品·门店·数据洞察) | data_governance, platform, selection, vendor, ai_driven, market_size, retail_ai |
 | [[ai_fashion_market_2026]] ⭐ UPDATED | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道+IIM 2030年400亿美元累计投入/三层格局 | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ UPDATED | Agentic Commerce/OpenAI×Target/UCP大统一/McKinsey 3-5万亿 + **VTO×Agentic数据飞轮(DressX 10x/Saiz+70%/第一方合身数据资产)** +7-26 Vistoya实战ROI(Bain供应链lead time-23%/物流-17%/CAC-22%/退货-30%/$2.40每单) | ai, agentic_commerce, fashion_retail, virtual_tryon |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
-| [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x) | data_governance, data_asset, ai_driven, dcmm |
+| [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x) + 数据要素流通六大变化(十五五:2030 AI零售+3100亿美元/AI购物+60%/400任务) | data_governance, data_asset, ai_driven, dcmm, fifteen_five |
 | [[china_apparel_2025_annual]] ⭐ UPDATED | 2025全年行业大盘：营收11,119.95亿(-12.67%)/利润450.64亿(-27.34%)/利润率4.05% + 月度轨迹(12月最惨/11月对美出口-23%) | industry, kpi, benchmark, 2025 |
 | [[consumption_expansion_15th_fiveyear_2026]] ⭐ NEW | 扩大消费"十五五"规划：2030社零60万亿(CAGR3.7%)/服装升格品质+文化+场景+生命周期消费/2025限上服装15215亿+3.2%/2026 1-5月6425亿+7.2% | policy, consumption, industry, benchmark, fifteen_five |
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x)/普元易数5星全生命周期 | data_governance, data_asset, ai_driven, dcmm, platform_selection |
@@ -115,8 +115,8 @@ updated: 2026-07-27
 | [[零售数据仓库SQL实践]] ⭐ NEW | 销售/库存/会员/导购四大场景SQL优化模板 | sql, optimization, practice |
 | [[私域运营方法论]] ⭐ NEW | 私域四策略+服装零售实施路径+工具矩阵 | vip, private_domain, scrm |
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
-| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+DuckDB Quack共享分析库+数据中台200+门店案例 | multi_brand, analytics, architecture, etl, middle_platform |
-| [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.59 ButtonColumn/Skeleton/App.run()部署 | streamlit, dashboard, production, code, starlette |
+| [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+DuckDB Quack共享分析库+数据中台200+门店案例 + WAIC2026零售AI智能体三层架构接入呈现层 | multi_brand, analytics, architecture, etl, middle_platform, retail_ai |
+| [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.59 ButtonColumn/Skeleton/App.run()部署 + v1.60安全加固(origin spoofing修复/query string上限/disableDataExport) | streamlit, dashboard, production, code, security |
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
 | [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
@@ -137,6 +137,10 @@ updated: 2026-07-27
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-28_CSDN_Polars_2.0_清洗范式跃迁]] ⭐ NEW | Polars 2.0大规模清洗范式：10M行8.2s→1.9s(4.3x)/最大42.6x vs Pandas/内存省68.7% vs Dask/10GB Parquet Spark 8.7s→Polars 3.1s | polars, etl, cleaning, benchmark, parquet |
+| [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW | Streamlit v1.60(2026-07-21)：origin spoofing CWE-346修复/query string 512KiB·1000字段上限/server.maxWidgetStateSize=25MB/client.disableDataExport | streamlit, security, production, hardening |
+| [[2026-07-28_WAIC2026_多点数智_零售AI智能体]] ⭐ NEW | WAIC2026多点数智：零售AI智能体三层架构(水滴引擎/D-BRAIN/商品·门店·数据洞察)，200 SKU/18%毛利案例 | waic, retail_ai, agent, multi_brand, dmall |
+| [[2026-07-28_清华_数据要素流通六大变化]] ⭐ NEW | 清华孟庆国·十五五数据要素流通六大变化：2030 AI零售+3100亿美元/AI购物+60%/400任务/三派智能体 | data_element, fifteen_five, policy, data_asset, ai |
 | [[2026-07-28_优衣库关店赚钱全球第二超越H&M]] ⭐ NEW | 迅销FY2026指引3.97万亿日元(+17%)≈214亿欧元超H&M(199-208亿)成全球第二/前三季营收3.07万亿+17.1%/大中华区5608.39亿+9.86%/大陆门店926(2023.8高峰)→875(2026.5)年均净减~50家 | uniqlo, fast_retailing, competitor, global_ranking, store_closure, greater_china |
 | [[2026-07-28_纺织业2026H1产能利用率工业增加值]] ⭐ NEW | 生意社：1-6月规上纺织工业增加值+3.3%/纺织业产能利用率H1 75.6%(Q2 74.9%同比-2.9%)/服装鞋帽针纺织品零售7709亿+6.7%/6月出口292.7亿美元+7.2% | textile, industry, capacity_utilization, industrial_value_added, kpi, benchmark, h1 |
 | [[2026-07-28_veeton_2026全球AI时尚能力报告]] ⭐ NEW | Veeton 2026：ASOS生成式AI工具箱赋能100+设计师/设计流程省时75-80%/Mango AI图替PDP摄影/H&M真实模特数字孪生批量生成在模电商图 | asos, mango, hnm, ai, fashion_design, virtual_tryon, global, generative_ai, digital_twin |

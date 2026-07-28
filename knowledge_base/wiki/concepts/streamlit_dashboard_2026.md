@@ -2,9 +2,9 @@
 type: concept
 title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固]
 created: 2026-06-07
-updated: 2026-07-22
+updated: 2026-07-28
 cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]]
 ---
 
@@ -273,5 +273,23 @@ v1.53(01月) → v1.54(02月) → v1.55(03月) → v1.56(03月) → v1.57(04月)
                                                          Polars零拷贝  skills CLI    文件粘贴
 ```
 
+## Streamlit v1.60 安全加固与企业级部署（2026-07新增）⭐
+
+> 来源：[[2026-07-28_Streamlit_v1.60_安全加固]]
+
+v1.60（2026-07-21）以安全加固为核心，含多项 breaking 安全变更：
+
+| 配置项 | 默认值 | 作用 |
+|--------|--------|------|
+| `client.disableDataExport` | false | 全局隐藏 CSV 导出 + 禁用只读表剪贴板复制 |
+| `server.maxWidgetStateSize` | 25 MB | 单次 rerun widget state payload 上限 |
+| query string 上限 | 512 KiB / 1000 字段 | 防无界资源分配（CWE-770） |
+| origin 校验 | 启用 | 拒绝子 iframe/注入脚本 host 消息（CWE-346） |
+
+交互增强：`st.dataframe` 排序保留行选择、`st.tabs` 支持 `height`、`st.columns` 的 `gap` 支持像素值、`st.metric` 零值显中性灰、Vega-Lite action 整合进原生 toolbar。
+
+> 服装零售多品牌看板：导出管控 + widget state 限流 + 防注入三者组合，满足零售数据安全合规。
+
 ## 关联页面（续）
 - [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW
+- [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW

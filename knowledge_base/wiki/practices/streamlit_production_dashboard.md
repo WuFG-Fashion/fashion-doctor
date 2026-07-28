@@ -2,10 +2,10 @@
 type: practice
 title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固]
 created: 2026-06-07
-updated: 2026-07-22
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]]
+updated: 2026-07-28
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -293,3 +293,27 @@ def render_sku_table(df, page_size=50):
 | `AudioColumn` | v1.56 | 商品展示视频列 |
 | `filter_mode` | v1.56 | selectbox搜索过滤 |
 | `on_change` 容器 | v1.55 | 标签切换自动刷新 |
+
+## v1.60 安全加固与生产部署（2026-07新增）⭐
+
+> 来源：[[2026-07-28_Streamlit_v1.60_安全加固]]
+
+v1.60（2026-07-21）安全强化，多品牌敏感看板必配：
+
+```python
+# config.toml — 多品牌经营看板安全基线
+[client]
+disableDataExport = true   # 隐藏CSV导出+禁用只读表剪贴板复制
+
+[server]
+maxWidgetStateSize = 26214400  # 25MB, 防超大widget payload (CWE-770)
+```
+
+| 加固项 | 配置 | 作用 |
+|--------|------|------|
+| 导出管控 | `client.disableDataExport=true` | 隐藏销售/会员/毛利数据导出 |
+| widget 限流 | `server.maxWidgetStateSize=25MB` | 限制单次 rerun payload |
+| 防注入 | origin 校验(默认启用) | 拒绝子iframe/注入脚本伪造(CWE-346) |
+| query 限流 | 512KiB/1000字段 | 防无界资源分配(CWE-770) |
+
+> 部署要点：看板置于 Nginx/Auth0/Cloudflare Access 之后；`st.metric` 零值显中性灰避免误导；`st.dataframe` 排序保留行选择提升审计体验。

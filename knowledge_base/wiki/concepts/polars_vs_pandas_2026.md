@@ -2,9 +2,9 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准, 2026-07-28_CSDN_Polars_2.0_清洗范式跃迁]
 created: 2026-06-06
-updated: 2026-07-25
+updated: 2026-07-28
 cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]], [[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]]
 ---
 
@@ -448,6 +448,23 @@ CUDA Graph驱动的列式算子卸载模型：
 - [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] — 1000万行/5GB三引擎实测126x DuckDB
 - [[2026-06-27_chenxutan_Polars深层架构与生态2026]] — Polars深层Rust架构与2026生态全景
 
+## Polars 2.0 大规模数据清洗范式跃迁（2026-07新增）⭐
+
+> 来源：[[2026-07-28_CSDN_Polars_2.0_清洗范式跃迁]]
+
+Polars 2.0 用零拷贝内存 + LazyFrame 全链路惰性执行 + 原生并行流式 I/O，把 TB 级清洗拉到单机亚秒级。CSDN 深度评测实测：
+
+| 场景 | Pandas/Dask | Polars 2.0 | 提升 |
+|------|-------------|-------------|------|
+| 10M 行清洗 | 8.2s | 1.9s | 4.3× |
+| 综合清洗 vs Pandas | 基线 | — | **最高 42.6×** |
+| 内存 vs Dask | 基线 | — | **低 68.7%** |
+| 10GB Parquet | 8.7s/4.2GB | 3.1s/1.9GB | 2.8× / 省 2.2× |
+
+工程要点：LazyFrame 解耦（`.collect()` 才执行 + 谓词下推/投影裁剪）、Rayon 多线程 + SIMD 向量化清洗、优先 `scan_*` 避免过早物化、声明式 YAML 质量约束 + CI Schema 校验。类型系统差异（PostgreSQL 四舍五入 vs Spark 向零截断）需在跨引擎迁移时显式治理。
+
+> 服装零售：多品牌 TB 级 ETL/清洗（POS/ERP/WMS 异构日志合并、会员行为嵌套展开、会话切分）可用 Polars 2.0 单机替代部分 Spark 任务。
+
 ## 2026年1000万行/5GB CSV三引擎实测（2026-06新增）
 
 ### 实测基准对比
@@ -829,7 +846,7 @@ result = orders.with_columns(
 
 ## Danilchenko 240M行真实基准（2026-07刷新）⭐
 
-> 来源：[[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]]
+> 来源：[[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]]、[[2026-07-28_CSDN_Polars_2.0_清洗范式跃迁]] ⭐ NEW
 
 ### 真实工作负载（240M 行点击流）
 

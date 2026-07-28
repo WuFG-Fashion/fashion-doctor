@@ -2,9 +2,9 @@
 type: practice
 title: 多品牌统一数据分析架构
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
-sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026]
+sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体]
 created: 2026-06-07
-updated: 2026-07-25
+updated: 2026-07-28
 cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]]
 ---
 
@@ -354,4 +354,20 @@ agg = duckdb.sql("""
 
 # 对话式分析入口（Data Agent）：运营直接问"本月哪个门店售罄率最高？"
 # → Agent 自动查询多品牌数据并生成可视化
+
+## 2026Q3 深化：零售AI智能体三层架构接入分析呈现层（2026-07新增）⭐
+
+> 来源：[[2026-07-28_WAIC2026_多点数智_零售AI智能体]]
+
+WAIC2026 多点数智提出的三层零售 AI 智能体体系，可直接映射多品牌统一分析架构：
+
+| 多品牌架构层 | 对应智能体层 | 作用 |
+|-------------|-------------|------|
+| 数据底座（摄入/统一数据层） | 水滴引擎（Agent 开发运营底座） | 多模型接入/知识管理/工作流编排 |
+| 指标计算层（统一KPI引擎） | D-BRAIN（经营决策中枢） | 目标拆解/优先级/资源调度 |
+| 分析呈现层 | 数据洞察智能体集群 | 问数/归因/预警/建议/报告/协同跟踪 |
+
+- **数据洞察智能体**作为分析呈现层的自然语言入口（"本月哪个门店售罄率最高？"），与 Gartner 2026 对话式分析 / Agentic BI 趋势一致。
+- 落地案例：成都春熙路门店踏春季选品（目标 200 SKU / 毛利率 18%）全链路闭环，已出现稳定可度量业务改善。
+- 具身智能补充：AI 决策 → 机器人执行（AGV/无人车/无人机/门店补货排面）→ 数据回传模型迭代，形成"认知闭环→动作闭环"。
 ```
