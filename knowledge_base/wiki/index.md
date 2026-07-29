@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-07-29
+updated: 2026-07-30
 ---
 
 # Fashion Doctor 知识库导航
@@ -21,10 +21,10 @@ updated: 2026-07-29
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
-| [[hla]] ⭐ NEW | 海澜之家600398，2025FY 216.26亿，存货周转344天 | brand, competitor, menswear |
+| [[hla]] ⭐ UPDATED | 海澜之家600398，2025FY 216.26亿/存货周转344天，2026非自有品牌业务34.47亿(+29.18%)成最快增长引擎/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44% | brand, competitor, menswear |
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 +7-25修正2025FY 150.90亿/8.92亿 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
-| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增 | brand, competitor, sportswear, premium |
+| [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增/7-29中报预告EPS 0.68居行业首位 | brand, competitor, sportswear, premium |
 | [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%)+GiMS全链协同(头样100→27天/日吞吐100万件/补单8次+) | brand, competitor, hk_listed, ai, esg |
 | [[anta]] ⭐ UPDATED | 安踏集团，灵犀大模型火山引擎发布：Lumina平台/六维评测/四道精修/Logo还原100%/成本-80%，"谁更懂消费者" | brand, competitor, sportswear, ai, virtual_tryon |
 | [[lululemon]] ⭐ UPDATED | 全球运动休闲龙头，FY2026Q1 25亿美元(+4%)，中国大陆+30%，下调年度利润预期+三维框架负面警示(均价下行+营销放缓) | brand, competitor, athleisure |
@@ -44,7 +44,7 @@ updated: 2026-07-29
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
 |------|------|------|
-| [[earnings_quality_nonrecurring_2026]] ⭐ NEW | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照 | earnings, non_recurring, profit_quality, alert, h1_2026 |
+| [[earnings_quality_nonrecurring_2026]] ⭐ NEW | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照；7-29补充行业底色(中报预告预盈率54%/比音勒芬EPS 0.68/海澜0.20) | earnings, non_recurring, profit_quality, alert, h1_2026 |
 | [[全渠道会员一体化]] | 线上线下会员ID/权益/标签统一 | vip, omnichannel, rfm |
 | [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%)+Megaview 1.2万导购30天(异议63→89%/NPS 42→58)+思创双轨(近三千人/以练代讲)+北森珠宝35场景(达标-37%/客单+5.8%)+帆软诊断(客单+18%/复购+32%) | guide, ai, training |
 | [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
@@ -139,6 +139,9 @@ updated: 2026-07-29
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-29_央视网_时尚业AI智变_试衣镜与设计师新同事]] ⭐ NEW | 央视网2026-07-29：四季青AI试衣镜落地>1.4万店/服务20+品牌/打开率20%+/销售额+30%；设计师AI设计3天→1-2分钟/10分钟产出5-20创意 | ai, virtual_tryon, retail_ai, adoption, source |
+| [[2026-07_东方财富_纺服中报预告综述_预盈率54]] ⭐ NEW | 东方财富2026中报预告综述：纺服预盈率54%(45家预告21家预盈)/中报EPS预测排行比音勒芬0.68/太平鸟0.29/海澜0.20 | earnings, interim_report, forecast, peer_compare, source |
+| [[2026-07-28_经济观察网_海澜之家_非自有品牌业务营收大增]] ⭐ NEW | 经济观察网2026-07-28：海澜之家非自有品牌业务34.47亿(+29.18%)/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44%，非自有品牌成最快增长引擎 | hla, competitor, menswear, earnings, multi_brand, source |
 | [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]] ⭐ NEW | 盛泰集团605138：2026H1归母1.5-1.8亿(+381%~477%)但扣非1000-1500万(-46%~-64%)，出售昊泰纺织70%股权1.9亿(增值122%)扮靓业绩，主业三年累计-42.63% | shengtai, earnings, non_recurring, h1_2026, alert, profitability |
 | [[2026-07-29_安奈儿H1减亏近八成]] ⭐ NEW | 安奈儿002875童装：2026H1归母亏损320-600万(较上年2869.88万收窄79%-89%)/扣非同步改善，产品渠道优化+降本增效减亏但未扭亏 | annai, childrenswear, earnings, h1_2026, turnaround |
 | [[2026-07-29_上海2026上半年区域消费基准]] ⭐ NEW | 上海2026H1社零8319.73亿(+0.7%)/限上服装鞋帽针纺+7.2%(与全国同频)/1-5月431首店(高能级76/17.6%)/本土设计品牌"买中国设计"出圈 | shanghai, regional_benchmark, kpi, retail, h1_2026 |

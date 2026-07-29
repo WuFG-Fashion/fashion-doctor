@@ -68,6 +68,7 @@ cross_refs: [[retail_ai_adoption_2026]], [[ai_fashion_design_cases_2026]], [[服
 - [[2026-06-19_中新经纬_2026年618消费洞察报告]] — 中新经纬：2026年618消费洞察报告
 - [[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]] — Style3D Blog 全球基准（63% / 样衣 3天→6小时）
 - [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]] — Vistoya 全球 Agentic Commerce 实战案例
+- [[2026-07-29_央视网_时尚业AI智变_试衣镜与设计师新同事|央视网：设计师AI新同事·设计3天→1-2分钟]]
 
 ## Agentic Commerce实践标杆 ⭐ 6月更新
 
