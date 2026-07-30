@@ -2,10 +2,10 @@
 type: concept
 title: AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
 tags: [ai, fashion_consumer, virtual_tryon, digital_human, agentic_commerce, consumer_behavior]
-sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026]
+sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-31_全球AI时尚零售落地信号2026.md]
 created: 2026-07-02
-updated: 2026-07-20
-cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[2026-05-30_安踏灵犀穿搭大模型]], [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]], [[burberry]]
+updated: 2026-07-31
+cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[2026-05-30_安踏灵犀穿搭大模型]], [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]], [[burberry]], [[2026-07-31_全球AI时尚零售落地信号2026]]
 ---
 
 # AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
@@ -77,6 +77,17 @@ cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[reta
 - **57%** 经常AI购物消费者用AI获取个性化推荐（VOGUE 2026.06）
 - **仅4%** 选择AI聊天机器人作为风格灵感来源
 - 消费者更信任真人意见领袖而非AI（Hogan Lovells/VOGUE webinar 2026.05）
+
+### GenAI 购物决策普及（2026）⭐ 7月31日新增
+
+> 来源：[[2026-07-31_全球AI时尚零售落地信号2026]]（THG Ingenuity 2026）
+
+- **>53%** 购物者依赖生成式AI引导其购买旅程（2026）
+- 与Google Cloud Gemini共建的AI购物助手试点：**CVR 8倍**于站点均值、**AOV +20.8%**、**首购转化 5.5倍**
+- 静态风格测试已被零摩擦诊断取代（LOOKFANTASTIC Foundation Finder 在6000 SKU即时匹配，73%用户买从未尝试过的品牌）
+- 未来商店将基于购买历史/本地天气/日历事件"自我策展"
+
+> 与上文"57%经常AI购物消费者用AI获取个性化推荐"相互印证：GenAI 已成为时尚消费决策的主流入口之一，品牌需优化商品数据以适应AI代理搜索。
 
 ## 中美路径差异
 
