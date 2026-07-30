@@ -16,7 +16,7 @@ updated: 2026-07-30
 |------|------|------|
 | [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
-| [[深维智信]] | 零售AI培训方案商，AI导购陪练 | vendor, ai, training |
+| [[深维智信]] ⭐ UPDATED | 零售AI培训方案商，AI导购陪练；价格异议三周对练成交+17%/门店被拒绝模拟训练（比价留店高四成/10秒回应八成） | vendor, ai, training, megaview |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" | brand, competitor, a_share, ai, turnaround |
 | [[muson_gxg]] ⭐ NEW | 慕尚集团/GXG，2025FY 20.56亿，净利润3160万 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 | brand, competitor, global |
@@ -45,9 +45,9 @@ updated: 2026-07-30
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[earnings_quality_nonrecurring_2026]] ⭐ NEW | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照；7-29补充行业底色(中报预告预盈率54%/比音勒芬EPS 0.68/海澜0.20) | earnings, non_recurring, profit_quality, alert, h1_2026 |
-| [[全渠道会员一体化]] | 线上线下会员ID/权益/标签统一 | vip, omnichannel, rfm |
+| [[全渠道会员一体化]] ⭐ UPDATED | 线上线下会员ID/权益/标签统一；开口男装会员成交占比64%/大婉酱私域留存>97% 私域沉淀案例 | vip, omnichannel, rfm, private_domain |
 | [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%)+Megaview 1.2万导购30天(异议63→89%/NPS 42→58)+思创双轨(近三千人/以练代讲)+北森珠宝35场景(达标-37%/客单+5.8%)+帆软诊断(客单+18%/复购+32%) | guide, ai, training |
-| [[柔性供应链与商品企划]] | 推式→拉式供应链范式转移 + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
+| [[柔性供应链与商品企划]] ⭐ UPDATED | 推式→拉式供应链范式转移 + 简道云进销存快反(目标售罄率85%⚠️矛盾/周转42天/毛利+2-5pct) + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
 | [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-5月最新(营收3932.96亿-3.75%/利润-11.41%/利润率2.61%/内销+7.4%/出口-1.6%/对美+22.7%五连降企稳) + 细分板块经营全景(男装53%毛利/户外+16%)+运动流水+浙商PE三方交叉 +7-24新增H1零售7709亿+6.7%/6月出口292.7亿美元+7.2%/产能利用率75.6% | kpi, benchmark, industry |
@@ -139,6 +139,12 @@ updated: 2026-07-30
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-07-30_有赞_开口男装私域会员体系]] ⭐ NEW | 有赞案例·开口男装：抖音加粉链接导粉率>21%/会员成交占比64%，私域会员体系搭建 | vip, membership, private_domain, youzan, source |
+| [[2026-07-30_大婉酱_微胖定制女装私域留存]] ⭐ NEW | 大婉酱微胖定制女装：私域留存率>97%/新进私域首单转化率>20%，私域留存标杆 | vip, membership, private_domain, womenswear, source |
+| [[2026-07-30_Megaview_价格异议月度成交率提升17%]] ⭐ NEW | 深维智信 Megaview：价格异议月度成交率+17%/知识留存28%→72%/成本-50%（⚠️矛盾：对比 kb_benchmarks megaview_conversion_boost_pct=0.18 即+18%，待验证） | guide, ai, training, megaview, source |
+| [[2026-07-30_Megaview_门店被拒绝AI模拟训练]] ⭐ NEW | 深维智信 Megaview：门店被拒绝AI模拟训练，12v12比价留店高近四成/10秒有效回应八成以上 | guide, ai, training, megaview, simulation, source |
+| [[2026-07-30_s1mone_尺码配比断层畅销款断码]] ⭐ NEW | s1mone：尺码配比断层诊断，OTB只管金额/全国一条曲线/核心码段消失快于补货，整款40%时核心码仅8% | merchandise, sku, size, assortment, source |
+| [[2026-07-30_简道云_进销存快反售罄率优化]] ⭐ NEW | 简道云进销存快反：目标售罄率85%（⚠️矛盾：对比 kb_benchmarks season_end_sell_through.excellent=0.70/lifecycle_sell_through.end_season_target=0.80，待验证）/周转42天/预测误差-32%/毛利+2-5pct | merchandise, supply_chain, sell_through, source |
 | [[2026-07-29_央视网_时尚业AI智变_试衣镜与设计师新同事]] ⭐ NEW | 央视网2026-07-29：四季青AI试衣镜落地>1.4万店/服务20+品牌/打开率20%+/销售额+30%；设计师AI设计3天→1-2分钟/10分钟产出5-20创意 | ai, virtual_tryon, retail_ai, adoption, source |
 | [[2026-07_东方财富_纺服中报预告综述_预盈率54]] ⭐ NEW | 东方财富2026中报预告综述：纺服预盈率54%(45家预告21家预盈)/中报EPS预测排行比音勒芬0.68/太平鸟0.29/海澜0.20 | earnings, interim_report, forecast, peer_compare, source |
 | [[2026-07-28_经济观察网_海澜之家_非自有品牌业务营收大增]] ⭐ NEW | 经济观察网2026-07-28：海澜之家非自有品牌业务34.47亿(+29.18%)/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44%，非自有品牌成最快增长引擎 | hla, competitor, menswear, earnings, multi_brand, source |
