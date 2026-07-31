@@ -2,10 +2,10 @@
 type: practice
 title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛]
 created: 2026-06-07
-updated: 2026-07-28
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW
+updated: 2026-07-31
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]] ⭐ NEW
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -317,3 +317,34 @@ maxWidgetStateSize = 26214400  # 25MB, 防超大widget payload (CWE-770)
 | query 限流 | 512KiB/1000字段 | 防无界资源分配(CWE-770) |
 
 > 部署要点：看板置于 Nginx/Auth0/Cloudflare Access 之后；`st.metric` 零值显中性灰避免误导；`st.dataframe` 排序保留行选择提升审计体验。
+
+## 2026 生产部署三路线（2026-07新增）⭐
+
+> 来源：[[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]]
+
+### 路线对照
+
+| 路线 | 适用 | 关键数据 |
+|------|------|---------|
+| Snowflake Container Runtime | 重度用户/GPU 推理/长时服务 | GA 2026-03-09，无休眠，`st.secrets` |
+| Streamlit Cloud | 对外快速分享 | 免邀请，4 分 17 秒上线全球可访问 |
+| Docker + Nginx | 内部生产看板 | python:3.11-slim 镜像 327MB、启动 3 秒 |
+
+### Docker 生产模板（金融机构案例）
+
+```dockerfile
+FROM python:3.11-slim
+RUN pip install streamlit pandas scikit-learn plotly
+COPY app.py .
+CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0.0"]
+```
+
+- 镜像 **327MB**、启动 **3 秒**；`py-spy` 定位 Plotly `mode='lines+markers'` 占 78% CPU，改 `mode='lines'` 后 **5 倍提速**。
+- 页面卡死三因：无限重渲染循环、阻塞主线程（耗时 IO 放 `st.cache_data` 外）、前端资源不足（10+ 标签溢出）。
+
+### 多品牌看板部署决策
+
+- 内部经营看板：Docker + Nginx 反向代理 + 认证外挂（Auth0/Cloudflare Access），配 v1.60 安全基线（`client.disableDataExport=true` + `server.maxWidgetStateSize=25MB`）。
+- 对外分享（如给品牌方看销售）：Streamlit Cloud 零门槛，4 分钟上线。
+- Snowflake 重度用户：Container Runtime 跑长时实时 KPI + GPU 推理，无需自建基础设施。
+- 性能铁律：耗时 IO 必 `@st.cache_data`；Plotly 用 `mode='lines'` 或 `render_mode="webgl"` 防卡死。

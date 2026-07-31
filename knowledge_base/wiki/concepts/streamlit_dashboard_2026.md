@@ -2,10 +2,10 @@
 type: concept
 title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛]
 created: 2026-06-07
-updated: 2026-07-28
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]]
+updated: 2026-07-31
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -293,3 +293,39 @@ v1.60（2026-07-21）以安全加固为核心，含多项 breaking 安全变更�
 ## 关联页面（续）
 - [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW
 - [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW
+
+## Streamlit 2026 生产部署三路线（2026-07新增）⭐
+
+> 来源：[[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]]
+
+### 路线一：Snowflake Container Runtime GA（2026-03-09）
+
+- 在 Snowpark Container Services 计算池运行，获得 **GPU 访问、更广 Python 包支持、无休眠长时服务**。
+- 配套 GA：`st.secrets` 安全访问 Snowflake secrets（自动映射环境变量）、app-viewer URLs 分享、自动日志捕获。
+- 商业区域全可用；政府与中国区域不支持。
+
+### 路线二：Streamlit Cloud 免邀请（2026-07-07）
+
+- 邮箱验证即可建免费应用，跳过 Nginx/SSL/反向代理调试。
+- 实测：销售漏斗监控页本地→全球可访问 **4 分 17 秒**（`streamlit cloud deploy` + GitHub 授权）。
+- 不替代 Docker/K8s，但解决"写完脚本怎么发给业务方看"的交付断层。
+
+### 路线三：Docker 生产部署（wenku 金融机构案例）
+
+```dockerfile
+FROM python:3.11-slim
+RUN pip install streamlit pandas scikit-learn plotly
+COPY app.py .
+CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0.0"]
+```
+
+- 镜像 **327MB**、启动 **3 秒**；`py-spy` 定位 Plotly `mode='lines+markers'` 占 78% CPU，改 `mode='lines'` 后 **5 倍提速**。
+- 页面卡死三因：无限重渲染循环、阻塞主线程（耗时 IO 放 `st.cache_data` 外）、前端资源不足（10+ 标签溢出）。
+
+### 运行机制与定位（xxmr 2026）
+
+- 全脚本重跑模型：用户交互→整脚本重跑→刷新，易踩坑；加 `@st.cache_data` 防重复加载。
+- ✅ 适合：数据探索仪表盘、ML/Demo、内部轻量工具、快速原型。
+- ❌ 不适合：海量用户商用站、复杂前端交互/高并发/实时长连接。
+
+> 服装零售多品牌看板：内部用 Docker+Nginx+认证外挂；对外分享用 Streamlit Cloud 零门槛；Snowflake 重度用户用 Container Runtime 跑长时实时 KPI+GPU 推理；耗时 IO 必缓存、Plotly 用 `mode='lines'`/`render_mode="webgl"` 防卡死。

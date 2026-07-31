@@ -2,10 +2,10 @@
 type: concept
 title: SQL查询性能优化
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战]
 created: 2026-06-06
-updated: 2026-07-09
-cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]]
+updated: 2026-07-31
+cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]]
 ---
 
 # SQL查询性能优化
@@ -173,6 +173,47 @@ max_client_conn = 1000     # 1000+客户端
 | 实时销售监控 | 物化视图替代实时聚合 |
 | 促销分析 | 部分索引仅索引促销期数据 |
 
+## 2026 原理驱动优化跃迁（2026-07新增）⭐
+
+> 来源：[[2026-07-31_SQL性能优化2026原理驱动实战]]
+
+2026 年 SQL 优化从"规则背诵"转向"原理驱动"——以 `EXPLAIN ANALYZE` 真实执行数据为准，而非理论猜测。
+
+### 三字段诊断 + 真实案例
+
+| 字段 | 优秀 | 危险 |
+|------|------|------|
+| type | const/eq_ref/ref | **ALL（全表扫描）** |
+| rows | ≈ 实际结果行 | 远大于预期 |
+| Extra | Using index | **Using filesort / Using temporary** |
+
+**线上真实案例**：用户行为分析查询耗时 **47 秒**（type=ALL, rows=8500万）→ 加复合索引 `(action_time, user_id)` 后 **0.3 秒，提速 157 倍**。另一案例：用户画像查询 **12 秒 → 0.3 秒**（加组合索引）。
+
+### 覆盖索引真相（10x+ 差异）
+
+"不要用 SELECT *" 的旧说辞过时——真正杀手是破坏覆盖索引导致不必要回表。为查询建覆盖索引 `(user_id, status, order_time, amount)`，性能可有 **10 倍以上差异**。
+
+### 子查询改 JOIN（差 10 倍）
+
+旧版 MySQL 子查询每执行一次即一次全表扫描，改 JOIN 直接走索引。
+
+### 索引黄金法则（2026 重申）
+
+- 最左前缀匹配：组合索引跳过最左列则失效。
+- 单表索引 ≤ 5 个，组合索引列数 ≤ 3 列；索引越多越慢（拖慢写入、占存储）。
+- `rows vs actual rows` 偏差大 → 统计信息过时 → `ANALYZE TABLE`。
+
+### 云原生 SQL 架构演进（2026）
+
+| 趋势 | 零售价值 |
+|------|---------|
+| 存算分离（DuckDB/ClickHouse + S3） | 海量销售数据不受本地磁盘 IO 限制 |
+| 物化视图动态刷新（流式框架） | 避免日报/周报重复计算 |
+| PG17+ 自适应执行计划（ML 选择器） | 自动识别统计偏差并调整 |
+| JSONB 融合（`->>`） | 商品属性/会员标签半结构化灵活存 |
+
+> 服装零售：销售日报先 `EXPLAIN ANALYZE` 确认走 `(shop_id, sale_date)` 复合索引；百万级查询避免 SELECT * 建覆盖索引消除回表；门店 RFM 计算子查询改 JOIN 10 倍提速。
+
 ## 关联知识
 - [[零售数据仓库SQL实践]]
 - [[data_quality_retail_practice|数据质量零售实操规范]]
@@ -182,3 +223,4 @@ max_client_conn = 1000     # 1000+客户端
 - [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]] — PG18+AI工具详情
 - [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] — 十大实践+零售对照
 - [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] — 2026性能调优完整清单 ⭐ NEW
+- [[2026-07-31_SQL性能优化2026原理驱动实战]] — 原理驱动跃迁：EXPLAIN 157x/覆盖索引10x/子查询JOIN 10x ⭐ NEW

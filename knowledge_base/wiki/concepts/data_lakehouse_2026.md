@@ -2,10 +2,10 @@
 type: concept
 title: 湖仓一体2026架构
 tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture, middle_platform]
-sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]
+sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型]
 created: 2026-06-08
-updated: 2026-07-25
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
+updated: 2026-07-31
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]]
 ---
 
 # 湖仓一体2026架构
@@ -256,3 +256,42 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 - 多品牌数据摄入层：用 **Zero ETL** 通道替代批处理脚本（门店实时销售直入 Iceberg）。
 - 统一数据层：选用 **Apache Iceberg** 格式，Polars / DuckDB / Spark 共享同一份多品牌 Parquet。
 - 分析呈现层：增加**对话式分析入口**（Streamlit + AI Agent），替代部分静态仪表盘。
+
+## 2026 主流方案选型：Databricks / Snowflake / StarRocks（2026-07新增）⭐
+
+> 来源：[[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]]
+
+### 三大方案架构对比
+
+| 维度 | Databricks | Snowflake | StarRocks |
+|------|-----------|-----------|-----------|
+| 定位 | AI Lakehouse 平台 | 云数仓→开放 Lakehouse | 极速湖仓分析引擎 |
+| 核心表格式 | Delta Lake(主推)+Iceberg 兼容 | **Iceberg 全面拥抱**(2025.04)+v3 预览 | Iceberg/Hudi/Delta/Paimon 全支持 |
+| 实时分析 | 准实时 | 有限 | **原生实时，亚秒级** |
+| 数据搬迁 | Delta 内最优 | Iceberg 外受限 | **无需搬迁，直查湖上多格式** |
+| 开源 | 平台闭源 | 闭源 | **内核 100% 开源(Linux 基金会)** |
+| 典型客户 | Shell、Block、Comcast | Western Union、Siemens | 小红书、饿了么、京东物流 |
+
+### 关键 2026 进展
+
+- **Snowflake Iceberg v3 预览版（2026-03）**：row lineage、deletion vectors、纳秒级时间戳、地理空间类型；Horizon Catalog + Apache Polaris 跨引擎开放目录。
+- **StarRocks ClickBench 持续 #1**：查询性能较传统 OLAP 提升 **3—10 倍**；External Catalog 直查湖上多格式，无需搬迁。
+- **淘宝闪购（原饿了么）实践**：Flink + Paimon + StarRocks，Flink 资源开销 **-50%**、存储成本 **-90%**。
+
+### TCO 与渗透率
+
+| 指标 | 数据 |
+|------|------|
+| 湖仓迁移降本 | **35%—60%**（vs 双数据湖+数仓，Databricks 2025） |
+| 实时流改善决策 | **72%** 组织报告决策相关性提升（Confluent 2025） |
+| 数据质量年损失 | 企业平均 **$12.9M**（Gartner 2025） |
+| 主动治理省时 | 分析项目数据搜索/准备时间缩短 **40%**（IDC 2025） |
+| 大企业湖仓规划 | **80%+** 已规划或实施 |
+| 实时/离线一体化渗透率 | 2026 预测突破 **80%** |
+| 零售集团案例 | T+1→分钟级，数据价值 **+50%** |
+
+### 服装零售落地建议
+
+- 多品牌统一底座：锁定 **Apache Iceberg** 标准，Polars/DuckDB/Spark 共享同一份多品牌 Parquet，免重写。
+- 实时分析层：StarRocks 直查湖上 Iceberg，适合多品牌经营驾驶舱秒级响应。
+- 选型：中型集团 StarRocks（开源直查）叠加 Databricks（数据工程+AI）；纯 BI 报表优先 Snowflake。
