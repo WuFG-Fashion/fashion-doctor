@@ -2,10 +2,10 @@
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
-sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-26_Vistoya_2026时尚品牌AI_Agent实战.md]
+sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-26_Vistoya_2026时尚品牌AI_Agent实战.md, 2026-08-01_AI结账落地2026_Gap_Ulta_JDSports.md, 2026-08-01_OTTO_Zalando_AI德国市场.md]
 created: 2026-06-09
-updated: 2026-07-26
-cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]]
+updated: 2026-08-01
+cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]], [[2026-08-01_AI结账落地2026_Gap_Ulta_JDSports]], [[2026-08-01_OTTO_Zalando_AI德国市场]]
 ---
 
 # 代理式商务与时尚零售AI新范式（2026）
@@ -172,6 +172,27 @@ Vistoya 汇总了 2026 年时尚品牌部署 AI Agent 的实测 ROI，覆盖从�
 ### 与 Bain 经济学框架的呼应
 - Bain（见 [[2026-06-22_Bain_Agentic_AI零售2026]]）侧重消费者行为（8% 从 ChatGPT 开始购物、Amazon Rufus 增量 ~$120 亿）；Vistoya 补齐了**供应链侧量化收益**：交付周期 -23% / 物流 -17%，直接对应 Bain"赢得推荐+保留控制权"护城河逻辑。
 - 质检 Agent 退货率 -30%，呼应 Adobe 所述全球 $450 亿/年退货成本（见 [[apparel_ai_agents_2026]]）。
+
+## AI结账2026落地：Gap/Ulta/JDSports ⭐ 8月1日新增
+
+> 来源：[[2026-08-01_AI结账落地2026_Gap_Ulta_JDSports]]（Bain / 品牌公告 2026）
+
+- Bain：Agentic Commerce 2030 年驱动 **$3000-5000亿** 交易
+- **Gap** / **Ulta**：Gemini + UCP（Universal Commerce Protocol）实现 AI 代理结账
+- **JD Sports**：与 **Stripe** 合作 AI 结账
+- **OpenAI**：关闭 Instant Checkout（ICP），战略聚焦模型层
+
+> 协议路线分化：UCP（Google×Shopify）成主流标准被品牌采用，但 OpenAI 退出履约层，表明"标准协议 vs 平台自建"仍在博弈。
+
+## OTTO/Zalando：欧洲平台AI助手段 ⭐ 8月1日新增
+
+> 来源：[[2026-08-01_OTTO_Zalando_AI德国市场]]（德国电商 2026）
+
+- **OTTO** KI-Assistent 覆盖 **1900万件** 商品，自然语言购物建议
+- **Zalando** AI 内容产出 **+70%** / 成本 **-90%**，周活 **900万**
+- 德国成欧洲 Agentic Commerce 前沿，平台级 AI 助手直接服务购物全流程
+
+> 与 Amazon Rufus / Walmart Sparky 同属"平台侧 Agentic Commerce"，印证 [[apparel_ai_agents_2026]] 所述 Agentic AI 已成产业标准（75% 品牌依赖）。
 
 ## 关联页面
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景
