@@ -1,7 +1,7 @@
 {
   "kb_version": "2.1",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
-  "last_updated": "2026-07-27",
+  "last_updated": "2026-08-02",
   "total_entries": 9,
   "levels": {
     "L1": {
@@ -27,7 +27,7 @@
           "id": "L3_01_01",
           "name": "KPI健康基准",
           "path": "L2_01_零售基础理论/L3_01_01_KPI健康基准/16brands_2026q1_snapshot.md",
-          "file_count": 20,
+          "file_count": 22,
           "status": "ok"
         },
         {
@@ -55,7 +55,7 @@
           "id": "L3_02_01",
           "name": "太平鸟男装",
           "path": "L2_02_竞品分析/L3_02_01_太平鸟男装/2026-06-02_浙江日报_太平鸟30周年深度.md",
-          "file_count": 3,
+          "file_count": 5,
           "status": "ok"
         },
         {
@@ -83,7 +83,7 @@
           "id": "L3_02_05",
           "name": "竞品综合对比",
           "path": "L2_02_竞品分析/L3_02_05_竞品综合对比/2026-06-17_AI试衣工具竞品对比.md",
-          "file_count": 27,
+          "file_count": 36,
           "status": "ok"
         },
         {

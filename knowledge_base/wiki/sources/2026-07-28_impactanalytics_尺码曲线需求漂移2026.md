@@ -5,7 +5,7 @@ tags: [sku, size_curve, merchandise, supply_chain, glp1, demand_shift]
 sources: [2026-07-28_impactanalytics_尺码曲线需求漂移2026.md]
 created: 2026-07-28
 updated: 2026-07-28
-cross_refs: [sku_fine_management|服装SKU精细化管理], [动态OTB管理], [柔性供应链与商品企划]
+cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[动态OTB管理]], [[柔性供应链与商品企划]]
 ---
 
 # $5B at Risk：零售尺码曲线正在漂移（Impact Analytics，2026）
@@ -33,9 +33,9 @@ cross_refs: [sku_fine_management|服装SKU精细化管理], [动态OTB管理], [
 
 ## 关联页面
 
-- [sku_fine_management|服装SKU精细化管理]
-- [动态OTB管理]
-- [柔性供应链与商品企划]
+- [[sku_fine_management|服装SKU精细化管理]]
+- [[动态OTB管理]]
+- [[柔性供应链与商品企划]]
 
 ## 矛盾检测
 
