@@ -2,10 +2,10 @@
 type: concept
 title: 服装AI试衣工具选型与落地（2026）
 tags: [ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech]
-sources: [2026-06-08_知衣FD_AI试衣工具选型.md, 2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026.md]
+sources: [2026-06-08_知衣FD_AI试衣工具选型.md, 2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026.md, 2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣.md]
 created: 2026-06-08
-updated: 2026-07-31
-cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[2026-05-25_知衣FD+2.0_AI商拍]], [[2026-01-28_微盟AI试衣方案]], [[2026-06-27_小红书FireRed开源AI试衣模型]], [[2026-07-27_虹软ArcMuse_AI商拍平台]], [[2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026]]
+updated: 2026-08-02
+cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[2026-05-25_知衣FD+2.0_AI商拍]], [[2026-01-28_微盟AI试衣方案]], [[2026-06-27_小红书FireRed开源AI试衣模型]], [[2026-07-27_虹软ArcMuse_AI商拍平台]], [[2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026]], [[2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣]]
 ---
 
 # 服装AI试衣工具选型与落地（2026）
@@ -170,3 +170,17 @@ LOOK AI 于 BEYOND EXPO 2026 发布面向时尚行业的 Fashion AI Agent，定�
 | 产业链闭环 | 下半年开放面辅料供应商平台；金属3D打印精度**5微米**打通"AI创意→实体制造" |
 
 > **选型定位**：LOOK AI 补齐"虚拟试穿+搭配建议+供应链闭环"组合，与知衣FD（垂直训练）、微盟（平台+大模型）、虹软（CV底层）并列工具矩阵新成员；其差异化在于"AI创意→实体制造"的闭环野心。
+
+## CtrlVTON：可控虚拟试衣（下一代方向）⭐ 8月2日新增
+
+> 来源：[[2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣]]（NXN Labs × KAIST，arXiv:2607.09362v1，2026-07-10）
+
+现有商用试衣工具（知衣FD/微盟/虹软/FireRed）均属"被动生成换衣"，无法让用户控制"扎进/拉链/内外层"等穿衣语义。CtrlVTON 框架 + VIP-SAM 专用分割首次实现**主动控制式穿衣**：
+
+| 维度 | 现有商用工具 | CtrlVTON |
+|------|------------|----------|
+| 控制粒度 | 自动换装（无语义控制） | 扎进/拉链/内外层语义控制 |
+| 服装识别 | 通用分割（薄衣/配件易错） | VIP-SAM 专用分割 |
+| 阶段 | 已商用（ROI 可量化） | 研究预印本（未商业化） |
+
+> **选型启示**：CtrlVTON 指向"可控 VTO"的下一代能力，直击当前 4% 选择率的消费者信任危机——能精确表达穿衣意图才可能扭转"货不对板"。短期商用仍以知衣FD/微盟/虹软为主，可控 VTO 是 2026 下半年需跟踪的技术拐点。

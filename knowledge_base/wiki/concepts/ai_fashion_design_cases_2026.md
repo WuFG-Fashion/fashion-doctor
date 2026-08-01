@@ -2,10 +2,10 @@
 type: concept
 title: AI时尚设计十大案例（2026）
 tags: [ai, fashion_design, case_study, virtual_prototype, sustainability, hnm, nike, levis, zara]
-sources: [DigitalDefynd 2026-05-28, 2026-08-01_苏豪时尚_AI智造出海.md, 2026-08-01_OTTO_Zalando_AI德国市场.md]
+sources: [DigitalDefynd 2026-05-28, 2026-08-01_苏豪时尚_AI智造出海.md, 2026-08-01_OTTO_Zalando_AI德国市场.md, 2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成.md]
 created: 2026-06-06
-updated: 2026-08-01
-cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[apparel_ai_policy_2026]], [[2026-07-28_veeton_2026全球AI时尚能力报告]], [[2026-08-01_苏豪时尚_AI智造出海]], [[2026-08-01_OTTO_Zalando_AI德国市场]], [[suhao_fashion]]
+updated: 2026-08-02
+cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[apparel_ai_policy_2026]], [[2026-07-28_veeton_2026全球AI时尚能力报告]], [[2026-08-01_苏豪时尚_AI智造出海]], [[2026-08-01_OTTO_Zalando_AI德国市场]], [[suhao_fashion]], [[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]]
 ---
 
 # AI时尚设计十大案例（2026）
@@ -86,6 +86,18 @@ Accenture SXD实现面料利用率接近100%，从设计阶段而非生产后管
 - **OTTO**：KI-Assistent 覆盖 1900万件 商品，AI 驱动选品与搭配建议
 
 > 数字孪生模特使"一衣多模/一衣多景"在德国市场规模化，呼应本案 H&M 数字孪生、Veeton(ASOS 省时 75-80%) 的 AI 商拍降本主线。
+
+## CLO Virtual Fashion：DiffGI 薄壳 3D 服装生成（2026新增）⭐ 8月2日新增
+
+> 来源：[[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]]（CLO Virtual Fashion，arXiv:2607.13365，2026-07-15）
+
+| 维度 | 主流 3D 生成 | DiffGI（可微分几何图像） |
+|------|------------|------------------------|
+| 建模对象 | 封闭实心体（有体积，如苹果/汽车） | 开放边界薄面（零厚度，如领口/荷叶边/拉链） |
+| 精度-算力 | 高分辨率才压锯齿（768² 网格，算力爆炸） | 薄壳连续几何，精度-算力平衡 |
+| 边界表达 | 有/无 二值，丢失灰色渐变信息 | 连续几何，保留边界细节 |
+
+> CLO Virtual Fashion 是 CLO/Marvelous Designer 头部 3D 服装软件商，DiffGI 直接服务工业级数字样衣需求。与苏豪时尚（打样 1 小时/3D 还原 98%/物料 -55%）同属"3D+AI 替代物理样衣"主线，DiffGI 破解最难的薄壳几何保真，进一步压缩打样周期、降物料成本。
 
 ## 关联知识
 

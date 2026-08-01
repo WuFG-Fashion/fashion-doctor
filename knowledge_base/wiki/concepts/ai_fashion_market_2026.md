@@ -2,10 +2,10 @@
 type: concept
 title: AI时尚市场规模与品牌应用全景2026
 tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
-sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md, 2026-07-18_Bloomreach_AI时尚零售2026全球数据.md]
+sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md, 2026-07-18_Bloomreach_AI时尚零售2026全球数据.md, 2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成.md]
 created: 2026-06-09
-updated: 2026-07-18
-cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]], [[2026-07-19_MetaModels_25品牌AI应用2026]]
+updated: 2026-08-02
+cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]], [[2026-07-19_MetaModels_25品牌AI应用2026]], [[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]]
 ---
 
 # AI时尚市场与品牌应用全景（2026）
@@ -142,3 +142,13 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - 时尚零售已跃升为AI支出增长前三行业
 - 虚拟试穿市场$389.2B(2030E)意味着其将从电商附属功能升级为独立消费入口
 - AI个性化从"加分项"变为"准入门槛"
+
+## 3D服装生成技术突破：DiffGI（薄壳几何保真）⭐ 8月2日新增
+
+> 来源：[[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]]（CLO Virtual Fashion，arXiv:2607.13365，2026-07-15）
+
+CLO Virtual Fashion 提出 **DiffGI（可微分几何图像）**，首次以接近人类裁缝理解布料的方式生成/还原薄壳 3D 服装，破解领口/荷叶边/拉链等开放边界结构的锯齿难题。
+
+- **与"生成式AI设计"赛道直接关联**：3D+AI 替代物理样衣（苏豪打样 1 小时/物料 -55%）依赖高精度薄壳几何，DiffGI 是该主线的底层技术突破
+- **工业级背景**：CLO/Marvelous Designer 头部 3D 服装软件商，直接服务数字样衣需求，加速 $39.9 亿 AI 时尚市场中"设计+供应链"两大赛道渗透
+- **未商业化**：研究预印本阶段，但方向明确指向高精度、低算力的工业级 3D 服装生成
