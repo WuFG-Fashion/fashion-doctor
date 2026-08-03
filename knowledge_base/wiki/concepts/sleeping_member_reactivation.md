@@ -2,10 +2,10 @@
 type: concept
 title: 沉睡会员唤醒策略
 tags: [vip, dormant_member, repurchase, member_reactivation, private_domain]
-sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223]
+sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223, 2026-08-03_数字化转型网_服装私域会员运营四大场景]
 created: 2026-06-06
-updated: 2026-07-26
-cross_refs: [[septwolves|七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[2026-06-14_博客园_CLV生命周期优化指南]], [[2026-06-14_乔拓云_私域商城会员运营2026]], [[2026-06-19_AI企微私域复购全链路方案]], [[2026-06-27_RFM客户分层5步落地模型]], [[2026-07-26_有赞30种会员权益玩法_易美内衣私域]]
+updated: 2026-08-03
+cross_refs: [[septwolves|七匹狼]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[2026-06-14_博客园_CLV生命周期优化指南]], [[2026-06-14_乔拓云_私域商城会员运营2026]], [[2026-06-19_AI企微私域复购全链路方案]], [[2026-06-27_RFM客户分层5步落地模型]], [[2026-07-26_有赞30种会员权益玩法_易美内衣私域]], [[2026-08-03_数字化转型网_服装私域会员运营四大场景]]
 ---
 
 # 沉睡会员唤醒策略

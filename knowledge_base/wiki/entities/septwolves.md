@@ -2,10 +2,10 @@
 type: entity
 title: 七匹狼
 tags: [septwolves, brand, competitor, menswear, a_share, private_domain]
-sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml]
+sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, 2026-08-03_微盟见实_七匹狼会员深度运营五年最高增长]
 created: 2026-06-06
-updated: 2026-07-19
-cross_refs: [[会员复购率提升策略]], [[私域运营方法论]], [[sleeping_member_reactivation|沉睡会员唤醒策略]], [[全渠道会员一体化]], [[2026-07-19_七匹狼私域会员运营深度]]
+updated: 2026-08-03
+cross_refs: [[会员复购率提升策略]], [[私域运营方法论]], [[sleeping_member_reactivation|沉睡会员唤醒策略]], [[全渠道会员一体化]], [[2026-07-19_七匹狼私域会员运营深度]], [[2026-08-03_微盟见实_七匹狼会员深度运营五年最高增长]]
 ---
 
 # 七匹狼 (Septwolves)

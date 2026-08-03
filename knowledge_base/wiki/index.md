@@ -14,7 +14,7 @@ updated: 2026-08-03
 ### wiki/entities/ — 实体库
 | 页面 | 说明 | 标签 |
 |------|------|------|
-| [[丽晶]] | 服装零售ERP/全渠道解决方案商 | vendor, retail, erp |
+| [[丽晶]] ⭐ UPDATED | 服装零售ERP/全渠道解决方案商；8-03新增门店12核心指标与日周月三层经营节奏 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] ⭐ UPDATED | 零售AI培训方案商，AI导购陪练；价格异议三周对练成交+17%/门店被拒绝模拟训练（比价留店高四成/10秒回应八成）+ 08-01 美妆对练(成交推进42→78/实验组+9pp) | vendor, ai, training, megaview |
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" +7-31新增2026H1半年报(营收28.78亿-0.72%/归母1.02亿+30.89%/扣非5071万+269.9%/净关店137家至2861/加盟-10.32%/非经常性5100万占半壁) +8-01新增2026Q2单季(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿) | brand, competitor, a_share, ai, turnaround |
@@ -24,7 +24,7 @@ updated: 2026-08-03
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
 | [[hla]] ⭐ UPDATED | 海澜之家600398，2025FY 216.26亿/存货周转344天，2026非自有品牌业务34.47亿(+29.18%)成最快增长引擎/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44% +8-03新增adidas FCC概念店723家(县城门店换牌/店员系统不变/买断进货承担库存风险) | brand, competitor, menswear |
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 +7-25修正2025FY 150.90亿/8.92亿 | brand, competitor, menswear, ai |
-| [[septwolves]] ⭐ NEW | 七匹狼002029，小程序GMV+60%，私域运营标杆 | brand, competitor, private_domain |
+| [[septwolves]] ⭐ UPDATED | 七匹狼002029，小程序GMV+60%，私域运营标杆；8-03新增微盟见实五年最高增长(复购+10%/高价值回流70-80%/导购AI线索转化30-40%) | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增/7-29中报预告EPS 0.68居行业首位 | brand, competitor, sportswear, premium |
 | [[bosideng]] ⭐ UPDATED | 波司登3998.HK，FY2026营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，非羽绒三线溃缩(女装-14.3%/贴牌-8.3%/校服-34%)+工信部数字领航国家级案例(头样-60%/联网率>90%)+GiMS全链协同(头样100→27天/日吞吐100万件/补单8次+) | brand, competitor, hk_listed, ai, esg |
 | [[anta]] ⭐ UPDATED | 安踏集团，灵犀大模型火山引擎发布：Lumina平台/六维评测/四道精修/Logo还原100%/成本-80%，"谁更懂消费者" | brand, competitor, sportswear, ai, virtual_tryon |
@@ -56,7 +56,7 @@ updated: 2026-08-03
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构+第七在线季前五步法(OTB提前2-3周决策/AI 14天预警)+PANTEL六步法(李宁售罄62→78%/周转143→89天) + 08-01 区域店铺级OTB(存销比4.5-5.5/ABC/款色码)+retailnorthstar(分品类售罄80-90%/期初48-72h/准确率0.89) | otb, merchandise, supply_chain |
 | [[会员复购率提升策略]] ⭐ UPDATED | AI推荐+分层权益+场景触达，复购+18-35pp + VIP训练营71%全勤/转化+44.18%/私域白皮书五平台基准 + 桔尚300店复购35%/有赞付费会员礼品卡62% + 尊云SOP-C（转化≥15%/复购≥40%）+ 忠诚度五转向（Z世代73%即时奖励） + 08-01 老乡鸡(3000万会员/复购GMV9.6亿/腾讯智慧零售)+袁记云饺(5000万会员/老客复购>50%) | vip, repurchase, membership |
-| [[服装门店经营AI化2026]] ⭐ NEW | 65%手工记账→AI经营大脑，周转+60%复购+35% | ai, retail_digitalization, store_operation |
+| [[服装门店经营AI化2026]] ⭐ UPDATED | 65%手工记账→AI经营大脑，周转+60%复购+35%；8-03新增丽晶门店12核心指标与日周月三层节奏 | ai, retail_digitalization, store_operation |
 | [[男装品牌竞争格局2026Q1]] ⭐ NEW | 森马增速王/海澜大而不强/太平鸟拐点 | competitor, menswear, comparison |
 | 待迁移：售罄率 | 来自 L3_01_01 KPI健康基准 | kpi, sell_through |
 | 待迁移：未动销率 | 来自 L3_06_02 未动销库存占比 | kpi, dead_stock, inventory |
@@ -80,7 +80,7 @@ updated: 2026-08-03
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
 |------|------|------|
-| [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
+| [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ UPDATED | 4类唤醒方法+流失窗口+七匹狼实战数据；8-03新增数字化转型网精准触达(无效推送-70%) | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ UPDATED | ABC分类+安全库存+8维度决策+四阶段推进+金波小单快反90天(起订-90%/滞销-25pp) | sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ UPDATED | 四大核心指标+零售行业优先级+常态框架 +8-03 AI驱动新范式(Qualytics 20,000+规则95% AI推断/validate-at-use/HITL/数据契约/Data uptime+TTD+ROI) | data_quality, governance, ai, data_contract |
@@ -116,7 +116,7 @@ updated: 2026-08-03
 |------|------|------|
 | [[RFM会员分层运营实战]] | RFM三维分层模型+私域复购全链路 | vip, rfm, operational |
 | [[零售数据仓库SQL实践]] ⭐ NEW | 销售/库存/会员/导购四大场景SQL优化模板 | sql, optimization, practice |
-| [[私域运营方法论]] ⭐ NEW | 私域四策略+服装零售实施路径+工具矩阵 | vip, private_domain, scrm |
+| [[私域运营方法论]] ⭐ UPDATED | 私域四策略+服装零售实施路径+工具矩阵；8-03新增数字化转型网四大场景/七匹狼私域五年增长 | vip, private_domain, scrm |
 | [[sku_inventory_sql_operations|服装SKU进销存管理实操]] ⭐ NEW | SKU编码+ABC分类SQL+安全库存+滞销识别 | sku, inventory, sql |
 | [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+DuckDB Quack共享分析库+数据中台200+门店案例 + WAIC2026零售AI智能体三层架构接入呈现层 +7-31 StarRocks直查湖仓重构实时分析层(External Catalog直查Iceberg·淘宝闪购Flink+Paimon+StarRocks资源-50%存储-90%) | multi_brand, analytics, architecture, etl, middle_platform, retail_ai |
 | [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.59 ButtonColumn/Skeleton/App.run()部署 + v1.60安全加固(origin spoofing修复/query string上限/disableDataExport) +7-31部署三路线(Snowflake Container Runtime/Cloud免邀请4分17秒/Docker 327MB·3秒·py-spy性能排查) | streamlit, dashboard, production, code, security |
@@ -150,6 +150,12 @@ updated: 2026-08-03
 | [[2026-08-03_数据治理五大平台AI原生横评2026]] ⭐ NEW | 数据治理五大平台AI原生横评：百分点+80%/-70%/腾讯WeData 200+规则/字节DataLeap起夜率-30%/用友16 Agent人力-70%/微软Purview，五条路线分化 | data_governance, platform, ai, agent, selection, source |
 | [[2026-08-03_多品牌服装集团数据中台架构]] ⭐ NEW | 多品牌服装集团数据中台：隔离与共享平衡/67%数据孤岛/会员跨品牌通认隔离/RCBT主数据/Chantelle 9品牌1500+接口ELT | multi_brand, middle_platform, architecture, membership, master_data, source |
 | [[2026-08-03_服装零售指标口径统一与进销存SQL]] ⭐ NEW | 服装零售指标口径统一与进销存SQL：一个SKU一套口径/只读视图/SQL六写法五策略(IO-68%吞吐+2.3x)/五维指标体系 | sql, metrics, sell_through, inventory, data_quality, source |
+| [[2026-08-03_数字化转型网_服装私域会员运营四大场景]] ⭐ NEW | 服装私域会员运营四大场景：导购留存(lululemon流失-60%)/复购(林清轩+32%)/全渠道拉新(UR千万级)/精准触达(转化2.5x) | vip, membership, repurchase, private_domain, source |
+| [[2026-08-03_微盟见实_七匹狼会员深度运营五年最高增长]] ⭐ NEW | 七匹狼私域五年最高增长：复购会员+10%/全渠道频次2×/小程序GMV+60%/高价值回流70-80%/导购AI线索转化30-40% | vip, membership, septwolves, repurchase, source |
+| [[2026-08-03_Megaview_新人上岗考核可量化导购能力模型]] ⭐ NEW | 深维智信新人上岗可量化能力模型：五维×16粒度/复杂政策清晰度43→81/上岗门槛连续三轮>75分+异议零失误 | guide, ai, training, megaview, capability, source |
+| [[2026-08-03_丽晶_服装门店12核心指标与日周月三层经营节奏]] ⭐ NEW | 丽晶门店12核心指标与日周月节奏：每日滞销预警(连续3天零销售)/周导购人效排名/月全渠道月报/店长10分钟天 | store_operation, kpi, regent, source |
+| [[2026-08-03_第七在线_商品计划终极指南中国鞋服零售]] ⭐ NEW | 第七在线商品计划终极指南：8步/12KPI/GMROI≥2.0(⚠️矛盾kb≥3.0)/季末售罄≥75%(⚠️矛盾kb0.8)/期货70-80%+快反15-25%OTB池/主力50-60%引流15-25%形象10-20% | merchandise, otb, gmroi, sell_through, source |
+| [[2026-08-03_第七在线_InfoQ_AI_Agent改变商品计划]] ⭐ NEW | 第七在线×InfoQ：AI Agent改变商品计划五变化(持续推演/主动预警/经验校准/统一模型/事前沙盘)/卫衣华东+28万售罄+2.3pp案例 | merchandise, ai_agent, planning, source |
 | [[2026-08-01_老乡鸡_会员私域GMV十倍增长]] ⭐ NEW | 老乡鸡：3000万+会员/付费会员月均到店6次/超级会员复购3倍/精准触达月GMV跃升3000万(十倍)/2025会员复购GMV 9.6亿/腾讯智慧零售ONE ID+100+ CDP看板 | vip, membership, private_domain, repurchase, source |
 | [[2026-08-01_袁记云饺_会员5000万老会员复购超50%]] ⭐ NEW | 袁记云饺：会员破5000万/半年净增近1000万/老会员年复购率超50%/6元无门槛券替代满25减3/新人复购券核销环比>200% | vip, membership, repurchase, coupon, source |
 | [[2026-08-01_Megaview_美妆AI对练成交推进42到78分]] ⭐ NEW | 深维智信Megaview美妆对练：200+场景/100+画像/MegaRAG/新人"成交推进"均分42→78/实验组门店+9pp | guide, ai, training, megaview, source |
