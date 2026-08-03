@@ -5,7 +5,7 @@ tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
 sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战]
 created: 2026-06-06
 updated: 2026-07-31
-cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]]
+cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
 ---
 
 # SQL查询性能优化

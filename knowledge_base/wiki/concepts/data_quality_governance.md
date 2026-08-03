@@ -1,11 +1,11 @@
 ---
 type: concept
 title: 数据质量常态化治理
-tags: [data_quality, governance, monitoring, data_consistency, timeliness]
-sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026]
+tags: [data_quality, governance, monitoring, data_consistency, timeliness, ai, data_contract, hitl]
+sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防]
 created: 2026-06-06
-updated: 2026-06-22
-cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]]
+updated: 2026-08-03
+cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]]
 ---
 
 # 数据质量常态化治理
@@ -160,3 +160,58 @@ cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售�
 - 分层抽样质检 + 质量评分 + 黑白名单
 - 问题数据智能修复与闭环整改
 - NLP+ML驱动智能引擎自动推荐质量规则
+
+## AI驱动质量管理新范式（2026-08新增）⭐
+
+> 来源：[[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]]（surinch/Qualytics/Atlan/Google Dataplex×Gemini 四源交叉）
+
+### 从"被动修复"到"主动预防"
+
+2026 年数据质量管理范式完成又一次跃迁——AI 不再只做"事后识别问题"，而是走向**源头预防 + 决策点校验**：
+
+| 维度 | 上一阶段（规则驱动） | 2026（AI 驱动预防） |
+|------|-------------------|-------------------|
+| 触发点 | 批处理后静态检查 | **validate-at-use**：决策那一刻即时校验 |
+| 规则来源 | 人工定义 | AI 推断生成（Qualytics 客户平均 **95%** 规则由 AI 推断） |
+| 规则规模 | 数百条 | 生产运行 **20,000+ 条** |
+| 修复路径 | 自动改数 | AI 出建议 → **HITL 人工确认** → 才落库 |
+| 对外暴露 | 报表/告警 | 经 **MCP** 向 ChatGPT/Claude/Copilot 暴露受治理质量信号 |
+
+### AI 四类候选能力（均须 HITL）
+
+1. **智能异常检测** — 自动识别分布偏移/离群
+2. **预测性质量监测** — 在问题发生前预警
+3. **根因分析辅助** — 定位口径/转换/缺失环节
+4. **修复建议生成** — 给出补数/重算方案，**不能直接改生产**
+
+> ⚠️ **上线硬边界**：AI 输出只能进入确认流程，绝不能直接改写生产数据；关键节点必须人工审核（Human-in-the-Loop）。这是与金融/零售强合规要求一致的红线。
+
+### 三个新度量（取代单一"准确率"）
+
+| 度量 | 含义 | 价值 |
+|------|------|------|
+| **Data uptime** | 数据可用时长占比 | 数据团队的终极 SLO |
+| **TTD**（Time to Detect） | 从坏数据产生到被检出的时延 | 越短损失越小 |
+| **Data quality ROI** | 治理投入 vs 避免的损失 | 向业务证明治理价值 |
+
+### 数据契约（Data Contracts）— 源头负责制
+
+Atlan 六大实践之一：**在源系统强制质量规则，生产者对进仓前数据负责**。与服装零售"一个 SKU 一套口径"直接对应——barcode→style_color 映射、售罄率/周转分母等口径在采集契约中固化，下游不再各自重算。
+
+### 口径不一致"先冻结七项"排查法
+
+当"源系统 / 数仓 / 报表"结果对不上时，依次冻结：**截止时间 / 时区 / 粒度 / 过滤条件 / 晚到规则 / 口径版本 / 精度**，再判断是数据缺失、转换差异还是指标定义冲突。详见 [[2026-08-03_服装零售指标口径统一与进销存SQL|服装零售指标口径统一]]。
+
+### policy-as-code 实施路径（Google Dataplex + Gemini）
+
+```
+Materialized View 打平嵌套 → Python Client 触发 profile scan
+  → 导出 profile 喂 Gemini CLI → 生成 Dataplex 规范 YAML 规则
+  → HITL 验证 → 部署自动化质量扫描（纳入版本控制 + CI/CD）
+```
+
+### 落地建议（服装零售）
+
+- 小范围试点（如单品牌库存质量）验证 AI 规则准确率后再扩展
+- 优先把"期末库存/售罄率/断码率"等高频口径做成**只读视图 + 契约校验**，避免部门口径分裂
+- 异常监控清单（库存负数/超安全库存/长期零销量等）可直接转为 Atlan 可复用规则模板

@@ -1,11 +1,11 @@
 ---
 type: practice
 title: 品牌配置驱动多品牌系统
-tags: [brand, configuration, python, streamlit, multi_brand, architecture]
-sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合]
+tags: [brand, configuration, python, streamlit, multi_brand, architecture, membership, master_data]
+sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构]
 created: 2026-06-08
-updated: 2026-06-08
-cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]]
+updated: 2026-08-03
+cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]]
 ---
 
 # 品牌配置驱动多品牌系统
@@ -157,6 +157,50 @@ def reload_configs(config_file: str = "config/brands.json"):
         register_brand(brand_id, cfg)
 ```
 
+## 九、会员跨品牌通认/隔离开关（2026-08新增）⭐
+
+> 来源：[[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]]（丽晶软件 / 搜狐 / Semarchy Chantelle 案例）
+
+多品牌集团的核心矛盾是"隔离 vs 共享"——业务层各品牌独立、决策层集团要全局视图。会员策略应做成**品牌配置里的显式开关**，而非硬编码：
+
+```python
+MEMBERSHIP_POLICY = {
+    "peacebird": {
+        "cross_brand": "shared",   # 跨品牌通认
+        "points": "independent",    # 积分等级独立计算
+        "base_info": "shared",      # 基础信息共享（姓名/手机号/生日）
+        "group_view": "aggregated"  # 集团可见脱敏统计指标
+    },
+    "cabbeen": {
+        "cross_brand": "isolated",  # 按品牌隔离
+        "points": "independent",
+        "base_info": "isolated",
+        "group_view": "masked"      # 集团只见脱敏统计
+    }
+}
+```
+
+| 策略 | 含义 | 适用 |
+|------|------|------|
+| **跨品牌通认** | 积分等级独立计算、基础信息共享 | 集团统一会员运营、跨品牌权益互通 |
+| **按品牌隔离** | 集团只见脱敏统计指标 | 品牌定位差异大、数据合规要求高 |
+
+## 十、RCBT 主数据映射洞察（2026-08新增）⭐
+
+国际内衣集团 Chantelle（9 品牌、10,000+ 销售点、1,500+ 集成接口）用 **RCBT（款-色-罩杯-码）** 体系跨品牌严格管控复杂商品主数据。这与国内 **款-色-码** 三级主数据同构——印证本项目的字段映射抽象具备**跨市场通用性**：
+
+- Chantelle 的 RCBT ≈ 国内 款-色-码 + 罩杯维度（内衣特有）
+- "新增品牌只需配置不需部署" = 本项目 `BRAND_CONFIGS` Dict 配置驱动的商业化对应物
+- 集团中台"标准化清洗 + 统一口径"是出看板的前置闸门，与 [[data_quality_governance|数据质量治理]] 直接衔接
+
+```python
+# 在 CATEGORY_MAP 之外，显式建模主数据维度（款-色-码 / RCBT）
+MASTER_DATA_DIMS = {
+    "apparel": ["style", "color", "size"],
+    "lingerie": ["style", "color", "band", "cup"]  # RCBT：款-色-罩杯-码
+}
+```
+
 ## 关联知识
 
 - [[multi_brand_unified_analytics|多品牌统一分析架构]]
@@ -164,3 +208,5 @@ def reload_configs(config_file: str = "config/brands.json"):
 - [[data_quality_governance|数据质量常态化治理]]
 - [[ETL架构选型]]
 - [[data_lakehouse_2026|湖仓一体2026架构]]
+- [[全渠道会员一体化|全渠道会员一体化]] — 会员跨品牌通认/隔离策略的上位方法论
+- [[丽晶]] — 本实践主要出处厂商（服装零售 ERP/全渠道解决方案商）

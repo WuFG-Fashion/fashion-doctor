@@ -5,7 +5,7 @@ tags: [data_quality, retail, sql, validation, anomaly_detection]
 sources: [L3_06_01_数据质量红线, 2026-06-08_2026企业数据质量五阶段管控]
 created: 2026-06-08
 updated: 2026-06-08
-cross_refs: [[data_quality_governance]], [[零售数据仓库SQL实践]], [[SQL查询性能优化]], [[ETL架构选型]]
+cross_refs: [[data_quality_governance]], [[零售数据仓库SQL实践]], [[SQL查询性能优化]], [[ETL架构选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
 ---
 
 # 数据质量零售实操规范

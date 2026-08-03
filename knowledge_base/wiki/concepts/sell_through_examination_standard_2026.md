@@ -5,7 +5,7 @@ tags: [sell_through, kpi, merchandise, benchmark, inventory]
 sources: [2026-06-27_百度文库_2026服装零售售罄率考核制度.md]
 created: 2026-06-27
 updated: 2026-06-27
-cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]], [[china_apparel_industry_2026q1]]
+cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]], [[china_apparel_industry_2026q1]], [[2026-08-03_服装零售指标口径统一与进销存SQL|服装零售指标口径统一与进销存SQL]]
 ---
 
 # 售罄率考核基准2026

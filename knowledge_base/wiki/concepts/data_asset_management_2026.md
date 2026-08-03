@@ -5,7 +5,7 @@ tags: [data_governance, data_asset, capitalization, ai_driven, metadata, platfor
 sources: [2026-06-21_百家号_数据资产管理全景指南2026.md, 2026-07-28_清华_数据要素流通六大变化]
 created: 2026-06-21
 updated: 2026-07-28
-cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]]
+cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[2026-08-03_数据治理五大平台AI原生横评2026]]
 ---
 
 # 数据资产管理2026全景

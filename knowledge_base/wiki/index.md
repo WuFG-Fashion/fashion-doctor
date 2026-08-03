@@ -83,7 +83,7 @@ updated: 2026-08-03
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ NEW | 4类唤醒方法+流失窗口+七匹狼实战数据 | vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ UPDATED | ABC分类+安全库存+8维度决策+四阶段推进+金波小单快反90天(起订-90%/滞销-25pp) | sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
-| [[data_quality_governance|数据质量常态化治理]] ⭐ NEW | 四大核心指标+零售行业优先级+常态框架 | data_quality, governance |
+| [[data_quality_governance|数据质量常态化治理]] ⭐ UPDATED | 四大核心指标+零售行业优先级+常态框架 +8-03 AI驱动新范式(Qualytics 20,000+规则95% AI推断/validate-at-use/HITL/数据契约/Data uptime+TTD+ROI) | data_quality, governance, ai, data_contract |
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 三引擎协同+Arrow零拷贝。1.42 K8s分布式(单节点 vs Spark 6.4x/分布式 3.2x)/575M+下载/38K+Stars/2.0大规模清洗范式(10M行4.3x·最大42.6x vs Pandas·内存省68.7% vs Dask) +7-31 2.0 vs Pandas 2.2大规模清洗(12亿行读取5.7x/过滤6.7x/分组填充4.6x·综合吞吐3.8x内存-62%·pyinns 100M GroupBy 5-30x) | python, polars, pandas, benchmark, rfm, distributed, kubernetes |
 | [[ai_fashion_design_cases_2026]] ⭐ UPDATED | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% +8-01新增苏豪3D建模(打样1小时/3D 98%/物料-55%)/OTTO-Zalando数字孪生模特(Zalando内容+70%成本-90%) +8-02新增CLO Virtual Fashion DiffGI薄壳3D生成(arXiv 2607.13365·领口/荷叶边几何保真) | ai, fashion_design, case_study, suhao |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
@@ -101,7 +101,7 @@ updated: 2026-08-03
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ UPDATED | 1.5.4 Quack核心扩展(客户端-服务器)+DuckLake 1.0+VARIANT/GEOMETRY类型+v2.0 2026秋季 | duckdb, olap, sql, python, quack, ducklake |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 +7-31主流方案选型(Databricks/Snowflake Iceberg v3/StarRocks直查ClickBench#1 3-10x·迁移降本35-60%·80%大企业规划) | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
-| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 + WAIC2026多点数智零售AI智能体三层架构(水滴引擎/D-BRAIN/商品·门店·数据洞察) | data_governance, platform, selection, vendor, ai_driven, market_size, retail_ai |
+| [[data_governance_tech_routes_2026]] ⭐ UPDATED | 四大技术路线+15+厂商全景+IDC 350亿(+28.7%)/Gartner 80%+三档方案+15品牌三梯队 + WAIC2026多点数智零售AI智能体三层架构 +8-03 五厂商AI原生横评(百分点+80%/-70%/腾讯WeData 200+规则/字节DataLeap起夜率-30%/用友16 Agent人力-70%/微软Purview) | data_governance, platform, selection, vendor, ai_driven, market_size, retail_ai |
 | [[ai_fashion_market_2026]] ⭐ UPDATED | AI时尚市场$39.9亿/年增39%/十大品牌ROI/五大赛道+IIM 2030年400亿美元累计投入/三层格局 +8-02新增CLO DiffGI薄壳3D生成技术突破(工业级数字样衣底层) | ai, fashion_design, case_study, market_size |
 | [[agentic_commerce_fashion_2026]] ⭐ UPDATED | Agentic Commerce/OpenAI×Target/UCP大统一/McKinsey 3-5万亿 + **VTO×Agentic数据飞轮(DressX 10x/Saiz+70%/第一方合身数据资产)** +7-26 Vistoya实战ROI(Bain供应链lead time-23%/物流-17%/CAC-22%/退货-30%/$2.40每单) +8-01新增AI结账(Gap/Ulta/JD Sports/OpenAI退出ICP)/OTTO-Zalando德国市场(KI-Assistent 1900万件/Zalando内容+70%成本-90%) | ai, agentic_commerce, fashion_retail, virtual_tryon |
 | [[服装采购渠道选型2026]] ⭐ NEW | 一手APP/1688/拼多多/线下四渠道六维评估+AI选款趋势 | merchandise, sourcing, procurement, supply_chain |
@@ -121,7 +121,7 @@ updated: 2026-08-03
 | [[multi_brand_unified_analytics|多品牌统一数据分析架构]] ⭐ UPDATED | 四层架构+5大挑战+8步实施+ETL选型+DuckDB Quack共享分析库+数据中台200+门店案例 + WAIC2026零售AI智能体三层架构接入呈现层 +7-31 StarRocks直查湖仓重构实时分析层(External Catalog直查Iceberg·淘宝闪购Flink+Paimon+StarRocks资源-50%存储-90%) | multi_brand, analytics, architecture, etl, middle_platform, retail_ai |
 | [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] ⭐ UPDATED | pages模块化+缓存体系+品牌配置驱动+v1.59 ButtonColumn/Skeleton/App.run()部署 + v1.60安全加固(origin spoofing修复/query string上限/disableDataExport) +7-31部署三路线(Snowflake Container Runtime/Cloud免邀请4分17秒/Docker 327MB·3秒·py-spy性能排查) | streamlit, dashboard, production, code, security |
 | [[data_quality_retail_practice|数据质量零售实操规范]] ⭐ NEW | 字段红线/JOIN规范/日期处理/导入校验/异常检测SQL模板 | data_quality, sql, validation, practice |
-| [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ NEW | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 | brand, configuration, streamlit, multi_brand |
+| [[brand_config_driven_system|品牌配置驱动多品牌系统]] ⭐ UPDATED | Dict配置驱动+三级Tab+品类映射+配置校验+热更新 +8-03 会员跨品牌通认/隔离开关显式配置+RCBT主数据映射(Chantelle 9品牌印证) | brand, configuration, streamlit, multi_brand, membership, master_data |
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
 | [[bi_dashboard_retail_deployment|BI看板零售部署实操]] ⭐ NEW | 六步落地流程/Superset-DataEase-Streamlit三种方案/5大标准看板/避坑指南/Docker部署 | bi, dashboard, deployment, retail, superse, dataease, streamlit |
 | [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] ⭐ NEW | pandasql快速原型+SQLAlchemy生产集成+ETL管道分层，缩短分析时间50% | python, pandas, sql, pandasql, sqlalchemy, etl |
@@ -146,6 +146,10 @@ updated: 2026-08-03
 | [[2026-08-03_抖音虚拟上身与衣识科技AI试衣SaaS]] ⭐ NEW | 抖音虚拟上身(直播实时渲染·退货率-18%)/衣识科技SaaS(0.3元次·3000+商家·日均200万次·最优退货率55%→32%·ROI 1:30) | ai, virtual_tryon, livestream, saas, adoption, source |
 | [[2026-08-03_京东京点点OxygenVision_素材生产]] ⭐ NEW | 京东京点点Oxygen Vision：200+数字模特/1分钟全套素材/adidas旗舰店效率+30倍转化+29%/Oxygen TryOn千万级商品数万家店 | ai, virtual_tryon, content_production, jd, digital_model, source |
 | [[2026-08-03_海澜之家adidasFCC概念店723家]] ⭐ NEW | 海澜之家县城门店换牌adidas FCC(截至2025底723家/店员系统不变/价格399→259档/FCC买断进货承担库存风险) | hla, competitor, menswear, adidas, channel, source |
+| [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]] ⭐ NEW | AI驱动数据质量管理2026：从规则到智能预防，Qualytics 20,000+规则95% AI推断/validate-at-use/HITL硬边界/数据契约/Data uptime+TTD+ROI三度量 | data_quality, governance, ai, data_contract, hitl, source |
+| [[2026-08-03_数据治理五大平台AI原生横评2026]] ⭐ NEW | 数据治理五大平台AI原生横评：百分点+80%/-70%/腾讯WeData 200+规则/字节DataLeap起夜率-30%/用友16 Agent人力-70%/微软Purview，五条路线分化 | data_governance, platform, ai, agent, selection, source |
+| [[2026-08-03_多品牌服装集团数据中台架构]] ⭐ NEW | 多品牌服装集团数据中台：隔离与共享平衡/67%数据孤岛/会员跨品牌通认隔离/RCBT主数据/Chantelle 9品牌1500+接口ELT | multi_brand, middle_platform, architecture, membership, master_data, source |
+| [[2026-08-03_服装零售指标口径统一与进销存SQL]] ⭐ NEW | 服装零售指标口径统一与进销存SQL：一个SKU一套口径/只读视图/SQL六写法五策略(IO-68%吞吐+2.3x)/五维指标体系 | sql, metrics, sell_through, inventory, data_quality, source |
 | [[2026-08-01_老乡鸡_会员私域GMV十倍增长]] ⭐ NEW | 老乡鸡：3000万+会员/付费会员月均到店6次/超级会员复购3倍/精准触达月GMV跃升3000万(十倍)/2025会员复购GMV 9.6亿/腾讯智慧零售ONE ID+100+ CDP看板 | vip, membership, private_domain, repurchase, source |
 | [[2026-08-01_袁记云饺_会员5000万老会员复购超50%]] ⭐ NEW | 袁记云饺：会员破5000万/半年净增近1000万/老会员年复购率超50%/6元无门槛券替代满25减3/新人复购券核销环比>200% | vip, membership, repurchase, coupon, source |
 | [[2026-08-01_Megaview_美妆AI对练成交推进42到78分]] ⭐ NEW | 深维智信Megaview美妆对练：200+场景/100+画像/MegaRAG/新人"成交推进"均分42→78/实验组门店+9pp | guide, ai, training, megaview, source |
