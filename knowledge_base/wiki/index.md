@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-03
+updated: 2026-08-04
 ---
 
 # Fashion Doctor 知识库导航
@@ -140,6 +140,12 @@ updated: 2026-08-03
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-08-04_杭州纺织AI全链路_万事利垂直大模型]] ⭐ NEW | 杭州纺织AI全链路10大案例：万事利垂类大模型+TC68智能体设计数天→3秒/恒远具身机器人25秒上丝人力-83%/迪尚样衣20→8天/汇泉小单快返30%→80% | ai, agent, vertical_llm, embodied_robot, supply_chain, source |
+| [[2026-08-04_易元AI双引擎_服装电商测款]] ⭐ NEW | 易元AI双引擎：单月素材3000→2万+/判重42%→5%/测款30→9天(+70%)/成本12万→4.8万/投流ROI 1:0.8→1:3.2 | ai, ecommerce, content_generation, roi, source |
+| [[2026-08-04_波司登品牌价值1356.87亿]] ⭐ NEW | 波司登品牌价值1356.87亿(六度亮相四大时装周)/FY2026 273.5亿(+5.6%)/39.94亿(+13.7%)/BSD.AI头样100→27天/研发-60%/MSCI ESG AAA | bosideng, brand_value, ai, esg, source |
+| [[2026-08-04_科捷物流AI供应链控制塔]] ⭐ NEW | 科捷物流AI供应链控制塔：30000 SKU每日全覆盖/8秒报告/130岗位/具身机器人占单量10%/库存周转+20%/错漏发-50% | ai, supply_chain, control_tower, embodied_robot, logistics, source |
+| [[2026-08-04_2026H1纺织服装服饰业利润]] ⭐ NEW | 2026H1纺织服装服饰业利润-28%(122.1亿)：纺织+16.6%/化纤+102%分化/时序1-3月-17.6%→1-6月-28.0% | industry, profit, benchmark, kpi, source |
+| [[2026-08-04_森马2026H1零售终端]] ⭐ NEW | 森马2026H1零售终端：6月+1.0%/1-6月+8.3%/主品牌+4.0%/巴拉巴拉+7.3%/线上+15%/线下+4.4%/门店7652家 | semir, retail, terminal, h1_2026, source |
 | [[2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣]] ⭐ NEW | NXN Labs×KAIST CtrlVTON 可控虚拟试衣：扎进/拉链/内外层语义控制+VIP-SAM服装分割(arXiv 2607.09362)，VTO从被动换衣→主动控制 | ai, virtual_tryon, arxiv, controllable, source |
 | [[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]] ⭐ NEW | CLO Virtual Fashion DiffGI 薄壳3D服装生成(arXiv 2607.13365)：领口/荷叶边/拉链开放边界几何保真，工业级数字样衣底层 | ai, fashion_design, 3d, digital_twin, source |
 | [[2026-08-02_慕尚集团GXG_2025年报深化]] ⭐ NEW | 慕尚GXG 2025年报：借款9.035→4.113亿(资产负债率-54.5%)/"零压力通勤"定位/GXG核心盈利驱动/增利靠节流 | gxg, competitor, menswear, hk_listed, source |
