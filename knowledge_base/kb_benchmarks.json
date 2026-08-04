@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-05",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
     "files_scanned": "26 个 wiki/entities 文件 + 52 个 wiki/concepts 文件",
-    "data_points": "206+条数值",
-    "last_scan": "2026-08-02"
+    "data_points": "240+条数值",
+    "last_scan": "2026-08-05"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -93,7 +93,25 @@
       "market_share_pct": 7.1,
       "revenue_2026q1_billion": 16.56,
       "net_profit_2026q1_billion": 1.37,
-      "deducted_profit_growth": 0.3346
+      "deducted_profit_growth": 0.3346,
+      "revenue_2026h1_billion": 28.78,
+      "revenue_2026h1_yoy": -0.0072,
+      "net_profit_2026h1_billion": 1.02,
+      "net_profit_2026h1_yoy": 0.3089,
+      "deducted_profit_2026h1_billion": 0.5071,
+      "gross_margin_2026h1": 0.6121,
+      "net_margin_2026h1": 0.0353,
+      "stores_2026h1": 2861,
+      "stores_net_change_2026h1": -137,
+      "revenue_2026h1_menswear_billion": 11.96,
+      "revenue_2026h1_womenswear_billion": 10.84,
+      "revenue_2026h1_kidswear_billion": 3.9,
+      "revenue_2026h1_ledin_billion": 1.81,
+      "revenue_2026h1_direct_billion": 14.42,
+      "revenue_2026h1_franchise_billion": 6.4,
+      "revenue_2026h1_online_billion": 7.71,
+      "revenue_2026h1_franchise_yoy": -0.1032,
+      "revenue_2026h1_direct_yoy": 0.0273
     },
     "gxg_muson": {
       "gross_margin": 0.51,
@@ -335,7 +353,16 @@
     "trend_prediction_accuracy_pct": 0.85,
     "design_to_shelf_weeks": 2,
     "supply_chain_excess_inventory_reduction_pct": 0.2,
-    "personalization_engagement_increase_pct": 0.25
+    "personalization_engagement_increase_pct": 0.25,
+    "gen_image_price_rmb": 0.5,
+    "gen_video_10s_price_rmb": 1.5,
+    "virtual_tryon_price_rmb_per_use": 0.3,
+    "sampling_days_traditional": 7,
+    "sampling_hours_ai": 1,
+    "digital_sample_library_max": 4000,
+    "digital_fabric_library_max": 11000,
+    "material_cost_reduction_pct": 0.55,
+    "labor_cost_reduction_pct": 0.3
   },
   "inventory_health_redlines": {
     "backlog_rate_healthy_max": 0.3,
@@ -378,7 +405,14 @@
     "initial_order_ratio_traditional": 1.0,
     "staff_efficiency_improvement_pct": 0.5,
     "otb_accuracy_digital": 0.89,
-    "otb_accuracy_traditional": 0.68
+    "otb_accuracy_traditional": 0.68,
+    "rnd_cycle_traditional_days": 20,
+    "rnd_cycle_ai3d_days_min": 5,
+    "rnd_cycle_ai3d_days_conservative": 8,
+    "rush_order_3000pcs_traditional_days": 30,
+    "rush_order_3000pcs_platform_days": 7,
+    "cluster_platform_participants": 5000,
+    "micro_factory_order_growth_pct": 0.2
   },
   "guide_ai_training": {
     "trained_guide_pct": 0.38,

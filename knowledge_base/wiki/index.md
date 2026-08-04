@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 
 # Fashion Doctor 知识库导航
@@ -17,12 +17,12 @@ updated: 2026-08-04
 | [[丽晶]] ⭐ UPDATED | 服装零售ERP/全渠道解决方案商；8-03新增门店12核心指标与日周月三层经营节奏 | vendor, retail, erp |
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] ⭐ UPDATED | 零售AI培训方案商，AI导购陪练；价格异议三周对练成交+17%/门店被拒绝模拟训练（比价留店高四成/10秒回应八成）+ 08-01 美妆对练(成交推进42→78/实验组+9pp) | vendor, ai, training, megaview |
-| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" +7-31新增2026H1半年报(营收28.78亿-0.72%/归母1.02亿+30.89%/扣非5071万+269.9%/净关店137家至2861/加盟-10.32%/非经常性5100万占半壁) +8-01新增2026Q2单季(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿) | brand, competitor, a_share, ai, turnaround |
-| [[suhao_fashion]] ⭐ NEW | 苏豪时尚，服装供应链AI智造出海：打样7-10天→1小时/3D还原98%/物料-55%/14000+面料档案/2025服务110+品牌/90秒商拍 | brand, vendor, ai_manufacturing, digital_twin, sourcing |
+| [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" +7-31新增2026H1半年报(营收28.78亿-0.72%/归母1.02亿+30.89%/扣非5071万+269.9%/净关店137家至2861/加盟-10.32%/非经常性5100万占半壁) +8-01新增2026Q2单季(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿) +8-05新增2026H1品牌/渠道拆解(男11.96亿+1.38%/女10.84亿+2.26%/童3.90亿+3.62%/乐町1.81亿-22.02%；直营14.42亿+2.73%/加盟6.40亿-10.32%/线上7.71亿+3.06%)+关店明细(男-65/女-37)+张江平"弱化大众化路线"+毛利率三口径统一为交易所61.21% | brand, competitor, a_share, ai, turnaround |
+| [[suhao_fashion]] ⭐ NEW | 苏豪时尚，服装供应链AI智造出海：打样7-10天→1小时/3D还原98%/物料-55%/14000+面料档案/2025服务110+品牌/90秒商拍 +8-05新增智尚云平台(2025上线/数字样衣4000·数字面料11000/物料-55%·人力-30%/减少实物样衣超1万件/客户50余家) | brand, vendor, ai_manufacturing, digital_twin, sourcing |
 | [[muson_gxg]] ⭐ UPDATED | 慕尚集团/GXG，2025FY 20.56亿(-9.4%)/净利3162万/毛利率51.0% +8-02新增借款9.035→4.113亿(资产负债率-54.5%)/"零压力通勤"重新定位/GXG核心盈利驱动 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 | brand, competitor, global |
 | [[inditex_zara]] ⭐ UPDATED | Inditex/ZARA，FY2026Q1 87.5亿€(+5.8%)，61.2%毛利，5,456店，Q2初期+11.5%(新华网确认) | brand, competitor, fast_fashion |
-| [[hla]] ⭐ UPDATED | 海澜之家600398，2025FY 216.26亿/存货周转344天，2026非自有品牌业务34.47亿(+29.18%)成最快增长引擎/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44% +8-03新增adidas FCC概念店723家(县城门店换牌/店员系统不变/买断进货承担库存风险) | brand, competitor, menswear |
+| [[hla]] ⭐ UPDATED | 海澜之家600398，2025FY 216.26亿/存货周转344天，2026非自有品牌业务34.47亿(+29.18%)成最快增长引擎/主品牌149.03亿(-2.4%)/2026Q1利润总额-0.44% +8-03新增adidas FCC概念店723家(县城门店换牌/店员系统不变/买断进货承担库存风险) +8-05新增朱建龙校企"五大融合"人才培养(招工招生互融/教师技师融合/双证融合/毕业就业融合) | brand, competitor, menswear |
 | [[semir]] ⭐ UPDATED | 森马服饰002563，2026Q1 34.49亿，净利+45.25%，"大森AI工作台3.0"300+场景/排版+500%/库存周转+20%/节省2100万，Q2预测低基数高增长 +7-25修正2025FY 150.90亿/8.92亿 | brand, competitor, menswear, ai |
 | [[septwolves]] ⭐ UPDATED | 七匹狼002029，小程序GMV+60%，私域运营标杆；8-03新增微盟见实五年最高增长(复购+10%/高价值回流70-80%/导购AI线索转化30-40%) | brand, competitor, private_domain |
 | [[bienlefen]] ⭐ UPDATED | 比音勒芬002832，2026Q1营收15.22亿(+18.36%)/净利3.86亿/净利率25.4%，2025FY营收43.14亿/净利5.51亿/毛利率75.09%，电商+71.5%/618男装第六/2026E PE17.8×/5月电商+121%/申万预测Q2延续高增/7-29中报预告EPS 0.68居行业首位 | brand, competitor, sportswear, premium |
@@ -48,9 +48,9 @@ updated: 2026-08-04
 | [[earnings_quality_nonrecurring_2026]] ⭐ NEW | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照；7-29补充行业底色(中报预告预盈率54%/比音勒芬EPS 0.68/海澜0.20) | earnings, non_recurring, profit_quality, alert, h1_2026 |
 | [[全渠道会员一体化]] ⭐ UPDATED | 线上线下会员ID/权益/标签统一；开口男装会员成交占比64%/大婉酱私域留存>97% 私域沉淀案例 | vip, omnichannel, rfm, private_domain |
 | [[AI导购陪练]] ⭐ UPDATED | 基于LLM的导购智能培训系统+AI筑基+人工赋能新模式(老员工-60%)+Megaview 1.2万导购30天(异议63→89%/NPS 42→58)+思创双轨(近三千人/以练代讲)+北森珠宝35场景(达标-37%/客单+5.8%)+帆软诊断(客单+18%/复购+32%) + 08-01 Megaview美妆对练(成交推进42→78/实验组+9pp)+awarathon(22+语言/Samsung上岗-25~30%) | guide, ai, training |
-| [[柔性供应链与商品企划]] ⭐ UPDATED | 推式→拉式供应链范式转移 + 简道云进销存快反(目标售罄率85%⚠️矛盾/周转42天/毛利+2-5pct) + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) + 08-01 区域店铺级OTB(ABC+款色码/存销比4.5-5.5)+retailnorthstar(分品类售罄基准/期初48-72h校验) | merchandise, supply_chain |
+| [[柔性供应链与商品企划]] ⭐ UPDATED | 推式→拉式供应链范式转移 + 简道云进销存快反(目标售罄率85%⚠️矛盾/周转42天/毛利+2-5pct) + 1688白皮书(7天快反/50件起订/工厂翻倍/库存周转+30%) + 08-01 区域店铺级OTB(ABC+款色码/存销比4.5-5.5)+retailnorthstar(分品类售罄基准/期初48-72h校验) +8-05新增"中心工厂+卫星工厂"链主平台型柔性体系(迪尚:研发20→5天/3000件急单30→7天/5000余家接入/小微工厂订单+20%) | merchandise, supply_chain |
 | [[服装行业竞争格局]] | 2026四类竞争主体格局 | competitor, trend |
-| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 +7-31新增全球AI零售落地信号(75%品牌已部署Agentic AI/53%购物者用GenAI) +8-01新增AI购物Agent与机器可读产品数据(Adobe Q1 AI流量+393%/转化+42%/$450亿退货/ASOS×ChatGPT/True Fit MCP) | ai, retail, adoption, roi, nrf |
+| [[retail_ai_adoption_2026]] ⭐ UPDATED | 2026零售AI采纳全景：91%/89%/95%三步走+TMO导购(转化+46%/挽单20-35%)+UCP大统一+618即时零售628亿+112.3%+AI智能产品爆发+三大平台策略分化+AI商品决策六环节(缺货率9.5%→5%)+商务部8部门AI+消费新政 +7-31新增全球AI零售落地信号(75%品牌已部署Agentic AI/53%购物者用GenAI) +8-01新增AI购物Agent与机器可读产品数据(Adobe Q1 AI流量+393%/转化+42%/$450亿退货/ASOS×ChatGPT/True Fit MCP) +8-05新增采纳三道门槛(合规:备案+等保三级/价格:单次调用降至元级/人才:高校供给与企业需求长期错配·海澜五大融合解法) | ai, retail, adoption, roi, nrf |
 | [[china_apparel_industry_2026q1]] ⭐ UPDATED | 2026Q1行业运营基准：利润率2.23%/亏损面35.60% + 1-5月最新(营收3932.96亿-3.75%/利润-11.41%/利润率2.61%/内销+7.4%/出口-1.6%/对美+22.7%五连降企稳) + 细分板块经营全景(男装53%毛利/户外+16%)+运动流水+浙商PE三方交叉 +7-24新增H1零售7709亿+6.7%/6月出口292.7亿美元+7.2%/产能利用率75.6% | kpi, benchmark, industry |
 | [[SQL查询性能优化]] ⭐ UPDATED | SQL三维优化法+PG18多列跳过扫描+异步I/O+AI工具(EverSQL/pgMustard)+五大反模式 +7-31原理驱动(EXPLAIN 47s→0.3s/157x·覆盖索引10x·子查询JOIN 10x·云原生存算分离) | sql, optimization, postgresql, ai_tool |
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
@@ -85,19 +85,19 @@ updated: 2026-08-04
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
 | [[data_quality_governance|数据质量常态化治理]] ⭐ UPDATED | 四大核心指标+零售行业优先级+常态框架 +8-03 AI驱动新范式(Qualytics 20,000+规则95% AI推断/validate-at-use/HITL/数据契约/Data uptime+TTD+ROI) | data_quality, governance, ai, data_contract |
 | [[polars_vs_pandas_2026]] ⭐ UPDATED | 三引擎协同+Arrow零拷贝。1.42 K8s分布式(单节点 vs Spark 6.4x/分布式 3.2x)/575M+下载/38K+Stars/2.0大规模清洗范式(10M行4.3x·最大42.6x vs Pandas·内存省68.7% vs Dask) +7-31 2.0 vs Pandas 2.2大规模清洗(12亿行读取5.7x/过滤6.7x/分组填充4.6x·综合吞吐3.8x内存-62%·pyinns 100M GroupBy 5-30x) | python, polars, pandas, benchmark, rfm, distributed, kubernetes |
-| [[ai_fashion_design_cases_2026]] ⭐ UPDATED | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% +8-01新增苏豪3D建模(打样1小时/3D 98%/物料-55%)/OTTO-Zalando数字孪生模特(Zalando内容+70%成本-90%) +8-02新增CLO Virtual Fashion DiffGI薄壳3D生成(arXiv 2607.13365·领口/荷叶边几何保真) | ai, fashion_design, case_study, suhao |
+| [[ai_fashion_design_cases_2026]] ⭐ UPDATED | 10大品牌AI设计案例：样品-50%/退货-30-40%/利用率100% +8-01新增苏豪3D建模(打样1小时/3D 98%/物料-55%)/OTTO-Zalando数字孪生模特(Zalando内容+70%成本-90%) +8-02新增CLO Virtual Fashion DiffGI薄壳3D生成(arXiv 2607.13365·领口/荷叶边几何保真) +8-05新增三例3D+AI替代物理样衣ROI链(迪尚周期基准20→5天/苏豪降本基准物料-55%人力-30%/帮衣帮单价基准0.5元) | ai, fashion_design, case_study, suhao |
 | [[china_apparel_industry_scale_2026]] ⭐ NEW | 中国服装业3.8万亿/全球35%/AI设计25%/研发人才3% | china_apparel, industry_scale, workforce |
 | [[ai_virtual_tryon_2026]] ⭐ UPDATED | AI虚拟试衣：停留+40%/退货-25%/点击率+60% + 安踏灵犀火山引擎技术详解(Lumina/六维/四道精修/Logo还原100%) + 翠微百货线下VTO + iTryOn ICML2026 + RenderedFits全景 +8-02新增CtrlVTON可控虚拟试衣(扎进/拉链/内外层语义控制·VIP-SAM·arXiv 2607.09362) +8-03新增抖音虚拟上身(直播实时渲染·退货率-18%)/衣识科技SaaS(3000+商家/日均200万次/最优退货率55%→32%/ROI 1:30) | ai, virtual_tryon, ecommerce, anta, volcano_engine |
-| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + 酷特智能C2M工信部案例(KTOS/近百国) + 新华网AI全产业链(森马/URV/波司登/翠微) + 安踏灵犀/大森3.0/依明/三态比特 +7-24新增WAIC2026信号 +7-26 Style3D Blog全球基准(63%/样衣3天→<6小时/实物-70%/迭代4x) + Vistoya实战ROI(Madhappy-40%/Mejuri+28%/Bain供应链-23%/-17%) +7-31新增LOOK AI时尚Agent(BEYOND EXPO 2026·五大场景+面辅料平台+5微米金属3D打印) + 全球Agentic AI基准75% +8-01新增苏豪AI智造(打样1小时/3D 98%/物料-55%)/AI购物Agent(机器可读产品数据)/AI结账(Gap·Ulta·JD Sports·OpenAI退出ICP)/OTTO-Zalando德国市场(KI-Assistent 1900万件/Zalando内容+70%成本-90%) | ai, agent, fashion, supply_chain, c2m |
+| [[apparel_ai_agents_2026]] ⭐ UPDATED | 服装垂直AI智能体：四层架构+9大场景 + 酷特智能C2M工信部案例(KTOS/近百国) + 新华网AI全产业链(森马/URV/波司登/翠微) + 安踏灵犀/大森3.0/依明/三态比特 +7-24新增WAIC2026信号 +7-26 Style3D Blog全球基准(63%/样衣3天→<6小时/实物-70%/迭代4x) + Vistoya实战ROI(Madhappy-40%/Mejuri+28%/Bain供应链-23%/-17%) +7-31新增LOOK AI时尚Agent(BEYOND EXPO 2026·五大场景+面辅料平台+5微米金属3D打印) + 全球Agentic AI基准75% +8-01新增苏豪AI智造(打样1小时/3D 98%/物料-55%)/AI购物Agent(机器可读产品数据)/AI结账(Gap·Ulta·JD Sports·OpenAI退出ICP)/OTTO-Zalando德国市场(KI-Assistent 1900万件/Zalando内容+70%成本-90%) +8-05新增服装AI平台三种成本结构(按次付费型帮衣帮0.5元·链主平台型迪尚·自建平台型苏豪)+行业大模型合规门槛(依明备案+等保三级/三大归一模型)+森创启睿年RPA 12万天 ⚠️新增2条矛盾标记(备案唯一性/迪尚5天vs8天) | ai, agent, fashion, supply_chain, c2m |
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+)+帆软AI诊断四化 + 08-01 awarathon(22+语言/Samsung上岗-25~30%)+Megaview美妆对练(成交推进42→78) | guide, training, coaching, ai |
-| [[服装企划趋势渠道]] ⭐ UPDATED | 四大渠道横测+四步工作流+品类结构变化 + 08-01 retailnorthstar分品类售罄基准(品类规划视角) | merchandise, planning, trend |
+| [[服装企划趋势渠道]] ⭐ UPDATED | 四大渠道横测+四步工作流+品类结构变化 + 08-01 retailnorthstar分品类售罄基准(品类规划视角) +8-05新增渠道结构分化实证"直营涨·加盟跌"(太平鸟直营+2.73%/加盟-10.32%·净减83家占61%/线上毛利率+4.33pct) | merchandise, planning, trend |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[arrow_zero_copy_interop_2026]] ⭐ NEW | Apache Arrow零拷贝互操作2026：48x反序列化/90x类型转换/17.5x Flight + 多品牌实战全链路 | apache_arrow, zero_copy, interoperability, multi_brand |
 | [[python_dev_stack_2026]] ⭐ NEW | Python默认技术栈2026：uv+Ruff+Ty+Polars四件套，8合1集中配置 | python, polars, devops, toolchain, uv, ruff |
 | [[streamlit_dashboard_2026]] ⭐ UPDATED | v1.59(7.6): ButtonColumn/Skeleton/Mermaid/App.run()/Fragment跨容器 + v1.60(7.21): origin spoofing CWE-346修复/query string 512KiB·1000字段/server.maxWidgetStateSize=25MB/disableDataExport +7-31生产部署三路线(Snowflake Container Runtime GA/Cloud免邀请4分17秒/Docker 327MB·3秒) | streamlit, production, caching, security, hardening |
-| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD成本降80-92%/微盟+28%转化(平台路线)/小红书FireRed开源(4秒推理/信任危机) +7-31新增LOOK AI(时尚Agent+虚拟试衣闭环·AI创意→实体制造) +8-02新增CtrlVTON可控虚拟试衣(下一代方向·语义控制) +8-03新增京东京点点Oxygen Vision(200+数字模特/1分钟素材/效率+30倍/adidas转化+29%)/抖音虚拟上身+衣识科技SaaS(直播-18%/3000+商家/0.3元次) | ai, virtual_tryon, tool_selection |
+| [[ai_fashion_ecommerce_tryon_tools_2026]] ⭐ UPDATED | 服装AI试衣工具选型与落地：知衣FD成本降80-92%/微盟+28%转化(平台路线)/小红书FireRed开源(4秒推理/信任危机) +7-31新增LOOK AI(时尚Agent+虚拟试衣闭环·AI创意→实体制造) +8-02新增CtrlVTON可控虚拟试衣(下一代方向·语义控制) +8-03新增京东京点点Oxygen Vision(200+数字模特/1分钟素材/效率+30倍/adidas转化+29%)/抖音虚拟上身+衣识科技SaaS(直播-18%/3000+商家/0.3元次) +8-05新增帮衣帮产业集群型公共平台单价基准(单图0.5元/10秒视频1.5元/打样7天→1小时)，与衣识0.3元/次共同确立元级单价区间 | ai, virtual_tryon, tool_selection |
 | [[apparel_supply_chain_profit_chasm_2026q1]] ⭐ NEW | 2026Q1产业链利润分化：化纤+40%vs服装-17.6%/剪刀差57.6pp | industry, profit, supply_chain |
 | [[duckdb_olap_engine_2026]] ⭐ UPDATED | 1.5.4 Quack核心扩展(客户端-服务器)+DuckLake 1.0+VARIANT/GEOMETRY类型+v2.0 2026秋季 | duckdb, olap, sql, python, quack, ducklake |
 | [[data_lakehouse_2026]] ⭐ UPDATED | 湖仓一体2026：Iceberg标准/ETL新四化/多品牌落地+数据中台四架构/六步落地/200+门店案例+五大AI智能体中台拆解 +7-31主流方案选型(Databricks/Snowflake Iceberg v3/StarRocks直查ClickBench#1 3-10x·迁移降本35-60%·80%大企业规划) | data_lakehouse, iceberg, etl, architecture, middle_platform, ai_agent |
@@ -131,15 +131,20 @@ updated: 2026-08-04
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
-| [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 | competitor, menswear, financial |
+| [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 +8-05新增太平鸟男装H1实际值(11.96亿/+1.38%·净减65家)，验证"拐点初现"判断成立 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
-| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 +7-24新增中报前瞻(森马+50%+/比音勒芬+20%/海澜持平) +7-26 海澜毛利率45.93%→45.32%修正(交易所口径) +8-01新增太平鸟2026Q2单季质量(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿·自洽Q1 1.37亿+Q2 -0.349亿=H1 1.02亿) +8-02新增慕尚GXG 2025年报深化(借款9.035→4.113亿/零压力通勤定位/增利靠节流) | competitor, comparison, 2026Q1, 2026Q2 |
+| [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 +7-24新增中报前瞻(森马+50%+/比音勒芬+20%/海澜持平) +7-26 海澜毛利率45.93%→45.32%修正(交易所口径) +8-01新增太平鸟2026Q2单季质量(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿·自洽Q1 1.37亿+Q2 -0.349亿=H1 1.02亿) +8-02新增慕尚GXG 2025年报深化(借款9.035→4.113亿/零压力通勤定位/增利靠节流) +8-05新增太平鸟2026H1品牌·渠道拆解实际值(替换中报前瞻)：童装为共同亮点/乐町-22.02%为最大降幅/加盟体系承压为行业共性 | competitor, comparison, 2026Q1, 2026Q2 |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准]] ⭐ NEW | 帮衣帮服装专用AI平台：单图0.5元/10秒视频1.5元(**知识库首个AI生成单价基准**)/打样7天→1小时/虚拟模特1-2分钟/日活2-3万·日生成20万图/3个月300万案例/2-3人OPC团队跑通100家制衣厂；张槎底座3.7万家·600亿产值·300万吨面料·3亿件成衣 | ai, cost_benchmark, industry_cluster, foshan, source |
+| [[2026-08-05_迪尚集团_创意服饰产业大脑效率基准]] ⭐ NEW | 迪尚创意服饰产业大脑(2023山东试点/省级标杆)：研发定稿20天→5天(+75%,⚠️另有8天口径)/3000件外贸急单30天→7天(+80%)/串联5000余家主体/接入小微工厂订单+20%；"中心工厂+卫星工厂"链主平台模式 | ai, supply_chain, industrial_brain, flexible_manufacturing, shandong, source |
+| [[2026-08-05_苏豪时尚_智尚云平台数智化资源库]] ⭐ NEW | 苏豪智尚云(2025上线)：数字样衣4000款/数字面料11000款/实体样衣4000款/物料-55%/人力-30%/累计减少实物样衣超1万件/服务客户50余家；"智能生成—虚拟验证—工艺联动"闭环 | ai, digital_twin, sample_library, jiangsu, soe, source |
+| [[2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略]] ⭐ NEW | 太平鸟H1品牌四拆(男装11.96亿+1.38%/女装10.84亿+2.26%/童装3.90亿+3.62%/乐町1.81亿**-22.02%**)+渠道三拆(直营14.42亿+2.73%/加盟6.40亿**-10.32%**/线上7.71亿+3.06%·毛利率+4.33pct)+关店明细(男装-65/女装-37)+张江平"**弱化大众化路线**"+营收连降四年半(2021峰值109.21亿→2025 63.34亿) | peacebird, competitor, h1_2026, channel, strategy, source |
+| [[2026-08-05_服装行业科技创新大会_消费动力学大模型与数字员工]] ⭐ NEW | 依明科技"消费动力学"行业大模型(国内首个完成备案/等保三级/打通ERP·CRM/三大归一模型:品牌美学·人货匹配·经营演化)+森创启睿大森模型年RPA 12万天+潘志娟指高校人才匹配"长期严重不足"+海澜之家朱建龙校企五大融合 ⚠️含备案"唯一/首个"矛盾标记 | ai, industry_llm, compliance, digital_worker, talent, source |
 | [[2026-08-04_杭州纺织AI全链路_万事利垂直大模型]] ⭐ NEW | 杭州纺织AI全链路10大案例：万事利垂类大模型+TC68智能体设计数天→3秒/恒远具身机器人25秒上丝人力-83%/迪尚样衣20→8天/汇泉小单快返30%→80% | ai, agent, vertical_llm, embodied_robot, supply_chain, source |
 | [[2026-08-04_易元AI双引擎_服装电商测款]] ⭐ NEW | 易元AI双引擎：单月素材3000→2万+/判重42%→5%/测款30→9天(+70%)/成本12万→4.8万/投流ROI 1:0.8→1:3.2 | ai, ecommerce, content_generation, roi, source |
 | [[2026-08-04_波司登品牌价值1356.87亿]] ⭐ NEW | 波司登品牌价值1356.87亿(六度亮相四大时装周)/FY2026 273.5亿(+5.6%)/39.94亿(+13.7%)/BSD.AI头样100→27天/研发-60%/MSCI ESG AAA | bosideng, brand_value, ai, esg, source |
