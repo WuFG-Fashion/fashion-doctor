@@ -2,9 +2,9 @@
 type: concept
 title: AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
 tags: [ai, fashion_consumer, virtual_tryon, digital_human, agentic_commerce, consumer_behavior]
-sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-31_全球AI时尚零售落地信号2026.md]
+sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-31_全球AI时尚零售落地信号2026.md, 2026-08-06_VOGUE_Business_2026年AI将如何影响我们的衣橱.md]
 created: 2026-07-02
-updated: 2026-07-31
+updated: 2026-08-06
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[2026-05-30_安踏灵犀穿搭大模型]], [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]], [[burberry]], [[2026-07-31_全球AI时尚零售落地信号2026]]
 ---
 
@@ -106,6 +106,28 @@ cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[reta
 | 数字人直播 | 多品牌可共享数字人直播基础设施 |
 | 消费入口变化 | 品牌需优化产品数据以适应AI代理搜索 |
 | 退货率 | Phia退货-50%→AI辅助购物可降低退货率 |
+
+## VOGUE Business 批判视角：AI 造型师的现实边界 ⭐ 8月6日新增
+
+> 来源：[[2026-08-06_VOGUE_Business_2026年AI将如何影响我们的衣橱]]（VOGUE Business 2026）
+
+上一轮"AI技术天花板"段已记录虚拟试衣三维还原瓶颈，本源补充**平台侧落地重心**与**国际品牌助手**实证：
+
+### 国内落地重心：内容生产与导购
+- 京东 618 称实现"AI 首次全场景、全产业深度融入"，数字人自主完成策划/带货/复盘全流程
+- **数字人直播成本仅为达人直播的 1/10 不到**（TikTok 内部口径）
+- 品牌梯队：Burberry（双11 超半数成交来自数字人）/ Tommy Hilfiger（618 天猫男装数字人榜首）——与本文"AI数字人直播"段一致
+
+### 国际品牌 AI 购物助手
+- **Ralph Lauren Ask Ralph** / **Zegna Zegna X**（个性化客户顾问）——已列入本文"AI穿搭与数字分身"段
+- 安踏将 AI 作为系统性零售能力：穿搭大模型"灵犀" + AI 数字人直播
+
+### 虚拟试衣边界（与"AI技术天花板"段互证）
+- 三维结构 + 材质物理特性 + 人体关系缺乏标准化数据 → 版型/面料/廓形关系难准确判断，有时具误导性
+- 风格难量化：AI 难理解"为何某种风格因文化语境共鸣而流行"
+- 反面案例：豆包穿搭建议曾因逻辑混乱成热梗
+
+> 与 [[apparel_ai_agents_2026]] 的"数字人直播 ROI 双证据"段联动：VOGUE 提供"成本<达人1/10"的成本侧证据，安踏提供"GMV>3亿"的产出侧证据。
 
 ## 关联页面
 
