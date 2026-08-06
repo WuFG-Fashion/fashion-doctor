@@ -34,3 +34,4 @@ cross_refs: [[china_apparel_2025_annual]], [[china_apparel_industry_2026q1]], [[
 - [[china_apparel_2025_annual]] — 2025全年行业大盘（15215亿同源）
 - [[china_apparel_industry_2026q1]] — 2026Q1/H1运营基准（1-5月6425亿+7.2%）
 - [[apparel_ai_policy_2026]] — 纺织服装AI国家政策（同属国家级规划驱动）
+- [[2026-08-07_山西证券_2026H1社零点评|山西证券2026H1社零点评]] — 国务院7-13批复《扩大消费"十五五"规划》落地节点

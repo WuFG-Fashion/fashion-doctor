@@ -78,6 +78,7 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_20
 - [[china_apparel_2025_annual]] — 2025全年大盘
 - [[服装行业竞争格局]] — 竞争格局
 - [[apparel_supply_chain_profit_chasm_2026q1]] — 产业链利润分化
+- [[2026-08-07_同花顺_纺织行业2026H1形势观察|纺织行业2026H1形势观察]] — 纺织品730亿+3.5%/服装729.6亿-0.7%分化/兴发化纤+10.2%/愉悦家纺+18.2%
 
 ## 待验证
 - 美国4月单月暴增41.8%是否为关税窗口期囤货，需观察5-6月数据

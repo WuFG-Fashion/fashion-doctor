@@ -290,6 +290,7 @@ cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailin
 - [[china_apparel_2026q1_operations]] — 行业Q1基准
 - [[服装行业竞争格局]] — 行业格局
 - [[hm]] — H&M实体页
+- [[2026-08-07_商业新知_2026Q1服装业绩排行|2026Q1服装业绩排行]] — 安踏215.6亿居首/海澜森马太平鸟数值校验一致
 - [[top_sports]] — 滔搏实体页
 - [[apparel_inventory_benchmark_2026]] — 库存健康基准
 - [[2026-06-19_世界服饰网_2026天猫618服饰品牌排行榜]] — 世界服饰网：2026天猫618服饰品牌排行榜
