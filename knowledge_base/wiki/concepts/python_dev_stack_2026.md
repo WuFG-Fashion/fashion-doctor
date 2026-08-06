@@ -4,8 +4,8 @@ title: Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
 tags: [python, polars, devops, toolchain, uv, ruff, streamlit]
 sources: [2026-06-14_AIFutureThinkers_uv_Ruff_Ty_Polars_2026默认技术栈.md]
 created: 2026-06-14
-updated: 2026-06-14
-cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南2026]]
+updated: 2026-08-06
+cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
 # Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
@@ -111,6 +111,18 @@ quote-style = "double"
 | 类型安全 | mypy | Ty | 更现代的错误提示 |
 | 数据处理 | pandas | Polars(惰性) | 100万行+显著提速 |
 
+
+## 2026-08 环境基线刷新
+
+| 组件 | 2026-08 基线 | 说明 |
+|------|-------------|------|
+| Python | **≥ 3.11（pandas 3.0 硬性要求）**，推荐 3.13 | Streamlit 硬性最低 3.10 |
+| pandas | **3.0.4**（2026-06-28） | CoW 默认唯一、Arrow 字符串默认、`pd.col()` |
+| Streamlit | **1.55**（2026-04 稳定版） | Snowflake 主导，**每两周发一版** |
+| Plotly | **6.x** | 相对 5.x 有破坏性变更，需按 v6 迁移指南改 |
+
+升级顺序建议：先把 uv 环境的 Python 提到 3.11+，再升 pandas 2.3 消警告，最后跳 3.0。详见 [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] 与 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
+
 ## 关联页面
 
 [[polars_vs_pandas_2026]]
@@ -118,3 +130,5 @@ quote-style = "double"
 [[streamlit_production_dashboard|Streamlit生产级多品牌看板]]
 [[data_library_selection_guide_2026|数据分析库选型决策指南2026]]
 [[duckdb_olap_engine_2026|DuckDB嵌入式OLAP引擎]]
+- [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] — Pandas 3.0 版本与迁移基线 ⭐ NEW
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 看板侧版本组合基线 ⭐ NEW

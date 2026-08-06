@@ -4,8 +4,8 @@ title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
 sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛]
 created: 2026-06-07
-updated: 2026-07-31
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]] ⭐ NEW
+updated: 2026-08-06
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]] ⭐ NEW, [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -170,6 +170,7 @@ st.caption("⏰ 所有时间均为北京时间 (UTC+8)")
 - [[python_dashboard_ecosystem_2026]]
 - [[零售数据仓库SQL实践]]
 - [[polars_vs_pandas_2026]]
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 六框架横评、生产三大失效模式与迁移剧本 ⭐ NEW
 
 ## v1.57 Starlette部署更新（2026-06新增）
 
@@ -348,3 +349,22 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 - 对外分享（如给品牌方看销售）：Streamlit Cloud 零门槛，4 分钟上线。
 - Snowflake 重度用户：Container Runtime 跑长时实时 KPI + GPU 推理，无需自建基础设施。
 - 性能铁律：耗时 IO 必 `@st.cache_data`；Plotly 用 `mode='lines'` 或 `render_mode="webgl"` 防卡死。
+
+## 2026-08 生产审查清单（新增）
+
+上线前逐项过一遍，三条来自 2026 独立横评的高频生产事故：
+
+- [ ] **全局状态审查**：文件顶部有没有 `df = pd.read_csv(...)` 这类模块级加载？在同进程内它会被**所有会话共享**，一个店长的品牌筛选会泄漏进另一个店长的视图。只读数据必须包 `@st.cache_data`，可变状态必须进 `st.session_state`。
+- [ ] **大表阈值**：任何 `st.dataframe(df)` 前确认行数——约 1 万行良好，**超 5 万行浏览器崩溃**。SKU 级动销明细最容易越线，应服务端先聚合或分页。
+- [ ] **开发数据规模**：不要用几十行样例开发，**一开始就用 5 万行真实规模数据**，让缓存与渲染行为匹配生产。
+- [ ] **横向扩展**：`streamlit run` 不是多进程，生产扩容只能起多实例（Docker + 反代），不能指望单进程加线程。
+- [ ] **依赖版本**：Streamlit ≥ 1.55（2026-04 稳定版，每两周发版）、Plotly 6.x（相对 5.x 有破坏性变更）、pandas 3.x（CoW 默认，可清理历史遗留的防御性 `.copy()`）。
+- [ ] **升级前置**：pandas 3.0 要求 **Python ≥ 3.11**。
+
+### 何时应该迁移到 Dash
+
+出现以下任一情况即触发迁移评估：全局状态冲突已在生产咬人 / 需要 AG Grid 扛 5 万行以上表格 / 需要"此筛选只更新这三张图"的细粒度控制 / 需要在回调层强制按用户 RBAC。
+
+迁移基本是机械平移：`st.selectbox`→`dcc.Dropdown`、`st.slider`→`dcc.Slider`、`st.date_input`→`dcc.DatePickerRange`、`st.metric`→样式化 `html.Div`、`st.plotly_chart`→`dcc.Graph`；渲染逻辑包进 `@callback`。
+
+详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。

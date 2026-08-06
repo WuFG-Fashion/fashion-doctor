@@ -4,8 +4,8 @@ title: 2026年BI可视化在服装零售的选型与应用
 tags: [bi, visualization, dashboard, tool_selection, retail, superse, dataease, metabase, smartbi]
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构]
 created: 2026-06-13
-updated: 2026-07-09
-cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]]
+updated: 2026-08-06
+cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
 ---
 
 # 2026年BI可视化在服装零售的选型与应用
@@ -158,6 +158,30 @@ cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [
 | 中小连锁 | 一张总览看板起步（销售+库存+会员三维度） | DataEase/镝数图表/Streamlit |
 | 中大型集团 | 三层架构+四维打通+层层下钻 | 数据中台底座+SmartBI/Superset |
 
+
+## 2026-08 刷新：各厂商 AI 形态与零售适配
+
+| 工具 | 2026 AI 形态 | 零售适配要点 |
+|------|-------------|------------|
+| FineBI / FineBINext | 分析 Agent（战略推演 + **盲点发现**：用户问增长，Agent 主动点出复购下滑）+ 场景 Agent（周/月经营体检，钉钉/飞书/企微内对话） | 帆软连续 **8 年**中国 BI 市占率第一 **20.8%**，客户 36000+、社区 350 万+；业务人员可自传 Excel 拖拽多表关联，**无需 IT 提前建模** |
+| 观远数据 | 观远 GPT + Atlas 增强分析（自动洞察/归因/What-if）+ 移动端 AI 语音查询 | 零售连锁解决方案成熟；门店经营分析/渠道监控/促销效果评估 |
+| 瓴羊 Quick BI 智能小 Q | 语义理解 + 自动建模 + 多维下钻 + 预测 + 归因，**8–12 秒**出图并附结论 | 内置零售知识图谱，原生懂"动销率/坪效/连带率/O2O 履约率"；支持自定义业务词典（"爆款 = 周销 Top10 SKU"） |
+| Tableau | Tableau Agent 对话式分析 | 探索自由度极高但依赖用户懂"维度 vs 度量"；口径管理与指标体系统一弱于国内 BI |
+| Power BI | Copilot + Fabric | 完整 AI 功能需 Fabric **F64 容量（$8,000+/月）**；不适合需自主归因与主动预警的企业 |
+| 网易有数 | ChatBI = Text-to-SQL + 语义层 + LLM 三层架构 | 通过信创兼容性测试，央国企/金融规模落地 |
+| 九数云（帆软） | AI 助理 / AI 诊断 / AI 智能报告 | 面向非技术用户，**展示计算逻辑**便于校验 |
+
+### 选型判据的变化
+
+2026 年选型问题不再是"哪家图表好看"，而是三条：
+1. **能否继承既有权限体系**（ChatBI 权限复用决定多品牌隔离能否延续到对话层）
+2. **是否需要 IT 提前建模**（决定业务侧自助上限）
+3. **AI 能力的隐性成本**（如 Fabric F64 $8,000+/月 的容量门槛）
+
+主动预警是新的标配能力，三条可直接抄的规则：库存低于安全水位→推补货清单；门店连续 3 天客流下降→触发区域经营健康度报告；高价值会员沉默超 30 天→建议个性化唤醒；告警经钉钉/企微/短信直达责任人。
+
+详见 [[2026-08-06_AgenticBI与ChatBI零售落地实测]]。
+
 ## 关联页面
 
 - [[streamlit_dashboard_2026]] — Streamlit生产级看板（Python自建方案）
@@ -168,3 +192,4 @@ cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [
 - [[brand_config_driven_system|品牌配置驱动多品牌系统]] — 多品牌系统的配置层
 - [[2026-06-13_腾讯新闻_BI可视化工具排行2026]] — 来源
 - [[2026-06-13_DataEase_开源BI三剑客对比2026]] — 来源
+- [[2026-08-06_AgenticBI与ChatBI零售落地实测]] — 各厂商 AI 形态刷新与主动预警规则 ⭐ NEW

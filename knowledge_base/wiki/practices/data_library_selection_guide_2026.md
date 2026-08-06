@@ -4,8 +4,8 @@ title: 数据分析库选型决策指南（2026版）
 tags: [polars, duckdb, pandas, python, selection, decision_tree, retail]
 sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
 created: 2026-06-09
-updated: 2026-07-06
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[arrow_zero_copy_interop_2026]]
+updated: 2026-08-06
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
 ---
 
 # 数据分析库选型决策指南（2026版）
@@ -115,6 +115,23 @@ def quality_check(brand: str) -> pl.DataFrame:
 - [ ] 是否完成了Parquet格式迁移？（列式存储是关键性能前提）
 - [ ] 是否探索了DuckDB的适用场景？（SQL>DataFrame时直接切换）
 
+
+## 2026-08 更新：Pandas 3.0 改变了选型的理由
+
+pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）后，"因为 Pandas 慢所以换 Polars"的老理由部分失效：
+
+- 字符串列默认 PyArrow 后端，`.str` 操作快 **5–10 倍**（`.str.upper()` 达 30 倍以上），100 万个 6 字符编码列内存 **80MB → 12MB**——服装的款号/色号/尺码/门店编码正是这个形状
+- CoW 默认唯一，底层尽量用视图，历史上为消警告写的防御性 `.copy()` 可以删掉
+- Arrow PyCapsule 双向接口让 pandas ↔ Polars ↔ DuckDB 换手零拷贝
+
+**更新后的选型规则**：
+1. 大体量清洗聚合（千万行以上）→ Polars
+2. 仓内聚合与 SQL 表达 → DuckDB
+3. 生态兼容、建模、与 sklearn/statsmodels 衔接 → pandas 3.x
+4. 三者之间换手一律走 Arrow，不落盘不序列化
+
+前置条件：**Python ≥ 3.11**；`dtype == object` 判字符串的存量代码需改 `pd.api.types.is_string_dtype()`。详见 [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]。
+
 ## 关联页面
 - [[polars_vs_pandas_2026]] — 三引擎完整选型对比
 - [[duckdb_olap_engine_2026]] — DuckDB嵌入式OLAP详解
@@ -123,6 +140,7 @@ def quality_check(brand: str) -> pl.DataFrame:
 - [[multi_brand_unified_analytics]] — 多品牌统一分析
 - [[SQL查询性能优化]] — SQL性能优化三维法
 - [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] — 1000万行/5GB三引擎实测126x
+- [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] — Pandas 3.0 能力边界刷新 ⭐ NEW
 
 ## 模板3：50GB超大文件混合流水线（2026-06新增）
 

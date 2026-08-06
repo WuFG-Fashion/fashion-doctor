@@ -4,8 +4,8 @@ title: ETL治理一体化演进2026
 tags: [etl, data_governance, integration, data_quality, architecture, multi_brand]
 sources: [2026-06-12_帆软_ETL集成治理一体化, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]
 created: 2026-06-12
-updated: 2026-07-25
-cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]]
+updated: 2026-08-06
+cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 ---
 
 # ETL治理一体化演进2026
@@ -83,12 +83,27 @@ cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2
 2. 质量规则能否嵌入集成流程？（非独立运行）
 3. 修复成本是否从消费环节降到产生环节？
 
+
+## 2026-08 补充：治理内建于管道的国际对照
+
+Databricks 栈给出了"治理不是旁路系统而是管道内建能力"的完整实现，可与本页国内路线交叉验证：
+
+| 组件 | 治理职能 |
+|------|---------|
+| **Delta Live Tables** | 声明式管道 + 内建数据质量约束——转换要么通过质检、要么**管道停止并告警**，而不是静默产出错误数字 |
+| **Delta Lake 时间旅行** | 可查询任意历史时点数据。业务问"Q1 收入为什么上周和这周不一样"时可精确复现两个状态 |
+| **Unity Catalog** | 集中访问控制 + 从原始摄取到 BI 看板的**全链路血缘** + PII 分类，是让 ELT 栈可审计合规的关键 |
+| **dbt** | 版本控制 + 测试 + 文档，把软件工程纪律引入过去无人敢改的临时 SQL |
+
+对照结论：国内"数据治理平台 + AI 原生"路线与国际"治理内建于 ELT 管道"路线在能力项上高度重合（质量约束、血缘、分类分级），差异主要在**交付形态**——前者是独立治理平台，后者是数仓平台的内建层。详见 [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]。
+
 ## 关联页面
 - [[ETL架构选型|ETL 架构选型]]
 - [[data_quality_governance|数据质量常态化治理]]
 - [[data_lakehouse_2026|湖仓一体 2026]]
 - [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
 - [[2026-06-12_帆软_ETL集成治理一体化]]
+- [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]] — Delta Live Tables/Unity Catalog 治理内建对照 ⭐ NEW
 
 ## 2026 实时数据流成刚需 + 低代码提效（2026-07新增）⭐
 

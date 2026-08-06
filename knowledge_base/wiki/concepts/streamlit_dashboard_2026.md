@@ -4,8 +4,8 @@ title: Streamlit 2026生产级最佳实践
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛]
 created: 2026-06-07
-updated: 2026-07-31
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]]
+updated: 2026-08-06
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -290,9 +290,23 @@ v1.60（2026-07-21）以安全加固为核心，含多项 breaking 安全变更�
 
 > 服装零售多品牌看板：导出管控 + widget state 限流 + 防注入三者组合，满足零售数据安全合规。
 
+
+## 2026-08 生产红线补充
+
+独立横评（UseDataBrain 2026）对 Streamlit 给出三条与官方文档互补的边界，全部指向生产多用户场景：
+
+1. **模块级全局变量跨会话共享**——文件顶部加载的 DataFrame 在同一进程内被所有会话共用，改动互串。这是"看起来很干净的代码部署后出的头号生产 bug"，也是上多用户流量时考虑 Dash 的首要理由。
+2. **`st.dataframe` 的行数阈值**——底层 Arrow + glide 渲染，约 1 万行表现良好，**超过 5 万行崩溃**；纯 Streamlit 无 AG Grid 等价物，`streamlit-aggrid` 为第三方且维护不够活跃。
+3. **`streamlit run` 不是多进程**——生产扩展只能横向起多实例，不能靠单进程加线程。
+
+版本基线：**1.55（2026-04 稳定版）**，Snowflake 主导每两周发版，硬性最低 Python 3.10。三条官方入口：浏览器 Playground → Community Cloud（仅公开应用、免费、只需 GitHub 账号）→ Snowflake（无限私有应用 + 企业级安全）。
+
+详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
+
 ## 关联页面（续）
 - [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW
 - [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 生产三大失效模式与版本基线 ⭐ NEW
 
 ## Streamlit 2026 生产部署三路线（2026-07新增）⭐
 

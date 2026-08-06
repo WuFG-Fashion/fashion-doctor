@@ -4,8 +4,8 @@ title: 2026 Python看板生态系统
 tags: [python, dashboard, streamlit, dash, gradio, comparison]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard]
 created: 2026-06-07
-updated: 2026-06-22
-cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]]
+updated: 2026-08-06
+cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
 # 2026 Python看板生态系统
@@ -73,3 +73,33 @@ cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL
 - [[polars_vs_pandas_2026]]
 
 - [[2026-06-07_Python看板框架对比2026]]
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 六框架横评与生产三大失效模式 ⭐ NEW
+
+## 2026-08 刷新：三框架格局扩展为六框架
+
+| 框架 | 交付周期 | 最适合 | 崩溃点 |
+|------|---------|-------|-------|
+| Streamlit | 1–3 天 | 内部数据科学看板、原型 | 多用户状态、细粒度交互、渲染超 5 万点 |
+| Dash | 1–2 周 | 企业级多页应用、精细回调、大表 | 学习曲线陡；超约 30 个组件后回调链失控 |
+| Gradio | 1–2 天 | AI/LLM 看板、模型演示、聊天 UI | 不像模型演示的形状 |
+| **Reflex** | 2–4 周 | 纯 Python 全栈 + React 级前端 | 生态小；SSR + 状态模型有尖角 |
+| **Panel (HoloViz)** | 1–2 周 | 科学计算看板（HoloViews/Bokeh/Datashader） | 社区小、可查答案少 |
+| **NiceGUI** | 1 周 | 既要看板又要表单的内部工具 | 小众但在成长 |
+
+### 版本基线（2026-04）
+
+**Streamlit 1.55** 为当前稳定版，Snowflake 主导下**每两周发一版**，硬性最低 Python 3.10；推荐组合 Python 3.13 + pandas 3.x + Plotly 6.x（Plotly 6 相对 5.x 有破坏性变更）。
+
+### 生产三大失效模式（新增）
+
+| # | 失效模式 | 现象 | 处置 |
+|---|---------|------|------|
+| 1 | **模块级全局状态泄漏** | 文件顶部 `df = pd.read_csv(...)` 在同进程所有会话间共享，一个用户的筛选泄漏进另一个用户视图 | 可变状态进 `st.session_state`，只读数据用 `@st.cache_data`；多用户生产考虑 Dash（回调无状态 + `dcc.Store` 按浏览器会话作用域） |
+| 2 | **大表渲染崩溃** | `st.dataframe` 约 1 万行良好、**超 5 万行崩溃** | 服务端先聚合/分页；重心是大表用 **Dash AG Grid（可扛 10 万行以上）** |
+| 3 | **玩具数据幻觉** | 3 行数据演示，5 万行生产数据卡死 | 一开始就用 5 万行真实规模数据做开发基线 |
+
+### 部署差异补充
+
+`streamlit run` **不是多进程**，只能横向多实例扩展；Dash 本质是普通 Flask 应用，gunicorn 生产扩展更干净。
+
+详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。

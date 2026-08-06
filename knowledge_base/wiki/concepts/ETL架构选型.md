@@ -4,8 +4,8 @@ title: ETL架构选型
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06
-updated: 2026-07-12
-cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-06-24_2026主流ETL工具横向评测]]
+updated: 2026-08-06
+cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-06-24_2026主流ETL工具横向评测]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 ---
 
 # ETL架构选型
@@ -203,5 +203,43 @@ SegmentFault 2026年3月对Kettle/DataX/Informatica/DataStage/FineDataLink/ETLCl
 ### 制造集团案例
 某制造集团10+套系统（ERP/MES等）→ FineDataLink统一数仓：ETL **4h→30min**，集成效率+75%。
 
+
+## 2026-08 刷新：ETLT 混合成为主流方案
+
+### 三模式定位收敛
+
+| 模式 | 典型场景 | 平台举例 | 优势 | 劣势 |
+|------|---------|---------|------|------|
+| ETL | 金融、制造、规范化 BI | Informatica、DataStage、FDL | 数据质量高、流程规范 | 性能瓶颈、扩展性差 |
+| ELT | 互联网、**零售**、湖仓 | Snowflake、BigQuery、FDL | 扩展性强、实时能力好 | 数据治理难度较大 |
+| **ETLT 混合** | 传统 + 新兴业务混合 | FDL、Databricks | 灵活、兼容性强 | 运维复杂、选型难 |
+
+**90% 中大型企业不再二选一**，采用单平台双模式切换：核心交易/主数据/敏感报表走 ETL 前置清洗；海量日志/用户行为/实时分析走 ELT 快速入库；全场景增量统一依赖 **CDC 变更捕获**实现毫秒级。
+
+### 服装零售的两条硬性 ETL 场景
+
+1. **日数据百万条以内的中小零售**：ERP/进销存/门店 POS 体量小、无分布式数仓，仅需 T+1 报表，ETL 部署简单运维低
+2. **主数据 MDM 统一分发**：款-色-码、组织、客户主数据清洗后分发下游，必须靠 ETL 保证唯一主键与统一编码，确保**全集团口径一致**
+
+### 电商数据工程四层栈
+
+数据源 → ELT 摄取（Fivetran/Airbyte）→ 数仓（Snowflake/BigQuery/Databricks/Redshift 四大主流）→ **dbt 建模三层：staging（与源表一对一，隔离源变更）→ intermediate（连接整形）→ mart（面向消费者，直供 BI）**。
+
+价值：业务问"这个收入数字从哪来"，答案是 **dbt 血缘图**而非资深工程师口头传承。ETL/ELT 工具市场 **2026 年规模超 100 亿美元**。
+
+### ⚠️ 混合陷阱（Hybrid Trap）
+
+**最昂贵的环境是 ETL 与 ELT 管道都写入同一报表层且无明确归属边界**——业务逻辑分裂两处、产出略有差异的数字、没人确定哪个对。若同时跑两种模式，必须严格隔离：**不同源域 / 不同目标 schema / 清晰归属**。
+
+迁移不必一刀切，但应确立铁律：**从今天起每条新管道都是 ELT**，遗留 ETL 在替换模型验证输出一致后系统性退役。
+
+### 两个隐形雷
+
+- **供应商主数据最常被忽略**：成本、交货周期、规格直接决定定价与毛利报表；只做客户订单集中化而把供应商数据留在邮箱 = 只解决一半问题
+- **连接器静默失败**：源平台改 API 时集成可能悄悄停同步，**三周无人察觉**
+
+详见 [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]。
+
 ## 关联页面（续）
 - [[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]] ⭐ NEW
+- [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]] — ETLT 混合主流化、四层栈与混合陷阱 ⭐ NEW

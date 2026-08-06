@@ -4,8 +4,8 @@ title: 湖仓一体2026架构
 tags: [data_lakehouse, apache_iceberg, data_warehouse, etl, architecture, middle_platform]
 sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunqitech/article/details/161721479, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-12_IT之家_数据治理平台选型2026, 2026-06-13_百家号_五大厂商数据中台全景拆解2026, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型]
 created: 2026-06-08
-updated: 2026-07-31
-cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]]
+updated: 2026-08-06
+cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 ---
 
 # 湖仓一体2026架构
@@ -81,6 +81,7 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 - [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]]
 - [[2026-06-11_FineDataLink_数据中台搭建方案2026]]
 - [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]]
+- [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]] — 四大数仓平台选型判据 ⭐ NEW
 
 ## 2026年五大数据中台AI智能体协同（2026-06新增）
 
@@ -295,3 +296,18 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 - 多品牌统一底座：锁定 **Apache Iceberg** 标准，Polars/DuckDB/Spark 共享同一份多品牌 Parquet，免重写。
 - 实时分析层：StarRocks 直查湖上 Iceberg，适合多品牌经营驾驶舱秒级响应。
 - 选型：中型集团 StarRocks（开源直查）叠加 Databricks（数据工程+AI）；纯 BI 报表优先 Snowflake。
+
+## 2026-08 补充：数仓选型的实际判据
+
+四大主流平台（2026）的电商/零售适配对照：
+
+| 平台 | 典型强项 | 零售电商考量 |
+|------|---------|------------|
+| Snowflake | 预建集成生态强、存算分离干净 | 被 reverse ETL 与 BI 工具广泛支持，中型电商常见默认选择 |
+| BigQuery | 与 Google 广告/分析生态紧密 | Google Ads / GA 是营销核心时天然契合 |
+| Databricks | 结构化 + 非结构化（图像/文本）+ ML | 计算机视觉目录处理、较重 ML 建模 |
+| Redshift | AWS 生态深度集成 | 履约或基础设施已在 AWS |
+
+**关键判断**：没有一个在孤立意义上是错误选择；更重要的是与现有技术栈（云厂商、广告平台、ML 工具）最自然集成，而非逐条比功能。**换仓后期可行但代价高昂**，值得第一次就选对。
+
+详见 [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]。

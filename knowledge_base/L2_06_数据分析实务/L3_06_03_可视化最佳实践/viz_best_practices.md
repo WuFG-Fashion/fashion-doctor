@@ -172,3 +172,13 @@ fig.update_layout(width=800)  # 不要固定宽度
 - **AI集成**：内置AI代理技能、streamlit skills CLI、`:shimmer[]`动画文本
 - **pandas 3.x支持**（v1.56）
 - 详见 [[streamlit_dashboard_2026]] [[2026-06-14_Streamlit_2026v1.53-1.58全版本新特性]]
+
+## 2026年8月6日更新（C轮 L2_06/07采集）
+
+### 从"智能洞察"到"消灭取数排队" + 看板框架格局扩展（来源：恒石/观远 AgenticBI 实测 + UseDataBrain 看板横评，日期：**2026-08**，可信度：**高**）
+
+- **报表体系价值锚点下移**：恒石 200+ 门店 10 周三阶段（指标中台 4 周 → 看板嵌入 3 周 → ChatBI 3 周）→ 取数响应 1–2 天 → **30 秒内**、业务自主取数 30% → **85%**、低代码生成 **80% 报表**、年省研发 **300 万+**、转化率 **+25%**
+- **顺序不可颠倒**：跳过指标中台直接上对话层，准确率从 90%+ 掉到不可用——口径统一是对话式分析的地基
+- **看板框架三→六**：Streamlit / Dash / Gradio / Reflex / Panel(HoloViz) / NiceGUI；自建看板（Streamlit，1–3 天）vs 嵌入（Databrain/Metabase/Cube，1–5 天）vs 大表（Dash + AG Grid）边界清晰
+- **生产三大失效模式**：模块级全局状态泄漏 / `st.dataframe` 超 5 万行崩溃 / 玩具数据幻觉
+- 详见 [[2026-08-06_AgenticBI与ChatBI零售落地实测]] [[2026-08-06_Python看板六框架横评与生产三大失效模式]] [[bi_dashboard_retail_deployment]]

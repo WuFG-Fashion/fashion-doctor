@@ -4,8 +4,8 @@ title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准, 2026-07-28_CSDN_Polars_2.0_清洗范式跃迁, 2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]
 created: 2026-06-06
-updated: 2026-07-31
-cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]], [[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]], [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]]
+updated: 2026-08-06
+cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]], [[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]], [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
 ---
 
 # Polars vs Pandas vs DuckDB 2026选型指南
@@ -235,6 +235,7 @@ pdf = features.to_pandas()
 - [[retail_analytics_reporting_2026]]
 - [[python_data_stack_decision_2026|Python数据栈边界决策框架]] ⭐ NEW
 - [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] ⭐ NEW
+- [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] — Pandas 3.0 正式版基准（影响对照组口径）⭐ NEW
 
 ## Python项目默认技术栈2026（2026-06新增）
 详见 [[python_dev_stack_2026]] — uv+Ruff+Ty+Polars四件套替代传统8+工具链，统一pyproject.toml配置
@@ -923,3 +924,13 @@ Streaming 处理大于内存的数据集（`scan_csv().collect(streaming=True)` 
 > 生态兼容断层：polars 对接 scikit-learn 需 `to_pandas()` 桥接。服装零售：多品牌 TB 级 ETL（POS/ERP/WMS 异构日志合并）可用 Polars 2.0 单机替代部分 Spark 任务；优先 `scan_*` + LazyFrame + `streaming=True`；缺失值按组广播填充 `fill_null(col.mean().over("category"))`。
 
 > ⚠️ **软口径提示**：本批 5.7–6.7× 清洗加速为 1.2B 行 CSV 特定负载；与 kb_benchmarks `polars_vs_pandas_speed_multiplier=8`（通用聚合基准）口径不同（workload 不同），不构成硬矛盾。
+
+## Pandas 3.0 正式版对基准口径的影响（2026-08-06）
+
+pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polars vs Pandas" 基准的对照组（Pandas 2.x + object 字符串）已经过时，需注意三点口径变化：
+
+1. **字符串密集型场景差距收窄**：Pandas 3.0 字符串列默认走 PyArrow 后端，`.str` 系操作快 5–10 倍、极端场景（`.str.upper()`）30 倍以上，内存最多降 50%。服装数据里款号/色号/尺码/门店编码都属此类，旧基准中 Polars 的字符串优势会被显著压缩。
+2. **CoW 消除冗余拷贝**：Pandas 3.0 底层尽量用视图、仅在写入共享数据时才复制，此前为消 `SettingWithCopyWarning` 而写的防御性 `.copy()` 造成的额外开销消失。
+3. **零拷贝换手不再有损耗**：双方都支持 Arrow PyCapsule 双向接口，"Polars 做清洗 → Pandas 做建模"的混合用范式换手成本趋近于零，进一步支持本库既有的"混合用而非二选一"结论。
+
+> **结论不变但理由更新**：仍推荐 Polars 承担大体量清洗聚合、Pandas 承担生态兼容与建模；但选型理由从"Pandas 太慢"转为"分工不同"。详见 [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]。

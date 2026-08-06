@@ -515,3 +515,16 @@ your_project/
 - **Polars Arrow零拷贝**（v1.57）：直接传Polars DataFrame给Streamlit
 - **pandas 3.x支持**（v1.56）
 - 详见 [[streamlit_dashboard_2026]] [[streamlit_production_dashboard]]
+
+## 2026年8月6日更新（C轮 L2_06/07采集）
+
+### Python看板框架与生产三大失效模式（来源：UseDataBrain 独立横评，日期：**2026-08**，可信度：**高**）
+
+- **六框架格局**：Streamlit / Dash / Gradio / Reflex / Panel(HoloViz) / NiceGUI；三框架扩展为六框架，选型从"哪个好看"变为"交付周期 × 最适合场景 × 崩溃点"
+- **生产三大失效模式**（2026 独立横评高频生产事故）：
+  1. **模块级全局状态泄漏**：文件顶部 `df = pd.read_csv(...)` 在同进程所有会话间共享，一个店长的品牌筛选泄漏进另一个店长视图 → 只读数据包 `@st.cache_data`，可变状态进 `st.session_state`
+  2. **大表渲染崩溃**：`st.dataframe` 约 1 万行良好、**超 5 万行崩溃** → 服务端先聚合/分页，大表用 Dash AG Grid（扛 10 万行+）
+  3. **玩具数据幻觉**：用 3 行演示、5 万行生产卡死 → 一开始就以 5 万行真实规模开发
+- **版本基线**：Streamlit **1.55**（2026-04 稳定版，Snowflake 主导每两周发版）；Plotly **6.x** 相对 5.x 有破坏性变更；pandas **3.0** 要求 **Python ≥ 3.11**
+- **何时迁移 Dash**：全局状态冲突已在生产咬人 / 需 AG Grid 扛 5 万行+ / 需细粒度按控件更新 / 需回调层按用户 RBAC
+- 详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]] [[streamlit_production_dashboard]]

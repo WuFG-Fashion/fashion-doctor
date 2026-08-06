@@ -4,8 +4,8 @@ title: BI看板在服装零售的部署与落地实操
 tags: [bi, dashboard, deployment, retail, superse, dataease, streamlit, multi_brand]
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026]
 created: 2026-06-13
-updated: 2026-06-13
-cross_refs: [[retail_bi_visualization_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]], [[brand_config_driven_system|品牌配置驱动多品牌系统]]
+updated: 2026-08-06
+cross_refs: [[retail_bi_visualization_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
 # BI看板在服装零售的部署与落地实操
@@ -148,6 +148,34 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 | 4 | 权限管理缺失 | Superset用RBAC，DataEase用部门/角色权限 |
 | 5 | 运维成本超预期 | 开源方案初期投入开发人力，稳定后运维成本低于商业方案 |
 
+
+## 2026-08 更新：10 周三阶段落地路径与"不该自建"边界
+
+### 可直接套用的 10 周路径（恒石 200+ 门店案例）
+
+| 阶段 | 周期 | 交付物 | 验收口径 |
+|------|------|-------|---------|
+| 一、指标中台 | 4 周 | 50 个核心指标清单 + 原子指标 HQL 表达式 + 语义标注向量化 | 财务/运营/营销对同一指标取数结果一致 |
+| 二、看板与嵌入 | 3 周 | 经营总览/门店运营/促销效果/会员分析四大看板 + 嵌入门店/会员/促销系统 + SSO 权限映射 | 业务人员在原系统内直接看到分析，不跳转 |
+| 三、对话入口 | 3 周 | ChatBI Agent 一级入口 + 钉钉 ChatBot + 日报自动推送 | 群内提问 30 秒内返回 |
+
+**顺序不可颠倒**：跳过指标中台直接上对话层，准确率会从 90%+ 掉到不可用——口径统一是对话式分析的地基。
+
+### 目标值参考
+
+取数响应 1–2 天 → **30 秒内**；数据准备 2–3 天 → 即时；业务自主取数比例 30% → **85%**；低代码自主生成 **80% 报表**。
+
+### 自建 vs 嵌入的判定边界
+
+| 场景 | 结论 | 依据 |
+|------|------|------|
+| 内部经营看板（总部/区域/门店） | **自建 Streamlit**，1–3 天出货 | 迭代快、业务可参与 |
+| 大表为中心的分析（十万行明细） | Dash + AG Grid | Streamlit `st.dataframe` 超 5 万行崩溃 |
+| 加盟商/客户侧多租户看板 | **不要自建，直接嵌入** | 自建需 4–8 周做 auth+RBAC+多租户+导出+定时邮件层；嵌入 Databrain/Metabase/Cube 仅 **1–5 天** |
+| 静态周报 PDF/邮件 | Quarto 或 Jupyter 管道 | 实时看板框架是杀鸡用牛刀 |
+
+详见 [[2026-08-06_AgenticBI与ChatBI零售落地实测]] 与 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
+
 ## 关联页面
 
 - [[retail_bi_visualization_2026]] — BI可视化选型理论
@@ -158,3 +186,5 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 - [[零售数据仓库SQL实践]] — 数据仓库SQL模板
 - [[2026-06-13_腾讯新闻_BI可视化工具排行2026]]
 - [[2026-06-13_DataEase_开源BI三剑客对比2026]]
+- [[2026-08-06_AgenticBI与ChatBI零售落地实测]] — 10 周三阶段落地路径与效果基线 ⭐ NEW
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 自建 vs 嵌入边界与框架选型 ⭐ NEW
