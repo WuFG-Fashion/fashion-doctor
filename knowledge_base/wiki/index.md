@@ -41,6 +41,7 @@ updated: 2026-08-07
 | [[jiumuwang]] ⭐ NEW | 九牧王601566，2026H1预告归母净利3000-4500万(-74%~-83%)/扣非+24%~+49%/金融资产-1.1亿拖累/股价年内-34%，男装"裤王"主业企稳但投资端承压 | brand, competitor, menswear, financial, profit_warning |
 | [[安奈儿]] ⭐ NEW | 安奈儿002875，童装A股，2026H1归母亏损320-600万(较上年2869.88万收窄79%-89%)/扣非同步改善，产品渠道优化+降本增效减亏但仍未扭亏 | brand, competitor, childrenswear, a_share |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
+| [[moco_epo]] ⭐ NEW | MO&Co./EPO集团：五级会员分层，会员贡献82%/老客复购51%/VIP复购35-45%，中高端女装会员运营对标样本 | moco, epo, competitor, womenswear, membership, vip |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
@@ -661,6 +662,15 @@ updated: 2026-08-07
 | [[2026-07-23_中国服装协会_1-5月行业运行简报]] ⭐ NEW | 1-5月最新：营收3932.96亿(-3.75%)/利润102.77亿(-11.41%)/利润率2.61%/内销+7.4%/出口-1.6%/对美5月+22.7% | industry, kpi, benchmark, export, domestic_sales |
 | [[2026-07-23_广发证券_Inditex_FY2026Q1深度]] ⭐ NEW | 广发证券深度：营收超彭博预期/存货周转93.70天(-4.41天)/Q2初期+11.5%/CAPEX 23亿€ | inditex, zara, competitor, financial, quarter_report |
 | [[2026-07-23_天风证券_森马Q1深度与分红]] ⭐ NEW | 天风国际深度：净利+45%/扣非+54%/分红率90%/存货28.7亿/上调2026E净利至10.9亿/PE 15x | semir, competitor, financial, dividend, childrenswear |
+
+| [[2026-08-07_江南布衣_会员活跃口径与权益机制拆解]] ⭐ NEW | 江南布衣会员活跃严口径(180天/2次)；会员池2021→2025 41→59万，高价值20→34万(+70%)，人均1.32→1.44万元 | membership, jnby, repurchase, active_definition, vip |
+| [[2026-08-07_MOCo_EPO会员五级分层与VIP复购基准]] ⭐ NEW | MO&Co./EPO五级门槛(银5k/金15k/白金30k/黑金50k/钻石100k+)；VIP复购35-45% vs 普通15-25%，会员贡献82%，老客复购51% | membership, moco, epo, vip_tier, repurchase, benchmark |
+| [[2026-08-07_帷幄_鞋服导购四象限评估与五项行为指标]] ⭐ NEW | 能力×产出四象限；潜力型(高能力低产出)占不达标人员20-30%根因是排班错配；五项行为指标使连带率+8-15%、转化率+10-20% | guide, performance, evaluation, kpi, retail |
+| [[2026-08-07_数字孪生店长_排班自动化与店长工时再分配]] ⭐ NEW | 店长40%工时可自动化；排班3小时/周→20分钟(-89%)，带教占比25%→35-40%，人效+8-12%，高峰覆盖率65-70%→85%+ | guide, ai, store_manager, scheduling, labor_efficiency |
+| [[2026-08-07_零售人效三层指标与弹性排班四杠杆]] ⭐ NEW | 人效三层基准：人均销售8-12万/月、SPH 400-600元、人力成本率8-12%；排班吻合度90-110%、高峰覆盖≥85%；新人90天留存55-65% | guide, hr, labor_efficiency, scheduling, benchmark |
+| [[2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间]] ⭐ NEW | SKU年自增12-18%；复杂度五区间(多数品牌在稀释区)；五步减法后SKU-15~25%、销售持平~+5%、售罄率+3-8pct、断码率-20~30% | merchandise, sku, rationalization, assortment, benchmark |
+| [[2026-08-07_单款店均效率SPS与款式宽度反推模型]] ⭐ NEW | SPS(单款店均销量)健康≥8件/预警<5件/偏窄>20件；100㎡店120-180款、200㎡店200-280款；超上限20%后坪效不升反降 | merchandise, sps, assortment_width, planning, kpi |
+| [[2026-08-07_商品企划日历倒排周期与波段配比]] ⭐ NEW | 期货制T-9到T共9个月倒排节点；快反30-45天占20-40%(女装40-50%/男装15-25%)；波段首波30-35%，>45%为典型错误 | merchandise, gtm_calendar, wave, quick_response, planning |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
