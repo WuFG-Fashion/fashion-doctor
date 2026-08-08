@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-08",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "26 个 wiki/entities 文件 + 52 个 wiki/concepts 文件",
+    "files_scanned": "27 个 wiki/entities 文件 + 52 个 wiki/concepts 文件",
     "data_points": "240+条数值",
-    "last_scan": "2026-08-05"
+    "last_scan": "2026-08-08"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -292,7 +292,11 @@
       "sales": 0.4,
       "selling": 0.35,
       "stability": 0.25
-    }
+    },
+    "attach_rate_boost": [
+      0.08,
+      0.15
+    ]
   },
   "ai_adoption": {
     "retail_adoption_rate": 0.91,
@@ -481,5 +485,209 @@
       "education_retention_boost_pp": 27,
       "retail_frequency_boost": "1.2→2.8次"
     }
+  },
+  "sku_rationalization": {
+    "source": "wiki/sources/2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间.md",
+    "annual_sku_creep": [
+      0.12,
+      0.18
+    ],
+    "transfer_rate_with_substitute": [
+      0.6,
+      0.8
+    ],
+    "transfer_rate_without_substitute": [
+      0.2,
+      0.4
+    ],
+    "reduction_target": [
+      0.15,
+      0.25
+    ],
+    "sell_through_lift_pct": [
+      0.03,
+      0.08
+    ],
+    "dead_stock_reduction_pct": [
+      0.2,
+      0.3
+    ],
+    "inventory_turnover_lift_per_year": [
+      0.5,
+      1.0
+    ],
+    "sales_change_range": [
+      0.0,
+      0.05
+    ],
+    "guide_memorizable_styles": [
+      40,
+      60
+    ]
+  },
+  "sps_model": {
+    "source": "wiki/sources/2026-08-07_单款店均效率SPS与款式宽度反推模型.md",
+    "sps_healthy": 8,
+    "sps_warn": 5,
+    "sps_too_narrow": 20,
+    "store_styles_100sqm": [
+      120,
+      180
+    ],
+    "store_styles_200sqm": [
+      200,
+      280
+    ],
+    "perf_inflection_over_limit_pct": 0.2,
+    "category_sps": {
+      "basic": [
+        15,
+        30
+      ],
+      "core": [
+        8,
+        15
+      ],
+      "image": [
+        2,
+        5
+      ],
+      "accessory": [
+        20,
+        40
+      ]
+    }
+  },
+  "labor_efficiency": {
+    "source": "wiki/sources/2026-08-07_零售人效三层指标与弹性排班四杠杆.md",
+    "sales_per_head_month_median": [
+      80000,
+      120000
+    ],
+    "sales_per_head_month_excellent": 150000,
+    "sph_median": [
+      400,
+      600
+    ],
+    "sph_excellent": 800,
+    "labor_cost_ratio_healthy": [
+      0.08,
+      0.12
+    ],
+    "labor_cost_ratio_warning": 0.15,
+    "scheduling_fit_range": [
+      0.9,
+      1.1
+    ],
+    "peak_coverage_min": 0.85,
+    "monthly_turnover_median": [
+      0.04,
+      0.06
+    ],
+    "monthly_turnover_warning": 0.08,
+    "new_hire_90d_retention_median": [
+      0.55,
+      0.65
+    ],
+    "new_hire_90d_retention_excellent": 0.75,
+    "flex_levers_cost_reduction_pct": [
+      0.015,
+      0.03
+    ],
+    "flex_levers_sph_boost_pct": [
+      0.12,
+      0.18
+    ],
+    "flex_levers_peak_loss_reduction_pct": [
+      0.2,
+      0.3
+    ]
+  },
+  "guide_four_quadrant": {
+    "source": "wiki/sources/2026-08-07_帷幄_鞋服导购四象限评估与五项行为指标.md",
+    "potential_type_share_of_underperformers": [
+      0.2,
+      0.3
+    ],
+    "demand_questions_median": [
+      2,
+      3
+    ],
+    "demand_questions_excellent": 5,
+    "attach_rate_boost_pct": [
+      0.08,
+      0.15
+    ],
+    "reception_conversion_boost_pct": [
+      0.1,
+      0.2
+    ],
+    "low_performer_improvement_days": [
+      30,
+      60
+    ]
+  },
+  "digital_twin_store_manager": {
+    "source": "wiki/sources/2026-08-07_数字孪生店长_排班自动化与店长工时再分配.md",
+    "automatable_hours_share": 0.4,
+    "scheduling_time_reduction_pct": 0.89,
+    "coaching_time_share_before": 0.25,
+    "coaching_time_share_after": [
+      0.35,
+      0.4
+    ],
+    "labor_efficiency_boost_pct": [
+      0.08,
+      0.12
+    ],
+    "peak_coverage_before": [
+      0.65,
+      0.7
+    ],
+    "peak_coverage_after": 0.85,
+    "traffic_history_weeks": [
+      8,
+      12
+    ]
+  },
+  "merchandise_calendar": {
+    "source": "wiki/sources/2026-08-07_商品企划日历倒排周期与波段配比.md",
+    "futures_lead_time_months": 9,
+    "sample_review_elimination_rate": [
+      0.3,
+      0.4
+    ],
+    "futures_share": [
+      0.6,
+      0.8
+    ],
+    "quick_response_share": [
+      0.2,
+      0.4
+    ],
+    "quick_response_lead_days": [
+      30,
+      45
+    ],
+    "waves_per_season": [
+      3,
+      5
+    ],
+    "first_wave_share": [
+      0.3,
+      0.35
+    ],
+    "second_wave_share": [
+      0.25,
+      0.3
+    ],
+    "third_wave_share": [
+      0.2,
+      0.25
+    ],
+    "fourth_fifth_wave_share": [
+      0.15,
+      0.2
+    ]
   }
 }
