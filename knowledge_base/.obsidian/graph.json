@@ -1,1 +1,100 @@
-{"collapse-filter": true, "search": "", "showTags": false, "showAttachments": false, "hideUnresolved": true, "showOrphans": false, "collapse-color-groups": true, "colorGroups": [{"query": "path:wiki/sources/", "color": "#a855f7", "background": false}, {"query": "path:wiki/concepts/", "color": "#3b82f6", "background": false}, {"query": "path:wiki/entities/", "color": "#22c55e", "background": false}, {"query": "path:wiki/practices/", "color": "#f59e0b", "background": false}, {"query": "path:wiki/comparisons/", "color": "#ef4444", "background": false}, {"query": "path:L2_00_", "color": "#ec4899", "background": false}, {"query": "path:L2_01_", "color": "#06b6d4", "background": false}, {"query": "path:L2_02_", "color": "#8b5cf6", "background": false}, {"query": "path:L2_03_", "color": "#10b981", "background": false}, {"query": "path:L2_04_", "color": "#f97316", "background": false}, {"query": "path:L2_05_", "color": "#e11d48", "background": false}, {"query": "path:L2_06_", "color": "#0ea5e9", "background": false}, {"query": "path:L2_07_", "color": "#84cc16", "background": false}], "collapse-display": false, "showArrow": true, "textFadeMultiplier": 0.15, "nodeSizeMultiplier": 1.0, "lineSizeMultiplier": 0.6, "collapse-forces": true, "centerStrength": 0.518713248970312, "repelStrength": 12, "linkStrength": 1, "linkDistance": 200, "scale": 0.85, "close": true}
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:wiki/sources/",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:wiki/concepts/",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:wiki/entities/",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "L2_00_",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "L2_01_",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "L2_02_",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "L2_03_",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "L2_04_",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "L2_05_",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "L2_06_",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "L2_07_",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.16348370567220416,
+  "close": false
+}

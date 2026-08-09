@@ -126,3 +126,7 @@ cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[ap
 - [[apparel_ai_policy_2026]] — 纺织服装AI国家政策
 - [[apparel_supply_chain_profit_chasm_2026q1]] — 产业链利润分化
 - [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] — 利润增长质量审视
+
+- [[2026-05-06_新华网_AI改写衣橱全产业链]]
+- [[2026-06-29_波司登_FY2026财报]]
+- [[2026-07-23_新华网_AI赋能服装产业全链路]]

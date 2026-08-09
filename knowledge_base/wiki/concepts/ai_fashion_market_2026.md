@@ -82,6 +82,12 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
 - [[2026-07-19_MetaModels_25品牌AI应用2026]] — 25个全球品牌AI案例(Zara/H&M/Nike/Dior等)
 
+
+- [[2026-04-16_三态比特轻链AI服装大模型]]
+- [[2026-06-21_搜狐_AI服饰消费新纪元2026]]
+- [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]]
+- [[agentic_commerce_fashion_2026]]
+- [[ai_fashion_capability_2026]]
 ## 全球大模型应用中长期预测 ⭐ 6月更新
 
 > 来源：IIM《全球服装行业大模型应用行业技术发展与市场前景分析报告》(2026年)

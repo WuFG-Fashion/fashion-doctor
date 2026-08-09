@@ -65,3 +65,14 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], 
 - [[服装行业竞争格局]]
 - [[china_apparel_industry_2026q1|行业KPI基准]]
 - [[china_apparel_industry_2026q1]]
+
+## 关联页面
+
+- [[2026-06-05_Inditex_ZARA_FY2026Q1]]
+- [[2026-06-05_中国服装协会_2026Q1行业经济运行分析]]
+- [[2026-06-05_太平鸟_2025年报2026Q1]]
+- [[2026-06-05_慕尚集团_GXG2025年报]]
+- [[2026-06-05_迅销_优衣库FY2026H1]]
+- [[2026-06-08_网易_29家服装运动企业2026Q1业绩汇总]]
+- [[six_brands_2026q1]]
+- [[three_brands_mid2026]]

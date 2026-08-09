@@ -52,6 +52,8 @@ cross_refs: [[china_apparel_industry_2026q1]], [[anzheng_fashion]], [[jiumuwang]
 - [[安奈儿]] — 安奈儿（真实减亏正向案例）
 - [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]] — 盛泰报表式增长来源页
 
+
+- [[2026-07-29_安奈儿H1减亏近八成]]
 ## 待办 / 待验证
 
 - [ ] H1正式中报后批量更新竞品扣非净利润字段至 kb_benchmarks.json

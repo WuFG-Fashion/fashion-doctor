@@ -224,3 +224,19 @@ max_client_conn = 1000     # 1000+客户端
 - [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] — 十大实践+零售对照
 - [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] — 2026性能调优完整清单 ⭐ NEW
 - [[2026-07-31_SQL性能优化2026原理驱动实战]] — 原理驱动跃迁：EXPLAIN 157x/覆盖索引10x/子查询JOIN 10x ⭐ NEW
+
+## 关联页面
+
+- [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
+- [[2026-06-06_百度开发者_SQL优化实战]]
+- [[2026-06-06_简道云_服装SKU进销存管理]]
+- [[2026-06-06_腾讯云社区_MySQL查询优化]]
+- [[2026-06-07_Polars_2.0流式ETL]]
+- [[2026-06-12_CSDN_Python数据分析工作流2026]]
+- [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]]
+- [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]]
+- [[polars_vs_pandas_2026]]
+- [[python_data_stack_decision_2026]]
+- [[python_sql_integration_patterns_2026]]
+- [[sku_fine_management]]
+- [[sku_inventory_sql_operations]]

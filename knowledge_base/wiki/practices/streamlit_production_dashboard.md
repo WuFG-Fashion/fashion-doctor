@@ -368,3 +368,16 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 迁移基本是机械平移：`st.selectbox`→`dcc.Dropdown`、`st.slider`→`dcc.Slider`、`st.date_input`→`dcc.DatePickerRange`、`st.metric`→样式化 `html.Div`、`st.plotly_chart`→`dcc.Graph`；渲染逻辑包进 `@callback`。
 
 详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
+
+## 关联页面
+
+- [[2026-06-08_Streamlit_v147特性解析]]
+- [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
+- [[2026-06-10_Streamlit官方_2026版本架构演进]]
+- [[2026-06-11_FineReport_服装数据分析报表优化2026]]
+- [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]]
+- [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]]
+- [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]
+- [[ETL架构选型]]
+- [[bi_dashboard_retail_deployment]]
+- [[python_dev_stack_2026]]

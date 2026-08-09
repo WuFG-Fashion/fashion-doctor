@@ -75,3 +75,5 @@ cross_refs: [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q
 - [[apparel_inventory_benchmark_2026]] — 中国服装库存基准
 - [[china_apparel_industry_2026q1]] — 中国服装行业Q1运营基准（对比国际基准）
 - [[会员复购率提升策略]] — 中国复购率基准
+
+- [[global_apparel_financial_benchmarks_2026]]

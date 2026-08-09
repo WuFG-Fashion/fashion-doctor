@@ -65,3 +65,6 @@ cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bi
 ## 关联页面
 
 [[light_luxury_brand_framework_2026]] | [[lululemon]] | [[jnby]] | [[bienlefen]] | [[fast_retailing]] | [[ai_fashion_consumer_2026]] | [[agentic_commerce_fashion_2026]]
+
+- [[2026-06-28_贝尔财经_Burberry_FY2026年报]]
+- [[china_apparel_industry_2026q1]]

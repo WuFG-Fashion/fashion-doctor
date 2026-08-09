@@ -44,6 +44,9 @@ cross_refs: [[data_lakehouse_2026]]
 
 - [[data_lakehouse_2026|湖仓一体 2026 架构]] — Iceberg 核心引擎与多品牌落地路径
 
+
+- [[etl_governance_convergence_2026]]
+- [[multi_brand_unified_analytics]]
 ## 待办 / 待验证
 
 - [ ] 跟踪主流云厂商零 ETL 托管能力的具体 SLA 与计费

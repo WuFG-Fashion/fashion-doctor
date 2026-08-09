@@ -60,3 +60,5 @@ cross_refs: [[polars_vs_pandas_2026]], [[ETL架构选型]], [[data_library_selec
 - [[ETL架构选型]] — ETL工具选型与架构设计
 - [[data_library_selection_guide_2026]] — 数据分析库选型决策
 - [[multi_brand_unified_analytics]] — 多品牌统一数据分析架构
+
+- [[python_data_stack_decision_2026]]

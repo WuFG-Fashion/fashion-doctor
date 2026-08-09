@@ -23,7 +23,8 @@ knowledge_base/
 │   ├── concepts/          ← 概念页：KPI、方法论、术语
 │   ├── practices/         ← 实操页：代码、SQL、脚本
 │   ├── comparisons/       ← 对比页：跨实体/概念的综合分析
-│   └── sources/           ← 来源摘要：每篇 raw/ 文章的提炼
+│   ├── sources/           ← 来源摘要：每篇 raw/ 文章的提炼
+│   ├── playbooks/         ← 作战手册：SOP/决策树/复盘/决策日志（type: playbook）
 ├── L2_00_AI前沿信息/       ← 保留：现有业务分类（逐步迁移到 wiki/）
 ├── L2_01_零售基础理论/
 ├── ... (其他 L2)
@@ -42,7 +43,7 @@ knowledge_base/
 
 ```yaml
 ---
-type: entity | concept | practice | comparison | source
+type: entity | concept | practice | comparison | source | playbook
 title: 页面标题
 tags: [tag1, tag2, tag3]
 sources: [来源文件名或 URL]
@@ -61,6 +62,7 @@ cross_refs: [[引用页1]], [[引用页2]]
 | `practice` | `wiki/practices/` | `[场景]_[主题].md` | `sql_dead_stock_query.md` |
 | `comparison` | `wiki/comparisons/` | `[A]_vs_[B].md` | `peacebird_vs_gxg.md` |
 | `source` | `wiki/sources/` | `YYYY-MM-DD_[标题].md` | `2026-05-11_太平鸟2025年报.md` |
+| `playbook` | `wiki/playbooks/` | `[场景]_[主题].md` | `清仓决策树.md` |
 
 ### 2.3 内容区块规范
 

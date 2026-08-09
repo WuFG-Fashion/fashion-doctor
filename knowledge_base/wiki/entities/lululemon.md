@@ -120,3 +120,10 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[semir]], [[inditex_zara]], [[si
 - [[inditex_zara]] — Inditex/ZARA
 - [[服装行业竞争格局]] — 行业竞争格局
 - [[six_brands_2026q1]] — 六品牌2026Q1对比
+
+- [[2026-06-08_lululemon_2026Q1]]
+- [[2026-06-08_网易_29家服装运动企业2026Q1业绩汇总]]
+- [[2026-06-13_CFW时尚_lululemon_FY2026Q1更新]]
+- [[2026-06-17_服饰DTC品牌忠诚度2026]]
+- [[burberry]]
+- [[light_luxury_brand_framework_2026]]

@@ -87,3 +87,7 @@ cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fa
 - [[ai_fashion_ecommerce_tryon_tools_2026]] — 服装AI试衣工具选型
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
 - [[2026-06-19_新华社_AI改写衣橱服装产业革命]] — 新华社：AI改写衣橱，服装产业革命
+
+- [[2026-06-11_知衣科技_FD+AI设计工具]]
+- [[2026-06-16_IIM_全球服装大模型应用市场预测2026]]
+- [[2026-06-21_搜狐_AI服饰消费新纪元2026]]

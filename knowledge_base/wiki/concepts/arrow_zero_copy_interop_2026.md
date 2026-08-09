@@ -174,3 +174,11 @@ DataFrame/Series 现同时支持 PyCapsule 协议的**导出与导入**（GH 565
 - [[data_lakehouse_2026]] — 湖仓中的Arrow/Iceberg集成
 - [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] — 原始来源
 - [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] — Pandas 3.0 正式版一手基准与迁移断裂点 ⭐ NEW
+
+- [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]]
+- [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]
+- [[2026-07-15_Pandas_3.0_Arrow原生架构革命]]
+- [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]]
+- [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+- [[data_library_selection_guide_2026]]
+- [[python_data_stack_decision_2026]]

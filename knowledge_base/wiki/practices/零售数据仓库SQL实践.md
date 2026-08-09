@@ -116,3 +116,18 @@ WHERE sale_date = '2026-06-06';
 - [ ] WHERE列函数 → 范围查询或用表达式索引
 - [ ] N+1查询 → 单次JOIN
 - [ ] JOIN类型不匹配 → 明确匹配类型
+
+## 关联页面
+
+- [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
+- [[2026-06-06_百度开发者_SQL优化实战]]
+- [[2026-06-06_腾讯云社区_MySQL查询优化]]
+- [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]]
+- [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]]
+- [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]]
+- [[2026-07-09_DevTo_PostgreSQL_2026性能调优]]
+- [[2026-07-31_SQL性能优化2026原理驱动实战]]
+- [[data_quality_governance]]
+- [[polars_vs_pandas_2026]]
+- [[python_dashboard_ecosystem_2026]]
+- [[python_sql_integration_patterns_2026]]

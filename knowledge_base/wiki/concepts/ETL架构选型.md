@@ -243,3 +243,30 @@ SegmentFault 2026年3月对Kettle/DataX/Informatica/DataStage/FineDataLink/ETLCl
 ## 关联页面（续）
 - [[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]] ⭐ NEW
 - [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]] — ETLT 混合主流化、四层栈与混合陷阱 ⭐ NEW
+
+## 关联页面
+
+- [[2026-06-06_FineDataLink_ETL数据仓库选型]]
+- [[2026-06-06_百家号_数据质量常态化治理]]
+- [[2026-06-06_鼎捷_大型集团主数据治理]]
+- [[2026-06-07_Python看板框架对比2026]]
+- [[2026-06-07_数据治理平台TOP榜2026]]
+- [[2026-06-07_零售数据分析框架2026]]
+- [[2026-06-08_2026湖仓一体与ETL新四化]]
+- [[2026-06-12_帆软_ETL集成治理一体化]]
+- [[2026-06-13_CSDN_数据治理平台厂商全景2026]]
+- [[2026-06-27_chenxutan_Polars深层架构与生态2026]]
+- [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]]
+- [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]]
+- [[2026-07-15_Gartner_2026数据治理四大趋势与CIO_IN_OUT]]
+- [[2026-07-18_FineDataLink_2026数据治理九平台评估]]
+- [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]]
+- [[2026-07-31_SQL性能优化2026原理驱动实战]]
+- [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]]
+- [[2026-08-03_数据治理五大平台AI原生横评2026]]
+- [[arrow_zero_copy_interop_2026]]
+- [[data_governance_tech_routes_2026]]
+- [[duckdb_olap_engine_2026]]
+- [[polars_vs_pandas_2026]]
+- [[python_dashboard_ecosystem_2026]]
+- [[零售数据仓库SQL实践]]

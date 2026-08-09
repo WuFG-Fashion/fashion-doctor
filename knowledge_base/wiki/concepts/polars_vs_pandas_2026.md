@@ -934,3 +934,18 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 3. **零拷贝换手不再有损耗**：双方都支持 Arrow PyCapsule 双向接口，"Polars 做清洗 → Pandas 做建模"的混合用范式换手成本趋近于零，进一步支持本库既有的"混合用而非二选一"结论。
 
 > **结论不变但理由更新**：仍推荐 Polars 承担大体量清洗聚合、Pandas 承担生态兼容与建模；但选型理由从"Pandas 太慢"转为"分工不同"。详见 [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]。
+
+## 关联页面
+
+- [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
+- [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
+- [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
+- [[2026-06-10_Streamlit官方_2026版本架构演进]]
+- [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]]
+- [[2026-06-14_Scopir_Python数据分析库2026全景对比]]
+- [[2026-06-24_DuckDB_vs_Polars_2026基准对比]]
+- [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]]
+- [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
+- [[2026-07-22_2026现代Python数据栈]]
+- [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]]
+- [[arrow_zero_copy_interop_2026]]

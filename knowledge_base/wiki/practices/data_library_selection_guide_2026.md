@@ -142,6 +142,12 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）后，"因为 Pandas 慢所以�
 - [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]] — 1000万行/5GB三引擎实测126x
 - [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] — Pandas 3.0 能力边界刷新 ⭐ NEW
 
+
+- [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
+- [[2026-06-14_Scopir_Python数据分析库2026全景对比]]
+- [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
+- [[python_dev_stack_2026]]
+- [[retail_data_workflow_2026]]
 ## 模板3：50GB超大文件混合流水线（2026-06新增）
 
 2026年4月今日头条实测验证——50GB Parquet文件全程不崩溃、不卡顿：

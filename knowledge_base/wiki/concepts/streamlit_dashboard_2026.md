@@ -343,3 +343,17 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 - ❌ 不适合：海量用户商用站、复杂前端交互/高并发/实时长连接。
 
 > 服装零售多品牌看板：内部用 Docker+Nginx+认证外挂；对外分享用 Streamlit Cloud 零门槛；Snowflake 重度用户用 Container Runtime 跑长时实时 KPI+GPU 推理；耗时 IO 必缓存、Plotly 用 `mode='lines'`/`render_mode="webgl"` 防卡死。
+
+## 关联页面
+
+- [[2026-06-08_Streamlit_v147特性解析]]
+- [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
+- [[2026-06-12_Streamlit全版本新特性2026]]
+- [[2026-06-13_DataEase_开源BI三剑客对比2026]]
+- [[2026-06-13_腾讯新闻_BI可视化工具排行2026]]
+- [[2026-06-14_AIFutureThinkers_Python默认技术栈2026]]
+- [[2026-06-14_Streamlit_2026v1.53-1.58全版本新特性]]
+- [[2026-07-18_Johal_2026生产力数据分析七栈基准]]
+- [[2026-07-22_2026现代Python数据栈]]
+- [[data_library_selection_guide_2026]]
+- [[python_data_stack_decision_2026]]

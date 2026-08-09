@@ -137,3 +137,8 @@ cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[reta
 - [[apparel_ai_agents_2026]] — 服装AI智能体
 - [[ai_fashion_market_2026]] — AI时尚市场
 - [[2026-07-02_AI时尚消费入口_Phia_Daydream_Alta_Vetir]] — 原始来源
+
+- [[2026-07-13_智传营_会员忠诚度五转向]]
+- [[2026-08-06_贝恩纽锐拓_2026中国购物者报告]]
+- [[anta]]
+- [[会员复购率提升策略]]

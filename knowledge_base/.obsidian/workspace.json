@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "229faac7fe3384bf",
+        "id": "2453807d67f07573",
         "type": "tabs",
         "children": [
           {
-            "id": "465bcc8576b136a6",
+            "id": "893af90b8a90d383",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "465bcc8576b136a6",
+  "active": "893af90b8a90d383",
   "lastOpenFiles": [
+    "Home.md",
+    "CLAUDE.md",
+    "L2_00_AI前沿信息/L3_00_01_大模型动态/2026-07-03_Vistoya_2026AI时尚趋势指南.md",
     "MOC_L07_多品牌系统构建.md",
     "MOC_L06_数据分析实务.md",
     "MOC_L05_商品企划.md",
@@ -191,7 +194,6 @@
     "MOC_L02_竞品分析.md",
     "MOC_L01_零售基础理论.md",
     "MOC_L00_AI前沿信息.md",
-    "Home.md",
     "human/README.md",
     "human",
     "tools/audit_report.json",

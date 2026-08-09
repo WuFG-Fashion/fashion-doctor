@@ -79,6 +79,14 @@ cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_des
 - [[retail_ai_adoption_2026|2026零售AI采纳全景]] — 2026零售AI采纳全景
 - [[2026-07-27_虹软ArcMuse_AI商拍平台]] — 虹软ArcMuse/PSAI商拍平台（双层架构+百余面部关键点）
 
+
+- [[2026-05-27_iTryOn互动式视频虚拟试衣_ICML2026]]
+- [[2026-06-09_Style3D_AI时尚品牌应用2026]]
+- [[2026-06-11_知衣科技_FD+AI设计工具]]
+- [[2026-07-04_iTryOn互动式视频虚拟试衣]]
+- [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]]
+- [[2026-08-04_易元AI双引擎_服装电商测款]]
+- [[ai_fashion_market_2026]]
 ## 待办 / 待验证
 
 - 其他AI试衣工具（如ZMO.AI、Botika等）的产品对比待补充

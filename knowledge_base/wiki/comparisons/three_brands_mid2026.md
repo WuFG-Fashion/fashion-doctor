@@ -97,3 +97,7 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[four_brands_2025
 - 优衣库FY2026全年实际业绩（预计2026-10公布）
 - 太平鸟2026H1中报（预计2026-08）
 - GXG 2026H1中报
+
+## 关联页面
+
+- [[six_brands_2026q1]]

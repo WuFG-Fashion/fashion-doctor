@@ -103,3 +103,19 @@ cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL
 `streamlit run` **不是多进程**，只能横向多实例扩展；Dash 本质是普通 Flask 应用，gunicorn 生产扩展更干净。
 
 详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
+
+## 关联页面
+
+- [[2026-06-07_零售数据分析框架2026]]
+- [[2026-06-08_Streamlit_v147特性解析]]
+- [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]]
+- [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]]
+- [[2026-06-12_Streamlit全版本新特性2026]]
+- [[2026-06-13_DataEase_开源BI三剑客对比2026]]
+- [[2026-06-13_腾讯新闻_BI可视化工具排行2026]]
+- [[2026-06-14_Streamlit_2026v1.53-1.58全版本新特性]]
+- [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]]
+- [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]
+- [[2026-07-22_Streamlit_v1.59.0]]
+- [[multi_brand_unified_analytics]]
+- [[streamlit_production_dashboard]]

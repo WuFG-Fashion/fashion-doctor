@@ -205,3 +205,10 @@ Vistoya 汇总了 2026 年时尚品牌部署 AI Agent 的实测 ROI，覆盖从�
 - [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]] — VOGUE Business：AI时尚消费入口全景(京东618 AI全场景/千问×淘宝/豆包×抖音)
 - [[burberry]] — Burberry博柏利(AI数字人直播>50%双11成交)
 - [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]] — Vistoya：全球 Agentic Commerce 实战 ROI（Bain 供应链 -23%/-17%）
+
+- [[2026-07-02_AI时尚消费入口_Phia_Daydream_Alta_Vetir]]
+- [[2026-07-03_IBM_Fiducia_AI_SpeedShotX]]
+- [[2026-07-09_Nimbleway_2026零售数据分析指南]]
+- [[2026-07-21_Style3D伙伴大会2026]]
+- [[2026-08-01_AI购物Agent与机器可读产品数据]]
+- [[ai_fashion_capability_2026]]

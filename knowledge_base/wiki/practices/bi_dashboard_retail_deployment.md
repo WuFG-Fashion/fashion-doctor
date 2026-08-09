@@ -188,3 +188,6 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 - [[2026-06-13_DataEase_开源BI三剑客对比2026]]
 - [[2026-08-06_AgenticBI与ChatBI零售落地实测]] — 10 周三阶段落地路径与效果基线 ⭐ NEW
 - [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 自建 vs 嵌入边界与框架选型 ⭐ NEW
+
+- [[2026-07-09_CSDN_全渠道BI三层架构]]
+- [[streamlit_dashboard_2026]]

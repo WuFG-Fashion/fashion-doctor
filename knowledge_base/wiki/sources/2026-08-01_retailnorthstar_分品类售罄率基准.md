@@ -35,5 +35,7 @@ cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[服装企
 - [[服装企划趋势渠道]]（品类结构规划视角）
 - [[sell_through_examination_standard_2026|售罄率考核基准2026]]（基准线对齐）
 
+
+- [[2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间]]
 ## 待办/待验证
 - 基准基于 retailnorthstar 客户样本，国内服装品牌需按渠道/价格带本地化校准后再固化进 kb_benchmarks。

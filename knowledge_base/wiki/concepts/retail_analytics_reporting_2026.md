@@ -119,3 +119,9 @@ cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]
 - [[python_dashboard_ecosystem_2026]] — Python看板框架生态
 - [[2026-06-11_FineReport_服装数据分析报表优化2026]] — 来源原文
 - [[2026-08-06_AgenticBI与ChatBI零售落地实测]] — Agentic BI/ChatBI 零售落地实测与 10 周路径 ⭐ NEW
+
+- [[2026-07-09_CSDN_全渠道BI三层架构]]
+- [[2026-07-09_Nimbleway_2026零售数据分析指南]]
+- [[data_governance_tech_routes_2026]]
+- [[polars_vs_pandas_2026]]
+- [[retail_data_workflow_2026]]

@@ -76,6 +76,15 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_20
 - [[动态OTB管理]] — 季中OTB偏离15%解法
 - [[six_brands_2026q1|六品牌2026Q1财务对比]] — 七品牌Q1财务对比
 
+
+- [[2026-06-08_中国服装协会_2026Q1深度分析]]
+- [[2026-06-08_产业链利润分化_2026Q1]]
+- [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]]
+- [[2026-07-04_方正证券_服装家纺边际回暖]]
+- [[bosideng]]
+- [[china_apparel_2026q1_operations]]
+- [[lululemon]]
+- [[retail_ai_adoption_2026]]
 ## 待办 / 待验证
 
 - 棉花、涤纶等具体原材料价格走势待补充

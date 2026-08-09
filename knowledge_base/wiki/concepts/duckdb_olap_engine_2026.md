@@ -269,3 +269,18 @@ Jupyter/Marimo 探索 ────┘
 ```
 
 多个看板和工具通过 Quack 协议共享同一 DuckDB 实例，无需额外数据库服务器。
+
+## 关联页面
+
+- [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
+- [[2026-06-14_Scopir_Python数据分析库2026全景对比]]
+- [[2026-06-15_CSDN_Python数据栈边界决策框架]]
+- [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]]
+- [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]]
+- [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]]
+- [[2026-07-18_Johal_2026生产力数据分析七栈基准]]
+- [[2026-07-22_2026现代Python数据栈]]
+- [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]]
+- [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]]
+- [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
+- [[data_lakehouse_2026]]

@@ -61,3 +61,7 @@ cross_refs: [[sku_fine_management]], [[动态OTB管理]], [[柔性供应链与�
 - [[动态OTB管理]]
 - [[柔性供应链与商品企划]]
 - [[sell_through_examination_standard_2026]]
+
+## 关联页面
+
+- [[2026-08-07_单款店均效率SPS与款式宽度反推模型]]

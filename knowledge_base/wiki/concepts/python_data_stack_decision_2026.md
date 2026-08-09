@@ -103,6 +103,19 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_dat
 - [[streamlit_dashboard_2026|Streamlit生产级看板]] — 可视化交付
 - [[2026-06-15_CSDN_Python数据栈边界决策框架]] — 来源原文
 
+
+- [[2026-06-24_DuckDB_vs_Polars_2026基准对比]]
+- [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]]
+- [[2026-06-27_chenxutan_Polars深层架构与生态2026]]
+- [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]]
+- [[2026-07-03_Pandas官方_Pandas_3.0]]
+- [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]]
+- [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]]
+- [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]]
+- [[2026-07-15_Pandas_3.0_Arrow原生架构革命]]
+- [[2026-07-18_Johal_2026生产力数据分析七栈基准]]
+- [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]]
+- [[data_governance_tech_routes_2026]]
 ## 待办 / 待验证
 - [ ] 服装零售场景300GB/天日志的实际落地案例待补充
 - [ ] ClickHouse vs DuckDB 在零售OLAP场景的A/B测试数据

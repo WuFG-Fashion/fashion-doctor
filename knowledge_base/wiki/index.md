@@ -11,6 +11,15 @@ updated: 2026-08-09
 
 ## 目录分布
 
+### wiki/playbooks/ — 作战手册（怎么干）
+| 页面 | 说明 | 标签 |
+|------|------|------|
+| [[清仓决策树]] | 死库存分级清仓决策树（上市周数 × 动销率） | playbook, inventory, clearance |
+| [[季初订货节奏]] | 订货会 → OTB 分配 → 波段上货 → 周度监控节奏线 | playbook, merchandise, otb |
+| [[导购培训SOP]] | 新人 7 天上岗路径 + 在岗提升闭环 + AI 陪练 | playbook, training, sales |
+| [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
+| [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
+
 ### wiki/entities/ — 实体库
 | 页面 | 说明 | 标签 |
 |------|------|------|
