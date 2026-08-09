@@ -125,3 +125,7 @@ cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]
 - [[data_governance_tech_routes_2026]]
 - [[polars_vs_pandas_2026]]
 - [[retail_data_workflow_2026]]
+
+- [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
+- [[2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]]
+- [[semantic_layer_metrics_2026]]

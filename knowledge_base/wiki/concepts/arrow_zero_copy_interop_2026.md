@@ -182,3 +182,6 @@ DataFrame/Series 现同时支持 PyCapsule 协议的**导出与导入**（GH 565
 - [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 - [[data_library_selection_guide_2026]]
 - [[python_data_stack_decision_2026]]
+
+- [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+- [[python_sql_integration_patterns_2026]]

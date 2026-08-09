@@ -4,8 +4,8 @@ title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
 sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake]
 created: 2026-06-08
-updated: 2026-07-22
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]]
+updated: 2026-08-09
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -270,6 +270,27 @@ Jupyter/Marimo 探索 ────┘
 
 多个看板和工具通过 Quack 协议共享同一 DuckDB 实例，无需额外数据库服务器。
 
+## DuckDB Python 嵌入式分析范式（2026-08新增）⭐
+
+> 来源：[[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+
+### 双轨维护 + v1.5.4 生态对接
+- v1.5 起双轨：v1.4 LTS（Andium）+ v1.5 current；**DuckDB 2.0 计划 2026 年 9 月**，v1.4.5 向后兼容、升级无需手动迁移数据文件。
+- v1.5.4 纳入 **ADBC 1.1.0 + Rich Error API**、Avro 扩展、Unity Catalog；MERGE INTO 语义修正；30+ Bug 修复。
+
+### Python 三套 API
+| API | 风格 | 适合 |
+|-----|------|------|
+| DB-API | 标准 execute/fetch | 通用脚本 |
+| Relational API | 链式调用，近 Pandas | 探索式转换 |
+| Spark API | PySpark 风格 | Spark 迁移用户 |
+
+与 Pandas/Arrow **近乎零序列化换手**：`duckdb.sql("... FROM my_df ...").df()` / `.arrow()`；内存模式（进程级临时）与持久化模式（落盘反复查询）并存；核外可直查数十 GB Parquet。
+
+### 对多品牌分析架构的衔接
+- Relational API 与 [[python_sql_integration_patterns_2026]] 的 SQLAlchemy 生产模式互补：探索用 DuckDB SQL、生产用 SQLAlchemy 原生。
+- ADBC 1.1.0 + Unity Catalog 让 DuckDB 可作多品牌统一数据层本地查询引擎，与 [[multi_brand_unified_analytics]] 的 Iceberg/湖仓路线协同。
+
 ## 关联页面
 
 - [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
@@ -284,3 +305,5 @@ Jupyter/Marimo 探索 ────┘
 - [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]]
 - [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
 - [[data_lakehouse_2026]]
+
+- [[semantic_layer_metrics_2026]]

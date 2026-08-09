@@ -4,8 +4,8 @@ title: 多品牌统一数据分析架构
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
 sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型]
 created: 2026-06-07
-updated: 2026-08-06
-cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
+updated: 2026-08-09
+cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[semantic_layer_metrics_2026|语义层与指标层2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
 ---
 
 # 多品牌统一数据分析架构
@@ -445,6 +445,14 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 
 详见 [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]] 与 [[2026-08-06_AgenticBI与ChatBI零售落地实测]]。
 
+## 2026-08 更新：语义层作为指标计算层底座
+
+本项目的"指标计算层"（集中定义不可协商的指标）在 2026 年的最佳实践落地形态是**语义层（Semantic Layer）**——把售罄率/周转/复购等度量定义为持久、受治理、版本化的对象，对看板与 ChatBI 统一暴露（见 [[semantic_layer_metrics_2026]]）。
+
+- 多品牌场景价值：各品牌分布使用同一套指标定义，杜绝"两个销售额"；OSI 标准（2026-01）让指标跨工具/跨引擎可互换。
+- 给 ChatBI 入口（第三阶段）提供"受治理指标目录"底座：Agent 经 dbt MCP server 只读已批准指标，权限继承既有多品牌隔离规则。
+- 落地可先小范围试点（如单品牌库存质量），把高频口径做成 dbt MetricFlow 度量定义 + 只读视图，再扩展至全品牌。
+
 ## 关联页面
 
 - [[2026-06-06_FineDataLink_ETL数据仓库选型]]
@@ -469,3 +477,5 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 - [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]]
 - [[data_asset_management_2026]]
 - [[streamlit_dashboard_2026]]
+
+- [[2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]]

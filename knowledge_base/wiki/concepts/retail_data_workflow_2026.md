@@ -4,8 +4,8 @@ title: 零售数据分析完整工作流(CRISP-DM)
 tags: [retail, analytics, crisp_dm, eda, workflow, python, polars]
 sources: [2026-06-12_CSDN_Python数据分析工作流2026, 2026-06-15_CSDN_Python数据栈边界决策框架]
 created: 2026-06-12
-updated: 2026-06-15
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_analytics_reporting_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]]
+updated: 2026-08-09
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_analytics_reporting_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]], [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
 ---
 
 # 零售数据分析完整工作流(CRISP-DM)
@@ -119,6 +119,22 @@ result = duckdb.sql("""
 | 建模 | Scikit-learn | Scikit-learn | Spark ML |
 | 可视化 | Plotly Express | Polars→Pandas→Plotly | DuckDB→Plotly |
 
+## 服装五维指标体系 × 数仓分层（2026-08新增）⭐
+
+> 来源：[[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
+
+服装行业指标体系围绕**商品/销售/库存/渠道/用户**五维构建，配"定目标→盘数据→定指标→分场景"四步法，可作为本项目 CRISP-DM 第 1 步（定义问题）的指标骨架：
+
+| 维度 | 最核心指标 | 对 EDA 的要求 |
+|------|-----------|--------------|
+| 商品 | 爆款识别 + 新品 30 天存活率 | 跟踪每个 SKU 生命周期 |
+| 销售 | **售罄率 = 已售/总到货**（30 天<30% 危险） | 捕捉趋势变化 |
+| 库存 | **库龄 >90 天死库存** + 断码率 | 下钻款-色-码 |
+| 渠道 | ROI / 退货率 / O2O 渗透率 | 多元渠道对比 |
+| 用户 | **复购率** + 风格偏好 | 选款与推荐依据 |
+
+数仓侧用 **raw→stg→mart** 三层 + 星型模式 + **SCD Type 2**（价格随时间变化维度保历史）把口径落到工程约束；进销存 SQL 六种写法（LEFT JOIN+COALESCE / 窗口函数时点库存 / CTE 分层 / 分组聚合 / 条件聚合 / 物化快照）覆盖约 85% 业务问题，五条性能策略综合 **IO↓68%、吞吐↑2.3x**。与 [[零售数据仓库SQL实践]] 的 SQL 模板、[[sku_fine_management]] 的款色码管理直接衔接。
+
 ## 关联页面
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026]]
 - [[duckdb_olap_engine_2026|DuckDB OLAP 引擎]]
@@ -136,3 +152,5 @@ result = duckdb.sql("""
 - [[python_sql_integration_patterns_2026]]
 - [[streamlit_dashboard_2026]]
 - [[streamlit_production_dashboard]]
+
+- [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]

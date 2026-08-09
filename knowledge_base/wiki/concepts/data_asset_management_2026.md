@@ -95,3 +95,6 @@ cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [
 [[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-07-28_清华_数据要素流通六大变化]] ⭐ NEW
 
 - [[2026-07-18_FineDataLink_2026数据治理九平台评估]]
+
+- [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
+- [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]

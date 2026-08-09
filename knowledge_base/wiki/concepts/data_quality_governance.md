@@ -4,8 +4,8 @@ title: 数据质量常态化治理
 tags: [data_quality, governance, monitoring, data_consistency, timeliness, ai, data_contract, hitl]
 sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防]
 created: 2026-06-06
-updated: 2026-08-03
-cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]]
+updated: 2026-08-09
+cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]], [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]
 ---
 
 # 数据质量常态化治理
@@ -216,6 +216,29 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - 优先把"期末库存/售罄率/断码率"等高频口径做成**只读视图 + 契约校验**，避免部门口径分裂
 - 异常监控清单（库存负数/超安全库存/长期零销量等）可直接转为 Atlan 可复用规则模板
 
+## 情境可信度（Contextual Trustworthiness）2026 基准（2026-08新增）⭐
+
+> 来源：[[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]
+
+2026 零售数据质量定义升级为 **contextual trustworthiness**（可即时、自信、合规地行动的数据），四要求：实时持续校验（Proactively correct）/ AI-ready / Context-aware（按用例区别解释）/ Ethically governed。
+
+### 信通院 DQS 四项基准（2026 行业基准）
+| 维度 | 关键指标 | 基准值 |
+|------|---------|--------|
+| 完整性 | 核心字段非空率 | **≥ 99.5%** |
+| 准确性 | 数据校验通过率 | **≥ 99.9%** |
+| 一致性 | 跨系统数据差异率 | **≤ 0.1%** |
+| 及时性 | 数据 T+0 更新占比 | **≥ 80%** |
+
+### 零售侧重硬指标
+- **库存预测偏差 ≤ 10%**；业务渗透率（中台覆盖核心场景比例）≥ 80%；促销活动期间数据时效需**秒级**。
+- 信任缺口量化：67% 数据专业人士不完全信任本组织数据；64% 把数据质量列首要挑战。
+
+### 与本项目衔接
+- 四象限框架与本项目一致，可在 [[data_quality_retail_practice]] 补入 2026 阈值（非空率≥99.5%、校验通过≥99.9%）。
+- 复合身份解析（entity resolution）对应 [[multi_brand_unified_analytics]] 的跨品牌会员打通——同一客户散落数十系统需统一画像。
+- 考核从"技术建设完成率"转向"业务价值转化率"（数据资产活跃度/服务复用率/业务 ROI），与 [[data_asset_management_2026]] 的面向 AI 数据供给一致。
+
 ## 关联页面
 
 - [[2026-06-06_Capgemini零售AI信任落地]]
@@ -235,3 +258,5 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - [[2026-08-03_多品牌服装集团数据中台架构]]
 - [[2026-08-03_数据治理五大平台AI原生横评2026]]
 - [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
+
+- [[semantic_layer_metrics_2026]]

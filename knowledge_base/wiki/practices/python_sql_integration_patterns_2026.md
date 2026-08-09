@@ -4,8 +4,8 @@ title: Python Pandas+SQL集成实战模式
 tags: [python, pandas, sql, pandasql, sqlalchemy, etl, integration, practice]
 sources: [2026-06-15_aimojo_Python_Pandas_SQL集成指南, https://aimojo.io/zh-CN/python-pandas-and-sql/]
 created: 2026-06-15
-updated: 2026-06-15
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[零售数据仓库SQL实践]]
+updated: 2026-08-09
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
 ---
 
 # Python Pandas+SQL集成实战模式
@@ -134,6 +134,25 @@ load_to_warehouse(df_clean, 'sales_clean')
 | 并发冲突 | 多进程写同一表 | 用`if_exists='append'` + 事务锁 |
 | 内存溢出 | to_sql全量加载 | 设`chunksize`批量写 |
 
+## 模式四：DuckDB 嵌入式 SQL 桥接（2026-08新增）⭐
+
+> 来源：[[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+
+当数据已在内存（Pandas/Arrow）或落盘 Parquet 时，DuckDB 提供"SQL 即代码"的第四种集成路径，与既有三模式互补：
+
+```python
+import duckdb
+# 直接查内存 DataFrame，无需建表
+df = duckdb.sql("SELECT * FROM my_df WHERE amount > 100").df()
+# Parquet 直读转 Arrow，零序列化换手
+arrow_tbl = duckdb.sql("SELECT * FROM 'data.parquet'").arrow()
+# 持久化模式：落盘文件反复查询
+con = duckdb.connect("analytics.duckdb")
+con.execute("SET memory_limit = '8GB'")
+```
+
+**三套 API 选型**：DB-API（通用脚本）/ Relational API（链式，近 Pandas，适合探索转换）/ Spark API（PySpark 迁移）。与 [[duckdb_olap_engine_2026]] 的 OLAP 引擎能力、[[arrow_zero_copy_interop_2026]] 的零拷贝互操作一致——适合本项目多品牌分析层的款号/色号/尺码/门店编码 group by/join（短字符串主键，Arrow 字符串后端收益最大）。
+
 ## 关联页面
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026]] — 大数据场景替代
 - [[SQL查询性能优化|SQL优化三维法]] — SQL端性能提升
@@ -141,3 +160,5 @@ load_to_warehouse(df_clean, 'sales_clean')
 - [[零售数据仓库SQL实践|四大场景SQL模板]] — 服装零售SQL示例
 - [[python_data_stack_decision_2026|Python数据栈边界决策]] — 何时切Polars/Spark
 - [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] — 来源原文
+
+- [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]

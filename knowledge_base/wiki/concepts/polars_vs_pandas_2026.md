@@ -949,3 +949,5 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 - [[2026-07-22_2026现代Python数据栈]]
 - [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]]
 - [[arrow_zero_copy_interop_2026]]
+
+- [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
