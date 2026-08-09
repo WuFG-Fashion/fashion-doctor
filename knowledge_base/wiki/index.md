@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-09
+updated: 2026-08-10
 ---
 
 # Fashion Doctor 知识库导航
@@ -90,6 +90,7 @@ updated: 2026-08-09
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[apparel_esg_rating_2026\|服装行业ESG评级2026]] ⭐ NEW | 秩鼎2026 A股纺服110家ESG评级：森马/报喜鸟AAA并列第1、太平鸟BBB第71(环境项36.36分/第95名)、比音勒芬BBB；ESG=竞品分析第五维度 | esg, rating, competitor, sustainability |
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ UPDATED| 4类唤醒方法+流失窗口+七匹狼实战数据；8-03新增数字化转型网精准触达(无效推送-70%) + 08-05新增:有赞高端男装RFM唤醒| vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ UPDATED| ABC分类+安全库存+8维度决策+四阶段推进+金波小单快反90天(起订-90%/滞销-25pp) + 08-05新增:金字塔结构+GreenRetail+品类角色| sku, inventory, merchandise |
 | [[sell_through_examination_standard_2026|售罄率考核基准2026]] ⭐ NEW | 服装30d≥45%/60d≥65%/90d≥80%+鞋类50d≥45%/100d≥65%——正式考核标准 | sell_through, kpi, merchandise, benchmark |
@@ -150,6 +151,12 @@ updated: 2026-08-09
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-08-10_中财网_太平鸟H1电商引擎与费用管控]] ⭐ NEW | 卖方研报口径：太平鸟H1电商+10.7%成增长引擎、费用管控见效；⚠️与财报线上+3.06%口径矛盾(差7.64pct，以财报为准/待验证) | peacebird, competitor, ecommerce, cost_control, source, caliber_conflict |
+| [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]] ⭐ NEW | 秩鼎2026 A股纺服110家ESG评级：森马/报喜鸟AAA并列第1；太平鸟BBB第71(环境项36.36分/第95名)；比音勒芬BBB；ESG成竞品第五维度 | esg, rating, competitor, semir, baoxiniao, peacebird, source |
+| [[2026-08-10_百度百家_海澜FCC渠道逻辑重写与库存代价]] ⭐ NEW | 海澜FCC重写渠道逻辑：adidas中国份额15%→8.7%/7000家门店；FCC营收34.47亿(+29.18%)；代价=存货108.19亿/周转344天/跌价减值4.95亿(买断制风险) | hla, competitor, fcc, channel, inventory, source |
+| [[2026-08-10_经济日报_商务部批零行业2026上半年运行]] ⭐ NEW | 商务部2026H1：78个重点商圈客流+5.1%/营业额+2.8%；农村网络零售+7.1%；仓储会员店/无人值守零售>+25%——业态分化加剧 | retail, kpi, policy, mofcom, channel, source |
+| [[2026-08-10_21世纪经济_迅销多极增长与大中华区占比下滑]] ⭐ NEW | 迅销FY2026 9M：东南亚6175.75亿日元(+31.6%/占比20.1%)反超大中华区5608.39亿(+9.9%/18.3%/-1.2pct)；欧洲+40.1%/北美+33.5%；对照Inditex 398.64亿€(+3.2%)、H&M 199-208亿€ | fast_retailing, uniqlo, inditex, hm, competitor, global, source |
+| [[2026-08-10_中国新闻网_绍兴柯桥AI纺织全流程智能工厂]] ⭐ NEW | 柯桥AI纺织：投入3亿/日均窗帘3000套/产能+50%；2分钟自动取料裁切、交付周期-50%、智能衣架全流程流转——AI从设计端走向制造端 | ai, smart_factory, textile, keqiao, flexible_manufacturing, source |
 | [[2026-08-09_山西证券_纺服中期策略海外需求与板块估值]] ⭐ NEW | 山西证券2026中期策略：SW纺服-13.44%/制造-14.33%/家纺-11.81%/饰品-16.61%；PE-TTM制造19.24倍(46.4%分位)/家纺20.04倍(75.1%)/饰品16.87倍(24.8%)；美国5月服装店+7.08%、批发商库销比2.12月/零售商2.11月(近五年最低)；H1社零24.87万亿+1.3%/限上纺织服装+6.7%/品牌专卖店-8.7% | kpi, valuation, retail, policy, export, source |
 | [[2026-08-09_银河广发_纺服中期策略出口口径分化]] ⭐ NEW | 银河/广发2026中期策略：1-5月服装零售6425亿+7.2%/服装出口-4.7%(银河)/广发1-5月纺织品595亿+0.02%/服装572亿-0.02%/限上服装鞋帽6425亿+7.2%；板块SW制造-16.43%/家纺-5.52%(广发至6-26)；⚠️出口口径三方冲突(中服协-1.6%/广发-0.02%/银河-4.7%，金额均572亿，基期口径差) | kpi, retail, export, source, caliber_conflict |
 | [[2026-08-09_迪尚集团_服装产业大脑AI智造工装]] ⭐ NEW | 迪尚产业大脑深化：年营收150亿+/873协作厂；样衣20天→8天(+75%)/3000件急单≥30天→7天(+80%)/采购-12%；带动16智能工厂/19晨星工厂/智能化改造>70%/生产效率+30%；平台串联5000+企业/3000+设计师/4000+面辅料商；工装蓝海6000-8000亿 | ai, dishang, industrial_brain, workwear, agent, flexible_manufacturing, source |

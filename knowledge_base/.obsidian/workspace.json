@@ -11,10 +11,14 @@
             "id": "893af90b8a90d383",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/服装行业竞争格局.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "服装行业竞争格局"
             }
           }
         ]
@@ -75,7 +79,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,35 +187,37 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c7e4ee00171c6dae",
+  "active": "893af90b8a90d383",
   "lastOpenFiles": [
+    "wiki/concepts/light_luxury_brand_framework_2026.md",
+    "wiki/concepts/AI导购陪练.md",
+    "wiki/concepts/china_apparel_industry_2026q1.md",
+    "wiki/entities/peacebird.md",
+    "wiki/playbooks/导购培训SOP.md",
+    "Home.md",
+    "未命名.canvas",
+    "wiki/sources/2026-08-09_第七在线_OTB终极指南公式与最佳实践.md",
+    "raw/articles/2026-08-09_第七在线_OTB终极指南公式与最佳实践.md",
+    "wiki/sources/2026-08-09_服装品牌商品企划五步跃迁.md",
+    "raw/articles/2026-08-09_服装品牌商品企划五步跃迁.md",
+    "wiki/sources/2026-08-09_Megaview_导购启动AI培训实验转化跃升.md",
+    "raw/articles/2026-08-09_Megaview_导购启动AI培训实验转化跃升.md",
+    "wiki/sources/2026-08-09_Megaview_导购AI对练改写经验复制.md",
+    "raw/articles/2026-08-09_Megaview_导购AI对练改写经验复制.md",
+    "wiki/sources/2026-08-09_Rivo_VIP分层忠诚度ROI.md",
+    "raw/articles/2026-08-09_Rivo_VIP分层忠诚度ROI.md",
+    "wiki/sources/2026-08-09_中国连锁经营协会_2026会员管理报告.md",
+    "raw/articles/2026-08-09_中国连锁经营协会_2026会员管理报告.md",
+    "wiki/sources/2026-08-09_唯品会_SVIP分层贡献与复购.md",
+    "raw/articles/2026-08-09_唯品会_SVIP分层贡献与复购.md",
+    "wiki/sources/2026-08-09_桔尚女装_微盟AI会员复购运营.md",
+    "raw/articles/2026-08-09_桔尚女装_微盟AI会员复购运营.md",
     "L2_07_服装多品牌数据分析系统构建/L3_07_03_跨品牌数据整合/2026-08-09_语义层指标计算层底座更新.md",
     "L2_06_数据分析实务/L3_06_01_数据质量红线/2026-08-09_情境可信度与DQS基准更新.md",
     "L2_06_数据分析实务/L3_06_04_SQL查询优化/2026-08-09_DuckDB嵌入式SQL与数仓分层更新.md",
     "wiki/concepts/semantic_layer_metrics_2026.md",
-    "wiki/sources/2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设.md",
-    "wiki/sources/2026-08-09_Melissa信通院_零售数据质量2026可信度基准.md",
-    "wiki/sources/2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景.md",
-    "wiki/sources/2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式.md",
     "tools/_roundC_20260809_sources.py",
-    "raw/articles/2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设.md",
-    "raw/articles/2026-08-09_Melissa信通院_零售数据质量2026可信度基准.md",
-    "raw/articles/2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景.md",
-    "raw/articles/2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式.md",
     "tools/_roundC_20260809_raw.py",
-    "未命名.md",
-    "Home.md",
-    "CLAUDE.md",
-    "L2_00_AI前沿信息/L3_00_01_大模型动态/2026-07-03_Vistoya_2026AI时尚趋势指南.md",
-    "MOC_L07_多品牌系统构建.md",
-    "MOC_L06_数据分析实务.md",
-    "MOC_L05_商品企划.md",
-    "MOC_L04_导购能力评估.md",
-    "MOC_L03_会员与VIP运营.md",
-    "MOC_L02_竞品分析.md",
-    "MOC_L01_零售基础理论.md",
-    "MOC_L00_AI前沿信息.md",
-    "human/README.md",
     "human",
     "tools/audit_report.json",
     "tools/retrieval_mod.py",

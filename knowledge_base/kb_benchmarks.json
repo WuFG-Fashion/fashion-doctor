@@ -1,10 +1,11 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-10",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
     "files_scanned": "27 个 wiki/entities 文件 + 52 个 wiki/concepts 文件",
     "data_points": "240+条数值",
-    "last_scan": "2026-08-08"
+    "last_scan": "2026-08-08",
+    "updated": "2026-08-10"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -111,7 +112,9 @@
       "revenue_2026h1_franchise_billion": 6.4,
       "revenue_2026h1_online_billion": 7.71,
       "revenue_2026h1_franchise_yoy": -0.1032,
-      "revenue_2026h1_direct_yoy": 0.0273
+      "revenue_2026h1_direct_yoy": 0.0273,
+      "esg_rating_zhiding_2026": "BBB",
+      "esg_rank_zhiding_2026": 71
     },
     "gxg_muson": {
       "gross_margin": 0.51,
@@ -126,7 +129,12 @@
       "revenue_2026q1_billion": 66.61,
       "net_profit_2026q1_billion": 9.49,
       "revenue_growth": 0.0766,
-      "d2c_transition": 0.19
+      "d2c_transition": 0.19,
+      "inventory_2026h1_billion": 108.19,
+      "inventory_turnover_days_2026h1": 344,
+      "inventory_impairment_2026h1_billion": 4.95,
+      "fcc_revenue_2026h1_billion": 34.47,
+      "fcc_revenue_yoy": 0.2918
     },
     "semir": {
       "gross_margin": 0.477,
@@ -136,7 +144,9 @@
       "revenue_growth": 0.1203,
       "profit_growth": 0.4525,
       "revenue_2025fy_billion": 150.9,
-      "net_profit_2025fy_billion": 8.92
+      "net_profit_2025fy_billion": 8.92,
+      "esg_rating_zhiding_2026": "AAA",
+      "esg_rank_zhiding_2026": 1
     },
     "zara_inditex": {
       "gross_margin": 0.612,
@@ -164,7 +174,13 @@
       "fy2026_net_profit_guidance_jpy_billion": 5000,
       "annual_dividend_jpy": 640,
       "greater_china_revenue_9m_jpy_billion": 5608.39,
-      "greater_china_revenue_9m_growth_pct": 0.0986
+      "greater_china_revenue_9m_growth_pct": 0.0986,
+      "southeast_asia_revenue_9m_jpy_billion": 6175.75,
+      "southeast_asia_revenue_9m_growth_pct": 0.316,
+      "southeast_asia_revenue_ratio_9m": 0.201,
+      "greater_china_revenue_ratio_9m": 0.183,
+      "europe_revenue_9m_growth_pct": 0.401,
+      "north_america_revenue_9m_growth_pct": 0.335
     },
     "jnby": {
       "gross_margin": 0.665,
@@ -232,7 +248,8 @@
       "pe_2026e": 17.8,
       "sector_rank_revenue_growth": 1,
       "sector_rank_net_margin": 1,
-      "sector_rank_profit_quality": 1
+      "sector_rank_profit_quality": 1,
+      "esg_rating_zhiding_2026": "BBB"
     },
     "bosideng": {
       "gross_margin": 0.572,
@@ -250,7 +267,9 @@
       "revenue_2026q1_billion": 14.4,
       "net_profit_2026q1_billion": 2.37,
       "revenue_growth": 0.1046,
-      "profit_growth": 0.3903
+      "profit_growth": 0.3903,
+      "esg_rating_zhiding_2026": "AAA",
+      "esg_rank_zhiding_2026": 1
     },
     "burberry": {
       "gross_margin": 0.679,

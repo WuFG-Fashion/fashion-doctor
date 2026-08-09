@@ -4,8 +4,8 @@ title: 报喜鸟 (002154.SZ)
 tags: [baoxiniao, competitor, menswear, ai, agent, customization, a_share]
 sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21
-updated: 2026-07-21
-cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]], [[six_brands_2026q1]], [[2026-07-21_Style3D伙伴大会2026]]
+updated: 2026-08-10
+cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]], [[six_brands_2026q1]], [[2026-07-21_Style3D伙伴大会2026]], [[apparel_esg_rating_2026]], [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]]
 ---
 
 # 报喜鸟 (002154.SZ)
@@ -50,3 +50,5 @@ cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]], [[six_brands_2026q1]
 - [[style3d_lingdi]] — 凌迪科技/Style3D：合作方
 - [[six_brands_2026q1]] — 八品牌Q1对比
 - [[2026-07-21_Style3D伙伴大会2026]] — 来源页
+- [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]] ⭐ 8月10日新增 — 秩鼎 ESG 评级 **AAA 并列第1**（与森马并列，A股纺服110家）
+- [[apparel_esg_rating_2026]] ⭐ 8月10日新增 — 服装行业 ESG 评级体系（竞品第五维度）
