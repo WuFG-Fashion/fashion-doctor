@@ -169,10 +169,12 @@ cross_refs: [[引用页1]], [[引用页2]]
 ### 4.2 双链格式
 
 ```markdown
-[[文件名不含路径.md]]
-[[wiki/entities/peacebird.md|太平鸟男装]]
+[[文件名不含路径]]
+[[wiki/entities/peacebird|太平鸟男装]]
 [[KPI健康基准]]
 ```
+
+双链统一不加 `.md` 后缀（Obsidian 会自动解析文件名）；含别名用 `[[目标|别名]]` 写法。跨目录引用可带路径（如 `[[wiki/entities/peacebird]]`），但不带 `.md`。
 
 ### 4.3 标签规范
 
