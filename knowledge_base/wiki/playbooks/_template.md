@@ -29,7 +29,7 @@ tags: [playbook, 业务域, 关键词]
 sources: [引用的概念页/实体页/来源页]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-cross_refs: [[关联概念页]], [[关联实体页]]   # 至少 1 条有效双链，禁止孤岛
+cross_refs: [[关联概念页]], [[关联实体页]]
 ---
 ```
 

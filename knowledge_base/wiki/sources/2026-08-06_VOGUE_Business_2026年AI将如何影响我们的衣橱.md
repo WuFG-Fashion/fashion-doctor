@@ -6,7 +6,7 @@ sources:
   - VOGUE Business（凤凰网转载）《2026 年 AI 将如何影响我们的衣橱？》
 created: 2026-08-06
 updated: 2026-08-06
-cross_refs:
+cross_refs: 
   - "[[ai_fashion_consumer_2026]]"
   - "[[apparel_ai_agents_2026]]"
 ---
