@@ -11,10 +11,13 @@
             "id": "893af90b8a90d383",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -75,8 +78,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +165,33 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0b29ab8f04a10f41",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "c04ffc9b93263807",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,17 +205,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "893af90b8a90d383",
+  "active": "c7e4ee00171c6dae",
   "lastOpenFiles": [
-    "未命名 1.canvas",
+    "Home.md",
+    "未命名.base",
     "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 1.base",
+    "未命名 2.canvas",
     "wiki/concepts/AI导购陪练.md",
     "wiki/concepts/服装行业竞争格局.md",
     "wiki/concepts/light_luxury_brand_framework_2026.md",
     "wiki/concepts/china_apparel_industry_2026q1.md",
     "wiki/entities/peacebird.md",
     "wiki/playbooks/导购培训SOP.md",
-    "Home.md",
     "wiki/sources/2026-08-09_第七在线_OTB终极指南公式与最佳实践.md",
     "raw/articles/2026-08-09_第七在线_OTB终极指南公式与最佳实践.md",
     "wiki/sources/2026-08-09_服装品牌商品企划五步跃迁.md",
@@ -219,8 +244,6 @@
     "tools/retrieval_mod.py",
     "tools/knowledge_base.py",
     "tools/kb_updater.py",
-    "tools/kb_api.py",
-    "tools/_roundC_0806_update.py",
-    "tools/_kb_link_now.py"
+    "tools/kb_api.py"
   ]
 }
