@@ -2,9 +2,9 @@
 type: concept
 title: Apache Arrow 零拷贝互操作 2026
 tags: [apache_arrow, zero_copy, pyarrow, interoperability, duckdb, polars, pandas, multi_brand]
-sources: [2026-07-06_CSDN_Apache_Arrow零拷贝2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0]
+sources: [2026-07-06_CSDN_Apache_Arrow零拷贝2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-07-06
-updated: 2026-08-06
+updated: 2026-08-12
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_brand_unified_analytics]], [[streamlit_dashboard_2026]], [[ETL架构选型]], [[data_lakehouse_2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
 ---
 
@@ -164,6 +164,12 @@ DataFrame/Series 现同时支持 PyCapsule 协议的**导出与导入**（GH 565
 
 > **升级硬门槛**：Python **3.11+**；`df['col'].dtype == object` 判字符串的写法会失效，须改 `pd.api.types.is_string_dtype()`。
 
+## 2026 内存实测补强（2026-08）
+
+ima.qq.com 内存对比（Polars vs Pandas）：1000 万行混合 3.2GB→1.1GB（省 65%）、字符串密集 5.8→1.9GB（省 67%）、GroupBy 峰值 8.4→2.3GB（省 73%）。
+
+> 与 kb `memory_saving_pct=0.87`（早期 Pandas 内部/其他 workload 口径）为口径差异，非硬矛盾；与 [[polars_vs_pandas_2026]] 的 2026-08 基准一致。
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 三引擎选型（Arrow零拷贝串联核心）
@@ -185,3 +191,5 @@ DataFrame/Series 现同时支持 PyCapsule 协议的**导出与导入**（GH 565
 
 - [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
 - [[python_sql_integration_patterns_2026]]
+
+- [[2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]]

@@ -71,6 +71,10 @@ cross_refs: [[peacebird]], [[semir]], [[baoxiniao]], [[bienlefen]], [[bosideng]]
 - [[bosideng]] — 对照：MSCI ESG AAA（国际口径）
 - [[服装行业竞争格局]] — 竞争格局中的非财务维度
 
+
+- [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]]
+- [[menswear_brands_2026q1]]
+- [[six_brands_2026q1]]
 ## 待办 / 待验证
 
 - ✅ 无数据矛盾：ESG 评级为全新维度，kb_benchmarks.json 与 comparisons/ 中均无同指标历史值可冲突

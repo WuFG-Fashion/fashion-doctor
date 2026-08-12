@@ -2,9 +2,9 @@
 type: concept
 title: 数据质量常态化治理
 tags: [data_quality, governance, monitoring, data_consistency, timeliness, ai, data_contract, hitl]
-sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防]
+sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-06
-updated: 2026-08-09
+updated: 2026-08-12
 cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]], [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]
 ---
 
@@ -239,6 +239,19 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - 复合身份解析（entity resolution）对应 [[multi_brand_unified_analytics]] 的跨品牌会员打通——同一客户散落数十系统需统一画像。
 - 考核从"技术建设完成率"转向"业务价值转化率"（数据资产活跃度/服务复用率/业务 ROI），与 [[data_asset_management_2026]] 的面向 AI 数据供给一致。
 
+## ETL 事务管理与全链路防坑（2026-08 补强）
+
+全链路事务管理把质量门禁前置到 ETL 每一步：
+
+```
+需求梳理(口径先行) → 抽取(CDC+日志比对+Kafka) → 转换(多级校验/异常隔离表)
+→ 加载(幂等写入/批量提交/可回滚) → 监控补偿(自动告警) → 血缘回溯(DAG)
+```
+
+零售全渠道订单集成案例（MySQL 门店/Oracle 商城/API/第三方/Kafka）用 FineDataLink 低代码 DAG 编排，异常自动补偿，实现"不丢不重"。
+
+> 映射：与 [[data_quality_retail_practice]] 的导入校验互补；本项目三品牌（太平鸟/卡宾/东尚）CSV→入库链路应强化幂等+回滚+补偿，避免历史大批量导入的无 DELETE 重叠重复。
+
 ## 关联页面
 
 - [[2026-06-06_Capgemini零售AI信任落地]]
@@ -260,3 +273,5 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
 
 - [[semantic_layer_metrics_2026]]
+
+- [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]

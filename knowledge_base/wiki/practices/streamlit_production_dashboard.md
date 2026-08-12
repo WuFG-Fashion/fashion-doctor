@@ -2,9 +2,9 @@
 type: practice
 title: Streamlit生产级多品牌看板构建
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线]
 created: 2026-06-07
-updated: 2026-08-06
+updated: 2026-08-12
 cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
 ---
 
@@ -369,6 +369,16 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 
 详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]]。
 
+## 企业级部署架构（2026-08 补强）
+
+**拓扑**：`User → Nginx(SSL/Auth) → Docker(Streamlit) → 内部 DB/LLM API`，多实例 K8s + 会话亲和。直接暴露 8501 被视为危险。
+
+**安全**：OAuth2.0/SAML RBAC、TLS/AES-256、输入校验、速率限制/API 防护。**监控**：Prometheus+Grafana（响应时间/内存/并发会话/缓存命中率）。**缓存**：内存分页 + 流式 + Parquet 压缩。
+
+**2026 部署选项**：Community Cloud（~1GB 上限/12h 休眠）→ livemy.app $10/月（自定义域名）→ Railway/Render $5–7/月 → Docker VPS $5–20/月（完全控制）。多品牌看板走 Docker+Nginx+认证外挂；对外分享用零门槛托管；耗时 IO 必缓存。
+
+> 映射：与 [[streamlit_dashboard_2026]] 2026-08 企业级深化小节互补；可拖拽大屏借 streamlit-elements。
+
 ## 关联页面
 
 - [[2026-06-08_Streamlit_v147特性解析]]
@@ -381,3 +391,5 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 - [[ETL架构选型]]
 - [[bi_dashboard_retail_deployment]]
 - [[python_dev_stack_2026]]
+
+- [[2026-08-12_Streamlit_企业级架构与生产部署路线]]

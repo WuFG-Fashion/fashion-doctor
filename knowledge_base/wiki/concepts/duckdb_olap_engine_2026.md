@@ -2,9 +2,9 @@
 type: concept
 title: DuckDB嵌入式OLAP分析引擎
 tags: [duckdb, olap, sql, analytics, embedded, python]
-sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake]
+sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
 created: 2026-06-08
-updated: 2026-08-09
+updated: 2026-08-12
 cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
 ---
 
@@ -291,6 +291,12 @@ Jupyter/Marimo 探索 ────┘
 - Relational API 与 [[python_sql_integration_patterns_2026]] 的 SQLAlchemy 生产模式互补：探索用 DuckDB SQL、生产用 SQLAlchemy 原生。
 - ADBC 1.1.0 + Unity Catalog 让 DuckDB 可作多品牌统一数据层本地查询引擎，与 [[multi_brand_unified_analytics]] 的 Iceberg/湖仓路线协同。
 
+## 查询性能调优三层级（2026-08 补强）
+
+DuckDB 生产调优三层栈：**L1 文件级 Hive 分区+Glob（10–365x）/ L2 行组级谓词下推（2–15x，需 `EXPLAIN ANALYZE` 验证，避开列上 CAST/LIKE 与大 IN 列表反模式）/ L3 库级 Filter Index(ART)+物化表（5–100x，1B 行→168 行扫描）**。内存溢出落盘会慢 10–100x，用 `memory_limit` + `show_temporary_files` 监控。
+
+> 映射：详见 [[SQL查询性能优化]] 的 2026-08 新增小节；物化表思路用于本项目每日指标预计算。
+
 ## 关联页面
 
 - [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
@@ -307,3 +313,5 @@ Jupyter/Marimo 探索 ────┘
 - [[data_lakehouse_2026]]
 
 - [[semantic_layer_metrics_2026]]
+
+- [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]

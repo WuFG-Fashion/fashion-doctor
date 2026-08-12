@@ -2,9 +2,9 @@
 type: concept
 title: Python数据栈边界决策框架2026
 tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics, data_engineering]
-sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式]
+sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-06-15
-updated: 2026-07-25
+updated: 2026-08-12
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]]
 ---
 
@@ -94,6 +94,12 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_dat
 | 幂等性 | 重复执行结果不一致 | 数据库原生事务 + Delta Lake |
 | 协作混乱 | SQL与Python割裂 | pandasql原型 + SQLAlchemy生产 |
 
+## 混合用范式成为主流（2026-08 补强）
+
+ima.qq.com 观点：Polars 月下载 3000 万，"二选一"正在变成"混合用"。Polars 做 >50 万行/ETL 流水线，Pandas 做 ML（sklearn 原生）/matplotlib 可视化；50 万行以下两者感知不到差别。
+
+> 映射：本项目 Streamlit 看板用 Pandas/Plotly 展示、底层重计算用 Polars/DuckDB，经 [[arrow_zero_copy_interop_2026]] 零拷贝串联；边界在 50 万行。
+
 ## 关联页面
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026选型]] — 详细性能对比与迁移指南
 - [[duckdb_olap_engine_2026|DuckDB OLAP引擎]] — 嵌入式列式分析
@@ -116,6 +122,8 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_dat
 - [[2026-07-18_Johal_2026生产力数据分析七栈基准]]
 - [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]]
 - [[data_governance_tech_routes_2026]]
+
+- [[2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]]
 ## 待办 / 待验证
 - [ ] 服装零售场景300GB/天日志的实际落地案例待补充
 - [ ] ClickHouse vs DuckDB 在零售OLAP场景的A/B测试数据

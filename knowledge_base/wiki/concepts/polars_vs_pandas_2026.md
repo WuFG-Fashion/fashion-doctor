@@ -2,9 +2,9 @@
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
-sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准, 2026-07-28_CSDN_Polars_2.0_清洗范式跃迁, 2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]
+sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准, 2026-07-28_CSDN_Polars_2.0_清洗范式跃迁, 2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-06-06
-updated: 2026-08-06
+updated: 2026-08-12
 cross_refs: [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[2026-06-07_Polars_2.0流式ETL]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[2026-06-12_CSDN_Python数据分析工作流2026]], [[python_data_stack_decision_2026]], [[python_sql_integration_patterns_2026]], [[2026-06-15_CSDN_Python数据栈边界决策框架]], [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_Polars_2.0_Arrow_18.0深度协同]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-06-27_chenxutan_Polars深层架构与生态2026]], [[2026-06-30_chenxutan_Polars_Pandas深度实测2026]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]], [[2026-07-15_Pandas_3.0_Arrow原生架构革命]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准]], [[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]], [[2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
 ---
 
@@ -935,6 +935,16 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 
 > **结论不变但理由更新**：仍推荐 Polars 承担大体量清洗聚合、Pandas 承担生态兼容与建模；但选型理由从"Pandas 太慢"转为"分工不同"。详见 [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]。
 
+## 2026-08 Polars 2.1 / Pandas 3.0 生产级基准刷新
+
+**johal.in 50GB 实测**（32GB RAM）：Polars 2.1.0 在 CSV Join 上比 Pandas 3.0.1 快 **12.4x**、内存 **-60%**；DuckDB 1.2.3 比 Spark 4.0（100GB）延迟 **-89%**；自建 Polars+DuckDB 栈比托管(Fivetran+Snowflake) 成本 **$0.03/GB vs $0.18/GB、快 12x**；预测 2027 年 70% 生产分析用 Rust 工具（Polars/DataFusion）。
+
+**ima.qq.com 10M 行**：过滤 6x / GroupBy 10x / Join 12x / 排序 10x / 字符串 11x / 滚动 9x；内存省 65–73%；Polars 月下载 3000 万（较 2024 初 +300%）。**itsourcecode 1M 行**：Read 9x / GroupBy 30x / Join 14x。**pyinns 10M 行**：Read 4.7x / GroupBy 5.4x；内存 ~450MB vs ~1.8GB。
+
+**结论**：不该全面迁移，该全面评估——混合用（Polars 做 ETL/重计算，Pandas 做 ML/可视化）。12.4x Join / -60% 内存与 kb `speed_multiplier=8` 同属"数倍至十余倍"区间，口径差异（50GB join vs 千万行通用），**非硬矛盾**。
+
+> 映射：内存实测补 [[arrow_zero_copy_interop_2026]]；混合用范式见 [[python_data_stack_decision_2026]]。
+
 ## 关联页面
 
 - [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
@@ -951,3 +961,6 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 - [[arrow_zero_copy_interop_2026]]
 
 - [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+
+- [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]
+- [[2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]]

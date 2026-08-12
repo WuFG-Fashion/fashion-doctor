@@ -2,9 +2,9 @@
 type: concept
 title: SQL查询性能优化
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
 created: 2026-06-06
-updated: 2026-07-31
+updated: 2026-08-12
 cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
 ---
 
@@ -225,6 +225,20 @@ max_client_conn = 1000     # 1000+客户端
 - [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] — 2026性能调优完整清单 ⭐ NEW
 - [[2026-07-31_SQL性能优化2026原理驱动实战]] — 原理驱动跃迁：EXPLAIN 157x/覆盖索引10x/子查询JOIN 10x ⭐ NEW
 
+## DuckDB 查询性能调优三层级（2026-08 新增）
+
+DuckDB Labs 给出三层查询优化栈，与本项目"款号/色号/门店编码 group by/join"的 OLAP 分析高度契合：
+
+| 层级 | 技术 | 加速 | 验证/注意 |
+|------|------|------|----------|
+| L1 文件级 | Hive 分区 + Glob | 10–365x | 100 文件→2-3；典型 30s→1s；CSV 换 Parquet 最高 ROI |
+| L2 行组级 | 谓词下推 + 行组调优 | 2–15x | `EXPLAIN ANALYZE` 见 `PARQUET_SCAN ... Filters:`；反模式：列上 CAST/LIKE、列算术、大 IN 列表（→SEMI JOIN）；行组默认 122880，频繁日期过滤用 50000–80000 |
+| L3 库级 | Filter Index + 物化表 | 5–100x | 1B 行聚合预聚到小时级后仅扫 168 行，毫秒返回 |
+
+**内存**：`PRAGMA memory_limit='8GB'` + `temp_directory` 指 SSD；`PRAGMA show_temporary_files` 检测 spill（落盘慢 10–100x）。物化预聚合表胜过索引——本项目"每日指标预计算"可直接套用。
+
+> 映射：DuckDB 三层栈补强本项目 [[duckdb_olap_engine_2026]] 的生产调优层；与 [[polars_vs_pandas_2026]] 的"按 workload 选引擎"一致（DuckDB 擅 SQL 聚合/即席，Polars 擅 ETL 流水线）。
+
 ## 关联页面
 
 - [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
@@ -240,3 +254,5 @@ max_client_conn = 1000     # 1000+客户端
 - [[python_sql_integration_patterns_2026]]
 - [[sku_fine_management]]
 - [[sku_inventory_sql_operations]]
+
+- [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]

@@ -2,9 +2,9 @@
 type: practice
 title: 品牌配置驱动多品牌系统
 tags: [brand, configuration, python, streamlit, multi_brand, architecture, membership, master_data]
-sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构]
+sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-08
-updated: 2026-08-03
+updated: 2026-08-12
 cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]]
 ---
 
@@ -211,7 +211,15 @@ MASTER_DATA_DIMS = {
 - [[全渠道会员一体化|全渠道会员一体化]] — 会员跨品牌通认/隔离策略的上位方法论
 - [[丽晶]] — 本实践主要出处厂商（服装零售 ERP/全渠道解决方案商）
 
+## 数据中台主数据治理对齐（2026-08 补强）
+
+阿里云数据中台路线强调"主数据统一视图 + 标准字典 + 分级分类"，与本项目 [[brand_config_driven_system]] 的 RCBT 主数据映射（Chantelle 9 品牌印证）一致。落地要点：治理左移（质量/合规前置到设计阶段）、三阶段渐进（先高频高价值场景）、避免一次性大而全。
+
+> 映射：三品牌 ETL 链路（CSV→入库）应强化幂等+回滚+补偿，参见 [[multi_brand_unified_analytics]] 的 2026-08 补强。
+
 ## 关联页面
 
 - [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 - [[bi_dashboard_retail_deployment]]
+
+- [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]

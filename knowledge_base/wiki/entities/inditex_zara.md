@@ -158,3 +158,5 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[six_brand
 - [[2026-07-25_优衣库关店赚钱迅销Q3确认]]
 - [[ai_fashion_design_cases_2026]]
 - [[lululemon]]
+
+- [[2026-08-10_21世纪经济_迅销多极增长与大中华区占比下滑]]

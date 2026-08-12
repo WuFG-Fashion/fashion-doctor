@@ -2,9 +2,9 @@
 type: practice
 title: 多品牌统一数据分析架构
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
-sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型]
+sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-07
-updated: 2026-08-09
+updated: 2026-08-12
 cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[semantic_layer_metrics_2026|语义层与指标层2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
 ---
 
@@ -453,6 +453,14 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 - 给 ChatBI 入口（第三阶段）提供"受治理指标目录"底座：Agent 经 dbt MCP server 只读已批准指标，权限继承既有多品牌隔离规则。
 - 落地可先小范围试点（如单品牌库存质量），把高频口径做成 dbt MetricFlow 度量定义 + 只读视图，再扩展至全品牌。
 
+## 数据中台落地与跨品牌治理（2026-08 补强）
+
+**数据中台三阶段 + 治理左移 + 湖仓一体**：查询效率 **+90%**、质量事故 **-60%**、ETL 开发效率 **+30–50%**。跨品牌治理：主数据统一视图 + 标准字典 + 分级分类。
+
+本项目三品牌（太平鸟/卡宾/东尚）CSV→入库→飞书推送链路应纳入**幂等写入 + 批量提交 + 自动补偿**，避免历史大批量导入的无 DELETE 重叠重复；同时把"治理左移"延伸到 Tableau 报表筛选器配置层（曾因筛选器漏勾选致女装数据消失），加防呆校验。
+
+> 映射：与 [[brand_config_driven_system]] 的 RCBT 主数据映射、[[data_governance_tech_routes_2026]] 的智能平台路线一致。
+
 ## 关联页面
 
 - [[2026-06-06_FineDataLink_ETL数据仓库选型]]
@@ -479,3 +487,6 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 - [[streamlit_dashboard_2026]]
 
 - [[2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]]
+
+- [[2026-08-12_Streamlit_企业级架构与生产部署路线]]
+- [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]
