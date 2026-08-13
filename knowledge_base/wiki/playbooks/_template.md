@@ -5,7 +5,7 @@ tags: [playbook, template, sop]
 sources: [CLAUDE.md]
 created: 2026-08-09
 updated: 2026-08-09
-cross_refs: [[CLAUDE.md]], [[Home]]
+cross_refs: [[CLAUDE.md]], Home
 ---
 
 # 作战手册模板（Playbook Template）
