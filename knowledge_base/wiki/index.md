@@ -89,6 +89,7 @@ updated: 2026-08-14
 | [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa |
 | [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名。 | trussardi, competitor, luxury, italy, leather |
 | [[two_am]] ⭐ NEW | 男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear |
+| [[humble_humble_r]] ⭐ NEW | 中国新兴潮流男装品牌（2025 创立·宁波起源），"谦而不卑"内核，中高端潮流男装+亲民价格带，首店 2025-09-05 宁波鄞州万达，正全国扩张。 | humble_humble_r, competitor, menswear, streetwear, china_brand, trendy, focus |
 
 
 | [[ariose_years]] ⭐ NEW · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装，2005创立，1200+门店，定位25-35岁都市女性 | womenswear, premium, china_brand, hangzhou, focus |
