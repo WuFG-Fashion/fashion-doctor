@@ -19,6 +19,7 @@ updated: 2026-08-14
 | ⭐ UPDATED [[导购培训SOP]] | 新人 7 天上岗路径 + 在岗提升闭环 + AI 陪练 | playbook, training, sales + 08-11新增:苏州培训ROI1:6.5+杭州12店成交率28→56 |
 | [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
 | [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
+| ⭐ NEW [[2026H1服装行业KPI经营应对]] | 行业"量增价跌、利润薄"结论→4个经营动作（利润率/周转对标、出口累计口径、定价转质价比） | playbook, benchmark, decision, industry + 08-14新增:行业KPI基准→经营动作闭环 |
 
 ### wiki/entities/ — 实体库
 | 页面 | 说明 | 标签 |
