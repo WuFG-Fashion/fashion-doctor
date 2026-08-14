@@ -1,27 +1,25 @@
 ---
 type: entity
 title: AWOKEN-TIME
-tags: [awoken_time, competitor, streetwear, moding_group]
-sources: [MODING_GROUP_brand_wall_2026]
+tags: [awoken_time, competitor, streetwear]
+sources: [品牌墙图_2026-08-14]
 created: 2026-08-14
 updated: 2026-08-14
-cross_refs: [[peacebird]], [[cabbeen]], [[moding_haute_couture|MODING GROUP]], [[服装行业竞争格局]]]
 ---
 
 # AWOKEN-TIME
 
-> **一句话摘要**：MODING GROUP 旗下潮流品牌，与 AWOKEN-SPACE 同属集团潮流线。
+> **一句话摘要**：潮流品牌，与 AWOKEN-SPACE 同属潮流线。
 
 - 国家/地区：China
 
 ## 结论
 
-> ⏳ **待补充**：本页为 MODING GROUP 品牌墙录入 stub，需后续补充公开财务、渠道、产品与战略数据，再生成合成洞察。
+> ⏳ **待补充**：本页为 品牌墙图片录入 stub，需后续补充公开财务、渠道、产品与战略数据，再生成合成洞察。
 
 _（规范见 [[CLAUDE.md]] 2.3）_
 
 ## 关联页面
-- 同集团矩阵：[[moding_haute_couture|MODING GROUP]]
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
 

@@ -3,7 +3,7 @@ type: comparison
 title: 太平鸟 vs 卡宾 — 2026 核心品牌对标
 compared_entities: [peacebird, cabbeen]
 tags: [peacebird, cabbeen, competitor, menswear, core_brand, comparison, 2026]
-sources: [MODING_GROUP_brand_wall_2026, 太平鸟公开财报]
+sources: [品牌墙图_2026-08-14, 太平鸟公开财报]
 created: 2026-08-14
 updated: 2026-08-14
 cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[semir]], [[menswear_brands_2026q1]], [[four_brands_2025]], [[three_brands_mid2026]]
@@ -11,7 +11,7 @@ cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[se
 
 # 太平鸟 vs 卡宾 — 核心品牌对标
 
-> **一句话摘要**：太平鸟是国内全品类时尚集团龙头（A股 603877），卡宾是设计师男装起源的潮流品牌；二者在 MODING GROUP/男装赛道中形成"规模龙头 + 设计师差异化"的核心对标组合。
+> **一句话摘要**：太平鸟是国内全品类时尚集团龙头（A股 603877），卡宾是设计师男装起源的潮流品牌；二者在 男装赛道中形成"规模龙头 + 设计师差异化"的核心对标组合。
 
 ## 核心差异
 
@@ -31,5 +31,5 @@ cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[se
 3. **竞争关系并非零和**：太平鸟与卡宾分别覆盖"大众时尚"与"潮流设计"两个价格带，真正的直接交锋在商场渠道与年轻男性客群。
 
 ## 信息链
-- 上游来源：MODING GROUP 品牌墙 + 太平鸟财报 → 本页
+- 上游来源：品牌墙图片 + 太平鸟财报 → 本页
 - 下游应用：[[menswear_brands_2026q1]] / [[男装品牌竞争格局2026Q1]] / [[服装行业竞争格局]]

@@ -58,38 +58,37 @@ updated: 2026-08-14
 | [[moco_epo]] ⭐ NEW | MO&Co./EPO集团：五级会员分层，会员贡献82%/老客复购51%/VIP复购35-45%，中高端女装会员运营对标样本 | moco, epo, competitor, womenswear, membership, vip |
 
 
-| [[adlv]] ⭐ NEW | 韩国街头潮牌，以婴儿脸印花与 oversize 版型在东亚市场走红。 | adlv, competitor, streetwear, korean_wave, moding_group |
-| [[awoken_space]] ⭐ NEW | MODING GROUP 旗下潮流品牌，定位年轻街头与空间美学。 | awoken_space, competitor, streetwear, moding_group |
-| [[awoken_time]] ⭐ NEW | MODING GROUP 旗下潮流品牌，与 AWOKEN-SPACE 同属集团潮流线。 | awoken_time, competitor, streetwear, moding_group |
-| [[chuu]] ⭐ NEW | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 | chuu, competitor, womenswear, korean_wave, fast_fashion, moding_group |
-| [[crocs]] ⭐ NEW | 美国休闲洞洞鞋品牌，以舒适、IP 联名与个性化鞋花（Jibbitz）破圈。 | crocs, competitor, footwear, casual, usa, moding_group |
-| [[dickies]] ⭐ NEW | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 | dickies, competitor, workwear, streetwear, usa, moding_group |
-| [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 | diesel, competitor, denim, premium_denim, italy, moding_group |
-| [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 | dkny, competitor, womenswear, menswear, lifestyle, usa, moding_group |
-| [[ellesse]] ⭐ NEW | 意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。 | ellesse, competitor, sportswear, retro, italy, moding_group |
-| [[etudes]] ⭐ NEW | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france, moding_group |
-| [[g_star_raw]] ⭐ NEW | 荷兰高端牛仔品牌，以 raw denim 与 3D 剪裁闻名。 | g_star_raw, competitor, denim, premium_denim, netherlands, moding_group |
-| [[hoka_one_one]] ⭐ NEW | 美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。 | hoka_one_one, competitor, sportswear, running, footwear, usa, moding_group |
-| [[karl_lagerfeld]] ⭐ NEW | 以老佛爷命名的轻奢品牌，由 KARL LAGERFELD 授权运营，覆盖成衣、配饰与香水。 | karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, moding_group |
-| [[king_baby]] ⭐ NEW | 美国摇滚风格银饰与配饰品牌，定位潮流文化周边。 | king_baby, competitor, accessories, jewelry, streetwear, moding_group |
-| [[koyo]] ⭐ NEW | MODING GROUP 旗下当代潮流品牌，具体定位待补充。 | koyo, competitor, streetwear, contemporary, moding_group |
-| [[lacoste]] ⭐ NEW | 法国高端运动休闲品牌，以鳄鱼标志与 Polo 衫闻名，网球基因。 | lacoste, competitor, sportswear, premium, france, moding_group |
-| [[levis]] ⭐ NEW | 美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。 | levis, competitor, denim, premium_denim, usa, moding_group |
-| [[marcelo_burlon]] ⭐ NEW | 意大利高端街头品牌，以翅膀图腾与俱乐部文化著称。 | marcelo_burlon, competitor, streetwear, luxury_streetwear, italy, moding_group |
-| [[mlb]] ⭐ NEW | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave, moding_group |
-| [[mlb_kids]] ⭐ NEW | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave, moding_group |
-| [[moding_haute_couture]] ⭐ NEW | MODING GROUP 旗下高端定制/顶奢服务线，承接高净值客户私人订制需求。 | moding_group, haute_couture, luxury, private_service, moding_group |
-| [[mr_mrs]] ⭐ NEW | 意大利高端皮草派克外套品牌，以军绿色皮草内胆派克大衣出圈。 | mr_mrs, competitor, luxury, outerwear, italy, moding_group |
-| [[nautica]] ⭐ NEW | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。 | nautica, competitor, menswear, sportswear, usa, moding_group |
-| [[nerdy]] ⭐ NEW | 韩国潮流品牌，以彩色运动套装与 K-pop 明星同款走红。 | nerdy, competitor, streetwear, korean_wave, moding_group |
-| [[no_one_else]] ⭐ NEW | 韩国/东亚潮流女装品牌，强调个性与无性别穿搭。 | no_one_else, competitor, streetwear, womenswear, korean_wave, moding_group |
-| [[salomon]] ⭐ NEW | 法国户外与越野跑装备品牌，亚玛芬体育旗下，山系/机能风潮代表。 | salomon, competitor, sportswear, outdoor, trail_running, france, moding_group |
-| [[speedo]] ⭐ NEW | 英国竞技泳装品牌，专业游泳装备代名词。 | speedo, competitor, sportswear, swimwear, uk, moding_group |
-| [[the_mr_young]] ⭐ NEW | MODING GROUP 旗下 contemporary 男装品牌，具体定位待补充。 | the_mr_young, competitor, menswear, contemporary, moding_group |
-| [[thisisizi8]] ⭐ NEW | 韩国/东亚潮流品牌，定位 Z 世代街头与社交货币穿搭。 | thisisizi8, competitor, streetwear, korean_wave, moding_group |
-| [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa, moding_group |
-| [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名，现属 MODING GROUP 矩阵中的顶奢线代表。 | trussardi, competitor, luxury, italy, leather, moding_group |
-| [[two_am]] ⭐ NEW | MODING GROUP 旗下男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear, moding_group |
+| [[adlv]] ⭐ NEW | 韩国街头潮牌，以婴儿脸印花与 oversize 版型在东亚市场走红。 | adlv, competitor, streetwear, korean_wave |
+| [[awoken_space]] ⭐ NEW | 潮流品牌，定位年轻街头与空间美学。 | awoken_space, competitor, streetwear |
+| [[awoken_time]] ⭐ NEW | 潮流品牌，与 AWOKEN-SPACE 同属潮流线。 | awoken_time, competitor, streetwear |
+| [[chuu]] ⭐ NEW | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 | chuu, competitor, womenswear, korean_wave, fast_fashion |
+| [[crocs]] ⭐ NEW | 美国休闲洞洞鞋品牌，以舒适、IP 联名与个性化鞋花（Jibbitz）破圈。 | crocs, competitor, footwear, casual, usa |
+| [[dickies]] ⭐ NEW | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 | dickies, competitor, workwear, streetwear, usa |
+| [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 | diesel, competitor, denim, premium_denim, italy |
+| [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 | dkny, competitor, womenswear, menswear, lifestyle, usa |
+| [[ellesse]] ⭐ NEW | 意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。 | ellesse, competitor, sportswear, retro, italy |
+| [[etudes]] ⭐ NEW | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france |
+| [[g_star_raw]] ⭐ NEW | 荷兰高端牛仔品牌，以 raw denim 与 3D 剪裁闻名。 | g_star_raw, competitor, denim, premium_denim, netherlands |
+| [[hoka_one_one]] ⭐ NEW | 美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。 | hoka_one_one, competitor, sportswear, running, footwear, usa |
+| [[karl_lagerfeld]] ⭐ NEW | 以老佛爷命名的轻奢品牌，由 KARL LAGERFELD 授权运营，覆盖成衣、配饰与香水。 | karl_lagerfeld, competitor, luxury, womenswear, menswear, germany |
+| [[king_baby]] ⭐ NEW | 美国摇滚风格银饰与配饰品牌，定位潮流文化周边。 | king_baby, competitor, accessories, jewelry, streetwear |
+| [[koyo]] ⭐ NEW | 当代潮流品牌，具体定位待补充。 | koyo, competitor, streetwear, contemporary |
+| [[lacoste]] ⭐ NEW | 法国高端运动休闲品牌，以鳄鱼标志与 Polo 衫闻名，网球基因。 | lacoste, competitor, sportswear, premium, france |
+| [[levis]] ⭐ NEW | 美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。 | levis, competitor, denim, premium_denim, usa |
+| [[marcelo_burlon]] ⭐ NEW | 意大利高端街头品牌，以翅膀图腾与俱乐部文化著称。 | marcelo_burlon, competitor, streetwear, luxury_streetwear, italy |
+| [[mlb]] ⭐ NEW | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave |
+| [[mlb_kids]] ⭐ NEW | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave |
+| [[mr_mrs]] ⭐ NEW | 意大利高端皮草派克外套品牌，以军绿色皮草内胆派克大衣出圈。 | mr_mrs, competitor, luxury, outerwear, italy |
+| [[nautica]] ⭐ NEW | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。 | nautica, competitor, menswear, sportswear, usa |
+| [[nerdy]] ⭐ NEW | 韩国潮流品牌，以彩色运动套装与 K-pop 明星同款走红。 | nerdy, competitor, streetwear, korean_wave |
+| [[no_one_else]] ⭐ NEW | 韩国/东亚潮流女装品牌，强调个性与无性别穿搭。 | no_one_else, competitor, streetwear, womenswear, korean_wave |
+| [[salomon]] ⭐ NEW | 法国户外与越野跑装备品牌，亚玛芬体育旗下，山系/机能风潮代表。 | salomon, competitor, sportswear, outdoor, trail_running, france |
+| [[speedo]] ⭐ NEW | 英国竞技泳装品牌，专业游泳装备代名词。 | speedo, competitor, sportswear, swimwear, uk |
+| [[the_mr_young]] ⭐ NEW |  contemporary 男装品牌，具体定位待补充。 | the_mr_young, competitor, menswear, contemporary |
+| [[thisisizi8]] ⭐ NEW | 韩国/东亚潮流品牌，定位 Z 世代街头与社交货币穿搭。 | thisisizi8, competitor, streetwear, korean_wave |
+| [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa |
+| [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名。 | trussardi, competitor, luxury, italy, leather |
+| [[two_am]] ⭐ NEW | 男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
