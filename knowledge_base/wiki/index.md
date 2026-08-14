@@ -31,6 +31,7 @@ updated: 2026-08-14
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] ⭐ UPDATED | 零售AI培训方案商，AI导购陪练；价格异议三周对练成交+17%/门店被拒绝模拟训练（比价留店高四成/10秒回应八成）+ 08-01 美妆对练(成交推进42→78/实验组+9pp) + 08-05新增:Megaview培训成本突围+千店千面切片| vendor, ai, training, megaview + 08-11新增:Megaview 200店案例收入+22%/连单1.9件 | + 08-13新增:虚拟客户陪练拉齐基线(5维16粒度/开放式提问+65%/新人2月)+需求挖掘AI教练(知识留存72%/上岗6→2月)+深挖客户需求(需求挖掘+26%/连带+18%)
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" +7-31新增2026H1半年报(营收28.78亿-0.72%/归母1.02亿+30.89%/扣非5071万+269.9%/净关店137家至2861/加盟-10.32%/非经常性5100万占半壁) +8-01新增2026Q2单季(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿) +8-05新增2026H1品牌/渠道拆解(男11.96亿+1.38%/女10.84亿+2.26%/童3.90亿+3.62%/乐町1.81亿-22.02%；直营14.42亿+2.73%/加盟6.40亿-10.32%/线上7.71亿+3.06%)+关店明细(男-65/女-37)+张江平"弱化大众化路线"+毛利率三口径统一为交易所61.21% +8-06新增2026H1渠道深化(抖音/小红书社交电商加投·线上7.71亿+3.06%/全渠道毛利率61.65%/三十周年盛典宁波奥体·2-5-10战略·POWER ON大秀/治疗小狗eteecy男装联名/直营14.42亿+2.73%/创新设计中心冲出正负零) +8-09新增2026H1资产研发质量深化(存货13.93亿/跌价1.04亿+35.05%/货币资金-62.48%/短借4亿/应收3.16亿-42.36%/研发5901.97万-20.43%·归母1.02亿+30.89%中>50%为非经常性) +8-13新增供应链上游交汇(福恩股份面料枢纽:客户含太平鸟·越南基地) | brand, competitor, a_share, ai, turnaround |
+| [[cabbeen]] ⭐ NEW · 核心 | 卡宾（Cabbeen, HK 02030）设计师男装；知识库仅次于太平鸟的核心品牌，与太平鸟并列双核；数据待补 | brand, competitor, menswear, streetwear, core, hk_listed |
 | [[suhao_fashion]] ⭐ NEW | 苏豪时尚，服装供应链AI智造出海：打样7-10天→1小时/3D还原98%/物料-55%/14000+面料档案/2025服务110+品牌/90秒商拍 +8-05新增智尚云平台(2025上线/数字样衣4000·数字面料11000/物料-55%·人力-30%/减少实物样衣超1万件/客户50余家) | brand, vendor, ai_manufacturing, digital_twin, sourcing |
 | [[muson_gxg]] ⭐ UPDATED | 慕尚集团/GXG，2025FY 20.56亿(-9.4%)/净利3162万/毛利率51.0% +8-02新增借款9.035→4.113亿(资产负债率-54.5%)/"零压力通勤"重新定位/GXG核心盈利驱动 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 +8-13新增京东物流战略合作(万亿日元/+22%级协同)与供应链上游面料枢纽福恩股份(客户含优衣库) | brand, competitor, global |
@@ -55,6 +56,40 @@ updated: 2026-08-14
 | [[安奈儿]] ⭐ NEW | 安奈儿002875，童装A股，2026H1归母亏损320-600万(较上年2869.88万收窄79%-89%)/扣非同步改善，产品渠道优化+降本增效减亏但仍未扭亏 | brand, competitor, childrenswear, a_share |
 | 待迁移 | MLB、速写/江南布衣 | brand, competitor |
 | [[moco_epo]] ⭐ NEW | MO&Co./EPO集团：五级会员分层，会员贡献82%/老客复购51%/VIP复购35-45%，中高端女装会员运营对标样本 | moco, epo, competitor, womenswear, membership, vip |
+
+
+| [[adlv]] ⭐ NEW | 韩国街头潮牌，以婴儿脸印花与 oversize 版型在东亚市场走红。 | adlv, competitor, streetwear, korean_wave, moding_group |
+| [[awoken_space]] ⭐ NEW | MODING GROUP 旗下潮流品牌，定位年轻街头与空间美学。 | awoken_space, competitor, streetwear, moding_group |
+| [[awoken_time]] ⭐ NEW | MODING GROUP 旗下潮流品牌，与 AWOKEN-SPACE 同属集团潮流线。 | awoken_time, competitor, streetwear, moding_group |
+| [[chuu]] ⭐ NEW | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 | chuu, competitor, womenswear, korean_wave, fast_fashion, moding_group |
+| [[crocs]] ⭐ NEW | 美国休闲洞洞鞋品牌，以舒适、IP 联名与个性化鞋花（Jibbitz）破圈。 | crocs, competitor, footwear, casual, usa, moding_group |
+| [[dickies]] ⭐ NEW | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 | dickies, competitor, workwear, streetwear, usa, moding_group |
+| [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 | diesel, competitor, denim, premium_denim, italy, moding_group |
+| [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 | dkny, competitor, womenswear, menswear, lifestyle, usa, moding_group |
+| [[ellesse]] ⭐ NEW | 意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。 | ellesse, competitor, sportswear, retro, italy, moding_group |
+| [[etudes]] ⭐ NEW | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france, moding_group |
+| [[g_star_raw]] ⭐ NEW | 荷兰高端牛仔品牌，以 raw denim 与 3D 剪裁闻名。 | g_star_raw, competitor, denim, premium_denim, netherlands, moding_group |
+| [[hoka_one_one]] ⭐ NEW | 美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。 | hoka_one_one, competitor, sportswear, running, footwear, usa, moding_group |
+| [[karl_lagerfeld]] ⭐ NEW | 以老佛爷命名的轻奢品牌，由 KARL LAGERFELD 授权运营，覆盖成衣、配饰与香水。 | karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, moding_group |
+| [[king_baby]] ⭐ NEW | 美国摇滚风格银饰与配饰品牌，定位潮流文化周边。 | king_baby, competitor, accessories, jewelry, streetwear, moding_group |
+| [[koyo]] ⭐ NEW | MODING GROUP 旗下当代潮流品牌，具体定位待补充。 | koyo, competitor, streetwear, contemporary, moding_group |
+| [[lacoste]] ⭐ NEW | 法国高端运动休闲品牌，以鳄鱼标志与 Polo 衫闻名，网球基因。 | lacoste, competitor, sportswear, premium, france, moding_group |
+| [[levis]] ⭐ NEW | 美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。 | levis, competitor, denim, premium_denim, usa, moding_group |
+| [[marcelo_burlon]] ⭐ NEW | 意大利高端街头品牌，以翅膀图腾与俱乐部文化著称。 | marcelo_burlon, competitor, streetwear, luxury_streetwear, italy, moding_group |
+| [[mlb]] ⭐ NEW | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave, moding_group |
+| [[mlb_kids]] ⭐ NEW | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave, moding_group |
+| [[moding_haute_couture]] ⭐ NEW | MODING GROUP 旗下高端定制/顶奢服务线，承接高净值客户私人订制需求。 | moding_group, haute_couture, luxury, private_service, moding_group |
+| [[mr_mrs]] ⭐ NEW | 意大利高端皮草派克外套品牌，以军绿色皮草内胆派克大衣出圈。 | mr_mrs, competitor, luxury, outerwear, italy, moding_group |
+| [[nautica]] ⭐ NEW | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。 | nautica, competitor, menswear, sportswear, usa, moding_group |
+| [[nerdy]] ⭐ NEW | 韩国潮流品牌，以彩色运动套装与 K-pop 明星同款走红。 | nerdy, competitor, streetwear, korean_wave, moding_group |
+| [[no_one_else]] ⭐ NEW | 韩国/东亚潮流女装品牌，强调个性与无性别穿搭。 | no_one_else, competitor, streetwear, womenswear, korean_wave, moding_group |
+| [[salomon]] ⭐ NEW | 法国户外与越野跑装备品牌，亚玛芬体育旗下，山系/机能风潮代表。 | salomon, competitor, sportswear, outdoor, trail_running, france, moding_group |
+| [[speedo]] ⭐ NEW | 英国竞技泳装品牌，专业游泳装备代名词。 | speedo, competitor, sportswear, swimwear, uk, moding_group |
+| [[the_mr_young]] ⭐ NEW | MODING GROUP 旗下 contemporary 男装品牌，具体定位待补充。 | the_mr_young, competitor, menswear, contemporary, moding_group |
+| [[thisisizi8]] ⭐ NEW | 韩国/东亚潮流品牌，定位 Z 世代街头与社交货币穿搭。 | thisisizi8, competitor, streetwear, korean_wave, moding_group |
+| [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa, moding_group |
+| [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名，现属 MODING GROUP 矩阵中的顶奢线代表。 | trussardi, competitor, luxury, italy, leather, moding_group |
+| [[two_am]] ⭐ NEW | MODING GROUP 旗下男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear, moding_group |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
