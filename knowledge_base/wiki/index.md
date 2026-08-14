@@ -18,6 +18,7 @@ updated: 2026-08-14
 | [[季初订货节奏]] | 订货会 → OTB 分配 → 波段上货 → 周度监控节奏线 | playbook, merchandise, otb |
 | ⭐ UPDATED [[导购培训SOP]] | 新人 7 天上岗路径 + 在岗提升闭环 + AI 陪练 | playbook, training, sales + 08-11新增:苏州培训ROI1:6.5+杭州12店成交率28→56 |
 | ⭐ NEW [[会员价值提升打法]] | 会员价值提升三打法：新客七日激活/沉睡RFM+AI唤醒/VIP分层权益升级（含指标与SOP指向） | playbook, vip, repurchase, ltv + 08-14新增:L2_03深化枢纽配套打法页 |
+| ⭐ NEW [[导购能力提升打法]] | 导购能力提升三打法：新人7天上岗闭环/在岗AI陪练持续提升/明星导购识别复制（含指标与SOP指向） | playbook, guide, training, sales + 08-14新增:L2_04深化枢纽配套打法页 |
 | [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
 | [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
 | ⭐ NEW [[2026H1服装行业KPI经营应对]] | 行业"量增价跌、利润薄"结论→4个经营动作（利润率/周转对标、出口累计口径、定价转质价比） | playbook, benchmark, decision, industry + 08-14新增:行业KPI基准→经营动作闭环 |
@@ -106,6 +107,7 @@ updated: 2026-08-14
 | [[china_apparel_2026q1_operations]] ⭐ NEW | 2026Q1运行基准：零售+9.4%/利润率2.23%/利润-17.76% | industry, kpi, benchmark |
 | [[服装订货会精准策划]] ⭐ NEW | 订货会四阶段闭环：波段订货/三角款/售罄率KPI/库存红线 | merchandise, buying, otb |
 | [[导购培训闭环体系]] ⭐ UPDATED | 学-练-考-评四环节闭环+AI筑基+人工赋能双轨演进(老员工-60%/动态场景90%+)+帆软AI诊断四化 + 08-01 awarathon(22+语言/Samsung上岗-25~30%)+Megaview美妆对练(成交推进42→78) + 08-05新增:Megaview精准滴灌+先练兵后实战 + 08-09新增:Megaview对练改写+启动实验(成本-50%/MegaRAG 24h同步)| guide, training, coaching, ai + 08-11新增:Megaview 200店+苏州培训ROI1:6.5+杭州12店成交率28→56 |
+| ⭐ NEW [[导购能力评估与赋能体系2026]] | L2_04领域枢纽：导购是人效杠杆(成交率+42%/客单价+35%/仅38%受训)+能力可量化(四象限/五指标)+闭环赋能+AI陪练放大 | guide, training, capability, ai + 08-14新增:L2_04深化(枢纽页串联闭环/陪练/SOP/打法+明星导购识别/推销指标) |
 | [[服装企划趋势渠道]] ⭐ UPDATED | 四大渠道横测+四步工作流+品类结构变化 + 08-01 retailnorthstar分品类售罄基准(品类规划视角) +8-05新增渠道结构分化实证"直营涨·加盟跌"(太平鸟直营+2.73%/加盟-10.32%·净减83家占61%/线上毛利率+4.33pct) + 08-05新增:女装金字塔+五种品类角色 + 08-09新增:五步跃迁价格带2-3锚点+3+3+3+3波段| merchandise, planning, trend + 08-11新增:apparellots 60/30/10品类结构+GMROI2.5-3.5 |
 | [[python_dashboard_ecosystem_2026]] ⭐ NEW | 2026 Python看板生态：Streamlit/Dash/Gradio+嵌入式分析 | python, dashboard, streamlit, gradio |
 | [[arrow_zero_copy_interop_2026]] ⭐ UPDATED ⭐ NEW | Apache Arrow零拷贝互操作2026：48x反序列化/90x类型转换/17.5x Flight + 多品牌实战全链路 | apache_arrow, zero_copy, interoperability, multi_brand |
