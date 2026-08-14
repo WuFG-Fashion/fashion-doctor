@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Fashion Doctor 知识库导航
@@ -31,7 +31,7 @@ updated: 2026-08-14
 | [[探马SCRM]] ⭐ UPDATED | 服装行业SCRM，22万客户/ROI 1:9.2/六维选型框架 | vendor, scrm, membership |
 | [[深维智信]] ⭐ UPDATED | 零售AI培训方案商，AI导购陪练；价格异议三周对练成交+17%/门店被拒绝模拟训练（比价留店高四成/10秒回应八成）+ 08-01 美妆对练(成交推进42→78/实验组+9pp) + 08-05新增:Megaview培训成本突围+千店千面切片| vendor, ai, training, megaview + 08-11新增:Megaview 200店案例收入+22%/连单1.9件 | + 08-13新增:虚拟客户陪练拉齐基线(5维16粒度/开放式提问+65%/新人2月)+需求挖掘AI教练(知识留存72%/上岗6→2月)+深挖客户需求(需求挖掘+26%/连带+18%)
 | [[peacebird]] ⭐ UPDATED | 太平鸟603877，2025FY 63.34亿(-6.88%)/净利1.74亿/关375店，2026Q1扣非+33.46%/毛利率62.60%/现金流转正，三十年品牌升级"∞" +7-31新增2026H1半年报(营收28.78亿-0.72%/归母1.02亿+30.89%/扣非5071万+269.9%/净关店137家至2861/加盟-10.32%/非经常性5100万占半壁) +8-01新增2026Q2单季(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿) +8-05新增2026H1品牌/渠道拆解(男11.96亿+1.38%/女10.84亿+2.26%/童3.90亿+3.62%/乐町1.81亿-22.02%；直营14.42亿+2.73%/加盟6.40亿-10.32%/线上7.71亿+3.06%)+关店明细(男-65/女-37)+张江平"弱化大众化路线"+毛利率三口径统一为交易所61.21% +8-06新增2026H1渠道深化(抖音/小红书社交电商加投·线上7.71亿+3.06%/全渠道毛利率61.65%/三十周年盛典宁波奥体·2-5-10战略·POWER ON大秀/治疗小狗eteecy男装联名/直营14.42亿+2.73%/创新设计中心冲出正负零) +8-09新增2026H1资产研发质量深化(存货13.93亿/跌价1.04亿+35.05%/货币资金-62.48%/短借4亿/应收3.16亿-42.36%/研发5901.97万-20.43%·归母1.02亿+30.89%中>50%为非经常性) +8-13新增供应链上游交汇(福恩股份面料枢纽:客户含太平鸟·越南基地) | brand, competitor, a_share, ai, turnaround |
-| [[cabbeen]] ⭐ NEW · 核心 | 卡宾（Cabbeen, HK 02030）设计师男装；知识库仅次于太平鸟的核心品牌，与太平鸟并列双核；数据待补 | brand, competitor, menswear, streetwear, core, hk_listed |
+| [[cabbeen]] ⭐ UPDATED · 核心 | 卡宾（Cabbeen, HK 02030）设计师男装；与太平鸟并列双核；2026H1营收4.53亿(+7.24%)/毛利率46.3%(+2.5pp)/期内溢利2080万(+13.1%)/经营溢利-24.7%/存货周转246天(+38天)/573店；2025FY营收9.44亿(-8.80%)/净利3198万(+10.67%) | brand, competitor, menswear, streetwear, core, hk_listed |
 | [[suhao_fashion]] ⭐ NEW | 苏豪时尚，服装供应链AI智造出海：打样7-10天→1小时/3D还原98%/物料-55%/14000+面料档案/2025服务110+品牌/90秒商拍 +8-05新增智尚云平台(2025上线/数字样衣4000·数字面料11000/物料-55%·人力-30%/减少实物样衣超1万件/客户50余家) | brand, vendor, ai_manufacturing, digital_twin, sourcing |
 | [[muson_gxg]] ⭐ UPDATED | 慕尚集团/GXG，2025FY 20.56亿(-9.4%)/净利3162万/毛利率51.0% +8-02新增借款9.035→4.113亿(资产负债率-54.5%)/"零压力通勤"重新定位/GXG核心盈利驱动 | brand, competitor, hk_listed |
 | [[fast_retailing]] ⭐ UPDATED | 迅销/优衣库，FY2026九个月3.07万亿(+17.1%)/事业利润5927亿(+33.6%)/毛利率54.9%(+1.1pct)/Q3单季海外+65.2%/中国大陆同店转正/全年指引营业利润7300亿/875店单店优化/⚠️6月日本同店-14.1%/5月电商+76%/库销比3.22→3.11 +7-24新增大中华区门店收缩(871家/较峰值-55家/增长脆弱) +7-25新增大中华区前九月5608.39亿+9.86%/超H&M成全球第二 +8-13新增京东物流战略合作(万亿日元/+22%级协同)与供应链上游面料枢纽福恩股份(客户含优衣库) | brand, competitor, global |
@@ -62,7 +62,7 @@ updated: 2026-08-14
 | [[awoken_space]] ⭐ NEW | 潮流品牌，定位年轻街头与空间美学。 | awoken_space, competitor, streetwear |
 | [[awoken_time]] ⭐ NEW | 潮流品牌，与 AWOKEN-SPACE 同属潮流线。 | awoken_time, competitor, streetwear |
 | [[chuu]] ⭐ NEW | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 | chuu, competitor, womenswear, korean_wave, fast_fashion |
-| [[crocs]] ⭐ NEW | 美国休闲洞洞鞋品牌，以舒适、IP 联名与个性化鞋花（Jibbitz）破圈。 | crocs, competitor, footwear, casual, usa |
+| [[crocs]] ⭐ UPDATED | 美国休闲洞洞鞋品牌；2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/国际+7.2%/中国FY2025+30%(占8%)；2026-07樊振东全球代言、5月济南授权店售假风波 | crocs, competitor, footwear, casual, usa, focus_brand |
 | [[dickies]] ⭐ NEW | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 | dickies, competitor, workwear, streetwear, usa |
 | [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 | diesel, competitor, denim, premium_denim, italy |
 | [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 | dkny, competitor, womenswear, menswear, lifestyle, usa |
@@ -87,13 +87,13 @@ updated: 2026-08-14
 | [[the_mr_young]] ⭐ NEW |  contemporary 男装品牌，具体定位待补充。 | the_mr_young, competitor, menswear, contemporary |
 | [[thisisizi8]] ⭐ NEW | 韩国/东亚潮流品牌，定位 Z 世代街头与社交货币穿搭。 | thisisizi8, competitor, streetwear, korean_wave |
 | [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa |
-| [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名。 | trussardi, competitor, luxury, italy, leather |
+| [[trussardi]] ⭐ UPDATED | 意大利百年奢侈品牌（1911皮具起家）；2024-03被Miroglio收购、2025-04重启定位轻奢；2026计划开10店(5意+5海外加盟) | trussardi, competitor, luxury, italy, leather, focus_brand |
 | [[two_am]] ⭐ NEW | 男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear |
 | [[humble_humble_r]] ⭐ NEW | 中国新兴潮流男装品牌（2025 创立·宁波起源），"谦而不卑"内核，中高端潮流男装+亲民价格带，首店 2025-09-05 宁波鄞州万达，正全国扩张。 | humble_humble_r, competitor, menswear, streetwear, china_brand, trendy, focus |
 
 
-| [[ariose_years]] ⭐ NEW · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装，2005创立，1200+门店，定位25-35岁都市女性 | womenswear, premium, china_brand, hangzhou, focus |
-| [[dekashell]] ⭐ NEW · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装，Style by Me，600-900+门店，定位25-38岁新女性 | womenswear, light_elegant, china_brand, hangzhou, focus |
+| [[ariose_years]] ⭐ UPDATED · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装(爱唯时尚集团)，2025销售约50亿/门店破1800/百万会员/杭州女装TOP3；AW PROJECT重奢商圈拓店(港汇恒隆首店首日60万) | womenswear, premium, china_brand, hangzhou, focus |
+| [[dekashell]] ⭐ UPDATED · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装(2007)，Style by Me，30省600+门店，战略"三年冲头部"；非上市无财报(母公司标注冲突待核实) | womenswear, light_elegant, china_brand, hangzhou, focus |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
@@ -198,6 +198,12 @@ updated: 2026-08-14
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-08-15_卡宾2026中期业绩与2025年报]] ⭐ NEW | 卡宾服饰2026H1(营收4.53亿+7.24%/毛利率46.3%+2.5pp/经营溢利-24.7%/存货周转246天)+2025FY(9.44亿-8.80%/净利3198万+10.67%)；HK 02030中期业绩公告 | cabbeen, competitor, menswear, hk_listed, earnings, source |
+| [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]] ⭐ NEW | 艾诺丝雅诗(ARIOSE YEARS)2026：爱唯时尚集团/2025约50亿·1800店·百万会员·杭州女装TOP3；AW PROJECT重奢拓店(港汇恒隆首店首日60万) | ariose_years, womenswear, premium, focus, source |
+| [[2026-08-15_迪卡轩品牌档案]] ⭐ NEW | 迪卡轩(DEKASHELL)品牌档案：杭州轻淑女装/2007/30省600+店/战略冲头部；非上市无财报 | dekashell, womenswear, light_elegant, focus, source |
+| [[2026-08-15_卡骆驰2026Q1中国增长与樊振东代言]] ⭐ NEW | Crocs 2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/中国FY2025+30%；樊振东全球代言、济南售假风波 | crocs, footwear, usa, focus_brand, source |
+| [[2026-08-15_楚萨迪2026重启开店计划]] ⭐ NEW | Trussardi 2026重启：Miroglio收购后定位轻奢，2026开10店(5意+5海外加盟) | trussardi, luxury, italy, focus_brand, source |
+| [[2026-08-15_AI时尚从实验到基础设施2026]] ⭐ NEW | AI时尚2026从实验到基础设施：Zara 7M+试穿/43市场、H&M点击+24%、Zalando图像-90%、Shopify转化+94%、试穿转化2.3x、RFID Top100>80%贴标 | ai, virtual_tryon, market_size, infrastructure, source |
 | [[2026-08-14_2026H1服装行业KPI基准与3月出口基期效应]] ⭐ NEW | 2026H1行业KPI补强：内销全口径服装鞋帽针纺织品(Q1 4122亿+9.3%/1-2月2831亿+10.4%/2025全年15214.6亿+3.2%)+出口1-2月纺织服装504.5亿+17.6%/3月服装-29.4%基期效应(Q1累计+1.2%) | kpi, retail, export, industry, caliber, source |
 | [[2026-08-13_京东物流迅销集团战略合作]] ⭐ NEW | 京东物流×迅销集团(优衣库母公司)战略合作，共建服饰供应链履约，目标万亿日元/+22%级协同 | fast_retailing, uniqlo, jd_logistics, supply_chain, partnership, source |
 | [[2026-08-13_邦小白零售周报618电商AI落地]] ⭐ NEW | 邦小白618周报：京东AI试穿覆盖千万级商品/特步618+22%/服饰电商退货率>50%/1000元轻奢价格带崛起 | ai, ecommerce, 618, tryon, xtep, retail, source |
