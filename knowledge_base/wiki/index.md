@@ -17,6 +17,7 @@ updated: 2026-08-14
 | [[清仓决策树]] | 死库存分级清仓决策树（上市周数 × 动销率） | playbook, inventory, clearance |
 | [[季初订货节奏]] | 订货会 → OTB 分配 → 波段上货 → 周度监控节奏线 | playbook, merchandise, otb |
 | ⭐ UPDATED [[导购培训SOP]] | 新人 7 天上岗路径 + 在岗提升闭环 + AI 陪练 | playbook, training, sales + 08-11新增:苏州培训ROI1:6.5+杭州12店成交率28→56 |
+| ⭐ NEW [[会员价值提升打法]] | 会员价值提升三打法：新客七日激活/沉睡RFM+AI唤醒/VIP分层权益升级（含指标与SOP指向） | playbook, vip, repurchase, ltv + 08-14新增:L2_03深化枢纽配套打法页 |
 | [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
 | [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
 | ⭐ NEW [[2026H1服装行业KPI经营应对]] | 行业"量增价跌、利润薄"结论→4个经营动作（利润率/周转对标、出口累计口径、定价转质价比） | playbook, benchmark, decision, industry + 08-14新增:行业KPI基准→经营动作闭环 |
@@ -67,6 +68,7 @@ updated: 2026-08-14
 | [[ETL架构选型]] ⭐ UPDATED | 2026年ETL三大趋势+五步选型+五大避坑+多品牌融合三原则 + ETL vs ELT双模式选型(4h→30min/8x) | etl, data_warehouse, architecture |
 | [[动态OTB管理]] ⭐ UPDATED | 季中OTB偏离15%解法+Roland Berger价值重构/需求6-8周分化/库存属性重构+第七在线季前五步法(OTB提前2-3周决策/AI 14天预警)+PANTEL六步法(李宁售罄62→78%/周转143→89天) + 08-01 区域店铺级OTB(存销比4.5-5.5/ABC/款色码)+retailnorthstar(分品类售罄80-90%/期初48-72h/准确率0.89) + 08-05新增:GreenRetail六项基准与OTB纪律 + 08-09新增:滚动OTB日历(±20%/±10%)+第七在线OTB公式(计划销售+期末−期初−已下)| otb, merchandise, supply_chain + 08-11新增:百亿零商陈白皮书(售罄≥85%/首单≤60%)+网易OTB公式动态550万 | + 08-13新增:eightx季前采买承诺与追单(三分位承诺+OTB 70/30)+easyreplenish时尚季节库存六指标(STR 65-85%)
 | [[会员复购率提升策略]] ⭐ UPDATED | AI推荐+分层权益+场景触达，复购+18-35pp + VIP训练营71%全勤/转化+44.18%/私域白皮书五平台基准 + 桔尚300店复购35%/有赞付费会员礼品卡62% + 尊云SOP-C（转化≥15%/复购≥40%）+ 忠诚度五转向（Z世代73%即时奖励） + 08-01 老乡鸡(3000万会员/复购GMV9.6亿/腾讯智慧零售)+袁记云饺(5000万会员/老客复购>50%) + 08-05新增:高端男装RFM唤醒+情绪价值复购 + 08-09新增:唯品会SVIP(55%&86%)/中国连锁分层复购+42%/Rivo VIP 1.8X·AOV+73%·Top5% 35%收入(桔尚复购35%见07-11)| vip, repurchase, membership + 08-11新增:成都服饰SMB复购12→34%+FIDUE会员复购贡献62%/VIP5.7倍/复购38% | + 08-13新增:云迁四大数字化路径+winsin私域盘活(私域复购=公域3倍+/麦稀奇74.5%)+china2000(AI私域运营经理复购+50%)
+| ⭐ NEW [[会员与VIP运营体系2026]] | L2_03领域枢纽：会员/VIP运营体系(铁三角+私域承载+AI增效)，头部30%贡献60-80%业绩/复购+10%→利润+30-50% | vip, membership, repurchase, private_domain + 08-14新增:L2_03深化(枢纽页串联复购/一体化/RFM/私域四页+会员价值提升打法) |
 | [[服装门店经营AI化2026]] ⭐ UPDATED | 65%手工记账→AI经营大脑，周转+60%复购+35%；8-03新增丽晶门店12核心指标与日周月三层节奏 | ai, retail_digitalization, store_operation |
 | [[男装品牌竞争格局2026Q1]] ⭐ NEW | 森马增速王/海澜大而不强/太平鸟拐点 | competitor, menswear, comparison |
 | 待迁移：售罄率 | 来自 L3_01_01 KPI健康基准 | kpi, sell_through |

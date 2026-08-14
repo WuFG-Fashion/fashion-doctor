@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2453807d67f07573",
+        "id": "f85f540457a56a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "893af90b8a90d383",
+            "id": "d2bcf4e4790c4271",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -195,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -205,16 +203,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c7e4ee00171c6dae",
+  "active": "d2bcf4e4790c4271",
   "lastOpenFiles": [
-    "Home.md",
+    "wiki/playbooks/会员价值提升打法.md",
+    "wiki/concepts/会员与VIP运营体系2026.md",
+    "wiki/concepts/服装行业竞争格局.md",
     "未命名.base",
+    "wiki/concepts/男装品牌竞争格局2026Q1.md",
+    "Home.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 1.base",
     "未命名 2.canvas",
     "wiki/concepts/AI导购陪练.md",
-    "wiki/concepts/服装行业竞争格局.md",
     "wiki/concepts/light_luxury_brand_framework_2026.md",
     "wiki/concepts/china_apparel_industry_2026q1.md",
     "wiki/entities/peacebird.md",
@@ -235,8 +236,6 @@
     "raw/articles/2026-08-09_唯品会_SVIP分层贡献与复购.md",
     "wiki/sources/2026-08-09_桔尚女装_微盟AI会员复购运营.md",
     "raw/articles/2026-08-09_桔尚女装_微盟AI会员复购运营.md",
-    "L2_07_服装多品牌数据分析系统构建/L3_07_03_跨品牌数据整合/2026-08-09_语义层指标计算层底座更新.md",
-    "L2_06_数据分析实务/L3_06_01_数据质量红线/2026-08-09_情境可信度与DQS基准更新.md",
     "tools/_roundC_20260809_sources.py",
     "tools/_roundC_20260809_raw.py",
     "human",
