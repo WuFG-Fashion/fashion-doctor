@@ -15,6 +15,15 @@ cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2
 > **来源**：Kaelio / Supaboard / bixtech / beefed / 掘金 2026 综述
 > **最后更新**：2026-08-09
 
+
+## 结论
+
+> ⏳ **待 AI 合成洞察**：本页结论应为「判断 / 推论」（例：行业进入 X 期、Y 是胜负手），禁止数据复述。以下为本页顶部摘要，作为合成原始素材：
+>
+> **一句话摘要**：语义层是 2026 年成为 AI 基础设施的数据抽象层——把"已定义好的指标/维度/实体关系/业务规则"与原始数据分离，对 BI 工具与 AI Agent 统一暴露，解决多团队对同一指标定义不一、报表口径漂移的问题。
+
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+
 ## 它有什么、没有什么
 
 **有**：Entities（业务名词与关系）/ Metrics（具名、已定义度量，含计算逻辑与排除项）/ Dimensions（切片方式）/ Relationships（join 逻辑）/ 治理验证（谁拥有、谁能改、如何断言正确）/ 业务规则（财年日历、汇率、自定义周期）。
@@ -74,6 +83,16 @@ cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2
 - 多品牌统一分析架构的"指标计算层"即语义层落地对象——集中定义不可协商的指标（售罄率/周转/复购），各品牌分布使用。
 - 报表口径应沉淀为度量定义，避免各部门各自重算；ChatBI/对话式入口经 MCP 只读已批准指标。
 - 库存预测偏差≤10%、T+0 更新≥80% 等质量门槛可作为语义层治理验证的断言。
+
+## 信息链
+
+- **上游 · 来源支撑**：[[2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]]（本页事实来自这些原始采集）
+- **本页定位**：concept —— 语义层与指标层（Semantic Layer / Metrics Layer）2026
+- 关联实体：无
+- 关联概念：[[data_governance_tech_routes_2026]] · [[retail_analytics_reporting_2026]] · [[data_quality_governance]] · [[duckdb_olap_engine_2026]]
+- 关联对比：无
+- 关联打法：无
+- ⚠️ **断点（指向未建页）**：[[multi_brand_unified_analytics]]（待补页或修正双链）
 
 ## 关联页面
 

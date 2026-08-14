@@ -12,6 +12,15 @@ cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数�
 
 > **一句话**：通过索引设计、SQL改写和参数调优三大维度，可实现零售数据查询10-40倍性能提升。
 
+
+## 结论
+
+> ⏳ **待 AI 合成洞察**：本页结论应为「判断 / 推论」（例：行业进入 X 期、Y 是胜负手），禁止数据复述。以下为本页顶部摘要，作为合成原始素材：
+>
+> **一句话**：通过索引设计、SQL改写和参数调优三大维度，可实现零售数据查询10-40倍性能提升。
+
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+
 ## 核心要点
 
 1. 索引+SQL改写占优化效果的70%（IEEE研究），是第一优先级
@@ -238,6 +247,16 @@ DuckDB Labs 给出三层查询优化栈，与本项目"款号/色号/门店编�
 **内存**：`PRAGMA memory_limit='8GB'` + `temp_directory` 指 SSD；`PRAGMA show_temporary_files` 检测 spill（落盘慢 10–100x）。物化预聚合表胜过索引——本项目"每日指标预计算"可直接套用。
 
 > 映射：DuckDB 三层栈补强本项目 [[duckdb_olap_engine_2026]] 的生产调优层；与 [[polars_vs_pandas_2026]] 的"按 workload 选引擎"一致（DuckDB 擅 SQL 聚合/即席，Polars 擅 ETL 流水线）。
+
+## 信息链
+
+- **上游 · 来源支撑**：[[2026-07-03_腾讯云_PostgreSQL_19_Beta1]] · [[2026-07-31_SQL性能优化2026原理驱动实战]] · [[2026-08-03_服装零售指标口径统一与进销存SQL]] · [[2026-07-09_DevTo_PostgreSQL_2026性能调优]] · [[2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18]] · [[2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]] · [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]] · [[2026-06-06_百度开发者_SQL优化实战]] · [[2026-06-06_简道云_服装SKU进销存管理]] · [[2026-06-06_腾讯云社区_MySQL查询优化]] · [[2026-06-07_Polars_2.0流式ETL]] · [[2026-06-12_CSDN_Python数据分析工作流2026]] · [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] · [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]] · [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]（本页事实来自这些原始采集）
+- **本页定位**：concept —— SQL查询性能优化
+- 关联实体：无
+- 关联概念：[[ETL架构选型]] · [[retail_data_workflow_2026]] · [[duckdb_olap_engine_2026]] · [[polars_vs_pandas_2026]] · [[python_data_stack_decision_2026]] · [[sku_fine_management]]
+- 关联对比：无
+- 关联打法：无
+- ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[data_quality_retail_practice]] · [[multi_brand_unified_analytics]] · [[python_sql_integration_patterns_2026]] · [[sku_inventory_sql_operations]]（待补页或修正双链）
 
 ## 关联页面
 

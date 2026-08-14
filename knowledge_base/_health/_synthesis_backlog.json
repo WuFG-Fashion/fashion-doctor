@@ -1,0 +1,494 @@
+[
+ {
+  "name": "服装行业竞争格局",
+  "folder": "concepts",
+  "in": 44,
+  "out": 63
+ },
+ {
+  "name": "apparel_ai_agents_2026",
+  "folder": "concepts",
+  "in": 40,
+  "out": 135
+ },
+ {
+  "name": "retail_ai_adoption_2026",
+  "folder": "concepts",
+  "in": 38,
+  "out": 114
+ },
+ {
+  "name": "peacebird",
+  "folder": "entities",
+  "in": 31,
+  "out": 78
+ },
+ {
+  "name": "ai_fashion_design_cases_2026",
+  "folder": "concepts",
+  "in": 24,
+  "out": 63
+ },
+ {
+  "name": "柔性供应链与商品企划",
+  "folder": "concepts",
+  "in": 23,
+  "out": 87
+ },
+ {
+  "name": "动态OTB管理",
+  "folder": "concepts",
+  "in": 22,
+  "out": 115
+ },
+ {
+  "name": "semir",
+  "folder": "entities",
+  "in": 21,
+  "out": 57
+ },
+ {
+  "name": "ETL架构选型",
+  "folder": "concepts",
+  "in": 21,
+  "out": 51
+ },
+ {
+  "name": "polars_vs_pandas_2026",
+  "folder": "concepts",
+  "in": 20,
+  "out": 88
+ },
+ {
+  "name": "sku_fine_management",
+  "folder": "concepts",
+  "in": 20,
+  "out": 88
+ },
+ {
+  "name": "duckdb_olap_engine_2026",
+  "folder": "concepts",
+  "in": 19,
+  "out": 51
+ },
+ {
+  "name": "ai_virtual_tryon_2026",
+  "folder": "concepts",
+  "in": 18,
+  "out": 67
+ },
+ {
+  "name": "data_quality_governance",
+  "folder": "concepts",
+  "in": 18,
+  "out": 46
+ },
+ {
+  "name": "bienlefen",
+  "folder": "entities",
+  "in": 18,
+  "out": 44
+ },
+ {
+  "name": "hla",
+  "folder": "entities",
+  "in": 16,
+  "out": 54
+ },
+ {
+  "name": "fast_retailing",
+  "folder": "entities",
+  "in": 16,
+  "out": 46
+ },
+ {
+  "name": "全渠道会员一体化",
+  "folder": "concepts",
+  "in": 15,
+  "out": 73
+ },
+ {
+  "name": "data_governance_tech_routes_2026",
+  "folder": "concepts",
+  "in": 15,
+  "out": 52
+ },
+ {
+  "name": "streamlit_dashboard_2026",
+  "folder": "concepts",
+  "in": 15,
+  "out": 47
+ },
+ {
+  "name": "ai_fashion_consumer_2026",
+  "folder": "concepts",
+  "in": 15,
+  "out": 23
+ },
+ {
+  "name": "会员复购率提升策略",
+  "folder": "concepts",
+  "in": 14,
+  "out": 134
+ },
+ {
+  "name": "服装企划趋势渠道",
+  "folder": "concepts",
+  "in": 13,
+  "out": 53
+ },
+ {
+  "name": "data_lakehouse_2026",
+  "folder": "concepts",
+  "in": 13,
+  "out": 43
+ },
+ {
+  "name": "SQL查询性能优化",
+  "folder": "concepts",
+  "in": 13,
+  "out": 36
+ },
+ {
+  "name": "inditex_zara",
+  "folder": "entities",
+  "in": 13,
+  "out": 34
+ },
+ {
+  "name": "jnby",
+  "folder": "entities",
+  "in": 13,
+  "out": 30
+ },
+ {
+  "name": "ai_fashion_market_2026",
+  "folder": "concepts",
+  "in": 13,
+  "out": 29
+ },
+ {
+  "name": "retail_analytics_reporting_2026",
+  "folder": "concepts",
+  "in": 13,
+  "out": 23
+ },
+ {
+  "name": "agentic_commerce_fashion_2026",
+  "folder": "concepts",
+  "in": 12,
+  "out": 49
+ },
+ {
+  "name": "python_data_stack_decision_2026",
+  "folder": "concepts",
+  "in": 12,
+  "out": 35
+ },
+ {
+  "name": "AI导购陪练",
+  "folder": "concepts",
+  "in": 11,
+  "out": 114
+ },
+ {
+  "name": "light_luxury_brand_framework_2026",
+  "folder": "concepts",
+  "in": 11,
+  "out": 33
+ },
+ {
+  "name": "china_apparel_2025_annual",
+  "folder": "concepts",
+  "in": 11,
+  "out": 27
+ },
+ {
+  "name": "earnings_quality_nonrecurring_2026",
+  "folder": "concepts",
+  "in": 11,
+  "out": 18
+ },
+ {
+  "name": "ai_fashion_ecommerce_tryon_tools_2026",
+  "folder": "concepts",
+  "in": 10,
+  "out": 40
+ },
+ {
+  "name": "apparel_inventory_benchmark_2026",
+  "folder": "concepts",
+  "in": 10,
+  "out": 30
+ },
+ {
+  "name": "apparel_esg_rating_2026",
+  "folder": "concepts",
+  "in": 10,
+  "out": 21
+ },
+ {
+  "name": "apparel_supply_chain_profit_chasm_2026q1",
+  "folder": "concepts",
+  "in": 10,
+  "out": 20
+ },
+ {
+  "name": "lilanz",
+  "folder": "entities",
+  "in": 10,
+  "out": 18
+ },
+ {
+  "name": "china_apparel_industry_scale_2026",
+  "folder": "concepts",
+  "in": 10,
+  "out": 16
+ },
+ {
+  "name": "bosideng",
+  "folder": "entities",
+  "in": 9,
+  "out": 25
+ },
+ {
+  "name": "lululemon",
+  "folder": "entities",
+  "in": 9,
+  "out": 25
+ },
+ {
+  "name": "china_apparel_2026q1_operations",
+  "folder": "concepts",
+  "in": 9,
+  "out": 14
+ },
+ {
+  "name": "男装品牌竞争格局2026Q1",
+  "folder": "concepts",
+  "in": 9,
+  "out": 11
+ },
+ {
+  "name": "服装门店经营AI化2026",
+  "folder": "concepts",
+  "in": 8,
+  "out": 33
+ },
+ {
+  "name": "arrow_zero_copy_interop_2026",
+  "folder": "concepts",
+  "in": 8,
+  "out": 27
+ },
+ {
+  "name": "retail_data_workflow_2026",
+  "folder": "concepts",
+  "in": 8,
+  "out": 27
+ },
+ {
+  "name": "china_apparel_export_2026",
+  "folder": "concepts",
+  "in": 8,
+  "out": 26
+ },
+ {
+  "name": "apparel_ai_policy_2026",
+  "folder": "concepts",
+  "in": 8,
+  "out": 16
+ },
+ {
+  "name": "burberry",
+  "folder": "entities",
+  "in": 8,
+  "out": 15
+ },
+ {
+  "name": "moco_epo",
+  "folder": "entities",
+  "in": 8,
+  "out": 13
+ },
+ {
+  "name": "python_dashboard_ecosystem_2026",
+  "folder": "concepts",
+  "in": 7,
+  "out": 28
+ },
+ {
+  "name": "septwolves",
+  "folder": "entities",
+  "in": 7,
+  "out": 20
+ },
+ {
+  "name": "jiumuwang",
+  "folder": "entities",
+  "in": 7,
+  "out": 15
+ },
+ {
+  "name": "导购培训闭环体系",
+  "folder": "concepts",
+  "in": 6,
+  "out": 101
+ },
+ {
+  "name": "深维智信",
+  "folder": "entities",
+  "in": 6,
+  "out": 62
+ },
+ {
+  "name": "muson_gxg",
+  "folder": "entities",
+  "in": 6,
+  "out": 19
+ },
+ {
+  "name": "data_asset_management_2026",
+  "folder": "concepts",
+  "in": 6,
+  "out": 17
+ },
+ {
+  "name": "retail_bi_visualization_2026",
+  "folder": "concepts",
+  "in": 6,
+  "out": 17
+ },
+ {
+  "name": "style3d_lingdi",
+  "folder": "entities",
+  "in": 6,
+  "out": 14
+ },
+ {
+  "name": "baoxiniao",
+  "folder": "entities",
+  "in": 6,
+  "out": 12
+ },
+ {
+  "name": "anzheng_fashion",
+  "folder": "entities",
+  "in": 6,
+  "out": 10
+ },
+ {
+  "name": "ai_fashion_capability_2026",
+  "folder": "concepts",
+  "in": 5,
+  "out": 20
+ },
+ {
+  "name": "anta",
+  "folder": "entities",
+  "in": 5,
+  "out": 19
+ },
+ {
+  "name": "hm",
+  "folder": "entities",
+  "in": 5,
+  "out": 18
+ },
+ {
+  "name": "suhao_fashion",
+  "folder": "entities",
+  "in": 5,
+  "out": 11
+ },
+ {
+  "name": "sleeping_member_reactivation",
+  "folder": "concepts",
+  "in": 4,
+  "out": 24
+ },
+ {
+  "name": "etl_governance_convergence_2026",
+  "folder": "concepts",
+  "in": 4,
+  "out": 16
+ },
+ {
+  "name": "探马SCRM",
+  "folder": "entities",
+  "in": 4,
+  "out": 16
+ },
+ {
+  "name": "库存清仓策略",
+  "folder": "concepts",
+  "in": 4,
+  "out": 14
+ },
+ {
+  "name": "semantic_layer_metrics_2026",
+  "folder": "concepts",
+  "in": 4,
+  "out": 11
+ },
+ {
+  "name": "sell_through_examination_standard_2026",
+  "folder": "concepts",
+  "in": 3,
+  "out": 18
+ },
+ {
+  "name": "python_dev_stack_2026",
+  "folder": "concepts",
+  "in": 3,
+  "out": 15
+ },
+ {
+  "name": "langzi_fashion",
+  "folder": "entities",
+  "in": 3,
+  "out": 10
+ },
+ {
+  "name": "服装采购渠道选型2026",
+  "folder": "concepts",
+  "in": 3,
+  "out": 9
+ },
+ {
+  "name": "consumption_expansion_15th_fiveyear_2026",
+  "folder": "concepts",
+  "in": 3,
+  "out": 7
+ },
+ {
+  "name": "安奈儿",
+  "folder": "entities",
+  "in": 3,
+  "out": 5
+ },
+ {
+  "name": "订货会决策框架",
+  "folder": "concepts",
+  "in": 2,
+  "out": 21
+ },
+ {
+  "name": "丽晶",
+  "folder": "entities",
+  "in": 2,
+  "out": 13
+ },
+ {
+  "name": "top_sports",
+  "folder": "entities",
+  "in": 2,
+  "out": 11
+ },
+ {
+  "name": "global_apparel_financial_benchmarks_2026",
+  "folder": "concepts",
+  "in": 2,
+  "out": 7
+ }
+]

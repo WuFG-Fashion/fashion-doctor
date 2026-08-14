@@ -14,6 +14,15 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_bran
 
 > **来源**：CSDN 2026-07-04深度解析 + PyTutorial Arrow互操作 + Pandas官方3.0
 
+
+## 结论
+
+> ⏳ **待 AI 合成洞察**：本页结论应为「判断 / 推论」（例：行业进入 X 期、Y 是胜负手），禁止数据复述。以下为本页顶部摘要，作为合成原始素材：
+>
+> **一句话摘要**：Apache Arrow是数据栈的"USB-C接口标准"——不是数据库/不替代工具，而是定义跨语言统一列式内存布局，让Polars/DuckDB/Pandas/PySpark等工具共享同一份物理内存，消除序列化/反序列化的"三重浪费"。
+
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+
 ## 核心原理
 
 Arrow规定所有语言共同遵守的物理内存布局规范：
@@ -169,6 +178,16 @@ DataFrame/Series 现同时支持 PyCapsule 协议的**导出与导入**（GH 565
 ima.qq.com 内存对比（Polars vs Pandas）：1000 万行混合 3.2GB→1.1GB（省 65%）、字符串密集 5.8→1.9GB（省 67%）、GroupBy 峰值 8.4→2.3GB（省 73%）。
 
 > 与 kb `memory_saving_pct=0.87`（早期 Pandas 内部/其他 workload 口径）为口径差异，非硬矛盾；与 [[polars_vs_pandas_2026]] 的 2026-08 基准一致。
+
+## 信息链
+
+- **上游 · 来源支撑**：[[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]] · [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]] · [[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]] · [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]] · [[2026-07-15_Pandas_3.0_Arrow原生架构革命]] · [[2026-07-15_Polars_1.42自适应云IO与矛盾过滤器]] · [[2026-08-06_Python看板六框架横评与生产三大失效模式]] · [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]] · [[2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]]（本页事实来自这些原始采集）
+- **本页定位**：concept —— Apache Arrow 零拷贝互操作 2026
+- 关联实体：无
+- 关联概念：[[polars_vs_pandas_2026]] · [[duckdb_olap_engine_2026]] · [[streamlit_dashboard_2026]] · [[ETL架构选型]] · [[data_lakehouse_2026]] · [[python_data_stack_decision_2026]]
+- 关联对比：无
+- 关联打法：无
+- ⚠️ **断点（指向未建页）**：[[multi_brand_unified_analytics]] · [[data_library_selection_guide_2026]] · [[python_sql_integration_patterns_2026]]（待补页或修正双链）
 
 ## 关联页面
 
