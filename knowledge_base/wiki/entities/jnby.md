@@ -1,6 +1,10 @@
 ---
 type: entity
 title: 江南布衣 (JNBY)
+aliases:
+  - "江南布衣"
+  - "JNBY"
+  - "3306.HK"
 tags: [jnby, competitor, womenswear, hk_listed, membership, brand_strategy]
 sources: [2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎.md]
 created: 2026-06-13

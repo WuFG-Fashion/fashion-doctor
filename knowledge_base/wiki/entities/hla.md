@@ -1,6 +1,11 @@
 ---
 type: entity
 title: 海澜之家 (HLA)
+aliases:
+  - "海澜之家"
+  - "HLA"
+  - "600398.SH"
+  - "海澜"
 tags: [competitor, menswear, entity, stock_600398]
 aka: [海澜之家, HLA, 海澜集团]
 founded: 1997

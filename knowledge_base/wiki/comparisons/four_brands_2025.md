@@ -1,6 +1,9 @@
 ---
 type: comparison
 title: 四大品牌2025/2026财务对比
+aliases:
+  - "四大品牌"
+  - "four brands 2025"
 tags: [competitor, financial, comparison, peacebird, gxg, uniqlo, zara]
 sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-05_慕尚集团_GXG2025年报.md, 2026-06-05_迅销_优衣库FY2026H1.md, 2026-06-05_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05

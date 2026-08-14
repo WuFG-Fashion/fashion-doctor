@@ -1,6 +1,11 @@
 ---
 type: concept
 title: 语义层与指标层（Semantic Layer / Metrics Layer）2026
+aliases:
+  - "语义层"
+  - "指标层"
+  - "Semantic Layer"
+  - "Metrics Layer"
 tags: [semantic_layer, metrics_layer, dbt, metricflow, osi, ai_agent, governance, headless]
 sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]
 created: 2026-08-09

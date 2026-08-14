@@ -1,6 +1,9 @@
 ---
 type: entity
 title: 波司登
+aliases:
+  - "Bosideng"
+  - "3998.HK"
 tags: [bosideng, competitor, hk_listed, down_jacket, ai]
 sources: [2026-06-29_波司登_FY2026财报.md, 2026-07-02_深圳新闻网_波司登FY2026深层分析.md, 2026-07-03_中财网_纺织服装中报前瞻2026.md, 2026-06-22_波司登AI智能制造国家级典型案例.md, 2026-06-08_世界服装鞋帽网_AI驱动服装供应链重塑.md, 2026-08-04_波司登品牌价值1356.87亿_BSD.AI.md]
 created: 2026-06-29

@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 服装行业垂直AI智能体2026
+aliases:
+  - "服装行业垂直AI智能体"
+  - "apparel ai agents 2026"
 tags: [ai, agent, fashion, supply_chain, digitalization]
 sources: [2026-06-07_垂直AI智能体_服装新风口.md, 2026-06-13_GoogleCloud_AI_Agent趋势2026.md, 2026-06-16_腾讯新闻_2026零售AI决胜点NVIDIA案例.md, 2026-06-22_搜狐_AI_Agent重塑零售三阶段.md, 2026-07-18_Style3D伙伴大会_AI数字伙伴产业落地.md, 2026-07-21_Style3D伙伴大会2026.md, 2026-07-22_Adobe_AI_shopping_agents_fashion.md, 2026-07-22_AI_agent_ecommerce_fashion_capabilities.md, 2026-07-24_WAIC2026_服装电商AI信号.md, 2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准.md, 2026-07-26_Vistoya_2026时尚品牌AI_Agent实战.md, 2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026.md, 2026-07-31_全球AI时尚零售落地信号2026.md, 2026-08-01_苏豪时尚_AI智造出海.md, 2026-08-01_AI购物Agent与机器可读产品数据.md, 2026-08-01_AI结账落地2026_Gap_Ulta_JDSports.md, 2026-08-01_OTTO_Zalando_AI德国市场.md, 2026-08-04_杭州纺织AI全链路_万事利垂直大模型.md, 2026-08-04_易元AI双引擎_服装电商测款.md, 2026-08-04_科捷物流AI供应链控制塔.md, 2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准.md, 2026-08-05_迪尚集团_创意服饰产业大脑效率基准.md, 2026-08-05_苏豪时尚_智尚云平台数智化资源库.md, 2026-08-05_服装行业科技创新大会_消费动力学大模型与数字员工.md, 2026-08-06_中国服装网_纺织服装业判断力战争.md, 2026-08-06_腾讯新闻_迪尚AI裁剪全球市场.md, 2026-08-06_VOGUE_Business_2026年AI将如何影响我们的衣橱.md, 2026-08-09_迪尚集团_服装产业大脑AI智造工装.md, 2026-08-09_海宁皮革城_京东OxygenVision_AI试衣.md]
 created: 2026-06-07

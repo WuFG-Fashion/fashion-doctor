@@ -1,6 +1,11 @@
 ---
 type: entity
 title: lululemon
+aliases:
+  - "Lululemon"
+  - "露露乐蒙"
+  - "露露柠檬"
+  - "LULU"
 tags: [lululemon, competitor, athleisure, global, canada]
 sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md, 2026-06-24_RetailWatch_29品牌2026Q1业绩更新.md]
 created: 2026-06-07

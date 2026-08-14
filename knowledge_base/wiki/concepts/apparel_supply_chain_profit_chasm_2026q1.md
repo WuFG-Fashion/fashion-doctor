@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 服装产业链利润分化（2026Q1）
+aliases:
+  - "服装产业链利润分化"
+  - "2026Q1"
+  - "apparel supply chain profit chasm 2026q1"
 tags: [industry, profit, supply_chain, cost_pressure, benchmark]
 sources: [2026-06-08_产业链利润分化_2026Q1.md]
 created: 2026-06-08

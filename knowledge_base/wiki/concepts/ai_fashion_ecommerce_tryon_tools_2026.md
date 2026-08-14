@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 服装AI试衣工具选型与落地（2026）
+aliases:
+  - "服装AI试衣工具选型与落地"
+  - "ai fashion ecommerce tryon tools 2026"
 tags: [ai, virtual_tryon, ecommerce, tool_selection, roi, fashion_tech]
 sources: [2026-06-08_知衣FD_AI试衣工具选型.md, 2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026.md, 2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣.md, 2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准.md, 2026-08-09_海宁皮革城_京东OxygenVision_AI试衣.md]
 created: 2026-06-08

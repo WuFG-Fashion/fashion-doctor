@@ -1,11 +1,14 @@
 ---
 type: concept
 title: 中国服装行业规模与结构（2026）
+aliases:
+  - "中国服装行业规模与结构"
+  - "china apparel industry scale 2026"
 tags: [china_apparel, industry_scale, market_size, workforce, digitalization]
 sources: [WorldMetrics.org 2026-02]
 created: 2026-06-06
 updated: 2026-06-06
-cross_refs: [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[2026-06-06_中国服装行业统计2026]], [[china_apparel_export_2026]]
+cross_refs: [[中国服装零售基准体系2026]], [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[2026-06-06_中国服装行业统计2026]], [[china_apparel_export_2026]]
 ---
 
 # 中国服装行业规模与结构（2026）

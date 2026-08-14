@@ -1,6 +1,9 @@
 ---
 type: concept
 title: Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
+aliases:
+  - "Python项目默认技术栈"
+  - "python dev stack 2026"
 tags: [python, polars, devops, toolchain, uv, ruff, streamlit]
 sources: [2026-06-14_AIFutureThinkers_uv_Ruff_Ty_Polars_2026默认技术栈.md]
 created: 2026-06-14

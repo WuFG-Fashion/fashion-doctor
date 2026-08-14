@@ -1,6 +1,8 @@
 ---
 type: practice
 title: Python Pandas+SQL集成实战模式
+aliases:
+  - "python sql integration patterns 2026"
 tags: [python, pandas, sql, pandasql, sqlalchemy, etl, integration, practice]
 sources: [2026-06-15_aimojo_Python_Pandas_SQL集成指南, https://aimojo.io/zh-CN/python-pandas-and-sql/]
 created: 2026-06-15

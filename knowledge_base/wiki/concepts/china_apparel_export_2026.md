@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 中国服装出口2026（1-6月）
+aliases:
+  - "中国服装出口"
+  - "china apparel export 2026"
 tags: [export, trade, customs, industry, supply_chain, benchmark]
 sources: [2026-06-12_海关总署_2026年1-4月服装出口.md, 2026-06-22_纺商会_2026年1-5月纺织服装出口.md, 2026-07-22_china_textile_apparel_export_h1_2026.md, 2026-08-09_银河广发_纺服中期策略出口口径分化.md]
 created: 2026-06-12

@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 2026 Python看板生态系统
+aliases:
+  - "python dashboard ecosystem 2026"
 tags: [python, dashboard, streamlit, dash, gradio, comparison]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard]
 created: 2026-06-07

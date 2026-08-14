@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 2025年中国服装行业全年大盘
+aliases:
+  - "china apparel 2025 annual"
 tags: [industry, kpi, benchmark, financial, export, 2025]
 sources: [2026-06-10_商务部_2025年服装行业全年经济运行.md]
 created: 2026-06-10

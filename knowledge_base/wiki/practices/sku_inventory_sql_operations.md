@@ -1,6 +1,8 @@
 ---
 type: practice
 title: 服装SKU进销存管理实操
+aliases:
+  - "sku inventory sql operations"
 tags: [sku, inventory, replenishment, practice, sql]
 created: 2026-06-06
 updated: 2026-06-21

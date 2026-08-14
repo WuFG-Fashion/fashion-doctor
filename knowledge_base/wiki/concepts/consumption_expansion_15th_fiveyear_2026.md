@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 扩大消费"十五五"规划(2026-2030)
+aliases:
+  - "扩大消费"十五五"规划"
+  - "consumption expansion 15th fiveyear 2026"
 tags: [policy, consumption, industry, benchmark, fifteen_five, kpi, retail]
 sources: [2026-07-25_十五五60万亿消费规划.md]
 created: 2026-07-25

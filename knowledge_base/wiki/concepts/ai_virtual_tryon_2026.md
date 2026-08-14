@@ -1,6 +1,11 @@
 ---
 type: concept
 title: AI虚拟试衣技术2026
+aliases:
+  - "AI虚拟试衣"
+  - "虚拟试衣"
+  - "Virtual Try-On"
+  - "VTO"
 tags: [ai, virtual_tryon, ecommerce, conversion, fashion_tech, tool_selection, interactive_vvt]
 sources: [2026-06-07_AI虚拟试衣_服装电商.md, 2026-06-16_FlowpixAI_AI虚拟试衣5款工具实测2026.md, 2026-06-16_搜狐_618服装AI商拍工具实测.md, 2026-06-21_搜狐_AI服饰消费新纪元2026.md, 2026-06-22_Genlook_12大AI时尚趋势2026.md, 2026-07-04_iTryOn互动式视频虚拟试衣.md, 2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣.md, 2026-08-09_海宁皮革城_京东OxygenVision_AI试衣.md]
 created: 2026-06-07

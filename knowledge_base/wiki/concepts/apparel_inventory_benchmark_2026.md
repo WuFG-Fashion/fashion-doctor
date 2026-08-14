@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 服装行业库存基准与健康红线2026
+aliases:
+  - "服装行业库存基准与健康红线"
+  - "apparel inventory benchmark 2026"
 tags: [inventory, stock, turnover, dead_stock, kpi, benchmark]
 sources: [2026-06-11_百家号_2026服装零售库存困局与小程序解法.md]
 created: 2026-06-11

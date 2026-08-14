@@ -1,6 +1,12 @@
 ---
 type: entity
 title: 安踏集团 (ANTA)
+aliases:
+  - "安踏"
+  - "安踏集团"
+  - "ANTA"
+  - "安踏体育"
+  - "2020.HK"
 tags: [anta, competitor, sportswear, ai, hk_listed]
 sources: [2026-05-30_安踏_灵犀穿搭大模型.md, 2026-07-15_火山引擎_安踏灵犀穿搭大模型发布.md, 2026-08-07_商业新知_2026Q1服装业绩排行.md]
 created: 2026-07-12

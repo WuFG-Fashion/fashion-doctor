@@ -1,6 +1,8 @@
 ---
 type: entity
 title: 苏豪时尚
+aliases:
+  - "苏豪"
 tags: [suhao, fashion, ai_manufacturing, digital_twin, sourcing, vendor, cross_border]
 sources: [2026-08-01_苏豪时尚_AI智造出海.md, 2026-08-05_苏豪时尚_智尚云平台数智化资源库.md]
 created: 2026-08-01

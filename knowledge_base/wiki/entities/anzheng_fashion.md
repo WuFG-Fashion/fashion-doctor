@@ -1,6 +1,12 @@
 ---
 type: entity
 title: 安正时尚集团 (603839.SH)
+aliases:
+  - "安正时尚"
+  - "安正时尚集团"
+  - "603839.SH"
+  - "玖姿"
+  - "JZ"
 tags: [anzheng, competitor, womenswear, a_share, earnings]
 sources: [2026-07-14_安正时尚_2026H1业绩预告.md]
 created: 2026-07-17

@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 全球服装品牌财务基准2026
+aliases:
+  - "全球服装品牌财务基准"
+  - "global apparel financial benchmarks 2026"
 tags: [kpi, benchmark, global, financial, gross_margin, inventory, dtc, international]
 sources: [2026-07-16_Eightx全球服装品牌财务基准2026.md]
 created: 2026-07-16

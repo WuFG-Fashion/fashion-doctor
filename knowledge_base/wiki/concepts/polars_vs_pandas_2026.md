@@ -1,6 +1,11 @@
 ---
 type: concept
 title: Polars vs Pandas vs DuckDB 2026选型指南
+aliases:
+  - "Polars"
+  - "Pandas"
+  - "DuckDB"
+  - "数据框选型"
 tags: [polars, duckdb, pandas, python, data_analysis, benchmark, etl, mlflow, streamlit]
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas, https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 2026-06-08_Polars_DuckDB_Pandas三大引擎对比, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026, 2026-06-11_chenxutan_Polars深度实战Rust架构, 2026-06-14_Scopir_Python数据分析库2026全景对比.md, 2026-06-18_CSDN_Polars_2.0_大规模清洗优化, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-06-27_chenxutan_Polars深层架构与生态2026, 2026-06-30_chenxutan_Polars_Pandas深度实测2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026, 2026-07-15_Polars官方_polars_1.42新特性, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-15_匡醍量化_Pandas_3.0底层架构革命, 2026-07-18_Johal_2026生产力数据分析七栈基准, 2026-07-22_Polars_1.42_分布式K8s_vs_Spark基准, 2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准, 2026-07-28_CSDN_Polars_2.0_清洗范式跃迁, 2026-07-31_Polars_2.0_Pandas_2.2大规模清洗基准, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-06-06

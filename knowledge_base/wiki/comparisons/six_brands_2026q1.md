@@ -1,6 +1,10 @@
 ---
 type: comparison
 title: 八品牌2026Q1财务对比（含H&M Q2更新）
+aliases:
+  - "八品牌"
+  - "含H&M Q2更新"
+  - "six brands 2026q1"
 tags: [competitor, financial, comparison, peacebird, hla, semir, zara, uniqlo, lululemon, hm, topsports, 2026Q1, 2026Q2]
 sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-07_竞品财务更新2026Q1.md, 2026-06-08_lululemon_2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md, 2026-06-09_FastRetailing_优衣库FY2026Q1.md, 2026-06-14_29家服装运动企业2026Q1财报全景.md, 2026-06-14_滔搏FY2026全年业绩257亿.md, 2026-06-14_H&M2026Q1库存降16%.md, 2026-06-08_网易_29家服装运动企业2026Q1业绩汇总.md, 2026-07-07_广发证券_H&M_FY2026Q2.md, 2026-07-24_纺织服装2026中报业绩前瞻.md, 2026-07-26_海澜之家2026Q1渠道深化与全球化.md, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%.md, 2026-08-01_太平鸟2026Q2单季质量分析.md, 2026-08-02_慕尚集团GXG_2025年报深化.md, 2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略.md]
 created: 2026-06-07

@@ -1,6 +1,13 @@
 ---
 type: entity
 title: MO&Co. / EPO集团 (赢家时尚旗下中高端女装)
+aliases:
+  - "MO&Co."
+  - "MOCo"
+  - "EPO"
+  - "EPO集团"
+  - "摩安珂"
+  - "赢家时尚"
 tags: [moco, epo, competitor, womenswear, membership, vip, brand_strategy]
 sources: [2026-08-07_10100_MOCo_EPO集团会员五级分层体系.md]
 created: 2026-08-07

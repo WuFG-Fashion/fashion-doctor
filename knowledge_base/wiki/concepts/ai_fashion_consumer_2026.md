@@ -1,6 +1,9 @@
 ---
 type: concept
 title: AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
+aliases:
+  - "AI时尚消费"
+  - "ai fashion consumer 2026"
 tags: [ai, fashion_consumer, virtual_tryon, digital_human, agentic_commerce, consumer_behavior]
 sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-31_全球AI时尚零售落地信号2026.md, 2026-08-06_VOGUE_Business_2026年AI将如何影响我们的衣橱.md]
 created: 2026-07-02

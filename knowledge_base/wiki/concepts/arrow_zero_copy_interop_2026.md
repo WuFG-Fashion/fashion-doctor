@@ -1,6 +1,9 @@
 ---
 type: concept
 title: Apache Arrow 零拷贝互操作 2026
+aliases:
+  - "Apache Arrow 零拷贝互操作"
+  - "arrow zero copy interop 2026"
 tags: [apache_arrow, zero_copy, pyarrow, interoperability, duckdb, polars, pandas, multi_brand]
 sources: [2026-07-06_CSDN_Apache_Arrow零拷贝2026, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_Pandas官方_Pandas_3.0, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-07-06

@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 服装行业ESG评级体系2026（秩鼎A股纺服110家/森马报喜鸟AAA/太平鸟BBB第71）
+aliases:
+  - "服装行业ESG评级体系"
+  - "秩鼎A股纺服110家/森马报喜鸟AAA/太平鸟BBB第71"
+  - "apparel esg rating 2026"
 tags: [esg, rating, governance, apparel, competitor, a_share, 2026]
 sources: [2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名.md]
 created: 2026-08-10

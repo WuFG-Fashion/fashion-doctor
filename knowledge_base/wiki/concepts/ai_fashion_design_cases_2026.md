@@ -1,6 +1,9 @@
 ---
 type: concept
 title: AI时尚设计十大案例（2026）
+aliases:
+  - "AI时尚设计十大案例"
+  - "ai fashion design cases 2026"
 tags: [ai, fashion_design, case_study, virtual_prototype, sustainability, hnm, nike, levis, zara]
 sources: [DigitalDefynd 2026-05-28, 2026-08-01_苏豪时尚_AI智造出海.md, 2026-08-01_OTTO_Zalando_AI德国市场.md, 2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成.md, 2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准.md, 2026-08-05_迪尚集团_创意服饰产业大脑效率基准.md, 2026-08-05_苏豪时尚_智尚云平台数智化资源库.md]
 created: 2026-06-06

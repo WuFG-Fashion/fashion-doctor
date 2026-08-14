@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 代理式商务(Agentic Commerce)与时尚零售AI新范式
+aliases:
+  - "代理式商务与时尚零售AI新范式"
+  - "Agentic Commerce"
+  - "agentic commerce fashion 2026"
 tags: [ai, agentic_commerce, fashion_retail, openai, nrf, search]
 sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic_AI零售2026.md, 2026-06-26_TMO_2026电商AI导购与Agentic_Commerce.md, 2026-06-29_Adobe_AI电商2026数据.md, 2026-06-30_VOGUE_Business_AI时尚消费入口2026, 2026-07-26_Vistoya_2026时尚品牌AI_Agent实战.md, 2026-08-01_AI结账落地2026_Gap_Ulta_JDSports.md, 2026-08-01_OTTO_Zalando_AI德国市场.md]
 created: 2026-06-09

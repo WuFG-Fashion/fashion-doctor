@@ -2,6 +2,10 @@
 
 type: concept
 title: 沉睡会员唤醒策略
+aliases:
+  - "沉睡会员"
+  - "会员唤醒"
+  - "休眠会员"
 tags: [vip, dormant_member, repurchase, member_reactivation, private_domain]
 sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, https://baijiahao.baidu.com/s?id=1859281518509086223, 2026-08-03_数字化转型网_服装私域会员运营四大场景, 2026-08-05_有赞_高端男装RFM沉默会员AI唤醒]
 created: 2026-06-06

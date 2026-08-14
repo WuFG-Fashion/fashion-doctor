@@ -1,6 +1,10 @@
 ---
 type: concept
 title: DuckDB嵌入式OLAP分析引擎
+aliases:
+  - "DuckDB"
+  - "嵌入式OLAP"
+  - "OLAP引擎"
 tags: [duckdb, olap, sql, analytics, embedded, python]
 sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
 created: 2026-06-08

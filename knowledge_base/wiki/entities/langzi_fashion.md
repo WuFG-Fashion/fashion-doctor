@@ -1,6 +1,11 @@
 ---
 type: entity
 title: 朗姿股份 (002612.SZ)
+aliases:
+  - "朗姿"
+  - "朗姿股份"
+  - "002612.SZ"
+  - "LANCY"
 tags: [langzi, competitor, womenswear, medical_aesthetics, a_share, earnings, goodwill_risk]
 sources: [2026-07-14_朗姿股份_2026H1业绩预告.md, 2026-07-21_朗姿股份2026H1业绩预告.md]
 created: 2026-07-17

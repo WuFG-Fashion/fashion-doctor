@@ -1,6 +1,12 @@
 ---
 type: entity
 title: 滔搏国际（TOP SPORTS）
+aliases:
+  - "滔搏"
+  - "滔搏国际"
+  - "TOP SPORTS"
+  - "6110.HK"
+  - "滔搏运动"
 tags: [topsports, sportswear, retail_agent, nike, adidas, hk_listed]
 sources: [raw/articles/2026-06-14_百家号_滔搏FY2026全年业绩257亿.md, raw/articles/2026-07-03_中财网_纺织服装中报前瞻2026.md]
 created: 2026-06-14

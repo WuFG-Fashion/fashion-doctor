@@ -1,6 +1,11 @@
 ---
 type: entity
 title: 利郎 (LILANZ)
+aliases:
+  - "利郎"
+  - "LILANZ"
+  - "1234.HK"
+  - "中国利郎"
 tags: [lilanz, competitor, menswear, hk_listed, brand_strategy, k_shaped]
 sources: [2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎.md, 2026-07-27_中国利郎H1低双位数增长_男装K型分化]
 created: 2026-06-13

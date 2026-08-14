@@ -1,6 +1,9 @@
 ---
 type: practice
 title: 数据分析库选型决策指南（2026版）
+aliases:
+  - "数据分析库选型决策指南"
+  - "data library selection guide 2026"
 tags: [polars, duckdb, pandas, python, selection, decision_tree, retail]
 sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, https://docs.kanaries.net/zh/articles/polars-vs-pandas, 2026-06-09_Scopir_Python数据分析库2026横评, 2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测2026, 2026-07-06_腾讯云_Polars_Pandas千万级实测, 2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]
 created: 2026-06-09

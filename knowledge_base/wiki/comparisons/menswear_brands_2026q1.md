@@ -1,6 +1,9 @@
 ---
 type: comparison
 title: 男装品牌 2026Q1 财务四强对比
+aliases:
+  - "男装品牌"
+  - "menswear brands 2026q1"
 tags: [competitor, financials, comparison, menswear, 2026Q1]
 compared_entities: [海澜之家, 森马, 太平鸟, 利郎]
 created: 2026-06-06

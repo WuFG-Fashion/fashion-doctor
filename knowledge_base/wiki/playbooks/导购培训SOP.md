@@ -1,6 +1,8 @@
 ---
 type: playbook
 title: 导购培训闭环 SOP
+aliases:
+  - "导购培训SOP"
 tags: [playbook, training, sales, staff, onboarding]
 sources: [导购培训闭环体系, AI导购陪练, 会员复购率提升策略]
 created: 2026-08-09

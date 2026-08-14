@@ -1,6 +1,8 @@
 ---
 type: practice
 title: 数据质量零售实操规范
+aliases:
+  - "data quality retail practice"
 tags: [data_quality, retail, sql, validation, anomaly_detection]
 sources: [L3_06_01_数据质量红线, 2026-06-08_2026企业数据质量五阶段管控]
 created: 2026-06-08

@@ -1,6 +1,11 @@
 ---
 type: entity
 title: Burberry 博柏利
+aliases:
+  - "Burberry"
+  - "博柏利"
+  - "巴宝莉"
+  - "BRBY.L"
 tags: [burberry, luxury, competitor, united_kingdom, turnaround]
 sources: [2026-06-28_贝尔财经_Burberry_FY2026年报, 2026-06-30_VOGUE_Business_AI时尚消费入口2026]
 created: 2026-06-30

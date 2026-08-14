@@ -1,6 +1,11 @@
 ---
 type: entity
 title: H&M（Hennes & Mauritz）
+aliases:
+  - "H&M"
+  - "Hennes & Mauritz"
+  - "HM"
+  - "HM-B.ST"
 tags: [hm, fast_fashion, competitor, global, turnaround]
 sources: [raw/articles/2026-06-14_百家号_H&M2026Q1库存降16%.md, raw/articles/2026-07-07_广发证券_H&M_FY2026Q2.md]
 created: 2026-06-14

@@ -1,6 +1,10 @@
 ---
 type: concept
 title: ETL架构选型
+aliases:
+  - "ETL"
+  - "ETL架构"
+  - "数据管道选型"
 tags: [etl, data_warehouse, architecture, multi_brand, data_quality, low_code, real_time]
 sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]
 created: 2026-06-06

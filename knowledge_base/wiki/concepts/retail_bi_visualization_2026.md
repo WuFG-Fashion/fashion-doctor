@@ -1,6 +1,8 @@
 ---
 type: concept
 title: 2026年BI可视化在服装零售的选型与应用
+aliases:
+  - "retail bi visualization 2026"
 tags: [bi, visualization, dashboard, tool_selection, retail, superse, dataease, metabase, smartbi]
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构]
 created: 2026-06-13

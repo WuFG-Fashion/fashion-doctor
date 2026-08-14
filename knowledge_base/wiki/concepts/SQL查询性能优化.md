@@ -1,6 +1,11 @@
 ---
 type: concept
 title: SQL查询性能优化
+aliases:
+  - "SQL性能优化"
+  - "查询性能优化"
+  - "SQL优化"
+  - "SQL调优"
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
 sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
 created: 2026-06-06

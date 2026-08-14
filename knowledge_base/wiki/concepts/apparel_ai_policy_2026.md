@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 纺织服装AI国家政策2026-2028
+aliases:
+  - "纺织服装AI国家政策"
+  - "apparel ai policy 2026"
 tags: [policy, ai, textile, national_strategy, smart_factory, quality]
 sources: [2026-06-24_五部门_AI纺织行动方案2026-2028.md]
 created: 2026-06-24

@@ -1,6 +1,11 @@
 ---
 type: entity
 title: 报喜鸟 (002154.SZ)
+aliases:
+  - "报喜鸟"
+  - "002154.SZ"
+  - "BAOXINIAO"
+  - "报喜鸟控股"
 tags: [baoxiniao, competitor, menswear, ai, agent, customization, a_share]
 sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21

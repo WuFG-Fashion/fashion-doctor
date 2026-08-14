@@ -1,6 +1,13 @@
 ---
 type: entity
 title: 森马服饰 (Semir)
+aliases:
+  - "森马"
+  - "森马服饰"
+  - "Semir"
+  - "002563.SZ"
+  - "巴拉巴拉"
+  - "Balabala"
 tags: [competitor, menswear, entity, stock_002563]
 aka: [森马, Semir, 森马服饰]
 founded: 1996

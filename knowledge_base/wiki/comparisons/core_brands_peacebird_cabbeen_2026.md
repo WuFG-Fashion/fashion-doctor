@@ -1,6 +1,9 @@
 ---
 type: comparison
 title: 太平鸟 vs 卡宾 — 2026 核心品牌对标
+aliases:
+  - "太平鸟 vs 卡宾"
+  - "core brands peacebird cabbeen 2026"
 compared_entities: [peacebird, cabbeen]
 tags: [peacebird, cabbeen, competitor, menswear, core_brand, comparison, 2026]
 sources: [品牌墙图_2026-08-14, 太平鸟公开财报]

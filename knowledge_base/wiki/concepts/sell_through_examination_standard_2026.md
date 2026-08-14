@@ -1,6 +1,12 @@
 ---
 type: concept
 title: 售罄率考核基准2026
+aliases:
+  - "售罄率考核基准"
+  - "售罄率"
+  - "售罄"
+  - "Sell-Through Rate"
+  - "STR"
 tags: [sell_through, kpi, merchandise, benchmark, inventory]
 sources: [2026-06-27_百度文库_2026服装零售售罄率考核制度.md]
 created: 2026-06-27

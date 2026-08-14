@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 服装零售数据分析报表体系2026
+aliases:
+  - "服装零售数据分析报表体系"
+  - "retail analytics reporting 2026"
 tags: [retail, analytics, reporting, dashboard, kpi, ai_bi, fashion, optimization]
 sources: [2026-06-11_FineReport_服装数据分析报表优化2026]
 created: 2026-06-11

@@ -1,6 +1,11 @@
 ---
 type: entity
 title: 凌迪科技 / Style3D
+aliases:
+  - "凌迪科技"
+  - "Style3D"
+  - "凌迪"
+  - "Lingdi"
 tags: [style3d, lingdi, vendor, ai, 3d, digital_twin, agent, supply_chain]
 sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21

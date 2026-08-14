@@ -1,6 +1,8 @@
 ---
 type: practice
 title: BI看板在服装零售的部署与落地实操
+aliases:
+  - "bi dashboard retail deployment"
 tags: [bi, dashboard, deployment, retail, superse, dataease, streamlit, multi_brand]
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026]
 created: 2026-06-13

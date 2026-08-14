@@ -1,6 +1,9 @@
 ---
 type: concept
 title: AI时尚六大能力2026全景
+aliases:
+  - "AI时尚六大能力"
+  - "ai fashion capability 2026"
 tags: [ai, fashion_design, virtual_tryon, ecommerce, supply_chain, whatsapp]
 sources: [2026-06-10_Veeton_AI时尚2026能力报告.md]
 created: 2026-06-10

@@ -1,6 +1,8 @@
 ---
 type: practice
 title: 品牌配置驱动多品牌系统
+aliases:
+  - "brand config driven system"
 tags: [brand, configuration, python, streamlit, multi_brand, architecture, membership, master_data]
 sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-08

@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 盈利质量与扣非净利润（2026H1警示）
+aliases:
+  - "盈利质量与扣非净利润"
+  - "2026H1警示"
+  - "earnings quality nonrecurring 2026"
 tags: [earnings, non_recurring, profit_quality, alert, h1_2026]
 sources: [2026-07-29_盛泰集团H1业绩预告_出售资产扮靓.md, 2026-07-14_安正时尚_2026H1业绩预告.md, 2026-07-27_九牧王H1业绩预告_美邦由盈转亏.md, 2026-07-29_安奈儿H1减亏近八成.md, 2026-07_东方财富_纺服中报预告综述_预盈率54.md, 2026-08-09_太平鸟_2026H1质量深化存货与研发.md]
 created: 2026-07-29

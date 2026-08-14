@@ -1,6 +1,10 @@
 ---
 type: entity
 title: 探马SCRM
+aliases:
+  - "探马"
+  - "Tanma"
+  - "探马科技"
 tags: [vendor, scrm, membership, private_domain, rfm, retail]
 sources: [2026-06-05_探马SCRM_RFM分层运营, 2026-06-09_探马SCRM_私域运营全链路实测2026Q2.md]
 created: 2026-06-05

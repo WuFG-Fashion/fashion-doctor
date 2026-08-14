@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 轻奢品牌三维跟踪框架（规模-价格-投入）
+aliases:
+  - "轻奢品牌三维跟踪框架"
+  - "light luxury brand framework 2026"
 tags: [competitor, luxury, framework, brand_strategy, bienlefen, jnby, anta]
 sources: [2026-06-26_高端消费复苏_618轻奢品牌三维框架.md, 2026-06-27_概念爱好者_纺织服装复苏轻奢三维框架深化.md, 2026-07-06_浙商证券_纺服2025&2026Q1业绩综述.md]
 created: 2026-06-26

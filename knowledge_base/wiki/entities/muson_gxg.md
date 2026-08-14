@@ -1,6 +1,12 @@
 ---
 type: entity
 title: 慕尚集团（GXG）
+aliases:
+  - "慕尚集团"
+  - "GXG"
+  - "慕尚"
+  - "1817.HK"
+  - "gxg.jeans"
 tags: [gxg, competitor, menswear, hk_listed]
 sources: [2026-06-05_慕尚集团_GXG2025年报.md, 2026-08-02_慕尚集团GXG_2025年报深化.md]
 created: 2026-06-05

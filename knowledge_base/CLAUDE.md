@@ -45,6 +45,7 @@ knowledge_base/
 ---
 type: entity | concept | practice | comparison | source | playbook
 title: 页面标题
+aliases: [别名1, 别名2, 别名3]   # RAG 检索关键：中文名/英文名/股票代码/常见别称/缩写
 tags: [tag1, tag2, tag3]
 sources: [来源文件名或 URL]
 created: YYYY-MM-DD
@@ -52,6 +53,8 @@ updated: YYYY-MM-DD
 cross_refs: [[引用页1]], [[引用页2]]
 ---
 ```
+
+> **aliases 规范（RAG 就绪核心）**：实体页必须含中文名 + 英文名 + 股票代码/常见别称（如 `cabbeen` → `[卡宾, Cabbeen, 卡宾服饰, HK 02030]`）；概念页必须含中文术语 + 英文术语/缩写（如 `sell_through_rate` → `[售罄率, 售罄, Sell-Through Rate, STR]`）。别名让本地大模型 RAG 在用户用任意叫法提问时都能命中同一页。Obsidian 也原生识别 `aliases` 用于反向链接与快速切换。
 
 ### 2.2 页面类型与路由
 
@@ -208,6 +211,7 @@ tags: [dead_stock, kpi, inventory, retail]
 - [ ] 有效的一句话说清这页是什么
 - [ ] 至少一条 `[[双链]]`
 - [ ] 正确的 `type` frontmatter
+- [ ] `aliases` 别名（实体/概念页必填，支撑 RAG 实体解析）
 - [ ] 可追溯的来源标注
 - [ ] 每个 concept / entity / comparison 页必须含 `## 结论`（合成洞察，非数据复述）与 `## 信息链`（上游来源→本页→下游应用的双链推理链）
 

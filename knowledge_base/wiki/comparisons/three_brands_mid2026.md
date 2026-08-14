@@ -1,6 +1,9 @@
 ---
 type: comparison
 title: 太平鸟 vs GXG vs 优衣库 — 2026年中期对比
+aliases:
+  - "太平鸟 vs GXG vs 优衣库"
+  - "three brands mid2026"
 tags: [peacebird, gxg, uniqlo, competitor, financial, comparison, 2026Q1, 2025FY]
 sources: [2026-06-06_竞品财务更新202606]
 created: 2026-06-06

@@ -1,6 +1,8 @@
 ---
 type: practice
 title: 多品牌统一数据分析架构
+aliases:
+  - "multi brand unified analytics"
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
 sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-07

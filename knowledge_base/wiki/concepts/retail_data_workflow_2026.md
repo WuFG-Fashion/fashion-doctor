@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 零售数据分析完整工作流(CRISP-DM)
+aliases:
+  - "零售数据分析工作流"
+  - "CRISP-DM"
+  - "数据分析流程"
 tags: [retail, analytics, crisp_dm, eda, workflow, python, polars]
 sources: [2026-06-12_CSDN_Python数据分析工作流2026, 2026-06-15_CSDN_Python数据栈边界决策框架]
 created: 2026-06-12

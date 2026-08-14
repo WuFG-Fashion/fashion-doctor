@@ -1,6 +1,10 @@
 ---
 type: concept
 title: ETL治理一体化演进2026
+aliases:
+  - "ETL治理一体化"
+  - "ETL"
+  - "数据管道"
 tags: [etl, data_governance, integration, data_quality, architecture, multi_brand]
 sources: [2026-06-12_帆软_ETL集成治理一体化, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]
 created: 2026-06-12

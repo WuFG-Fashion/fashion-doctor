@@ -1,6 +1,9 @@
 ---
 type: concept
 title: Python数据栈边界决策框架2026
+aliases:
+  - "Python数据栈边界决策框架"
+  - "python data stack decision 2026"
 tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics, data_engineering]
 sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
 created: 2026-06-15

@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 数据资产管理2026全景
+aliases:
+  - "数据资产管理"
+  - "data asset management 2026"
 tags: [data_governance, data_asset, capitalization, ai_driven, metadata, platform_selection, dcmm]
 sources: [2026-06-21_百家号_数据资产管理全景指南2026.md, 2026-07-28_清华_数据要素流通六大变化]
 created: 2026-06-21

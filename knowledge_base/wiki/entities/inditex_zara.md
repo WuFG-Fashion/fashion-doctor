@@ -1,6 +1,12 @@
 ---
 type: entity
 title: Inditex（ZARA）
+aliases:
+  - "Inditex"
+  - "ZARA"
+  - "飒拉"
+  - "印地纺"
+  - "ITX.MC"
 tags: [zara, inditex, competitor, fast_fashion, global, spain]
 sources: [2026-06-05_Inditex_ZARA_FY2026Q1.md, 2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-05

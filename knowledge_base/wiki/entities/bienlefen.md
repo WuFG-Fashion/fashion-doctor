@@ -1,6 +1,9 @@
 ---
 type: entity
 title: 比音勒芬
+aliases:
+  - "Biem.L.Fdlkk"
+  - "002832.SZ"
 tags: [bienlefen, competitor, sportswear, golf, a_share, premium]
 sources: [2026-05-11_羊毛市场_16家A股服装企业2026Q1财报.md, 2026-06-22_新浪财经_比音勒芬2025年年报.md, 2026-06-22_东方财富_比音勒芬618线上爆发.md, 2026-07_东方财富_纺服中报预告综述_预盈率54.md]
 created: 2026-06-20

@@ -1,6 +1,9 @@
 ---
 type: concept
 title: AI时尚市场规模与品牌应用全景2026
+aliases:
+  - "AI时尚市场规模与品牌应用全景"
+  - "ai fashion market 2026"
 tags: [ai, fashion_design, virtual_tryon, supply_chain, case_study, market_size]
 sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球服装行业大模型应用2026.md, 2026-07-18_Bloomreach_AI时尚零售2026全球数据.md, 2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成.md, 2026-08-06_中国服装网_纺织服装业判断力战争.md]
 created: 2026-06-09

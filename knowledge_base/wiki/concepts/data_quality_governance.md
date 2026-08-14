@@ -1,6 +1,10 @@
 ---
 type: concept
 title: 数据质量常态化治理
+aliases:
+  - "数据质量治理"
+  - "数据质量"
+  - "Data Quality"
 tags: [data_quality, governance, monitoring, data_consistency, timeliness, ai, data_contract, hitl]
 sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
 created: 2026-06-06

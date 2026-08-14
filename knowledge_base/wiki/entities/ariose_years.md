@@ -1,6 +1,12 @@
 ---
 type: entity
 title: 艾诺丝·雅诗 (ARIOSE YEARS)
+aliases:
+  - "艾诺丝"
+  - "艾诺丝·雅诗"
+  - "ARIOSE YEARS"
+  - "ARIOSE"
+  - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou]
 sources: [用户指定-重点女装品牌]
 created: 2026-08-14
@@ -23,6 +29,11 @@ updated: 2026-08-14
 > ⏳ **待补充**：本页为重点关注品牌 stub，需后续补充公开财务、渠道、产品与战略数据，再生成合成洞察。
 
 _（规范见 [[CLAUDE.md]] 2.3）_
+
+## 信息链
+- 上游来源：用户指定-重点女装品牌
+- 本页：[[ariose_years]]（实体）
+- 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]

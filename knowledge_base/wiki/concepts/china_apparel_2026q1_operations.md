@@ -1,6 +1,9 @@
 ---
 type: concept
 title: 中国服装行业2026Q1运行基准
+aliases:
+  - "中国服装行业"
+  - "china apparel 2026q1 operations"
 tags: [industry, kpi, benchmark, financial, 2026Q1]
 sources: [2026-06-07_2026Q1服装行业运行扫描.md, 2026-06-05_中国服装协会_2026Q1行业经济运行分析.md]
 created: 2026-06-07

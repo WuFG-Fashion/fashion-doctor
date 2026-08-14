@@ -1,6 +1,10 @@
 ---
 type: entity
 title: 九牧王 (601566.SH)
+aliases:
+  - "九牧王"
+  - "601566.SH"
+  - "JOEONE"
 tags: [jiumuwang, competitor, menswear, a_share, profit_warning, joeone]
 sources: [2026-07-27_九牧王H1业绩预告_美邦由盈转亏]
 created: 2026-07-27

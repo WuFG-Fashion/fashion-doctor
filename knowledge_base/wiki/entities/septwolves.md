@@ -1,6 +1,9 @@
 ---
 type: entity
 title: 七匹狼
+aliases:
+  - "SEPTWOLVES"
+  - "002029.SZ"
 tags: [septwolves, brand, competitor, menswear, a_share, private_domain]
 sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, 2026-08-03_微盟见实_七匹狼会员深度运营五年最高增长]
 created: 2026-06-06
