@@ -5,7 +5,8 @@
     "files_scanned": "60 个 wiki/entities 文件 + 56 个 wiki/concepts 文件",
     "data_points": "240+条数值",
     "last_scan": "2026-08-14",
-    "updated": "2026-08-14"
+    "updated": "2026-08-14",
+    "focus_note": "后期信息搜集以卡宾+太平鸟双核、品牌墙图(原MODING运营集合)全品牌、艾诺丝、迪卡轩为主"
   },
   "industry": {
     "revenue_profit_margin": 0.0223,
@@ -318,7 +319,9 @@
     "dickies": {},
     "mlb_kids": {},
     "two_am": {},
-    "crocs": {}
+    "crocs": {},
+    "ariose_years": {},
+    "dekashell": {}
   },
   "membership": {
     "avg_repurchase_rate": 0.15,
@@ -740,5 +743,42 @@
       0.15,
       0.2
     ]
-  }
+  },
+  "focus_brands": [
+    "adlv",
+    "ariose_years",
+    "awoken_space",
+    "awoken_time",
+    "cabbeen",
+    "chuu",
+    "crocs",
+    "dekashell",
+    "dickies",
+    "diesel",
+    "dkny",
+    "ellesse",
+    "etudes",
+    "g_star_raw",
+    "hoka_one_one",
+    "karl_lagerfeld",
+    "king_baby",
+    "koyo",
+    "lacoste",
+    "levis",
+    "marcelo_burlon",
+    "mlb",
+    "mlb_kids",
+    "mr_mrs",
+    "nautica",
+    "nerdy",
+    "no_one_else",
+    "peacebird",
+    "salomon",
+    "speedo",
+    "the_mr_young",
+    "thisisizi8",
+    "tommy_hilfiger",
+    "trussardi",
+    "two_am"
+  ]
 }

@@ -90,6 +90,10 @@ updated: 2026-08-14
 | [[trussardi]] ⭐ NEW | 意大利百年奢侈品牌，以皮具与高级成衣闻名。 | trussardi, competitor, luxury, italy, leather |
 | [[two_am]] ⭐ NEW | 男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear |
 
+
+| [[ariose_years]] ⭐ NEW · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装，2005创立，1200+门店，定位25-35岁都市女性 | womenswear, premium, china_brand, hangzhou, focus |
+| [[dekashell]] ⭐ NEW · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装，Style by Me，600-900+门店，定位25-38岁新女性 | womenswear, light_elegant, china_brand, hangzhou, focus |
+
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
 |------|------|------|
