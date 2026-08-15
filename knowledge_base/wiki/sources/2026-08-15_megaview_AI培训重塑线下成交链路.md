@@ -43,4 +43,4 @@ confidence: 品牌自宣
 [[AI导购陪练]] / [[导购培训闭环体系]] / [[深维智信]]
 
 ## 待办 / 待验证
-> ⚠️ **数据矛盾**：转化率+40% vs kb_benchmarks `guide_kpi.conversion_boost=0.42`（+42%）量级一致（均为'敢于追问客户'专项切片），非冲突；口径待验证。
+> ℹ️ **基准核对**：转化率+40% vs kb_benchmarks `guide_kpi.conversion_boost=0.42`（+42%）量级一致（均为'敢于追问客户'专项切片），非冲突；口径待验证。

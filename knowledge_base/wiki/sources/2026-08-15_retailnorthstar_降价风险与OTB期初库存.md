@@ -44,4 +44,4 @@ confidence: 第三方数据
 [[动态OTB管理]] / [[柔性供应链与商品企划]] / [[sell_through_examination_standard_2026]]
 
 ## 待办 / 待验证
-> ⚠️ **数据矛盾**：新款正价售罄 60-75% 在 kb `lifecycle_sell_through.normal_sale_range=[0.5,0.8]` 内、核心款 80-90% 与 kb `hot_sale_min=0.8` 一致，无硬冲突。注：retailnorthstar 提供 kb 尚未固化的'按品类正价售罄'细分基准，建议下轮补入 kb_benchmarks（markdown_inventory_risk 分组）。
+> ℹ️ **基准核对**：新款正价售罄 60-75% 在 kb `lifecycle_sell_through.normal_sale_range=[0.5,0.8]` 内、核心款 80-90% 与 kb `hot_sale_min=0.8` 一致，无硬冲突。注：retailnorthstar 提供 kb 尚未固化的'按品类正价售罄'细分基准，建议下轮补入 kb_benchmarks（markdown_inventory_risk 分组）。

@@ -29,3 +29,13 @@ knowledge_base/.obsidian/plugins/*/data.json
 
 # 本地 AI 工具状态（claudian/opencode，非知识库内容）
 knowledge_base/.claudian/
+
+# Smart Connections 向量嵌入缓存（随每次 reindex 膨胀，含笔记正文切片，不入库）
+knowledge_base/.smart-env/
+
+# Obsidian Copilot 插件向各 agent 工具目录镜像的 skills（同一套 38 文件被镜像 4 份，
+# blob 集指纹一致 d72ad24f4bdf，工具生成可重建，非知识库内容）
+knowledge_base/.agents/
+knowledge_base/.claude/
+knowledge_base/.opencode/
+knowledge_base/copilot/
