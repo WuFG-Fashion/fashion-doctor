@@ -12,9 +12,16 @@ __pycache__/
 .vscode/
 .idea/
 
-# WorkBuddy
-.workbuddy/
+# WorkBuddy — memory/automations/skills 保留版本控制（项目约定与知识库运维记忆）
+# 仅忽略瞬态会话状态，避免每次运行产生 git 噪声
+.workbuddy/tasks/
+.workbuddy/heartbeat/
+.workbuddy/logs/
 *.db
+
+# 临时/产出目录（一次性脚本的中间产物，不入库）
+.kbtmp/
+.scripts_tmp/
 
 # 系统
 .DS_Store
