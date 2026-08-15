@@ -800,6 +800,13 @@ updated: 2026-08-15
 | [[2026-08-15_ellesse_中国复古潮流与渠道速览_2026]] ⭐ NEW | ellesse 2026：Pentland/网球裙天猫618爆款/NBL鞋类翻倍/女装40→60%/APAC日韩中印尼 | ellesse, competitor, retro, italy, source |
 | [[2026-08-15_MLB_KIDS___F&F_中国亲子线速览_2026]] ⭐ NEW | MLB KIDS/F&F 2026：丰梵中国代理/大中华+35%/1400+店/服装55%鞋30%配饰15% | mlb_kids, competitor, childrenswear, korean, source |
 | [[2026-08-15_NAUTICA___ABG_中国运营切换速览_2026
+| [[2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026]] ⭐ NEW | 意大利奢侈皮草派克大衣品牌，2007 年创立，以手工皮草派克大衣闻名，因韩剧《来自星星的你》全智贤同款爆红。 | mr_mrs, competitor, luxury, fur, outerwear, italy, source |
+| [[2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026]] ⭐ NEW | 韩国首尔街头潮流品牌，MODEUS（莫媞美思）运营，以纽约街头风格+签名紫色 Track Suit 走红，中国由杭州弗娜瑞品牌管理运营。 | nerdy, competitor, streetwear, korean_wave, sportswear, china, source |
+| [[2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026]] ⭐ NEW | 韩国 PPB STUDIO 旗下无性别设计师潮牌（chuu 姐妹品牌），2012 年创立，千禧混搭风，2021 随 chuu 入华由杭州黯涉运营。 | no_one_else, competitor, streetwear, korean, unisex, womenswear, source |
+| [[2026-08-15_THE_MR_YOUNG_密特扬_中国轻奢国潮品牌速览_2026]] ⭐ NEW | 中国本土'轻奢国潮'原创品牌，根植上海，由曾代理 MLB 的上海艾动实业运营，主打高审美潮流生活方式。 | the_mr_young, competitor, guochao, streetwear, china, menswear, source |
+| [[2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026]] ⭐ NEW | 韩国血统综合型概念买手品牌店，2013 年由 Koyo William 创立，集 80+ 潮流品牌，中国首店 2024-01-15 深圳万象天地。 | thisisizi8, competitor, concept_store, buyer_store, korean, china, source |
+| [[2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026]] ⭐ NEW | 香港设计师 Koyo William 2002 年创立的欧式街头牛仔品牌，哥特摇滚+施华洛世奇钉珠，'Destroy & Reborn' 风格，广州高龙贸易运营。 | koyo, competitor, denim, streetwear, menswear, hongkong, designer, source |
+| [[2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026]] ⭐ NEW | 意大利（阿根廷裔主理人）潮流时装屋，2012 年前后创立，Mapuche 十字/巴塔哥尼亚元素，全球首店 2017 香港（已关），中国借 D-mop 多品牌店铺货。 | marcelo_burlon, competitor, designer, luxury, italy, argentina, source |
 | [[2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026]] ⭐ NEW | ADLV/acme de la vie 2026：韩国双胞胎2017/大脸宝宝/中国约14店(上海MOHO天津长春大连沈阳)/深圳大悦城待开 | adlv, competitor, streetwear, korean, source |
 | [[2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026]] ⭐ NEW | AWOKEN TIME 2026：武汉800㎡旗舰(武商MALL)/多店集群/襄阳宜昌南昌外拓/上海泗泾签约/咖啡+潮玩场景店 | awoken_time, competitor, streetwear, china, source |
 | [[2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026]] ⭐ NEW | AWOKEN SPACE 2026：AWOKEN体系'空间/场景'副线，与AWOKEN TIME同源/武汉集群/离散数据有限 | awoken_space, competitor, streetwear, china, source |
