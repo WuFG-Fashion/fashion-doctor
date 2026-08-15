@@ -52,6 +52,8 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 cross_refs: [[引用页1]], [[引用页2]]
 confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估算   # 数据可信度分级（RAG 检索质量关键，见 2.4）
+brand_specific: true | false   # 仅 source 页：true=品牌特有数据（双链到品牌实体），false=行业通用方法论（双链到 concept，不链品牌），见 2.5
+superseded_by: "[[YYYY-MM-DD_更新source]]"   # 可选：当本页数据被更新 source 替代时填写，RAG 检索应优先取 superseded_by 指向的页面，见 2.5
 ---
 ```
 
@@ -118,6 +120,21 @@ confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估�
 - entity 页：关键数字（营收 / 利润 / 门店数等）在正文内联标注，如 `营收 28.78 亿（置信度：财报）`；凡"约 / 估"数据必须标 `（置信度：媒体估算）`。
 - 矛盾检测（3.4）须优先比对同 `confidence` 等级数据；跨等级数值冲突时，高等级覆盖低等级，并在页末 `⚠️ 数据矛盾` 中注明等级差异。
 
+### 2.5 数据生命周期（brand_specific + superseded_by）
+
+> **为什么需要**：B轮品牌上下文搜索可能产出"品牌实例"（太平鸟特有的会员策略）与"行业通用方法论"（会员运营最佳实践）混在一起。如果通用方法论也双链到品牌实体，会产生**伪连接**——形式上链了，但不支持推理。同时，旧数据不会被新数据替代，导致 RAG 检索取到过时值。
+
+`brand_specific`（仅 source 页必填）：
+- `true`：本页数据为**品牌特有**（如"太平鸟 2026H1 会员复购率 42%"），须双链到对应品牌实体页（如 `[[peacebird]]`），不支持跨品牌推理。
+- `false`：本页数据为**行业通用方法论**（如"2026 零售会员复购率行业基准 35-50%"），须双链到 concept 页（如 `[[会员复购率提升策略]]`），**不**双链到特定品牌实体，支持跨品牌推理。
+- 采集自动化（A/B/C轮）写入 source 页时必须判断并标注。若一页同时含品牌特有数据与通用方法论，按主要内容定，并在页内用 `> **brand_specific**：true/false` 声明。
+
+`superseded_by`（source 页可选，entity 页不适用）：
+- 当新 source 包含同一品牌同一指标的更新数据时，在**旧 source** frontmatter 中加 `superseded_by: "[[YYYY-MM-DD_新source]]"`。
+- 旧 source 不删除（保留历史轨迹），但 RAG 检索时应优先取 `superseded_by` 指向的页面。
+- 采集自动化（A/B/C轮）在写入新 source 时，须检查是否已有同品牌同指标的旧 source，有则回填 `superseded_by`。
+- 知识库优化自动化（optimize）定期检查 `superseded_by` 链的完整性。
+
 ## 三、工作流规则（必须遵守）
 
 ### 3.1 每次会话启动
@@ -142,6 +159,12 @@ confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估�
 5. 必须更新 `wiki/index.md`（追加新页面链接）
 6. 必须追加 `wiki/log.md`（记录操作：时间 + 动作 + 文件）
 7. 必须检查矛盾：逐条对比新数据与已有页面中的同指标数值（如"太平鸟毛利率"在两个 source 中是否一致），不一致则在新页面末尾加 `> ⚠️ **数据矛盾**：` 标记
+
+> ⚠️ **标记选用（严格区分，勿混用）**：
+> - `> ⚠️ **数据矛盾**：` —— **仅**用于数值真不一致（含口径差异导致的不可直比）。
+> - `> ℹ️ **基准核对**：` —— 用于**已核对一致 / 无硬冲突 / 仅提出基准补充建议**的情形。
+>
+> **为什么必须分开**：把"已核对一致"写成 `⚠️ 数据矛盾`，会让后续矛盾扫描（3.4）产生假阳性、虚增矛盾计数，并在 RAG 检索时误导模型认为该数据存疑。`wiki/log.md` 里的"矛盾 X 处"应等于全库 `⚠️ 数据矛盾` 标记页数——收尾前用 grep 核对二者一致。
 
 ### 3.3 查询知识库（query）
 
@@ -206,6 +229,10 @@ confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估�
 
 双链统一不加 `.md` 后缀（Obsidian 会自动解析文件名）；含别名用 `[[目标|别名]]` 写法。跨目录引用可带路径（如 `[[wiki/entities/peacebird]]`），但不带 `.md`。
 
+> ⚠️ **双链目标必须是文件名，不能是 frontmatter 里的 aliases**。`aliases` 只服务于 RAG 检索与 Obsidian 搜索，**不是**可链接的目标。写 `[[售罄率考核基准2026]]`（这是 `sell_through_examination_standard_2026.md` 的别名）会产生**断链**；正确写法是 `[[sell_through_examination_standard_2026|售罄率考核基准2026]]`——文件名做目标、别名做显示文本，既不断链又保留可读性。
+>
+> **落盘前自检**：对每条新增双链，确认 `wiki/**/<目标>.md` 真实存在；找不到时先在 `concepts/ → entities/ → practices/ → playbooks/` 依次回退查找（同名页可能不在 concepts/ 下），仍找不到才判定为待创建页。
+
 ### 4.3 标签规范
 
 标签全小写 + 下划线：
@@ -219,6 +246,35 @@ tags: [dead_stock, kpi, inventory, retail]
 - 系统：`kpi`, `sql`, `streamlit`, `dashboard`, `architecture`
 - AI：`llm`, `rag`, `agent`, `automation`
 
+### 4.4 cross_refs 改写安全规范
+
+任何脚本化改写 `cross_refs:` 行必须遵守（历史曾因此造成全库 `[[[` 三重括号腐化）：
+
+1. **宽容提取 + 重建**，不要在原行上追加：
+   ```python
+   tokens = re.findall(r"\[+([^\[\]]+?)\]+", old_line)          # 容忍已腐化的 [[[ ]]]
+   new_line = "cross_refs: " + ", ".join(f"[[{t}]]" for t in tokens)
+   ```
+2. **括号平衡断言只对重建的 cross_refs 单行生效**：`assert new_line.count("[") == new_line.count("]")`。
+   ❌ 不要对整页断言——正文含 markdown `[文本](url)`，整页括号本就不平衡，断言必然误报。
+
+### 4.5 Git 提交规范
+
+**禁止 `git add knowledge_base/` 整目录提交**。`knowledge_base/` 下混有 Obsidian 插件状态、向量缓存（`.smart-env/`）、各 agent 工具的 skills 镜像（`.agents/ .claude/ .opencode/ copilot/`）等非知识库内容，整目录 add 会把它们误纳入版本控制（2026-08-15 曾一次误提交 167 个非 KB 文件）。
+
+正确做法——按内容路径精确 add：
+
+```bash
+git add knowledge_base/raw/articles \
+        knowledge_base/wiki/sources knowledge_base/wiki/concepts \
+        knowledge_base/wiki/entities knowledge_base/wiki/practices \
+        knowledge_base/wiki/comparisons knowledge_base/wiki/playbooks \
+        knowledge_base/wiki/index.md knowledge_base/wiki/log.md \
+        knowledge_base/L2_* knowledge_base/kb_benchmarks.json
+```
+
+临时生成脚本放 `.scripts_tmp/` 或 `.kbtmp/`（均已 gitignore），不入知识库目录。
+
 ---
 
 ## 五、内容质量标准
@@ -231,6 +287,8 @@ tags: [dead_stock, kpi, inventory, retail]
 - [ ] `aliases` 别名（实体/概念页必填，支撑 RAG 实体解析）
 - [ ] 可追溯的来源标注
 - [ ] `confidence` 置信度分级（source 页必填 frontmatter；entity 页关键数字内联标注），见 2.4
+- [ ] `brand_specific` 品牌特异性标注（source 页必填 frontmatter：true=品牌特有→链品牌实体，false=通用方法论→链 concept 不链品牌），见 2.5
+- [ ] `superseded_by` 过时标记（source 页可选：被新 source 替代时回填，RAG 优先取新页），见 2.5
 - [ ] 每个 concept / entity / comparison 页必须含 `## 结论`（合成洞察，非数据复述）与 `## 信息链`（上游来源→本页→下游应用的双链推理链）
 
 ### 5.2 禁止

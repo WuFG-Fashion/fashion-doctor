@@ -41,6 +41,8 @@ etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, ko
 - 编译到 `wiki/sources/` → `wiki/entities/` → `wiki/concepts/` → `wiki/comparisons/`
 - ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
 - ⚠️ 每个新建/更新的 concept/entity/comparison 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链），遵循 CLAUDE.md 2.3/5.1
+- ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`（双链到品牌实体页），行业通用方法论标 `false`（双链到 concept，不链品牌）
+- ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同品牌同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
 - 同步到 L2/L3 历史目录
 - 更新 `wiki/index.md` 和 `wiki/log.md`
 
@@ -77,6 +79,7 @@ git add knowledge_base/ && git commit -m "[auto] Round A2 — L2_00/01/02 (分�
 - 每个新建 `wiki/sources/` 页 frontmatter 必须含 `confidence`（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算），并在页内“来源链接”上方用 `> **置信度**：xxx` 显式声明。
 - 更新 entity 页时，关键数字（营收 / 利润 / 门店数等）在正文内联标注，如 `营收 28.78 亿（置信度：财报）`；凡“约 / 估”数据必须标 `（置信度：媒体估算）`。
 - 矛盾检测（第六步）须优先比对同 `confidence` 等级数据；跨等级冲突以高等级为准，并在页末 `⚠️ 数据矛盾` 注明等级差异。
+- **brand_specific 判断**：写入 source 页时，须判断数据为品牌特有（`true`）还是行业通用（`false`），并在页内用 `> **brand_specific**：true/false` 声明。品牌特有 → 双链到品牌实体页；行业通用 → 双链到 concept 页，不链品牌。
 
 ### 9.2 上下文护栏（防单轮 12 品牌全维度检索溢出 / 尾部降级）
 - **每品牌 WebSearch 上限 3 次**（含探针），超出即停止该品牌检索并记“已达检索上限”。

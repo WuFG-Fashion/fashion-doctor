@@ -60,6 +60,8 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 - ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
 - ⚠️ 每个新建/更新的 concept/practice 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链）
 - L2_07 的 practices 页须双链到 `[[服装行业竞争格局]]` 或具体品牌实体页（如 `[[cabbeen]]`、`[[peacebird]]`），打通系统设计与品牌数据
+- ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`，行业通用方法论标 `false`
+- ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
 - 同步到 L2/L3 历史目录
 - 更新 `wiki/index.md` 和 `wiki/log.md`
 
@@ -100,6 +102,7 @@ git add knowledge_base/ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (
 - 每个新建 `wiki/sources/` 页 frontmatter 必须含 `confidence`（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算），并在页内"来源链接"上方用 `> **置信度**：xxx` 显式声明。
 - 更新 concept/practice 页时，关键数字（性能基准/架构参数/转化率等）在正文内联标注。
 - 矛盾检测须优先比对同 `confidence` 等级数据。
+- **brand_specific 判断**：写入 source 页时，须判断数据为品牌特有（`true`）还是行业通用（`false`），并在页内用 `> **brand_specific**：true/false` 声明。品牌特有 → 双链到品牌实体页；行业通用 → 双链到 concept 页，不链品牌。
 
 ### 9.2 上下文护栏
 - **每条搜索线 WebSearch 上限 2 次**，超出即停止并记"已达检索上限"。
