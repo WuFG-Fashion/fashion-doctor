@@ -790,6 +790,17 @@ updated: 2026-08-15
 | [[2026-08-09_Megaview_导购启动AI培训实验转化跃升]] ⭐ NEW | Megaview导购启动AI培训实验：价格质疑响应-40%/异议>75转化近一倍/成本-50%/MegaRAG 24h | guide, training, ai, megaview, source |
 | [[2026-08-09_服装品牌商品企划五步跃迁]] ⭐ NEW | 服装品牌商品企划五步跃迁：3+3+3+3波段/首单70→40%/售罄+8-12pp/净利+3-5pp/OTB±20%±10% | merchandise, planning, otb, assortment, source |
 | [[2026-08-09_第七在线_OTB终极指南公式与最佳实践]] ⭐ NEW | 第七在线OTB终极指南：公式(计划销售+期末−期初−已下)/按品类渠道分拆/动态vs静态 | merchandise, otb, planning, formula, source |
+| [[2026-08-15_LACOSTE_中国运营与财务速览_2026]] ⭐ NEW | LACOSTE 2026：Maus Frères瑞士私企/亚太+30%中国+15%/香港中环旗舰/Durable Elegance重塑 | lacoste, competitor, sportswear, premium, france, source |
+| [[2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026]] ⭐ NEW | Tommy Hilfiger/PVH 2026：Q1集团$2.0bn+2.1%/TH+2.8~6%/中国D2C双位数/$1.53亿收回中国直营 | tommy_hilfiger, competitor, premium, usa, pvh, source |
+| [[2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026]] ⭐ NEW | Levi's/LS&Co 2026：Q1 $1.742bn+14%/DTC 52%/中国换帅Anita Fung+成都太古里旗舰/售Dockers | levis, competitor, denim, usa, source |
+| [[2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026]] ⭐ NEW | DIESEL/OTB 2026：集团€1.7bn/-4.8%/Diesel近十年最佳盈利/大中华113店/入华20年 | diesel, competitor, denim, italy, otb, source |
+| [[2026-08-15_DKNY___G-III_中国首店与财务速览_2026]] ⭐ NEW | DKNY/G-III 2026：中国首店上海淮海路245㎡/G-III销售-7%/天猫2017+Hailey Bieber | dkny, competitor, womenswear, usa, source |
+| [[2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026]] ⭐ NEW | Speedo 2026：中国泳装榜#1/份额15.2%→16.4%/Pentland私营/攀岚贸易代理 | speedo, competitor, swimwear, uk, source |
+| [[2026-08-15_HOKA___Deckers_中国增长与财务速览_2026]] ⭐ NEW | HOKA/Deckers 2026：Q3 $628.9m+18.5%/中国>230店超任何市场/国际+26.8%/DTC>55% | hoka_one_one, competitor, running, usa, deckers, source |
+| [[2026-08-15_ellesse_中国复古潮流与渠道速览_2026]] ⭐ NEW | ellesse 2026：Pentland/网球裙天猫618爆款/NBL鞋类翻倍/女装40→60%/APAC日韩中印尼 | ellesse, competitor, retro, italy, source |
+| [[2026-08-15_MLB_KIDS___F&F_中国亲子线速览_2026]] ⭐ NEW | MLB KIDS/F&F 2026：丰梵中国代理/大中华+35%/1400+店/服装55%鞋30%配饰15% | mlb_kids, competitor, childrenswear, korean, source |
+| [[2026-08-15_NAUTICA___ABG_中国运营切换速览_2026]] ⭐ NEW | NAUTICA/ABG 2026：上海荟众接替Tristate(2025 Nautica-12%)/1983航海经典/Interparfums香水至2030 | nautica, competitor, menswear, usa, source |
+
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
 |----------|----------|------|
