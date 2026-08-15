@@ -799,7 +799,15 @@ updated: 2026-08-15
 | [[2026-08-15_HOKA___Deckers_中国增长与财务速览_2026]] ⭐ NEW | HOKA/Deckers 2026：Q3 $628.9m+18.5%/中国>230店超任何市场/国际+26.8%/DTC>55% | hoka_one_one, competitor, running, usa, deckers, source |
 | [[2026-08-15_ellesse_中国复古潮流与渠道速览_2026]] ⭐ NEW | ellesse 2026：Pentland/网球裙天猫618爆款/NBL鞋类翻倍/女装40→60%/APAC日韩中印尼 | ellesse, competitor, retro, italy, source |
 | [[2026-08-15_MLB_KIDS___F&F_中国亲子线速览_2026]] ⭐ NEW | MLB KIDS/F&F 2026：丰梵中国代理/大中华+35%/1400+店/服装55%鞋30%配饰15% | mlb_kids, competitor, childrenswear, korean, source |
-| [[2026-08-15_NAUTICA___ABG_中国运营切换速览_2026]] ⭐ NEW | NAUTICA/ABG 2026：上海荟众接替Tristate(2025 Nautica-12%)/1983航海经典/Interparfums香水至2030 | nautica, competitor, menswear, usa, source |
+| [[2026-08-15_NAUTICA___ABG_中国运营切换速览_2026
+| [[2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026]] ⭐ NEW | ADLV/acme de la vie 2026：韩国双胞胎2017/大脸宝宝/中国约14店(上海MOHO天津长春大连沈阳)/深圳大悦城待开 | adlv, competitor, streetwear, korean, source |
+| [[2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026]] ⭐ NEW | AWOKEN TIME 2026：武汉800㎡旗舰(武商MALL)/多店集群/襄阳宜昌南昌外拓/上海泗泾签约/咖啡+潮玩场景店 | awoken_time, competitor, streetwear, china, source |
+| [[2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026]] ⭐ NEW | AWOKEN SPACE 2026：AWOKEN体系'空间/场景'副线，与AWOKEN TIME同源/武汉集群/离散数据有限 | awoken_space, competitor, streetwear, china, source |
+| [[2026-08-15_Dickies___VF_中国工装市场与出售速览_2026]] ⭐ NEW | Dickies/VF 2026：1922美式工装/874经典/VF 2017收购并于2026Q3出售/中国2007子公司/199-599中端 | dickies, competitor, workwear, usa, source |
+| [[2026-08-15_Études_Studio_法国艺术时装屋与2030蓝图_2026]] ⭐ NEW | Études Studio 2026：法国艺术时装屋(非韩妆)/2012巴黎/80伙伴30市场/2030五倍+DTC20→45%/皮具扩展 | etudes, competitor, designer, french, source |
+| [[2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026]] ⭐ NEW | G-Star RAW 2026：荷兰丹宁1989/极星服饰上海运营/近150网点60+城市/Raw Denim先驱/京东旗舰 | g_star_raw, competitor, denim, netherlands, source |
+| [[2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026]] ⭐ NEW | HumbleHumbleR 2026：2025本土新锐男装/谦而不卑/首店宁波3天46万/宁波阪急臻选店/武汉长沙杭州拓 | humble_humble_r, competitor, streetwear, china, source |
+| [[2026-08-15_KING_BABY_中国摇滚银饰与渠道速览_2026]] ⭐ NEW | KING BABY 2026：2000洛杉矶摇滚银饰/金北陛上海运营/中国超10旗舰(北京西单大悦城)/厦门K11 | king_baby, competitor, jewelry, usa, source |]] ⭐ NEW | NAUTICA/ABG 2026：上海荟众接替Tristate(2025 Nautica-12%)/1983航海经典/Interparfums香水至2030 | nautica, competitor, menswear, usa, source |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
