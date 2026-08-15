@@ -10,8 +10,8 @@ aliases:
 tags: [sell_through, kpi, merchandise, benchmark, inventory]
 sources: [2026-06-27_百度文库_2026服装零售售罄率考核制度.md]
 created: 2026-06-27
-updated: 2026-08-07
-cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]], [[china_apparel_industry_2026q1]], [[2026-08-03_服装零售指标口径统一与进销存SQL|服装零售指标口径统一与进销存SQL]], [[2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间]]
+updated: 2026-08-15
+cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]], [[china_apparel_industry_2026q1]], [[2026-08-03_服装零售指标口径统一与进销存SQL|服装零售指标口径统一与进销存SQL]], [[2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间]], [[2026-08-15_aislestock_售罄率周度基准]], [[2026-08-15_retailnorthstar_降价风险与OTB期初库存]]
 ---
 
 # 售罄率考核基准2026
@@ -104,6 +104,8 @@ cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_man
 - [[2026-07-18_PANTEL_服装品牌商品企划五步跃迁]]
 - [[2026-07-24_户外品牌_商品组合计划挑战]]
 - [[2026-08-01_retailnorthstar_分品类售罄率基准]]
+- [[2026-08-15_aislestock_售罄率周度基准]]
+- [[2026-08-15_retailnorthstar_降价风险与OTB期初库存]]
 ## 待验证
 - 与 kb_benchmarks 中 lifecycle_sell_through 的行业通用值（15天22.5%/30天30%/45天42.5%）存在维度差异，正式考核制度阈值更激进，需在实际业务中验证适用性
 

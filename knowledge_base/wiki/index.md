@@ -826,6 +826,14 @@ updated: 2026-08-15
 | [[2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026]] ⭐ NEW | G-Star RAW 2026：荷兰丹宁1989/极星服饰上海运营/近150网点60+城市/Raw Denim先驱/京东旗舰 | g_star_raw, competitor, denim, netherlands, source |
 | [[2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026]] ⭐ NEW | HumbleHumbleR 2026：2025本土新锐男装/谦而不卑/首店宁波3天46万/宁波阪急臻选店/武汉长沙杭州拓 | humble_humble_r, competitor, streetwear, china, source |
 | [[2026-08-15_KING_BABY_中国摇滚银饰与渠道速览_2026]] ⭐ NEW | KING BABY 2026：2000洛杉矶摇滚银饰/金北陛上海运营/中国超10旗舰(北京西单大悦城)/厦门K11 | king_baby, competitor, jewelry, usa, source |]] ⭐ NEW | NAUTICA/ABG 2026：上海荟众接替Tristate(2025 Nautica-12%)/1983航海经典/Interparfums香水至2030 | nautica, competitor, menswear, usa, source |
+| [[2026-08-15_yunchange_零售四大数字化路径]] ⭐ NEW | 零售四大数字化路径：门店→导购→会员→营销全链路数智化；会员管理四步（全域资产打通→分层精细运营→情感长期绑定→AI智能… | vip, membership, omnichannel, private_domain, ai, digitalization, source |
+| [[2026-08-15_china2000_品牌私域战略]] ⭐ NEW | 品牌私域战略：AI 私域运营经理成为 2026 标配；RFM+AI 动态分层、生命周期运营、情绪价值触达；复购从价格刺激… | vip, membership, private_domain, ai, ltv, source |
+| [[2026-08-15_zgswcn_微盟小程序私域服务商]] ⭐ NEW | 第三方私域服务商甄选：微盟多行业落地数据——渠道获客+300~500%、月活会员+50~80%、服饰连锁高价值客户贡献 … | vip, membership, repurchase, private_domain, weimob, source |
+| [[2026-08-15_megaview_AI培训重塑线下成交链路]] ⭐ NEW | Megaview 案例：导购训练从'记住说什么'转向'学会怎么听'；5 维 16 粒度能力模型，敢于追问客户的新人门店转… | guide, ai, training, megaview, coaching, conversion, source |
+| [[2026-08-15_megaview_转化率提升训练逻辑]] ⭐ NEW | Megaview 数据观察：某美妆连锁 6 轮模拟训练后，异议处理维度 68%→82 分、连带销售率 1.2→2.1；知… | guide, ai, training, megaview, attach_rate, source |
+| [[2026-08-15_megaview_难缠客户肌肉记忆]] ⭐ NEW | Megaview 八周实验：AI 训练组门店转化率 13%→19%（相对+46%）、'临门一脚触发器'识别 41%→67… | guide, ai, training, megaview, closing, source |
+| [[2026-08-15_aislestock_售罄率周度基准]] ⭐ NEW | aislestock 2026 售罄率基准：公式=售出/期初收货；服装 specialty 周度 8-12%/季末 60… | merchandise, inventory, sell_through, benchmark, source |
+| [[2026-08-15_retailnorthstar_降价风险与OTB期初库存]] ⭐ NEW | retailnorthstar：按品类正价售罄基准（核心款 80-90%/延续时尚 65-78%/新款 60-75%/季… | merchandise, otb, markdown, sell_through, inventory, source |
 
 ### L2/L3 历史分类（只读保留）
 | L2 分类 | L3 专题数 | 说明 |
