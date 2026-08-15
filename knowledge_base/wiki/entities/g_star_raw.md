@@ -48,3 +48,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[g_star_raw]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_g_star_raw_全维度动态]]。
+
+- 隶属 WHP Global；可持续路线 2025:20% C2C 面料/75% 回收有机生物基，2030:100%；GHG -42% by 2030（置信度：品牌自宣）。
+- Botter（Botter & Herrebrugh）任创意总监；Raw Research @2026-01 巴黎时装周。
+- 联名：Jaden Smith 'Forces of Nature'(C2C Gold)、Max Verstappen 'Maxraw'、Yay Abe（置信度：品牌自宣）。
+
+**结论（刷新）**：A2 轮确认 [[g_star_raw]] 在 2025-2026 处于活跃扩张/转型期，关键信号已沉淀至来源页 [[2026-08-16_A2_g_star_raw_全维度动态]]，与现有实体结论方向一致、无数值冲突。
+**信息链（刷新）**：[[2026-08-16_A2_g_star_raw_全维度动态]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[apparel_esg_rating_2026]] / [[男装品牌竞争格局2026Q1]]
