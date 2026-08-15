@@ -836,8 +836,8 @@ updated: 2026-08-15
 | L2_03 会员与VIP运营 | 3 | VIP分层、复购、积分 |
 | L2_04 导购能力评估 | 3 | 明星导购、推销指标、培训 |
 | L2_05 商品企划 | 13 | 趋势企划/柔性供应链/动态OTB/SKU精细化管理/订货会决策/清仓/采购选型/售罄率基准/库存基准/利润分化 + 枢纽页 + 落地打法 |
-| L2_06 数据分析实务 | 4 | 数据质量、未动销、可视化、SQL |
-| L2_07 多品牌系统 | 4 | 架构、品牌配置、跨品牌整合、Streamlit |
+| L2_06 数据分析实务 | 5 | 数据质量、未动销、可视化、SQL、向量化执行与语义层 |
+| L2_07 多品牌系统 | 5 | 架构、品牌配置、跨品牌整合、Streamlit、主动元数据 |
 
 ## 快速入口
 
@@ -952,4 +952,4 @@ updated: 2026-08-15
 
 | **121** | **08-12 17:06** | **L2_06/07+查漏 (C轮)** | **s4(DuckDB三层调优/Streamlit企业级部署/数据中台落地+ETL事务/Polars2.1 Pandas3.0基准)/c8更新(SQL优化+duckdb+streamlit_dashboard+data_gov_routes+data_quality+polars+python_stack+arrow)/p3更新(streamlit_production+multi_brand+brand_config)/L3同步(wiki页)3处/织网双向/矛盾0处 ✅** |
 | **110** | **08-11 06:40** | **L2_00/01/02 (A轮)** | **s7(商务部1-2月/ctn1986 1-4月/中服协1-5月/帮衣帮AI/网易Q1分化/中财网太平鸟/腾讯网太平鸟减持)/c4更新(china_apparel_industry_2026q1+ai_fashion_design_cases_2026+peacebird+hla)/织网24条双向/矛盾1处(电商+10.7%口径差) ✅** |
-
+| **122** | **08-15 17:15** | **L2_06/07+查漏 (C轮)** | **s4(SQL优化向量化PG18_DuckDB基准/Streamlit1.59新特性LLM/语义层数据契约治理/主动元数据多品牌目录)/c8更新(SQL优化+duckdb+polars+streamlit_dashboard+python_dashboard+semantic_layer+data_gov_routes+data_quality+brand_config+multi_brand)/p5更新(streamlit_production+multi_brand+brand_config+python_sql+data_quality_retail)/L3同步5处/织网24条双向/矛盾0处 ✅** |

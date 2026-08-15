@@ -4,10 +4,10 @@ title: 品牌配置驱动多品牌系统
 aliases:
   - "brand config driven system"
 tags: [brand, configuration, python, streamlit, multi_brand, architecture, membership, master_data]
-sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
+sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026]
 created: 2026-06-08
-updated: 2026-08-12
-cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]]
+updated: 2026-08-15
+cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构], [[2026-08-15_主动元数据与多品牌数据目录2026]]]
 ---
 
 # 品牌配置驱动多品牌系统
@@ -219,7 +219,14 @@ MASTER_DATA_DIMS = {
 
 > 映射：三品牌 ETL 链路（CSV→入库）应强化幂等+回滚+补偿，参见 [[multi_brand_unified_analytics]] 的 2026-08 补强。
 
+## 2026-08-15 更新（主动元数据扩展品牌目录）
+
+- 多品牌系统应在「品牌注册表」之上叠加**主动元数据目录**：每个品牌数据资产自动编目、打 owner、标记敏感列（自动脱敏）、记录跨品牌血缘。Autodesk 主动治理扩到 60 业务域、Kingfisher Knowledge Hub 自助排查 小时→分钟，可作参照。
+- 与 [[multi_brand_unified_analytics]] 协同：品牌配置驱动开发 + 主动元数据自动编目 = 「一次配置、自动治理」。
+- 来源：[[2026-08-15_主动元数据与多品牌数据目录2026]]
+
 ## 关联页面
+- [[2026-08-15_主动元数据与多品牌数据目录2026]]
 
 - [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 - [[bi_dashboard_retail_deployment]]

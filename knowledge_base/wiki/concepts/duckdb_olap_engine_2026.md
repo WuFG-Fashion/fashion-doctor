@@ -6,10 +6,10 @@ aliases:
   - "嵌入式OLAP"
   - "OLAP引擎"
 tags: [duckdb, olap, sql, analytics, embedded, python]
-sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
+sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.net/gitblog_00685/article/details/156508822, 2026-06-21_chenxutan_DuckDB_1.5_Sirius_GPU加速.md, 2026-06-24_DuckDB_vs_Polars_2026基准对比, 2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准, 2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比, 2026-07-22_DuckDB_1.5.4_Quack_DuckLake, 2026-08-12_DuckDB官方_查询性能调优三层级实战, 2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]
 created: 2026-06-08
-updated: 2026-08-12
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+updated: 2026-08-15
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]]
 ---
 
 # DuckDB嵌入式OLAP分析引擎
@@ -320,7 +320,15 @@ DuckDB 生产调优三层栈：**L1 文件级 Hive 分区+Glob（10–365x）/ L
 - 关联打法：无
 - ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[data_library_selection_guide_2026]] · [[python_sql_integration_patterns_2026]] · [[multi_brand_unified_analytics]]（待补页或修正双链）
 
+## 2026-08-15 更新（PG18 vs DuckDB 1.5.4 实战基准）
+
+- 新增 2026 基准：TPC-H 1TB Parquet，DuckDB 1.5.4 比 PostgreSQL 18.4 平均快 7.4x（Q1 扫描 8.2 vs 1.1 GB/s，JOIN 5.2x）；`pg_duckdb` 1.0 使 PG 内部路由分析查询到 DuckDB。
+- 向量化进阶：morsel-driven + SIMD，缓存命中 40%→85%，单查询 3–10x；自适应执行使倾斜稳定 +60%、复杂查询 -40%。
+- 落地参照：FinQore 用 DuckDB 替换后管道 8h→8min（60x）。
+- 来源：[[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+
 ## 关联页面
+- [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
 
 - [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]]
 - [[2026-06-14_Scopir_Python数据分析库2026全景对比]]

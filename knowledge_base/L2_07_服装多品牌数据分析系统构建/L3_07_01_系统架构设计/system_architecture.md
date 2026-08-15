@@ -316,3 +316,8 @@ Fashion Doctor/
 - **Polars零拷贝**(v1.57)：Polars DataFrame直接Arrow直传Streamlit，绕过pandas转换
 - **新组件**：st.pagination(分页)/st.bottom(固定底部)/st.App.secrets(编程式注入)
 - 详见 [[streamlit_dashboard_2026]] [[2026-06-21_Streamlit_2026_H2_Starlette正式化]]
+
+## 2026-08-15 更新
+
+- 语义层成 agentic AI 时代定义真相源：dbt 调研 83% 团队把数据信任放首位；Semantic Lakehouse 实测智能体数据解读错误 -75%、AI 与 BI 指标一致性 4x；指标定义为代码 + CI 校验 + 列级血缘。
+- 来源：[[2026-08-15_语义层与数据契约治理2026]]

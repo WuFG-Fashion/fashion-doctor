@@ -528,3 +528,8 @@ your_project/
 - **版本基线**：Streamlit **1.55**（2026-04 稳定版，Snowflake 主导每两周发版）；Plotly **6.x** 相对 5.x 有破坏性变更；pandas **3.0** 要求 **Python ≥ 3.11**
 - **何时迁移 Dash**：全局状态冲突已在生产咬人 / 需 AG Grid 扛 5 万行+ / 需细粒度按控件更新 / 需回调层按用户 RBAC
 - 详见 [[2026-08-06_Python看板六框架横评与生产三大失效模式]] [[streamlit_production_dashboard]]
+
+## 2026-08-15 更新
+
+- Streamlit 1.59（2026-07）新特性：ButtonColumn(表内按钮)、st.mermaid_chart(内联架构图)、App.run() 直启、st.fragment 写外部容器(局部刷新)、persist_state(跨 rerun 保留状态)；st.write_stream 支持 OpenAI Responses API 流。
+- 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]

@@ -6,10 +6,10 @@ aliases:
   - "数据质量"
   - "Data Quality"
 tags: [data_quality, governance, monitoring, data_consistency, timeliness, ai, data_contract, hitl]
-sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]
+sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digiwin.com/t.php/p/13859.html, 2026-06-08_2026企业数据质量五阶段管控, 2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2026-06-10_界面新闻_数据治理六厂商选型2026, 2026-06-12_帆软_ETL集成治理一体化, 2026-06-12_IT之家_数据治理平台选型2026, 2026-08-03_surinch_atlan_qualytics_AI驱动数据质量管理2026, 2026-08-03_AI驱动数据质量管理_从规则到智能预防, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_语义层与数据契约治理2026, 2026-08-15_主动元数据与多品牌数据目录2026]
 created: 2026-06-06
-updated: 2026-08-12
-cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]], [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]
+updated: 2026-08-15
+cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]], [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准], [[2026-08-15_语义层与数据契约治理2026]], [[2026-08-15_主动元数据与多品牌数据目录2026]]]
 ---
 
 # 数据质量常态化治理
@@ -275,7 +275,21 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - 关联打法：无
 - ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[multi_brand_unified_analytics]] · [[data_quality_retail_practice]] · [[brand_config_driven_system]]（待补页或修正双链）
 
+## 2026-08-15 更新（契约前置 + 语义层保障质量）
+
+- 质量治理范式前移：契约在 ingestion 即校验（source freshness/not_null/unique/accepted_values），破坏性变更 CI 拦截；语义层保证「同一指标全平台同义」，消除口径漂移型质量事故。
+- 信任—速度悖论警示：83% 团队重数据信任、72% 用 AI 编码、仅 24% 用 AI 可观测——质量监控须与 AI 编码速度同步投入。
+- 来源：[[2026-08-15_语义层与数据契约治理2026]]
+
+## 2026-08-15 更新（主动元数据 + 信任分）
+
+- 主动元数据使质量「左移」：目录标记 PII/敏感即自动向引擎推送脱敏策略；Datanauta 把质量健康分（Trust Score，如 98%）直接写入目录元数据，发现即见可信度。
+- 异常检测（schema drift/量异常）在目录索引前拦截，防「垃圾进垃圾出」。
+- 来源：[[2026-08-15_主动元数据与多品牌数据目录2026]]
+
 ## 关联页面
+- [[2026-08-15_主动元数据与多品牌数据目录2026]]
+- [[2026-08-15_语义层与数据契约治理2026]]
 
 - [[2026-06-06_Capgemini零售AI信任落地]]
 - [[2026-06-06_百家号_数据质量常态化治理]]

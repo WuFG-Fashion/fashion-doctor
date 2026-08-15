@@ -4,10 +4,10 @@ title: Python Pandas+SQL集成实战模式
 aliases:
   - "python sql integration patterns 2026"
 tags: [python, pandas, sql, pandasql, sqlalchemy, etl, integration, practice]
-sources: [2026-06-15_aimojo_Python_Pandas_SQL集成指南, https://aimojo.io/zh-CN/python-pandas-and-sql/]
+sources: [2026-06-15_aimojo_Python_Pandas_SQL集成指南, https://aimojo.io/zh-CN/python-pandas-and-sql/, 2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]
 created: 2026-06-15
-updated: 2026-08-09
-cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]]
+updated: 2026-08-15
+cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]]
 ---
 
 # Python Pandas+SQL集成实战模式
@@ -155,7 +155,13 @@ con.execute("SET memory_limit = '8GB'")
 
 **三套 API 选型**：DB-API（通用脚本）/ Relational API（链式，近 Pandas，适合探索转换）/ Spark API（PySpark 迁移）。与 [[duckdb_olap_engine_2026]] 的 OLAP 引擎能力、[[arrow_zero_copy_interop_2026]] 的零拷贝互操作一致——适合本项目多品牌分析层的款号/色号/尺码/门店编码 group by/join（短字符串主键，Arrow 字符串后端收益最大）。
 
+## 2026-08-15 更新（DuckDB 嵌入式 SQL 桥接再强化）
+
+- 2026 基准显示 DuckDB 1.5.4 在 TPC-H 1TB 比 PostgreSQL 18.4 快 7.4x，`pg_duckdb` 1.0 让 PG 内部路由分析查询到 DuckDB——Python+SQL 集成新增「DuckDB 内存引擎」这一高性价比桥接层（见 [[duckdb_olap_engine_2026]]）。
+- 来源：[[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+
 ## 关联页面
+- [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026]] — 大数据场景替代
 - [[SQL查询性能优化|SQL优化三维法]] — SQL端性能提升
 - [[retail_data_workflow_2026|CRISP-DM工作流]] — 分析流程标准化

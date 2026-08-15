@@ -7,10 +7,10 @@ aliases:
   - "SQL优化"
   - "SQL调优"
 tags: [sql, optimization, mysql, postgresql, performance, retail_data, ai_tool]
-sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战, 2026-08-12_DuckDB官方_查询性能调优三层级实战]
+sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026, 2026-07-03_腾讯云_PostgreSQL_19_Beta1, 2026-07-09_DevTo_PostgreSQL_2026性能调优, 2026-07-31_SQL性能优化2026原理驱动实战, 2026-08-12_DuckDB官方_查询性能调优三层级实战, 2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]
 created: 2026-06-06
-updated: 2026-08-12
-cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
+updated: 2026-08-15
+cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]], [[2026-08-03_服装零售指标口径统一与进销存SQL], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]]
 ---
 
 # SQL查询性能优化
@@ -263,7 +263,15 @@ DuckDB Labs 给出三层查询优化栈，与本项目"款号/色号/门店编�
 - 关联打法：无
 - ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[data_quality_retail_practice]] · [[multi_brand_unified_analytics]] · [[python_sql_integration_patterns_2026]] · [[sku_inventory_sql_operations]]（待补页或修正双链）
 
+## 2026-08-15 更新（向量化执行与 PG18/DuckDB 基准）
+
+- 2026 OLAP 进入「向量化执行 + 自适应查询」：DuckDB 1.5.4 以 120k 行 morsel + SIMD，CPU 缓存命中 40%→85%，单查询 3–10x；自适应执行动态切换 Join/并行度，倾斜场景稳定 +60%、复杂查询 -40%。
+- PostgreSQL 18.4 引入异步 I/O + 向量化聚合（相对 PG16 -22%）；但扫描密集仍落后：TPC-H 1TB DuckDB 比 PG17 平均快 7.4x（Q1 8.2 vs 1.1 GB/s，3+表 JOIN 5.2x）。
+- `pg_duckdb` 1.0 让 PG 内部路由分析查询到 DuckDB；混合架构（PG OLTP + DuckDB OLAP）实测 138k 写/秒 + 7.8 GB/s、零争用。
+- 来源：[[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+
 ## 关联页面
+- [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
 
 - [[2026-06-06_Kanaries_Polars_vs_Pandas_2026]]
 - [[2026-06-06_百度开发者_SQL优化实战]]

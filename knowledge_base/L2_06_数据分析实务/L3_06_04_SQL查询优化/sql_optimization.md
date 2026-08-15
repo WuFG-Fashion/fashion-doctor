@@ -300,3 +300,8 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 - **AI驱动升级**：人工工作量压缩40%/治理效率提升3倍/AI识别85%+质量问题
 - **数据分析关联**：数据资产管理为SQL分析提供可信数据基础——元数据不全→分析可信度低
 - 详见 [[data_asset_management_2026]] [[2026-06-21_数据资产管理全景指南2026]]
+
+## 2026-08-15 更新
+
+- 2026 向量化执行+自适应查询成 OLAP 标配：DuckDB 1.5.4 比 PostgreSQL 18.4 在 TPC-H 1TB 平均快 7.4x（Q1 扫描 8.2 vs 1.1 GB/s，3+表 JOIN 5.2x）；`pg_duckdb` 1.0 让 PG 内部路由分析查询到 DuckDB；混合架构( PG OLTP + DuckDB OLAP )实测 138k 写/秒 + 7.8 GB/s 零争用。
+- 来源：[[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]

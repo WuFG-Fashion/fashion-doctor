@@ -7,10 +7,10 @@ aliases:
   - "Semantic Layer"
   - "Metrics Layer"
 tags: [semantic_layer, metrics_layer, dbt, metricflow, osi, ai_agent, governance, headless]
-sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景]
+sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景, 2026-08-15_语义层与数据契约治理2026]
 created: 2026-08-09
-updated: 2026-08-09
-cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]]
+updated: 2026-08-15
+cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026], [[2026-08-15_语义层与数据契约治理2026]]]
 ---
 
 # 语义层与指标层（Semantic Layer / Metrics Layer）2026
@@ -99,7 +99,16 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - 关联打法：无
 - ⚠️ **断点（指向未建页）**：[[multi_brand_unified_analytics]]（待补页或修正双链）
 
+## 2026-08-15 更新（信任—速度悖论与 Semantic Lakehouse）
+
+- dbt《2026 State of Analytics Engineering》：数据信任成 83% 团队首要优先级（一年前 66%）；72% 用 AI 辅助编码，仅 24% 用 AI 可观测——「信任—速度悖论」；Gartner 预测 2026 年前 60% 建在非 AI-ready 数据上的 AI 项目被放弃。
+- Semantic Lakehouse：语义层作智能体控制平面，实测 75% 智能体数据解读错误下降、开发 60% 更快、AI 与 BI 指标一致性 4x。
+- 落地：dbt Semantic Layer/MetricFlow 指标定义为代码 + CI 校验 + gold 模型契约 + 列级血缘；Databricks CEO（2026-02）称平台 >80% 数据库由 AI 智能体构建。
+- 对本项目：多品牌统一指标（售罄率/毛利率/周转）集中于语义层一处定义，从根上消除跨品牌/跨表指标漂移——直接回应 [[multi_brand_unified_analytics]] 口径统一诉求。
+- 来源：[[2026-08-15_语义层与数据契约治理2026]]
+
 ## 关联页面
+- [[2026-08-15_语义层与数据契约治理2026]]
 
 - [[data_governance_tech_routes_2026]] — 含语义层能力的治理平台路线
 - [[retail_analytics_reporting_2026]] — 服装零售报表与指标口径

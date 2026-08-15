@@ -6,10 +6,10 @@ aliases:
   - "Streamlit看板"
   - "Streamlit仪表盘"
 tags: [streamlit, dashboard, caching, session_state, production, theme, dataframe, starlette, asgi]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线, 2026-08-15_Streamlit_1.59新特性与LLM集成]
 created: 2026-06-07
-updated: 2026-08-12
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+updated: 2026-08-15
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -333,7 +333,15 @@ v1.60（2026-07-21）以安全加固为核心，含多项 breaking 安全变更�
 
 > 映射：与 [[streamlit_production_dashboard]] 生产部署小节互补；可拖拽大屏借 `st.bottom` + streamlit-elements 做多品牌切换栏。
 
-## 关联页面（续）
+## 2026-08-15 更新（Streamlit 1.59 新特性与 LLM 集成）
+
+- 1.59.0（2026-07-06）亮点：ButtonColumn、st.skeleton、st.mermaid_chart（原生 Mermaid 图）、App.run() 直启、st.fragment 写外部容器、persist_state、st.chat_input 粘贴文件 + submit_mode、st.write_stream 支持 OpenAI Responses API 流。
+- 对本项目：st.mermaid_chart 看板内联架构图；App.run() 简化 V3 启动；persist_state + st.fragment 局部刷新是缓解「session 不丢/底部固定/横向滑动」三角矛盾的可行手段之一（配合 [[streamlit_production_dashboard]]）。
+- 移除项：Snowpark 连接已删除，需迁移。
+- 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
+
+## 关联页面
+- [[2026-08-15_Streamlit_1.59新特性与LLM集成]]（续）
 - [[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]] ⭐ NEW
 - [[2026-07-28_Streamlit_v1.60_安全加固]] ⭐ NEW
 - [[2026-08-06_Python看板六框架横评与生产三大失效模式]] — 生产三大失效模式与版本基线 ⭐ NEW

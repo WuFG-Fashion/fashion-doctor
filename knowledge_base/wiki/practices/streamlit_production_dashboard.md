@@ -4,10 +4,10 @@ title: Streamlit生产级多品牌看板构建
 aliases:
   - "streamlit production dashboard"
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线, 2026-08-15_Streamlit_1.59新特性与LLM集成]
 created: 2026-06-07
-updated: 2026-08-12
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+updated: 2026-08-15
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -381,7 +381,14 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 
 > 映射：与 [[streamlit_dashboard_2026]] 2026-08 企业级深化小节互补；可拖拽大屏借 streamlit-elements。
 
+## 2026-08-15 更新（1.59 生产实践要点）
+
+- 启动升级：1.59 引入 `App.run()`，可直接 `python app.py` / `uv run app.py` 启动，便于嵌入 FastAPI/Starlette 或容器 ENTRYPOINT；`st.fragment(parallel=True)`（1.58）仍用于并发局部刷新。
+- 移动端/体验：st.skeleton 改善加载反馈；persist_state 缓解状态丢失；st.set_page_config initial_sidebar_state="locked" 锁定侧栏（避免移动端误触）。
+- 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
+
 ## 关联页面
+- [[2026-08-15_Streamlit_1.59新特性与LLM集成]]
 
 - [[2026-06-08_Streamlit_v147特性解析]]
 - [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]

@@ -182,3 +182,8 @@ fig.update_layout(width=800)  # 不要固定宽度
 - **看板框架三→六**：Streamlit / Dash / Gradio / Reflex / Panel(HoloViz) / NiceGUI；自建看板（Streamlit，1–3 天）vs 嵌入（Databrain/Metabase/Cube，1–5 天）vs 大表（Dash + AG Grid）边界清晰
 - **生产三大失效模式**：模块级全局状态泄漏 / `st.dataframe` 超 5 万行崩溃 / 玩具数据幻觉
 - 详见 [[2026-08-06_AgenticBI与ChatBI零售落地实测]] [[2026-08-06_Python看板六框架横评与生产三大失效模式]] [[bi_dashboard_retail_deployment]]
+
+## 2026-08-15 更新
+
+- Streamlit 1.59（2026-07）新特性：ButtonColumn(表内按钮)、st.mermaid_chart(内联架构图)、App.run() 直启、st.fragment 写外部容器(局部刷新)、persist_state(跨 rerun 保留状态)；st.write_stream 支持 OpenAI Responses API 流。
+- 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]

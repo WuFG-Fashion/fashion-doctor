@@ -4,10 +4,10 @@ title: 2026 Python看板生态系统
 aliases:
   - "python dashboard ecosystem 2026"
 tags: [python, dashboard, streamlit, dash, gradio, comparison]
-sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard]
+sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-08-15_Streamlit_1.59新特性与LLM集成]
 created: 2026-06-07
-updated: 2026-08-06
-cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+updated: 2026-08-15
+cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
 ---
 
 # 2026 Python看板生态系统
@@ -125,7 +125,13 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - 关联打法：无
 - ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[multi_brand_unified_analytics]] · [[streamlit_production_dashboard]]（待补页或修正双链）
 
+## 2026-08-15 更新（Streamlit 1.59 在生态中的位置）
+
+- 1.59 强化「表内交互 + LLM 集成 + 轻启动」：ButtonColumn、st.write_stream(OpenAI Responses API)、App.run() 直启，巩固「内部数据分析看板」赛道领先位，与 Dash（像素级企业应用）/Gradio（ML 演示）持续分化。
+- 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
+
 ## 关联页面
+- [[2026-08-15_Streamlit_1.59新特性与LLM集成]]
 
 - [[2026-06-07_零售数据分析框架2026]]
 - [[2026-06-08_Streamlit_v147特性解析]]
