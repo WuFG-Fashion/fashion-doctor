@@ -5,7 +5,7 @@ aliases:
   - "迪卡轩"
   - "DEKASHELL"
 tags: [dekashell, competitor, womenswear, light_elegant, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介]
+sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季]
 created: 2026-08-14
 updated: 2026-08-15
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_迪卡轩品牌档案]]
@@ -37,6 +37,22 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 上游来源：[[2026-08-15_迪卡轩品牌档案]]（猎聘/官网/高校就业网）
 - 本页：[[dekashell]]（实体）
 - 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]、[[ariose_years]]（杭州女装参照系）
+
+## 近期动态刷新（2026-08-15 · A轮第4轮全量覆盖）
+
+> 本轮按用户硬性规则"每次 A轮必须覆盖全部 focus_brands"对既有实体页做 2025-2026 最新动态刷新。
+
+### 本轮核心动态
+- 杭州旭弘实业（原佰加服饰）轻淑女装；2007 创立，30 省 600+ 店（另一口径 300+），战略冲杭州女装头部阵营。
+- 2026 春季系列'无界映像 BOUNDLESS REFLECTIONS'，联手阿姆斯特丹艺术家 Imke Ligthart；'Style by Me'理念。
+- 定位都市优雅/简约/轻松；非上市无财报；加盟模式（需加盟费+保证金），中高档价格。
+- 客群：都市新女性；与艾诺丝雅诗同属杭州女装重点补充品牌，区域集群效应明显。
+
+### 本轮新增结论
+- 迪卡轩以'轻淑女装 + 艺术联名(2026 春季无界映像) + 加盟规模(600+店)'稳居杭州女装新锐；与艾诺丝同属用户指定重点女装补充，A轮本轮已重触。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-15_R4_迪卡轩2026春季]] → 本页（[[dekashell]]）→ 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面
 - 同地域女装：[[ariose_years|艾诺丝雅诗]]（杭州中淑头部）

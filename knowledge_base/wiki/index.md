@@ -198,7 +198,18 @@ updated: 2026-08-15
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
-| [[2026-08-15_卡宾2026中期业绩与2025年报]] ⭐ NEW | 卡宾服饰2026H1(营收4.53亿+7.24%/毛利率46.3%+2.5pp/经营溢利-24.7%/存货周转246天)+2025FY(9.44亿-8.80%/净利3198万+10.67%)；HK 02030中期业绩公告 | cabbeen, competitor, menswear, hk_listed, earnings, source |
+| [[2026-08-15_卡宾2026中期业绩与2025年报
+| [[2026-08-15_R4_卡宾2026最新动态]] ⭐ NEW | 卡宾 2026H1 毛利率 46.3% 亮点但经营溢利 -24.7%；8 月马来 Sunway 新店、AI 虚拟试穿、海外试水（R4 全量覆盖刷新） | cabbeen, competitor, menswear, core, hk_listed, R4_refresh, source |
+| [[2026-08-15_R4_太平鸟2026H1动态]] ⭐ NEW | 太平鸟 2026H1 营收 28.78 亿(-0.72%)/归母 1.02 亿(+30.89%)/扣非 5071 万(+269.91%)；净关店 137 家、增长靠非经常性（R4 全量覆盖刷新） | peacebird, competitor, womenswear, a_share, core, R4_refresh, source |
+| [[2026-08-15_R4_楚萨迪2025业绩重启]] ⭐ NEW | Trussardi 2025 营收 €29M(+70%) 但 EBITDA 亏 €1M（重建期）；Miroglio 收购、11 店、中东/游艇延伸（R4 全量覆盖刷新） | trussardi, competitor, luxury, italy, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_卡尔拉格斐2026中国]] ⭐ NEW | Karl Lagerfeld 2026H1 营收 1.88 亿/净利 277 万(+147.3%) 扭亏；七匹狼代理、中国 54 店、快闪营销（R4 全量覆盖刷新） | karl_lagerfeld, competitor, luxury, germany, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_萨洛蒙2026Q1中国]] ⭐ NEW | Salomon 亚玛芬 2026Q1 户外 +42% 超始祖鸟成增长火车头；中国门店 302 净 +45、大店模型（R4 全量覆盖刷新） | salomon, competitor, sportswear, outdoor, france, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_卡骆驰2026Q2中国]] ⭐ NEW | Crocs 2026Q2 核心品牌首破 $1B/中国双位数增长；芭蕾风破圈但白牌平替冲击高价联名（R4 全量覆盖刷新） | crocs, competitor, footwear, usa, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_MLB_FF_2026中国万亿]] ⭐ NEW | MLB(F&F) 2026 中国法人预计破 1 万亿韩元、门店 1078→1094；Discovery 第二曲线（R4 全量覆盖刷新） | mlb, competitor, streetwear, korean_wave, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_2AM卡宾3D打印鞋]] ⭐ NEW | 2AM 卡宾旗下 3D 打印鞋履年轻线，占营收 4.1%；2026-03 吉隆坡 The Starhill 快闪出海（R4 全量覆盖刷新） | two_am, competitor, streetwear, footwear, cabbeen_sub, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_CHUU_2026退潮样本]] ⭐ NEW | CHUU 韩潮快时尚 2026 初 300+ 店、赵露思代言未破圈；声量≠转化、平替分流（R4 全量覆盖刷新） | chuu, competitor, womenswear, korean_wave, fast_fashion, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_艾诺丝雅诗2026动态]] ⭐ NEW | 艾诺丝雅诗 杭州爱唯(2025-12 更名)中高端女装 1800+ 店/年销约 50 亿；AW PROJECT 轻奢上探（R4 全量覆盖刷新） | ariose_years, competitor, womenswear, premium, focus_brand, R4_refresh, source |
+| [[2026-08-15_R4_迪卡轩2026春季]] ⭐ NEW | 迪卡轩 杭州旭弘轻淑女装 600+ 店；2026 春季'无界映像'联名艺术家 Imke Ligthart（R4 全量覆盖刷新） | dekashell, competitor, womenswear, light_elegant, focus_brand, R4_refresh, source |]] ⭐ NEW | 卡宾服饰2026H1(营收4.53亿+7.24%/毛利率46.3%+2.5pp/经营溢利-24.7%/存货周转246天)+2025FY(9.44亿-8.80%/净利3198万+10.67%)；HK 02030中期业绩公告 | cabbeen, competitor, menswear, hk_listed, earnings, source |
 | [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]] ⭐ NEW | 艾诺丝雅诗(ARIOSE YEARS)2026：爱唯时尚集团/2025约50亿·1800店·百万会员·杭州女装TOP3；AW PROJECT重奢拓店(港汇恒隆首店首日60万) | ariose_years, womenswear, premium, focus, source |
 | [[2026-08-15_迪卡轩品牌档案]] ⭐ NEW | 迪卡轩(DEKASHELL)品牌档案：杭州轻淑女装/2007/30省600+店/战略冲头部；非上市无财报 | dekashell, womenswear, light_elegant, focus, source |
 | [[2026-08-15_卡骆驰2026Q1中国增长与樊振东代言]] ⭐ NEW | Crocs 2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/中国FY2025+30%；樊振东全球代言、济南售假风波 | crocs, footwear, usa, focus_brand, source |

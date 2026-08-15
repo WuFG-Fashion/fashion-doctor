@@ -9,7 +9,7 @@ aliases:
   - "HK 02030"
   - "卡宾男装"
 tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
-sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com)]
+sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
 created: 2026-08-14
 updated: 2026-08-15
 cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2026-08-15_卡宾2026中期业绩与2025年报]]
@@ -58,6 +58,22 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - 上游来源：[[2026-08-15_卡宾2026中期业绩与2025年报]]（卡宾服饰 2026-08-07 中期业绩公告 + 中证网/格隆汇/环球网解读）
 - 本页：[[cabbeen]]（实体）
 - 下游应用：[[core_brands_peacebird_cabbeen_2026]]、[[menswear_brands_2026q1]]、[[男装品牌竞争格局2026Q1]]、[[服装行业竞争格局]]、[[peacebird]]、[[muson_gxg]]、[[hla]]、[[lilanz]]
+
+## 近期动态刷新（2026-08-15 · A轮第4轮全量覆盖）
+
+> 本轮按用户硬性规则"每次 A轮必须覆盖全部 focus_brands"对既有实体页做 2025-2026 最新动态刷新。
+
+### 本轮核心动态
+- 2026-08 吉隆坡 The Starhill 快闪（携 2AM 联名 3D 打印鞋）后，8 月于马来 Sunway Velocity 新开门店，海外（马来）门店累计 2 家，标志全球扩张试水。
+- 2026H1 财报解读（环球网 8-13）：毛利率 46.3%（+2.5pp）为最大亮点，但经营溢利 -24.7%（利润率 8.5% vs 12.1%），揭示'增收增利、效率承压'，行业进入'产品力+经营效率'竞争阶段。
+- 公司推进 AI 虚拟试穿、智能穿搭等数字化工具；线下门店形象升级、强化到店试穿体验与互动转化。
+- 品牌矩阵：主品牌 Cabbeen 约 60% / Cabbeen Urban（卡宾都市）28.6% / 2AM 4.1%；线上 +12.3% > 线下 +4.7%。
+
+### 本轮新增结论
+- 卡宾 2026H1 以'毛利率改善 + 数字化升级 + 海外试水（马来）'为主线，但存货周转 246 天（+38 天）与经营溢利下滑暴露效率短板；双核中定位'设计师差异化 + 科技面料'样本，与太平鸟规模龙头形成对照，A轮本轮已重触。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-15_R4_卡宾2026最新动态]] → 本页（[[cabbeen]]）→ 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[core_brands_peacebird_cabbeen_2026|双核对照页]]
