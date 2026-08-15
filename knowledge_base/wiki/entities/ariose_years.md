@@ -47,5 +47,6 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 
 ## 关联页面
 - 同地域女装：[[dekashell|迪卡轩]]（杭州轻淑）
+- 韩系甜辣对照：[[chuu|CHUU]]（韩潮快时尚退潮样本，风格错位参照）
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

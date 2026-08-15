@@ -203,6 +203,8 @@ updated: 2026-08-15
 | [[2026-08-15_迪卡轩品牌档案]] ⭐ NEW | 迪卡轩(DEKASHELL)品牌档案：杭州轻淑女装/2007/30省600+店/战略冲头部；非上市无财报 | dekashell, womenswear, light_elegant, focus, source |
 | [[2026-08-15_卡骆驰2026Q1中国增长与樊振东代言]] ⭐ NEW | Crocs 2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/中国FY2025+30%；樊振东全球代言、济南售假风波 | crocs, footwear, usa, focus_brand, source |
 | [[2026-08-15_楚萨迪2026重启开店计划]] ⭐ NEW | Trussardi 2026重启：Miroglio收购后定位轻奢，2026开10店(5意+5海外加盟) | trussardi, luxury, italy, focus_brand, source |
+| [[2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本]] ⭐ NEW | CHUU 2026中国现状：韩国PPB STUDIO快时尚女装/2012首尔/-5kg jeans/2026初300+店但韩潮退潮、赵露思代言未破圈 | chuu, korean_fashion, womenswear, fast_fashion, source |
+| [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]] ⭐ NEW | MLB(F&F)2026中国：法人营收119→9603亿韩元、2026破万亿；Q1+17.2%但Q2中国+4%股价暴跌20% | mlb, ff, korean_fashion, streetwear, source |
 | [[2026-08-15_AI时尚从实验到基础设施2026]] ⭐ NEW | AI时尚2026从实验到基础设施：Zara 7M+试穿/43市场、H&M点击+24%、Zalando图像-90%、Shopify转化+94%、试穿转化2.3x、RFID Top100>80%贴标 | ai, virtual_tryon, market_size, infrastructure, source |
 | [[2026-08-14_2026H1服装行业KPI基准与3月出口基期效应]] ⭐ NEW | 2026H1行业KPI补强：内销全口径服装鞋帽针纺织品(Q1 4122亿+9.3%/1-2月2831亿+10.4%/2025全年15214.6亿+3.2%)+出口1-2月纺织服装504.5亿+17.6%/3月服装-29.4%基期效应(Q1累计+1.2%) | kpi, retail, export, industry, caliber, source |
 | [[2026-08-13_京东物流迅销集团战略合作]] ⭐ NEW | 京东物流×迅销集团(优衣库母公司)战略合作，共建服饰供应链履约，目标万亿日元/+22%级协同 | fast_retailing, uniqlo, jd_logistics, supply_chain, partnership, source |
