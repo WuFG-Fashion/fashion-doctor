@@ -961,3 +961,14 @@ updated: 2026-08-15
 | **121** | **08-12 17:06** | **L2_06/07+查漏 (C轮)** | **s4(DuckDB三层调优/Streamlit企业级部署/数据中台落地+ETL事务/Polars2.1 Pandas3.0基准)/c8更新(SQL优化+duckdb+streamlit_dashboard+data_gov_routes+data_quality+polars+python_stack+arrow)/p3更新(streamlit_production+multi_brand+brand_config)/L3同步(wiki页)3处/织网双向/矛盾0处 ✅** |
 | **110** | **08-11 06:40** | **L2_00/01/02 (A轮)** | **s7(商务部1-2月/ctn1986 1-4月/中服协1-5月/帮衣帮AI/网易Q1分化/中财网太平鸟/腾讯网太平鸟减持)/c4更新(china_apparel_industry_2026q1+ai_fashion_design_cases_2026+peacebird+hla)/织网24条双向/矛盾1处(电商+10.7%口径差) ✅** |
 | **122** | **08-15 17:15** | **L2_06/07+查漏 (C轮)** | **s4(SQL优化向量化PG18_DuckDB基准/Streamlit1.59新特性LLM/语义层数据契约治理/主动元数据多品牌目录)/c8更新(SQL优化+duckdb+polars+streamlit_dashboard+python_dashboard+semantic_layer+data_gov_routes+data_quality+brand_config+multi_brand)/p5更新(streamlit_production+multi_brand+brand_config+python_sql+data_quality_retail)/L3同步5处/织网24条双向/矛盾0处 ✅** |
+
+## A2轮新增来源（2026-08-16 · 品牌主体全维度）
+
+> A轮A2（固定分组 12 品牌：etudes / g_star_raw / hoka_one_one / humble_humble_r / karl_lagerfeld / king_baby / koyo / lacoste / levis / marcelo_burlon / mlb / mlb_kids）。每源含 结论+信息链+双链+置信度+brand_specific；实体页均追加「近期动态刷新」小节。
+
+### 来源页（wiki/sources）
+- [[2026-08-16_A2_etudes_全维度动态]] · [[2026-08-16_A2_g_star_raw_全维度动态]] · [[2026-08-16_A2_hoka_one_one_全维度动态]] · [[2026-08-16_A2_humble_humble_r_全维度动态]] · [[2026-08-16_A2_karl_lagerfeld_全维度动态]] · [[2026-08-16_A2_king_baby_全维度动态]]
+- [[2026-08-16_A2_koyo_全维度动态]] · [[2026-08-16_A2_lacoste_全维度动态]] · [[2026-08-16_A2_levis_全维度动态]] · [[2026-08-16_A2_marcelo_burlon_全维度动态]] · [[2026-08-16_A2_mlb_全维度动态]] · [[2026-08-16_A2_mlb_kids_全维度动态]]
+
+### 实体页已追加「近期动态刷新（2026-08-16）」
+- 上述 12 品牌实体页均追加刷新小节（含内联置信度 + 双链 + 结论/信息链）。
