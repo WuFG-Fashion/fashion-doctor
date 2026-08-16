@@ -230,5 +230,6 @@ MASTER_DATA_DIMS = {
 
 - [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
 - [[bi_dashboard_retail_deployment]]
+- [[brand_ops_data_infra_2026]] ⭐ S轮 — 数据基建适配跨品牌合成（品牌实例映射）
 
 - [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]

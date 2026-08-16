@@ -77,6 +77,6 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[core_brands_peacebird_cabbeen_2026|双核对照页]]
-- S轮合成：[[brand_portfolio_tiers_2026|36品牌分层矩阵]]、[[brand_risk_signals_2026|36品牌风险信号]]
+- S轮合成：[[brand_portfolio_tiers_2026|36品牌分层矩阵]]、[[brand_risk_signals_2026|36品牌风险信号]]、[[brand_store_channel_2026|门店渠道对比]]、[[brand_gross_margin_2026|毛利率分层]]、[[brand_ops_data_infra_2026|运营与数据基建]]
 - 行业格局：[[服装行业竞争格局]]、[[男装品牌竞争格局2026Q1]]
 - 同赛道男装：[[muson_gxg|GXG/慕尚]]、[[hla|海澜之家]]、[[lilanz|利郎]]

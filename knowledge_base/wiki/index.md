@@ -195,6 +195,9 @@ updated: 2026-08-15
 | [[core_brands_peacebird_cabbeen_2026]] | 双核对标：太平鸟(规模龙头) vs 卡宾(设计师差异化)，2026H1 体量 6:1 | peacebird, cabbeen, core_brand, comparison |
 | [[brand_portfolio_tiers_2026]] ⭐ S轮 | 36品牌组合分层矩阵：营收/增长/品类/国际化/DTC/数据可得性六维分层；识别"DTC直营化与高增长正相关""运动户外全员正增长""韩潮两极分化""数据黑箱系统性约束" | comparison, focus_brands, synthesis, s_round |
 | [[brand_risk_signals_2026]] ⭐ S轮 | 36品牌风险信号汇总：盈利质量/库存/渠道管控/单一市场依赖/韩潮退潮/治理口径/数据黑箱七类风险 | comparison, focus_brands, synthesis, risk |
+| [[brand_store_channel_2026]] ⭐ S轮·二遍 | 36品牌门店策略+渠道结构对比：直营/加盟/混合分类、开关节奏、DTC/线上/全渠道整合度；识别"直营化+大店模型=高增长标准答案""代理模式双刃剑""全渠道量化能力双核独享" | comparison, focus_brands, synthesis, s_round, store, channel |
+| [[brand_gross_margin_2026]] ⭐ S轮·二遍 | 36品牌毛利率分层：已披露聚焦品牌46%-62%、仅5/36有数据、黑箱最严重维度 | comparison, focus_brands, synthesis, s_round, gross_margin |
+| [[brand_ops_data_infra_2026]] ⭐ S轮·二遍 | 36品牌运营策略+数据基建适配：桥接B/C轮practices，会员/社群信号仅双核+标杆有、数据基建适配度随可得性断崖 | comparison, focus_brands, synthesis, s_round, operations, data_infrastructure |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
