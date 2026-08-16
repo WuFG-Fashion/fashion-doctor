@@ -275,6 +275,21 @@ git add knowledge_base/raw/articles \
 
 临时生成脚本放 `.scripts_tmp/` 或 `.kbtmp/`（均已 gitignore），不入知识库目录。
 
+### 4.6 脚本路径规范（2026-08-16 起强制执行）
+
+**禁止在脚本中写死机器绝对路径**（`C:\Users\...`、`D:\...` 一律不允许）。2026-08-16 清查发现全库 41 处死路径（含已不存在的 `Fashion Doctor` 旧副本路径和 `D:\Fashion Doctor` 前代机器路径），已全量修复为统一写法：
+
+```python
+# KB 根目录：环境变量优先，__file__ 锚定兜底（跨机器 clone 即可运行，零配置）
+KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[N])
+# N 按脚本层级定：knowledge_base/tools/ 下 parents[1] 即 knowledge_base；
+# scripts/ 下 parents[1] 是仓库根，需再拼 / "knowledge_base"
+# 业务数据库：CABBEEN_DB 环境变量优先，兜底锚定项目根 cabbeen.db
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[M] / "cabbeen.db")
+```
+
+新脚本落盘前自检：`grep -n "[A-Z]:\\\\" 脚本.py` 结果应为空。
+
 ---
 
 ## 五、内容质量标准
