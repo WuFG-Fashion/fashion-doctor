@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Update kb_benchmarks.json — scan wiki/concepts/ and wiki/entities/ for new threshold/benchmark data"""
+import os
 import json, re
 from pathlib import Path
 from datetime import date
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
-BENCH_PATH = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\kb_benchmarks.json")
+_KB = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导
+WIKI = _KB / "wiki"
+BENCH_PATH = _KB / "kb_benchmarks.json"
 
 with open(BENCH_PATH, 'r', encoding='utf-8') as f:
     b = json.load(f)

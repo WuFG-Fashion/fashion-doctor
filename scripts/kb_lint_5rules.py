@@ -4,12 +4,13 @@
 检测项：1)断链 2)孤岛 3)矛盾(跨 entity/comparison/source 同品牌同指标同周期)
        4)过期 5)分类一致性。结果存 _lint_result.json 并打印报告。
 """
+import os
 import re, json
 from datetime import datetime, date, timedelta
 from pathlib import Path
 from collections import defaultdict
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
+WIKI = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导 / "wiki"
 TODAY = date.today()
 CUTOFF = TODAY - timedelta(days=90)
 
@@ -305,6 +306,6 @@ result = {
                'contradictions': len(contradictions), 'expired': len(expired),
                'class_errors': len(class_errors)},
 }
-with open(r"D:\Fashion Doctor\fashion-doctor\_lint_result.json", 'w', encoding='utf-8') as f:
+with open(Path(__file__).resolve().parents[1] / "_lint_result.json", 'w', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 print(f"\n结果已保存到 _lint_result.json")

@@ -4,6 +4,8 @@
 明星导购能力拆解 - 全时间范围测试
 分析维度：近7天、近15天、近30天、近45天、近60天、2026年全年
 """
+import os
+from pathlib import Path
 
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
@@ -12,7 +14,7 @@ import sqlite3
 import json
 from datetime import datetime, timedelta
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 TODAY = datetime(2026, 4, 22)
 
 def get_db():
@@ -303,7 +305,7 @@ def main():
         print(f"{r['period']:<12} {vip_diff:>+7.1f}pp {rep_diff:>+8.1f}pp {sku_diff:>+7.0f}% {top1_diff:>+7.1f}pp")
 
     # 保存结果
-    output_path = r'C:\Users\MacBookPro\Fashion Doctor\_guide_all_periods_result.json'
+    output_path = str(Path(__file__).resolve().parent / "_guide_all_periods_result.json")
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     print(f"\n✅ 结果已保存: {output_path}")

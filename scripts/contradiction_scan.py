@@ -7,11 +7,12 @@ Rules to suppress false positives:
   (filename/title contains B's alias) OR it's a line clearly labeling B.
 - Currency guarding: revenue/net_profit compared only when same currency context.
 """
+import os
 import re, json
 from pathlib import Path
 from collections import defaultdict
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
+WIKI = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导 / "wiki"
 
 BRANDS = {
     'peacebird':   ['太平鸟', 'PEACEBIRD'],
@@ -146,7 +147,7 @@ else:
         parts = "  |  ".join(f"{rel}={v:.2f}" for rel, v in fm.items())
         print(f"⚠️ 矛盾：[{b}] [{m}] [{p}] [{cur}]  {parts}")
 
-with open(r"D:\Fashion Doctor\fashion-doctor\_contradiction_scan_result.json", 'w', encoding='utf-8') as f:
+with open(Path(__file__).resolve().parents[1] / "_contradiction_scan_result.json", 'w', encoding='utf-8') as f:
     json.dump([{'brand':b,'metric':m,'period':p,'cur':c,'per_file':{k:round(v,4) for k,v in fm.items()}}
                for b,m,p,c,fm in contradictions], f, ensure_ascii=False, indent=2)
 print(f"\n共发现 {len(contradictions)} 处跨文件矛盾（已保存）")

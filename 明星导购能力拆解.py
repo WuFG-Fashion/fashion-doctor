@@ -3,13 +3,15 @@
 明星导购能力分析工具 v2.0
 包含决策指南和行动建议
 """
+import os
+from pathlib import Path
 
 import sqlite3
 import sys
 from datetime import datetime, timedelta
 
 # 配置
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 DEFAULT_DAYS = 30
 
 sys.stdout.reconfigure(encoding='utf-8')

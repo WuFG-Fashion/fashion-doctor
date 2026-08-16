@@ -3,12 +3,14 @@
 明星导购能力拆解 - 练习版 v3
 核心验证：TOP3是否在TOP10推销能力上领先
 """
+import os
+from pathlib import Path
 
 import sqlite3
 import sys
 from datetime import datetime
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 sys.stdout.reconfigure(encoding='utf-8')
 
 

@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-KB_ROOT = Path(__file__).resolve().parent
+KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导（修复：此前误用 parent 指向 tools/）
 INDEX_FILE = KB_ROOT / "__index__" / "master_index.json"
 
 # ── L2 品类映射（目录名 → 品类信息）─────────────────

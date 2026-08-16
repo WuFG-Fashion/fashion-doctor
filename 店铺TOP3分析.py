@@ -2,12 +2,14 @@
 店铺维度TOP3导购推销能力分析 v2
 以店铺为单位，分析各时间段的TOP3 vs 非TOP3表现
 """
+import os
+from pathlib import Path
 
 import sqlite3
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 
 # 时间段定义
 TIME_PERIODS = {

@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+import os
+from pathlib import Path
 import sqlite3
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[2] / "cabbeen.db")
 
 def analyze_period(start_date, end_date, period_name):
     print(f"\n{'='*60}")

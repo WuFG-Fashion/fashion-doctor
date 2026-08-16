@@ -2,13 +2,15 @@
 明星导购能力拆解 - 核心维度分析 v2
 保留维度：SKU宽度、TOP10关联率、高价值占比、VIP率/复购率、新开卡人数、客单/连带/折扣率、单款销售深度
 """
+import os
+from pathlib import Path
 
 import sqlite3
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 from datetime import datetime, timedelta
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 
 def get_date_range(days):
     """获取日期范围"""
@@ -270,7 +272,7 @@ def main():
             print(f'    - TOP10关联订单:{g["top10_order_cnt"]}笔, 销售占比:{g["top10_order_rate"]}%, 订单均价:{g["top10_order_avg"]:,.0f}元')
     
     # 保存结果
-    with open(r'C:\Users\MacBookPro\Fashion Doctor\_guide_core_result.json', 'w', encoding='utf-8') as f:
+    with open(str(Path(__file__).resolve().parent / '_guide_core_result.json'), 'w', encoding='utf-8') as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
     
     print(f'\n\n[结果已保存: _guide_core_result.json]')

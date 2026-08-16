@@ -3,12 +3,14 @@
 近30天导购深度分析（含VIP维度）
 时间范围：2026-03-23 ~ 2026-04-22
 """
+import os
+from pathlib import Path
 import sqlite3, sys, io, json
 
 # 强制UTF-8输出
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-DB = r"C:\Users\MacBookPro\cabbeen_data\cabbeen.db"
+DB = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 START_DATE = "2026-03-23"
 END_DATE = "2026-04-22"
 
@@ -292,7 +294,7 @@ result = {
     "avg_top3": avg_top3,
 }
 
-output_path = r"c:\Users\MacBookPro\Fashion Doctor\guide_30day_result.json"
+output_path = str(Path(__file__).resolve().parent / "guide_30day_result.json")
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 

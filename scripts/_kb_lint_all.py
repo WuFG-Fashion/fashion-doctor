@@ -5,7 +5,8 @@ from datetime import datetime, date
 from pathlib import Path
 from collections import defaultdict
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
+_KB = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导
+WIKI = _KB / "wiki"
 TODAY = date.today()
 CUTOFF = TODAY.replace(year=TODAY.year - 1)  # 90 days ago: today - 90 days
 
@@ -353,7 +354,7 @@ result = {
     }
 }
 
-with open(r"D:\Fashion Doctor\fashion-doctor\_lint_result.json", 'w', encoding='utf-8') as f:
+with open(Path(__file__).resolve().parents[1] / "_lint_result.json", 'w', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=2, default=str)
 
 print(f"\n结果已保存到 _lint_result.json")

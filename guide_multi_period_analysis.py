@@ -3,6 +3,8 @@
 明星导购多时间段深度分析
 分析近7天、近15天、近30天、近45天、近60天、2026年全年
 """
+import os
+from pathlib import Path
 import sqlite3
 import sys
 import json
@@ -10,7 +12,7 @@ from datetime import datetime, timedelta
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 TODAY = '2026-04-22'
 
 def get_conn():
@@ -242,7 +244,7 @@ def main():
         }
     
     # 保存完整结果
-    output_path = r'C:\Users\MacBookPro\Fashion Doctor\guide_multi_period_results.json'
+    output_path = str(Path(__file__).resolve().parent / "guide_multi_period_results.json")
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
     print(f"\n✅ 结果已保存: {output_path}")

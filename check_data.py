@@ -1,7 +1,9 @@
+import os
+from pathlib import Path
 import sqlite3, sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-DB = r"C:\Users\MacBookPro\cabbeen_data\cabbeen.db"
+DB = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 conn = sqlite3.connect(DB)
 cur = conn.cursor()
 

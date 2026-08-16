@@ -3,6 +3,8 @@
 明星导购能力拆解 - 全维度版本
 每个时间段的TOP3独立计算，每个时间段的TOP10也独立计算
 """
+import os
+from pathlib import Path
 
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
@@ -10,7 +12,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 import sqlite3
 from datetime import datetime, timedelta
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 today = datetime(2026, 4, 22)
 
 # 时间范围定义

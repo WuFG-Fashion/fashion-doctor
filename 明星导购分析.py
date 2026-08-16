@@ -18,6 +18,8 @@
     analyzer.print_decision_guide()
     analyzer.print_action_guide()
 """
+import os
+from pathlib import Path
 
 import sqlite3
 import sys
@@ -26,7 +28,7 @@ from typing import List, Dict, Optional, Tuple
 from enum import Enum
 
 # 数据库路径
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 
 # 预定义时间段
 PERIODS = {

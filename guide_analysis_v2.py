@@ -12,9 +12,11 @@
   VIP率   = COUNT(DISTINCT CASE WHEN VIP THEN order_no) / COUNT(DISTINCT order_no)
   复购率  = 有多笔订单的会员数 / 总会员数
 """
+import os
+from pathlib import Path
 import sqlite3, os
 
-DB = r"C:\Users\MacBookPro\cabbeen_data\cabbeen.db"
+DB = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 
 def get_conn():
     conn = sqlite3.connect(DB)

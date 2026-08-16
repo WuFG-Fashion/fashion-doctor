@@ -5,11 +5,12 @@
    工具/厂商类实体（style3d_lingdi/丽晶/探马SCRM/深维智信）排除
 3) 新品牌指标用谨慎正则从实体页提取，dry-run 先打印待写入值供核验
 """
+import os
 import json, re, sys
 from pathlib import Path
 from datetime import date
 
-KB = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base")
+KB = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导
 WIKI = KB / "wiki"
 BENCH = KB / "kb_benchmarks.json"
 

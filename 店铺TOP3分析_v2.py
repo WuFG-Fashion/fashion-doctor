@@ -3,12 +3,14 @@
 目标：分析各店铺TOP3导购的推销能力（不是TOP3 vs 非TOP3）
 指标：含TOP10订单GMV占比、高价值占比
 """
+import os
+from pathlib import Path
 
 import sqlite3
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-DB_PATH = r'C:\Users\MacBookPro\cabbeen_data\cabbeen.db'
+DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[1] / "cabbeen.db")
 
 # 时间段定义
 TIME_PERIODS = {

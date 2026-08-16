@@ -21,9 +21,9 @@ from datetime import datetime
 from pathlib import Path
 
 # ── 路径常量 ──────────────────────────────────────────
-KB_ROOT = Path(r"C:\Users\MacBookPro\Fashion Doctor\knowledge_base")
+KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导
 INDEX_FILE = KB_ROOT / "__index__" / "master_index.json"
-DB_PATH = Path(r"C:\Users\MacBookPro\cabbeen_data\cabbeen.db")
+DB_PATH = Path(os.environ.get("CABBEEN_DB") or Path(__file__).resolve().parents[3] / "cabbeen.db")  # CABBEEN_DB 环境变量优先
 
 
 # ══════════════════════════════════════════════════════

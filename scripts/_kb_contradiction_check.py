@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Cross-file contradiction detection: entity pages vs benchmarks + comparisons"""
+import os
 import json, re
 from pathlib import Path
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
-BENCH = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\kb_benchmarks.json")
+_KB = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导
+WIKI = _KB / "wiki"
+BENCH = _KB / "kb_benchmarks.json"
 
 with open(BENCH, 'r', encoding='utf-8') as f:
     benchmarks = json.load(f)

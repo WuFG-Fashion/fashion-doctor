@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Fix detected broken [[wikilinks]] in the wiki.
 Real fixes only; code-block / anchor false positives are preserved."""
+import os
 from pathlib import Path
 
-WIKI = Path(r"D:\Fashion Doctor\fashion-doctor\knowledge_base\wiki")
+WIKI = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1] / "knowledge_base")  # KB 根：KB_ROOT 环境变量优先，默认按脚本位置推导 / "wiki"
 
 # (file_path_relative_to_wiki, old_string, new_string)
 FIXES = [

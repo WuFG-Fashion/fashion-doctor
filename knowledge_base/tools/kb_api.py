@@ -62,7 +62,7 @@ if _MISSING:
     sys.exit(1)
 
 # ── 配置 ──────────────────────────────────────────────
-KB_ROOT = Path(__file__).parent
+KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导（修复：此前误用 parent 指向 tools/，基准/配置/wiki 全部读不到）
 BENCHMARKS_FILE = KB_ROOT / "kb_benchmarks.json"
 BRAND_CONFIGS_DIR = KB_ROOT / "brand_configs"
 WIKI_DIR = KB_ROOT / "wiki"
