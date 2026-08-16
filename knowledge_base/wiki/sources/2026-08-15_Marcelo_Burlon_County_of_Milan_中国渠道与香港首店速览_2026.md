@@ -5,6 +5,7 @@ tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina, 2026, com
 sources: [raw/articles/2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
+superseded_by: "[[2026-08-16_A2_marcelo_burlon_全维度动态]]"
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]]
 ---
 

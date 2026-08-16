@@ -313,6 +313,8 @@ cross_refs: [[peacebird]], [[hla]], [[semir]], [[inditex_zara]], [[fast_retailin
 - **优衣库（迅销）**：FY2026H1 收入 20552 亿日元、营业 4006 亿、归母 2792 亿，与知识库基准完全一致，全球标杆财务再印证。
 
 ## 关联页面
+- [[brand_portfolio_tiers_2026]] ⭐ S轮 — 36品牌组合分层矩阵（2026-08-16）
+- [[brand_risk_signals_2026]] ⭐ S轮 — 36品牌风险信号汇总（2026-08-16）
 - [[four_brands_2025]] — 四品牌2025年度对比
 - [[three_brands_mid2026]] — 三品牌2026中期对比
 - [[menswear_brands_2026q1]] — 男装四强对比

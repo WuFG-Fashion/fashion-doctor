@@ -5,6 +5,7 @@ tags: [koyo, competitor, denim, streetwear, menswear, hongkong, designer, 2026, 
 sources: [raw/articles/2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
+superseded_by: "[[2026-08-16_A2_koyo_全维度动态]]"
 cross_refs: [[koyo]], [[服装行业竞争格局]]
 ---
 

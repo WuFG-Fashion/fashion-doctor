@@ -6,6 +6,7 @@ tags: [karl_lagerfeld, luxury, pop_up, lifestyle, womenswear, source]
 sources: [2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态.md]
 created: 2026-08-15
 updated: 2026-08-15
+superseded_by: "[[2026-08-16_A2_karl_lagerfeld_全维度动态]]"
 cross_refs: [[karl_lagerfeld]], [[ariose_years]], [[服装行业竞争格局]]
 ---
 

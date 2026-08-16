@@ -192,6 +192,9 @@ updated: 2026-08-15
 | [[menswear_brands_2026q1]] ⭐ NEW | 男装四强2026Q1对比：海澜/森马/太平鸟/利郎 +8-05新增太平鸟男装H1实际值(11.96亿/+1.38%·净减65家)，验证"拐点初现"判断成立 | competitor, menswear, financial |
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
 | [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 +7-24新增中报前瞻(森马+50%+/比音勒芬+20%/海澜持平) +7-26 海澜毛利率45.93%→45.32%修正(交易所口径) +8-01新增太平鸟2026Q2单季质量(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿·自洽Q1 1.37亿+Q2 -0.349亿=H1 1.02亿) +8-02新增慕尚GXG 2025年报深化(借款9.035→4.113亿/零压力通勤定位/增利靠节流) +8-05新增太平鸟2026H1品牌·渠道拆解实际值(替换中报前瞻)：童装为共同亮点/乐町-22.02%为最大降幅/加盟体系承压为行业共性 | competitor, comparison, 2026Q1, 2026Q2 |
+| [[core_brands_peacebird_cabbeen_2026]] | 双核对标：太平鸟(规模龙头) vs 卡宾(设计师差异化)，2026H1 体量 6:1 | peacebird, cabbeen, core_brand, comparison |
+| [[brand_portfolio_tiers_2026]] ⭐ S轮 | 36品牌组合分层矩阵：营收/增长/品类/国际化/DTC/数据可得性六维分层；识别"DTC直营化与高增长正相关""运动户外全员正增长""韩潮两极分化""数据黑箱系统性约束" | comparison, focus_brands, synthesis, s_round |
+| [[brand_risk_signals_2026]] ⭐ S轮 | 36品牌风险信号汇总：盈利质量/库存/渠道管控/单一市场依赖/韩潮退潮/治理口径/数据黑箱七类风险 | comparison, focus_brands, synthesis, risk |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 

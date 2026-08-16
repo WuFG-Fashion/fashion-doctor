@@ -9,7 +9,7 @@ tags: [peacebird, cabbeen, competitor, menswear, core_brand, comparison, 2026]
 sources: [品牌墙图_2026-08-14, 太平鸟公开财报, 2026-08-15_卡宾2026中期业绩与2025年报]
 created: 2026-08-14
 updated: 2026-08-15
-cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[semir]], [[menswear_brands_2026q1]], [[four_brands_2025]], [[three_brands_mid2026]]
+cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[semir]], [[menswear_brands_2026q1]], [[four_brands_2025]], [[three_brands_mid2026]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
 # 太平鸟 vs 卡宾 — 核心品牌对标
@@ -37,4 +37,4 @@ cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[se
 
 ## 信息链
 - 上游来源：品牌墙图片 + 太平鸟财报 + [[2026-08-15_卡宾2026中期业绩与2025年报]] → 本页
-- 下游应用：[[menswear_brands_2026q1]] / [[男装品牌竞争格局2026Q1]] / [[服装行业竞争格局]]
+- 下游应用：[[menswear_brands_2026q1]] / [[男装品牌竞争格局2026Q1]] / [[服装行业竞争格局]] / [[brand_portfolio_tiers_2026]] / [[brand_risk_signals_2026]]

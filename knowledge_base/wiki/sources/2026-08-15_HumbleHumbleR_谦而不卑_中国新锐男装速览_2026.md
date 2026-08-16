@@ -5,6 +5,7 @@ tags: [humble_humble_r, competitor, streetwear, china, menswear, new_brand, 2026
 sources: [raw/articles/2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
+superseded_by: "[[2026-08-16_A2_humble_humble_r_全维度动态]]"
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]]
 ---
 
