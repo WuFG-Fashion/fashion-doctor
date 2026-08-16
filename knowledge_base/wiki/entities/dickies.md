@@ -8,7 +8,7 @@ aliases:
 tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-16
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -47,3 +47,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+## A1轮复核织入（2026-08-16）
+
+> 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_dickies_2025-2026全维度复核]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。
+
+### 信息链（A1轮）
+- 上游来源：[[2026-08-16_dickies_2025-2026全维度复核]] → 本页（[[dickies]]）→ 下游合成：[[服装行业竞争格局]]、[[brand_portfolio_tiers_2026]]、[[brand_risk_signals_2026]]
+
+## S轮合成织入（2026-08-16 · kb-link）
+- [[brand_portfolio_tiers_2026|36品牌分层矩阵]]
+- [[brand_risk_signals_2026|36品牌风险信号]]

@@ -10,7 +10,7 @@ aliases:
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
 sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-16
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]]
 ---
 
@@ -66,3 +66,17 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - 韩系甜辣对照：[[chuu|CHUU]]（韩潮快时尚退潮样本，风格错位参照）
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+## A1轮复核织入（2026-08-16）
+
+> 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_ariose_years_2025-2026全维度复核]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。
+
+### 信息链（A1轮）
+- 上游来源：[[2026-08-16_ariose_years_2025-2026全维度复核]] → 本页（[[ariose_years]]）→ 下游合成：[[服装行业竞争格局]]、[[brand_portfolio_tiers_2026]]、[[brand_risk_signals_2026]]
+
+## S轮合成织入（2026-08-16 · kb-link）
+- [[brand_portfolio_tiers_2026|36品牌分层矩阵]]
+- [[brand_risk_signals_2026|36品牌风险信号]]
+- [[brand_store_channel_2026|门店渠道对比]]
+- [[brand_gross_margin_2026|毛利率分层]]
+- [[brand_ops_data_infra_2026|运营与数据基建]]

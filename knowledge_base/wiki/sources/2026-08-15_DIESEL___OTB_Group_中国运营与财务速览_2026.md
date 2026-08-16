@@ -6,8 +6,8 @@ sources: [raw/articles/2026-08-15_DIESEL___OTB_Group_中国运营与财务速览
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[diesel]], [[服装行业竞争格局]]
+superseded_by: "[[2026-08-16_diesel_2025-2026全维度复核]]"
 ---
-
 # 2026-08-15 DIESEL / OTB Group 中国运营与财务速览 2026
 
 > **一句话摘要**：意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆，OTB 集团旗下。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[diesel]]。

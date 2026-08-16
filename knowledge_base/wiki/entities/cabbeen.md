@@ -11,7 +11,7 @@ aliases:
 tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-16
 cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2026-08-15_卡宾2026中期业绩与2025年报]]
 ---
 
@@ -80,3 +80,17 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - S轮合成：[[brand_portfolio_tiers_2026|36品牌分层矩阵]]、[[brand_risk_signals_2026|36品牌风险信号]]、[[brand_store_channel_2026|门店渠道对比]]、[[brand_gross_margin_2026|毛利率分层]]、[[brand_ops_data_infra_2026|运营与数据基建]]
 - 行业格局：[[服装行业竞争格局]]、[[男装品牌竞争格局2026Q1]]
 - 同赛道男装：[[muson_gxg|GXG/慕尚]]、[[hla|海澜之家]]、[[lilanz|利郎]]
+
+## A1轮复核织入（2026-08-16）
+
+> 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_cabbeen_2025-2026全维度复核]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。
+
+### 信息链（A1轮）
+- 上游来源：[[2026-08-16_cabbeen_2025-2026全维度复核]] → 本页（[[cabbeen]]）→ 下游合成：[[服装行业竞争格局]]、[[brand_portfolio_tiers_2026]]、[[brand_risk_signals_2026]]
+
+## S轮合成织入（2026-08-16 · kb-link）
+- [[brand_portfolio_tiers_2026|36品牌分层矩阵]]
+- [[brand_risk_signals_2026|36品牌风险信号]]
+- [[brand_store_channel_2026|门店渠道对比]]
+- [[brand_gross_margin_2026|毛利率分层]]
+- [[brand_ops_data_infra_2026|运营与数据基建]]

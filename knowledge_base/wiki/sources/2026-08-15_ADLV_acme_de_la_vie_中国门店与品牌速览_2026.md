@@ -6,8 +6,8 @@ sources: [raw/articles/2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速�
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[adlv]], [[服装行业竞争格局]]
+superseded_by: "[[2026-08-16_adlv_2025-2026全维度复核]]"
 ---
-
 # 2026-08-15 ADLV acme de la vie 中国门店与品牌速览 2026
 
 > **一句话摘要**：韩国潮流品牌，由双胞胎兄弟 2017 年创立，以'大脸宝宝'系列 T 恤蹿红，主打无性别可爱街头。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[adlv]]。
