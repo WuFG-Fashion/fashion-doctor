@@ -5,7 +5,7 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
 updated: 2026-08-16
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
@@ -31,6 +31,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 | 天猫入驻 | 2017 | 电商 |
 | 代言 Campaign | Hailey Bieber SS2026 | 2026 |
 
+> **渠道信号补全（S3 · 2026-08-16）**：DKNY 中国门店 modest——DKNY Jeans 内地约 **44 家**（2007 上海首店）、DKNY 全系中国约 **20 家**（含香港 / 上海，较旧口径）；天猫 2017 即在售（电商先行）+ 2026-05 上海首店试探。母公司 G-III FY2026 销售 -7% 承压，授权代理模式导致单品牌门店数不透明。详见 [[2026-08-16_S3_blackbox_channel_signals]]。
+
 ## 结论
 1. DKNY 2026-05 才开中国首店（上海淮海路），是'迟到者'，对比 [[peacebird|太平鸟]] 千店规模仍是试水，说明国际二线都市品牌在华谨慎扩张。
 2. 母公司 G-III FY2026 销售 -7%，自身承压，DKNY 中国首店更像'试探性落子'而非全力投入，对 [[cabbeen|卡宾]] 等评估'国际品牌下沉威胁'提供了'对方也谨慎'的视角。
@@ -55,3 +57,4 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 - [[brand_portfolio_tiers_2026|36品牌分层矩阵]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
+- [[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]

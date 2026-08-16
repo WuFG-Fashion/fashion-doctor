@@ -968,6 +968,16 @@ updated: 2026-08-15
 | **110** | **08-11 06:40** | **L2_00/01/02 (A轮)** | **s7(商务部1-2月/ctn1986 1-4月/中服协1-5月/帮衣帮AI/网易Q1分化/中财网太平鸟/腾讯网太平鸟减持)/c4更新(china_apparel_industry_2026q1+ai_fashion_design_cases_2026+peacebird+hla)/织网24条双向/矛盾1处(电商+10.7%口径差) ✅** |
 | **122** | **08-15 17:15** | **L2_06/07+查漏 (C轮)** | **s4(SQL优化向量化PG18_DuckDB基准/Streamlit1.59新特性LLM/语义层数据契约治理/主动元数据多品牌目录)/c8更新(SQL优化+duckdb+polars+streamlit_dashboard+python_dashboard+semantic_layer+data_gov_routes+data_quality+brand_config+multi_brand)/p5更新(streamlit_production+multi_brand+brand_config+python_sql+data_quality_retail)/L3同步5处/织网24条双向/矛盾0处 ✅** |
 
+## S轮第三遍（S3 · 问题闭环）新增来源（2026-08-16）
+
+> S轮第三遍：定向第三方交叉验证 / 渠道信号补全，闭环首轮遗留 ②mlb 门店口径 ③艾诺丝/迪卡轩自宣交叉验证 ⑤6 黑箱品牌渠道信号 三问题。置信度=第三方数据（符合 A轮 confidence 分级）。
+
+### 来源页（wiki/sources）
+- [[2026-08-16_S3_ariose_years_第三方交叉验证]] · [[2026-08-16_S3_dekashell_第三方交叉验证]] · [[2026-08-16_S3_blackbox_channel_signals]]
+
+### 实体页已更新（2026-08-16）
+- [[mlb]] / [[mlb_kids]]（门店口径统一说明）· [[ariose_years]] / [[dekashell]]（第三方交叉验证回流）· [[awoken_space]] / [[dkny]] / [[ellesse]] / [[koyo]] / [[mr_mrs]] / [[nerdy]]（渠道信号补全）
+
 ## A2轮新增来源（2026-08-16 · 品牌主体全维度）
 
 > A轮A2（固定分组 12 品牌：etudes / g_star_raw / hoka_one_one / humble_humble_r / karl_lagerfeld / king_baby / koyo / lacoste / levis / marcelo_burlon / mlb / mlb_kids）。每源含 结论+信息链+双链+置信度+brand_specific；实体页均追加「近期动态刷新」小节。

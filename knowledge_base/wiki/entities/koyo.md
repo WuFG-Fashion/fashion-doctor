@@ -7,7 +7,7 @@ aliases:
   - "koyo jeans"
   - "高龙"
 tags: [koyo, competitor, denim, streetwear, menswear, hongkong, designer]
-sources: [2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[thisisizi8]]
@@ -36,6 +36,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[thisisiz
 | 中国网点 | 入驻一线商场 50+ 家 | 2026 |
 | 明星 | G-Dragon/黄晓明/谢霆锋/林峰等 | 营销 |
 
+> **渠道信号补全（S3 · 2026-08-16）**：KOYO JEANS 中国网点**入驻国内一线商场 50+ 家**（猎聘 / 好猎头 / 赶集 多源 corroborate），门店含香港海港城、广州太古汇、成都 IFS、长沙 IFS；HKDI 宽泛口径"中国大陆 over 100 cities"。门店数仍黑箱，但高端商场密集度信号明确。详见 [[2026-08-16_S3_blackbox_channel_signals]]。
+
 ## 结论
 1. KOYO JEANS 以'哥特摇滚+钉珠工艺+华人设计师欧洲突围'形成差异化，对 [[cabbeen|卡宾]] 的实穿男装路线是'重工艺设计师牌'对照样本。
 2. 其与 [[thisisizi8|thisisIZI8]] 同出 Koyo William，构成设计师多业态矩阵——这一'个人 IP 跨业态'路径，对双核评估'设计师驱动 vs 公司化运营'有启发。
@@ -48,6 +50,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[thisisiz
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+- 渠道补全：[[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]
 
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
