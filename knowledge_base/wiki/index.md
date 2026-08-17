@@ -1064,3 +1064,16 @@ updated: 2026-08-15
 - [[2026-08-17_diesel_2026联名与Pride营销]] — Diesel×FF14 + Diesel×Tinder Pride
 - [[2026-08-17_dkny_上海首店与2026营销]] — DKNY 上海首店 + Hailey Bieber + Cara 联名
 - [[2026-08-17_ellesse_Smiley联名与Garfield代言]] — ellesse×Smiley + Andrew Garfield 新纪元
+## A1 轮新增（2026-08-18 · 品牌主体全维度）
+
+- 新建 7 篇 source（均含结论+信息链+双链+confidence+brand_specific）：
+  - [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]]
+  - [[2026-08-18_crocs_HEYDUDE困境与回购资本配置]]
+  - [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]]
+  - [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
+  - [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
+  - [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
+  - [[2026-08-18_ariose_years_门店规模与价格带]]
+- 覆盖品牌（有新增）：cabbeen / crocs / dickies / diesel / ellesse / awoken_time / ariose_years
+- 覆盖品牌（无新增·记录跳过）：chuu / dkny / adlv / awoken_space / dekashell
+- 实体回链 7 篇；kb_benchmarks `crocs` 已回填 Q2 2026 硬财务。

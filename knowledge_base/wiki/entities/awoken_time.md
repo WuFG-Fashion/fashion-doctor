@@ -9,7 +9,7 @@ tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
 sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
 ---
 
 # AWOKEN TIME

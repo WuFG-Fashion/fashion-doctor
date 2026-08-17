@@ -163,3 +163,4 @@ created: 2026-06-05
 | 2026-08-17 09:16 | ingestA2 | L2_02 — A2固定分组12品牌全维度复核/采集12篇/织网双向(~30双链:12源出链+12实体回链+概念互链)/矛盾0处新增 ✅(mlb门店scope差异S3已调和·Q2减速为趋势延展非矛盾·KOYO=卡宾巴黎子品牌/HumbleHumbleR=宁波新锐已消歧)/实体12追加「近期动态刷新2026-08-17」+index登记12源NEW+12实体UPDATED+updated→08-17 |
 | 2026-08-17 09:28 | ingestA1 | L2_00/01/02 — 采集7篇/织网≈28条/矛盾0处(ℹ️基准核对2·cabbeen H1+crocs Q2一致)/5品牌无新增(adlv/ariose_years/awoken_space/awoken_time/dekashell 探针或常态跳过造页)/孤岛0 ✅ (s7→e7更新:cabbeen+火箭合作·crocs+Q2财报·chuu+赵露思加盟·dickies+联名矩阵·diesel+FF14/Tinder·dkny+上海首店·ellesse+Smiley/Garfield→index登记7源NEW+7实体UPDATED+health快照→08-17) |
 | 2026-08-17 19:44 | ingestB | L2_03/04/05 — 采集9篇(7通用方法论+2品牌佐证:双核cabbeen财报+轮换salomon官方)/织网≈107双链/矛盾0处(ℹ️基准核对非矛盾)/品牌覆盖:双核cabbeen+轮换salomon/孤岛0/12页UPDATED(9概念+1实践+2实体)/L3同步9 ✅ |
+| 2026-08-18 06:40 | ingestA1 | L2_02 — 采集7篇/织网≈28条/矛盾0处(raw7→s7→e7更新→index/log/health，crocs回填基准) |
