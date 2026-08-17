@@ -6,9 +6,9 @@ aliases:
   - "萨洛蒙"
   - "萨洛蒙中国"
 tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_sports]
-sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国]
+sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]]
 ---
 
@@ -61,6 +61,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 ### 信息链（本轮）
 - 上游来源：[[2026-08-15_R4_萨洛蒙2026Q1中国]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md]]。
+
+- 亚玛芬 FY2026Q1 萨洛蒙分部 $7.14 亿(+42%) 超始祖鸟；中国门店 302、全年净 +45；运奢+轻配货。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

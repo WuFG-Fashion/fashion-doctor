@@ -5,9 +5,9 @@ aliases:
   - "楚萨迪"
   - "托鲁纱缔"
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
-sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启]
+sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]]
 ---
 
@@ -54,6 +54,15 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-15_R4_楚萨迪2025业绩重启]] → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md]]。
+
+- Miroglio 旗下 2025FY 营收 €2880 万(+67.4%) 但 EBITDA 转亏、净亏 €510 万；2026 底前新开 10 店，暂不考虑中国。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md]] → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

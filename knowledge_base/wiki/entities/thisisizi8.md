@@ -7,9 +7,9 @@ aliases:
   - "THISISIZI8"
   - "克莱因蓝买手店"
 tags: [thisisizi8, competitor, concept_store, buyer_store, korean, china]
-sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md]
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]]
 ---
 
@@ -45,6 +45,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], 
 ## 信息链
 - 上游来源：[[2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026]] → 本页（[[thisisizi8]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md]]。
+
+- 2026-01-15 深圳万象天地全国首店、武汉万象城华中首店；聚合 80+ 潮牌，沉浸式场景零售。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md]] → 本页（[[thisisizi8]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
