@@ -9,7 +9,7 @@ tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_spo
 sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md]
 created: 2026-08-14
 updated: 2026-08-17
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]]
 ---
 
 # SALOMON

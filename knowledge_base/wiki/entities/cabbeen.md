@@ -12,7 +12,7 @@ tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]]
+cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]]
 ---
 
 # 卡宾（Cabbeen）
