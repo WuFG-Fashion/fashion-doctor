@@ -62,3 +62,47 @@
 - A3 两轮提交已 push：`bfd1a10`（前半程品牌1-6）+ `1d29235`（后半程品牌7-12 + index/backlink）。
 
 > ✅ 库已覆盖：本组 12 品牌实体+源齐备，本轮为"全维度综合采集+合成织网+置信度标注"，无重复造页冗余；矛盾 1 处已诚实标记（Tommy Hilfiger 口径冲突），未掩盖。
+
+---
+
+## A2轮健康快照（追加 · 2026-08-17 09:16）
+
+> 自动生成：知识库采集 A2 轮（固定分组 12 品牌：etudes / g_star_raw / hoka_one_one / humble_humble_r / karl_lagerfeld / king_baby / koyo / lacoste / levis / marcelo_burlon / mlb / mlb_kids）。触发 07:00，执行 09:16。
+> 本论原则：**以品牌主体为中心、全维度综合采集**（不预设单一事件镜头），不越界 A1/A3。
+
+## 一、本轮指标
+| 指标 | 数值 | 说明 |
+|------|------|------|
+| 采集 source 篇 | **12** | 12 品牌各 1 篇 2026-08-17 全维度综合源（财务/门店/联名/营销/竞品/行业） |
+| 实体更新页 | **12** | 12 品牌实体页追加「近期动态刷新（2026-08-17）」小节 + 信息链回链 |
+| 织网双链 | **~30** | 12 源自引 + 12 实体回链 + 概念互链（中国服装零售基准体系2026 / global_apparel_financial_benchmarks_2026） |
+| 矛盾处（新增） | **0** | 无新增数值冲突；mlb 门店 1,094 vs 1,185 为 S3 已调和 scope 差异；mlb Q2 减速为趋势延展非矛盾 |
+| 孤岛数 | **0** | 12 新源均含双链；12 实体均链入合成图 |
+| 新增「结论+信息链」页 | **12** | 每源页含合成洞察（2–4 条）+ 推理链（上游来源→本页→下游实体/对比/打法） |
+
+## 二、覆盖核对（硬性分组规则）
+- **本组 12/12 全覆盖 ✅**：etudes · g_star_raw · hoka_one_one · humble_humble_r · karl_lagerfeld · king_baby · koyo · lacoste · levis · marcelo_burlon · mlb · mlb_kids。
+- 未越界 A1（adlv/ariose_years/...）/ A3（mr_mrs/nautica/...）。
+- 全维度达标：每品牌均覆盖财务/门店渠道/联名营销/竞品/行业趋势，未以单一事件镜头替代。
+
+## 三、实体边界消歧（本轮重点）
+- **KOYO** = 卡宾（HK 02030）旗下巴黎买断街头子品牌（创始人 William Koyo 2008 入驻巴黎老佛爷首位华裔设计师）；此前因 KOYO 轴承/KOYO 寿司歧义待复核，本轮已消歧，链入 [[cabbeen]]。
+- **HumbleHumbleR** = humble_humble_r，宁波新锐 Z 世代极简街头品牌（主理人舒德，首店宁波鄞州万达，3 天 46 万）；此前因 Humble Bundle/Humblence 歧义待复核，本轮已消歧。
+
+## 四、矛盾检测
+- ℹ️ **mlb（基准核对）**：本轮新增 Q2 数据（2026Q2 合并 3,996 亿韩元 +5.5%、中国 +4% 骤降、股价 -20%）与 [[mlb]] 实体既有 Q2 数据一致，属时间轴延展非冲突；门店口径 1,094 vs 1,185 经 S3 确认为 scope 差异已调和，未重复标记 ⚠️。
+- 跨等级说明：财报级（hoka_one_one=Deckers、karl_lagerfeld=G-III/七匹狼、levis=Levi Strauss、mlb/mlb_kids=F&F）；媒体估算/品牌自宣（etudes/g_star_raw/humble_humble_r/king_baby/koyo/lacoste/marcelo_burlon），entity 页内联标注置信度。
+
+## 五、置信度分布
+- **财报（5）**：hoka_one_one（Deckers FY2026/Q1 FY2027）、karl_lagerfeld（G-III/七匹狼）、levis（Levi Strauss FY2026 H1）、mlb（F&F 2026Q2）、mlb_kids（F&F 2026Q2）
+- **媒体估算（5）**：etudes（CompWorth）、g_star_raw（RocketReach）、king_baby（门店/营销媒体）、koyo（卡宾官方+媒体）、lacoste（LinkedIn/行业）
+- **品牌自宣（2）**：humble_humble_r（品牌自述）、marcelo_burlon（新闻转述，财务为媒体估算）
+
+## 六、健康基线引用
+- 2026-08-14 04:05 `optimize` lint：断链 14 / 孤岛 0 / 矛盾 0 / 过期 0 / 分类 0。
+- 本轮在此基础上：孤岛保持 0；矛盾净增 0（无新增）；基准核对 1 处（mlb Q2 一致性）。
+
+## 七、下轮优先方向（仅本组 12 品牌）
+1. **koyo**：仍缺独立财务/门店数，建议以卡宾（HK 02030）年报分部信息间接补强。
+2. **mlb**：Q2 减速信号需 H2 财报验证是否触底；门店口径维持 1,094（RAG 主数）。
+3. **私牌/新锐（marcelo_burlon/humble_humble_r/king_baby/etudes）**：补权威第三方数据源提升置信度。
