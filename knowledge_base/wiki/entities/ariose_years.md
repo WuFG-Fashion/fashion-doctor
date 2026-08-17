@@ -11,7 +11,7 @@ tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, foc
 sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]]
+cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
 # 艾诺丝·雅诗 (ARIOSE YEARS)
