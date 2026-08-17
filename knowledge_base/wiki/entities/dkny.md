@@ -8,7 +8,7 @@ tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
 sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
 # DKNY
@@ -33,6 +33,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 > **渠道信号补全（S3 · 2026-08-16）**：DKNY 中国门店 modest——DKNY Jeans 内地约 **44 家**（2007 上海首店）、DKNY 全系中国约 **20 家**（含香港 / 上海，较旧口径）；天猫 2017 即在售（电商先行）+ 2026-05 上海首店试探。母公司 G-III FY2026 销售 -7% 承压，授权代理模式导致单品牌门店数不透明。详见 [[2026-08-16_S3_blackbox_channel_signals]]。
 
+
+## 近期动态 (2026-08-17 补充)
+- 中国首店落地上海淮海中路 Lady Huaihai（百联运营）；Hailey Bieber 全球代言 + CARA×DKNY 15款联名（置信度：品牌自宣）。详见 [[2026-08-17_dkny_上海首店与2026营销]]
 ## 结论
 1. DKNY 2026-05 才开中国首店（上海淮海路），是'迟到者'，对比 [[peacebird|太平鸟]] 千店规模仍是试水，说明国际二线都市品牌在华谨慎扩张。
 2. 母公司 G-III FY2026 销售 -7%，自身承压，DKNY 中国首店更像'试探性落子'而非全力投入，对 [[cabbeen|卡宾]] 等评估'国际品牌下沉威胁'提供了'对方也谨慎'的视角。

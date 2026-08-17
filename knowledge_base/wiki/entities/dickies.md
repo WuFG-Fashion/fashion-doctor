@@ -9,7 +9,7 @@ tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]]
 ---
 
 # Dickies
@@ -35,6 +35,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 | 中国布局 | 2007 设全资子公司，一二线核心商圈 | 渠道 |
 | 价格带 | 199-599 元（中端） | 定位 |
 
+
+## 近期动态 (2026-08-17 补充)
+- 2026 联名矩阵：UNDERCOVER / 哈雷戴维森 / FACETASM(第7次) / S'YTE(山本耀司) 四线并进（置信度：品牌自宣）。详见 [[2026-08-17_dickies_2026联名矩阵]]
 ## 结论
 1. Dickies 在 VF 2026 财年 Q3 被出售，是'国际集团剥离非核心工装资产'的信号，对 [[cabbeen|卡宾]]/[[peacebird|太平鸟]] 评估'工装赛道是否被国际资本看淡'有参照。
 2. 其'经典 874 + 中端定价 + 慢上新'模式认知度高但增长钝化，与 [[levis|李维斯]] 的激进直营化形成对照——同为美式丹宁/工装，路径分化。

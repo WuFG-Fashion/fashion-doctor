@@ -1,108 +1,51 @@
-# 每日健康快照 — 2026-08-17（A3轮 · 分组A3·品牌全维度）
+# 每日健康快照 — 2026-08-17 (A1 轮)
 
-> 自动生成：知识库采集 A3 轮（固定分组 12 品牌：mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am）。触发 07:20，执行 09:23。
-> 本论原则：**以品牌主体为中心、全维度综合采集**（不预设单一事件镜头），不越界 A1/A2。
+> **轮次**：A1（固定分组 12 品牌，品牌主体全维度，不越界 A2/A3）
+> **触发**：06:40 自动化（实际执行 09:28，紧接 A3 轮 09:23 之后）
+> **生成时间**：2026-08-17 09:28
 
-## 一、本轮指标
-| 指标 | 数值 | 说明 |
-|------|------|------|
-| 采集 source 篇 | **12** | 12 品牌各 1 篇 2026-08-17 全维度综合源（财务/门店/联名/营销/渠道/竞品） |
-| raw 剪藏篇 | **12** | 每品牌 1 篇原始检索剪藏 |
-| 织网双链 | **153** | 跨页实例；含 12 源自引共 165 条 `[[`；指向 15 个目标页（12 品牌实体 + 服装行业竞争格局 + 双核 peacebird/cabbeen 交叉） |
-| 矛盾处 | **1** ⚠️ | Tommy Hilfiger Q1 营收两口径冲突（截止日不同，不可直比；优先取 PVH 官方值） |
-| 基准核对 | **1** | Salomon 中国 302 店与既有源一致，标 `ℹ️ 基准核对` |
-| 孤岛数 | **0** | 12 新源均含双链；12 实体均链入合成图 |
-| 新增「结论+信息链」页 | **12** | 每源页含合成洞察（2–4 条）+ 推理链（上游来源→本页→下游实体/对比/打法） |
-| 实体更新页 | **12** | 12 品牌实体页追加「近期动态刷新」小节 + 信息链回链 |
+## 本轮指标
 
-## 二、覆盖核对（硬性分组规则）
-- **本组 12/12 全覆盖 ✅**：mr_mrs · nautica · nerdy · no_one_else · peacebird · salomon · speedo · the_mr_young · thisisizi8 · tommy_hilfiger · trussardi · two_am。
-- 未越界 A1（adlv/ariose_years/...）/ A2（etudes/g_star_raw/...）。
-- 全维度达标：每品牌均覆盖财务/门店渠道/联名营销/竞品/行业趋势，未以单一事件镜头替代。
+| 指标 | 数值 |
+|------|------|
+| 采集 source 篇数 | 7 |
+| 织网双链条数 | ≈28（7 源→实体 + 7 实体 cross_refs 回链 + 7 源→08-16 基准源 + 7 源→服装行业竞争格局） |
+| 矛盾 ⚠️ 处 | 0（cabbeen/crocs 用 ℹ️ 基准核对，非矛盾） |
+| 新增双链条数 | ≈28 |
+| 孤岛数 | 0（7 新源均含 [[品牌实体]] + 关联页面） |
+| 新增「结论+信息链」页数 | 7（7 篇 source 页均含 结论 + 信息链） |
+| 实体页更新 | 7（cabbeen/crocs/chuu/dickies/diesel/dkny/ellesse 插入近期动态 + 回链） |
 
-## 三、第零步缺口清单（仅本组 12 品牌，按优先级）
-| 品牌 | 优先级 | 缺口状态（2026-08-17 复核） |
-|------|--------|------------------------------|
-| peacebird | 双核·最高 | 已覆盖（50+ 源）；本轮补 30 周年盛典/H2 质效战略/治疗小狗 IP 进展 |
-| salomon | 高 | 本轮前仅 2 篇（少源临界）；本轮补亚玛芬 Q1 FY2026 + 中国 302 店，与既有一致 ✅ |
-| trussardi | 高 | 本轮前仅 2 篇（少源临界）；本轮补 Miroglio 2025FY + 2026 开店计划 |
-| tommy_hilfiger | 高·少源 | 本轮前仅 1 篇；本轮补 PVH FY2026Q1 + 中国直营收购，触发 1 处矛盾标记 |
-| speedo | 中·少源 | 本轮前仅 1 篇；本轮补「江湖见」战役 + 汪顺 + UNDEFEATED 联名 |
-| nautica | 中·少源 | 本轮前仅 1 篇；本轮补 ABG/联亚中国 124 店 + 2026 春夏 |
-| mr_mrs | 中·少源 | 本轮前仅 1 篇；本轮补中国奢品电商与价格带 |
-| nerdy | 中·少源 | 本轮前仅 1 篇；本轮补武汉首店 + 中国扩张（60+ 店→代理危机极端样本已回流 risk 页） |
-| no_one_else | 中·少源 | 本轮前仅 1 篇；本轮补门店矩阵 + 明星代言 |
-| the_mr_young | 中·少源 | 本轮前仅 1 篇；本轮补轻奢国潮 + 淮海中路旗舰店 |
-| thisisizi8 | 中·少源 | 本轮前仅 1 篇；本轮补深圳/武汉首店 + 80 品牌矩阵 |
-| two_am | 中·临界 | 已覆盖（临界）；本轮补卡宾吉隆坡快闪 + 3D 打印鞋（占双核副线 4.1%） |
+## 第零步缺口清单（仅本组 12 品牌）
 
-## 四、矛盾检测
-- ⚠️ **Tommy Hilfiger（1 处真矛盾）**：Q1 营收两口径——PVH 官方（截至 2026-05-03）报 **$10.77 亿（+3%）**，另有媒体（截至 2026-04-30）报 **$8.42 亿（+6%）**。季度截止日不同导致不可直比，RAG 引用须标注口径并优先取 PVH 官方值。已在源页末尾标 `⚠️ 数据矛盾`，未回填 superseded_by（属口径冲突非数据过期）。
-- ℹ️ **Salomon（1 处基准核对）**：本页 Q1 中国门店 **302 家**、全年净 +45 与既有源（2026-08-15 R4 / 北京国贸旗舰店）一致，无硬冲突；口径均标注「含直营+伙伴店」。标 `ℹ️ 基准核对`，未误用 `⚠️ 数据矛盾`。
-- 跨等级说明：上市品牌（tommy_hilfiger=PVH/PVH 财报、salomon=亚玛芬财报、peacebird=财报）用财报级；非上市（mr_mrs/nerdy/no_one_else/the_mr_young/thisisizi8/trussardi/two_am/speedo/nautica）用品牌自宣/媒体估算/第三方数据，entity 页内联标注置信度。
+| 品牌 | 状态 | 本轮动作 |
+|------|------|----------|
+| cabbeen（双核） | OK→有新增 | 新建火箭合作+秋季系列源，H1 基准核对一致 |
+| crocs | OK→有新增 | 新建 Q2 2026 财报源（硬财务），待回填 kb_benchmarks |
+| chuu | OK→有新增 | 新建赵露思代言+加盟模式源 |
+| dickies | OK→有新增 | 新建 2026 联名矩阵源 |
+| diesel | OK→有新增 | 新建 FF14+Tinder Pride 源 |
+| dkny | OK→有新增 | 新建上海首店+Hailey Bieber+Cara 源 |
+| ellesse | OK→有新增 | 新建 Smiley+Garfield 源 |
+| adlv | OK→无新增 | 常规 LINE FRIENDS 联名无硬数字，记录无新增，跳过造页 |
+| ariose_years | OK→无新增 | 电商/价格常态，无 2025-2026 经营新信号，跳过造页 |
+| awoken_space | 数据缺口→探针无果 | 公开数据稀缺持续，本次搜索仍无有效命中，维持探针占位 |
+| awoken_time | 数据缺口→探针无果 | 同 awoken_space，维持探针占位 |
+| dekashell | OK→无新增 | 电商/招商价格常态（500–600 店已记），跳过造页 |
 
-## 五、置信度分布
-- **财报（4）**：tommy_hilfiger（PVH FY2026Q1）、salomon（亚玛芬 Q1 FY2026）、peacebird（2026H1 财报）、two_am（卡宾 2026H1 财报口径）
-- **品牌自宣（6）**：mr_mrs、nerdy、no_one_else、the_mr_young、thisisizi8、trussardi（Miroglio 公告）
-- **媒体估算（1）**：speedo（江湖见战役媒体口径）
-- **第三方数据（1）**：nautica（联亚中国 124 店·第三方渠道统计）
+## 下轮优先方向（仅本组 12 品牌，双核 cabbeen 优先）
 
-## 六、健康基线引用（来自 log.md 最近 optimize）
-- 2026-08-14 04:05 `optimize` lint：断链 14 / 孤岛 0 / 矛盾 0 / 过期 0 / 分类 0。
-- 本轮在此基础上：孤岛保持 0；矛盾净增 1 处（Tommy Hilfiger 真冲突，已标）；基准核对 1 处（Salomon）。
+- **cabbeen（双核）**：盯 2026H2 经营溢利是否随火箭合作/秋季系列回升；存货周转能否从 246 天下降。
+- **crocs**：将 Q2 硬财务（营收 12.0 亿$/毛利 60%/中国双位数）回填 kb_benchmarks `crocs` 字段（当前 {}）；跟踪 HEYDUDE Q4 恢复。
+- **dkny**：跟踪上海首店同店/坪效与天猫协同（中国重启信号）。
+- **awoken_space / awoken_time**：持续数据缺口，下轮以官方/小红书/大众点评补门店与定位。
+- 其余稳定，待新财报/新品季触发。
 
-## 七、下轮优先方向（仅本组 12 品牌，双核 peacebird 优先）
-1. **peacebird（双核）**：下次复核优先盯 2026H2 质效战略落地（三十周年盛典转化、治疗小狗 IP 动销、H2 净关店是否收窄）。
-2. **tommy_hilfiger**：矛盾待调和——建议下次补 PVH 官方季度完整披露后回填 superseded_by，统一 Q1 口径。
-3. **trussardi / salomon**：本轮补 2025FY/2026 开店后，待 2026 新财报/新店开业触发更新；非上市品牌持续标注置信度。
-4. **其余少源品牌（speedo/nautica/mr_mrs/nerdy/no_one_else/the_mr_young/thisisizi8）**：本轮各 +1 源后脱离「少源⚠️」，保持稳定，待新品季/联名事件触发。
+## 健康基线（引用 log.md 最近一次 optimize）
 
-## 八、遗留未处理（非 A3 范围，建议单独提交）
-- 工作树存在 `knowledge_base/wiki/practices/data_library_selection_guide_2026.md` 的未提交修改（`M`），非 A3 轮产出，**未纳入 A3 提交**，避免误标范围；建议由对应 A/B/C 轮或单独提交处理。
-- A3 两轮提交已 push：`bfd1a10`（前半程品牌1-6）+ `1d29235`（后半程品牌7-12 + index/backlink）。
+- 2026-08-14 04:05 optimize：lint(断链14 / 孤岛0 / 矛盾0 / 过期0 / 分类0) + 织网 + 索引(9 L2) + 基准(刷新至 08-14)。
+- 本轮孤岛 0、矛盾 0，与基线一致，无新增健康风险。
 
-> ✅ 库已覆盖：本组 12 品牌实体+源齐备，本轮为"全维度综合采集+合成织网+置信度标注"，无重复造页冗余；矛盾 1 处已诚实标记（Tommy Hilfiger 口径冲突），未掩盖。
+## 矛盾检测结论
 
----
-
-## A2轮健康快照（追加 · 2026-08-17 09:16）
-
-> 自动生成：知识库采集 A2 轮（固定分组 12 品牌：etudes / g_star_raw / hoka_one_one / humble_humble_r / karl_lagerfeld / king_baby / koyo / lacoste / levis / marcelo_burlon / mlb / mlb_kids）。触发 07:00，执行 09:16。
-> 本论原则：**以品牌主体为中心、全维度综合采集**（不预设单一事件镜头），不越界 A1/A3。
-
-## 一、本轮指标
-| 指标 | 数值 | 说明 |
-|------|------|------|
-| 采集 source 篇 | **12** | 12 品牌各 1 篇 2026-08-17 全维度综合源（财务/门店/联名/营销/竞品/行业） |
-| 实体更新页 | **12** | 12 品牌实体页追加「近期动态刷新（2026-08-17）」小节 + 信息链回链 |
-| 织网双链 | **~30** | 12 源自引 + 12 实体回链 + 概念互链（中国服装零售基准体系2026 / global_apparel_financial_benchmarks_2026） |
-| 矛盾处（新增） | **0** | 无新增数值冲突；mlb 门店 1,094 vs 1,185 为 S3 已调和 scope 差异；mlb Q2 减速为趋势延展非矛盾 |
-| 孤岛数 | **0** | 12 新源均含双链；12 实体均链入合成图 |
-| 新增「结论+信息链」页 | **12** | 每源页含合成洞察（2–4 条）+ 推理链（上游来源→本页→下游实体/对比/打法） |
-
-## 二、覆盖核对（硬性分组规则）
-- **本组 12/12 全覆盖 ✅**：etudes · g_star_raw · hoka_one_one · humble_humble_r · karl_lagerfeld · king_baby · koyo · lacoste · levis · marcelo_burlon · mlb · mlb_kids。
-- 未越界 A1（adlv/ariose_years/...）/ A3（mr_mrs/nautica/...）。
-- 全维度达标：每品牌均覆盖财务/门店渠道/联名营销/竞品/行业趋势，未以单一事件镜头替代。
-
-## 三、实体边界消歧（本轮重点）
-- **KOYO** = 卡宾（HK 02030）旗下巴黎买断街头子品牌（创始人 William Koyo 2008 入驻巴黎老佛爷首位华裔设计师）；此前因 KOYO 轴承/KOYO 寿司歧义待复核，本轮已消歧，链入 [[cabbeen]]。
-- **HumbleHumbleR** = humble_humble_r，宁波新锐 Z 世代极简街头品牌（主理人舒德，首店宁波鄞州万达，3 天 46 万）；此前因 Humble Bundle/Humblence 歧义待复核，本轮已消歧。
-
-## 四、矛盾检测
-- ℹ️ **mlb（基准核对）**：本轮新增 Q2 数据（2026Q2 合并 3,996 亿韩元 +5.5%、中国 +4% 骤降、股价 -20%）与 [[mlb]] 实体既有 Q2 数据一致，属时间轴延展非冲突；门店口径 1,094 vs 1,185 经 S3 确认为 scope 差异已调和，未重复标记 ⚠️。
-- 跨等级说明：财报级（hoka_one_one=Deckers、karl_lagerfeld=G-III/七匹狼、levis=Levi Strauss、mlb/mlb_kids=F&F）；媒体估算/品牌自宣（etudes/g_star_raw/humble_humble_r/king_baby/koyo/lacoste/marcelo_burlon），entity 页内联标注置信度。
-
-## 五、置信度分布
-- **财报（5）**：hoka_one_one（Deckers FY2026/Q1 FY2027）、karl_lagerfeld（G-III/七匹狼）、levis（Levi Strauss FY2026 H1）、mlb（F&F 2026Q2）、mlb_kids（F&F 2026Q2）
-- **媒体估算（5）**：etudes（CompWorth）、g_star_raw（RocketReach）、king_baby（门店/营销媒体）、koyo（卡宾官方+媒体）、lacoste（LinkedIn/行业）
-- **品牌自宣（2）**：humble_humble_r（品牌自述）、marcelo_burlon（新闻转述，财务为媒体估算）
-
-## 六、健康基线引用
-- 2026-08-14 04:05 `optimize` lint：断链 14 / 孤岛 0 / 矛盾 0 / 过期 0 / 分类 0。
-- 本轮在此基础上：孤岛保持 0；矛盾净增 0（无新增）；基准核对 1 处（mlb Q2 一致性）。
-
-## 七、下轮优先方向（仅本组 12 品牌）
-1. **koyo**：仍缺独立财务/门店数，建议以卡宾（HK 02030）年报分部信息间接补强。
-2. **mlb**：Q2 减速信号需 H2 财报验证是否触底；门店口径维持 1,094（RAG 主数）。
-3. **私牌/新锐（marcelo_burlon/humble_humble_r/king_baby/etudes）**：补权威第三方数据源提升置信度。
+- ✅ 无矛盾。cabbeen H1 数字与 kb_benchmarks `cabbeen` 一致（ℹ️ 基准核对）；crocs Q2 为 2026 最新硬数据，kb_benchmarks `crocs` 为 {} 无旧值可冲突；5 品牌无新增不触发检测。

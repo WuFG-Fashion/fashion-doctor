@@ -1030,3 +1030,12 @@ updated: 2026-08-15
 
 ### 实体页已追加「近期动态刷新（2026-08-17）」
 - 上述 12 品牌实体页均追加刷新小节（含内联置信度 + 双链 + 结论/信息链）。
+
+### A1 轮新增源页 (2026-08-17)
+- [[2026-08-17_cabbeen_火箭合作与秋季系列]] — 卡宾×中国火箭公司合作 + 2026 秋季系列（营销/联名维度）
+- [[2026-08-17_crocs_Q2_2026财报与芭蕾风营销]] — Crocs 2026 Q2 财报硬数据 + 樊振东/芭蕾风
+- [[2026-08-17_chuu_赵露思代言活动与加盟模式]] — chuu 赵露思全球代言 + 加盟模式
+- [[2026-08-17_dickies_2026联名矩阵]] — Dickies 2026 联名矩阵（UNDERCOVER/哈雷/FACETASM/S'YTE）
+- [[2026-08-17_diesel_2026联名与Pride营销]] — Diesel×FF14 + Diesel×Tinder Pride
+- [[2026-08-17_dkny_上海首店与2026营销]] — DKNY 上海首店 + Hailey Bieber + Cara 联名
+- [[2026-08-17_ellesse_Smiley联名与Garfield代言]] — ellesse×Smiley + Andrew Garfield 新纪元

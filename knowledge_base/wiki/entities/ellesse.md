@@ -7,7 +7,7 @@ tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]]
 ---
 
 # ellesse
@@ -33,6 +33,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 > **渠道信号补全（S3 · 2026-08-16）**：ellesse 中国由**百丽时尚（Belle）**运营（新浪 2024），渠道以**天猫 / 京东电商为主、线下门店较少**（第三方评测称"被低估的中端"）；Pentland 区域授权、中国是 key partner。单品牌门店数仍黑箱。详见 [[2026-08-16_S3_blackbox_channel_signals]]。
 
+
+## 近期动态 (2026-08-17 补充)
+- 2026 联名：ellesse×Smiley(Rave 70s) + Andrew Garfield『Do It Like An Italian』新纪元 campaign（置信度：品牌自宣）。详见 [[2026-08-17_ellesse_Smiley联名与Garfield代言]]
 ## 结论
 1. ellesse 借'运动复古+网球裙'在 Z 世代破圈（天猫 618 小贝壳热卖），与 [[peacebird|太平鸟]] 的'复古潮流+社媒爆款'打法高度相似，是可直接对标的样本。
 2. 同属 Pentland（与 [[speedo|速比涛]] 同门），集团用'专业泳装+运动复古'双品牌卡位细分，轻资产代理模式值得 [[cabbeen|卡宾]] 参考。

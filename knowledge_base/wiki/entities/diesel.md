@@ -8,7 +8,7 @@ tags: [diesel, competitor, denim, premium_denim, italy]
 sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
 updated: 2026-08-16
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]]
 ---
 
 # DIESEL
@@ -34,6 +34,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 | 集团直营店总数 | ~600 家 | 2025 末 |
 | 日本占集团销售 | 27.4% | 2025 |
 
+
+## 近期动态 (2026-08-17 补充)
+- 2026 联名：Diesel Japan×《最终幻想14》+ Diesel×Tinder Pride『For Successful Loving』胶囊（置信度：品牌自宣）。详见 [[2026-08-17_diesel_2026联名与Pride营销]]
 ## 结论
 1. Diesel 是 OTB 集团'现金牛'（营收最大、近十年最佳盈利），但其增长依赖 repositioning 投入，且中国/欧洲放缓，对 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 而言是'高端丹宁逆风期如何靠品牌重塑保利润'的样本。
 2. 入华 20 年 + 113 家直营 + 新总部，显示中国是其核心阵地；与 [[levis|李维斯]] 同属丹宁但 Diesel 走'意大利设计+夜店文化'差异化，客群更年轻潮流。
