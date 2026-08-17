@@ -5,9 +5,9 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -43,6 +43,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_NAUTICA___ABG_中国运营切换速览_2026]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md]]。
+
+- 联亚 2025 中报：大中华区 70 直营+54 伙伴=124 店、收入 -8%；2026-02 推街头向春夏系列。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

@@ -7,9 +7,9 @@ aliases:
   - "纳迪"
   - "NERDY 紫色运动服"
 tags: [nerdy, competitor, streetwear, korean_wave, sportswear, china]
-sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
+sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_NERDY_武汉首店_中国扩张.md]
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -47,6 +47,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026]] → 本页（[[nerdy]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_NERDY_武汉首店_中国扩张.md]]。
+
+- 华中首店落武汉武商 MALL·国广、二店江宸天街；天猫/京东旗舰店并行，品牌指数 9862。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_NERDY_武汉首店_中国扩张.md]] → 本页（[[nerdy]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

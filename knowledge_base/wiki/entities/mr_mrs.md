@@ -8,9 +8,9 @@ aliases:
   - "MR and MRS ITALY"
   - "MR&MRS"
 tags: [mr_mrs, competitor, luxury, fur, outerwear, italy]
-sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
+sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md]
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -48,6 +48,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026]] → 本页（[[mr_mrs]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md]]。
+
+- 中国以寺库/百联/别样奢品电商与买手店触达，无大店；价格带 ¥1.1 万–5.3 万。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md]] → 本页（[[mr_mrs]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

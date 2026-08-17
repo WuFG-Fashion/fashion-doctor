@@ -7,9 +7,9 @@ aliases:
   - "无名之辈"
   - "无性别潮牌"
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear]
-sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md]
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -44,6 +44,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026]] → 本页（[[no_one_else]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md]]。
+
+- 多城购物中心铺店（北京/上海/杭州/南京/成都/深圳/武汉），客单 400–600 元，明星种草+内购折扣。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md]] → 本页（[[no_one_else]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

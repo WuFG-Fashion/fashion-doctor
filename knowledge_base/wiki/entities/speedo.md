@@ -4,9 +4,9 @@ title: Speedo
 aliases:
   - "速比涛"
 tags: [speedo, competitor, sportswear, swimwear, uk]
-sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -39,6 +39,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026]] → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md]]。
+
+- 2026「江湖见」战役 + 汪顺代言 + UNDEFEATED 联名；游泳配件市占 15.2%→16.4%(2026预测)。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md]] → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

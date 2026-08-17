@@ -6,9 +6,9 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-17
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -44,6 +44,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 信息链
 - 上游来源：[[2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 
+
+## 近期动态刷新（2026-08-17 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md]]。
+
+- PVH FY2026Q1 集团 $20.25 亿(+2%)，TH 品牌 $10.77 亿(+3%)；中国 D2C 双位数；收回 TH 中国直营一次性 $1.53 亿；Travis Kelce/F1 联名推进时尚娱乐化。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
