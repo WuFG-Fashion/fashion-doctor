@@ -57,3 +57,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[hoka_one_one]] 在 2025-2026 处于活跃扩张/转型期，关键信号已沉淀至来源页 [[2026-08-16_A2_hoka_one_one_全维度动态]]，与现有实体结论方向一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-16_A2_hoka_one_one_全维度动态]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[china_apparel_2026q1_operations]] / [[global_apparel_financial_benchmarks_2026]]
+
+## 近期动态刷新（2026-08-17 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 二次核验；原始摘要见 [[2026-08-17_A2_hoka_one_one_全维度动态]]。
+
+- Deckers FY2026 集团营收 $5.472B(+9.8%)，HOKA 品牌 $2.587B(+15.9%)；Q1 FY2027 HOKA +7.7% 较前期 +14.5% 明显放缓（置信度：财报）。
+- 中国联名：2026 马年限定（井柏然）、BEAMS × HOKA Bondi 7、HOKA × XLIM MAFATE SPEED 2 TS（置信度：品牌自宣）。
+
+**结论（刷新）**：A2 轮确认 [[hoka_one_one]] 增速回归、本土化联名活跃，关键信号沉淀至来源页 [[2026-08-17_A2_hoka_one_one_全维度动态]]，与现有实体结论方向一致。
+**信息链（刷新）**：[[2026-08-17_A2_hoka_one_one_全维度动态]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[中国服装零售基准体系2026]] / [[global_apparel_financial_benchmarks_2026]]
