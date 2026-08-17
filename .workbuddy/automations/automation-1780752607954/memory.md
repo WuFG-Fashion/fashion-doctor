@@ -1,7 +1,9 @@
 # Automation Round B — 知识库采集 (L2_03/04/05)
 
 ## 最近执行
-- **日期**: 2026-08-15 19:27
+- **日期**: 2026-08-17 19:44
+- **状态**: ✅ 成功（分段提交已推送 main: ce9994d..fe5b3cb）
+- **Git commit**: 前半程(34文件: 7通用源+7raw+7L3+10概念实践回链+index/log/health) → 后半程(8文件: 双核cabbeen+轮换salomon 2源+2raw+2L3+2实体回链)
 - **状态**: ✅ 成功（+ 收尾修复 56b43c7）
 - **Git commit**: df7997a（主轮）→ 56b43c7（断链/矛盾标记/仓库卫生修复）
 
@@ -119,6 +121,17 @@
   - 连带销售率 +18% vs `guide_kpi.attach_rate_boost=[0.08,0.15]` 上限 0.15 — 某服装连锁试点实验值，待验证是否上调上限
 - **去重排除**: 北森/七匹狼/PANTEL/李宁/JNBY/MO&Co./简道云/江南布衣/唯品会/桔尚/袁记/来团/FIDUE/Megaview多文(均已收录)；本轮选全新源（云迁/winsin/china2000/eightx/easyreplenish + Megaview 28793/32488/24316 三新文）；注意 08-13 另有 5 个 Round A 源文件(京东物流/邦小白/秦磊/WAIC/福恩)已由 ingestA 注册于 index 但未提交，本次 `git add knowledge_base/` 一并纳入
 - **Git**: commit 82e78b2（已推送 main：11c2871..82e78b2）；根目录临时脚本 .scripts_tmp/ 不入知识库
+
+## 产出摘要（2026-08-17 19:44）
+- **raw/articles**: 9篇（积分体系与权益ROI设计/付费会员制零售模式/企微小程序会员触达闭环/cabbeen_会员规模与私域基数/导购接待话术标准化SOP/导购薪酬绩效激励设计/salomon_门店人才梯队与VIP私域运营/服装价格带管理与价格真空区/新品首单动销与追单节奏）
+- **wiki/sources**: 9篇新建（每页≥1条[[双链]]指向已有concept/entity，无孤岛；出链88条；7通用方法论 brand_specific=false + 2品牌佐证 brand_specific=true；置信度: 通用=媒体估算/品牌=财报或品牌自宣）
+- **wiki/concepts/practices/entities**: 12篇回链更新（会员复购率提升策略/会员与VIP运营体系2026/全渠道会员一体化/动态OTB管理/商品企划体系2026/导购培训闭环体系/导购能力评估与赋能体系2026/服装企划趋势渠道/柔性供应链与商品企划/私域运营方法论 + cabbeen/salomon 实体；回链19条 + dated段）
+- **L3同步**: 9篇（L2_03 VIP分层×2/会员复购×1/积分×1 · L2_04 明星导购×1/推销指标×1/培训体系×1 · L2_05 波段×1/品类×1）
+- **织网**: ≈107条双链（出链88 + 回链19）+ index注册9源NEW/12页UPDATED（B轮 2026-08-17 段插入于 A3 段之后）
+- **矛盾检测**: ✅ 0处（口径差异均用 ℹ️ 基准核对：鹿岛复购70%特定模式值、便利店连带1.2→1.8跨业态、kb首单0.25/1.0一致；未误标 ⚠️ 数据矛盾）
+- **方法论为主·品牌为辅**: 通用方法论搜索 7 次（主体）+ 品牌佐证搜索 2 次（双核 cabbeen 财报 410万会员 + 轮换 salomon 官方 70%内部晋升）；通用>品牌 ✅（符合 CLAUDE.md + 防维度坍缩）
+- **第零步缺口**: 历史缺双核会员规模硬数据 → 本轮补 cabbeen；历史缺 salomon 门店人才梯队 → 本轮补；下轮建议轮换 peacebird/迪卡轩/艾诺丝
+- **Git**: 分段提交（前半程34文件 + 后半程8文件）已推送 main；精确 add 单文件，未用 `git add knowledge_base/`；排除非本轮机改（data_library_selection_guide_2026.md、A2 automation memory.md、.kbtmp_a1/、自动化配置目录保持 untracked）
 
 ## 产出摘要（2026-08-15 19:27）
 - **raw/articles**: 8篇（yunchange_零售四大数字化路径 / china2000_品牌私域战略 / zgswcn_微盟小程序私域服务商 / megaview_AI培训重塑线下成交链路 / megaview_转化率提升训练逻辑 / megaview_难缠客户肌肉记忆 / aislestock_售罄率周度基准 / retailnorthstar_降价风险与OTB期初库存）
