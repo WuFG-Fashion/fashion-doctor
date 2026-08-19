@@ -5,10 +5,10 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态]
 created: 2026-08-14
-updated: 2026-08-17
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-08-19
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[salomon]], [[trussardi]]
 ---
 
 # NAUTICA
@@ -55,3 +55,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-19 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-08-19_A3_nautica_全维度动态]]。
+
+- **代理权结构性变更（最高优先级风险）**：ABG 拟于 2026-06-30 前终止**联亚集团（= Tristate Holdings，港股 0458）**对 Nautica/Spyder 的授权并索费；联亚 2026-07-01 于美国纽约州最高法院起诉 ABG；ABG 2026-07-28 宣布**上海荟众**为 Nautica+Spyder 中国内地及港澳核心运营伙伴（置信度：官方公告）。
+- **实体对齐**：本页此前所述"上海荟众取代 Tristate"与本轮"ABG 终止联亚授权"为**同一事件链**，联亚集团即 Tristate Holdings，已在源页登记双语别名。
+- **存量风险敞口**：旧代理运营期中国约 124 店（70 直营+54 伙伴）在交接与诉讼中去留未明，库存归属/门店续租/会员数据/员工安置四项均待确认（置信度：媒体估算）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-19_A3_nautica_全维度动态]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[salomon]] · [[trussardi]]
+

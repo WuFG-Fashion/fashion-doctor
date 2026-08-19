@@ -8,10 +8,10 @@ aliases:
   - "MR and MRS ITALY"
   - "MR&MRS"
 tags: [mr_mrs, competitor, luxury, fur, outerwear, italy]
-sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md]
+sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md, 2026-08-19_A3_mr_mrs_全维度动态]
 created: 2026-08-15
-updated: 2026-08-17
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-08-19
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_mr_mrs_全维度动态]], [[light_luxury_brand_framework_2026]]
 ---
 
 # MR&MRS ITALY (皮草夫妇)
@@ -61,3 +61,16 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
 - 渠道补全：[[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]
+
+## 近期动态刷新（2026-08-19 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-08-19_A3_mr_mrs_全维度动态]]。
+
+- **品类位次**：CNPP/Maigoo《2026 派克服十大品牌》第 **3** 位（榜单更新 2026-07-26），前有 CanadaGoose、OZLANA（置信度：第三方数据）。
+- **"第三"含警示**：人气指数 6678 仅为 CanadaGoose（17830）的 37%，与第 2 名 OZLANA（6785）几乎同分 —— 榜单真实结构是"1 个头部 + 一群并列第二梯队"，不宜按"品类前三"预估自然客流（置信度：第三方数据）。
+- **渠道与主体**：大中华区仅香港、北京、上海旗舰店（超窄渠道高单价模型）；品牌主体"意大利格鲁维有限责任公司"，中国运营主体标注"慕漫翊(北京)贸易有限公司"（两口径待核）（置信度：媒体估算）。
+- **跨品牌交叉**：同榜"知名品牌"列（未入十大）含 [[peacebird|太平鸟]]，说明太平鸟在派克服这一高单价冬装细分存在**品类位次缺失**，压制旺季客单价天花板（置信度：第三方数据）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-19_A3_mr_mrs_全维度动态]] → 本页（[[mr_mrs]]）→ 下游应用：[[peacebird]] · [[light_luxury_brand_framework_2026]] · [[服装行业竞争格局]]
+
