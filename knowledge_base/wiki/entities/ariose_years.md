@@ -10,7 +10,7 @@ aliases:
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
 sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -81,3 +81,9 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[brand_ops_data_infra_2026|运营与数据基建]]
 - [[2026-08-16_S3_ariose_years_第三方交叉验证|第三方交叉验证]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]。
+- 2026春季Campaign(米兰灵感)+山东代理60+店+蒙阴旗舰店
+- 信息链：[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]] → 本页（ariose_years 实体）→ 下游：[[服装行业竞争格局]]

@@ -9,7 +9,7 @@ aliases:
 tags: [adlv, competitor, streetwear, korean_wave, womenswear]
 sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -61,3 +61,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 - [[brand_risk_signals_2026|36品牌风险信号]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]]。
+- 深圳大悦城华南首店+海绵宝宝联名+Joong Archen代言
+- 信息链：[[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]] → 本页（adlv 实体）→ 下游：[[服装行业竞争格局]]

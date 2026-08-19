@@ -11,7 +11,7 @@ aliases:
 tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]]
 ---
 
@@ -97,3 +97,9 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[brand_ops_data_infra_2026|运营与数据基建]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_cabbeen_石狮海岸年度大秀风涌无界]]。
+- 9月20日石狮海岸「风涌无界」年度大秀+泉州时尚周，在地文化事件营销
+- 信息链：[[2026-08-19_A1_cabbeen_石狮海岸年度大秀风涌无界]] → 本页（cabbeen 实体）→ 下游：[[服装行业竞争格局]]

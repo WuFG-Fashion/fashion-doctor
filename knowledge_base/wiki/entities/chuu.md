@@ -8,7 +8,7 @@ aliases:
 tags: [chuu, competitor, womenswear, korean_wave, fast_fashion, focus_brand, brand_wall]
 sources: [2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本.md, 品牌墙图_2026-08-14, 2026-08-15_R4_CHUU_2026退潮样本]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本]], [[2026-08-17_chuu_赵露思代言活动与加盟模式]]
 ---
 
@@ -75,3 +75,9 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - [[brand_risk_signals_2026|36品牌风险信号]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_chuu_官方门店300家与赵露思全球代言]]。
+- 官方门店超300家+赵露思全球代言+秋季系列
+- 信息链：[[2026-08-19_A1_chuu_官方门店300家与赵露思全球代言]] → 本页（chuu 实体）→ 下游：[[服装行业竞争格局]]
