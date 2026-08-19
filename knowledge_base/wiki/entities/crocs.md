@@ -7,7 +7,7 @@ aliases:
 tags: [crocs, competitor, footwear, casual, usa, focus_brand, brand_wall]
 sources: [2026-08-15_卡骆驰2026Q1中国增长与樊振东代言, 雪球 Crocs 2025Q4 总结, 经济观察网 2026-05-25, 新浪 2026-07-17, 2026-08-15_R4_卡骆驰2026Q2中国]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_卡骆驰2026Q1中国增长与樊振东代言]], [[2026-08-17_crocs_Q2_2026财报与芭蕾风营销]], [[2026-08-18_crocs_HEYDUDE困境与回购资本配置]]
 ---
 
@@ -83,3 +83,9 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[brand_ops_data_infra_2026|运营与数据基建]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_crocs_瑞幸联名营销与破发]]。
+- 瑞幸联名569元高价款破发(30万浏览~14单)，联名造势强转化弱
+- 信息链：[[2026-08-19_A1_crocs_瑞幸联名营销与破发]] → 本页（crocs 实体）→ 下游：[[服装行业竞争格局]]

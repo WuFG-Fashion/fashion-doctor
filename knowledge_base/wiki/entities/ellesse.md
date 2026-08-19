@@ -6,7 +6,7 @@ aliases:
 tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -62,3 +62,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_ellesse_AndrewGarfield全球战役]]。
+- Andrew Garfield「Do It Like An Italian」全球战役+Smiley/PUMA联名
+- 信息链：[[2026-08-19_A1_ellesse_AndrewGarfield全球战役]] → 本页（ellesse 实体）→ 下游：[[服装行业竞争格局]]

@@ -7,7 +7,7 @@ aliases:
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
 sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
@@ -61,3 +61,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_dkny_GIII财报与上海新店]]。
+- G-III FY2026 DKNY净销售~6.5亿+上海新店+dkny.com+40%
+- 信息链：[[2026-08-19_A1_dkny_GIII财报与上海新店]] → 本页（dkny 实体）→ 下游：[[服装行业竞争格局]]

@@ -7,7 +7,7 @@ aliases:
 tags: [dekashell, competitor, womenswear, light_elegant, china_brand, hangzhou, focus_brand]
 sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_迪卡轩品牌档案]]
 ---
 
@@ -74,3 +74,9 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[2026-08-16_S3_dekashell_第三方交叉验证|第三方交叉验证]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_dekashell_全国门店与加盟模式]]。
+- 全国300+专卖店+加盟保证金20-30万(门店数300+ vs 500-600待核)
+- 信息链：[[2026-08-19_A1_dekashell_全国门店与加盟模式]] → 本页（dekashell 实体）→ 下游：[[服装行业竞争格局]]

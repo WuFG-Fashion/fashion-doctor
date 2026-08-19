@@ -8,7 +8,7 @@ aliases:
 tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]]
 ---
 
@@ -61,3 +61,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ## S轮合成织入（2026-08-16 · kb-link）
 - [[brand_portfolio_tiers_2026|36品牌分层矩阵]]
 - [[brand_risk_signals_2026|36品牌风险信号]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_dickies_2026联名矩阵]]。
+- 2026联名矩阵(哈雷/UNDERCOVER/S'YTE/WACKO/POP TRADING)
+- 信息链：[[2026-08-19_A1_dickies_2026联名矩阵]] → 本页（dickies 实体）→ 下游：[[服装行业竞争格局]]

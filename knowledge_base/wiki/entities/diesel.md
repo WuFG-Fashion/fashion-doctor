@@ -7,7 +7,7 @@ aliases:
 tags: [diesel, competitor, denim, premium_denim, italy]
 sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-19
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -62,3 +62,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[brand_risk_signals_2026|36品牌风险信号]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
+
+## A1轮全维度采集织入（2026-08-19）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_diesel_2026联名矩阵]]。
+- 2026联名(CASETiFY/Tinder Pride/MELISSA)，排除2021上海HUB误植
+- 信息链：[[2026-08-19_A1_diesel_2026联名矩阵]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]
