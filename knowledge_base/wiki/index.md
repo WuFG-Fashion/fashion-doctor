@@ -1077,3 +1077,23 @@ updated: 2026-08-19
 - 覆盖品牌（有新增）：cabbeen / crocs / dickies / diesel / ellesse / awoken_time / ariose_years
 - 覆盖品牌（无新增·记录跳过）：chuu / dkny / adlv / awoken_space / dekashell
 - 实体回链 7 篇；kb_benchmarks `crocs` 已回填 Q2 2026 硬财务。
+
+## A3 轮新增（2026-08-19 · 分组A3·品牌主体全维度）
+
+> 固定分组 12 品牌（mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am），以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。
+
+### 来源页（wiki/sources · 10 篇 NEW）
+- [[2026-08-19_A3_mr_mrs_全维度动态]] · [[2026-08-19_A3_nautica_全维度动态]] · [[2026-08-19_A3_nerdy_全维度动态]] · [[2026-08-19_A3_no_one_else_全维度动态]] · [[2026-08-19_A3_peacebird_全维度动态]]
+- [[2026-08-19_A3_salomon_全维度动态]] · [[2026-08-19_A3_speedo_全维度动态]] · [[2026-08-19_A3_the_mr_young_全维度动态]] · [[2026-08-19_A3_tommy_hilfiger_全维度动态]] · [[2026-08-19_A3_trussardi_全维度动态]]
+
+### 概念页（wiki/concepts · 1 篇 NEW）
+- [[服装价格带管理与价格真空区]] — 由 nerdy / no_one_else 的价格锚点触发建页；承接 B轮方法论源页 [[2026-08-17_服装价格带管理与价格真空区]]，新增「品牌价格带地图 + 拥挤带判别 + 平行渠道使定价上限外生」三项概念层判断。
+
+### 实体页已追加「近期动态刷新（2026-08-19 · A3轮·品牌全维度）」（12 篇 UPDATED）
+- 有新增（10）：mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / tommy_hilfiger / trussardi
+- 已核对无新增（2·显式登记非静默跳过）：two_am（4.1% 占卡宾 + 吉隆坡快闪均无更新）/ thisisizi8（80 品牌矩阵 + 同价策略均无更新，本轮补 [[nerdy]] 反向链）
+
+### 本轮矛盾与核对
+- ⚠️ 数据矛盾 4 处：no_one_else 门店口径 / the_mr_young 自宣500店vs登记20-99人 / tommy_hilfiger Q1两口径（重定性为口径边界）/ trussardi「暂不考虑中国」vs 香港重开（地理口径边界）
+- ℹ️ 基准核对 4 处（非矛盾）：peacebird H1 / salomon 302→315 时序 / speedo 江湖见+UNDEFEATED / trussardi Miroglio 2025FY
+- ℹ️ superseded_by 回填 1 处：[[2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店]] → [[2026-08-19_A3_salomon_全维度动态]]

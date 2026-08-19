@@ -6,10 +6,10 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-17
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-08-19
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[earnings_quality_nonrecurring_2026]]
 ---
 
 # Tommy Hilfiger
@@ -53,6 +53,20 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+
+## 近期动态刷新（2026-08-19 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-19_A3_tommy_hilfiger_全维度动态]]。
+
+- **PVH 2026 Q2**（截至 2026-07-31）Tommy Hilfiger 品牌收入 **8.92 亿美元、同比 +4%**（置信度：财报）。
+- 集团 Q2 净利 **11.9 亿美元含一次性收益**，不可年化、不可用于推算品牌盈利能力——须先剔非经常性项再做跨品牌比较。
+- ⚠️ **上轮 Q1 两口径矛盾本轮辨析（未闭环）**：官方 10.77 亿 +3% vs 媒体 8.42 亿 +6%；以 Q2 8.92 亿做序列连贯性检验，**媒体链环比 +5.9% 自洽 / 官方链环比 -17% 不自洽** → 矛盾性质重定性为"**口径边界未对齐**"而非数值错误。
+- 旧文剔除："Tommy 10.28 亿 +15%"实为 **2018 年 Q2** 旧文，与 2026 无关。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-19_A3_tommy_hilfiger_全维度动态]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[earnings_quality_nonrecurring_2026]] · [[中国服装零售基准体系2026]] · [[peacebird]]
+
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
