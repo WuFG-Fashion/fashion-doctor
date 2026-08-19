@@ -34,8 +34,8 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
   - **A1（06:40）** 分组=[adlv, ariose_years, awoken_space, awoken_time, cabbeen, chuu, crocs, dekashell, dickies, diesel, dkny, ellesse]
   - **A2（07:00）** 分组=[etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, koyo, lacoste, levis, marcelo_burlon, mlb, mlb_kids]
   - **A3（07:20）** 分组=[mr_mrs, nautica, nerdy, no_one_else, peacebird, salomon, speedo, the_mr_young, thisisizi8, tommy_hilfiger, trussardi, two_am]
-- 各轮完整指令存于仓库根 `_automation_A1.md` / `_automation_A2.md` / `_automation_A3.md`；对应自动化：`automation-1786773584037`(A1) / `automation-1786773585569`(A2) / `automation-1786773587084`(A3)，均 ACTIVE。
-- 原单轮 `automation-1780752607913` 已 **PAUSED**（保留为历史底本，避免与 A1 在 06:40 重复触发）。
+- 各轮完整指令存于仓库根 `_automation_A1.md` / `_automation_A2.md` / `_automation_A3.md`；对应自动化：`automation-1787122752372`(A1) / `automation-1787122752688`(A2) / `automation-1787122753030`(A3)，均 ACTIVE。
+- 原单轮 `automation-1787122752126` 已 **PAUSED**（保留为历史底本，避免与 A1 在 06:40 重复触发）。⚠️ 该 PAUSED A轮 prompt 为 2026-08-19 按审计报告描述重建（原内嵌全文随旧账号丢失未收录），建议保持 PAUSED。
 
 ### 数据可信度分级（置信度）标准（2026-08-15 新增）
 - **背景**：私企/小众女装（艾诺丝/迪卡轩/CHUU 中国等）无审计披露，数据多为品牌自宣/媒体估算；Run4 部分数字带"约/估"。RAG 检索时模型无法区分"财报数"与"自宣数" → 必须分级。
@@ -48,7 +48,7 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 - **背景**：A轮已改为"以品牌为主体、全维度综合采集"，但 B轮（会员VIP/导购/商品企划）和 C轮（数据分析/多品牌系统）的 prompt 仍是纯主题搜索，完全不提任何品牌名 → 运营知识与品牌情报割裂。
 - **B轮改法（方法论为主·品牌为辅）**：每个 L2 域通用方法论搜索 2-3 次为主体，品牌上下文搜索 1-2 次为佐证（双核轮换 + 每轮轮换 2-3 个品牌），防止方法论维度坍缩为实体维度子集。source 页必标 `brand_specific` 区分通用方法论 vs 品牌特有。
 - **C轮改法（品牌感知）**：技术搜索（SQL/Streamlit/Polars/ETL）保持通用，但"多品牌系统"须引用 focus_brands 清单作为被分析对象，"查漏"须检查品牌级数据分析覆盖缺口。补齐 confidence/护栏/结论信息链/git pull/健康快照/分段提交。
-- 规范文件：`_automation_B.md` / `_automation_C.md`；对应自动化 `automation-1780752607954`(B) / `automation-1780752608015`(C)，均 ACTIVE。
+- 规范文件：`_automation_B.md` / `_automation_C.md`；对应自动化 `automation-1787122753361`(B) / `automation-1787122753693`(C)，均 ACTIVE。
 - **A vs B vs C vs S 品牌关系定位**：A轮=品牌情报（品牌在做什么）；B轮=品牌运营方法论（怎么运营，可迁移）；C轮=品牌数据基建（用什么工具分析）；S轮=跨品牌合成（品牌放在一起说明什么）。A/B/C 是采集导向，S 是合成导向。
 
 ### S轮（合成轮）跨品牌模式识别（2026-08-15 确立）
@@ -56,7 +56,7 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 - **定位**：不采集新数据（不调用 WebSearch/WebFetch），只读已有 wiki 页面，做跨品牌模式识别。
 - **合成维度**：营收规模分层 / 增长模式分类 / 门店策略对比 / 毛利率分层 / 渠道结构对比 / 国际化程度 / 品类定位 / 运营策略对比 / 数据基建适配 / 风险信号。
 - **输出**：`wiki/comparisons/` 新增/更新跨品牌对比页 + 更新 `wiki/concepts/服装行业竞争格局.md` + 回填旧 source 的 `superseded_by`。
-- 规范文件：`_automation_S.md`；对应自动化 `automation-1786809189350`，ACTIVE，每周日 08:00。
+- 规范文件：`_automation_S.md`；对应自动化 `automation-1787122754325`，ACTIVE，每周日 08:00。
 - **上下文护栏**：36 品牌实体页分 3 批读取（每批 12 个），每批读完即提取要点笔记。
 
 ### 数据生命周期字段（2026-08-15 新增）
