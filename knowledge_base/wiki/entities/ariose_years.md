@@ -10,7 +10,7 @@ aliases:
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
 sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证]
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-21
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -87,3 +87,11 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 > 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]。
 - 2026春季Campaign(米兰灵感)+山东代理60+店+蒙阴旗舰店
 - 信息链：[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]] → 本页（ariose_years 实体）→ 下游：[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-21）
+
+> 本轮 A1 对本品做 2026 全维度核验，价格带与门店动态见 [[2026-08-21_A1_ariose_years_价格带与西单新装]]。
+- 价格带（2026 夏）：衬衫 789-1380 元/半身裙约 1280 元/牛仔外套 980 元；奥莱 5-6 折（455-768 元），坐实"EP 雅莹平替"中高端定位。
+- 8-13~8-15 北京西单大悦城 3F 新装开业 + 金山万达焕新（全场 9 折）——一线商圈渠道加密。
+- 子品牌 AW PROJECT 2024 线上 GMV 接近 3500 万（轻奢试错，测试高端价格带）。
+- 信息链：[[2026-08-21_A1_ariose_years_价格带与西单新装]] → 本页（ariose_years 实体）→ 下游：[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]
