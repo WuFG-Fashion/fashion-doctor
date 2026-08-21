@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # Fashion Doctor 知识库导航
@@ -67,17 +67,17 @@ updated: 2026-08-19
 | [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 +8-19新增:A1全维度(2026联名·源:[[2026-08-19_A1_diesel_2026联名矩阵]]) | diesel, competitor, denim, premium_denim, italy |
 | [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 +8-19新增:A1全维度(G-III财报+上海店·源:[[2026-08-19_A1_dkny_GIII财报与上海新店]]) | dkny, competitor, womenswear, menswear, lifestyle, usa |
 | [[ellesse]] ⭐ NEW | 意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。 +8-19新增:A1全维度(Garfield战役·源:[[2026-08-19_A1_ellesse_AndrewGarfield全球战役]]) | ellesse, competitor, sportswear, retro, italy |
-| [[etudes]] ⭐ NEW | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france |
-| [[g_star_raw]] ⭐ NEW | 荷兰高端牛仔品牌，以 raw denim 与 3D 剪裁闻名。 | g_star_raw, competitor, denim, premium_denim, netherlands |
-| [[hoka_one_one]] ⭐ NEW | 美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。 | hoka_one_one, competitor, sportswear, running, footwear, usa |
-| [[karl_lagerfeld]] ⭐ NEW | 以老佛爷命名的轻奢品牌，由 KARL LAGERFELD 授权运营，覆盖成衣、配饰与香水。 | karl_lagerfeld, competitor, luxury, womenswear, menswear, germany |
-| [[king_baby]] ⭐ NEW | 美国摇滚风格银饰与配饰品牌，定位潮流文化周边。 | king_baby, competitor, accessories, jewelry, streetwear |
+| [[etudes]] ⭐ UPDATED | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france |
+| [[g_star_raw]] ⭐ UPDATED | 荷兰高端牛仔品牌，以 raw denim 与 3D 剪裁闻名。 | g_star_raw, competitor, denim, premium_denim, netherlands |
+| [[hoka_one_one]] ⭐ UPDATED | 美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。 | hoka_one_one, competitor, sportswear, running, footwear, usa |
+| [[karl_lagerfeld]] ⭐ UPDATED | 以老佛爷命名的轻奢品牌，由 KARL LAGERFELD 授权运营，覆盖成衣、配饰与香水。 | karl_lagerfeld, competitor, luxury, womenswear, menswear, germany |
+| [[king_baby]] ⭐ UPDATED | 美国摇滚风格银饰与配饰品牌，定位潮流文化周边。 | king_baby, competitor, accessories, jewelry, streetwear |
 | [[koyo]] ⭐ NEW | 当代潮流品牌，具体定位待补充。 | koyo, competitor, streetwear, contemporary |
-| [[lacoste]] ⭐ NEW | 法国高端运动休闲品牌，以鳄鱼标志与 Polo 衫闻名，网球基因。 | lacoste, competitor, sportswear, premium, france |
-| [[levis]] ⭐ NEW | 美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。 | levis, competitor, denim, premium_denim, usa |
-| [[marcelo_burlon]] ⭐ NEW | 意大利高端街头品牌，以翅膀图腾与俱乐部文化著称。 | marcelo_burlon, competitor, streetwear, luxury_streetwear, italy |
-| [[mlb]] ⭐ NEW | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave |
-| [[mlb_kids]] ⭐ NEW | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave |
+| [[lacoste]] ⭐ UPDATED | 法国高端运动休闲品牌，以鳄鱼标志与 Polo 衫闻名，网球基因。 | lacoste, competitor, sportswear, premium, france |
+| [[levis]] ⭐ UPDATED | 美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。 | levis, competitor, denim, premium_denim, usa |
+| [[marcelo_burlon]] ⭐ UPDATED | 意大利高端街头品牌，以翅膀图腾与俱乐部文化著称。 | marcelo_burlon, competitor, streetwear, luxury_streetwear, italy |
+| [[mlb]] ⭐ UPDATED | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave |
+| [[mlb_kids]] ⭐ UPDATED | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave |
 | [[mr_mrs]] ⭐ NEW | 意大利高端皮草派克外套品牌，以军绿色皮草内胆派克大衣出圈。 | mr_mrs, competitor, luxury, outerwear, italy |
 | [[nautica]] ⭐ NEW | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。 | nautica, competitor, menswear, sportswear, usa |
 | [[nerdy]] ⭐ NEW | 韩国潮流品牌，以彩色运动套装与 K-pop 明星同款走红。 | nerdy, competitor, streetwear, korean_wave |
@@ -89,7 +89,7 @@ updated: 2026-08-19
 | [[tommy_hilfiger]] ⭐ NEW | 美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 | tommy_hilfiger, competitor, premium, menswear, womenswear, usa |
 | [[trussardi]] ⭐ UPDATED | 意大利百年奢侈品牌（1911皮具起家）；2024-03被Miroglio收购、2025-04重启定位轻奢；2026计划开10店(5意+5海外加盟) | trussardi, competitor, luxury, italy, leather, focus_brand |
 | [[two_am]] ⭐ NEW | 男装/潮流品牌，具体定位待补充。 | two_am, competitor, menswear, streetwear |
-| [[humble_humble_r]] ⭐ NEW | 中国新兴潮流男装品牌（2025 创立·宁波起源），"谦而不卑"内核，中高端潮流男装+亲民价格带，首店 2025-09-05 宁波鄞州万达，正全国扩张。 | humble_humble_r, competitor, menswear, streetwear, china_brand, trendy, focus |
+| [[humble_humble_r]] ⭐ UPDATED | 中国新兴潮流男装品牌（2025 创立·宁波起源），"谦而不卑"内核，中高端潮流男装+亲民价格带，首店 2025-09-05 宁波鄞州万达，正全国扩张。 | humble_humble_r, competitor, menswear, streetwear, china_brand, trendy, focus |
 
 
 | [[ariose_years]] ⭐ UPDATED · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装(爱唯时尚集团)，2025销售约50亿/门店破1800/百万会员/杭州女装TOP3；AW PROJECT重奢商圈拓店(港汇恒隆首店首日60万) +8-19新增:A1全维度(春季Campaign+区域拓展·源:[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]) | womenswear, premium, china_brand, hangzhou, focus |

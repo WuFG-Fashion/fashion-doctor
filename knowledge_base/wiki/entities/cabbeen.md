@@ -12,7 +12,7 @@ tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
 created: 2026-08-14
 updated: 2026-08-21
-cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[2am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]]
+cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[two_am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]]
 ---
 
 # 卡宾（Cabbeen）
@@ -110,7 +110,7 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - 国际化首站马来西亚：吉隆坡 The Starhill 携 2AM 5 天快闪（2026-03，4D 打印鞋 RM389–1189），马来已开 2 店（Pavilion Bukit Jalil + Sunway Velocity），男装 RM300–800。
 - 25/26 秋冬「踏山海·共潮生」石狮 150 米海岸 T 台，发布两大联名：中国航母 FLEET 18（军装廓形+迷彩）+ 中国火箭（Gorpcore 户外+高科技材质）。
 - 明星营销：14 位艺人看秀 + 李汶翰「翰海领航」南昌活动（2026-05-31）。
-- 信息链：[[2026-08-20_A1_cabbeen_国际化快闪与明星营销]] → 本页（cabbeen 实体）→ 下游：[[服装行业竞争格局]]、[[2am]]（副线）
+- 信息链：[[2026-08-20_A1_cabbeen_国际化快闪与明星营销]] → 本页（cabbeen 实体）→ 下游：[[服装行业竞争格局]]、[[two_am|2AM]]（副线）
 
 ## A1轮全维度采集织入（2026-08-21）
 
@@ -118,4 +118,4 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - 微信粉丝及会员 **410 万**（2026-06-30）；2025 系列售罄率 **73.8%** vs 2026 春夏系列 **48.4%**；实体店平均折扣 27.9%（2025H1 27.4%）。
 - 零售网点 573 家 vs 去年同期 633 家，**半年净关店 60 家（-9.5%）**；CFW 判为"被动收缩"（线下单店收入改善=分母变小，利润增长靠费用压缩-5.4%）。
 - 渠道结构：线下 53%（+4.7%）/ 线上 42.2%（+12.3%）/ OEM 4.8%；卡宾都市占比升至 28.6%（+6.1pp）成第二引擎。
-- 信息链：[[2026-08-21_A1_cabbeen_中期报告售罄率与会员数据]] → 本页（cabbeen 实体）→ 下游：[[sell_through_rate]]、[[core_brands_peacebird_cabbeen_2026]]、[[服装行业竞争格局]]
+- 信息链：[[2026-08-21_A1_cabbeen_中期报告售罄率与会员数据]] → 本页（cabbeen 实体）→ 下游：[[sell_through_examination_standard_2026|售罄率]]、[[core_brands_peacebird_cabbeen_2026]]、[[服装行业竞争格局]]

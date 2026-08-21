@@ -6,8 +6,8 @@ aliases:
 tags: [speedo, competitor, sportswear, swimwear, uk]
 sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md, 2026-08-19_A3_speedo_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-19
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[salomon]]
+updated: 2026-08-21
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]], [[salomon]]
 ---
 
 # Speedo
@@ -61,6 +61,17 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-19_A3_speedo_全维度动态]] → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[salomon]]
+
+## 近期动态刷新（2026-08-21 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范全维度检索核验，新增来源 [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]]（联名矩阵补全）。
+
+- **Speedo x BEAMS 2026 春夏联名 7.0**（2026-07-11 发售）：2020 年起年度联动第 7 季；水面涟漪网格纹样 + 两栖泳裤/防晒 T/遮阳帽/防护袖套 + 亮橙配色；携手 MIN-NANO 三方胶囊（置信度：官方公告）。
+- **Speedo x CHIIKAWA 吉伊卡哇联名**（2026 夏）：代言人汪顺上身，UPF50+ 防晒面料 + 玩水场景，含玩水手机袋周边（置信度：官方公告）。
+- **联名矩阵结构（补全后）**：日潮（BEAMS·通勤穿搭）→ 街头（UNDEFEATED·潮流竞技）→ 萌系 IP（CHIIKAWA·女性/亲子玩水）三触点，多小声量优于单大声量（低频品类适配）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]] → 本页（[[speedo]]）→ 下游应用：[[peacebird]] · [[服装行业竞争格局]] · [[salomon]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]

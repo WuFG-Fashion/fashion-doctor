@@ -6,7 +6,7 @@ aliases:
 tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-21
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -68,3 +68,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 > 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_ellesse_AndrewGarfield全球战役]]。
 - Andrew Garfield「Do It Like An Italian」全球战役+Smiley/PUMA联名
 - 信息链：[[2026-08-19_A1_ellesse_AndrewGarfield全球战役]] → 本页（ellesse 实体）→ 下游：[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-21）
+
+> 本轮 A1 对本品做 2026 全维度核验，价格带与 Smiley 续报见 [[2026-08-21_A1_ellesse_价格带与Smiley联名续报]]。
+- 价格带（英国官网）：T 恤 £22-55 / Polo £50-85 / 外套 £75-120（约 200-1100 元），坐实中端运动时尚定位（与 FILA/Kappa 同档）。
+- Smiley × Rave 联名（2026 夏）：微笑登山帽 1,280 元 + 复古配件，延续"表达性运动"叙事。
+- 小贝壳网球裙产品口碑验证"网球+复古"赛道有效（速干实测），与 2026 网球时尚趋势共振。
+- 信息链：[[2026-08-21_A1_ellesse_价格带与Smiley联名续报]] → 本页（ellesse 实体）→ 下游：[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]

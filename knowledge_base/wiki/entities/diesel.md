@@ -7,7 +7,7 @@ aliases:
 tags: [diesel, competitor, denim, premium_denim, italy]
 sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-21
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -68,3 +68,10 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 > 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_diesel_2026联名矩阵]]。
 - 2026联名(CASETiFY/Tinder Pride/MELISSA)，排除2021上海HUB误植
 - 信息链：[[2026-08-19_A1_diesel_2026联名矩阵]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-21）
+
+> 本轮 A1 对本品做 2026 全维度核验，FF14 联名落地与新品见 [[2026-08-21_A1_diesel_FF14联名与DONE手袋]]。
+- Diesel ×《最终幻想14》联名完整节奏：8-7 游戏内穿搭大赛 → 8-28 设计公开 → 9 月发售 → 9-16~10-20 东京伊势丹新宿/大阪阪急梅田/福冈岩田屋 Pop-Up + 河村康辅艺术展——"游戏×时尚"四层递进打法。
+- D-ONE 手袋（2026 秋冬秀首曝，K11 MUSEA 限定色独家）+ Y2K 耳机新色（8-17 港澳/新加坡）——Glenn Martens 主导下"服装→配饰/科技配件"生活方式化加速。
+- 信息链：[[2026-08-21_A1_diesel_FF14联名与DONE手袋]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]

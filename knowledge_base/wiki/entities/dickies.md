@@ -8,7 +8,7 @@ aliases:
 tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-21
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]]
 ---
 
@@ -67,3 +67,10 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 > 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_dickies_2026联名矩阵]]。
 - 2026联名矩阵(哈雷/UNDERCOVER/S'YTE/WACKO/POP TRADING)
 - 信息链：[[2026-08-19_A1_dickies_2026联名矩阵]] → 本页（dickies 实体）→ 下游：[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-21）
+
+> 本轮 A1 对本品做 2026 全维度核验，WIND AND SEA 联名见 [[2026-08-21_A1_dickies_WIND_AND_SEA联名]]。
+- 2026 FW 联名矩阵新增 **WIND AND SEA**（日本街头）：chore jacket/utility pants/联名 T 恤，8-15 在线发售——日系联名浓度升至 4/6。
+- 联名路径延续"功能 + 街头"叙事（UNDERCOVER/S'YTE/WACKO/WIND AND SEA），后 VF 时代（Bluestar 收购）以高频联名维持潮牌心智。
+- 信息链：[[2026-08-21_A1_dickies_WIND_AND_SEA联名]] → 本页（dickies 实体）→ 下游：[[服装行业竞争格局]]

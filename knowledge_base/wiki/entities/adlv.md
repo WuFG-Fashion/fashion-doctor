@@ -9,8 +9,8 @@ aliases:
 tags: [adlv, competitor, streetwear, korean_wave, womenswear]
 sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-19
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-08-20
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
 ---
 
 # ADLV (acme de la vie)
@@ -67,3 +67,10 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 > 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]]。
 - 深圳大悦城华南首店+海绵宝宝联名+Joong Archen代言
 - 信息链：[[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]] → 本页（adlv 实体）→ 下游：[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-20）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增"角色 IP 联名 + 中国门店盘点"信号见 [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]。
+- 2026 角色 IP 联名双连击：LINE FRIENDS（3 月，布朗熊/莎莉）+ 海绵宝宝 SpongeBob（4 月，尼克儿童频道，T 恤为核心扩展全品类）。
+- 中国内地门店约 14 家（上海 MOHO/天津南开大悦城/长春红旗街万达/大连恒隆/沈阳皇城恒隆/大连柏威年等），深圳大悦城店即将开业（商业地产媒体盘点口径=媒体估算）。
+- 信息链：[[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]] → 本页（adlv 实体）→ 下游：[[服装行业竞争格局]]、[[chuu]]（韩潮对照）

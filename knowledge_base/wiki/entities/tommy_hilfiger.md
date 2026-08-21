@@ -8,8 +8,8 @@ aliases:
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
 sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-19
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[earnings_quality_nonrecurring_2026]]
+updated: 2026-08-21
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]]
 ---
 
 # Tommy Hilfiger
@@ -66,6 +66,17 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-19_A3_tommy_hilfiger_全维度动态]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[earnings_quality_nonrecurring_2026]] · [[中国服装零售基准体系2026]] · [[peacebird]]
+
+## 近期动态刷新（2026-08-21 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范全维度检索核验，新增来源 [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]]（营销/联名维度与指引增量；Q2 8.92 亿已在库不重复）。
+
+- **PVH 营销加投**：集团在 CK 与 Tommy 追加 **2500 万美元**营销费用，年内再 **+1000 万美元**；全年 EPS 指引 6.34 → **6.44-6.54 美元**（置信度：财报）。
+- **联名矩阵（2026）**：① Tommy x **Peanuts 童装** 2026 秋季系列（12 件式、再生材料）；② Tommy x **Cadillac F1** 秋季 Fanwear（周冠宇上海直播座谈、Bottas 门店见面）；③ 台北101「夏日航海假期」快闪（2026-06-17~21，JISOO 形象）（置信度：官方公告）。
+- **Q2 收入核对**：8.92 亿美元 +4% 与 08-19 源一致，无新财务矛盾；EPS 1.52（媒体）vs 2.01（聚合站 adjusted）存在 GAAP/调整口径差异，引用须标注。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[speedo]] · [[服装行业竞争格局]] · [[peacebird]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
