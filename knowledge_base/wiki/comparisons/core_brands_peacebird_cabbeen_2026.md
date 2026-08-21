@@ -38,3 +38,9 @@ cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[se
 ## 信息链
 - 上游来源：品牌墙图片 + 太平鸟财报 + [[2026-08-15_卡宾2026中期业绩与2025年报]] → 本页
 - 下游应用：[[menswear_brands_2026q1]] / [[男装品牌竞争格局2026Q1]] / [[服装行业竞争格局]] / [[brand_portfolio_tiers_2026]] / [[brand_risk_signals_2026]]
+
+## 关联页面
+
+- [[2026-08-16_cabbeen_2025-2026全维度复核]]
+- [[2026-08-21_A1_cabbeen_中期报告售罄率与会员数据]]
+- [[2026-08-22_A1_cabbeen_副线渠道股息]]

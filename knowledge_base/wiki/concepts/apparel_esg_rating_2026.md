@@ -97,6 +97,9 @@ cross_refs: [[peacebird]], [[semir]], [[baoxiniao]], [[bienlefen]], [[bosideng]]
 - [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]]
 - [[menswear_brands_2026q1]]
 - [[six_brands_2026q1]]
+
+- [[2026-08-16_A2_g_star_raw_全维度动态]]
+- [[中国服装零售基准体系2026]]
 ## 待办 / 待验证
 
 - ✅ 无数据矛盾：ESG 评级为全新维度，kb_benchmarks.json 与 comparisons/ 中均无同指标历史值可冲突

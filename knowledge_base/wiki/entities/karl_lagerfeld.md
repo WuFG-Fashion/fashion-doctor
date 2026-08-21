@@ -8,7 +8,7 @@ aliases:
 tags: [karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, pop_up]
 sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌墙图_2026-08-14, 2026-08-15_R4_卡尔拉格斐2026中国]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 ---
 
@@ -62,6 +62,10 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
 
+
+- [[2026-08-21_A1_dkny_GIII_FY2026集团业绩]]
+- [[brand_portfolio_tiers_2026]]
+- [[brand_risk_signals_2026]]
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_karl_lagerfeld_全维度动态]]。
@@ -116,3 +120,13 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 
 **结论（刷新）**：A2 轮确认 [[karl_lagerfeld]] 中国分部"价值毁灭资产"定性（净资产 -1.6 亿、八年未盈利），与 G-III 全球 $630M 增长形成授权品牌两极分化最强样本；母公司投资损益掩盖服装端，评价须看扣非。与实体既有结论一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-21_A2_karl_lagerfeld_全维度动态]]（来源摘要） → 本页（[[karl_lagerfeld]]） → 下游 [[septwolves]] / [[服装行业竞争格局]] / [[global_apparel_financial_benchmarks_2026]]
+
+## 近期动态刷新（2026-08-22 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-22_A2_karl_lagerfeld_全维度动态]]。
+
+- KL 大中华区（七匹狼运营）2025 营收 ¥377M、净亏 ¥66.49M（扩大>142%）、无形资产减值 ¥82.79M、净资产 -¥160M（置信度：财报）。
+- 七匹狼 2025 营收 ¥3.004B(-4.35%)/归母 ¥333M(+16.91%)、2026 Q1 营收 ¥885M(+4.9%)；SS26 campaign 续约 Paris Hilton（置信度：财报/媒体估算）。
+
+**结论（刷新）**：A2 轮确认 [[karl_lagerfeld]] 大中华区处减值阵痛（净资产转负），信号沉淀至 [[2026-08-22_A2_karl_lagerfeld_全维度动态]]，与既有结论一致。
+**信息链（刷新）**：[[2026-08-22_A2_karl_lagerfeld_全维度动态]]（来源摘要） → 本页（[[karl_lagerfeld]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]

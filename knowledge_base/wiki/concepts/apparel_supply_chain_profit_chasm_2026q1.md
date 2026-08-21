@@ -109,6 +109,8 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_20
 - [[china_apparel_2026q1_operations]]
 - [[lululemon]]
 - [[retail_ai_adoption_2026]]
+
+- [[中国服装零售基准体系2026]]
 ## 待办 / 待验证
 
 - 棉花、涤纶等具体原材料价格走势待补充

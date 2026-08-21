@@ -117,3 +117,6 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - [[2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎]]
 - [[jiumuwang]]
 - [[six_brands_2026q1]]
+
+- [[cabbeen]]
+- [[core_brands_peacebird_cabbeen_2026]]

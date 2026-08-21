@@ -75,6 +75,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 - 行业格局：[[服装行业竞争格局]]
 - AI 市场：[[ai_fashion_market_2026]]
 
+
+- [[2026-08-19_A3_peacebird_全维度动态]]
+- [[2026-08-19_A3_speedo_全维度动态]]
+- [[2026-08-21_A3_peacebird_组织架构调整与门店轨迹序列]]
+- [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]]
+- [[brand_ops_data_infra_2026]]
+- [[brand_portfolio_tiers_2026]]
+- [[brand_store_channel_2026]]
+- [[speedo]]
 ## 近期动态刷新（2026-08-19 · A3轮·品牌全维度）
 
 > 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-08-19_A3_salomon_全维度动态]]。

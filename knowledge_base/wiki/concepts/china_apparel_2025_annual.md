@@ -129,6 +129,8 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_2026q1_operations
 - [[apparel_inventory_benchmark_2026]]
 - [[bienlefen]]
 - [[consumption_expansion_15th_fiveyear_2026]]
+
+- [[中国服装零售基准体系2026]]
 ## 月度轨迹补充 ⭐ 6月更新（商务部1-11月数据）
 
 | 阶段 | 营收增速 | 利润增速 | 利润率 | 关键发现 |

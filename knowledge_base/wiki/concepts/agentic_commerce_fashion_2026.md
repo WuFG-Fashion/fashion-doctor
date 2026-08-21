@@ -250,3 +250,6 @@ Agentic Commerce 进入「标准协议 + 规模部署」阶段，胜负手从流
 - [[2026-07-21_Style3D伙伴大会2026]]
 - [[2026-08-01_AI购物Agent与机器可读产品数据]]
 - [[ai_fashion_capability_2026]]
+
+- [[2026-08-20_扎克伯格超级智能与第二大脑]]
+- [[ai_personal_empowerment_2026]]

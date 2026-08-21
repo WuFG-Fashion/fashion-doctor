@@ -8,7 +8,7 @@ aliases:
 tags: [humble_humble_r, competitor, streetwear, china, menswear, new_brand]
 sources: [2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -101,3 +101,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[humble_humble_r]] 2026 上半年走"明星矩阵+去锋利化产品"国潮标准打法，渠道"高端臻选店+奥莱下沉"双线并行，与实体既有结论方向一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-21_A2_humble_humble_r_全维度动态]]（来源摘要） → 本页（[[humble_humble_r]]） → 下游 [[服装行业竞争格局]] / [[中国服装零售基准体系2026]]
+
+## 近期动态刷新（2026-08-22 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[humble_humble_r]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-22_A2_humble_humble_r_全维度动态]]。
+
+- 街头服饰 HUMBLE 在 NIL Official（台湾）上架图形 Tee（NT$2,680-3,680）、独立站 thehumblebrand.co 超级英雄 Tee（$70）、香氛"旋转木马"（¥88）（置信度：品牌自宣）。
+- ⚠️ 实体消歧：与瑞典食饮集团 Humble Group AB（STO:HUMBLE）同名不同业，本页不写入其财报（置信度：媒体估算）。
+
+**结论（刷新）**：A2 轮确认 [[humble_humble_r]] 为小众街头/IP 图形牌，渠道+营销信号沉淀至 [[2026-08-22_A2_humble_humble_r_全维度动态]]；重点在实体隔离，避免与食饮集团混淆。
+**信息链（刷新）**：[[2026-08-22_A2_humble_humble_r_全维度动态]]（来源摘要） → 本页（[[humble_humble_r]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]

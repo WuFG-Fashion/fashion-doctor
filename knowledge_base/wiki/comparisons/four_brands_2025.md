@@ -79,3 +79,5 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], 
 - [[2026-06-08_网易_29家服装运动企业2026Q1业绩汇总]]
 - [[six_brands_2026q1]]
 - [[three_brands_mid2026]]
+
+- [[core_brands_peacebird_cabbeen_2026]]

@@ -81,3 +81,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+- [[2026-08-21_A1_dkny_GIII_FY2026集团业绩]]
+- [[brand_gross_margin_2026]]

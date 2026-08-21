@@ -9,7 +9,7 @@ aliases:
 tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina]
 sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -89,3 +89,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[marcelo_burlon]] 从"个人设计师标签"转向"可规模化运营潮牌资产"（品牌主体规范化+童装代理分销+艺术联名），香港首店已关、国内以买手店渠道为主，与实体既有结论方向一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-21_A2_marcelo_burlon_全维度动态]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-22 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[marcelo_burlon]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-22_A2_marcelo_burlon_全维度动态]]。
+
+- County of Milan 全球许可由 Farfetch 转交 Daddato Next，Burlon 100% 持有，首系列 2025 秋重启（置信度：媒体估算）。
+- 新联名 ×Eastpak、×Kappa×SSC Napoli 三方（限量球衣 1000+200）；私营财务未披露（置信度：媒体估算/品牌自宣）。
+
+**结论（刷新）**：A2 轮确认 [[marcelo_burlon]] 2026 为"授权换手 + 重启"样本，信号沉淀至 [[2026-08-22_A2_marcelo_burlon_全维度动态]]，与既有结论一致（streetwear 定位）。
+**信息链（刷新）**：[[2026-08-22_A2_marcelo_burlon_全维度动态]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]

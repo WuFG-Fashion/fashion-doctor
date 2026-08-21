@@ -104,3 +104,5 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[four_brands_2025
 ## 关联页面
 
 - [[six_brands_2026q1]]
+
+- [[core_brands_peacebird_cabbeen_2026]]

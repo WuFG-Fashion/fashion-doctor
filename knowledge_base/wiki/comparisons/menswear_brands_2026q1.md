@@ -98,3 +98,7 @@ cross_refs: [[hla|海澜之家]], [[semir|森马]], [[peacebird|太平鸟]], [[�
 - [[three_brands_mid2026]]
 
 - [[2026-08-10_中财网_太平鸟H1电商引擎与费用管控]]
+
+- [[2026-08-15_卡宾2026中期业绩与2025年报]]
+- [[cabbeen]]
+- [[core_brands_peacebird_cabbeen_2026]]

@@ -9,7 +9,7 @@ aliases:
 tags: [g_star_raw, competitor, denim, premium_denim, netherlands]
 sources: [2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -103,3 +103,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[g_star_raw]] 2026 主线为"WHP 平台降本增效 + 区域授权扩张"，与 [[levis]] 直营放量构成同品类两极对照，与实体既有结论一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-21_A2_g_star_raw_全维度动态]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[服装行业竞争格局]] / [[global_apparel_financial_benchmarks_2026]]
+
+## 近期动态刷新（2026-08-22 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[g_star_raw]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-22_A2_g_star_raw_全维度动态]]。
+
+- CEO Rob Schilder 独任（Patrick Kraaijeveld 离任）；印度 Ace Turtle 授权约 30 触点、'Rubicon' 全渠道（置信度：媒体估算）。
+- Raw Research 高端线 2026-01 巴黎首秀（$350-790）；新联名 ×Agbobly(C2C Gold)/×Yay Abe/×Jaden Smith/×Sukezane/×Botter（置信度：媒体估算）。
+
+**结论（刷新）**：A2 轮确认 [[g_star_raw]] 2026 在"可持续丹宁 + 高端线 + 印度授权"三线推进，信号沉淀至 [[2026-08-22_A2_g_star_raw_全维度动态]]，与既有结论一致。
+**信息链（刷新）**：[[2026-08-22_A2_g_star_raw_全维度动态]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]

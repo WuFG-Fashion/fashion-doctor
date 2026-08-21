@@ -47,3 +47,6 @@ brand_specific: true
 - [[tommy_hilfiger]]、[[服装行业竞争格局]]、[[peacebird]]、[[cabbeen]]
 
 > ⚠️ **数据矛盾**：Tommy Hilfiger Q1 营收存在两口径——PVH 官方（截至 2026-05-03）报 $10.77 亿（+3%），另有媒体（截至 2026-04-30）报 $8.42 亿（+6%），季度截止日不同导致不可直比，RAG 引用须标注口径并优先取 PVH 官方值。
+
+- [[2026-08-19_A3_tommy_hilfiger_全维度动态]]
+- [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]]

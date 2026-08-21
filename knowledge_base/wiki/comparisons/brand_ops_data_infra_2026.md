@@ -75,3 +75,5 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_y
 - [[data_quality_governance]]
 - [[peacebird]]
 - [[cabbeen]]
+
+- [[2026-08-16_ariose_years_2025-2026全维度复核]]

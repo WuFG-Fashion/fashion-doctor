@@ -679,3 +679,5 @@ AI应用是否值得投入，满足以下三者之一即可：
 - [[ai_fashion_design_cases_2026]]
 - [[ai_fashion_ecommerce_tryon_tools_2026]]
 - [[ai_virtual_tryon_2026]]
+
+- [[2026-08-15_AI时尚从实验到基础设施2026]]

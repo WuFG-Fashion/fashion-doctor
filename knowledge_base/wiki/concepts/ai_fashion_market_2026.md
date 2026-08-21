@@ -110,6 +110,9 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]]
 - [[agentic_commerce_fashion_2026]]
 - [[ai_fashion_capability_2026]]
+
+- [[2026-08-15_Agentic_Commerce_2026结构化产品数据成胜负手]]
+- [[salomon]]
 ## 全球大模型应用中长期预测 ⭐ 6月更新
 
 > 来源：IIM《全球服装行业大模型应用行业技术发展与市场前景分析报告》(2026年)

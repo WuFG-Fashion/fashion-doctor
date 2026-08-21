@@ -145,6 +145,9 @@ cross_refs: [[china_apparel_2026q1_operations]], [[china_apparel_2025_annual]], 
 - [[2026-07-22_第七在线_OTB终极指南]]
 - [[hla]]
 - [[retail_ai_adoption_2026]]
+
+- [[brand_risk_signals_2026]]
+- [[中国服装零售基准体系2026]]
 ## 待办 / 待验证
 - 百家号库存积压率45%/周转率2.1次等数据需官方渠道交叉验证
 - 小程序案例为单一门店个案，需多案例验证普适性

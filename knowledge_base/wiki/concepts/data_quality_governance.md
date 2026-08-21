@@ -312,3 +312,6 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 - [[semantic_layer_metrics_2026]]
 
 - [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]
+
+- [[2026-08-15_Agentic_Commerce_2026结构化产品数据成胜负手]]
+- [[brand_ops_data_infra_2026]]

@@ -80,3 +80,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[levis]],
 - [[earnings_quality_nonrecurring_2026]]
 - [[peacebird]]
 - [[cabbeen]]
+
+- [[2026-08-16_cabbeen_2025-2026全维度复核]]
+- [[2026-08-16_crocs_2025-2026全维度复核]]
+- [[2026-08-16_diesel_2025-2026全维度复核]]

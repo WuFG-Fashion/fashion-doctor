@@ -77,6 +77,9 @@ cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]]
 
 
 - [[2026-07-29_安奈儿H1减亏近八成]]
+
+- [[brand_risk_signals_2026]]
+- [[中国服装零售基准体系2026]]
 ## 待办 / 待验证
 
 - [ ] H1正式中报后批量更新竞品扣非净利润字段至 kb_benchmarks.json

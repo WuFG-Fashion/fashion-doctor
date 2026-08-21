@@ -96,3 +96,6 @@ cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_20
 - [[2026-07-05_申万宏源_高端品牌率先复苏]]
 - [[2026-07-13_服装协会1-5月行业运行简报]]
 - [[china_apparel_2025_annual]]
+
+- [[2026-08-16_A2_hoka_one_one_全维度动态]]
+- [[中国服装零售基准体系2026]]

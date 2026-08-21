@@ -44,5 +44,7 @@ brand_specific: true
 ## 关联页面
 [[hoka_one_one]] / [[china_apparel_2026q1_operations]] / [[global_apparel_financial_benchmarks_2026]]
 
+
+- [[2026-08-15_HOKA___Deckers_中国增长与财务速览_2026]]
 ## 待办 / 待验证
 > ℹ️ **基准核对**：门店数">230 家"为品牌披露口径（置信度：财报/品牌自宣混合），与 [[global_apparel_financial_benchmarks_2026]] 中其他运动品牌中国门店数可横向对比，无硬冲突。

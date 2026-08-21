@@ -221,3 +221,6 @@ _（洞察由 AI 基于本页数据合成；规范见 [[CLAUDE.md]] 2.3）_
 - [[lilanz]]
 - [[lululemon]]
 - [[style3d_lingdi]]
+
+- [[2026-08-19_A3_peacebird_全维度动态]]
+- [[core_brands_peacebird_cabbeen_2026]]

@@ -49,5 +49,7 @@ brand_specific: true
 ## 关联页面
 [[tommy_hilfiger]] / [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]] / [[salomon]] / [[peacebird]] / [[earnings_quality_nonrecurring_2026]]
 
+
+- [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]]
 ## 待办 / 待验证
 > ℹ️ **待验证（矛盾闭环前置条件）**：① PVH 官方 10-Q 中 Tommy Hilfiger 分部收入的确切定义（是否含批发/许可）；② Q1 与 Q2 是否取自同一披露表；③ 中国区/亚太区单独拆分数据；④ 一次性收益的具体构成与金额。
