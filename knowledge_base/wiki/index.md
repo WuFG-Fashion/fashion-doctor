@@ -168,6 +168,8 @@ updated: 2026-08-21
 | [[consumption_expansion_15th_fiveyear_2026]] ⭐ UPDATED | 扩大消费"十五五"规划：2030社零60万亿(CAGR3.7%)/服装升格品质+文化+场景+生命周期消费/2025限上服装15215亿+3.2%/2026 1-5月6425亿+7.2% +8-07新增国务院7-13批复落地节点(山西证券H1社零点评确认) | policy, consumption, industry, benchmark, fifteen_five |
 | [[data_asset_management_2026]] ⭐ NEW | 2026数据资产管理全景：七大核心能力+入表支撑+AI驱动(工时-40%/效率3x)/普元易数5星全生命周期 | data_governance, data_asset, ai_driven, dcmm, platform_selection |
 | [[global_apparel_financial_benchmarks_2026]] ⭐ NEW | 全球服装财务基准：毛利率55.3%/运营6.7%/退货25-40%/库存2.43x/LTV:CAC≥3:1/NYU Stern 35家对照 | kpi, benchmark, global, financial, dtc, inventory |
+| [[customer_value_metrics_2026]] ⭐ NEW | 客户价值指标体系2026：复购率"人数口径"失灵 → LTV/留存率/NDR/NPS 四指标组合（度量-监控-预算闭环）+ RFM 八分层落地（服装 90 天窗口） | customer_value, ltv, ndr, nps, rfm, kpi, methodology |
+| [[ai_personal_empowerment_2026]] ⭐ NEW | AI个人赋权与第二大脑方法论：发明>自动化/能力贫富差距/提问能力升值/一人+Agent≈小型组织/三个学习弯路；扎克伯格长文解读 | ai, empowerment, second_brain, agent, capability, methodology |
 
 ### wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
@@ -204,6 +206,8 @@ updated: 2026-08-21
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[2026-08-20_客户价值四指标替代复购率]] ⭐ NEW | 复购率三大缺陷（口径可调节/只看人数/低频误判）+ LTV/留存率/NDR/NPS 四指标定义与落地四步（RFM分层→NPS监控→NDR追踪→LTV反推预算）；公众号「零售小九」 | vip, customer_value, ltv, ndr, nps, rfm, methodology, source |
+| [[2026-08-20_扎克伯格超级智能与第二大脑]] ⭐ NEW | 扎克伯格《The Future is for Everyone》解读：AI 是能力放大器非替代工具/发明>自动化/权力平衡与开源/一人+Agent≈小型组织/三个学习弯路；公众号「白熊安安」 | ai, empowerment, second_brain, agent, education, source |
 | [[2026-08-15_卡宾2026中期业绩与2025年报
 | [[2026-08-15_R4_卡宾2026最新动态]] ⭐ NEW | 卡宾 2026H1 毛利率 46.3% 亮点但经营溢利 -24.7%；8 月马来 Sunway 新店、AI 虚拟试穿、海外试水（R4 全量覆盖刷新） | cabbeen, competitor, menswear, core, hk_listed, R4_refresh, source |
 | [[2026-08-15_R4_太平鸟2026H1动态]] ⭐ NEW | 太平鸟 2026H1 营收 28.78 亿(-0.72%)/归母 1.02 亿(+30.89%)/扣非 5071 万(+269.91%)；净关店 137 家、增长靠非经常性（R4 全量覆盖刷新） | peacebird, competitor, womenswear, a_share, core, R4_refresh, source |
