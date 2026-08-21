@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]]
 ---
 
@@ -74,3 +74,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 2026 FW 联名矩阵新增 **WIND AND SEA**（日本街头）：chore jacket/utility pants/联名 T 恤，8-15 在线发售——日系联名浓度升至 4/6。
 - 联名路径延续"功能 + 街头"叙事（UNDERCOVER/S'YTE/WACKO/WIND AND SEA），后 VF 时代（Bluestar 收购）以高频联名维持潮牌心智。
 - 信息链：[[2026-08-21_A1_dickies_WIND_AND_SEA联名]] → 本页（dickies 实体）→ 下游：[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- WIND AND SEA × Dickies 2026 秋冬联名系列，2026-08-15 在线发售。
+- 胶囊：chore jacket（工装夹克）/ utility pants（工装裤）/ 联名 T 恤。
+- 设计：当代日本街头文化 × Dickies 自 1922 年工装传承，功能与风格融合。
+
+> 来源：[[2026-08-22_A1_dickies_wind_and_sea_fw26.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

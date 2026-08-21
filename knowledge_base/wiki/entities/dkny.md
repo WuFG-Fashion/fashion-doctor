@@ -5,9 +5,9 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
@@ -75,3 +75,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - DKNY 与 Karl Lagerfeld 并列为集团"更高毛利自有品牌"战略核心；CK/Tommy 授权陆续到期为集团风险点（影响对自有品牌投入预算）。
 - FY2026 Q1 EPS -0.21 优于预期；DTC/数字渠道扩张为战略重点，与 DKNY 上海新店"旗舰店心智 + DTC 电商"打法同频。
 - 信息链：[[2026-08-21_A1_dkny_GIII_FY2026集团业绩]] → 本页（dkny 实体）→ 下游：[[karl_lagerfeld]]、[[tommy_hilfiger]]、[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- 上海淮海路 Lady Huaihai（百联集团运营）中国首店，245㎡，舞狮开业；明黄出租车软装 + Hailey Bieber SS2026 视觉。
+- 业主 G-III（2016 收购 DKI，2017 中国合资 + 天猫旗舰店），本次为「直营零售」重启。
+- Hailey Bieber 全球代言 SS2026（2026-02-10 全球发布）。
+
+> 来源：[[2026-08-22_A1_dkny_上海首店与中国战略.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

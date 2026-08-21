@@ -5,9 +5,9 @@ aliases:
   - "迪卡轩"
   - "DEKASHELL"
 tags: [dekashell, competitor, womenswear, light_elegant, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证]
+sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证, 2026-08-22_A1_dekashell_母公司与省域门店.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_迪卡轩品牌档案]]
 ---
 
@@ -95,3 +95,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 渠道下沉确认：四川苍溪/黑龙江桦南县城门店招聘（加盟深入四五线），与利郎/劲霸/比音勒芬同商圈。
 - 加盟费用：加盟费 9-15 万、首批原料 2.5-4.2 万、投资 19.6 万起——轻投入快速铺量路线。
 - 信息链：[[2026-08-21_A1_dekashell_渠道下沉与门店口径]] → 本页（dekashell 实体）→ 下游：[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- 母公司厘清：DEKASHELL = 迪卡轩 = 杭州佰加服饰有限公司（非艾诺丝母公司），轻淑女装（法式优雅 + 珍珠元素）。
+- 省域加盟约 290 家（仅加盟口径，西南/华中密度高）vs 全渠道 600+——口径差异，规模以全渠道为准。
+- 线上双旗舰：京东（通勤套装）+ 天猫（法式首发/博主联名/珍珠蕾丝）。
+
+> 来源：[[2026-08-22_A1_dekashell_母公司与省域门店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

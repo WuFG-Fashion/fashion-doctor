@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -75,3 +75,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - Diesel ×《最终幻想14》联名完整节奏：8-7 游戏内穿搭大赛 → 8-28 设计公开 → 9 月发售 → 9-16~10-20 东京伊势丹新宿/大阪阪急梅田/福冈岩田屋 Pop-Up + 河村康辅艺术展——"游戏×时尚"四层递进打法。
 - D-ONE 手袋（2026 秋冬秀首曝，K11 MUSEA 限定色独家）+ Y2K 耳机新色（8-17 港澳/新加坡）——Glenn Martens 主导下"服装→配饰/科技配件"生活方式化加速。
 - 信息链：[[2026-08-21_A1_diesel_FF14联名与DONE手袋]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- D-ONE 手袋系列：2026 秋冬首推，香港/新加坡/澳门专店定价 HKD 5,200–9,700；K11 MUSEA 独家水钻丹宁款。
+- 印尼雅加达 Senayan City 3 个月 pop-up（FW2026 印尼首秀），并首发 Diesel Jewellery Collection。
+- 从丹宁向高毛利配件延伸，抬升客单与毛利率。
+
+> 来源：[[2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
