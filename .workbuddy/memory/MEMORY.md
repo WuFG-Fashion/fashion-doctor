@@ -17,22 +17,22 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 用户明确：后期信息搜集以**以下品牌为主**（2026-08-14 确认）。卡宾/太平鸟为双核，品牌墙图全品牌为运营代理集合（MODING 是渠道方非品牌，不单独追踪），艾诺丝/迪卡轩为重点补充女装。
 
 - **双核**：卡宾（cabbeen，仅次于太平鸟的核心）、太平鸟（peacebird）
-- **品牌墙图集合**（用户所发图片，原 MODING 运营代理操盘的品牌，非 MODING 本体）：trussardi, mr_mrs, marcelo_burlon, karl_lagerfeld, dkny, tommy_hilfiger, lacoste, diesel, g_star_raw, levis, dickies, salomon, speedo, hoka_one_one, ellesse, mlb, nerdy, crocs, mlb_kids, adlv, chuu, no_one_else, thisisizi8, awoken_space, awoken_time, koyo, the_mr_young, two_am, king_baby, nautica, etudes
+- **品牌墙图集合**（用户所发图片，原 MODING 运营代理操盘的品牌，非 MODING 本体）：trussardi, mr_mrs, marcelo_burlon, karl_lagerfeld, dkny, tommy_hilfiger, lacoste, diesel, g_star_raw, levis, dickies, salomon, speedo, hoka_one_one, ellesse, mlb, nerdy, crocs, mlb_kids, adlv, chuu, no_one_else, thisisizi8, awoken_space, awoken_time, the_mr_young, two_am, king_baby, nautica, etudes
 - **重点补充女装**：艾诺丝（ariose_years，ARIOSE YEARS，杭州爱唯）、迪卡轩（dekashell，DEKASHELL，杭州轻淑）
 
-机器可读清单见 `knowledge_base/kb_benchmarks.json` 的 `focus_brands` 字段（当前 36 个，含上述双核+品牌墙+艾诺丝+迪卡轩；实际数量以 json 为准）。新增实体默认带 `sources: [用户指定-重点女装品牌]` 或 `品牌墙图_2026-08-14`。
+机器可读清单见 `knowledge_base/kb_benchmarks.json` 的 `focus_brands` 字段（当前 35 个，含上述双核+品牌墙+艾诺丝+迪卡轩；实际数量以 json 为准）。新增实体默认带 `sources: [用户指定-重点女装品牌]` 或 `品牌墙图_2026-08-14`。（2026-08-22 用户确认 koyo 占比过小，已从 focus_brands 移除、不再纳入 A 轮采集；其历史实体页/source 页保留。）
 
 ## A轮自动化覆盖规则 ⚠️ 长期约定（2026-08-15 确立）
 
-- **每次 A轮（Round-A）自动化必须覆盖全部 `focus_brands`（36 个）**——但为规避"单次运行上下文溢出导致后段品牌质量滑坡"，自 2026-08-15 起将单轮拆分为 **A1/A2/A3 三轮分批**（见下），全天仍覆盖全部 36，每轮上下文可控。
+- **每次 A轮（Round-A）自动化必须覆盖全部 `focus_brands`（35 个）**——但为规避"单次运行上下文溢出导致后段品牌质量滑坡"，自 2026-08-15 起将单轮拆分为 **A1/A2/A3 三轮分批**（见下），全天仍覆盖全部 35，每轮上下文可控。
 - **「只跑少源」仅为用户单次显式收窄的临时范围，不是默认行为**；若需收窄，必须由用户在当次明确指定。
 - 预检缺口清单可做优先级排序，但**每轮每个本组品牌都必须被检索 / 核验 / 更新**，或显式记录「无新增」后跳过造页（不得静默跳过）。
 
 ### A1/A2/A3 三分架构（06:40 / 07:00 / 07:20）
-- 36 品牌按 `kb_benchmarks.json` 顺序**均分 3 组各 12 个、互不重叠**，**分组仅用于把 36 拆成 3 批以控制单次运行上下文**。
+- 35 品牌按 `kb_benchmarks.json` 顺序**均分 3 组（A1/A3 各 12 个、A2 11 个、互不重叠）**，**分组仅用于把 35 拆成 3 批以控制单次运行上下文**。
 - ⚠️ **采集方向（用户 2026-08-15 重申）**：以**品牌主体**为中心，对每组每个品牌做**全维度综合采集**（财务/门店渠道/联名营销/竞品/行业趋势 一律覆盖），**不得把品牌钉死在单一事件镜头上**（早期曾误按"财务/门店/联名"分镜头，导致单品牌信息残缺，已纠正）。
   - **A1（06:40）** 分组=[adlv, ariose_years, awoken_space, awoken_time, cabbeen, chuu, crocs, dekashell, dickies, diesel, dkny, ellesse]
-  - **A2（07:00）** 分组=[etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, koyo, lacoste, levis, marcelo_burlon, mlb, mlb_kids]
+  - **A2（07:00）** 分组=[etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, lacoste, levis, marcelo_burlon, mlb, mlb_kids]
   - **A3（07:20）** 分组=[mr_mrs, nautica, nerdy, no_one_else, peacebird, salomon, speedo, the_mr_young, thisisizi8, tommy_hilfiger, trussardi, two_am]
 - 各轮完整指令存于仓库根 `_automation_A1.md` / `_automation_A2.md` / `_automation_A3.md`；对应自动化：`automation-1787122752372`(A1) / `automation-1787122752688`(A2) / `automation-1787122753030`(A3)，均 ACTIVE。
 - 原单轮 `automation-1787122752126` 已 **PAUSED**（保留为历史底本，避免与 A1 在 06:40 重复触发）。⚠️ 该 PAUSED A轮 prompt 为 2026-08-19 按审计报告描述重建（原内嵌全文随旧账号丢失未收录），建议保持 PAUSED。
@@ -41,7 +41,7 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 - **背景**：私企/小众女装（艾诺丝/迪卡轩/CHUU 中国等）无审计披露，数据多为品牌自宣/媒体估算；Run4 部分数字带"约/估"。RAG 检索时模型无法区分"财报数"与"自宣数" → 必须分级。
 - **落地**：CLAUDE.md 2.1 frontmatter 新增 `confidence` 字段（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算）；新增 2.4 章节定义分级与使用规则；5.1 必含清单纳入 `confidence`。
 - **强制**：三份 A轮规范 `_automation_A1/A2/A3.md` 追加「第九步：置信度标注与上下文护栏」——source 页必填 `confidence` frontmatter + 页内 `> **置信度**` 声明；entity 页关键数字内联标注（"约/估"必标 媒体估算）；矛盾检测优先比对同等级。
-- **护栏同条固化**：第九步一并规定单轮 12 品牌全维度的上下文护栏——每品牌 WebSearch≤3 次、优先摘要、第 6 品牌后中途 git commit（分两段提交）、尾部降级允许仅探针不得编造，从根上防溢出/降级。
+- **护栏同条固化**：第九步一并规定单轮 11-12 品牌全维度的上下文护栏——每品牌 WebSearch≤3 次、优先摘要、第 6 品牌后中途 git commit（分两段提交）、尾部降级允许仅探针不得编造，从根上防溢出/降级。
 - 已回填空量 Run4 的 11 个 `2026-08-15_R4_*` 源页 `confidence`（上市品牌=财报；Trussardi/CHUU=媒体估算；2AM/艾诺丝/迪卡轩=品牌自宣）。
 
 ### B/C轮品牌对齐改造（2026-08-15 确立，23:49 修正为方法论为主）
@@ -57,7 +57,7 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 - **合成维度**：营收规模分层 / 增长模式分类 / 门店策略对比 / 毛利率分层 / 渠道结构对比 / 国际化程度 / 品类定位 / 运营策略对比 / 数据基建适配 / 风险信号。
 - **输出**：`wiki/comparisons/` 新增/更新跨品牌对比页 + 更新 `wiki/concepts/服装行业竞争格局.md` + 回填旧 source 的 `superseded_by`。
 - 规范文件：`_automation_S.md`；对应自动化 `automation-1787122754325`，ACTIVE，每周日 08:00。
-- **上下文护栏**：36 品牌实体页分 3 批读取（每批 12 个），每批读完即提取要点笔记。
+- **上下文护栏**：35 品牌实体页分 3 批读取（A1/A3 每批 12 个、A2 每批 11 个），每批读完即提取要点笔记。
 
 ### 数据生命周期字段（2026-08-15 新增）
 - **brand_specific**（source 页必填）：`true`=品牌特有数据（双链到品牌实体页），`false`=行业通用方法论（双链到 concept，不链品牌）。防止"伪连接"——通用方法论错误链到品牌实体，形式上链了但不支持推理。

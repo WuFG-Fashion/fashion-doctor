@@ -5,16 +5,16 @@
 规则手册 = `knowledge_base/CLAUDE.md`，严格遵循（重点 2.3 区块规范与 5.1 质量门：每页含「结论」与「信息链」）。
 
 ## 本论固定分组（必须全覆盖，不得只跑少源）
-A2 负责以下 **12 个焦点品牌（固定，不与 A1/A3 重叠）**：
-etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, koyo, lacoste, levis, marcelo_burlon, mlb, mlb_kids
+A2 负责以下 **11 个焦点品牌（固定，不与 A1/A3 重叠）**：
+etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, lacoste, levis, marcelo_burlon, mlb, mlb_kids
 
-**本论采集原则（以品牌主体为中心）**：分组仅用于把 36 品牌拆成 3 批以控制单次运行上下文，**不按事件类型预设镜头**。对**本组每个品牌**做 2025-2026 **全维度综合采集** —— 财务/财报/资本动作、门店零售/渠道/线下事件、联名/营销/竞品/行业趋势 一律覆盖，凡命中该品牌重大信号均须收录，避免只攒某一类信息。
+**本论采集原则（以品牌主体为中心）**：分组仅用于把 35 品牌拆成 3 批以控制单次运行上下文，**不按事件类型预设镜头**。对**本组每个品牌**做 2025-2026 **全维度综合采集** —— 财务/财报/资本动作、门店零售/渠道/线下事件、联名/营销/竞品/行业趋势 一律覆盖，凡命中该品牌重大信号均须收录，避免只攒某一类信息。
 
-⚠️ 硬性分组覆盖规则（最高优先级）：A2 必须覆盖上述 **本组全部 12 个焦点品牌**，不得以「已完整 / OK」为由整体跳过任何本组品牌。「只跑少源」仅为用户单次显式收窄的临时范围，不是默认行为。预检缺口清单可做优先级排序，但每轮每个本组品牌都必须被**全维度**检索/核验/更新，或显式记录「无新增」后跳过造页（不得静默跳过）。**A1/A3 负责的品牌不在本论范围，不要越界采集。**
+⚠️ 硬性分组覆盖规则（最高优先级）：A2 必须覆盖上述 **本组全部 11 个焦点品牌**，不得以「已完整 / OK」为由整体跳过任何本组品牌。「只跑少源」仅为用户单次显式收窄的临时范围，不是默认行为。预检缺口清单可做优先级排序，但每轮每个本组品牌都必须被**全维度**检索/核验/更新，或显式记录「无新增」后跳过造页（不得静默跳过）。**A1/A3 负责的品牌不在本论范围，不要越界采集。**
 
-## 第零步（预检）：生成缺口清单（仅本组 12 品牌）
+## 第零步（预检）：生成缺口清单（仅本组 11 品牌）
 联网搜索前，先扫描知识库现状，产出「本轮优先缺口」，让后续搜索有的放矢：
-1. 读取 `kb_benchmarks.json` 的 `focus_brands`，取出本组 12 个 key，解析到 `wiki/entities/` 页（别名映射：uniqlo_fast_retailing→fast_retailing、gxg_muson→muson_gxg、zara_inditex→inditex_zara；其余同名）。检查每个是否有实体页 + 至少 3 篇 `wiki/sources/`；标注「缺实体 / 少源 / OK」——**此标注仅用于排序优先级，不影响覆盖**，OK 品牌仍须全维度检索核验。⚠️ 缺口清单**仅围绕本组 12 品牌**，不得扩散到 A1/A3 品牌或非焦点竞品。
+1. 读取 `kb_benchmarks.json` 的 `focus_brands`，取出本组 11 个 key，解析到 `wiki/entities/` 页（别名映射：uniqlo_fast_retailing→fast_retailing、gxg_muson→muson_gxg、zara_inditex→inditex_zara；其余同名）。检查每个是否有实体页 + 至少 3 篇 `wiki/sources/`；标注「缺实体 / 少源 / OK」——**此标注仅用于排序优先级，不影响覆盖**，OK 品牌仍须全维度检索核验。⚠️ 缺口清单**仅围绕本组 12 品牌**，不得扩散到 A1/A3 品牌或非焦点竞品。
 2. 读取 `wiki/index.md` 与 `log.md`，找出 L2_00/01/02 中超过 14 天无新 source 且属本组的方向。
 3. 汇总为缺口清单，在回复开头打印。
 4. 第二步 WebSearch 必须优先围绕缺口清单展开；若某次搜索结果均为已入库内容，记录「无新增」并跳过造页，不得强行重复。
@@ -25,7 +25,7 @@ etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, ko
 3. 读 `knowledge_base/wiki/log.md`
 4. 读 `knowledge_base/kb_benchmarks.json`
 
-## 第二步：联网搜索（本组 12 品牌 × 品牌主体全维度综合采集）
+## 第二步：联网搜索（本组 11 品牌 × 品牌主体全维度综合采集）
 用 WebSearch 对**本组每个品牌**检索 2-3 次（优先命中第零步缺口清单，双核不属本组则按本组品牌优先级辐射），每次围绕该品牌的不同维度展开，确保**该品牌全维度信息都被触达**：
 - 财务/财报/资本动作（营收/利润/毛利率/门店数/股权/融资/收购）
 - 门店零售/渠道/线下事件（开店关店/渠道结构/快闪/区域拓展/加盟直营/奥莱电商）
@@ -69,7 +69,7 @@ git add knowledge_base/ && git commit -m "[auto] Round A2 — L2_00/01/02 (分�
 1. 在 `knowledge_base/wiki/log.md` 追加：| YYYY-MM-DD HH:MM | ingestA2 | L2_00/01/02 — 采集X篇/织网X条/矛盾X处 |
 2. 生成每日健康快照并写入 `knowledge_base/_health/YYYY-MM-DD_daily_health.md`（Obsidian 可读仪表盘），内容须含：
    - 本轮：采集 X 篇 / 织网 X 条 / 矛盾 X 处 / 新增双链 X 条 / 孤岛数 / 新增「结论+信息链」页数
-   - 第零步缺口清单与下轮优先方向（**仅限本组 12 品牌**）
+   - 第零步缺口清单与下轮优先方向（**仅限本组 11 品牌**）
    - 引用 `log.md` 中最近一次 optimize 的 lint 结论（断链/孤岛/矛盾）作为健康基线
    - 若本轮无新增，明确标注「✅ 库已覆盖，仅补缺口/无重复造页」
 
@@ -89,4 +89,4 @@ git add knowledge_base/ && git commit -m "[auto] Round A2 — L2_00/01/02 (分�
 
 ### 9.3 分段提交（替换原第七步单次提交）
 - 前半程（品牌 1-6 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A2 — 前半程(品牌1-6)"`
-- 后半程（品牌 7-12 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A2 — 后半程(品牌7-12)" && git push`
+- 后半程（品牌 7-11 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A2 — 后半程(品牌7-11)" && git push`
