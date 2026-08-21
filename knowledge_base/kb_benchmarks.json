@@ -308,7 +308,16 @@
       "net_profit_2025fy_billion": 0.03198,
       "net_profit_2025fy_yoy": 0.1067,
       "stores_2026h1": 573,
-      "stores_china_2026h1": 571
+      "stores_china_2026h1": 571,
+      "stores_2025h1": 633,
+      "stores_net_change_2026h1": -60,
+      "wechat_members_2026h1": 4100000,
+      "avg_discount_2026h1": 0.279,
+      "sell_through_2025_collections": 0.738,
+      "sell_through_2026ss": 0.484,
+      "channel_revenue_2026h1": {"offline": 0.53, "online": 0.422, "oem": 0.048},
+      "cabbeen_urban_share_2026h1": 0.286,
+      "updated": "2026-08-21"
     },
     "trussardi": {},
     "awoken_space": {},
