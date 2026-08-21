@@ -9,9 +9,9 @@ aliases:
   - "HK 02030"
   - "卡宾男装"
 tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
-sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态]
+sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态, 2026-08-22_A1_cabbeen_副线渠道股息.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[two_am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]]
 ---
 
@@ -119,3 +119,12 @@ cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands
 - 零售网点 573 家 vs 去年同期 633 家，**半年净关店 60 家（-9.5%）**；CFW 判为"被动收缩"（线下单店收入改善=分母变小，利润增长靠费用压缩-5.4%）。
 - 渠道结构：线下 53%（+4.7%）/ 线上 42.2%（+12.3%）/ OEM 4.8%；卡宾都市占比升至 28.6%（+6.1pp）成第二引擎。
 - 信息链：[[2026-08-21_A1_cabbeen_中期报告售罄率与会员数据]] → 本页（cabbeen 实体）→ 下游：[[sell_through_examination_standard_2026|售罄率]]、[[core_brands_peacebird_cabbeen_2026]]、[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- 副线担当增长：卡宾都市（Cabbeen Urban）营收 1.293 亿，占比 28.6%（+6.1pp）成第二引擎；主品牌占比 60% 下滑。
+- 渠道分化：线上 +12.3% vs 线下 +4.7%（约 3 倍）；广州/米兰/巴黎三大设计工作室支撑差异化。
+- 股东回报：中期股息每股 1.4 港仙（同比 +30%），派息力度提升；每股基本盈利 3.11 分。
+
+> 来源：[[2026-08-22_A1_cabbeen_副线渠道股息.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

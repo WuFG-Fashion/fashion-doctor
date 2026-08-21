@@ -8,9 +8,9 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -102,3 +102,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - 8-13~8-15 北京西单大悦城 3F 新装开业 + 金山万达焕新（全场 9 折）——一线商圈渠道加密。
 - 子品牌 AW PROJECT 2024 线上 GMV 接近 3500 万（轻奢试错，测试高端价格带）。
 - 信息链：[[2026-08-21_A1_ariose_years_价格带与西单新装]] → 本页（ariose_years 实体）→ 下游：[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- 门店口径冲突：1800 家（百度百科 2026-03，官方/直营口径，RAG 主数）vs 2800 家（爱企查市场页，疑似含全渠道）——非硬矛盾，统计边界差异。
+- 母公司更名：杭州爱唯服饰有限公司于 2025-12-17 更名为杭州爱唯时尚集团有限公司。
+- AW PROJECT：2024-09 推出的轻奢设计师品牌，2024 线上 GMV 近 3500 万，借主品牌供应链/渠道复用。
+
+> 来源：[[2026-08-22_A1_ariose_years_门店口径与母公司.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

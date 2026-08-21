@@ -1100,6 +1100,25 @@ updated: 2026-08-21
 - 覆盖品牌（无新增·记录跳过）：adlv / awoken_space / awoken_time
 - 实体回链 9 篇；kb_benchmarks `cabbeen` 已回填售罄率/会员/折扣/门店净减/渠道结构；价格带概念页回链 4 品牌；修复历史断链 2 处（[[2am]]→[[two_am]]、[[sell_through_rate]]→[[sell_through_examination_standard_2026]]）。
 
+## A1 轮新增（2026-08-22 · 分组A1·品牌主体全维度）
+
+> 固定分组 12 品牌，以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。
+
+### 来源页（wiki/sources · 10 篇 NEW，均含结论+信息链+双链+confidence+brand_specific）
+- [[2026-08-22_A1_adlv_2026联名矩阵]]（品牌自宣：海绵宝宝 SS2026 完整系列 + LINE FRIENDS 15 周年 + 泰国演员 set）
+- [[2026-08-22_A1_ariose_years_门店口径与母公司]]（第三方数据：门店 1800 vs 2800 口径冲突 + 母公司 2025-12 更名 + AW PROJECT GMV）
+- [[2026-08-22_A1_cabbeen_副线渠道股息]]（财报：卡宾都市 28.6% + 线上+12.3%/线下+4.7% + 设计工作室 + 股息 1.4 港仙）
+- [[2026-08-22_A1_chuu_代言人营销失败分析]]（媒体估算：赵露思首位全球代言但未破圈，版型/质量限制转化）
+- [[2026-08-22_A1_crocs_中国增速回落与平替围剿]]（财报：Q1 9.21 亿/-1.7%，中国 70%+→约20%，29.9 元平替围剿）
+- [[2026-08-22_A1_dekashell_母公司与省域门店]]（媒体估算：杭州佰加服饰 + 省域加盟约 290 vs 全渠道 600+ 口径）
+- [[2026-08-22_A1_dickies_wind_and_sea_fw26]]（官方公告：WIND AND SEA × Dickies FW2026 联名 08-15 发售）
+- [[2026-08-22_A1_diesel_D-ONE价格与印尼pop-up]]（品牌自宣：D-ONE 手袋 HKD 5,200–9,700 + 印尼 pop-up + Jewellery）
+- [[2026-08-22_A1_dkny_上海首店与中国战略]]（官方公告：上海淮海路 Lady Huaihai 中国首店 245㎡ + G-III 中国战略）
+- [[2026-08-22_A1_ellesse_Smiley与Garfield_campaign]]（品牌自宣：Smiley 联名 Rave 文化 + Garfield FW2026 campaign + 价格带细化）
+- 覆盖品牌（有新增）：adlv / ariose_years / cabbeen / chuu / crocs / dekashell / dickies / diesel / dkny / ellesse
+- 覆盖品牌（无新增·记录跳过）：awoken_space（检索返回瑜伽馆/CBD/书店等非服装品牌，副线无有效信号） / awoken_time（武汉潮流集合店信号静态，无重大新增）
+- 实体回链 10 篇（adlv/ariose/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）；概念回链：[[服装行业竞争格局]]（10 源）、[[服装价格带管理与价格真空区]]（ellesse）、[[品牌墙概念与代理模式]]（dkny）；孤岛 0。
+
 ## A3 轮新增（2026-08-19 · 分组A3·品牌主体全维度）
 
 > 固定分组 12 品牌（mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am），以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。

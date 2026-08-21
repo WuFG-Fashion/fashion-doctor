@@ -6,9 +6,9 @@ aliases:
   - "韩国chuu"
   - "chuu女装"
 tags: [chuu, competitor, womenswear, korean_wave, fast_fashion, focus_brand, brand_wall]
-sources: [2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本.md, 品牌墙图_2026-08-14, 2026-08-15_R4_CHUU_2026退潮样本]
+sources: [2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本.md, 品牌墙图_2026-08-14, 2026-08-15_R4_CHUU_2026退潮样本, 2026-08-22_A1_chuu_代言人营销失败分析.md]
 created: 2026-08-14
-updated: 2026-08-21
+updated: 2026-08-22
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本]], [[2026-08-17_chuu_赵露思代言活动与加盟模式]]
 ---
 
@@ -88,3 +88,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 8-13 上线 2026 秋季系列（"Be Your Own CHUU"）+ 赵露思亲签营销（满 1109 元抽签）——延续代言人深度绑定。
 - 行业图鉴（搜狐）：2026 辣妹赛道拥挤度上升——rolarola 8 月杭州 in77 首店、W.Management 40+ 店/近 30 城快速扩张、Subdued 深圳快闪，CHUU 面临韩系/本土/欧美三方新晋分流。
 - 信息链：[[2026-08-21_A1_chuu_秋季系列与辣妹赛道图鉴]] → 本页（chuu 实体）→ 下游：[[服装行业竞争格局]]、[[no_one_else]]
+
+
+## A1轮全维度采集织入（2026-08-22）
+
+- 2026-01-01 官宣赵露思首位全球代言人（解约风波后首代言），带动曝光但「快时尚无法靠代言人起飞」。
+- 转化受限根因：版型（上衣太短裤子太大）/质量（土潮、性价比低）争议未解，主视觉被评「不高级」。
+- 赵露思 2026 商业价值断层第一（10+ 代言/RDD/ROSE AMIGO/ALO），但个人势能未反哺 CHUU。
+
+> 来源：[[2026-08-22_A1_chuu_代言人营销失败分析.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
