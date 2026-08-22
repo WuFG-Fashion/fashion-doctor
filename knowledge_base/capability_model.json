@@ -2,12 +2,60 @@
   "version": 1,
   "description": "导购能力模型配置（自生长：改此文件即生效，复用 300s TTL 缓存）。维度/阈值/严重度/画像词/方法动作/团队建议全部外置，代码退化为纯执行引擎。",
   "dimensions": [
-    {"key": "动销率", "label": "动销力", "unit": "%", "in_radar": true, "in_advice": true, "in_persona": true, "pb_exclusive": false},
-    {"key": "客单件", "label": "联单力", "unit": "件", "in_radar": true, "in_advice": true, "in_persona": true, "pb_exclusive": false},
-    {"key": "客单价", "label": "大单力", "unit": "元", "in_radar": true, "in_advice": false, "in_persona": false, "pb_exclusive": false},
-    {"key": "TOP10关联率", "label": "爆品力", "unit": "%", "in_radar": true, "in_advice": true, "in_persona": true, "pb_exclusive": false},
-    {"key": "高价值占比", "label": "高价力", "unit": "%", "in_radar": true, "in_advice": true, "in_persona": true, "pb_exclusive": false},
-    {"key": "复购率", "label": "复购力", "unit": "%", "in_radar": true, "in_advice": true, "in_persona": true, "pb_exclusive": true}
+    {
+      "key": "动销率",
+      "label": "动销力",
+      "unit": "%",
+      "in_radar": true,
+      "in_advice": true,
+      "in_persona": true,
+      "pb_exclusive": false
+    },
+    {
+      "key": "客单件",
+      "label": "联单力",
+      "unit": "件",
+      "in_radar": true,
+      "in_advice": true,
+      "in_persona": true,
+      "pb_exclusive": false
+    },
+    {
+      "key": "客单价",
+      "label": "大单力",
+      "unit": "元",
+      "in_radar": true,
+      "in_advice": false,
+      "in_persona": false,
+      "pb_exclusive": false
+    },
+    {
+      "key": "TOP10关联率",
+      "label": "爆品力",
+      "unit": "%",
+      "in_radar": true,
+      "in_advice": true,
+      "in_persona": true,
+      "pb_exclusive": false
+    },
+    {
+      "key": "高价值占比",
+      "label": "高价力",
+      "unit": "%",
+      "in_radar": true,
+      "in_advice": true,
+      "in_persona": true,
+      "pb_exclusive": false
+    },
+    {
+      "key": "复购率",
+      "label": "复购力",
+      "unit": "%",
+      "in_radar": true,
+      "in_advice": true,
+      "in_persona": true,
+      "pb_exclusive": true
+    }
   ],
   "team_model": {
     "gmv_min": 5000,
@@ -18,7 +66,11 @@
     "qty": 0.3
   },
   "severity": {
-    "labels": {"high": "高警", "medium": "中警", "low": "低警"},
+    "labels": {
+      "high": "高警",
+      "medium": "中警",
+      "low": "低警"
+    },
     "high_multiplier": 2.5
   },
   "repurchase": {
@@ -29,12 +81,24 @@
   "persona_thr": 3,
   "persona_verbs": {
     "_doc": "能力 tip（学她）现在从 method_library[label][0].steps 前 max_steps 步生成，与 catchup_roadmap 同源。每个 in_persona=true 的 dimension 必须在 method_library 中有至少 1 个 step，否则 P4 健康检查告警。",
-    "动销力": {"verb": "动销引擎"},
-    "联单力": {"verb": "连带高手"},
-    "大单力": {"verb": "大单专家"},
-    "爆品力": {"verb": "爆品推手"},
-    "高价力": {"verb": "高价说服者"},
-    "复购力": {"verb": "复购经营家"}
+    "动销力": {
+      "verb": "动销引擎"
+    },
+    "联单力": {
+      "verb": "连带高手"
+    },
+    "大单力": {
+      "verb": "大单专家"
+    },
+    "爆品力": {
+      "verb": "爆品推手"
+    },
+    "高价力": {
+      "verb": "高价说服者"
+    },
+    "复购力": {
+      "verb": "复购经营家"
+    }
   },
   "persona_templates": {
     "全面领先型": "爆品推销+高价值转化双轮领先",
@@ -46,33 +110,306 @@
   "method_library": {
     "_doc": "唯一来源：明星画像的学她提示（引擎取每个 label 首条 steps 前 max_steps 步）；追赶路线图同名维度也用本库。三类消费者共用同一份配置，避免双份维护。",
     "动销力": [
-      {"id": "dx1", "scenario": "提升全店款色动销覆盖", "steps": ["每天花5分钟熟悉全店主推款", "建立'主推款-卖点'速查卡，晨会抽考"], "source_playbook": "导购能力提升打法.md"}
+      {
+        "id": "dx1",
+        "scenario": "提升全店款色动销覆盖",
+        "steps": [
+          "每天花5分钟熟悉全店主推款",
+          "建立'主推款-卖点'速查卡，晨会抽考"
+        ],
+        "source_playbook": "导购能力提升打法.md"
+      }
     ],
     "联单力": [
-      {"id": "lx1", "scenario": "养成每单必搭习惯", "steps": ["'试衣间再加一件'话术刻意练习", "晨会宣布今日搭配目标并跟踪"], "source_playbook": "导购培训SOP.md"}
+      {
+        "id": "lx1",
+        "scenario": "养成每单必搭习惯",
+        "steps": [
+          "'试衣间再加一件'话术刻意练习",
+          "晨会宣布今日搭配目标并跟踪"
+        ],
+        "source_playbook": "导购培训SOP.md"
+      }
     ],
     "爆品力": [
-      {"id": "bp1", "scenario": "主推款推销强化", "steps": ["每周记3个主推款FAB卖点", "用上周真实拒买案例复盘话术"], "source_playbook": "导购能力提升打法.md"}
+      {
+        "id": "bp1",
+        "scenario": "主推款推销强化",
+        "steps": [
+          "每周记3个主推款FAB卖点",
+          "用上周真实拒买案例复盘话术"
+        ],
+        "source_playbook": "导购能力提升打法.md"
+      }
     ],
     "高价力": [
-      {"id": "hg1", "scenario": "打破怕推贵心理", "steps": ["用面料工艺话术建立价值感", "消费升级场景引导练习"], "source_playbook": "导购培训SOP.md"}
+      {
+        "id": "hg1",
+        "scenario": "打破怕推贵心理（全局兜底，正常由 brand_method_library 接管）",
+        "steps": [
+          "结合本品牌高价段货品讲清价值差异",
+          "用场景化穿搭引导顾客理解溢价"
+        ],
+        "source_playbook": "导购培训SOP.md"
+      }
     ],
     "复购力": [
-      {"id": "fp1", "scenario": "VIP 复购经营", "steps": ["高价值顾客转会员复购动作（见会员复购率提升策略）", "下班前记VIP，3天内发新品推荐"], "source_playbook": "导购培训SOP.md"}
+      {
+        "id": "fp1",
+        "scenario": "VIP 复购经营",
+        "steps": [
+          "高价值顾客转会员复购动作（见会员复购率提升策略）",
+          "下班前记VIP，3天内发新品推荐"
+        ],
+        "source_playbook": "导购培训SOP.md"
+      }
     ]
+  },
+  "brand_method_library": {
+    "_doc": "品牌级方法库 — 取代原全局唯一 method_library。学她提示 / 追赶路线 / PDCA 行动均优先取本库（按 brand_id：pb_male/pb_female/cabbeen），缺品牌项时回退上方全局 method_library。每个品牌按客群与货品定位写差异化 scenario+steps，消灭'所有品牌同一句面料工艺话术'的千人一面。",
+    "pb_female": {
+      "动销力": [
+        {
+          "id": "dx_f",
+          "scenario": "全店女装主推款色快速覆盖",
+          "steps": [
+            "每日晨会抽3款当季主推，背熟'版型修饰+面料'卖点",
+            "对到店客先做主推款试穿再推其他"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "联单力": [
+        {
+          "id": "lx_f",
+          "scenario": "上下装+配饰三件搭",
+          "steps": [
+            "'上衣+下装+配饰'三件搭刻意练习，目标客单件≥2.6",
+            "晨会公布今日搭配目标并跟踪达成"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "大单力": [
+        {
+          "id": "dd_f",
+          "scenario": "高客单成套推荐",
+          "steps": [
+            "用'整套穿搭省心'话术推高客单组合",
+            "记录高客单顾客偏好，二销时精准加推"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "爆品力": [
+        {
+          "id": "bp_f",
+          "scenario": "主推款/爆款推销强化",
+          "steps": [
+            "每周记3个TOP10款色FAB卖点",
+            "用上周真实拒买案例复盘话术"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "高价力": [
+        {
+          "id": "hg_f",
+          "scenario": "打破怕推贵，建立穿搭价值感",
+          "steps": [
+            "用'面料质感+版型修饰身形'话术建立价值感",
+            "通勤/约会场景化穿搭引导，让溢价有理由"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "复购力": [
+        {
+          "id": "fp_f",
+          "scenario": "VIP 会员经营",
+          "steps": [
+            "高价值顾客转会员，建偏好档案",
+            "下班前记VIP，3天内发新品/到货推荐"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ]
+    },
+    "pb_male": {
+      "动销力": [
+        {
+          "id": "dx_m",
+          "scenario": "男装主推款快速覆盖",
+          "steps": [
+            "每日5分钟熟悉全店主推，建'主推款-示例'速查卡",
+            "晨会抽考主推款话术"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "联单力": [
+        {
+          "id": "lx_m",
+          "scenario": "商务通勤一站式搭配",
+          "steps": [
+            "'衬衫+针织+裤装'成套搭刻意练习",
+            "用'一站式搞定形象'话术推多件"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "大单力": [
+        {
+          "id": "dd_m",
+          "scenario": "高客单形象投资",
+          "steps": [
+            "用'商务形象投资'话术推高客单",
+            "记录顾客尺码偏好，二销精准加推"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "爆品力": [
+        {
+          "id": "bp_m",
+          "scenario": "爆款推销强化",
+          "steps": [
+            "每周记3个主推款FAB卖点",
+            "用真实拒买案例复盘话术"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "高价力": [
+        {
+          "id": "hg_m",
+          "scenario": "科技/机能面料价值塑造",
+          "steps": [
+            "用'科技面料+商务场合形象'故事建立价值感",
+            "男士理容式一站式搭配提升客单与溢价认知"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "复购力": [
+        {
+          "id": "fp_m",
+          "scenario": "VIP 经营",
+          "steps": [
+            "高价值顾客转会员",
+            "3天内发新品推荐"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ]
+    },
+    "cabbeen": {
+      "动销力": [
+        {
+          "id": "dx_c",
+          "scenario": "潮牌主推款色覆盖",
+          "steps": [
+            "每日熟悉主推潮款，背'设计师故事+街头元素'卖点",
+            "晨会抽考主推款话术"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "联单力": [
+        {
+          "id": "lx_c",
+          "scenario": "走秀款+基础款混搭",
+          "steps": [
+            "'走秀款+基础款'混搭刻意练习",
+            "潮玩/配件加成推多件"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "大单力": [
+        {
+          "id": "dd_c",
+          "scenario": "限量/联名高客单",
+          "steps": [
+            "用'限量稀缺'话术推高客单组合",
+            "记录潮客偏好，二销精准加推"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "爆品力": [
+        {
+          "id": "bp_c",
+          "scenario": "爆款推销",
+          "steps": [
+            "每周记3个主推款FAB卖点",
+            "用真实拒买案例复盘话术"
+          ],
+          "source_playbook": "导购能力提升打法.md"
+        }
+      ],
+      "高价力": [
+        {
+          "id": "hg_c",
+          "scenario": "潮牌溢价价值塑造",
+          "steps": [
+            "用'设计师联名/街头文化故事+限量稀缺'建立价值感",
+            "潮流态度表达而非功能堆砌，让溢价有态度"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ],
+      "复购力": [
+        {
+          "id": "fp_c",
+          "scenario": "VIP 经营",
+          "steps": [
+            "高价值顾客转会员",
+            "3天内发新品/到货推荐"
+          ],
+          "source_playbook": "导购培训SOP.md"
+        }
+      ]
+    }
+  },
+  "persona_value_templates": {
+    "_doc": "学她价值话术 lead（自生长）：占位符 {dim}{val}{gap}{brand} 由引擎用每人真实数据填充。每个 in_persona 维度必须有一条，否则回退 _default。改模板即全站生效，无需改代码。lead 只做事实陈述，可学点由引擎用本人真实指标 vs 团队均值生成（纯数据对比，无通用培训文案）。",
+    "动销力": "她是「动销力」标杆：款色动销率 {val}%，比团队高 {gap}%，是 {brand} 全店铺货效率的引擎。",
+    "联单力": "她是「联单力」标杆：{val} 件/单、比团队高 {gap} 件，是 {brand} 连带提升的样板。",
+    "大单力": "她是「大单力」标杆：客单价 {val} 元领先团队，是 {brand} 高客单突破的代表。",
+    "爆品力": "她是「爆品力」标杆：TOP10关联率 {val}%、比团队高 {gap}%，是 {brand} 主推款推销的核心推手。",
+    "高价力": "她是「高价力」标杆：高价值占比 {val}%、比团队高 {gap}%，是 {brand} 高价段转化的头号人物。",
+    "复购力": "她是「复购力」标杆：复购率 {val}%、比团队高 {gap}%，是 {brand} 会员经营的标杆。",
+    "_default": "她是「{dim}」标杆：领先团队 {gap}，是 {brand} 该能力的代表。"
   },
   "team_actions": {
     "_doc": "团队执行动作不再字面维护 — 改由 wiki/playbooks/*.md 中 '## 团队节奏' 段抽取。改 playbook 即生效（300s TTL）。",
     "source": "playbooks",
-    "tag_filter": ["team_action", "组织能力", "导购培养"],
+    "tag_filter": [
+      "team_action",
+      "组织能力",
+      "导购培养"
+    ],
     "section_match": "团队节奏",
     "row_format": "title | 频次 | 谁负责 | 一句话动作",
     "max": 6,
     "fallback_actions": [
-      {"title": "能力分享会", "desc": "TOP3 每月主讲最强项（30min分享+15min答疑）"},
-      {"title": "影子学习", "desc": "非TOP3 每月至少 2 次TOP3 实战观摩"},
-      {"title": "能力打卡", "desc": "晨会每人宣布一个今日刻意练习的维度"},
-      {"title": "数据追踪", "desc": "每周更新数据，关注与TOP3 差距最大 1-2 项变化"}
+      {
+        "title": "能力分享会",
+        "desc": "TOP3 每月主讲最强项（30min分享+15min答疑）"
+      },
+      {
+        "title": "影子学习",
+        "desc": "非TOP3 每月至少 2 次TOP3 实战观摩"
+      },
+      {
+        "title": "能力打卡",
+        "desc": "晨会每人宣布一个今日刻意练习的维度"
+      },
+      {
+        "title": "数据追踪",
+        "desc": "每周更新数据，关注与TOP3 差距最大 1-2 项变化"
+      }
     ]
   },
   "brand_overrides": {
