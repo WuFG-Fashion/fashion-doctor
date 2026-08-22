@@ -59,12 +59,20 @@
       {"id": "fp1", "scenario": "VIP 复购经营", "steps": ["高价值顾客转会员复购动作（见会员复购率提升策略）", "下班前记VIP，3天内发新品推荐"], "source_playbook": "导购培训SOP.md"}
     ]
   },
-  "team_actions": [
-    {"title": "能力分享会", "desc": "TOP3 每月主讲最强项（30min分享+15min答疑）"},
-    {"title": "影子学习", "desc": "非TOP3 每月至少 2 次 TOP3 实战观摩"},
-    {"title": "能力打卡", "desc": "晨会每人宣布一个今日刻意练习的维度"},
-    {"title": "数据追踪", "desc": "每周更新数据，关注与 TOP3 差距最大 1-2 项变化"}
-  ],
+  "team_actions": {
+    "_doc": "团队执行动作不再字面维护 — 改由 wiki/playbooks/*.md 中 '## 团队节奏' 段抽取。改 playbook 即生效（300s TTL）。",
+    "source": "playbooks",
+    "tag_filter": ["team_action", "组织能力", "导购培养"],
+    "section_match": "团队节奏",
+    "row_format": "title | 频次 | 谁负责 | 一句话动作",
+    "max": 6,
+    "fallback_actions": [
+      {"title": "能力分享会", "desc": "TOP3 每月主讲最强项（30min分享+15min答疑）"},
+      {"title": "影子学习", "desc": "非TOP3 每月至少 2 次TOP3 实战观摩"},
+      {"title": "能力打卡", "desc": "晨会每人宣布一个今日刻意练习的维度"},
+      {"title": "数据追踪", "desc": "每周更新数据，关注与TOP3 差距最大 1-2 项变化"}
+    ]
+  },
   "brand_overrides": {
     "cabbeen": {}
   }
