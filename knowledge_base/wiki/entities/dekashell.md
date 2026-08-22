@@ -5,9 +5,9 @@ aliases:
   - "迪卡轩"
   - "DEKASHELL"
 tags: [dekashell, competitor, womenswear, light_elegant, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证, 2026-08-22_A1_dekashell_母公司与省域门店.md]
+sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证, 2026-08-22_A1_dekashell_母公司与省域门店.md, 2026-08-23_A1_dekashell_2026三季系列命名.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_迪卡轩品牌档案]]
 ---
 
@@ -108,3 +108,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 线上双旗舰：京东（通勤套装）+ 天猫（法式首发/博主联名/珍珠蕾丝）。
 
 > 来源：[[2026-08-22_A1_dekashell_母公司与省域门店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- 2026 三季系列命名：春「无界映像 BOUNDLESS REFLECTIONS」（Imke Ligthart 联名）→ 夏「自然回响」→ 秋「延伸自我」，形成全年主题叙事链。
+- 定位轻淑女装（light-elegant），"Style by Me"，25–38 岁都市新女性，珍珠元素 + 法式优雅。
+- 渠道：全国 30 省 600+ 店（第三方 corroborate 600–800）；加盟轻投入（9–15 万加盟费 / 19.6 万起投资）快速铺量。
+- 价格带：春夏 179–1299 元 / 秋冬 239–2599 元中高档。
+
+> 来源：[[2026-08-23_A1_dekashell_2026三季系列命名.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

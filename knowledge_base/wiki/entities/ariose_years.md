@@ -8,9 +8,9 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -122,3 +122,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - AW PROJECT：2024-09 推出的轻奢设计师品牌，2024 线上 GMV 近 3500 万，借主品牌供应链/渠道复用。
 
 > 来源：[[2026-08-22_A1_ariose_years_门店口径与母公司.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- AW PROJECT 重奢拓店清单：上海港汇恒隆首店首日破 60 万、北京 SKP / 深圳万象城 / 南京德基（品牌自宣口径）。
+- 第二曲线定位轻奢设计师线（2024-09 推出），对标国际奢牌面料，客群 30–45 岁高净值女性。
+- 母公司杭州爱唯时尚集团（2025-12-17 更名）多品牌矩阵成型（主品牌 + AW PROJECT + RicoVea）。
+- 主品牌基线 1,800+ 店 / 年销约 50 亿（第三方 media corroborate，品牌自宣+第三方 corroboration）。
+
+> 来源：[[2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

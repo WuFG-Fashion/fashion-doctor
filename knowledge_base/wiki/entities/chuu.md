@@ -6,9 +6,9 @@ aliases:
   - "韩国chuu"
   - "chuu女装"
 tags: [chuu, competitor, womenswear, korean_wave, fast_fashion, focus_brand, brand_wall]
-sources: [2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本.md, 品牌墙图_2026-08-14, 2026-08-15_R4_CHUU_2026退潮样本, 2026-08-22_A1_chuu_代言人营销失败分析.md]
+sources: [2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本.md, 品牌墙图_2026-08-14, 2026-08-15_R4_CHUU_2026退潮样本, 2026-08-22_A1_chuu_代言人营销失败分析.md, 2026-08-23_A1_chuu_城市门店数与客单价验证.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本]], [[2026-08-17_chuu_赵露思代言活动与加盟模式]]
 ---
 
@@ -105,3 +105,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 赵露思 2026 商业价值断层第一（10+ 代言/RDD/ROSE AMIGO/ALO），但个人势能未反哺 CHUU。
 
 > 来源：[[2026-08-22_A1_chuu_代言人营销失败分析.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- 城市门店粒度：上海约 18 家 / 深圳约 10 家 / 杭州约 8 家（中高端商场），全国 2026 初超 300 家，一线密度最高。
+- 客单价约 500 元（媒体估算），核心客群 18–28 岁女性、学生党价格敏感。
+- 赵露思 2026-01-01 全球代言带动曝光但未破圈，最热同款 179 元内搭 T 恤，满赠千元门槛错位。
+- 退潮信号：版型（上衣太短/裤过长过窄）+ 质量争议持续，rolarola/W.Management/Subdued 新品牌分流。
+
+> 来源：[[2026-08-23_A1_chuu_城市门店数与客单价验证.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

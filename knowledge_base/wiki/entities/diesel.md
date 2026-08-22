@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -84,3 +84,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 从丹宁向高毛利配件延伸，抬升客单与毛利率。
 
 > 来源：[[2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- 在华 20 周年（2025-10）上海设新总部；大中华区 113 家直营店（集团口径估算），中国为核心阵地。
+- Unicorn 行李授权（2026-01 起，5 年）从丹宁向高毛利配件延伸（品牌自宣）。
+- x Tinder Pride 2026「For Successful Loving」捐 Outright 20 万美元，价值观营销。
+- D-ONE 手袋（2026 秋冬）香港/新加坡 HKD 5,200–9,700，客单抬升。
+
+> 来源：[[2026-08-23_A1_diesel_在华20周年与Unicorn授权.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

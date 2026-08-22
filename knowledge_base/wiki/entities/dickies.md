@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]]
 ---
 
@@ -87,3 +87,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 设计：当代日本街头文化 × Dickies 自 1922 年工装传承，功能与风格融合。
 
 > 来源：[[2026-08-22_A1_dickies_wind_and_sea_fw26.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- 资本易主：VF 将 Dickies 以约 6 亿美元现金出售 Bluestar Alliance（官方公告）；Bluestar 组合零售 130 亿美元+。
+- 中国主授权：UTG 自 2025-11-12 起获 Dickies 中国区主授权（授权公告）。
+- x Harley-Davidson「Built to Outlast」联名（2026-04-22）强化工装×机车硬核基因。
+- 后 VF 时代以"资本易主 + 高频联名"维持工装潮牌心智，慢上新本质未变。
+
+> 来源：[[2026-08-23_A1_dickies_Bluestar收购与Harley联名.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
