@@ -10,7 +10,7 @@ sources: [36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137�
 created: 2026-08-16
 updated: 2026-08-16
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[brand_portfolio_tiers_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[brand_portfolio_tiers_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]]
 ---
 
 # 36品牌风险信号汇总（2026 S轮合成）
@@ -62,7 +62,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [
 | 品牌 | 信号 | 置信度 |
 |------|------|--------|
 | [[chuu]] | 从现象级到退潮：客流下滑、版型/品控争议、赵露思代言未破圈、新韩牌围剿 | 媒体估算 |
-| [[nerdy]] / [[no_one_else]] / [[adlv]] | 同属韩潮快时尚/偶像驱动，共享"年抛"退潮风险敞口 | 媒体估算 |
+| [[nerdy]] / [[no_one_else]] / [[adlv]] | 同属韩潮快时尚/偶像驱动，共享"年抛"退潮风险敞口；**NERDY 已于 2025-08 更名 NDY 切割负面资产（代理纠纷/售假争议余波）**，见 [[2026-08-23_A3_nerdy_更名NDY与韩国现状]] | 媒体估算 |
 
 **模式**：韩潮快时尚的退潮不是个案而是品类周期——"流量能捧红、留不住消费者"；对照组 [[mlb]] 靠 IP 深度幸免。本土品牌（太平鸟 LEDIN -22.02% 已现同类信号）应以此为预警。
 

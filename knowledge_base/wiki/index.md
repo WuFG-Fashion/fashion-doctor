@@ -1217,3 +1217,31 @@ updated: 2026-08-21
 - ⚠️ 数据矛盾 1 处：太平鸟营收口径（营销软文 87.16 亿/23.89 亿 vs 财报 2025FY 63.34 亿/2026Q1 16.56 亿）——判为口径混乱，**营收一律以财报为准**，会员指标仅作方向性佐证（已标注于 source 与实体页）
 - ℹ️ 基准核对 5 处（非矛盾）：太平鸟复购 41% vs 行业优秀 28%（分层口径差异）/ 兑换率 20-30% vs 积分负债 3-5%（不同指标）/ 波段库销比 3-5 vs 存销比 4.5-5.5（互证）/ 波段折扣 <20% vs 卡宾全季 27.9%（口径差异）/ 货品结构 vs SKU ABC（不同维度）
 - ℹ️ L3 同步 3 处（会员复购分析/导购培训体系/波段上货节奏）；织网：10 源出链 30+ 条双向（含 3 品牌实体回链）
+
+---
+
+## 2026-08-23 · A3轮（品牌主体全维度·增量核验）
+
+> 本轮承接 2026-08-22 07:27 A3 遗留（3 源已写入未登记/未提交），并完成本组 12 品牌增量核验：4 品牌有新增写入（peacebird 盈利质量深挖 / nerdy 更名 NDY / nautica Champion 联名 / speedo 亚运窗口），8 品牌显式核对无新增（salomon/tommy_hilfiger/trussardi/mr_mrs/the_mr_young/no_one_else/thisisizi8/two_am）。双核 peacebird 优先。
+
+### 来源页（承接 08-22 遗留 · 3 篇 NEW，均含结论+信息链+confidence+brand_specific）
+- [[2026-08-22_A3_peacebird_2026门店净增长指引与股权激励]]（官方公告：全年门店净增长指引 + 激励目标 ≥+50% vs 2023 + 存货跌价 1.04 亿）
+- [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]]（官方公告/财报：618 表现 + 301 关税冲击）
+- [[2026-08-22_A3_trussardi_退出俄罗斯市场]]（官方公告：2026-04 退出俄市场、T.R.S. Distribution 清盘 2025 完成）
+
+### 来源页（本轮新增 · 4 篇 NEW，均含结论+信息链+confidence+brand_specific）
+- [[2026-08-23_A3_peacebird_盈利质量深挖_Q2亏损与研发收缩]]（财报：Q2 单季亏 3492 万/非经常性损益占半壁/研发 -20.43%/现金流转正/弱化大众化/2-5-10 战略）
+- [[2026-08-23_A3_nerdy_更名NDY与韩国现状]]（第三方数据：2025-08 NERDY→NDY 改名/韩国 10 店/韩流回归窗口）
+- [[2026-08-23_A3_nautica_Champion秋季联名]]（品牌自宣：Nautica×Champion 2026 秋 7 款/NTC 学院徽章）
+- [[2026-08-23_A3_speedo_亚运窗口与张展硕官宣]]（官方公告：张展硕入 Team Speedo/名古屋亚运 30 天倒计时/CHIIKAWA 第二弹成人款/星之卡比）
+
+### 实体页（4 篇 UPDATED）
+- [[peacebird]]（+2026-08-23 盈利质量深挖小节：Q2 亏损/研发收缩/现金流转正/2-5-10 战略）
+- [[nerdy]]（+更名 NDY 小节 + aliases 增补 NDY + cross_refs 增 brand_risk_signals_2026）
+- [[nautica]]（+Champion 联名小节 + cross_refs 增 tommy_hilfiger）
+- [[speedo]]（+亚运窗口小节 + cross_refs 增 tommy_hilfiger）
+
+### 本轮矛盾与核对
+- ⚠️ 数据矛盾 0 处（新增）
+- ℹ️ 基准核对 4 处（非矛盾）：peacebird Q2 亏损 3492 万与 08-01 源一致 / 研发 -20.43% 与 08-09 源一致 / nerdy 退潮轨迹与 08-19 源一致 / speedo 张展硕签约与 08-19 源一致
+- ℹ️ 显式无新增 8 品牌：salomon（08-21 已覆盖 H1 汇总/指引/315 店）、tommy_hilfiger（08-21/08-22 已覆盖 Q2 8.92 亿/PVH 指引）、trussardi（08-19/08-21 已覆盖海港城重开/11 店/Racca 访谈）、mr_mrs、the_mr_young、no_one_else、thisisizi8、two_am（探针无有效新信号）

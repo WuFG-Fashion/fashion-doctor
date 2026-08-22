@@ -5,12 +5,13 @@ aliases:
   - "NERDY"
   - "널디"
   - "纳迪"
+  - "NDY"
   - "NERDY 紫色运动服"
-tags: [nerdy, competitor, streetwear, korean_wave, sportswear, china]
-sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_NERDY_武汉首店_中国扩张.md, 2026-08-19_A3_nerdy_全维度动态]
+tags: [nerdy, ndy, competitor, streetwear, korean_wave, sportswear, china]
+sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_NERDY_武汉首店_中国扩张.md, 2026-08-19_A3_nerdy_全维度动态, 2026-08-23_A3_nerdy_更名NDY与韩国现状.md]
 created: 2026-08-15
-updated: 2026-08-19
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nerdy_全维度动态]], [[thisisizi8]], [[服装价格带管理与价格真空区]]
+updated: 2026-08-23
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nerdy_全维度动态]], [[thisisizi8]], [[服装价格带管理与价格真空区]], [[brand_risk_signals_2026]]
 ---
 
 # NERDY (널디)
@@ -74,3 +75,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-19_A3_nerdy_全维度动态]] → 本页（[[nerdy]]）→ 下游应用：[[thisisizi8]] · [[服装价格带管理与价格真空区]]
 
+
+## 近期动态刷新（2026-08-23 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度增量核验，新增来源 [[2026-08-23_A3_nerdy_更名NDY与韩国现状]]。
+
+- **品牌更名（重大增量）**：**2025-08 品牌名由 NERDY 更改为 NDY**（Namu Wiki 词条同步改名，2026-08-05 最后修订）；标语 "Define Nothing. Be Everything."、签名"两条线"设计沿用（置信度：第三方数据）。
+- **韩国本土现状**：线下门店约 **10 家**（含百货）；2021 年销售额约 950 亿韩元；运营方 APR（置信度：第三方数据）。
+- **中国退潮延续**：2024-12 天猫旗舰店关闭、线下仅存个别门店（与 08-19 源"2025 仅杭州 1 处"一致）；代理纠纷（杭州呢滴/乐华杜华持股 15%）余波未清（置信度：媒体估算）。
+- **行业窗口**：2025-12 起韩流回归潮（MUSINSA STANDARD 上海首店 / 武汉恒隆 24KR 韩流街区 / rolAROLA 杭州首店 / JUUN.J 北京三里屯）——韩系品牌重新获得一线铺位，NDY 获重新入场窗口（置信度：媒体估算）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-23_A3_nerdy_更名NDY与韩国现状]] → 本页（[[nerdy]]）→ 下游应用：[[brand_risk_signals_2026]] · [[chuu]] · [[no_one_else]] · [[thisisizi8]]

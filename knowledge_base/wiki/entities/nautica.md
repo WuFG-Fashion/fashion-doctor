@@ -5,10 +5,10 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md]
 created: 2026-08-14
-updated: 2026-08-21
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]]
+updated: 2026-08-23
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]]
 ---
 
 # NAUTICA
@@ -83,3 +83,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[dickies]] · [[trussardi]]
 
+
+## 近期动态刷新（2026-08-23 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度增量核验，新增来源 [[2026-08-23_A3_nautica_Champion秋季联名]]。
+
+- **联名增量**：NAUTICA × Champion **2026 秋季联名系列**（7 款单品：T恤/卫衣/连帽衫/长裤）；设计将 NAUTICA 字母 "C" 融入 Champion Logo + "NTC" 学院徽章 + 橡胶印花复古工艺（置信度：品牌自宣）。
+- **策略解读**："美式品牌×美式品牌"符号拼接式联名，属 ABG 授权体系下低成本活力注入；与 [[tommy_hilfiger]]（PVH）的 IP 化联名（Peanuts/Cadillac F1）对照，反映母公司资源投入优先级差异（置信度：媒体估算）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-23_A3_nautica_Champion秋季联名]] → 本页（[[nautica]]）→ 下游应用：[[tommy_hilfiger]] · [[服装行业竞争格局]]
