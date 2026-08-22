@@ -6,9 +6,9 @@ aliases:
   - "唤醒时刻"
   - "AWOKEN"
 tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
-sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
 ---
 
@@ -63,3 +63,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[brand_risk_signals_2026|36品牌风险信号]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
+
+## A1轮全维度采集织入（2026-08-23）
+
+- 自有 IP「白猿宇宙」：武商梦时代 8.7 米白猿装置地标打卡，用空间叙事替代单纯卖货。
+- 武汉多店清单：梦时代（8.7 米白猿）/ 武商MALL 国广店（800㎡ 旗舰）/ 江宸天街 / 经开永旺 / 江夏永旺。
+- 外拓：襄阳武商 / 宜昌国贸 / 南昌武商已落店；上海泗泾招商花园城（2026 四季度）签约。
+- 模式：服装+时尚咖啡区+潮玩/生活用品，场景打卡+KOL 驱动到店（门店数/面积为商业地产媒体估算）。
+
+> 来源：[[2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

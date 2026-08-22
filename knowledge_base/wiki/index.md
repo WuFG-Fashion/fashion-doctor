@@ -1119,6 +1119,24 @@ updated: 2026-08-21
 - 覆盖品牌（无新增·记录跳过）：awoken_space（检索返回瑜伽馆/CBD/书店等非服装品牌，副线无有效信号） / awoken_time（武汉潮流集合店信号静态，无重大新增）
 - 实体回链 10 篇（adlv/ariose/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）；概念回链：[[服装行业竞争格局]]（10 源）、[[服装价格带管理与价格真空区]]（ellesse）、[[品牌墙概念与代理模式]]（dkny）；孤岛 0。
 
+## A1 轮新增（2026-08-23 · 分组A1·品牌主体全维度）
+
+> 固定分组 12 品牌，以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。
+
+### 来源页（wiki/sources · 9 篇 NEW，均含结论+信息链+双链+confidence+brand_specific）
+- [[2026-08-23_A1_crocs_2026H2联名营销矩阵与HEYDUDE]]（品牌自宣：BAPE×F1 Red Bull×TikTok Shop Super Brand Day 三连击 + HEYDUDE -5.7% + 中国双位数回落）
+- [[2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店]]（品牌自宣：AW PROJECT 港汇恒隆/北京SKP/深圳万象城/南京德基重奢拓店 + 母集团更名）
+- [[2026-08-23_A1_dekashell_2026三季系列命名]]（品牌自宣：无界映像/自然回响/延伸自我 三季系列 + 600+店加盟）
+- [[2026-08-23_A1_chuu_城市门店数与客单价验证]]（媒体估算：上海18/深圳10/杭州8店 + 客单价~500元 + 代言未破圈）
+- [[2026-08-23_A1_dickies_Bluestar收购与Harley联名]]（官方公告：VF→Bluestar ~6亿美元 + UTG中国主授权 + Harley「Built to Outlast」）
+- [[2026-08-23_A1_diesel_在华20周年与Unicorn授权]]（品牌自宣：在华20周年上海新总部 + Unicorn 5年行李授权 + Tinder Pride捐20万）
+- [[2026-08-23_A1_dkny_中国授权伙伴与上海首店运营]]（官方公告：G-III FY2026 29.6亿$ + 新中国授权伙伴 + 上海首店运营）
+- [[2026-08-23_A1_ellesse_Garfield全球战役量化]]（品牌自宣：Garfield ~3000万$三章全球战役 + Smiley + £22-120价格带）
+- [[2026-08-23_A1_awoken_time_白猿宇宙与多店清单]]（品牌自宣：白猿宇宙8.7米IP + 武汉4+店 + 外拓襄阳/宜昌/南昌/上海）
+- 覆盖品牌（有新增）：crocs / ariose_years / dekashell / chuu / dickies / diesel / dkny / ellesse / awoken_time
+- 覆盖品牌（无新增·记录跳过）：cabbeen（中报/AI试穿已全量入库，08-22实体页最新） / adlv（2026联名矩阵已08-22入库） / awoken_space（副线数据黑箱，无有效新信号）
+- 实体回链 9 篇（crocs/ariose/dekashell/chuu/dickies/diesel/dkny/ellesse/awoken_time）；概念回链：[[服装行业竞争格局]]、[[服装价格带管理与价格真空区]]（chuu/ellesse）、[[品牌墙概念与代理模式]]（dickies/dkny）；孤岛 0；矛盾 0 处（✅ 无矛盾）。
+
 ## A3 轮新增（2026-08-19 · 分组A3·品牌主体全维度）
 
 > 固定分组 12 品牌（mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am），以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。

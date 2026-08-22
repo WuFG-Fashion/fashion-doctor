@@ -4,9 +4,9 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -87,3 +87,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 价格带细化：官网 T 恤 £45–125/外套 £55–190/鞋 £75–115；京东夹克≈399、背心≈188、卫衣≈698。
 
 > 来源：[[2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23）
+
+- Andrew Garfield「Do It Like An Italian」全球战役（2026-06）三章结构、预算约 3,000 万美元（行业媒体估算）。
+- × Smiley（70s Rave）联名延续"表达性运动"；微笑登山帽 1,280 元。
+- 价格带（英国官网）：T 恤 £22–55 / 外套 £75–120（约 200–1,100 元，官方公告），中端运动时尚。
+- APAC 女装占比目标 40%→60%（2026-27 冬）；中国由百丽时尚运营。
+
+> 来源：[[2026-08-23_A1_ellesse_Garfield全球战役量化.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
