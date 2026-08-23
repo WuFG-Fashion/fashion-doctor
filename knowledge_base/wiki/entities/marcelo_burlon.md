@@ -9,7 +9,7 @@ aliases:
 tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina]
 sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-15
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -99,3 +99,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[marcelo_burlon]] 2026 为"授权换手 + 重启"样本，信号沉淀至 [[2026-08-22_A2_marcelo_burlon_全维度动态]]，与既有结论一致（streetwear 定位）。
 **信息链（刷新）**：[[2026-08-22_A2_marcelo_burlon_全维度动态]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]
+
+## 近期动态刷新（2026-08-23 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 11 品牌·品牌主体全维度）对 [[marcelo_burlon]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-23_A2_marcelo_burlon_全维度动态]]。
+
+- 领导层：Marcelo Burlon 卸任 Marcelo Burlon County of Milan 创意总监（2012 创立）；NGG 宣布此后由团队设计系列（置信度：媒体估算）。
+- 母公司不确定性：NGG（Farfetch 被 Coupang 救援）前景未明，Style Capital 拟收购（置信度：媒体估算）。
+- 法律噪音：EUIPO 案 T-276/26（2026-05）— Burlon v EUIPO 关于 COUNTY OF MILAN 商标（置信度：官方公告）。
+
+**结论（刷新）**：A2 轮确认 [[marcelo_burlon]] 的"主理人退出 + 平台母公司动荡"揭示潮牌主理人 IP 化模式脆弱性，与 [[mlb]]（制度化 IP 授权运营）形成"主理人驱动 vs 制度运营"对照；本轮补卸任与 NGG 资本动态。
+**信息链（刷新）**：[[2026-08-23_A2_marcelo_burlon_全维度动态]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[服装行业竞争格局]] / [[中国服装零售基准体系2026]]
+

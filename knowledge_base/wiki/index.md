@@ -1234,17 +1234,19 @@ updated: 2026-08-21
 - [[2026-08-23_A3_nerdy_更名NDY与韩国现状]]（第三方数据：2025-08 NERDY→NDY 改名/韩国 10 店/韩流回归窗口）
 - [[2026-08-23_A3_nautica_Champion秋季联名]]（品牌自宣：Nautica×Champion 2026 秋 7 款/NTC 学院徽章）
 - [[2026-08-23_A3_speedo_亚运窗口与张展硕官宣]]（官方公告：张展硕入 Team Speedo/名古屋亚运 30 天倒计时/CHIIKAWA 第二弹成人款/星之卡比）
+- [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]]（官方公告/品牌自宣：Jisoo 全球大使 + 纽约 Fifth Avenue 北美首店 + Epicenter 核心城市战略 + 美洲第五增长引擎；补 08-19/08-21 财务/门店源未覆盖的营销/国际化 facet）
 
-### 实体页（4 篇 UPDATED）
+### 实体页（5 篇 UPDATED）
 - [[peacebird]]（+2026-08-23 盈利质量深挖小节：Q2 亏损/研发收缩/现金流转正/2-5-10 战略）
 - [[nerdy]]（+更名 NDY 小节 + aliases 增补 NDY + cross_refs 增 brand_risk_signals_2026）
 - [[nautica]]（+Champion 联名小节 + cross_refs 增 tommy_hilfiger）
 - [[speedo]]（+亚运窗口小节 + cross_refs 增 tommy_hilfiger）
+- [[salomon]]（+2026-08-23 营销/国际化小节：Jisoo 大使/纽约首店/Epicenter 战略；补 08-19/08-21 财务门店角度）
 
 ### 本轮矛盾与核对
 - ⚠️ 数据矛盾 0 处（新增）
 - ℹ️ 基准核对 4 处（非矛盾）：peacebird Q2 亏损 3492 万与 08-01 源一致 / 研发 -20.43% 与 08-09 源一致 / nerdy 退潮轨迹与 08-19 源一致 / speedo 张展硕签约与 08-19 源一致
-- ℹ️ 显式无新增 8 品牌：salomon（08-21 已覆盖 H1 汇总/指引/315 店）、tommy_hilfiger（08-21/08-22 已覆盖 Q2 8.92 亿/PVH 指引）、trussardi（08-19/08-21 已覆盖海港城重开/11 店/Racca 访谈）、mr_mrs、the_mr_young、no_one_else、thisisizi8、two_am（探针无有效新信号）
+- ℹ️ 显式无新增 7 品牌（探针仅获已入库内容，未强行造页）：tommy_hilfiger（08-21/08-22 已覆盖 Q2 8.92 亿/PVH 指引）、trussardi（08-19/08-21 已覆盖海港城重开/11 店/Racca 访谈）、mr_mrs、the_mr_young、no_one_else、thisisizi8、two_am（探针无有效新信号）；salomon 本轮新增营销/国际化源（非财务重复）
 
 ---
 
@@ -1273,3 +1275,27 @@ updated: 2026-08-21
 ### 本轮矛盾与核对
 - ⚠️ 数据矛盾 0 处（新增）
 - ℹ️ 基准核对 2 处（非矛盾）：售空率（进货维度）vs 售罄率（上市维度）口径互补 / 动销率 80-90% 与 SKU 管理页 ABC 口径互补
+
+## 2026-08-23 · A2 轮（11 品牌全维度增量，10 篇新增）
+
+> A2 自动化（automation-1787122752688）对固定分组 11 品牌做品牌主体全维度增量采集；humble_humble_r 仅 26SS 社媒无重大新增、登记跳过。每条 source 均含 结论 + 信息链 + confidence + brand_specific:true。
+
+### 来源页（10 篇 NEW）
+- [[2026-08-23_A2_etudes_全维度动态]]（媒体估算：新CEO Brice Groulier+配饰占销售50%战略+美国扩张）
+- [[2026-08-23_A2_g_star_raw_全维度动态]]（官方公告：WHP Global 控股+可持续目标+Good On You「Good」）
+- [[2026-08-23_A2_hoka_one_one_全维度动态]]（财报：Deckers FY2026 Q1 HOKA $653.1M/+19.8%·中国>230店核心引擎）
+- [[2026-08-23_A2_karl_lagerfeld_全维度动态]]（财报：七匹狼2026H1预亏·KL中国净亏0.66亿/+142%）
+- [[2026-08-23_A2_king_baby_全维度动态]]（品牌自宣：OTD/Indian Motorcycle 联名+眼镜线）
+- [[2026-08-23_A2_lacoste_全维度动态]]（官方公告：新CEO Éric Vallat+€40亿目标+香港 Pedder 旗舰）
+- [[2026-08-23_A2_levis_全维度动态]]（财报：Q2 FY2026 $1.562B/+8%·DTC占51%·FY26指引上调）
+- [[2026-08-23_A2_marcelo_burlon_全维度动态]]（媒体估算：卸任CD+NGG/Farfetch-Coupang动荡）
+- [[2026-08-23_A2_mlb_全维度动态]]（财报：F&F 2026 H1累计9605亿+Q2分部+泰勒梅M&A进展）
+- [[2026-08-23_A2_mlb_kids_全维度动态]]（财报：Q2 韩国国内214亿/+20%·儿童节+包类）
+
+### 实体页（10 篇 UPDATED，插入 A2 全维度织入小节 + 回链）
+- [[etudes]] / [[g_star_raw]] / [[hoka_one_one]] / [[karl_lagerfeld]] / [[king_baby]] / [[lacoste]] / [[levis]] / [[marcelo_burlon]] / [[mlb]] / [[mlb_kids]]
+
+### 本轮矛盾与核对
+- ⚠️ 数据矛盾 0 处（新增）
+- ℹ️ 基准核对 4 处（etudes/g_star/lacoste 低置信或口径 + mlb Q2一致/H1层级，均非硬冲突）
+
