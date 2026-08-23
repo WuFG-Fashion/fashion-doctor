@@ -6,10 +6,10 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md]
 created: 2026-08-14
-updated: 2026-08-21
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]]
+updated: 2026-08-22
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]]
 ---
 
 # Tommy Hilfiger
@@ -40,6 +40,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 2. Tommy 品牌全球 +2.8%~+6%、中国 D2C 双位数，增速温和但稳健，毛利率 58.6% 高于多数大众休闲，体现'经典美式'溢价仍在。
 3. APAC +5.8% 恒定汇率但中国 D2C 双位数，暗示中国外的亚太（日韩等）拖累，区域分化明显，对 [[peacebird|太平鸟]] 出海亚太有参照。
 4. 数据风险：不同口径 Tommy 增速（+2.8% reported vs +6% 另源）须标注来源口径；PVH 集团含 Calvin Klein，品牌级数据需剥离。
+
+## 近期动态刷新（2026-08-22 · A3轮增量）
+
+- **618 天猫 TOP5**：2026 年 618，Calvin Klein 与 Tommy Hilfiger 双双位列天猫国际品牌 TOP5，Tommy 高个位数 GMV 增长（来源 [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]]）。
+- **关税 $70M 冲击**：美国关税翻倍造成约 7000 万美元未对冲 EBIT 影响，Q3 毛利率预计 -175bp。
+- **APAC/中国承压**：APAC 低个位数下滑、中国 choppy，增长主要靠欧美/EMEA。
 
 ## 信息链
 - 上游来源：[[2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]

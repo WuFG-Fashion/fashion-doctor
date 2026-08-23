@@ -5,10 +5,10 @@ aliases:
   - "楚萨迪"
   - "托鲁纱缔"
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
-sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md]
+sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md]
 created: 2026-08-14
-updated: 2026-08-21
-cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]]
+updated: 2026-08-22
+cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]]
 ---
 
 # Trussardi
@@ -32,6 +32,11 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 1. **Trussardi 是"轻奢重启"样本**：Miroglio 收购后以零售为核心驱动力重启，2026 开 10 店，反映轻奢品牌在奢侈品寒冬中以"可控直营 + 加盟"试探复苏的保守策略。
 2. **与中国市场关联弱，但属"品牌墙代理集合"监测项**：作为 MODING 运营代理操盘品牌之一，其重启动态是知识库"运营代理品牌组合"健康度的组成部分，而非中国本土竞品。
 3. **轻奢定位与高端奢侈品分化**：在 LVMH/Kering 仅处创新实验室阶段时，Trussardi 以 accessible luxury 抢中端，与 Tommy Hilfiger/Calvin Klein 等"成长中"品牌同处中端 AI 采纳层，竞争逻辑不同于重奢。
+
+## 近期动态刷新（2026-08-22 · A3轮增量）
+
+- **退出俄罗斯收尾**：2026-04 正式退出俄市场、关闭剩余业务单元；实体零售 2025Q3 已全关，T.R.S. Distribution LLC 法律清盘于 2025 年完成（来源 [[2026-08-22_A3_trussardi_退出俄罗斯市场]]）。
+- **地缘驱动非业绩**：退出由俄乌冲突地缘风险驱动，与"2026 财年末亏损红线"并行，属非核心市场资产瘦身；地理重心转向欧/中东/中亚。
 
 ## 信息链
 - 上游来源：[[2026-08-15_楚萨迪2026重启开店计划]]（商业新知/搜狐·Fashion Network/华丽志）
