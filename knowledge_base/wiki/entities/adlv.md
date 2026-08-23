@@ -7,10 +7,10 @@ aliases:
   - "大脸宝宝"
   - "아크메드라비"
 tags: [adlv, competitor, streetwear, korean_wave, womenswear]
-sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_adlv_2026联名矩阵.md]
+sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_adlv_2026联名矩阵.md, 2026-08-23_A1_adlv_深圳大悦城华南首店与门店盘点.md]
 created: 2026-08-14
-updated: 2026-08-22
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
+updated: 2026-08-23
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
 ---
 
 # ADLV (acme de la vie)
@@ -85,3 +85,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 打法本质：角色 IP 从单品印花升级为整季系列，延长 IP 变现周期、降低一次性活动库存风险。
 
 > 来源：[[2026-08-22_A1_adlv_2026联名矩阵.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- 深圳大悦城华南首店开业实证（L1 层，甜甜圈宝宝形象；此前库内记"即将开业"，本次落地 corroborate）。
+- 中国内地门店约 14 家（富途媒体盘点）与库内一致（媒体估算）；LINE FRIENDS 限定（4 月，15 周年）corroborate 联名矩阵。
+- 品牌：2017 双胞胎兄弟创立，首尔买手店起家，"大脸宝宝"蹿红，无性别主张，EXO/BTS + KOL 传播。
+- 数据风险：门店数/运营方为媒体盘点（非财报），韩潮近年中国退潮风险须标注。
+
+> 来源：[[2026-08-23_A1_adlv_深圳大悦城华南首店与门店盘点.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

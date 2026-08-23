@@ -5,10 +5,10 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dkny_上海首店与2026营销]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
 # DKNY
@@ -92,3 +92,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 上海淮海中路 Lady Huaihai（百联运营）245㎡ 直营重启（2026-05-16），Hailey Bieber SS2026 视觉。
 
 > 来源：[[2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- G-III FY2026 财报 corroborate：营收 29.6 亿美元（-7%）、DKNY 净销售约 6.5 亿、全球零售超 24 亿、dkny.com +40%（置信度：财报）。
+- 上海首店（2026-05-16 淮海路 Lady Huaihai 245㎡ 百联运营）运营细节 corroborate；中国区新授权伙伴并行双轨。
+- 集团风险：CK/Tommy 授权 2026 约 8.3 亿→2027 约 3.6 亿→2028 滚落，影响自有品牌投入预算。
+- 单品牌中国门店仍黑箱（授权代理模式），引用须标注首店/电商层面。
+
+> 来源：[[2026-08-23_A1_dkny_GIII财报与上海首店运营.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

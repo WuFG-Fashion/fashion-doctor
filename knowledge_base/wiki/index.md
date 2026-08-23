@@ -1137,6 +1137,19 @@ updated: 2026-08-21
 - 覆盖品牌（无新增·记录跳过）：cabbeen（中报/AI试穿已全量入库，08-22实体页最新） / adlv（2026联名矩阵已08-22入库） / awoken_space（副线数据黑箱，无有效新信号）
 - 实体回链 9 篇（crocs/ariose/dekashell/chuu/dickies/diesel/dkny/ellesse/awoken_time）；概念回链：[[服装行业竞争格局]]、[[服装价格带管理与价格真空区]]（chuu/ellesse）、[[品牌墙概念与代理模式]]（dickies/dkny）；孤岛 0；矛盾 0 处（✅ 无矛盾）。
 
+### 来源页补充（2026-08-23 18:39 · A1 同日二刷 · 7 篇 NEW）
+- [[2026-08-23_A1_adlv_深圳大悦城华南首店与门店盘点]]（媒体估算：深圳大悦城华南首店 + 中国约14店门店盘点）
+- [[2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店]]（媒体估算：百度百科门店口径 1,800/2,890 冲突 + 蒙阴新店）
+- [[2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙]]（媒体估算：武汉多店清单 + 白猿宇宙 IP 衍生）
+- [[2026-08-23_A1_crocs_瑞幸联名遇冷与平替围剿]]（媒体估算：瑞幸联名遇冷 + 29.9元平替围剿）
+- [[2026-08-23_A1_dekashell_南溪贺州新店与母公司口径]]（媒体估算：南溪/贺州新店 + 佰加vs旭弘母公司口径）
+- [[2026-08-23_A1_dkny_GIII财报与上海首店运营]]（财报：G-III FY2026 29.6亿$ + DKNY 6.5亿 + 上海首店运营 corroborate）
+- [[2026-08-23_A1_ellesse_Garfield战役与价格带]]（品牌自宣：Garfield 战役 + £22-120 价格带）
+- 实体回链 7 篇（adlv/ariose_years/awoken_time/crocs/dekashell/dkny/ellesse，插入「第2次同日复核」小节）；概念回链：[[服装行业竞争格局]] 7 源 · [[服装价格带管理与价格真空区]]（ariose/crocs/dekashell/ellesse）· [[品牌墙概念与代理模式]]（dkny — 长期缺失概念页本批新建补链）；5 品牌显式无新增（cabbeen/chuu/dickies/diesel/awoken_space）；孤岛 0；矛盾 0 处（✅ 无矛盾）。
+
+### 概念页（2026-08-23 18:39 · A1 同日二刷 · 1 篇 NEW — 补长期断链）
+- [[品牌墙概念与代理模式]] — 由 dkny/dickies 代理属性触发建页；定义品牌墙（原 MODING 运营代理操盘集合）的轻资产代理/加盟/授权结构，标注其与双核（独立上市主体）的区隔、授权代理结构性脆弱点（易主/换运营方/售假）、黑箱监测策略；承接 [[服装行业竞争格局]] S轮合成第二/第三遍。
+
 ## A3 轮新增（2026-08-19 · 分组A3·品牌主体全维度）
 
 > 固定分组 12 品牌（mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am），以品牌主体为中心全维度综合采集；置信度/brand_specific 见各源页 frontmatter。

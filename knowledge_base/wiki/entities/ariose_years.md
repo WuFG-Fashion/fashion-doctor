@@ -8,10 +8,10 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
+cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
 # 艾诺丝·雅诗 (ARIOSE YEARS)
@@ -131,3 +131,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - 主品牌基线 1,800+ 店 / 年销约 50 亿（第三方 media corroborate，品牌自宣+第三方 corroboration）。
 
 > 来源：[[2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- 门店口径多源差异 corroborate：爱企查"1000-2800+ 家"、中服网"1200+ 家"、库内主数 1800 家（2026-03 官方/直营口径）居中，属统计边界差异非硬矛盾。
+- 价格带 corroborate：平台口径衬衫 500-800 / 半身裙 700-1200 元，与库内 789-1380 元区间重叠一致（中端偏上）。
+- 蒙阴旗舰店 2026-03-08 开业 corroborate 渠道下沉；母公司杭州爱唯时尚集团（2025-12-17 更名）corroborate；经营风险自身 270 条（爱企查）。
+- 本轮为口径 corroborate + 新店信号，无新增硬财务（非上市无审计财报）。
+
+> 来源：[[2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

@@ -6,10 +6,10 @@ aliases:
   - "唤醒时刻"
   - "AWOKEN"
 tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
-sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md]
+sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md, 2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
 ---
 
 # AWOKEN TIME
@@ -72,3 +72,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 模式：服装+时尚咖啡区+潮玩/生活用品，场景打卡+KOL 驱动到店（门店数/面积为商业地产媒体估算）。
 
 > 来源：[[2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- 武汉具名门店补全：武商 MALL 国广店（800㎡ 旗舰）/ 武商梦时代（8.7 米白猿）/ 江宸天街 / 经开永旺 / 江夏永旺；外拓襄阳武商/宜昌国贸/南昌武商（与此前"武汉 4+/外拓 3"一致并具名）。
+- 白猿宇宙 IP「醒醒」8.7 米巨物打卡 + 自制特调咖啡 + 周年庆 remake——核心差异化资产 corroborate。
+- 门店数/面积为商业地产媒体估算，品牌快速扩张期，引用须标注时点。
+
+> 来源：[[2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

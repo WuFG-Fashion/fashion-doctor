@@ -4,10 +4,10 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
 # ellesse
@@ -96,3 +96,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - APAC 女装占比目标 40%→60%（2026-27 冬）；中国由百丽时尚运营。
 
 > 来源：[[2026-08-23_A1_ellesse_Garfield全球战役量化.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- Garfield「Do It Like An Italian」全球战役（2026-06 起）三章结构 corroborate；Smiley × Rave 联名（1,280 元登山帽）延续"表达性运动"叙事。
+- 价格带 corroborate：英国官网 T 恤 £22-55 / 外套 £75-120（约 200-1100 元），中端运动时尚（FILA/Kappa 同档）。
+- APAC 女装占比目标 40%→60%（2026-27 冬）；中国由百丽时尚运营；战役预算 ~3,000 万美元为媒体估算（非官方）。
+
+> 来源：[[2026-08-23_A1_ellesse_Garfield战役与价格带.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）

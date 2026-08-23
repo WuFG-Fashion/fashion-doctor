@@ -5,10 +5,10 @@ aliases:
   - "迪卡轩"
   - "DEKASHELL"
 tags: [dekashell, competitor, womenswear, light_elegant, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证, 2026-08-22_A1_dekashell_母公司与省域门店.md, 2026-08-23_A1_dekashell_2026三季系列命名.md]
+sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘公司简介, 2026-08-15_R4_迪卡轩2026春季, 2026-08-16_S3_dekashell_第三方交叉验证, 2026-08-22_A1_dekashell_母公司与省域门店.md, 2026-08-23_A1_dekashell_2026三季系列命名.md, 2026-08-23_A1_dekashell_南溪贺州新店与母公司口径.md]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[2026-08-15_迪卡轩品牌档案]]
+cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_迪卡轩品牌档案]]
 ---
 
 # 迪卡轩 (DEKASHELL)
@@ -117,3 +117,11 @@ cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争�
 - 价格带：春夏 179–1299 元 / 秋冬 239–2599 元中高档。
 
 > 来源：[[2026-08-23_A1_dekashell_2026三季系列命名.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-23 · 第2次同日复核）
+
+- 新店 corroborate：南溪（4 月）/ 贺州（1 月 13 日）开业，法式+北欧，设计师合作款——渠道下沉 + 持续拓店。
+- 母公司口径：百度百科仍记"佰加服饰（2023-05-08 注销）"，官网显"杭州旭弘实业"；库内校正为旭弘实业，佰加为曾用名/关联，无股权冲突。
+- 门店 600+（百度百科/南溪招聘一致）、价格带 179-1299/239-2599 与库内一致；代表"规模可观财务全黑箱"杭州女装样本。
+
+> 来源：[[2026-08-23_A1_dekashell_南溪贺州新店与母公司口径.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
