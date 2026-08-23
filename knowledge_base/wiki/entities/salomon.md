@@ -6,10 +6,10 @@ aliases:
   - "萨洛蒙"
   - "萨洛蒙中国"
 tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_sports]
-sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md, 2026-08-19_A3_salomon_全维度动态]
+sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md, 2026-08-19_A3_salomon_全维度动态, 2026-08-23_A3_salomon_Jisoo大使与国际化扩张.md]
 created: 2026-08-14
-updated: 2026-08-21
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[中国服装零售基准体系2026]], [[nautica]]
+updated: 2026-08-23
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]]
 ---
 
 # SALOMON
@@ -106,4 +106,16 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]] → 本页（[[salomon]]）→ 下游应用：[[中国服装零售基准体系2026]] · [[peacebird]] · [[trussardi]]
+
+## 近期动态刷新（2026-08-23 · A3轮·品牌全维度·营销/国际化增量）
+
+> 本轮按 A3 规范以品牌主体为中心全维度增量核验，新增来源 [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]]（品牌营销与国际化 facet，补 08-19/08-21 财务/门店源未覆盖角度）。
+
+- **全球品牌大使**：2026-05 任命 BLACKPINK 的 Jisoo 为全球品牌大使，Amer Sports 称传播触达近 10 亿社媒用户（置信度：官方公告）。
+- **北美首店**：2026 Q2 纽约曼哈顿 Fifth Avenue 开北美首家旗舰店；推行"Epicenter 战略"——投资集中 7 核心城（巴黎/伦敦/上海/北京/东京/纽约/洛杉矶）+ 6 候选城（柏林/首尔/迈阿密/旧金山/芝加哥/波士顿）（置信度：官方公告）。
+- **批发扩张**：与 Nordstrom / JD Sports / Foot Locker 扩大合作，美洲被 CEO 列为"第五增长引擎"；大中华长期门店潜力 400-500 家（置信度：官方公告/媒体估算）。
+- **对照价值**：与 [[peacebird|太平鸟]]"弱化大众化、做个性化"调性升级同构，但 Salomon 用全球明星资产、太平鸟用本土 IP，资源量级差一个数量级；Epicenter"门店质量>数量"直接验证双核"关小店开大店"。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[ai_fashion_market_2026]] · [[peacebird]] · [[cabbeen]]
 
