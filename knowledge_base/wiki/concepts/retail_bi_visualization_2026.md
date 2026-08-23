@@ -7,7 +7,7 @@ tags: [bi, visualization, dashboard, tool_selection, retail, superse, dataease, 
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构]
 created: 2026-06-13
 updated: 2026-08-06
-cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]]
+cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]]
 ---
 
 # 2026年BI可视化在服装零售的选型与应用
