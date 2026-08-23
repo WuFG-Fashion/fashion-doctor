@@ -8,7 +8,7 @@ aliases:
 tags: [king_baby, competitor, jewelry, accessories, rock, usa]
 sources: [2026-08-15_KING_BABY_中国摇滚银饰与渠道速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-23
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -109,3 +109,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[king_baby]] 为"银饰轻奢 + 明星同款"打法，信号沉淀至 [[2026-08-22_A2_king_baby_全维度动态]]；重点在实体隔离。
 **信息链（刷新）**：[[2026-08-22_A2_king_baby_全维度动态]]（来源摘要） → 本页（[[king_baby]]） → 下游 [[中国服装零售基准体系2026]] / [[全球服装财务基准2026]]
+
+## 近期动态刷新（2026-08-23 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 11 品牌·品牌主体全维度）对 [[king_baby]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-23_A2_king_baby_全维度动态]]。
+
+- 联名：OTD（John Varvatos 新品牌）x King Baby 中性珠宝（美国手工纯银）；Indian Motorcycle x King Baby 珠宝线（手镯/吊坠/皮带扣）（置信度：品牌自宣）。
+- 品类延展：2026 推出眼镜系列；Nashville 定制店（置信度：品牌自宣）。
+- 渠道：旗舰店 Santa Monica / Nashville / Caesars Palace Las Vegas（置信度：品牌自宣）。
+
+**结论（刷新）**：A2 轮确认 [[king_baby]] 以"摇滚/公路美国制造"小众定位靠联名与品类延展（眼镜）维持辨识度，属品牌墙配饰长尾样本，对双核几乎无竞争；本轮补 2026 联名/眼镜/定制店增量。
+**信息链（刷新）**：[[2026-08-23_A2_king_baby_全维度动态]]（来源摘要） → 本页（[[king_baby]]） → 下游 [[服装行业竞争格局]] / [[中国服装零售基准体系2026]]
+
