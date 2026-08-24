@@ -106,5 +106,5 @@
 
 ## 关联知识
 
-- [[竞品综合对比]]
-- [[KPI健康基准]]
+- [[competitor_overview]]
+- [[kpi_benchmark]]

@@ -496,6 +496,6 @@ SELECT * FROM sales ORDER BY ROWID LIMIT 10;
 
 ## 关联知识
 
-- [[可视化最佳实践]]
-- [[SQL查询优化]]
-- [[数据模型规范]]
+- [[viz_best_practices]]
+- [[sql_optimization]]
+- [[data_model]]

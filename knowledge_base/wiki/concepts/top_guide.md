@@ -505,7 +505,7 @@ LIMIT 20;
 
 ## 关联知识
 
-- [[推销能力关键指标]]
-- [[导购培训体系]]
-- [[VIP分层模型]]
-- [[零售AI实践案例]]
+- [[selling_ability]]
+- [[guide_training]]
+- [[vip_tier]]
+- [[retail_ai_cases]]

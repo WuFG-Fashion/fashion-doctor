@@ -93,6 +93,6 @@ Fashion Doctor 实操经验，2026-04-29 确认口径。
 
 ## 关联知识
 
-- [[KPI健康基准]]
-- [[数据质量红线]]
-- [[SKU生命周期管理]]
+- [[kpi_benchmark]]
+- [[data_quality]]
+- [[sku_lifecycle]]

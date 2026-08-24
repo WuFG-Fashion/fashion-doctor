@@ -154,9 +154,9 @@ fig.update_layout(width=800)  # 不要固定宽度
 
 ## 关联知识
 
-- [[数据质量红线]]
-- [[SQL查询优化]]
-- [[KPI健康基准]]
+- [[data_quality]]
+- [[sql_optimization]]
+- [[kpi_benchmark]]
 - [[retail_bi_visualization_2026|BI可视化在服装零售的选型]]
 - [[bi_dashboard_retail_deployment|BI看板零售部署实操]]
 - [[streamlit_dashboard_2026|Streamlit生产级看板]]

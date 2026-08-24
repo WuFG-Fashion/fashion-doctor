@@ -615,6 +615,6 @@ GROUP BY 1;
 
 ## 关联知识
 
-- [[VIP分层模型]]
-- [[积分与权益运营]]
-- [[推销能力关键指标]]
+- [[vip_tier]]
+- [[points_program]]
+- [[selling_ability]]

@@ -502,8 +502,8 @@ your_project/
 
 ## 关联知识
 
-- [[系统架构设计]]
-- [[品牌配置管理]]
+- [[system_architecture]]
+- [[brand_config]]
 
 ## 2026年6月14日更新（C轮 L2_06/07采集）⭐
 

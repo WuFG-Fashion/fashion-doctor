@@ -137,7 +137,7 @@ updated: 2026-08-24
 - [[2026-08-21_A1_ellesse_价格带与Smiley联名续报]]（£22-120 中端运动定位 + Smiley 联名价）
 - 覆盖品牌（有新增）：cabbeen / ariose_years / chuu / crocs / dekashell / dickies / diesel / dkny / ellesse
 - 覆盖品牌（无新增·记录跳过）：adlv / awoken_space / awoken_time
-- 实体回链 9 篇；kb_benchmarks `cabbeen` 已回填售罄率/会员/折扣/门店净减/渠道结构；价格带概念页回链 4 品牌；修复历史断链 2 处（[[2am]]→[[two_am]]、[[sell_through_rate]]→[[sell_through_examination_standard_2026]]）。
+- 实体回链 9 篇；kb_benchmarks `cabbeen` 已回填售罄率/会员/折扣/门店净减/渠道结构；价格带概念页回链 4 品牌；修复历史断链 2 处（[[two_am]]→[[two_am]]、[[sell_through_examination_standard_2026]]→[[sell_through_examination_standard_2026]]）。
 
 ## A1 轮新增（2026-08-22 · 分组A1·品牌主体全维度）
 

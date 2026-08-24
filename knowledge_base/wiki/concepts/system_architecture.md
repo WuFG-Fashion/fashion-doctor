@@ -263,10 +263,10 @@ Fashion Doctor/
 
 ## 关联知识
 
-- [[品牌配置管理]]
-- [[跨品牌数据整合]]
-- [[Streamlit多Tab组件设计]]
-- [[数据模型规范]]
+- [[brand_config]]
+- [[cross_brand_integration]]
+- [[streamlit_multitab]]
+- [[data_model]]
 - [[data_governance_tech_routes_2026|数据治理技术路线选型]]
 - [[data_lakehouse_2026|湖仓一体架构]]
 - [[ETL架构选型|ETL架构七维选型]]

@@ -247,9 +247,9 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 
 ## 关联知识
 
-- [[数据质量红线]]
-- [[品牌配置管理]]
-- [[系统架构设计]]
+- [[data_quality]]
+- [[brand_config]]
+- [[system_architecture]]
 
 ## 2026年6月14日更新（C轮 L2_06/07采集）⭐
 

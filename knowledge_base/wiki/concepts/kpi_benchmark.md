@@ -952,11 +952,11 @@ member_id IS NOT NULL AND member_id != ''
 
 ## 关联知识
 
-- [[未动销库存占比]]
-- [[零售术语体系]]
-- [[数据模型规范]]
-- [[VIP分层模型]]
-- [[SKU生命周期管理]]
+- [[dead_stock]]
+- [[terminology]]
+- [[data_model]]
+- [[vip_tier]]
+- [[sku_lifecycle]]
 
 ## 二十七、2026年6月6日更新（Round 36 — 行业规模数据）⭐
 

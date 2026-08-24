@@ -96,7 +96,7 @@ CREATE TABLE brand_sales (...);
 
 ## 关联知识
 
-- [[KPI健康基准]]
-- [[零售术语体系]]
-- [[系统架构设计]]
-- [[品牌配置管理]]
+- [[kpi_benchmark]]
+- [[terminology]]
+- [[system_architecture]]
+- [[brand_config]]

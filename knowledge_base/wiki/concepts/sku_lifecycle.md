@@ -214,7 +214,7 @@
 
 ## 关联知识
 
-- [[波段上货节奏]]
-- [[品类结构规划]]
-- [[未动销库存占比]]
-- [[KPI健康基准]]
+- [[wave_timing]]
+- [[category_planning]]
+- [[dead_stock]]
+- [[kpi_benchmark]]

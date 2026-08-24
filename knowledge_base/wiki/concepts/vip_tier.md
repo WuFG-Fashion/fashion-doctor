@@ -327,10 +327,10 @@ ORDER BY total_amount DESC;
 
 ## 关联知识
 
-- [[会员复购分析]]
-- [[积分与权益运营]]
-- [[KPI健康基准]]
-- [[明星导购识别]]
+- [[repurchase]]
+- [[points_program]]
+- [[kpi_benchmark]]
+- [[top_guide]]
 - [[会员复购率提升策略]]
 - [[全渠道会员一体化]]
 - [[2026-08-09_桔尚女装_微盟AI会员复购运营]]

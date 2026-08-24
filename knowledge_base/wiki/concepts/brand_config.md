@@ -139,6 +139,6 @@ def reload_configs():
 
 ## 关联知识
 
-- [[系统架构设计]]
-- [[跨品牌数据整合]]
-- [[竞品综合对比]]
+- [[system_architecture]]
+- [[cross_brand_integration]]
+- [[competitor_overview]]

@@ -227,7 +227,7 @@
 
 ## 关联知识
 
-- [[竞品综合对比]]
-- [[KPI健康基准]]
-- [[ZARA/优衣库/H&M快时尚]]
-- [[太平鸟男装竞品分析]]
+- [[competitor_overview]]
+- [[kpi_benchmark]]
+- [[fast_fashion]]
+- [[peacebird]]

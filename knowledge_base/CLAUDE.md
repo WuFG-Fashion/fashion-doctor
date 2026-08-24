@@ -25,9 +25,7 @@ knowledge_base/
 │   ├── comparisons/       ← 对比页：跨实体/概念的综合分析
 │   ├── sources/           ← 来源摘要：每篇 raw/ 文章的提炼
 │   ├── playbooks/         ← 作战手册：SOP/决策树/复盘/决策日志（type: playbook）
-├── L2_00_AI前沿信息/       ← 保留：现有业务分类（逐步迁移到 wiki/）
-├── L2_01_零售基础理论/
-├── ... (其他 L2)
+（L2_00~L2_07 历史目录已于 2026-08-24 迁移至 wiki/ 并退役：32 个核心概念页并入 wiki/concepts+entities，383 个历史快照归档于 wiki/_archive/l2_history/；新内容一律写入 wiki/）
 ├── tools/kb_updater.py    ← 索引扫描器（已纳入 wiki/ 新架构；每次采集收尾必须运行重建 master_index.json）
 ├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter）
 ├── tools/_backfill_source_fields.py ← 老 source 字段回填工具（aliases/confidence/brand_specific）
