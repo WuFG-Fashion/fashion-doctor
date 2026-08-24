@@ -44,23 +44,34 @@ def search_index(query: str, index: dict, level_filter: str = None):
     返回: list of {id, name, path, L2_name, match_reason}
     """
     query_lower = query.lower()
+    # 中文查询按整句 + 分词双轨匹配；英文按词
+    query_tokens = [w for w in re.split(r"[\s,，。、]+", query_lower) if len(w) >= 2]
+    if not query_tokens:
+        query_tokens = [query_lower]
     results = []
     for cat in index.get("L2_categories", []):
         for entry in cat.get("L3", []):
             # 计算匹配分数
-            name = entry["name"].lower()
+            name = entry.get("name", "").lower()
             L2_name = cat["name"].lower()
+            aliases = [a.lower() for a in entry.get("aliases", []) if a]
             score = 0
             reasons = []
-            for kw in query_lower.split():
+            for kw in query_tokens:
                 if kw in name:
                     score += 10
                     reasons.append(f"名称含「{kw}」")
                 if kw in L2_name:
                     score += 3
                     reasons.append(f"品类「{kw}」")
+                # aliases 命中（中文名/英文名/股票代码/别称）——RAG 命中率关键
                 if kw in query_lower and kw in name:
                     score += 5
+                for al in aliases:
+                    if kw and kw in al:
+                        score += 8
+                        reasons.append(f"别名含「{kw}」")
+                        break
             if score > 0:
                 results.append({
                     "id": entry["id"],
@@ -164,7 +175,10 @@ class RetrievalResult:
             "\U0001FA00-\U0001FA6F"  # Chess Symbols
             "\U0001FA70-\U0001FAFF"  # Symbols and Pictographs Extended-A
             "\U00002702-\U000027B0"  # Dingbats
-            "\U000024C2-\U0001F251"  # enclosed characters
+            "\U000024C2-\U000024C2"  # enclosed CIRCLED LATIN CAPITAL M (Ⓜ)
+            "\U0001F170-\U0001F251"  # enclosed alphanumerics supplement (🅰-🉑)
+            "\U0000FE0F"             # variation selector-16 (emoji style)
+            "\U0000200D"             # zero-width joiner
             "]+", flags=re.UNICODE
         )
         return emoji_pattern.sub(r'', text)
@@ -187,11 +201,20 @@ def extract_md(file_path: Path, query: str, top_k: int = 5) -> dict:
         return {"found": False, "content": "", "line_range": None, "version": "unknown"}
 
     with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        raw_lines = f.readlines()
+
+    # ⚠️ 跳过 frontmatter（--- 之间的元数据），防止 YAML 被当作正文返回
+    start_idx = 0
+    if raw_lines and raw_lines[0].strip() == "---":
+        for i in range(1, len(raw_lines)):
+            if raw_lines[i].strip() == "---":
+                start_idx = i + 1
+                break
+    lines = raw_lines[start_idx:]
 
     # 提取版本元数据
     version = "v1.0"
-    for line in lines[:12]:
+    for line in raw_lines[:12]:
         m = re.search(r'\*\*版本\*\*[:：]\s*v?(\d+[\.\d]*)', line)
         if m:
             version = "v" + m.group(1)
@@ -236,7 +259,7 @@ def extract_md(file_path: Path, query: str, top_k: int = 5) -> dict:
     result_lines = []
     for _, sec in scored[:top_k]:
         level_prefix = "#" * sec["level"]
-        result_lines.append(f"[{level_prefix} {sec['title']}]")
+        result_lines.append(f"{level_prefix} {sec['title']}")
         # 跳过 content 中与标题相同的第一行（避免重复）
         content_body = sec["content"]
         title_line = f"{level_prefix} {sec['title']}"
@@ -829,7 +852,7 @@ def retrieve(query: str,
     # 汇总答案
     answer_parts = []
     for snip in all_snippets:
-        answer_parts.append(f"### 📎 {snip['L3_name']}（{snip['type']} | {snip['L2_name']}）\n{snip['content']}\n")
+        answer_parts.append(f"### {snip['L3_name']}（{snip['type']} | {snip['L2_name']}）\n{snip['content']}\n")
 
     result.answer = "\n".join(answer_parts)
     result.sources = all_snippets
