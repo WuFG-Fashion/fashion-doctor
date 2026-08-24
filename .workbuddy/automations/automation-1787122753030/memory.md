@@ -17,3 +17,12 @@
 2. 双核 peacebird 优先；品牌墙品牌（trussardi/salomon/tommy/nautica）财报季常有硬数据增量。
 3. 实体页追加"近期动态刷新（YYYY-MM-DD · A3轮·品牌全维度）"小节 + frontmatter updated/cross_refs；文件锁（EBUSY/linter）时先重读再 Edit。
 4. 写源前 grep 库内同名品牌占比/门店数，避免把已在库数据当新增（本轮 two_am 4.1% 即教训）。
+
+### 2026-08-23 18:27（同日二刷）
+- **结果**：✅ 完成。12 品牌全检索+核验 = 1 写（salomon 营销/国际化 facet）+ 11 显式无新增。
+- **写入**：raw 1 篇 + source 1 篇（[[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]]）+ 实体 salomon UPDATED（补营销/国际化小节 + 回链）+ index/log/health 更新。
+- **新增 salomon 关键数据**：Jisoo(BLACKPINK) 2026-05 全球大使 + 纽约 Fifth Avenue 北美首店 + Epicenter 核心城市战略（巴黎/伦敦/上海/北京/东京/纽约/洛杉矶 + 6 候选）+ 美洲第五增长引擎 + 大中华长期 400-500 店；补 08-19/08-21 财务/门店源未覆盖角度。
+- **11 品牌无新增**（探针仅获已入库内容，未强行造页）：peacebird/nerdy/nautica/speedo（已于 07:20 本轮写入）；tommy_hilfiger/trussardi/mr_mrs/the_mr_young/no_one_else/thisisizi8/two_am（与 07:20 及此前轮次一致）。
+- **矛盾**：0 处（ℹ️ 基准核对：salomon Q2 财务/315 店与 08-19/08-21 源一致，本轮仅补营销角度非数值冲突）。
+- **护栏**：每品牌 1 次 WebSearch（≤3 上限）；精确到文件 git add（未 scoops 并行 A1/A2 未提交文件）；commit 6c6d555 → push main。
+- **注意**：本日为 A3 同日二次触发（07:20 已跑一轮），KB 已高度即时更新，故本轮增量极少属正常；salomon 营销/国际化源为唯一实质新增。
