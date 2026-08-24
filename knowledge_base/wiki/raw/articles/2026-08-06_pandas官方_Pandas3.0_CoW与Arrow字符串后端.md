@@ -42,7 +42,7 @@
 df.loc[df["category"] == "A", "price"] = 150
 
 # CoW 内存共享演示
-df2 = df[["price"]]          # 与 df 共享内存
+df2 = df`price`          # 与 df 共享内存
 df2["price"] = df2["price"] * 2   # 此刻才触发复制
 # df 保持不变，无副作用
 ```

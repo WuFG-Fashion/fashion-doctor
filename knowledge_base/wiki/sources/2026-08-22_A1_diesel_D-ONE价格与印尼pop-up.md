@@ -38,7 +38,7 @@ cross_refs: [[diesel]], [[服装行业竞争格局]]
 
 ## 信息链
 - 上游来源：[[2026-08-22_diesel_D-ONE价格与印尼pop-up]]（SIA HK/ELLE/NOW Jakarta 转引品牌）→ 本页（source）→ 下游应用：[[diesel]]（实体，补 D-ONE 价格带 + 印尼零售）、[[服装行业竞争格局]]（配件化趋势对照）
-- 与既有 [[2026-08-19_A1_diesel_FF14与D-ONE]]（FF14 联名 + D-ONE 首曝）互补，本页补具体价格带与印尼扩张。
+- 与既有 [[2026-08-21_A1_diesel_FF14联名与DONE手袋]]（FF14 联名 + D-ONE 首曝）互补，本页补具体价格带与印尼扩张。
 
 ## 关联页面
 - [[diesel|Diesel 实体]]、[[服装行业竞争格局]]

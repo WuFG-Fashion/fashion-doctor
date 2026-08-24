@@ -38,7 +38,7 @@ cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装�
 
 ## 信息链
 - 上游来源：[[2026-08-22_ellesse_Smiley与Garfield_campaign]]（买得易/MMMinecraft/爱企查转引品牌 + 官网）→ 本页（source）→ 下游应用：[[ellesse]]（实体，补 2026 联名 + 价格带）、[[服装价格带管理与价格真空区]]（价格带地图）、[[服装行业竞争格局]]
-- 与既有 [[2026-08-21_A1_ellesse_价格带与Smiley]]（价格带/ Smiley 基础）互补，本页补 Rave 具体系列 + Garfield campaign + 价格带细化。
+- 与既有 [[2026-08-21_A1_ellesse_价格带与Smiley联名续报]]（价格带/ Smiley 基础）互补，本页补 Rave 具体系列 + Garfield campaign + 价格带细化。
 
 ## 关联页面
 - [[ellesse|ellesse 实体]]、[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]

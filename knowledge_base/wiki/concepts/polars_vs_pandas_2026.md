@@ -317,7 +317,7 @@ Rust 核心 (无GIL/内存安全/零成本抽象)
 # 混合策略：Polars做ETL → Pandas做ML/可视化
 df_pl = pl.scan_csv("huge_file.csv").filter(...).collect()
 df_pd = df_pl.to_pandas()  # 零拷贝转换
-model = LinearRegression().fit(df_pd[["x"]], df_pd["y"])
+model = LinearRegression().fit(df_pd`x`, df_pd["y"])
 ```
 
 ## Polars + MLflow + Streamlit 工程化三件套（2026-06新增）
@@ -967,7 +967,7 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 - 关联概念：[[SQL查询性能优化]] · [[ETL架构选型]] · [[duckdb_olap_engine_2026]] · [[streamlit_dashboard_2026]] · [[retail_analytics_reporting_2026]] · [[retail_data_workflow_2026]] · [[python_data_stack_decision_2026]] · [[data_quality_governance]] · [[python_dev_stack_2026]] · [[arrow_zero_copy_interop_2026]]
 - 关联对比：无
 - 关联打法：无
-- ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[data_library_selection_guide_2026]] · [[streamlit_production_dashboard]] · [[python_sql_integration_patterns_2026]] · [["x"]]（待补页或修正双链）
+- ⚠️ **断点（指向未建页）**：[[零售数据仓库SQL实践]] · [[data_library_selection_guide_2026]] · [[streamlit_production_dashboard]] · [[python_sql_integration_patterns_2026]] · `x`（待补页或修正双链）
 
 ## 2026-08-15 更新（三引擎基准再校准）
 
