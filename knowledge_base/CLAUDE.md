@@ -28,10 +28,13 @@ knowledge_base/
 ├── L2_00_AI前沿信息/       ← 保留：现有业务分类（逐步迁移到 wiki/）
 ├── L2_01_零售基础理论/
 ├── ... (其他 L2)
-├── kb_updater.py          ← 索引扫描器（保留）
-├── retrieval_mod.py       ← 检索模块（保留）
+├── tools/kb_updater.py    ← 索引扫描器（已纳入 wiki/ 新架构；每次采集收尾必须运行重建 master_index.json）
+├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter）
+├── tools/_backfill_source_fields.py ← 老 source 字段回填工具（aliases/confidence/brand_specific）
 └── __index__/             ← JSON 索引（保留）
 ```
+
+> **⚠️ 索引重建（RAG 必需）**：`master_index.json` 覆盖 wiki/ 全部 6 个子目录（sources/entities/concepts/comparisons/playbooks/practices）。每次采集/提炼/优化后必须运行 `python knowledge_base/tools/kb_updater.py` 重建索引，否则新增页面无法被 `retrieval_mod.py` 检索到。
 
 ---
 
