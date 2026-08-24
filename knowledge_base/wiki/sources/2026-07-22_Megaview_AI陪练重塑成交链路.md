@@ -2,7 +2,7 @@
 type: source
 title: Megaview AI陪练 — Agent Team重塑连锁门店成交链路
 tags: [guide, ai, training, coaching, megaview]
-sources: [raw/articles/2026-07-22_Megaview_AI陪练重塑成交链路.md]
+sources: [wiki/raw/articles/2026-07-22_Megaview_AI陪练重塑成交链路.md]
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

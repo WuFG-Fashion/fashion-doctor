@@ -2,7 +2,7 @@
 type: source
 title: RetailBoss — Inditex/ZARA FY2026Q1 深度数据
 tags: [zara, inditex, financial, 2026Q1, competitor]
-sources: [raw/articles/2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
+sources: [wiki/raw/articles/2026-06-09_RetailBoss_Inditex_ZARA_FY2026Q1.md]
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[inditex_zara]], [[six_brands_2026q1]]

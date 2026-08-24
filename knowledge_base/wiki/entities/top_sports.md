@@ -8,7 +8,7 @@ aliases:
   - "6110.HK"
   - "滔搏运动"
 tags: [topsports, sportswear, retail_agent, nike, adidas, hk_listed]
-sources: [raw/articles/2026-06-14_百家号_滔搏FY2026全年业绩257亿.md, raw/articles/2026-07-03_中财网_纺织服装中报前瞻2026.md]
+sources: [wiki/raw/articles/2026-06-14_百家号_滔搏FY2026全年业绩257亿.md, wiki/raw/articles/2026-07-03_中财网_纺织服装中报前瞻2026.md]
 created: 2026-06-14
 updated: 2026-07-03
 cross_refs: [[服装行业竞争格局]], [[six_brands_2026q1]], [[china_apparel_industry_2026q1]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-07-03_中财网_纺织服装中报前瞻2026]]

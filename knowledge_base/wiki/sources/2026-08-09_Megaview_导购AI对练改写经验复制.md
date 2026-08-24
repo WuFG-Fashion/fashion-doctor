@@ -2,7 +2,7 @@
 type: source
 title: 导购AI对练改写经验复制
 tags: [guide, training, ai, megaview, source]
-sources: [raw/articles/2026-08-09_Megaview_导购AI对练改写经验复制.md]
+sources: [wiki/raw/articles/2026-08-09_Megaview_导购AI对练改写经验复制.md]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

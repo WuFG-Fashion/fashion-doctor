@@ -2,7 +2,7 @@
 type: source
 title: DIESEL / OTB Group 中国运营与财务速览 2026
 tags: [diesel, competitor, denim, premium_denim, italy, 2026, competitor_update]
-sources: [raw/articles/2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md]
+sources: [wiki/raw/articles/2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[diesel]], [[服装行业竞争格局]]

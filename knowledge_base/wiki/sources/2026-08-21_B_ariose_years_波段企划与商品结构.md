@@ -3,7 +3,7 @@ type: source
 title: 艾诺丝雅诗波段企划与商品结构佐证
 aliases: [艾诺丝波段企划, ariose波段上新, ARIOSEYEARS企划, 艾诺丝价格带]
 tags: [ariose_years, merchandise, assortment, pricing, 商品企划]
-sources: [raw/articles/2026-08-21_B_ariose_years_波段企划与商品结构.md]
+sources: [wiki/raw/articles/2026-08-21_B_ariose_years_波段企划与商品结构.md]
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ariose_years]], [[商品企划体系2026]], [[服装价格带管理与价格真空区]]
@@ -14,7 +14,7 @@ brand_specific: true
 # 艾诺丝雅诗波段企划与商品结构佐证
 
 > **一句话摘要**：艾诺丝（ARIOSEYEARS）单季波段 5-8 波（冬 8 波>夏 5 波>春 6 波），羊毛为核心品类心智，价格带 789-1380 元——是"高频小波段企划 + 中高端价格带"的商品企划实证样本。
-> **来源**：raw/articles/2026-08-21_B_ariose_years_波段企划与商品结构.md
+> **来源**：wiki/raw/articles/2026-08-21_B_ariose_years_波段企划与商品结构.md
 > **最后更新**：2026-08-21
 > **置信度**：品牌自宣（京东官方旗舰店商品结构为实证数据；爱企查/招商平台为辅助）
 

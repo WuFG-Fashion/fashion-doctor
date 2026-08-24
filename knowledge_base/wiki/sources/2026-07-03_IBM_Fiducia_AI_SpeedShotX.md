@@ -2,7 +2,7 @@
 type: source
 title: IBM × Fiducia AI — SpeedShotX 虚拟试穿
 tags: [ai, virtual_tryon, luxury, fashion_tech, ibm, agentic_commerce]
-sources: [raw/articles/2026-07-03_IBM_Fiducia_AI_SpeedShotX_虚拟试穿.md]
+sources: [wiki/raw/articles/2026-07-03_IBM_Fiducia_AI_SpeedShotX_虚拟试穿.md]
 created: 2026-07-17
 updated: 2026-07-17
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026|agentic_commerce]]

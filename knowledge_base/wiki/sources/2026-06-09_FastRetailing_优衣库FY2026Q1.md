@@ -2,7 +2,7 @@
 type: source
 title: 迅销集团 FY2026 Q1 财报（截至2025.11）
 tags: [uniqlo, fast_retailing, financial, 2026Q1, competitor]
-sources: [raw/articles/2026-06-09_FastRetailing_优衣库FY2026Q1.md]
+sources: [wiki/raw/articles/2026-06-09_FastRetailing_优衣库FY2026Q1.md]
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[fast_retailing]], [[six_brands_2026q1]]

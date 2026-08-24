@@ -2,7 +2,7 @@
 type: source
 title: MO&Co./EPO集团会员五级分层与VIP复购基准（2026-08-07）
 tags: [vip, membership, tiering, repurchase, womenswear, moco, source]
-sources: [raw/articles/2026-08-07_10100_MOCo_EPO集团会员五级分层体系.md]
+sources: [wiki/raw/articles/2026-08-07_10100_MOCo_EPO集团会员五级分层体系.md]
 created: 2026-08-07
 updated: 2026-08-07
 cross_refs: [[moco_epo]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[jnby]]

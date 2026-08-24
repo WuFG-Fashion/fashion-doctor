@@ -19,7 +19,7 @@ updated: 2026-06-06
 5. **服装零售红线**: 不支持私有化部署一律排除，必须覆盖面料知识库+尺码推荐+搭配技巧
 
 ## 原始文件
-`knowledge_base/raw/articles/2026-06-06_FindPowerAI_2026AI销售陪练选型指南.md`
+`knowledge_base/wiki/wiki/raw/articles/2026-06-06_FindPowerAI_2026AI销售陪练选型指南.md`
 
 ## 关联知识
 - [[AI导购陪练]]

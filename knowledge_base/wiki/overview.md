@@ -40,7 +40,7 @@ updated: 2026-06-05
 - **查概念**：`kb-query 售罄率正常范围是多少`
 - **比竞品**：`kb-query 太平鸟和GXG的GMV对比`
 - **找实操**：`kb-query Streamlit多Tab怎么设计`
-- **加知识**：把文章丢 raw/articles/，然后 `kb-ingest`
+- **加知识**：把文章丢 wiki/raw/articles/，然后 `kb-ingest`
 - **查健康**：`kb-lint`
 
 ## 关键数据速查

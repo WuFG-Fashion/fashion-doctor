@@ -3,7 +3,7 @@ type: source
 title: DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）
 aliases: [2026-08-23_A1_dekashell_南溪贺州新店与母公司口径]
 tags: [dekashell, womenswear, store, hangzhou, price_band]
-sources: [raw/articles/2026-08-23_dekashell_南溪贺州新店与母公司口径.md]
+sources: [wiki/raw/articles/2026-08-23_dekashell_南溪贺州新店与母公司口径.md]
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
@@ -14,7 +14,7 @@ brand_specific: true
 # DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）
 
 > **一句话摘要**：迪卡轩南溪（4 月）、贺州（1 月）新店 corroborate 渠道下沉；百度百科仍记"佰加"（2023 注销），库内已校正为杭州旭弘实业（佰加为曾用名/关联）。
-> **来源**：raw/articles/2026-08-23_dekashell_南溪贺州新店与母公司口径.md
+> **来源**：wiki/raw/articles/2026-08-23_dekashell_南溪贺州新店与母公司口径.md
 > **最后更新**：2026-08-23
 
 > **置信度**：媒体估算（南溪在线/百度百科/易企秀，非官方审计）

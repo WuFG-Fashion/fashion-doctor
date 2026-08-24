@@ -12,7 +12,7 @@
 ## 使用方式
 
 1. 把文章/报告丢进对应目录
-2. 对 AI 说：`kb-ingest raw/articles/xxx.md` 或 "把这篇文章加入知识库"
+2. 对 AI 说：`kb-ingest wiki/raw/articles/xxx.md` 或 "把这篇文章加入知识库"
 3. AI 会自动提取实体、概念、数据，写入 wiki/
 4. 原始文件保留不动，供未来回溯
 

@@ -2,7 +2,7 @@
 type: source
 title: Tommy Hilfiger / PVH 中国渠道与财务速览 2026
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa, 2026, competitor_update]
-sources: [raw/articles/2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md]
+sources: [wiki/raw/articles/2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]

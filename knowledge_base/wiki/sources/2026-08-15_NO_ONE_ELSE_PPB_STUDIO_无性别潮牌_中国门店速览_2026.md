@@ -2,7 +2,7 @@
 type: source
 title: NO ONE ELSE PPB STUDIO 无性别潮牌 中国门店速览 2026
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear, 2026, competitor_update]
-sources: [raw/articles/2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md]
+sources: [wiki/raw/articles/2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md]
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[no_one_else]], [[服装行业竞争格局]]
