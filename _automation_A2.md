@@ -43,7 +43,7 @@ etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, la
 - ⚠️ 每个新建/更新的 concept/entity/comparison 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链），遵循 CLAUDE.md 2.3/5.1
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`（双链到品牌实体页），行业通用方法论标 `false`（双链到 concept，不链品牌）
 - ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同品牌同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
-- 同步到 L2/L3 历史目录
+- 更新 `wiki/index.md` 和 `wiki/log.md`（不再同步到 L2/L3 历史目录——已冻结，见 CLAUDE.md 331）
 - 更新 `wiki/index.md` 和 `wiki/log.md`
 
 ## 第五步：自动织网 kb-link（遵循 CLAUDE.md 3.5）
