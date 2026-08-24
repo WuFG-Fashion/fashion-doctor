@@ -59,7 +59,8 @@ adlv, ariose_years, awoken_space, awoken_time, cabbeen, chuu, crocs, dekashell, 
 4. 如发现同一品牌同一指标数值不一致，在新 source 页末尾加 `> ⚠️ **数据矛盾**：[指标] 在本轮为 X，但 [已有来源] 显示为 Y，待验证`
 5. 输出矛盾清单（有则打印，无则打印 "✅ 无矛盾"）
 
-## 第七步：Git 推送
+## 第七步：索引重建 + Git 推送
+0. **索引重建（RAG 必需）**：写入全部完成后运行 `python knowledge_base/tools/kb_updater.py` 重建 master_index.json（纳入 wiki/ 新架构），确认输出「1082+ 个L3条目」后再提交。
 ```
 git pull --ff-only || true
 git add knowledge_base/ && git commit -m "[auto] Round A1 — L2_00/01/02 (分组A1·品牌全维度)" && git push

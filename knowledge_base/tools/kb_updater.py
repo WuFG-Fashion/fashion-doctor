@@ -35,17 +35,26 @@ L2_MAP = {
 # ── 支持的文件类型 ───────────────────────────────────
 SUPPORTED_EXTS = {".md", ".xlsx", ".xls", ".csv", ".pdf", ".png", ".jpg", ".jpeg", ".pptx", ".txt"}
 
+# ── wiki/ 新架构映射（子目录 → 目录信息）──────────────
+WIKI_MAP = {
+    "sources":     {"id": "WIKI_S", "name": "来源库",         "desc": "采集来源摘要页（每篇一个 source）"},
+    "entities":    {"id": "WIKI_E", "name": "实体库",         "desc": "品牌/公司/人物/产品实体页"},
+    "concepts":    {"id": "WIKI_C", "name": "概念库",         "desc": "方法论/术语/指标体系概念页"},
+    "comparisons": {"id": "WIKI_P", "name": "对比库",         "desc": "跨实体/跨品牌对比分析页"},
+    "playbooks":   {"id": "WIKI_B", "name": "作战手册",       "desc": "可操作的打法/SOP/决策树"},
+    "practices":   {"id": "WIKI_R", "name": "实践库",         "desc": "技术实践/落地案例页"},
+}
+
 
 def scan_kb():
-    """扫描知识库目录，返回按L2/L3组织的文件清单"""
+    """扫描知识库目录，返回按L2/L3组织的文件清单（兼容历史 L2 架构）"""
     kb = {}
     for L2_dir in KB_ROOT.iterdir():
         if not L2_dir.is_dir() or L2_dir.name.startswith("__"):
             continue
         L2_key = L2_dir.name
         if L2_key not in L2_MAP:
-            print(f"⚠️  未识别的L2目录: {L2_key}，跳过")
-            continue
+            continue  # 未知目录（如 wiki/raw、_health）静默跳过，避免噪音
 
         L2_info = L2_MAP[L2_key]
         L3_list = []
@@ -72,8 +81,57 @@ def scan_kb():
     return kb
 
 
-def build_index(kb: dict) -> dict:
-    """根据扫描结果构建新索引"""
+def scan_wiki():
+    """扫描 wiki/ 新架构，每页一个条目（含 frontmatter 元数据）"""
+    wiki_root = KB_ROOT / "wiki"
+    if not wiki_root.is_dir():
+        return {}
+    wiki = {}
+    for sub_name, info in WIKI_MAP.items():
+        sub_dir = wiki_root / sub_name
+        if not sub_dir.is_dir():
+            continue
+        entries = []
+        for f in sorted(sub_dir.glob("*.md")):
+            title = f.stem
+            aliases = []
+            confidence = None
+            brand_specific = None
+            try:
+                text = f.read_text(encoding="utf-8", errors="ignore")
+                fm = re.search(r"^---\n(.*?)\n---", text, re.S)
+                if fm:
+                    body = fm.group(1)
+                    am = re.search(r"^aliases:\s*(\[.*?\]|.+)$", body, re.M)
+                    if am:
+                        raw = am.group(1).strip()
+                        aliases = re.findall(r'"([^"]+)"|\'([^\']+)\'', raw)
+                        aliases = [a or b for a, b in aliases] or [raw.strip("[]").strip()]
+                    cm = re.search(r"^confidence:\s*(\S+)", body, re.M)
+                    if cm:
+                        confidence = cm.group(1).strip()
+                    bm = re.search(r"^brand_specific:\s*(true|false)", body, re.M)
+                    if bm:
+                        brand_specific = bm.group(1) == "true"
+            except Exception:
+                pass
+            entries.append({
+                "id": f"{info['id']}_{sub_name}_{len(entries)}",
+                "name": title,
+                "path": str(f.relative_to(KB_ROOT)).replace("\\", "/"),
+                "file_count": 1,
+                "status": "ok",
+                "aliases": aliases,
+                "confidence": confidence,
+                "brand_specific": brand_specific,
+            })
+        if entries:
+            wiki[sub_name] = {"info": info, "L3": entries}
+    return wiki
+
+
+def build_index(kb: dict, wiki: dict = None) -> dict:
+    """根据扫描结果构建新索引（含 wiki 新架构）"""
     categories = []
     total = 0
     for L2_key, data in sorted(kb.items()):
@@ -81,19 +139,33 @@ def build_index(kb: dict) -> dict:
             "id": data["info"]["id"],
             "name": data["info"]["name"],
             "desc": data["info"]["desc"],
-            "L3": data["L3"]
+            "L3": data["L3"],
+            "arch": "legacy"
+        }
+        categories.append(cat)
+        total += len(data["L3"])
+
+    wiki = wiki or {}
+    for wk, data in sorted(wiki.items()):
+        cat = {
+            "id": data["info"]["id"],
+            "name": data["info"]["name"],
+            "desc": data["info"]["desc"],
+            "L3": data["L3"],
+            "arch": "wiki"
         }
         categories.append(cat)
         total += len(data["L3"])
 
     return {
-        "kb_version": "2.1",
+        "kb_version": "3.0",
         "kb_root": str(KB_ROOT),
         "last_updated": datetime.now().strftime("%Y-%m-%d"),
+        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "total_entries": total,
         "levels": {
             "L1": {"name": "知识库总库", "desc": "Fashion Doctor 服装零售知识库根目录"},
-            "L2": {"name": "品类库", "desc": "按业务域分类的二级目录"},
+            "L2": {"name": "品类库", "desc": "按业务域分类的二级目录（legacy L2 + wiki 新架构）"},
             "L3": {"name": "专题库", "desc": "L2下的细分专题，每条内容存为一个文件"}
         },
         "L2_categories": categories,
@@ -119,14 +191,21 @@ def main():
 
     print("🔍 扫描知识库目录...")
     kb = scan_kb()
+    wiki = scan_wiki()
 
-    print(f"\n📊 扫描结果：")
-    for L2_key, data in kb.items():
+    print(f"\n📊 扫描结果（legacy L2 {sum(len(v['L3']) for v in kb.values())} 条 + wiki {sum(len(v['L3']) for v in wiki.values())} 条）：")
+    for L2_key, data in sorted(kb.items()):
         print(f"  {data['info']['name']} ({len(data['L3'])}个L3)")
         for L3 in data["L3"]:
             print(f"    └─ {L3['name']} ({L3['file_count']}文件)")
+    for wk, data in sorted(wiki.items()):
+        print(f"  [wiki] {data['info']['name']} ({len(data['L3'])}个条目)")
+        for L3 in data["L3"][:5]:
+            print(f"    └─ {L3['name']} ({L3['file_count']}文件)")
+        if len(data["L3"]) > 5:
+            print(f"    … 等 {len(data['L3'])} 个")
 
-    new_index = build_index(kb)
+    new_index = build_index(kb, wiki)
 
     if dry:
         print("\n🔍 [DRY模式] 不写入，仅显示差异：")
