@@ -133,6 +133,11 @@ updated: 2026-08-24
 | [[2026-07-03_依明科技时尚AI智能体]] ⭐ NEW | 依明科技：国家备案时尚AI大模型/五大场景/11类数据底座/2750亿美元市场 | ai, agent, vendor, fashion |
 | [[2026-06-27_小红书FireRed开源AI试衣模型]] ⭐ NEW | 小红书FireRed开源：4.5秒推理/10+元素/消费级显卡/消费者信任危机(仅4%选择率) | ai, virtual_tryon, open_source, consumer_trust |
 
+| [[16brands_2026q1_snapshot]] | 16 家 A 股服装企业 2026Q1 快照（营收/净利/毛利率） | competitor, benchmark, 2026q1, snapshot, concept |
+| [[ai_policy]] | AI 行业政策与监管汇总（大模型/生成式 AI 合规） | ai, policy, regulation, concept |
+| [[bosideng_fy2026_deep_dive]] | 波司登 FY2026 深度（品牌价值/渠道/羽绒品类） | bosideng, down, fy2026, deep_dive, concept |
+| [[vogue_business_ai_consumer_2026]] | VOGUE Business 2026 AI 消费者报告（AI 影响衣橱） | ai, consumer, vogue, 2026, concept |
+
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
 |------|------|------|
