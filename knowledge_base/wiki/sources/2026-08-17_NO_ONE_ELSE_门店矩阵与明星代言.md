@@ -1,14 +1,14 @@
 ---
 type: source
 title: NO ONE ELSE — 门店矩阵与明星代言
-aliases: ["NO ONE ELSE 中国门店", "NOE 无性别"]
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear, channel]
 sources: [2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言]
+aliases: ["NO ONE ELSE", "NO", "ONE", "ELSE", "NO ONE ELSE — 门店矩阵与明星代言"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[no_one_else]], [[服装行业竞争格局]], [[peacebird]], [[chuu]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # NO ONE ELSE — 门店矩阵与明星代言

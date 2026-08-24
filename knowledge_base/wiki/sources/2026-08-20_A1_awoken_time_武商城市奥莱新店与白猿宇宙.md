@@ -1,14 +1,14 @@
 ---
 type: source
 title: AWOKEN TIME 武商城市奥莱新店与白猿宇宙（A1·2026-08-20）
-aliases: ["AWOKEN TIME新店", "awoken_time白猿宇宙", "AWOKEN TIME武汉门店"]
 tags: [awoken_time, streetwear, concept_store, wuhan, china, omnichannel]
 sources: [2026-08-20_awoken_time_武商城市奥莱新店与白猿宇宙.md]
+aliases: ["AWOKEN TIME", "AWOKEN", "TIME", "武商城市奥莱新店与白猿宇宙（A1", "AWOKEN TIME 武商城市奥莱新店与白猿宇宙（A1·2026-08-20）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-20
 updated: 2026-08-20
 cross_refs: [[awoken_time]], [[服装行业竞争格局]], [[awoken_space]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # AWOKEN TIME 武商城市奥莱新店与白猿宇宙（A1·2026-08-20）

@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝雅诗 价格带与西单新装（A1·2026-08-21）
-aliases: ["艾诺丝价格带", "ARIOSE YEARS 西单大悦城", "AW PROJECT GMV 3500万"]
 tags: [ariose_years, womenswear, premium, china_brand, pricing, channel, focus]
 sources: [2026-08-21_ariose_years_价格带与西单新装.md]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "价格带与西单新装（A1", "艾诺丝雅诗 价格带与西单新装（A1·2026-08-21）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[dekashell]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 艾诺丝雅诗 价格带与西单新装（A1·2026-08-21）

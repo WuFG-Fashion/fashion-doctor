@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HumbleHumbleR 2025-2026 全维度动态（首店46万/3天/明星同款/多城布局）
-aliases: [HumbleHumbleR 2025 2026, humble humble R A2轮动态, humble_humble_r_2026_update]
 tags: [humble_humble_r, 国潮, 新锐品牌, A2, source, brand_update]
 sources: [websearch-2026-08-16]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HumbleHumbleR", "2025-2026", "A2轮·HumbleHumbleR 2025-2026 全维度动态（首店46万/3天/明星同款/多城布局）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[humble_humble_r]], [[中国服装零售基准体系2026]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HumbleHumbleR 2025-2026 全维度动态

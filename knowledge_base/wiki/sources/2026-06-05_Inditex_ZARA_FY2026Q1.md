@@ -3,6 +3,9 @@ type: source
 title: 2026-06-05 Inditex ZARA FY2026Q1
 tags: [zara, inditex, competitor, financial, fast_fashion, global]
 sources: [https://life.tom.com/202606/1935003522.html]
+aliases: ["Inditex", "ZARA", "FY2026Q1", "Inditex ZARA FY2026Q1"]
+confidence: 财报
+brand_specific: false
 created: 2026-06-05
 updated: 2026-06-05
 cross_refs: [[inditex_zara]], [[four_brands_2025]], [[服装行业竞争格局]]

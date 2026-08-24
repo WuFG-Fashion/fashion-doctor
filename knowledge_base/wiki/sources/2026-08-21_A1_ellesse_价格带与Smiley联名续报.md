@@ -1,14 +1,14 @@
 ---
 type: source
 title: ellesse 价格带与 Smiley 联名续报（A1·2026-08-21）
-aliases: ["ellesse价格带", "ellesse Smiley联名", "ellesse 网球裙"]
 tags: [ellesse, sportswear, retro, italy, pricing, collaboration]
 sources: [2026-08-21_ellesse_价格带与Smiley联名续报.md]
+aliases: ["Ellesse", "ellesse", "价格带与", "Smiley", "ellesse 价格带与 Smiley 联名续报（A1·2026-08-21）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # ellesse 价格带与 Smiley 联名续报（A1·2026-08-21）

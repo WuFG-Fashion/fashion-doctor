@@ -1,13 +1,13 @@
 ---
 type: source
 title: 艾诺丝 ARIOSE YEARS — 门店规模与价格带（轻淑女装）
-aliases: [艾诺丝门店2800家, ARIOSE YEARS 价格, 艾诺丝雅诗]
 tags: [ariose_years, 女装, 门店规模, 价格带, 轻淑, 杭州]
 sources: [https://aiqicha.baidu.com/m/corpmarket?query=dbc058984a0ef1a0a4354e2357ea73ab, http://zs.efu.com.cn/ariose_years, http://www.51ef.com.cn/brand/arioseyears/about.html]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "ARIOSE", "艾诺丝 ARIOSE YEARS — 门店规模与价格带（轻淑女装）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # 艾诺丝 ARIOSE YEARS — 门店规模与价格带（轻淑女装）

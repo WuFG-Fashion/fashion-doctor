@@ -1,14 +1,14 @@
 ---
 type: source
 title: 迪卡轩加盟培训与终端运营体系佐证
-aliases: [迪卡轩加盟培训, dekashell培训体系, 佰加商学院, 迪卡轩督导部]
 tags: [dekashell, franchise, training, store_operation, 加盟运营]
 sources: [wiki/raw/articles/2026-08-21_B_dekashell_加盟培训与终端运营体系.md]
+aliases: ["迪卡轩", "DEKASHELL", "迪卡轩加盟培训与终端运营体系佐证"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[dekashell]], [[导购培训闭环体系]], [[导购培训SOP]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 迪卡轩加盟培训与终端运营体系佐证

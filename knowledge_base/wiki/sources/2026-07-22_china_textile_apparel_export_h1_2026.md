@@ -3,6 +3,9 @@ type: source
 title: 2026上半年中国纺织服装出口 — 海关总署数据
 tags: [export, trade, industry, china_apparel, customs]
 sources: [海关总署, 中国纺织品进出口商会, 中新社]
+aliases: ["2026上半年中国纺织服装出口", "海关总署数据", "2026上半年中国纺织服装出口 — 海关总署数据"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[china_apparel_export_2026]], [[china_apparel_industry_2026q1]]

@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝雅诗 AW PROJECT 重奢拓展与 RicoVea 新锐（A1·2026-08-20）
-aliases: ["艾诺丝AWPROJECT重奢", "ariose RicoVea", "爱唯时尚集团多品牌"]
 tags: [ariose_years, womenswear, premium, brand_matrix, hangzhou, focus_brand]
 sources: [2026-08-20_ariose_years_AW_PROJECT重奢与RicoVea.md]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "AW", "艾诺丝雅诗 AW PROJECT 重奢拓展与 RicoVea 新锐（A1·2026-08-20）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-20
 updated: 2026-08-20
 cross_refs: [[ariose_years]], [[dekashell]], [[服装行业竞争格局]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # 艾诺丝雅诗 AW PROJECT 重奢拓展与 RicoVea 新锐（A1·2026-08-20）

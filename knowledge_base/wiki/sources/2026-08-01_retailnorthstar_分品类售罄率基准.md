@@ -3,6 +3,9 @@ type: source
 title: retailnorthstar——分品类正价售罄率基准与期初库存校验
 tags: [sell_through, merchandise, inventory, otb, benchmark, risk]
 sources: [2026-08-01_retailnorthstar_分品类售罄率基准]
+aliases: ["retailnorthstar", "分品类正价售罄率基准与期初库存校验", "retailnorthstar——分品类正价售罄率基准与期初库存校验"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[服装企划趋势渠道]], [[sell_through_examination_standard_2026|售罄率考核基准2026]]

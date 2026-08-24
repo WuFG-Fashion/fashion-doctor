@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·Marcelo Burlon 2026 全维度动态（Farfetch→Daddato Next授权易主+Fall2025重启+Eastpak/Kappa联名）
-aliases: [Marcelo Burlon 2026-08-22 动态, marcelo_burlon_2026_0822_update]
 tags: [marcelo_burlon, county_of_milan, italian, streetwear, licensing, collab, A2, source, brand_update]
 sources: [websearch-2026-08-22]
+aliases: ["Marcelo Burlon", "A2轮", "Marcelo", "Burlon", "A2轮·Marcelo Burlon 2026 全维度动态（Farfetch→Daddato Next授权易主+Fall2025重启+Eastpak/Kappa联名）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[marcelo_burlon]], [[服装企划趋势渠道]], [[中国服装零售基准体系2026]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A2轮·Marcelo Burlon 2026 全维度动态

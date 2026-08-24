@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·太平鸟 2026Q1 组织架构调整与门店轨迹序列（旗舰店集合店114家、分红3元）
-aliases: [太平鸟 2026-08-21 动态, 太平鸟 组织架构调整, 太平鸟 门店轨迹, 太平鸟 旗舰店集合店 114, PEACEBIRD 组织架构, peacebird_2026_0821_update]
 tags: [peacebird, 组织架构, 门店结构, 旗舰店, 集合店, 分红, 品牌升级, A3, source, brand_update]
 sources: [2026-08-21_peacebird_组织架构调整与门店轨迹序列]
+aliases: ["太平鸟", "PEACEBIRD", "A3轮", "2026Q1", "A3轮·太平鸟 2026Q1 组织架构调整与门店轨迹序列（旗舰店集合店114家、分红3元）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[peacebird]], [[2026-08-19_A3_peacebird_全维度动态]], [[2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%]], [[2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略]], [[salomon]], [[服装企划趋势渠道]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # A3轮·太平鸟 2026Q1 组织架构调整与门店轨迹序列

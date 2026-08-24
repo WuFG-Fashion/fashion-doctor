@@ -3,6 +3,9 @@ type: source
 title: AI Agent 正在改变商品计划（第七在线 / InfoQ）
 tags: [merchandise, ai_agent, planning, sell_through_week, otb, scenario_simulation]
 sources: [2026-08-03_第七在线_InfoQ_AI_Agent改变商品计划]
+aliases: ["AI", "Agent", "正在改变商品计划（第七在线", "InfoQ）", "AI Agent 正在改变商品计划（第七在线 / InfoQ）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-03
 updated: 2026-08-03
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[服装企划趋势渠道]]

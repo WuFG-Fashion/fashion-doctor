@@ -1,14 +1,14 @@
 ---
 type: source
 title: 迪卡轩 DEKASHELL 母公司与省域门店分布（A1·2026-08-22）
-aliases: ["迪卡轩 杭州佰加服饰", "迪卡轩省域门店", "DEKASHELL 加盟分布"]
 tags: [dekashell, womenswear, china_brand, store_distribution, franchise]
 sources: [2026-08-22_dekashell_母公司与省域门店.md]
+aliases: ["迪卡轩", "DEKASHELL", "母公司与省域门店分布（A1", "2026-08-22）", "迪卡轩 DEKASHELL 母公司与省域门店分布（A1·2026-08-22）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[dekashell]], [[ariose_years]], [[服装行业竞争格局]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # 迪卡轩 DEKASHELL 母公司与省域门店分布（A1·2026-08-22）

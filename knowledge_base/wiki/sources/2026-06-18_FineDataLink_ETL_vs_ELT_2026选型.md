@@ -3,6 +3,9 @@ type: source
 title: 2026 ETL vs ELT 选型与FineDataLink双模式最佳实践
 tags: [etl, data_warehouse, multi_brand, fine_datalink, architecture]
 sources: [wiki/raw/articles/2026-06-18_FineDataLink_ETL_vs_ELT_2026选型.md]
+aliases: ["2026", "ETL", "vs", "ELT", "2026 ETL vs ELT 选型与FineDataLink双模式最佳实践"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-18
 updated: 2026-06-18
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_lakehouse_2026]]

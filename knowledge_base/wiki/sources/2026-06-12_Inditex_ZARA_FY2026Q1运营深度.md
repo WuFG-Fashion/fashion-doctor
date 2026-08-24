@@ -3,6 +3,9 @@ type: source
 title: Inditex/ZARA FY2026Q1运营深度
 tags: [zara, inditex, competitor, financial, store_network]
 sources: [2026-06-12_Inditex_ZARA_FY2026Q1运营更新.md]
+aliases: ["Inditex/ZARA", "FY2026Q1运营深度", "Inditex/ZARA FY2026Q1运营深度"]
+confidence: 财报
+brand_specific: false
 created: 2026-06-12
 updated: 2026-06-12
 cross_refs: [[inditex_zara]], [[fast_retailing]], [[服装行业竞争格局]]

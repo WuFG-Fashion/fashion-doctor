@@ -3,6 +3,9 @@ type: source
 title: Polars 2026深层架构与生态全景
 tags: [polars, rust, arrow, benchmark, ecosystem, optimization]
 sources: [https://chenxutan.com/d/3111.html]
+aliases: ["Polars", "2026深层架构与生态全景", "Polars 2026深层架构与生态全景"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-27
 updated: 2026-06-27
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[ETL架构选型]]

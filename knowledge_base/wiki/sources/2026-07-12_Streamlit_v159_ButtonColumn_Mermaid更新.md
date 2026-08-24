@@ -3,6 +3,9 @@ type: source
 title: Streamlit v1.59.0 ButtonColumn/Mermaid/文件粘贴 + v1.58并行Fragment回顾
 tags: [streamlit, dashboard, mermaid, button_column, parallel_fragment, production]
 sources: [https://docs.streamlit.io/en/stable/changelog.html, https://www.change8.dev/package/streamlit]
+aliases: ["Streamlit", "v1.59.0", "ButtonColumn/Mermaid/文件粘贴", "v1.58并行Fragment回顾", "Streamlit v1.59.0 ButtonColumn/Mermaid/文件粘贴 + v1.58并行Fragment回顾"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[python_dashboard_ecosystem_2026]]

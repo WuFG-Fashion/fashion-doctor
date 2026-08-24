@@ -1,13 +1,13 @@
 ---
 type: source
 title: Megaview：AI培训重塑线下成交链路——转化率+40%/知识留存72%/上岗6→2月
-aliases: [Megaview AI培训重塑成交链路, 深维智信AI培训, megaview_23840]
 tags: [guide, ai, training, megaview, coaching, conversion, source]
 sources: [https://www.megaview.com/resource/archives/23840]
+aliases: ["Megaview：AI培训重塑线下成交链路", "转化率+40%/知识留存72%/上岗6→2月", "Megaview：AI培训重塑线下成交链路——转化率+40%/知识留存72%/上岗6→2月"]
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
-confidence: 品牌自宣
 ---
 
 # Megaview：AI培训重塑线下成交链路——转化率+40%/知识留存72%/上岗6→2月

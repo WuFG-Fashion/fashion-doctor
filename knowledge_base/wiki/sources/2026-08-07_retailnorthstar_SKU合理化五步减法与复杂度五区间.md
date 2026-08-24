@@ -3,6 +3,9 @@ type: source
 title: retailnorthstar — SKU 合理化五步减法与复杂度五区间模型
 tags: [merchandise, sku, rationalization, assortment, otb, benchmark]
 sources: [2026-08-07_retailnorthstar_SKU合理化减法流程与复杂度成本曲线.md]
+aliases: ["retailnorthstar", "SKU", "合理化五步减法与复杂度五区间模型", "retailnorthstar — SKU 合理化五步减法与复杂度五区间模型"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-07
 updated: 2026-08-07
 cross_refs: [[sku_fine_management]], [[动态OTB管理]], [[柔性供应链与商品企划]], [[sell_through_examination_standard_2026]], [[2026-08-01_retailnorthstar_分品类售罄率基准]], [[2026-08-05_wecx_女装商品结构金字塔四层占比]]

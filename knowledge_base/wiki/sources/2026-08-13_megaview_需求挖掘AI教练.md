@@ -3,6 +3,9 @@ type: source
 title: 连锁门店导购高压训练场景切片AI教练陪练破解需求挖掘难题
 tags: [guide, ai_training, knowledge_retention, retail]
 sources: [https://www.megaview.com/resource/archives/32488]
+aliases: ["连锁门店导购高压训练场景切片AI教练陪练破解需求挖掘难题"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-13
 updated: 2026-08-13
 cross_refs: [[AI导购陪练]], [[深维智信]]

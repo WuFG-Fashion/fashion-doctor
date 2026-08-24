@@ -3,6 +3,9 @@ type: source
 title: Style3D Blog — Agentic AI Workflows 成为全球时尚科技标准（Q1 2026）
 tags: [ai, agent, fashion, style3d, digital_twin, benchmark, supply_chain]
 sources: [2026-07-26_style3d_blog_agentic_ai_fashion_standard]
+aliases: ["Style3D", "Blog", "Agentic", "AI", "Style3D Blog — Agentic AI Workflows 成为全球时尚科技标准（Q1 2026）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-26
 updated: 2026-07-26
 cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]]

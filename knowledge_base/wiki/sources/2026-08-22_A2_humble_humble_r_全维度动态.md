@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HUMBLE 2026 全维度动态（街头服饰定位+NIL台湾渠道+与Humble Group AB食饮集团消歧）
-aliases: [HUMBLE 2026-08-22 动态, humble_humble_r_2026_0822_update]
 tags: [humble_humble_r, humble, streetwear, channel, A2, source, brand_update]
 sources: [websearch-2026-08-22]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HUMBLE", "2026", "A2轮·HUMBLE 2026 全维度动态（街头服饰定位+NIL台湾渠道+与Humble Group AB食饮集团消歧）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[humble_humble_r]], [[服装企划趋势渠道]], [[中国服装零售基准体系2026]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HUMBLE 2026 全维度动态

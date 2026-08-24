@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA 2026 全维度动态（Deckers FY2026 创纪录、HOKA 25.87 亿美元 +15.9%、中国 230 店成最大单一市场）
-aliases: [HOKA 2026-08-21 动态, Deckers FY2026 财报, hoka_one_one_2026_0821_update]
 tags: [hoka_one_one, 跑步, 运动鞋, Deckers, 中国市场, 财报, A2, source, brand_update]
 sources: [websearch-2026-08-21]
+aliases: ["HOKA", "霍咖", "A2轮", "2026", "A2轮·HOKA 2026 全维度动态（Deckers FY2026 创纪录、HOKA 25.87 亿美元 +15.9%、中国 230 店成最大单一市场）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[hoka_one_one]], [[中国服装零售基准体系2026]], [[服装行业竞争格局]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA 2026 全维度动态

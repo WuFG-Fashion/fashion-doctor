@@ -1,14 +1,14 @@
 ---
 type: source
 title: DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）
-aliases: [2026-08-23_A1_dekashell_南溪贺州新店与母公司口径]
 tags: [dekashell, womenswear, store, hangzhou, price_band]
 sources: [wiki/raw/articles/2026-08-23_dekashell_南溪贺州新店与母公司口径.md]
+aliases: ["迪卡轩", "DEKASHELL", "南溪贺州新店与母公司口径（A1", "2026-08-23）", "DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）

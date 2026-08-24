@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HUMBLE 2026 全维度动态（宁波阪急全国首家臻选店，店型升级）
-aliases: [HUMBLE 2026-08-18 动态, humble_humble_r A2轮动态, humble_2026_0818_update]
 tags: [humble_humble_r, 本土设计师品牌, 店型升级, 宁波, A2, source, brand_update]
 sources: [websearch-2026-08-18]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HUMBLE", "2026", "A2轮·HUMBLE 2026 全维度动态（宁波阪急全国首家臻选店，店型升级）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[humble_humble_r]], [[中国服装零售基准体系2026]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HUMBLE 2026 全维度动态

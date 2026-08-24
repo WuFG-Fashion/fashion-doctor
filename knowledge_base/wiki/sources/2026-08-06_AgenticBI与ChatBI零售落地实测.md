@@ -3,6 +3,9 @@ type: source
 title: Agentic BI 与 ChatBI 零售落地实测 — 取数 1-2 天到 30 秒（2026）
 tags: [bi, chatbi, agentic_bi, retail, dashboard, ai_bi, metrics_platform, source]
 sources: [2026-08-06_恒石观远_AgenticBI与ChatBI零售落地实测.md, https://www.hengshi.com/blog/agentic-bi-retail-omnichannel.html, https://blog.csdn.net/GUANDATA_/article/details/159717060, https://www.finebi.com, https://developer.aliyun.com/article/1707654]
+aliases: ["Agentic", "BI", "ChatBI", "零售落地实测", "Agentic BI 与 ChatBI 零售落地实测 — 取数 1-2 天到 30 秒（2026）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-06
 updated: 2026-08-06
 cross_refs: [[retail_analytics_reporting_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[multi_brand_unified_analytics]], [[data_quality_governance]]

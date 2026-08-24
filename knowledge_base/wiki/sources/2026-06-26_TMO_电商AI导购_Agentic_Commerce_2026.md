@@ -3,6 +3,9 @@ type: source
 title: TMO Group 2026电商AI导购与Agentic Commerce深度报告
 tags: [ai, ecommerce, agent, virtual_tryon, conversion]
 sources: [https://www.tmogroup.com.cn/insights/ai-shopping-assistant/]
+aliases: ["TMO", "Group", "2026电商AI导购与Agentic", "Commerce深度报告", "TMO Group 2026电商AI导购与Agentic Commerce深度报告"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-26
 updated: 2026-06-26
 cross_refs: [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]], [[AI导购陪练]]

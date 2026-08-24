@@ -3,6 +3,9 @@ type: source
 title: CLO Virtual Fashion DiffGI 薄壳 3D 服装生成（arXiv 2607.13365）
 tags: [ai, fashion_design, 3d, digital_twin, research, arxiv, thin_shell]
 sources: [2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成.md]
+aliases: ["CLO", "Virtual", "Fashion", "DiffGI", "CLO Virtual Fashion DiffGI 薄壳 3D 服装生成（arXiv 2607.13365）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-02
 updated: 2026-08-02
 cross_refs: [[ai_fashion_design_cases_2026]], [[ai_fashion_market_2026]]

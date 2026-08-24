@@ -3,6 +3,9 @@ type: source
 title: RenderedFits AI虚拟试衣产业趋势2026
 tags: [ai, virtual_tryon, agentic_commerce, conversion, market_size, mckinsey]
 sources: [2026-07-13_RenderedFits_AI虚拟试衣产业趋势2026.md]
+aliases: ["RenderedFits", "AI虚拟试衣产业趋势2026", "RenderedFits AI虚拟试衣产业趋势2026"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-14
 updated: 2026-07-14
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]]

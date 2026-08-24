@@ -3,6 +3,9 @@ type: source
 title: Polars/DuckDB/Pandas三引擎实测对比2026
 tags: [polars, duckdb, pandas, python, benchmark, arrow, selection]
 sources: [https://www.toutiao.com/article/7628966471826014760/]
+aliases: ["Polars/DuckDB/Pandas三引擎实测对比2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-27
 updated: 2026-06-27
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[data_library_selection_guide_2026]]

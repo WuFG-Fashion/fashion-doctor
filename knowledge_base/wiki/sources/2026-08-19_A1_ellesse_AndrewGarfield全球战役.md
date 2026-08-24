@@ -1,13 +1,13 @@
 ---
 type: source
 title: ellesse Andrew Garfield「Do It Like An Italian」全球战役与 Smiley/PUMA 联名
-aliases: [ellesse Andrew Garfield, ellesse Do It Like An Italian, ellesse Smiley PUMA]
 tags: [ellesse, 营销战役, 代言, 联名, 运动复古, Pentland]
 sources: [https://pentlandbrands.com/ellesse-enters-a-new-era-with-andrew-garfield-fronting-global-campaign-do-it-like-an-italian-shot-by-oliver-hadlee-pearch, https://us.fashionnetwork.com/news/Ellesse-embarks-on-summer-into-winter-new-era-campaign-starring-actor-andrew-garfield,1839079.html]
-created: 2026-08-19
-updated: 2026-08-19
+aliases: ["Ellesse", "ellesse", "Andrew", "Garfield「Do", "ellesse Andrew Garfield「Do It Like An Italian」全球战役与 Smiley/PUMA 联名"]
 confidence: 品牌自宣
 brand_specific: true
+created: 2026-08-19
+updated: 2026-08-19
 ---
 
 # ellesse Andrew Garfield「Do It Like An Italian」全球战役与 Smiley/PUMA 联名

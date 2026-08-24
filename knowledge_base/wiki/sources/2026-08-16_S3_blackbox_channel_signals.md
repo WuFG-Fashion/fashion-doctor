@@ -1,14 +1,14 @@
 ---
 type: source
 title: S3·6黑箱品牌渠道信号补全
-aliases: [黑箱品牌渠道信号, blackbox_channel_signals, S3渠道补全]
 tags: [awoken_space, dkny, ellesse, koyo, mr_mrs, nerdy, 渠道信号, 第三方数据, S3, focus_brand_补数]
 sources: [https://f.cfw.cn/view/n358983.html, https://m.zixin.com.cn/doc/7520462.html, https://k.sina.cn/article_6192937794_17120bb4202002gdbe.html, https://www.liepin.com/company/8686632, https://www.htt.hk/?p=98341, https://www.toutiao.com/article/7309061611266851362/, https://news.43nx.cn/n/27954.html, https://baike.sogou.com/v10005737766.htm]
+aliases: ["S3", "6黑箱品牌渠道信号补全", "S3·6黑箱品牌渠道信号补全"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[awoken_space]], [[dkny]], [[ellesse]], [[koyo]], [[mr_mrs]], [[nerdy]], [[服装行业竞争格局]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # S3·6黑箱品牌渠道信号补全

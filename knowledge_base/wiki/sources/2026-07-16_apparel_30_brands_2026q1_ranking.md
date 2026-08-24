@@ -3,6 +3,9 @@ type: source
 title: 2026Q1服装家纺30强全景排名
 tags: [competitor, ranking, quarterly, finance, a_share]
 sources: [2026-07-16_2026Q1服装家纺30强全景排名.md]
+aliases: ["2026Q1服装家纺30强全景排名"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[peacebird]], [[hla]], [[semir]], [[bienlefen]], [[服装行业竞争格局]]

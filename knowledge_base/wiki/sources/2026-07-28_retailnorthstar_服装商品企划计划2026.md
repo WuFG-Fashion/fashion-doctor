@@ -3,6 +3,9 @@ type: source
 title: retailnorthstar服装商品企划计划2026
 tags: [otb, merchandise, planning, sku, size_curve, supply_chain]
 sources: [2026-07-28_retailnorthstar_服装商品企划计划2026.md]
+aliases: ["retailnorthstar服装商品企划计划2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[动态OTB管理]], [[sku_fine_management|服装SKU精细化管理]], [[柔性供应链与商品企划]]

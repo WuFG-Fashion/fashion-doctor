@@ -3,6 +3,9 @@ type: source
 title: Pandas 3.0 — Arrow原生集成与Copy-on-Write默认启用
 tags: [pandas, python, arrow, copy_on_write, dataframe, version_3]
 sources: [2026-07-03_Pandas官方_Pandas_3.0重大变革.md]
+aliases: ["Pandas", "3.0", "Arrow原生集成与Copy-on-Write默认启用", "Pandas 3.0 — Arrow原生集成与Copy-on-Write默认启用"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[streamlit_dashboard_2026]]

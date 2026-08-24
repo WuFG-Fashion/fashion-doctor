@@ -1,14 +1,14 @@
 ---
 type: source
 title: ellesse Andrew Garfield 全球战役量化 / Smiley / 价格带（A1·2026-08-23）
-aliases: ["ellesse Garfield 3000万", "ellesse Do It Like An Italian", "ellesse 价格带英镑", "艾力士 全球战役"]
 tags: [ellesse, sportswear, retro, italy, campaign, pentland, collaboration, focus_brand, brand_wall]
 sources: [2026-08-23_A1_ellesse_Garfield全球战役量化]
+aliases: ["Ellesse", "ellesse", "Andrew", "Garfield", "ellesse Andrew Garfield 全球战役量化 / Smiley / 价格带（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ellesse]], [[服装行业竞争格局], [服装价格带管理与价格真空区]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # ellesse Andrew Garfield 全球战役量化 / Smiley / 价格带（A1·2026-08-23）

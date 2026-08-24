@@ -3,6 +3,9 @@ type: source
 title: 海宁皮革城AI试衣镜 + 京东大时尚Oxygen Vision（虚拟试衣双线落地）
 tags: [ai, virtual_tryon, oxygen_vision, jd, haining, professional_market, h1_2026]
 sources: [2026-08-09_海宁皮革城_京东OxygenVision_AI试衣.md]
+aliases: ["海宁皮革城AI试衣镜", "京东大时尚Oxygen", "Vision（虚拟试衣双线落地）", "海宁皮革城AI试衣镜 + 京东大时尚Oxygen Vision（虚拟试衣双线落地）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[apparel_ai_agents_2026]]

@@ -1,14 +1,14 @@
 ---
 type: source
 title: AWOKEN TIME 白猿宇宙 IP / 武汉多店清单 / 外拓（A1·2026-08-23）
-aliases: ["AWOKEN TIME 白猿宇宙", "AWOKEN TIME 8.7米白猿", "AWOKEN TIME 武汉4店", "唤醒时刻 集合店"]
 tags: [awoken_time, streetwear, concept_store, wuhan, ip, store, china, focus_brand]
 sources: [2026-08-23_A1_awoken_time_白猿宇宙与多店清单]
+aliases: ["AWOKEN TIME", "AWOKEN", "TIME", "白猿宇宙", "AWOKEN TIME 白猿宇宙 IP / 武汉多店清单 / 外拓（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[awoken_time]], [[awoken_space]], [服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # AWOKEN TIME 白猿宇宙 IP / 武汉多店清单 / 外拓（A1·2026-08-23）

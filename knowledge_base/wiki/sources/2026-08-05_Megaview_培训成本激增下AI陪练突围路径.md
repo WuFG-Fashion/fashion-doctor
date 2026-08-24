@@ -3,6 +3,9 @@ type: source
 title: 培训成本激增下AI陪练突围路径（Megaview 深维智信）
 tags: [guide, training, ai, coaching, megaview, capability_model, source]
 sources: [2026-08-05_Megaview_培训成本激增下AI陪练突围路径]
+aliases: ["培训成本激增下AI陪练突围路径（Megaview", "深维智信）", "培训成本激增下AI陪练突围路径（Megaview 深维智信）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-05
 updated: 2026-08-05
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

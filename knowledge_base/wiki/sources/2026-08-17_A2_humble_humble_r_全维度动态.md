@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HumbleHumbleR 2025-2026 全维度动态（宁波新锐/Z世代极简/首店3天46万）
-aliases: [HumbleHumbleR 2025 2026, Humble 潮牌 A2轮动态, humble_humble_r_2026_update]
 tags: [humble_humble_r, 宁波, Z世代, 极简, 新锐品牌, A2, source, brand_update]
 sources: [websearch-2026-08-17]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HumbleHumbleR", "2025-2026", "A2轮·HumbleHumbleR 2025-2026 全维度动态（宁波新锐/Z世代极简/首店3天46万）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[humble_humble_r]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HumbleHumbleR 2025-2026 全维度动态

@@ -2,6 +2,9 @@
 type: source
 title: Streamlit DataFrame 显示与优化2026（Kanaries）
 tags: [streamlit, dataframe, visualization, optimization, pandas, polars]
+aliases: ["Streamlit", "DataFrame", "显示与优化2026（Kanaries）", "Streamlit DataFrame 显示与优化2026（Kanaries）"]
+confidence: 第三方数据
+brand_specific: false
 source_url: https://docs.kanaries.net/zh/topics/Streamlit/streamlit-dataframe
 created: 2026-06-09
 updated: 2026-06-09

@@ -3,6 +3,9 @@ type: source
 title: SQL查询优化2026：PostgreSQL 18 + AI工具 + 五步诊断法
 tags: [sql, optimization, postgresql, ai_tool, ever_sql, pg_mustard]
 sources: [2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18.md]
+aliases: ["SQL查询优化2026：PostgreSQL", "18", "AI工具", "五步诊断法", "SQL查询优化2026：PostgreSQL 18 + AI工具 + 五步诊断法"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[ETL架构选型]]

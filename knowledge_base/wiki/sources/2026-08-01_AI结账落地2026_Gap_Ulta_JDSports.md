@@ -3,6 +3,9 @@ type: source
 title: AI结账2026落地（Gap/Ulta/JD Sports + Bain $300-500B/McKinsey $1T）
 tags: [ai, agentic_commerce, checkout, fashion, gap, ulta, jd_sports, source]
 sources: [2026-08-01_AI结账落地2026_Gap_Ulta_JDSports]
+aliases: ["AI结账2026落地（Gap/Ulta/JD", "Sports", "Bain", "$300-500B/McKinsey", "AI结账2026落地（Gap/Ulta/JD Sports + Bain $300-500B/McKinsey $1T）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[agentic_commerce_fashion_2026]], [[apparel_ai_agents_2026]]

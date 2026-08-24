@@ -1,14 +1,14 @@
 ---
 type: source
 title: ellesse × Smiley 联名与 Andrew Garfield campaign（A1·2026-08-22）
-aliases: ["ellesse Smiley 联名", "ellesse Garfield campaign", "ellesse 价格带 2026"]
 tags: [ellesse, italy_brand, retro_sport, collaboration, price_band]
 sources: [2026-08-22_ellesse_Smiley与Garfield_campaign.md]
+aliases: ["Ellesse", "ellesse", "Smiley", "联名与", "ellesse × Smiley 联名与 Andrew Garfield campaign（A1·2026-08-22）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # ellesse × Smiley 联名与 Andrew Garfield campaign（A1·2026-08-22）

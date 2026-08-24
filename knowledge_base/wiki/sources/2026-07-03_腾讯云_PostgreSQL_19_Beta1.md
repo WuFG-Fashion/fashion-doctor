@@ -3,6 +3,9 @@ type: source
 title: PostgreSQL 19 Beta 1 — 60+项新特性与服装零售SQL优化
 tags: [sql, postgresql, optimization, performance, pg19]
 sources: [2026-07-03_腾讯云_PostgreSQL_19_Beta1.md]
+aliases: ["PostgreSQL", "19", "Beta", "60+项新特性与服装零售SQL优化", "PostgreSQL 19 Beta 1 — 60+项新特性与服装零售SQL优化"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]]

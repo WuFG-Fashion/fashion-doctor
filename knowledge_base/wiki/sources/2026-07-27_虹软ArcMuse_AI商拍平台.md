@@ -3,6 +3,9 @@ type: source
 title: 虹软ArcMuse引擎：双层架构破解AI商拍可控性与真实感
 tags: [arcsoft, ai, virtual_tryon, ecommerce, tool, arcmuse, commercial_photo]
 sources: [2026-07-27_arcsoft_arcmuse_ai_shoot.md]
+aliases: ["虹软ArcMuse引擎：双层架构破解AI商拍可控性与真实感"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-27
 updated: 2026-07-27
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_virtual_tryon_2026]]

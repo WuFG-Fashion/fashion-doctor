@@ -3,6 +3,9 @@ type: source
 title: VIP分层忠诚度ROI
 tags: [vip, membership, loyalty, repurchase, source]
 sources: [wiki/raw/articles/2026-08-09_Rivo_VIP分层忠诚度ROI.md]
+aliases: ["VIP分层忠诚度ROI"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[会员复购率提升策略]], [[全渠道会员一体化]]

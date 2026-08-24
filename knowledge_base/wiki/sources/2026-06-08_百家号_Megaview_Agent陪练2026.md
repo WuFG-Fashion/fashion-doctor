@@ -3,6 +3,9 @@ type: source
 title: Megaview Agent陪练 2026版
 tags: [guide, ai, training, coaching, retail]
 sources: [2026-06-08_百家号_Megaview_Agent陪练2026.md]
+aliases: ["Megaview", "Agent陪练", "2026版", "Megaview Agent陪练 2026版"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-08
 updated: 2026-06-21
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]], [[2026-06-19_CSDN_2026企业AI陪练综合能力榜单]]

@@ -3,6 +3,9 @@ type: source
 title: KOYO JEANS Koyo William 中国欧式街头牛仔速览 2026
 tags: [koyo, competitor, denim, streetwear, menswear, hongkong, designer, 2026, competitor_update]
 sources: [wiki/raw/articles/2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026.md]
+aliases: ["KOYO", "JEANS", "Koyo", "William", "KOYO JEANS Koyo William 中国欧式街头牛仔速览 2026"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_koyo_全维度动态]]"

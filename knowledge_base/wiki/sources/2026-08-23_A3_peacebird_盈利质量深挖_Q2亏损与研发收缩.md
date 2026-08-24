@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·太平鸟 2026H1 盈利质量深挖（Q2 单季亏损、研发-20.4%、现金流由负转正）
-aliases: [太平鸟 2026-08-23 动态, 太平鸟 Q2 亏损, 太平鸟 研发费用缩减, 太平鸟 经营现金流转正, 太平鸟 弱化大众化, peacebird_2026_0823_update]
 tags: [peacebird, 财报, 盈利质量, Q2亏损, 研发, 现金流, 存货减值, 战略, A3, source, brand_update]
 sources: [2026-08-23_金融界_太平鸟盈利质量深挖]
+aliases: ["太平鸟", "PEACEBIRD", "A3轮", "2026H1", "A3轮·太平鸟 2026H1 盈利质量深挖（Q2 单季亏损、研发-20.4%、现金流由负转正）"]
+confidence: 财报
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[peacebird]], [[2026-08-22_A3_peacebird_2026门店净增长指引与股权激励]], [[earnings_quality_nonrecurring_2026]], [[服装行业竞争格局]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A3轮·太平鸟 2026H1 盈利质量深挖

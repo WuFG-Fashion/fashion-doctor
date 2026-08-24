@@ -3,6 +3,9 @@ type: source
 title: 2026年ETL工具全场景对比 — Kettle/DataWorks/ETLCloud/FineDataLink
 tags: [etl, tool_selection, multi_brand, data_warehouse, kettle, dataworks, finelink]
 sources: [https://juejin.cn/post/7652581847889739802, https://www.finedatalink.com/blog/article/69e57f371916e24b220a53e7]
+aliases: ["2026年ETL工具全场景对比", "Kettle/DataWorks/ETLCloud/FineDataLink", "2026年ETL工具全场景对比 — Kettle/DataWorks/ETLCloud/FineDataLink"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_lakehouse_2026]]

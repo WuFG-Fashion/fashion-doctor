@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Trussardi 退出俄罗斯市场收尾（2026-04 法律清盘，地缘驱动）
-aliases: [Trussardi 2026-08-22 动态, Trussardi 退出俄罗斯, Trussardi Russia exit, 楚萨迪 退俄, trussardi_2026_0822_update]
 tags: [trussardi, TRU_TRUSSARDI, Miroglio, 俄罗斯, 地缘风险, 品牌延伸, 资产瘦身, A3, source, brand_update]
 sources: [2026-08-22_fancyhints_Trussardi退出俄罗斯市场]
+aliases: ["Trussardi", "楚萨迪", "A3轮", "退出俄罗斯市场收尾（2026-04", "A3轮·Trussardi 退出俄罗斯市场收尾（2026-04 法律清盘，地缘驱动）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[trussardi]], [2026-08-21_A3_trussardi_资本重组警示与品牌延伸], [brand_risk_signals_2026], [nautica], [服装行业竞争格局]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A3轮·Trussardi 退出俄罗斯市场收尾

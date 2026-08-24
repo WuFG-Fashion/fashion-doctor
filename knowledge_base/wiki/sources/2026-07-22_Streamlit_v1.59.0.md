@@ -3,6 +3,9 @@ type: source
 title: Streamlit v1.59.0 — ButtonColumn、Skeleton、Mermaid、App.run()
 tags: [streamlit, dashboard, button_column, skeleton, mermaid, production, dataframe]
 sources: [2026-07-22_Streamlit_v1.59.0_ButtonColumn_Skeleton_Mermaid]
+aliases: ["Streamlit", "v1.59.0", "ButtonColumn、Skeleton、Mermaid、App.run()", "Streamlit v1.59.0 — ButtonColumn、Skeleton、Mermaid、App.run()"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[python_dashboard_ecosystem_2026]]

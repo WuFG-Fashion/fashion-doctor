@@ -3,6 +3,9 @@ type: source
 title: DTC全渠道库存优化六项健康基准（Green Retail Consulting）
 tags: [merchandise, inventory, otb, sell_through, wos, markdown, source]
 sources: [2026-08-05_GreenRetail_DTC全渠道库存优化六项健康基准]
+aliases: ["DTC全渠道库存优化六项健康基准（Green", "Retail", "Consulting）", "DTC全渠道库存优化六项健康基准（Green Retail Consulting）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-05
 updated: 2026-08-05
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[sku_fine_management|服装SKU精细化管理]]

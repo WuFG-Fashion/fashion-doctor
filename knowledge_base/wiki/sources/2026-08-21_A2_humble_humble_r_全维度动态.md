@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HUMBLE HUMBLE R 2026 全维度动态（明星矩阵营销密集、26早春/春夏系列、山西奥莱渠道下沉）
-aliases: [HumbleHumbleR 2026-08-21 动态, 谦而不卑 2026 动态, humble_humble_r_2026_0821_update]
 tags: [humble_humble_r, 潮流男装, 中国品牌, 明星营销, 渠道, A2, source, brand_update]
 sources: [websearch-2026-08-21]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HUMBLE", "2026", "A2轮·HUMBLE HUMBLE R 2026 全维度动态（明星矩阵营销密集、26早春/春夏系列、山西奥莱渠道下沉）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HUMBLE HUMBLE R 2026 全维度动态

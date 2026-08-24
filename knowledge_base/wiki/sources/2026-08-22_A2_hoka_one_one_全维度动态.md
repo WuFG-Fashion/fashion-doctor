@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA 2026 全维度动态（Deckers FY26 Q2+中国双位数+联名矩阵XLIM/BEAMS/井柏然/John Elliott）
-aliases: [HOKA 2026-08-22 动态, hoka_one_one_2026_0822_update]
 tags: [hoka_one_one, hoka, deckers, running, china, collab, A2, source, brand_update]
 sources: [websearch-2026-08-22]
+aliases: ["HOKA", "霍咖", "A2轮", "2026", "A2轮·HOKA 2026 全维度动态（Deckers FY26 Q2+中国双位数+联名矩阵XLIM/BEAMS/井柏然/John Elliott）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[hoka_one_one]], [[全球服装财务基准2026]], [[中国服装零售基准体系2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA 2026 全维度动态

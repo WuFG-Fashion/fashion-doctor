@@ -3,6 +3,9 @@ type: source
 title: Megaview零售门店AI陪练实战方法论
 tags: [guide, ai, coaching, training, retail, megaview]
 sources: [2026-06-11_Megaview_零售门店AI陪练实战方法论.md]
+aliases: ["Megaview零售门店AI陪练实战方法论"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-11
 updated: 2026-06-11
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]

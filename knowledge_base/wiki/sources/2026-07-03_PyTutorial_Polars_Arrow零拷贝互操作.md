@@ -3,6 +3,9 @@ type: source
 title: Polars + Apache Arrow 零拷贝互操作指南 2026
 tags: [polars, arrow, zero_copy, duckdb, python, etl, interoperability]
 sources: [2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作.md]
+aliases: ["Polars", "Apache", "Arrow", "零拷贝互操作指南", "Polars + Apache Arrow 零拷贝互操作指南 2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[python_data_stack_decision_2026]]

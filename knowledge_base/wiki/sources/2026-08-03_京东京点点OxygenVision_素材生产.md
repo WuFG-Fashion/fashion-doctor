@@ -3,6 +3,9 @@ type: source
 title: 京东京点点Oxygen Vision服饰素材生产（2026）
 tags: [ai, virtual_tryon, ecommerce, content_production, jd, digital_model, source]
 sources: [2026-08-03_京东京点点OxygenVision_素材生产.md]
+aliases: ["京东京点点Oxygen", "Vision服饰素材生产（2026）", "京东京点点Oxygen Vision服饰素材生产（2026）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-03
 updated: 2026-08-03
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_virtual_tryon_2026]], [[retail_ai_adoption_2026]]

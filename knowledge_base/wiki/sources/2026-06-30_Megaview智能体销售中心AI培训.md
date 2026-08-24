@@ -3,6 +3,9 @@ type: source
 title: Megaview智能体销售中心AI培训——"AI筑基+人工赋能"零售导购培育新模式
 tags: [guide, ai, coaching, training, retail]
 sources: [2026-06-30_Megaview_智能体销售中心AI培训.md]
+aliases: ["Megaview智能体销售中心AI培训", "\"AI筑基+人工赋能\"零售导购培育新模式", "Megaview智能体销售中心AI培训——\"AI筑基+人工赋能\"零售导购培育新模式"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-01
 updated: 2026-07-01
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

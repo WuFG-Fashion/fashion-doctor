@@ -3,6 +3,9 @@ type: source
 title: 商务部2026年1-2月服装行业经济运行
 tags: [industry, kpi, benchmark, china_apparel, mofcom]
 sources: [2026-07-16_商务部2026年1-2月服装行业运行.md]
+aliases: ["商务部2026年1-2月服装行业经济运行"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[china_apparel_industry_2026q1]], [[apparel_inventory_benchmark_2026]]

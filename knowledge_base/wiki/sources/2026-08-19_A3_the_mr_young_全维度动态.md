@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·THE MR YOUNG 2026 全维度动态（运营主体上海艾动实业、500+店自宣、扬仔IP与鲸鱼赛车联名）
-aliases: [THE MR YOUNG 2026-08-19 动态, 密特扬 上海艾动实业, 扬仔 IP, 鲸鱼赛车 联名, the_mr_young_2026_0819_update]
 tags: [the_mr_young, 密特扬, 上海艾动实业, 国潮, 自有IP, 联名, 淮海中路, A3, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["The Mr. Young", "A3轮", "THE", "MR", "A3轮·THE MR YOUNG 2026 全维度动态（运营主体上海艾动实业、500+店自宣、扬仔IP与鲸鱼赛车联名）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[the_mr_young]], [[no_one_else]], [[light_luxury_brand_framework_2026]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A3轮·THE MR YOUNG 2026 全维度动态

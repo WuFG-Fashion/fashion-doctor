@@ -3,6 +3,9 @@ type: source
 title: 零售AI培训系统三分类2026
 tags: [guide, ai, coaching, training, tool_selection]
 sources: [2026-06-14_Megaview_零售AI培训系统分类对比.md]
+aliases: ["零售AI培训系统三分类2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]

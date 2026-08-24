@@ -2,6 +2,9 @@
 type: source
 title: Polars vs Pandas 2026深度评测（Kanaries）
 tags: [polars, pandas, benchmark, python, data_analysis, migration]
+aliases: ["Polars", "vs", "Pandas", "2026深度评测（Kanaries）", "Polars vs Pandas 2026深度评测（Kanaries）"]
+confidence: 第三方数据
+brand_specific: false
 source_url: https://docs.kanaries.net/zh/articles/polars-vs-pandas
 created: 2026-06-09
 updated: 2026-06-09

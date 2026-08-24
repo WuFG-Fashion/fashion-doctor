@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA（Deckers）2025-2026 全维度动态（FY2026创纪录/中国250+店/羚感空间）
-aliases: [HOKA 2025 2026, Hoka One One A2轮动态, hoka_one_one_2026_update]
 tags: [hoka_one_one, deckers, running, china, A2, source, brand_update]
 sources: [websearch-2026-08-16]
+aliases: ["HOKA", "霍咖", "A2轮", "HOKA（Deckers）2025-2026", "A2轮·HOKA（Deckers）2025-2026 全维度动态（FY2026创纪录/中国250+店/羚感空间）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[hoka_one_one]], [[china_apparel_2026q1_operations]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA（Deckers）2025-2026 全维度动态

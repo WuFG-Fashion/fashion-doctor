@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）
-aliases: [2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店]
 tags: [ariose_years, womenswear, store, price_band, hangzhou]
 sources: [wiki/raw/articles/2026-08-23_ariose_years_百度百科门店口径与蒙阴新店.md]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "门店口径与蒙阴新店（A1", "艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # 艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）

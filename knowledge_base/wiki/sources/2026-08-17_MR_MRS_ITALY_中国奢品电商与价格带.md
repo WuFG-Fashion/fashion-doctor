@@ -1,14 +1,14 @@
 ---
 type: source
 title: MR&MRS ITALY（皮草夫妇）— 中国奢品电商与价格带
-aliases: ["MR&MRS ITALY 中国", "皮草夫妇 价格"]
 tags: [mr_mrs, competitor, luxury, fur, parka, cross_border]
 sources: [2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带]
+aliases: ["MR & MRS", "MR&MRS", "ITALY（皮草夫妇）", "中国奢品电商与价格带", "MR&MRS ITALY（皮草夫妇）— 中国奢品电商与价格带"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[mr_mrs]], [[服装行业竞争格局]], [[peacebird]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # MR&MRS ITALY（皮草夫妇）— 中国奢品电商与价格带

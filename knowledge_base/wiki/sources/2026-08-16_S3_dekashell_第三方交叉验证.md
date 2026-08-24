@@ -1,14 +1,14 @@
 ---
 type: source
 title: S3·迪卡轩DEKASHELL 第三方交叉验证
-aliases: [迪卡轩第三方验证, dekashell_cross_check, 杭州旭弘实业交叉验证]
 tags: [dekashell, 迪卡轩, 女装, 第三方数据, 交叉验证, S3, focus_brand]
 sources: [https://www.quanzhi.com/company/145578395, https://fzsjxy.jift.edu.cn/info/1023/11786.htm, https://www.liepin.com/job/1976366125.shtml]
+aliases: ["迪卡轩", "DEKASHELL", "S3", "迪卡轩DEKASHELL", "S3·迪卡轩DEKASHELL 第三方交叉验证"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[dekashell]], [[服装行业竞争格局]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # S3·迪卡轩DEKASHELL 第三方交叉验证

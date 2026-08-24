@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·KARL LAGERFELD 中国（七匹狼）2026 全维度动态（2025主业失速·KL中国净亏0.66亿·2026H1预亏）
-aliases: [karl_lagerfeld 2026-08-23 动态, karl_lagerfeld_2026_0823_update]
 tags: [karl_lagerfeld, 七匹狼, 轻奢, 中国, 财报, A2, source, brand_update]
 sources: [websearch-2026-08-23, 2026-08-23_karl_lagerfeld_septwolves_2026h1]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "KARL", "A2轮·KARL LAGERFELD 中国（七匹狼）2026 全维度动态（2025主业失速·KL中国净亏0.66亿·2026H1预亏）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[karl_lagerfeld]], [服装行业竞争格局], [中国服装零售基准体系2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·KARL LAGERFELD 中国（七匹狼）2026 全维度动态

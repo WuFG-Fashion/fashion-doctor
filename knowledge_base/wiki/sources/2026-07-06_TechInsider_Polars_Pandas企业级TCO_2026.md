@@ -3,6 +3,9 @@ type: source
 title: Tech Insider Polars vs Pandas 2026 企业级案例与TCO
 tags: [polars, pandas, benchmark, enterprise, tco, github, jpmorgan, tpc_h]
 sources: [https://tech-insider.org/polars-vs-pandas-2026/]
+aliases: ["Tech", "Insider", "Polars", "vs", "Tech Insider Polars vs Pandas 2026 企业级案例与TCO"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[ETL架构选型]], [[data_library_selection_guide_2026]], [[multi_brand_unified_analytics]]

@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Tommy Hilfiger 2026 全维度动态（PVH Q2 品牌收入 8.92 亿美元 +4%、上轮 Q1 两口径矛盾辨析）
-aliases: [Tommy Hilfiger 2026-08-19 动态, PVH 2026Q2 Tommy, 汤米希尔费格 Q2, PVH 口径辨析, tommy_hilfiger_2026_0819_update]
 tags: [tommy_hilfiger, PVH, 财报, 口径辨析, 数据矛盾, A3, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["Tommy Hilfiger", "汤米希尔费格", "A3轮", "Tommy", "A3轮·Tommy Hilfiger 2026 全维度动态（PVH Q2 品牌收入 8.92 亿美元 +4%、上轮 Q1 两口径矛盾辨析）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[tommy_hilfiger]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[earnings_quality_nonrecurring_2026]], [[peacebird]], [[中国服装零售基准体系2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A3轮·Tommy Hilfiger 2026 全维度动态

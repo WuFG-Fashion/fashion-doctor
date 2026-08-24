@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Tommy Hilfiger 618 天猫 TOP5 与关税冲击（中国/APAC 仍承压）
-aliases: [Tommy Hilfiger 2026-08-22 动态, Tommy 618 天猫 TOP5, Tommy 关税 7000万, PVH 关税 EBIT, tommy_hilfiger_2026_0822_update]
 tags: [tommy_hilfiger, PVH, 618, 天猫, 关税, APAC, 中国, 大促, A3, source, brand_update]
 sources: [2026-08-22_InsiderMonkey_PVH_Tommy_618与关税冲击]
+aliases: ["Tommy Hilfiger", "汤米希尔费格", "A3轮", "Tommy", "A3轮·Tommy Hilfiger 618 天猫 TOP5 与关税冲击（中国/APAC 仍承压）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[tommy_hilfiger]], [2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调], [服装行业竞争格局], [earnings_quality_nonrecurring_2026], [nautica]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A3轮·Tommy Hilfiger 618 天猫 TOP5 与关税冲击

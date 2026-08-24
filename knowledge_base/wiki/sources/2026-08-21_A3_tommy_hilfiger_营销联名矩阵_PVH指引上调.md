@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Tommy Hilfiger 2026 营销与联名矩阵（PVH 营销加投、Peanuts童装、Cadillac F1、台北101快闪）
-aliases: [Tommy Hilfiger 2026-08-21 动态, Tommy Peanuts 联名, Tommy Cadillac F1, PVH 营销加投, tommy_hilfiger_2026_0821_update]
 tags: [tommy_hilfiger, PVH, 营销, 联名, F1, Peanuts, 童装, 快闪, A3, source, brand_update]
 sources: [2026-08-21_maideyi_TommyHilfiger_PVH_Q2营销与联名矩阵]
+aliases: ["Tommy Hilfiger", "汤米希尔费格", "A3轮", "Tommy", "A3轮·Tommy Hilfiger 2026 营销与联名矩阵（PVH 营销加投、Peanuts童装、Cadillac F1、台北101快闪）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[peacebird]], [[服装行业竞争格局]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A3轮·Tommy Hilfiger 2026 营销与联名矩阵

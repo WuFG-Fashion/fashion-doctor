@@ -3,6 +3,9 @@ type: source
 title: Agent陪练导购随身实战教练
 tags: [guide, ai, coaching, training]
 sources: [2026-06-29_zhihu_Agent陪练导购随身实战教练.md]
+aliases: ["Agent陪练导购随身实战教练"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]

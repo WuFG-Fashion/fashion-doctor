@@ -1,13 +1,13 @@
 ---
 type: source
 title: AWOKEN TIME — 武汉门店网络与潮流集合店模式
-aliases: [AWOKEN TIME 武汉, awoken_time 国广店, 潮流集合店 awoken]
 tags: [awoken_time, 潮流集合店, 武汉, 门店网络, 中国潮牌]
 sources: [https://f.cfw.cn/view/n358983.html, https://m.dianping.com/ugcdetail/190232977, https://www.toutiao.com/article/7314928749164675647/]
+aliases: ["AWOKEN TIME", "AWOKEN", "TIME", "武汉门店网络与潮流集合店模式", "AWOKEN TIME — 武汉门店网络与潮流集合店模式"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # AWOKEN TIME — 武汉门店网络与潮流集合店模式

@@ -1,14 +1,14 @@
 ---
 type: source
 title: DIESEL 在华 20 周年 / Unicorn 行李授权 / Pride 公益（A1·2026-08-23）
-aliases: ["Diesel 在华20周年", "Diesel Unicorn行李授权", "Diesel Tinder Pride捐款", "迪赛 20周年"]
 tags: [diesel, denim, premium_denim, italy, otb, anniversary, license, collaboration]
 sources: [2026-08-23_A1_diesel_在华20周年与Unicorn授权]
+aliases: ["Diesel", "迪赛", "DIESEL", "在华", "DIESEL 在华 20 周年 / Unicorn 行李授权 / Pride 公益（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[diesel]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # DIESEL 在华 20 周年 / Unicorn 行李授权 / Pride 公益（A1·2026-08-23）

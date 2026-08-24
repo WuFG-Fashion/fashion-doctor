@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼 2026H1 预亏 1950-2900 万，主因金融资产公允价值）
-aliases: [KARL LAGERFELD 2026-08-18 动态, 卡尔拉格斐 2026H1, karl_lagerfeld_2026_0818_update]
 tags: [karl_lagerfeld, 七匹狼, 业绩预告, 授权经营, A2, source, brand_update]
 sources: [websearch-2026-08-18]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "KARL", "A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼 2026H1 预亏 1950-2900 万，主因金融资产公允价值）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[karl_lagerfeld]], [[septwolves]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # A2轮·KARL LAGERFELD 2026 全维度动态

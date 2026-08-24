@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA 2026 全维度动态（Deckers FY2026 Q1 创纪录$653M+19.8%·中国>230店核心引擎）
-aliases: [hoka_one_one 2026-08-23 动态, hoka_2026_0823_update]
 tags: [hoka_one_one, deckers, 跑鞋, 运动, 中国, 财报, A2, source, brand_update]
 sources: [websearch-2026-08-23, 2026-08-23_hoka_deckers_fy2026_q1]
+aliases: ["HOKA", "霍咖", "A2轮", "2026", "A2轮·HOKA 2026 全维度动态（Deckers FY2026 Q1 创纪录$653M+19.8%·中国>230店核心引擎）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[hoka_one_one]], [服装行业竞争格局], [中国服装零售基准体系2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA 2026 全维度动态

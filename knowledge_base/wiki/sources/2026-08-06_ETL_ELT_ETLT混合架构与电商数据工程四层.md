@@ -3,6 +3,9 @@ type: source
 title: ETL/ELT/ETLT 混合架构与电商数据工程四层栈（2026）
 tags: [etl, elt, etlt, dbt, data_warehouse, cdc, lakehouse, multi_brand, source]
 sources: [2026-08-06_FineDataLink等_ETL_ELT_ETLT混合架构与电商数据工程四层.md, https://www.finedatalink.com/blog/article/69c5e2fe1916e24b22e6eac3, https://www.finedatalink.com/blog/article/693bb819c9f831f476f25650, https://www.sohu.com/a/1048490268_121200771, https://www.mercuryminds.com/blog/data-engineering-for-ecommerce-why-your-stack-is-the-bottleneck]
+aliases: ["ETL/ELT/ETLT", "混合架构与电商数据工程四层栈（2026）", "ETL/ELT/ETLT 混合架构与电商数据工程四层栈（2026）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-06
 updated: 2026-08-06
 cross_refs: [[ETL架构选型]], [[etl_governance_convergence_2026]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]]

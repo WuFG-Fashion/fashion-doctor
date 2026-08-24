@@ -3,6 +3,9 @@ type: source
 title: Vistoya — 2026 时尚品牌 AI Agent 实战案例（全球）
 tags: [ai, agent, fashion, agentic_commerce, supply_chain, marketing, benchmark]
 sources: [2026-07-26_vistoya_fashion_ai_agents_cases]
+aliases: ["Vistoya", "2026", "时尚品牌", "AI", "Vistoya — 2026 时尚品牌 AI Agent 实战案例（全球）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-26
 updated: 2026-07-26
 cross_refs: [[apparel_ai_agents_2026]], [[agentic_commerce_fashion_2026]]

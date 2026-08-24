@@ -3,6 +3,9 @@ type: source
 title: NXN Labs×KAIST CtrlVTON 可控虚拟试衣（arXiv 2607.09362）
 tags: [ai, virtual_tryon, arxiv, controllable, research, fashion_tech]
 sources: [2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣.md]
+aliases: ["NXN", "Labs×KAIST", "CtrlVTON", "可控虚拟试衣（arXiv", "NXN Labs×KAIST CtrlVTON 可控虚拟试衣（arXiv 2607.09362）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-02
 updated: 2026-08-02
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]]

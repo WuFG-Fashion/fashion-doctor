@@ -3,6 +3,9 @@ type: source
 title: Danilchenko DuckDB vs Polars 2026基准评测
 tags: [duckdb, polars, benchmark, python, olap, data_engineering]
 sources: [https://www.danilchenko.dev/posts/duckdb-vs-polars/]
+aliases: ["Danilchenko", "DuckDB", "vs", "Polars", "Danilchenko DuckDB vs Polars 2026基准评测"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-09
 updated: 2026-07-09
 cross_refs: [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]]

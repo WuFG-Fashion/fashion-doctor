@@ -1,13 +1,13 @@
 ---
 type: source
 title: ellesse 2026 Smiley 联名与 Garfield 代言
-aliases: [ellesse Smiley, ellesse Andrew Garfield, 艾力士联名, ellesse新纪元]
 tags: [ellesse, 运动时尚, 联名, 代言人, 品牌墙, 复古]
 sources: [https://www.maideyi.com/a57928, https://us.fashionnetwork.com/news/Ellesse-embarks-on-summer-into-winter-new-era-campaign-starring-actor-andrew-garfield,1839079.html]
-created: 2026-08-17
-updated: 2026-08-17
+aliases: ["Ellesse", "ellesse", "2026", "Smiley", "ellesse 2026 Smiley 联名与 Garfield 代言"]
 confidence: 品牌自宣
 brand_specific: true
+created: 2026-08-17
+updated: 2026-08-17
 ---
 
 # ellesse 2026 Smiley 联名与 Garfield 代言

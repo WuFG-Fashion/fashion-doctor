@@ -1,14 +1,14 @@
 ---
 type: source
 title: 迪卡轩 渠道下沉与门店口径（A1·2026-08-21）
-aliases: ["迪卡轩渠道下沉", "DEKASHELL 门店口径", "迪卡轩加盟费"]
 tags: [dekashell, womenswear, light_elegant, china_brand, franchise, channel, focus]
 sources: [2026-08-21_dekashell_渠道下沉与门店口径.md]
+aliases: ["迪卡轩", "DEKASHELL", "渠道下沉与门店口径（A1", "2026-08-21）", "迪卡轩 渠道下沉与门店口径（A1·2026-08-21）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[dekashell]], [[服装行业竞争格局]], [[ariose_years]], [[服装价格带管理与价格真空区]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 迪卡轩 渠道下沉与门店口径（A1·2026-08-21）

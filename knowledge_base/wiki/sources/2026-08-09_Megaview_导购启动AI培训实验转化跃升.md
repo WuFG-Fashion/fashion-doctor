@@ -3,6 +3,9 @@ type: source
 title: 导购启动AI培训实验转化跃升
 tags: [guide, training, ai, megaview, source]
 sources: [wiki/raw/articles/2026-08-09_Megaview_导购启动AI培训实验转化跃升.md]
+aliases: ["导购启动AI培训实验转化跃升"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

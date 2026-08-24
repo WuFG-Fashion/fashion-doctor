@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·太平鸟 2026 全维度动态（武汉品牌旗舰店启幕、砂之船奥莱直营店重装、H2 开店回补验证）
-aliases: [太平鸟 2026-08-19 动态, PEACEBIRD 武汉旗舰店, 太平鸟 奥莱焕新, 一个品牌 战略落地, peacebird_2026_0819_update]
 tags: [peacebird, 门店, 旗舰店, 奥莱, 武汉, 砂之船, 一个品牌, A3, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["太平鸟", "PEACEBIRD", "A3轮", "2026", "A3轮·太平鸟 2026 全维度动态（武汉品牌旗舰店启幕、砂之船奥莱直营店重装、H2 开店回补验证）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[peacebird]], [[salomon]], [[hla]], [[semir]], [[服装企划趋势渠道]], [[中国服装零售基准体系2026]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A3轮·太平鸟 2026 全维度动态

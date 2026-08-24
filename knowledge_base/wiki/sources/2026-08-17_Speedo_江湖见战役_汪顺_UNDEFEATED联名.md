@@ -1,14 +1,14 @@
 ---
 type: source
 title: Speedo — 2026「江湖见」战役 / 汪顺代言 / UNDEFEATED 联名
-aliases: ["Speedo 2026江湖见", "速比涛 汪顺 联名"]
 tags: [speedo, competitor, swimwear, sportswear, marketing, collaboration, pentland]
 sources: [2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名]
+aliases: ["Speedo", "速比涛", "2026「江湖见」战役", "汪顺代言", "Speedo — 2026「江湖见」战役 / 汪顺代言 / UNDEFEATED 联名"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[speedo]], [[服装行业竞争格局]], [[peacebird]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # Speedo — 2026「江湖见」战役 / 汪顺代言 / UNDEFEATED 联名

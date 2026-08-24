@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Trussardi 2026 全维度动态（2026-08-05 香港海港城 TRU TRUSSARDI 新形象重开，与"暂不考虑中国市场"表述的张力）
-aliases: [Trussardi 2026-08-19 动态, TRU TRUSSARDI 海港城, 楚萨迪 香港旗舰店, Miroglio 开店计划 2026, trussardi_2026_0819_update]
 tags: [trussardi, TRU_TRUSSARDI, Miroglio, 门店渠道, 口径辨析, 数据矛盾, A3, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["Trussardi", "楚萨迪", "A3轮", "2026", "A3轮·Trussardi 2026 全维度动态（2026-08-05 香港海港城 TRU TRUSSARDI 新形象重开，与\"暂不考虑中国市场\"表述的张力）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[trussardi]], [[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划]], [[2026-08-15_楚萨迪2026重启开店计划]], [[nautica]], [[peacebird]], [[服装行业竞争格局]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A3轮·Trussardi 2026 全维度动态

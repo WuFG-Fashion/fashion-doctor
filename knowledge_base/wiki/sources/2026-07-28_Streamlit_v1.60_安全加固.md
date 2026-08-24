@@ -3,6 +3,9 @@ type: source
 title: Streamlit v1.60 安全加固与企业级部署（2026-07-21）
 tags: [streamlit, security, production, dashboard, hardening]
 sources: [2026-07-28_streamlit_v1.60_security_hardening.md]
+aliases: ["Streamlit", "v1.60", "安全加固与企业级部署（2026-07-21）", "Streamlit v1.60 安全加固与企业级部署（2026-07-21）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[streamlit_dashboard_2026]]

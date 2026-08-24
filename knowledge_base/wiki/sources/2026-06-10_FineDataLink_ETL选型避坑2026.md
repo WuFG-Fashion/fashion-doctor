@@ -3,6 +3,9 @@ type: source
 title: 2026年数据仓库ETL选型避坑指南
 tags: [etl, data_warehouse, multi_brand, selection, governance, data_quality]
 sources: [https://www.finedatalink.com/blog/article/69c5dfac1916e24b22e6e20f]
+aliases: ["2026年数据仓库ETL选型避坑指南"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-10
 updated: 2026-06-10
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]]

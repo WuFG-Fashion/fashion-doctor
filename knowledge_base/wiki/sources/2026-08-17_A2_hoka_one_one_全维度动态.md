@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA（Deckers）2025-2026 全维度动态（FY26 $2.587B/+15.9%/增速放缓）
-aliases: [HOKA 2025 2026, HOKA Deckers A2轮动态, hoka_one_one_2026_update]
 tags: [hoka_one_one, 跑鞋, Deckers, 运动, A2, source, brand_update]
 sources: [websearch-2026-08-17]
+aliases: ["HOKA", "霍咖", "A2轮", "HOKA（Deckers）2025-2026", "A2轮·HOKA（Deckers）2025-2026 全维度动态（FY26 $2.587B/+15.9%/增速放缓）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[hoka_one_one]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA（Deckers）2025-2026 全维度动态

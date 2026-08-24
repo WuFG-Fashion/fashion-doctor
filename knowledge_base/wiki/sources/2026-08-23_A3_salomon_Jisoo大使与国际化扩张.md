@@ -1,14 +1,14 @@
 ---
 type: source
 title: 2026-08-23 A3 Salomon Jisoo全球大使与纽约首店国际化扩张
-aliases: ["Salomon Jisoo大使", "Salomon纽约首店", "Salomon国际化Epicenter战略"]
 tags: [salomon, amer_sports, 品牌营销, 国际化, 代言人, 旗舰店]
 sources: [2026-08-23_Salomon_Jisoo大使与纽约首店国际化]
+aliases: ["Salomon", "萨洛蒙", "Jisoo全球大使与纽约首店国际化扩张", "Salomon Jisoo全球大使与纽约首店国际化扩张"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[salomon]], [服装行业竞争格局], [ai_fashion_market_2026], [peacebird], [cabbeen]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # 2026-08-23 A3 Salomon Jisoo全球大使与纽约首店国际化扩张

@@ -3,6 +3,9 @@ type: source
 title: Streamlit 企业级架构与生产部署路线（2026）
 tags: [streamlit, dashboard, deployment, nginx, docker, k8s, security, monitoring, source]
 sources: [2026-08-12_Streamlit_企业级架构与生产部署路线, https://tsight.io/articles/18042473, https://livemy.app/blog/deploy-streamlit-app, https://blog.csdn.net/gitblog_01177/article/details/154462267, https://www.powertrend.com.br/en-us/blog/data-dashboard-python-streamlit]
+aliases: ["Streamlit", "企业级架构与生产部署路线（2026）", "Streamlit 企业级架构与生产部署路线（2026）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-08-12
 updated: 2026-08-12
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]]

@@ -3,6 +3,9 @@ type: source
 title: Streamlit 2026 H2 Starlette正式化与并行Fragment
 tags: [streamlit, starlette, asgi, polars, parallel_fragment, production]
 sources: [2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md]
+aliases: ["Streamlit", "2026", "H2", "Starlette正式化与并行Fragment", "Streamlit 2026 H2 Starlette正式化与并行Fragment"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-21
 updated: 2026-06-22
 cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]]

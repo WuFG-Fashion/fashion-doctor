@@ -3,6 +3,9 @@ type: source
 title: Megaview_门店被拒绝AI模拟训练
 tags: [guide, ai, training, megaview, coaching, objection, simulation]
 sources: [2026-07-30_Megaview_门店被拒绝AI模拟训练]
+aliases: ["Megaview", "门店被拒绝AI模拟训练", "Megaview_门店被拒绝AI模拟训练"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-30
 updated: 2026-07-30
 cross_refs: [[AI导购陪练]], [[深维智信]]

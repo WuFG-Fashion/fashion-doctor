@@ -3,6 +3,9 @@ type: source
 title: LOOK AI 在 BEYOND EXPO 2026 发布时尚行业 AI Agent
 tags: [look_ai, ai, agent, virtual_tryon, ecommerce, vendor, source]
 sources: [凤凰网 2026 BEYOND EXPO]
+aliases: ["LOOK", "AI", "BEYOND", "EXPO", "LOOK AI 在 BEYOND EXPO 2026 发布时尚行业 AI Agent"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-31
 updated: 2026-07-31
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[apparel_ai_agents_2026]]

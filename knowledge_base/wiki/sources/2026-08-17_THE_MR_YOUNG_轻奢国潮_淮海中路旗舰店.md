@@ -1,14 +1,14 @@
 ---
 type: source
 title: THE MR YOUNG（密特扬）— 轻奢国潮 / 淮海中路旗舰店
-aliases: ["THE MR YOUNG 中国", "密特扬 国潮"]
 tags: [the_mr_young, competitor, guochao, light_luxury, domestic, art, collaboration]
 sources: [2026-08-17_THE_MR_YOUNG_轻奢国潮_淮海中路旗舰店]
+aliases: ["The Mr. Young", "THE", "MR", "YOUNG（密特扬）", "THE MR YOUNG（密特扬）— 轻奢国潮 / 淮海中路旗舰店"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[the_mr_young]], [[服装行业竞争格局]], [[peacebird]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # THE MR YOUNG（密特扬）— 轻奢国潮 / 淮海中路旗舰店

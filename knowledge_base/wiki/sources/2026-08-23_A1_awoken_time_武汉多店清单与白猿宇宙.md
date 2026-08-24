@@ -1,14 +1,14 @@
 ---
 type: source
 title: AWOKEN TIME 武汉多店清单与白猿宇宙（A1·2026-08-23）
-aliases: [2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙]
 tags: [awoken_time, streetwear, concept_store, wuhan, ip]
 sources: [wiki/raw/articles/2026-08-23_awoken_time_武汉多店清单与白猿宇宙.md]
+aliases: ["AWOKEN TIME", "AWOKEN", "TIME", "武汉多店清单与白猿宇宙（A1", "AWOKEN TIME 武汉多店清单与白猿宇宙（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[awoken_time]], [[服装行业竞争格局]], [[peacebird]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # AWOKEN TIME 武汉多店清单与白猿宇宙（A1·2026-08-23）

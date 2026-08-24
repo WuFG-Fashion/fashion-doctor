@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA（Deckers）2026 全维度动态（FY27Q1 增速首落个位数、中国+8.4%降温、Clifton PRO 上新）
-aliases: [HOKA 2026-08-19 动态, Deckers FY27Q1 HOKA, hoka_one_one_2026_0819_update]
 tags: [hoka_one_one, 运动鞋服, 跑步, deckers, 美国, A2, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["HOKA", "霍咖", "A2轮", "HOKA（Deckers）2026", "A2轮·HOKA（Deckers）2026 全维度动态（FY27Q1 增速首落个位数、中国+8.4%降温、Clifton PRO 上新）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]], [[男装品牌竞争格局2026Q1]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA（Deckers）2026 全维度动态

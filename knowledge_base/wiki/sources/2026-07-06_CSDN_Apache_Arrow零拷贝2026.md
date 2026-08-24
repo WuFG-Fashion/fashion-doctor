@@ -3,6 +3,9 @@ type: source
 title: CSDN Apache Arrow 零拷贝与跨语言互操作 2026
 tags: [apache_arrow, zero_copy, pyarrow, interoperability, duckdb, polars, pandas]
 sources: [https://blog.csdn.net/weixin_29056101/article/details/162591927]
+aliases: ["CSDN", "Apache", "Arrow", "零拷贝与跨语言互操作", "CSDN Apache Arrow 零拷贝与跨语言互操作 2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_brand_unified_analytics]]

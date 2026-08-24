@@ -3,6 +3,9 @@ type: source
 title: Polars vs Pandas深度实测：1亿行RFM 15x加速 + v1.26新功能
 tags: [polars, pandas, python, benchmark, rfm, arrow]
 sources: [2026-06-30_chenxutan_Polars_Pandas深度实测2026.md]
+aliases: ["Polars", "vs", "Pandas深度实测：1亿行RFM", "15x加速", "Polars vs Pandas深度实测：1亿行RFM 15x加速 + v1.26新功能"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[duckdb_olap_engine_2026]]

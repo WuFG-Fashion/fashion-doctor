@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·NAUTICA × Champion 2026 秋季联名（7 款单品，NTC 学院徽章）
-aliases: [Nautica 2026-08-23 动态, Nautica Champion 联名, 诺帝卡 Champion, nautica_2026_0823_update]
 tags: [nautica, champion, 联名, 学院风, 秋季系列, 营销, A3, source, brand_update]
 sources: [2026-08-23_CFW_NAUTICA_Champion联名]
+aliases: ["CHUU", "秋", "A3轮", "NAUTICA", "A3轮·NAUTICA × Champion 2026 秋季联名（7 款单品，NTC 学院徽章）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[nautica]], [[tommy_hilfiger]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A3轮·NAUTICA × Champion 2026 秋季联名

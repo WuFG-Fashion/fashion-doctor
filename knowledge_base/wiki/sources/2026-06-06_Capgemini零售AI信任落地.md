@@ -3,6 +3,9 @@ type: source
 title: Capgemini 2026零售AI信任与落地
 tags: [ai, retail, capgemini, trust, data_governance, genai]
 sources: [Capgemini 2026 / tecdat.cn 2026-04-20]
+aliases: ["Capgemini", "2026零售AI信任与落地", "Capgemini 2026零售AI信任与落地"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[retail_ai_adoption_2026]], [[data_quality_governance]], [[2026-06-06_NVIDIA零售AI规模化落地|NVIDIA零售AI规模化落地]]

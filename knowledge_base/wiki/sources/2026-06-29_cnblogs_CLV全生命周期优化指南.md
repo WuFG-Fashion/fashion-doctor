@@ -3,6 +3,9 @@ type: source
 title: CLV全生命周期优化指南
 tags: [vip, membership, clv, rfm, repurchase]
 sources: [2026-06-29_cnblogs_CLV全生命周期优化指南.md]
+aliases: ["CLV全生命周期优化指南"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[会员复购率提升策略]], [[RFM会员分层运营实战]]

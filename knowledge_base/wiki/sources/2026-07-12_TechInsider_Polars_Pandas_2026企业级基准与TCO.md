@@ -3,6 +3,9 @@ type: source
 title: TechInsider Polars vs Pandas 2026企业级基准与TCO
 tags: [polars, pandas, benchmark, enterprise, tco, energy_efficiency]
 sources: [https://tech-insider.org/polars-vs-pandas-2026/]
+aliases: ["TechInsider", "Polars", "vs", "Pandas", "TechInsider Polars vs Pandas 2026企业级基准与TCO"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[arrow_zero_copy_interop_2026]]

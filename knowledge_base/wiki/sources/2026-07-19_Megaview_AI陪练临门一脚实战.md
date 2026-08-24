@@ -3,6 +3,9 @@ type: source
 title: Megaview AI陪练 — 临门一脚从退缩到肌肉记忆
 tags: [guide, ai, coaching, megaview, training]
 sources: [2026-07-19_Megaview_AI陪练临门一脚实战.md]
+aliases: ["Megaview", "AI陪练", "临门一脚从退缩到肌肉记忆", "Megaview AI陪练 — 临门一脚从退缩到肌肉记忆"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-19
 updated: 2026-07-19
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]

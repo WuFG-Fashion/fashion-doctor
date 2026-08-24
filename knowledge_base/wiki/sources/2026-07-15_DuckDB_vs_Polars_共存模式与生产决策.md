@@ -3,6 +3,9 @@ type: source
 title: DuckDB vs Polars 2026：共存模式与生产决策
 tags: [duckdb, polars, benchmark, production, arrow, sql, etl, memory]
 sources: [2026-07-15_Danilchenko_DuckDB_vs_Polars_2026生产实战对比.md]
+aliases: ["DuckDB", "vs", "Polars", "2026：共存模式与生产决策", "DuckDB vs Polars 2026：共存模式与生产决策"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-15
 updated: 2026-07-15
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]]

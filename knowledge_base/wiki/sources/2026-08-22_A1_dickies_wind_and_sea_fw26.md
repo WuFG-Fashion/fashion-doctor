@@ -1,14 +1,14 @@
 ---
 type: source
 title: WIND AND SEA × Dickies 2026 秋冬联名（A1·2026-08-22）
-aliases: ["WIND AND SEA Dickies", "Dickies FW2026 联名", "工装联名 2026"]
 tags: [dickies, workwear, collaboration, japan_brand, usa_brand]
 sources: [2026-08-22_dickies_wind_and_sea_fw26.md]
+aliases: ["CHUU", "秋", "WIND", "AND", "WIND AND SEA × Dickies 2026 秋冬联名（A1·2026-08-22）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[dickies]], [[服装行业竞争格局]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # WIND AND SEA × Dickies 2026 秋冬联名（A1·2026-08-22）

@@ -3,6 +3,9 @@ type: source
 title: CSDN Polars 2.0 大规模数据清洗范式跃迁（42.6× / 68% 内存）
 tags: [polars, etl, data_cleaning, performance, arrow, rust]
 sources: [2026-07-28_csdn_polars2.0_cleaning_paradigm.md]
+aliases: ["CSDN", "Polars", "2.0", "大规模数据清洗范式跃迁（42.6×", "CSDN Polars 2.0 大规模数据清洗范式跃迁（42.6× / 68% 内存）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[polars_vs_pandas_2026]]

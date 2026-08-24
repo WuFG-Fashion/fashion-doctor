@@ -3,6 +3,9 @@ type: source
 title: 社群会员统一身份运营体系
 tags: [vip, membership, private_domain, scrm, community]
 sources: [2026-06-29_techchina_社群会员统一身份运营体系.md]
+aliases: ["社群会员统一身份运营体系"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[会员复购率提升策略]], [[私域运营方法论]]

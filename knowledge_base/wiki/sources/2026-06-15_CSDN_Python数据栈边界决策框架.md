@@ -3,6 +3,9 @@ type: source
 title: CSDN — Python数据栈边界决策框架2026
 tags: [python, polars, pandas, spark, rust, decision_framework, benchmark, analytics]
 sources: [https://blog.csdn.net/windowshht/article/details/160003287]
+aliases: ["CSDN", "Python数据栈边界决策框架2026", "CSDN — Python数据栈边界决策框架2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-15
 updated: 2026-06-15
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]]

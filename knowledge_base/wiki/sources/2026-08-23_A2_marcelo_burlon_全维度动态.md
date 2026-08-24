@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·Marcelo Burlon 2026 全维度动态（卸任County of Milan创意总监·NGG/Coupang不确定性）
-aliases: [marcelo_burlon 2026-08-23 动态, marcelo_burlon_2026_0823_update]
 tags: [marcelo_burlon, 街头, 意大利, 品牌墙, A2, source, brand_update]
 sources: [websearch-2026-08-23, 2026-08-23_marcelo_burlon_steps_down]
+aliases: ["Marcelo Burlon", "A2轮", "Marcelo", "Burlon", "A2轮·Marcelo Burlon 2026 全维度动态（卸任County of Milan创意总监·NGG/Coupang不确定性）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[marcelo_burlon]], [服装行业竞争格局], [中国服装零售基准体系2026]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A2轮·Marcelo Burlon 2026 全维度动态

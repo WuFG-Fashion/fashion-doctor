@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HOKA 2026 全维度动态（FY27Q1 营收 7.035 亿美元 +7.7%，增速首度落入个位数）
-aliases: [HOKA 2026-08-18 动态, HOKA FY27Q1, Deckers FY27Q1, hoka_one_one_2026_0818_update]
 tags: [hoka_one_one, deckers, 跑鞋, 户外, 财报, A2, source, brand_update]
 sources: [websearch-2026-08-18]
+aliases: ["HOKA", "霍咖", "A2轮", "2026", "A2轮·HOKA 2026 全维度动态（FY27Q1 营收 7.035 亿美元 +7.7%，增速首度落入个位数）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[hoka_one_one]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·HOKA 2026 全维度动态

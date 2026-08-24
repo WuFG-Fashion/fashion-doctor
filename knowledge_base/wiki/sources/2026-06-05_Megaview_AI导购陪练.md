@@ -3,6 +3,9 @@ type: source
 title: 2026-06-05 Megaview AI陪练赋能零售导购
 tags: [guide, ai, training, retail, coaching]
 sources: [https://blog.megaview.com/archives/24143]
+aliases: ["Megaview", "AI陪练赋能零售导购", "Megaview AI陪练赋能零售导购"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-05
 updated: 2026-06-05
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]

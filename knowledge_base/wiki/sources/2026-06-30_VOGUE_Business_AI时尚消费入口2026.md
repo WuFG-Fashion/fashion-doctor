@@ -3,6 +3,9 @@ type: source
 title: VOGUE Business — 2026年AI时尚消费入口全景
 tags: [ai, fashion_consumer, agentic_commerce, digital_human, virtual_tryon, luxury, ecommerce]
 sources: [https://m.sohu.com/a/1043869350_121948407, VOGUE Business 2026-06-30]
+aliases: ["VOGUE", "Business", "2026年AI时尚消费入口全景", "VOGUE Business — 2026年AI时尚消费入口全景"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-20
 updated: 2026-07-20
 cross_refs: [[ai_fashion_consumer_2026]], [[agentic_commerce_fashion_2026]]

@@ -3,6 +3,9 @@ type: source
 title: 时尚零售商季节库存计划六大指标
 tags: [merchandise, sell_through, turnover, gmroi, otb]
 sources: [https://www.easyreplenish.com/blog/seasonal-inventory-planning-fashion]
+aliases: ["时尚零售商季节库存计划六大指标"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-13
 updated: 2026-08-13
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]]

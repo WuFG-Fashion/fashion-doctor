@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·Karl Lagerfeld（G-III/七匹狼）2025-2026 全维度动态（全球$1.7B/大中华区亏损）
-aliases: [Karl Lagerfeld 2025 2026, KL A2轮动态, karl_lagerfeld_2026_update]
 tags: [karl_lagerfeld, 轻奢, 七匹狼, 授权, A2, source, brand_update]
 sources: [websearch-2026-08-17]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "Karl", "A2轮·Karl Lagerfeld（G-III/七匹狼）2025-2026 全维度动态（全球$1.7B/大中华区亏损）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[karl_lagerfeld]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·Karl Lagerfeld（G-III/七匹狼）2025-2026 全维度动态

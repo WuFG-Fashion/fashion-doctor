@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Trussardi 资本重组风险警示与品牌延伸（迪拜住宅、游艇展、11店现状）
-aliases: [Trussardi 2026-08-21 动态, Trussardi 资本重组, Trussardi 迪拜住宅, Trussardi 游艇展, 楚萨迪 风险警示, trussardi_2026_0821_update]
 tags: [trussardi, TRU_TRUSSARDI, Miroglio, 资本重组, 品牌延伸, 风险信号, 游艇, 房地产, A3, source, brand_update]
 sources: [2026-08-21_luxeco_Trussardi_资本重组警示与品牌延伸]
+aliases: ["Trussardi", "楚萨迪", "A3轮", "资本重组风险警示与品牌延伸（迪拜住宅、游艇展、11店现状）", "A3轮·Trussardi 资本重组风险警示与品牌延伸（迪拜住宅、游艇展、11店现状）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[trussardi]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划]], [[nautica]], [[brand_risk_signals_2026]], [[服装行业竞争格局]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A3轮·Trussardi 资本重组风险警示与品牌延伸

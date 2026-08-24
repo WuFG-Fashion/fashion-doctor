@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·Speedo BEAMS 7.0 联名与 CHIIKAWA 吉伊卡哇联名（2026 夏联名矩阵补全）
-aliases: [Speedo 2026-08-21 动态, Speedo BEAMS 7.0, Speedo 吉伊卡哇, Speedo CHIIKAWA 联名, 速比涛 联名矩阵, speedo_2026_0821_update]
 tags: [speedo, 联名, BEAMS, CHIIKAWA, 吉伊卡哇, 营销, 泳装, 日潮, A3, source, brand_update]
 sources: [2026-08-21_speedo_BEAMS7与CHIIKAWA联名]
+aliases: ["Speedo", "速比涛", "A3轮", "BEAMS", "A3轮·Speedo BEAMS 7.0 联名与 CHIIKAWA 吉伊卡哇联名（2026 夏联名矩阵补全）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[speedo]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名]], [[peacebird]], [[salomon]], [[服装行业竞争格局]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # A3轮·Speedo BEAMS 7.0 与 CHIIKAWA 联名

@@ -3,6 +3,9 @@ type: source
 title: 2026-07-11_Megaview_AI陪练1.2万导购成交转化突破
 tags: [guide, ai, coaching, training, conversion, megaview]
 sources: [2026-07-11_Megaview_AI陪练1.2万导购成交转化突破.md]
+aliases: ["Megaview", "AI陪练1.2万导购成交转化突破", "Megaview_AI陪练1.2万导购成交转化突破"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-11
 updated: 2026-07-11
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]

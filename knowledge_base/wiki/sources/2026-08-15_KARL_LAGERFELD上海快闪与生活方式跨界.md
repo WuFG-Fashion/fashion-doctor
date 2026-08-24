@@ -1,9 +1,11 @@
 ---
 type: source
 title: KARL LAGERFELD 上海快闪与生活方式跨界（2026）
-aliases: ["KARL LAGERFELD 2026 快闪", "卡尔拉格斐 IKONIK 2026", "老佛爷咖啡馆"]
 tags: [karl_lagerfeld, luxury, pop_up, lifestyle, womenswear, source]
 sources: [2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态.md]
+aliases: ["Karl Lagerfeld", "老佛爷", "KARL", "LAGERFELD", "KARL LAGERFELD 上海快闪与生活方式跨界（2026）"]
+confidence: 媒体估算
+brand_specific: true
 created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_karl_lagerfeld_全维度动态]]"

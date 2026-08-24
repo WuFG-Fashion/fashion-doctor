@@ -1,13 +1,13 @@
 ---
 type: source
 title: aislestock：2026售罄率公式与周度基准——服装8-12%/季末60-80%
-aliases: [aislestock售罄率基准, 售罄率周度基准2026, aislestock]
 tags: [merchandise, inventory, sell_through, benchmark, source]
 sources: [http://aislestock.com/sell-through-rate]
+aliases: ["aislestock：2026售罄率公式与周度基准", "服装8-12%/季末60-80%", "aislestock：2026售罄率公式与周度基准——服装8-12%/季末60-80%"]
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[sell_through_examination_standard_2026]], [[sell_through_examination_standard_2026]], [[柔性供应链与商品企划]]
-confidence: 第三方数据
 ---
 
 # aislestock：2026售罄率公式与周度基准——服装8-12%/季末60-80%

@@ -1,9 +1,11 @@
 ---
 type: source
 title: Agentic Commerce 2026 — 结构化产品数据成胜负手（paz.ai）
-aliases: ["Agentic Commerce 2026", "Shopify 5.6M Agentic Storefronts", "ChatGPT 900M 购物"]
 tags: [agentic_commerce, ai, product_data, shopify, chatgpt, source]
 sources: [2026-08-15_paz_Agentic_Commerce_时尚品牌2026.md]
+aliases: ["Agentic", "Commerce", "2026", "结构化产品数据成胜负手（paz.ai）", "Agentic Commerce 2026 — 结构化产品数据成胜负手（paz.ai）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]], [[data_quality_governance]]

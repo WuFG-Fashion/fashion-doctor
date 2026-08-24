@@ -1,14 +1,14 @@
 ---
 type: source
 title: ADLV LINE FRIENDS 与海绵宝宝联名（A1·2026-08-20）
-aliases: ["ADLV角色联名", "adlv海绵宝宝", "ADLV中国14店"]
 tags: [adlv, streetwear, korean_wave, womenswear, collaboration, ip]
 sources: [2026-08-20_adlv_LINE_FRIENDS与海绵宝宝联名.md]
+aliases: ["ADLV", "爱德蒙", "LINE", "FRIENDS", "ADLV LINE FRIENDS 与海绵宝宝联名（A1·2026-08-20）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-20
 updated: 2026-08-20
 cross_refs: [[adlv]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # ADLV LINE FRIENDS 与海绵宝宝联名（A1·2026-08-20）

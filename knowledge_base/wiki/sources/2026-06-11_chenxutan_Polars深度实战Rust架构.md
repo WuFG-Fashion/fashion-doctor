@@ -3,6 +3,9 @@ type: source
 title: Polars深度实战 — Rust架构全解析（2026-06）
 tags: [polars, rust, arrow, benchmark, etl, python]
 sources: [https://chenxutan.com/d/3111.html]
+aliases: ["Polars深度实战", "Rust架构全解析（2026-06）", "Polars深度实战 — Rust架构全解析（2026-06）"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-11
 updated: 2026-06-11
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[data_library_selection_guide_2026]]

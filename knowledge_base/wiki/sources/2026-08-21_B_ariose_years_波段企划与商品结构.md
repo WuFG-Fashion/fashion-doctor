@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝雅诗波段企划与商品结构佐证
-aliases: [艾诺丝波段企划, ariose波段上新, ARIOSEYEARS企划, 艾诺丝价格带]
 tags: [ariose_years, merchandise, assortment, pricing, 商品企划]
 sources: [wiki/raw/articles/2026-08-21_B_ariose_years_波段企划与商品结构.md]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "艾诺丝雅诗波段企划与商品结构佐证"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ariose_years]], [[商品企划体系2026]], [[服装价格带管理与价格真空区]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 艾诺丝雅诗波段企划与商品结构佐证

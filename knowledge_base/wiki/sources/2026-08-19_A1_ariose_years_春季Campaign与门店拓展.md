@@ -1,13 +1,13 @@
 ---
 type: source
 title: 艾诺丝·雅诗 2026 春季 Campaign 与区域门店拓展
-aliases: [ariose_years 春季Campaign, ARIOSE YEARS 蒙阴旗舰店, 艾诺丝山东代理]
 tags: [ariose_years, 春季Campaign, 门店拓展, 区域代理, 女装, 重点女装]
 sources: [https://www.sohu.com/a/1061534907_261465, https://finance.eastmoney.com/a/202608073835263053.html]
-created: 2026-08-19
-updated: 2026-08-19
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "雅诗", "艾诺丝·雅诗 2026 春季 Campaign 与区域门店拓展"]
 confidence: 品牌自宣
 brand_specific: true
+created: 2026-08-19
+updated: 2026-08-19
 ---
 
 # 艾诺丝·雅诗 2026 春季 Campaign 与区域门店拓展

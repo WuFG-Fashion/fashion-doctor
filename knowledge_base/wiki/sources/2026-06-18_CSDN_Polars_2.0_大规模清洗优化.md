@@ -3,6 +3,9 @@ type: source
 title: Polars 2.0 大规模CSV/Parquet清洗新API与旧版对比实测
 tags: [polars, python, benchmark, parquet, csv, streaming]
 sources: [wiki/raw/articles/2026-06-18_CSDN_Polars_2.0_大规模数据清洗优化.md]
+aliases: ["Polars", "2.0", "大规模CSV/Parquet清洗新API与旧版对比实测", "Polars 2.0 大规模CSV/Parquet清洗新API与旧版对比实测"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-18
 updated: 2026-06-18
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[duckdb_olap_engine_2026]]

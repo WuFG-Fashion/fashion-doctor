@@ -1,13 +1,13 @@
 ---
 type: source
 title: Crocs 2026 Q2 — HEYDUDE 困境、关税毛利承压与 20 亿回购
-aliases: [卡骆驰Q2 2026, Crocs HEYDUDE, Crocs 回购20亿, Crocs 全年指引上调]
 tags: [crocs, 财报, HEYDUDE, 回购, 资本配置, 鞋履]
 sources: [https://www.morningstar.com/news/pr-newswire/20260730la15325, https://cn.fashionunited.com/xin-wen/shang-wu/crocspin-pai-dan-ji-ying-shou-shou-ci-tu-po-shi-yi-mei-yuan/202607305265, https://www.marketbeat.com/instant-alerts/crocs-q2-earnings-call-highlights-2026-07-30]
+aliases: ["卡骆驰", "Crocs", "2026", "Q2", "Crocs 2026 Q2 — HEYDUDE 困境、关税毛利承压与 20 亿回购"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
-confidence: 财报
-brand_specific: true
 ---
 
 # Crocs 2026 Q2 — HEYDUDE 困境、关税毛利承压与 20 亿回购

@@ -3,6 +3,9 @@ type: source
 title: Gartner 2026数据治理四大趋势 + CIO数据管理IN/OUT
 tags: [data_governance, ai, lakehouse, zero_etl, conversational_analytics, vector_storage, iceberg, platform]
 sources: [2026-07-15_Gartner_2026数据治理魔力象限与CIO数据管理趋势.md]
+aliases: ["Gartner", "2026数据治理四大趋势", "CIO数据管理IN/OUT", "Gartner 2026数据治理四大趋势 + CIO数据管理IN/OUT"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-15
 updated: 2026-07-15
 cross_refs: [[data_governance_tech_routes_2026]], [[data_lakehouse_2026]], [[ETL架构选型]], [[data_quality_governance]]

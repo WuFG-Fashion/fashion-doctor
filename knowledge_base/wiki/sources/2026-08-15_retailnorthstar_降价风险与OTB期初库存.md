@@ -1,13 +1,13 @@
 ---
 type: source
 title: retailnorthstar：服装降价风险与OTB期初库存——分类正价售罄基准
-aliases: [retailnorthstar 降价风险, 服装降价风险与OTB, retailnorthstar]
 tags: [merchandise, otb, markdown, sell_through, inventory, source]
 sources: [https://retailnorthstar.ai/resources/research/markdown-inventory-risk-apparel]
+aliases: ["retailnorthstar：服装降价风险与OTB期初库存", "分类正价售罄基准", "retailnorthstar：服装降价风险与OTB期初库存——分类正价售罄基准"]
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[sell_through_examination_standard_2026]]
-confidence: 第三方数据
 ---
 
 # retailnorthstar：服装降价风险与OTB期初库存——分类正价售罄基准

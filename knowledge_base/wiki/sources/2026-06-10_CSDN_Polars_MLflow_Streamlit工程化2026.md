@@ -3,6 +3,9 @@ type: source
 title: Polars + MLflow + Streamlit 工程化三件套实战
 tags: [polars, mlflow, streamlit, engineering, data_science, pipeline]
 sources: [https://bbs.csdn.net/weixin_29839415/article/details/100129313]
+aliases: ["Polars", "MLflow", "Streamlit", "工程化三件套实战", "Polars + MLflow + Streamlit 工程化三件套实战"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-10
 updated: 2026-06-10
 cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]]

@@ -1,13 +1,13 @@
 ---
 type: source
 title: Dickies 易主 Bluestar 后的 2026 渠道扩张
-aliases: [Dickies 出售Bluestar, Dickies 6亿美元, Dickies 英国爱尔兰分销]
 tags: [dickies, VF Corp, Bluestar Alliance, 工装, 渠道扩张, 品牌收购]
 sources: [https://www.ecotextile.com/2025091659727/radar/vf-to-offload-dickies-for-600m-in-cash-deal/, https://www.fibre2fashion.com/news/apparel-news/us-vf-corp-completes-600-mn-dickies-sale-to-bluestar-alliance-306441-newsdetails.htm, https://fashionunited.nz/tags/dickies]
+aliases: ["Dickies", "迪凯斯", "易主", "Bluestar", "Dickies 易主 Bluestar 后的 2026 渠道扩张"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # Dickies 易主 Bluestar 后的 2026 渠道扩张

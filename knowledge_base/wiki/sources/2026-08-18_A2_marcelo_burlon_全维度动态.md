@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·Marcelo Burlon County of Milan 2026 全维度动态（创始人退出、运营主体待核）
-aliases: [Marcelo Burlon 2026-08-18 动态, County of Milan 2026, marcelo_burlon_2026_0818_update]
 tags: [marcelo_burlon, 潮牌, New Guards Group, 创始人退出, A2, source, brand_update, 待核实]
 sources: [websearch-2026-08-18]
+aliases: ["Marcelo Burlon", "A2轮", "Marcelo", "Burlon", "A2轮·Marcelo Burlon County of Milan 2026 全维度动态（创始人退出、运营主体待核）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 媒体估算
-brand_specific: true
 ---
 
 # A2轮·Marcelo Burlon County of Milan 2026 全维度动态

@@ -3,6 +3,9 @@ type: source
 title: 电商AI Agent五大能力框架 — 纺织服装行业版
 tags: [ai, agent, ecommerce, fashion, capability_framework]
 sources: [中国纺织建设规划院, 南京羊毛市场]
+aliases: ["电商AI", "Agent五大能力框架", "纺织服装行业版", "电商AI Agent五大能力框架 — 纺织服装行业版"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]]

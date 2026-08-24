@@ -3,6 +3,9 @@ type: source
 title: KPMG零售导购AI陪练数据2026
 tags: [guide, ai, coaching, training, megaview, kpmg]
 sources: [2026-06-14_Megaview_KPMG零售导购AI陪练2026.md]
+aliases: ["KPMG零售导购AI陪练数据2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]

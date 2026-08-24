@@ -1,14 +1,14 @@
 ---
 type: source
 title: ellesse Garfield 全球战役与价格带（A1·2026-08-23）
-aliases: [2026-08-23_A1_ellesse_Garfield战役与价格带]
 tags: [ellesse, sportswear, retro, italy, campaign, price_band]
 sources: [wiki/raw/articles/2026-08-23_ellesse_Garfield战役与价格带.md]
+aliases: ["Ellesse", "ellesse", "Garfield", "全球战役与价格带（A1", "ellesse Garfield 全球战役与价格带（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # ellesse Garfield 全球战役与价格带（A1·2026-08-23）

@@ -3,6 +3,9 @@ type: source
 title: fjcio/FineDataLink 零 ETL + 湖仓一体极简架构 2026
 tags: [data_lakehouse, zero_etl, iceberg, etl, architecture, realtime, multi_brand]
 sources: [http://www.fjcio.cn/Item/17802.aspx, https://www.finedatalink.com/blog/article/694a47fa452a0f0efa2739fa]
+aliases: ["fjcio/FineDataLink", "ETL", "湖仓一体极简架构", "2026", "fjcio/FineDataLink 零 ETL + 湖仓一体极简架构 2026"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-25
 updated: 2026-07-25
 cross_refs: [[data_lakehouse_2026]]

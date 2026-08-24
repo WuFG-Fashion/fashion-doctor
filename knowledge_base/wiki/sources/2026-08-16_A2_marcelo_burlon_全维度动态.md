@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·Marcelo Burlon County of Milan 2025-2026 全维度动态（FW26/ FILA中国）
-aliases: [Marcelo Burlon 2025 2026, County of Milan A2轮动态, marcelo_burlon_2026_update]
 tags: [marcelo_burlon, county_of_milan, luxury_street, A2, source, brand_update]
 sources: [websearch-2026-08-16]
+aliases: ["Marcelo Burlon", "A2轮", "Marcelo", "Burlon", "A2轮·Marcelo Burlon County of Milan 2025-2026 全维度动态（FW26/ FILA中国）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[marcelo_burlon]], [[男装品牌竞争格局2026Q1]], [[服装企划趋势渠道]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·Marcelo Burlon County of Milan 2025-2026 全维度动态

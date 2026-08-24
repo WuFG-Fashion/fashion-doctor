@@ -1,14 +1,14 @@
 ---
 type: source
 title: Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）
-aliases: ["Diesel D-ONE 手袋", "Diesel 印尼 pop-up", "Diesel Jewellery Collection"]
 tags: [diesel, italy_brand, handbag, accessories, retail_expansion]
 sources: [2026-08-22_diesel_D-ONE价格与印尼pop-up.md]
+aliases: ["Diesel", "迪赛", "D-ONE", "手袋价格带与印尼雅加达", "Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[diesel]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）

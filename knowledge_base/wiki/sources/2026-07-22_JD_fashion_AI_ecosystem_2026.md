@@ -3,6 +3,9 @@ type: source
 title: 京东大时尚AI生态2026 — 京点点Oxygen Vision + 数字人直播
 tags: [ai, ecommerce, jd, digital_human, live_streaming]
 sources: [京东官方, 央广网]
+aliases: ["京东大时尚AI生态2026", "京点点Oxygen", "Vision", "数字人直播", "京东大时尚AI生态2026 — 京点点Oxygen Vision + 数字人直播"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]

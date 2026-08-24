@@ -3,6 +3,9 @@ type: source
 title: PostgreSQL 2026性能调优完整清单
 tags: [postgresql, sql, optimization, tuning, indexing, performance]
 sources: [https://dev.to/_d7eb1c1703182e3ce1782/postgresql-performance-tuning-checklist-2026-complete-guide-65a]
+aliases: ["PostgreSQL", "2026性能调优完整清单", "PostgreSQL 2026性能调优完整清单"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-09
 updated: 2026-07-09
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[data_quality_retail_practice]]

@@ -3,6 +3,9 @@ type: source
 title: 服装品类结构60/30/10与GMROI基准
 tags: [merchandise, assortment, sku, sell_through, gmroi, source]
 sources: [wiki/raw/articles/2026-08-11_apparellots_品类结构60_30_10与GMROI.md]
+aliases: ["服装品类结构60/30/10与GMROI基准"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-11
 updated: 2026-08-11
 cross_refs: [[sku_fine_management]], [[服装企划趋势渠道]], [[柔性供应链与商品企划]]

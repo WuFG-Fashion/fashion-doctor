@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝雅诗 AW PROJECT 重奢拓店清单 / 母公司集团化（A1·2026-08-23）
-aliases: ["AW PROJECT 港汇恒隆", "AW PROJECT 北京SKP", "AW PROJECT 深圳万象城", "艾诺丝 重奢拓店"]
 tags: [ariose_years, womenswear, premium, aw_project, hangzhou, store_expansion, focus_brand]
 sources: [2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "AW", "艾诺丝雅诗 AW PROJECT 重奢拓店清单 / 母公司集团化（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ariose_years]], [[dekashell]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 艾诺丝雅诗 AW PROJECT 重奢拓店清单 / 母公司集团化（A1·2026-08-23）

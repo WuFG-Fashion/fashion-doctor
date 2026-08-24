@@ -3,6 +3,9 @@ type: source
 title: OTTO/Zalando AI德国市场（KI-Assistent 1900万件/内容+70%成本-90%）
 tags: [ai, marketplace, otto, zalando, germany, genai, content, source]
 sources: [2026-08-01_OTTO_Zalando_AI德国市场]
+aliases: ["OTTO/Zalando", "AI德国市场（KI-Assistent", "1900万件/内容+70%成本-90%）", "OTTO/Zalando AI德国市场（KI-Assistent 1900万件/内容+70%成本-90%）"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_design_cases_2026]], [[apparel_ai_agents_2026]]

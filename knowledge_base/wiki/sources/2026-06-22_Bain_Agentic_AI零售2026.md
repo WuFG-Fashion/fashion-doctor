@@ -3,6 +3,9 @@ type: source
 title: Bain Agentic AI零售2026 — 自主购物重构客户旅程
 tags: [ai, agentic_commerce, retail, bain, consumer_behavior]
 sources: [https://www.bain.com/insights/agentic-ai-in-retail-how-autonomous-shopping-redefining-customer-journey/]
+aliases: ["Bain", "Agentic", "AI零售2026", "自主购物重构客户旅程", "Bain Agentic AI零售2026 — 自主购物重构客户旅程"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-22
 updated: 2026-06-22
 cross_refs: [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]

@@ -1,13 +1,13 @@
 ---
 type: source
 title: 迪卡轩 全国门店规模与加盟模式
-aliases: [dekashell 加盟, 迪卡轩门店, DEKASHELL 保证金]
 tags: [dekashell, 加盟, 门店, 轻淑女装, 重点女装, 杭州]
 sources: [https://www.sohu.com/a/1061534907_261465, https://finance.eastmoney.com/a/202608073835263053.html]
-created: 2026-08-19
-updated: 2026-08-19
+aliases: ["迪卡轩", "DEKASHELL", "全国门店规模与加盟模式", "迪卡轩 全国门店规模与加盟模式"]
 confidence: 品牌自宣
 brand_specific: true
+created: 2026-08-19
+updated: 2026-08-19
 ---
 
 # 迪卡轩 全国门店规模与加盟模式

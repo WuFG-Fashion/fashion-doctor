@@ -3,6 +3,9 @@ type: source
 title: FindPowerAI 2026 AI销售陪练选型指南
 tags: [ai, guide_training, coaching, technology_selection]
 sources:
+aliases: ["FindPowerAI", "2026", "AI销售陪练选型指南", "FindPowerAI 2026 AI销售陪练选型指南"]
+confidence: 媒体估算
+brand_specific: false
   - https://www.sohu.com/a/1032216588_121707246
 created: 2026-06-06
 updated: 2026-06-06

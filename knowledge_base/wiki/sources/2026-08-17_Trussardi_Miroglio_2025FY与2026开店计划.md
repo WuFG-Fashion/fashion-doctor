@@ -1,14 +1,14 @@
 ---
 type: source
 title: Trussardi — Miroglio 2025FY 与 2026 开店计划
-aliases: ["Trussardi 2025财报", "楚萨迪 重启"]
 tags: [trussardi, competitor, luxury, italian, financials, channel, miroglio]
 sources: [2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划]
+aliases: ["Trussardi", "楚萨迪", "Miroglio", "2025FY", "Trussardi — Miroglio 2025FY 与 2026 开店计划"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[trussardi]], [[服装行业竞争格局]], [[peacebird]]
-confidence: 财报
-brand_specific: true
 ---
 
 # Trussardi — Miroglio 2025FY 与 2026 开店计划

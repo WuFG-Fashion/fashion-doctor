@@ -1,14 +1,14 @@
 ---
 type: source
 title: 太平鸟会员运营与私域体系佐证
-aliases: [太平鸟会员运营, peacebird会员私域, 太平鸟私域体系]
 tags: [peacebird, vip, membership, private_domain, 会员运营]
 sources: [wiki/raw/articles/2026-08-21_B_peacebird_会员运营与私域体系.md]
+aliases: ["太平鸟", "PEACEBIRD", "太平鸟会员运营与私域体系佐证"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[peacebird]], [[会员与VIP运营体系2026]], [[全渠道会员一体化]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # 太平鸟会员运营与私域体系佐证

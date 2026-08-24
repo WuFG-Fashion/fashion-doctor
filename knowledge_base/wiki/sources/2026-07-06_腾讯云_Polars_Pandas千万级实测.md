@@ -3,6 +3,9 @@ type: source
 title: 腾讯云 Polars vs Pandas 千万级实测 2026
 tags: [polars, pandas, benchmark, python, tencent_cloud, migration]
 sources: [https://cloud.tencent.com/developer/article/2704035]
+aliases: ["腾讯云", "Polars", "vs", "Pandas", "腾讯云 Polars vs Pandas 千万级实测 2026"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[data_library_selection_guide_2026]], [[python_data_stack_decision_2026]]

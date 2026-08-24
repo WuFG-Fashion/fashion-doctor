@@ -3,6 +3,9 @@ type: source
 title: AI时尚消费入口争夺 — Phia/Daydream/Alta/Vêtir四大创业公司 + 数字人直播
 tags: [ai, fashion_consumer, virtual_tryon, agentic_commerce, digital_human, shopping]
 sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md]
+aliases: ["AI时尚消费入口争夺", "Phia/Daydream/Alta/Vêtir四大创业公司", "数字人直播", "AI时尚消费入口争夺 — Phia/Daydream/Alta/Vêtir四大创业公司 + 数字人直播"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-02
 updated: 2026-07-02
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]]

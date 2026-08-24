@@ -3,6 +3,9 @@ type: source
 title: 小红书FireRed开源AI试衣模型
 tags: [ai, virtual_tryon, ecommerce, open_source, xiaohongshu, consumer_trust]
 sources: [2026-06-27_小红书FireRed开源AI试衣模型.md]
+aliases: ["小红书FireRed开源AI试衣模型"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-13
 updated: 2026-07-13
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]]

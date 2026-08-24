@@ -3,6 +3,9 @@ type: source
 title: AI购物Agent重塑时尚搜索 — Adobe 2026 Q1数据
 tags: [ai, agentic_commerce, fashion, ecommerce, adobe]
 sources: [Fibre2Fashion, Adobe Digital Insights, Stellagent]
+aliases: ["AI购物Agent重塑时尚搜索", "Adobe", "2026", "Q1数据", "AI购物Agent重塑时尚搜索 — Adobe 2026 Q1数据"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]]

@@ -1,14 +1,14 @@
 ---
 type: source
 title: Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）
-aliases: ["Dickies Bluestar Alliance", "Dickies 6亿美元出售", "Dickies Harley-Davidson联名", "Dickies UTG中国授权"]
 tags: [dickies, workwear, american, m_a, franchise, collaboration, brand_wall]
 sources: [2026-08-23_A1_dickies_Bluestar收购与Harley联名]
+aliases: ["Dickies", "迪凯斯", "VF", "出售", "Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[dickies]], [[服装行业竞争格局], [品牌墙概念与代理模式]]
-confidence: 官方公告
-brand_specific: true
 ---
 
 # Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）

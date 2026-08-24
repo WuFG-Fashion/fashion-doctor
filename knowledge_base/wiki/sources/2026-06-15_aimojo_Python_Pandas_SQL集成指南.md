@@ -3,6 +3,9 @@ type: source
 title: aimojo — Python Pandas+SQL集成2026指南
 tags: [python, pandas, sql, pandasql, sqlalchemy, etl, integration]
 sources: [https://aimojo.io/zh-CN/python-pandas-and-sql/]
+aliases: ["aimojo", "Python", "Pandas+SQL集成2026指南", "aimojo — Python Pandas+SQL集成2026指南"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-15
 updated: 2026-06-15
 cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]]

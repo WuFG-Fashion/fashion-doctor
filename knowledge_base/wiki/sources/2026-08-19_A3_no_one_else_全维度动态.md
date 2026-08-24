@@ -1,14 +1,14 @@
 ---
 type: source
 title: A3轮·NO ONE ELSE 2026 全维度动态（PPB STUDIO 归属、杭州黯涉运营、辣妹女装赛道集中进场）
-aliases: [NO ONE ELSE 2026-08-19 动态, nooneelse 黯涉集团, PPB STUDIO 姐妹品牌, 无性别 400-600元, no_one_else_2026_0819_update]
 tags: [no_one_else, chuu, PPB_STUDIO, 杭州黯涉, 无性别, 辣妹女装, 价格带, A3, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["NO ONE ELSE", "A3轮", "NO", "ONE", "A3轮·NO ONE ELSE 2026 全维度动态（PPB STUDIO 归属、杭州黯涉运营、辣妹女装赛道集中进场）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[no_one_else]], [[chuu]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # A3轮·NO ONE ELSE 2026 全维度动态

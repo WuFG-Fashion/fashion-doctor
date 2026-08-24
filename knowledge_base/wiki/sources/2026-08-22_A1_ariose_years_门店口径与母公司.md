@@ -1,14 +1,14 @@
 ---
 type: source
 title: 艾诺丝 ARIOSE YEARS 门店口径冲突与母公司更名（A1·2026-08-22）
-aliases: ["艾诺丝 1800 vs 2800 店", "艾诺丝母公司更名", "杭州爱唯时尚集团"]
 tags: [ariose_years, womenswear, china_brand, store_count, corporate]
 sources: [2026-08-22_ariose_years_门店口径与母公司.md]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "ARIOSE", "艾诺丝 ARIOSE YEARS 门店口径冲突与母公司更名（A1·2026-08-22）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[dekashell]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # 艾诺丝 ARIOSE YEARS 门店口径冲突与母公司更名（A1·2026-08-22）

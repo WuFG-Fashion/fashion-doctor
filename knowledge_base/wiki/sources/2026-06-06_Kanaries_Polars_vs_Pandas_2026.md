@@ -3,6 +3,9 @@ type: source
 title: Polars vs Pandas 2026选型指南
 tags: [polars, pandas, python, data_analysis, benchmark]
 sources: [https://docs.kanaries.net/zh/articles/polars-vs-pandas]
+aliases: ["Polars", "vs", "Pandas", "2026选型指南", "Polars vs Pandas 2026选型指南"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]], [[SQL查询性能优化]], [[零售数据仓库SQL实践]]

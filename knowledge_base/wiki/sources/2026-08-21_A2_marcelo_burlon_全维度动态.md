@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·MARCELO BURLON 2026 全维度动态（品牌重塑 County of Milan、Driade 联名、童装线 Kids of Milan 代理扩张）
-aliases: [Marcelo Burlon 2026-08-21 动态, County of Milan 2026, marcelo_burlon_2026_0821_update]
 tags: [marcelo_burlon, 街头潮牌, 意大利, 翅膀, 联名, 童装, A2, source, brand_update]
 sources: [websearch-2026-08-21]
+aliases: ["Marcelo Burlon", "A2轮", "MARCELO", "BURLON", "A2轮·MARCELO BURLON 2026 全维度动态（品牌重塑 County of Milan、Driade 联名、童装线 Kids of Milan 代理扩张）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·MARCELO BURLON 2026 全维度动态

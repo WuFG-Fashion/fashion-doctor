@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼KL中国2025净亏66.49M+SS26 Paris Hilton+治理）
-aliases: [KARL LAGERFELD 2026-08-22 动态, karl_lagerfeld_2026_0822_update]
 tags: [karl_lagerfeld, septwolves, greater_china, licensed, campaign, A2, source, brand_update]
 sources: [websearch-2026-08-22]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "KARL", "A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼KL中国2025净亏66.49M+SS26 Paris Hilton+治理）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[karl_lagerfeld]], [[全球服装财务基准2026]], [[中国服装零售基准体系2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·KARL LAGERFELD 2026 全维度动态

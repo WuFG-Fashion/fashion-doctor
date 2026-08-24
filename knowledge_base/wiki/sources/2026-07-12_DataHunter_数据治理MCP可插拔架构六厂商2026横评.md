@@ -3,6 +3,9 @@ type: source
 title: 数据治理可插拔架构 — MCP协议驱动六大厂商2026横评
 tags: [data_governance, mcp, vendor, ai_driven, open_architecture]
 sources: [https://www.datahunter.cn/news/shu-ju-zhi-li-ying-lai-ke-cha-ba-shi-dai-2026zhu-liu-han-shang-kai-fang-sheng-tai-yu-aineng-li-heng-xiang-ce-ping]
+aliases: ["数据治理可插拔架构", "MCP协议驱动六大厂商2026横评", "数据治理可插拔架构 — MCP协议驱动六大厂商2026横评"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[data_governance_tech_routes_2026]], [[data_lakehouse_2026]], [[etl_governance_convergence_2026]]

@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼 2025 年报细化、门店净减98、KL 净资产-1.6亿、2026Q1 扣非+302.63%）
-aliases: [Karl Lagerfeld 2026-08-21 动态, 七匹狼2025年报 KL, karl_lagerfeld_2026_0821_update]
 tags: [karl_lagerfeld, 轻奢, 老佛爷, 七匹狼, 财报, 门店, A2, source, brand_update]
 sources: [websearch-2026-08-21]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "KARL", "A2轮·KARL LAGERFELD 2026 全维度动态（七匹狼 2025 年报细化、门店净减98、KL 净资产-1.6亿、2026Q1 扣非+302.63%）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[karl_lagerfeld]], [[septwolves]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·KARL LAGERFELD 2026 全维度动态

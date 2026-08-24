@@ -3,6 +3,9 @@ type: source
 title: DuckDB vs Polars 2026基准对比
 tags: [duckdb, polars, benchmark, python, sql, olap]
 sources: [2026-06-24_PyInns_DuckDB vs Polars 2026基准对比.md]
+aliases: ["DuckDB", "vs", "Polars", "2026基准对比", "DuckDB vs Polars 2026基准对比"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-24
 updated: 2026-06-24
 cross_refs: [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]]

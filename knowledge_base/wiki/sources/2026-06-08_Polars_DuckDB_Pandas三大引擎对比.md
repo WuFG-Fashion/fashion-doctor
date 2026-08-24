@@ -3,6 +3,9 @@ type: source
 title: 2026 Polars/DuckDB/Pandas三大数据分析引擎对比
 tags: [polars, duckdb, pandas, python, benchmark, olap]
 sources: [https://pythondatabench.com/article/beyond-pandas-practical-guide-polars-duckdb-python-data-science]
+aliases: ["2026", "Polars/DuckDB/Pandas三大数据分析引擎对比", "2026 Polars/DuckDB/Pandas三大数据分析引擎对比"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-08
 updated: 2026-06-08
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]]

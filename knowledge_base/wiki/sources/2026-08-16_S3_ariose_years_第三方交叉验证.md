@@ -1,14 +1,14 @@
 ---
 type: source
 title: S3·艾诺丝ARIOSE YEARS 第三方交叉验证
-aliases: [艾诺丝第三方验证, ariose_years_cross_check, 杭州爱唯交叉验证]
 tags: [ariose_years, 艾诺丝, 女装, 第三方数据, 交叉验证, S3, focus_brand]
 sources: [https://www.toutiao.com/article/7649958421092925987, https://aiqicha.baidu.com/details/ugknowledge?id=e7b078e8eb75790b95b00ff249602f46, https://baike.sogu.com/v10009273093.htm, https://www.nbrc.com.cn/market/company.html?companyId=4fe02fe238b34bd59281e2fa39a66167&marketId=ff808181933e007401995f882a4c0dad]
+aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "S3", "S3·艾诺丝ARIOSE YEARS 第三方交叉验证"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[ariose_years]], [[服装行业竞争格局]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # S3·艾诺丝ARIOSE YEARS 第三方交叉验证

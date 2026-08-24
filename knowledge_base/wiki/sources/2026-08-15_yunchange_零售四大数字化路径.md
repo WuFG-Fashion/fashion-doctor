@@ -1,13 +1,13 @@
 ---
 type: source
 title: 云迁：零售四大数字化路径——会员资产全域打通与复购提升
-aliases: [云迁零售四大数字化路径, 零售四大数字化路径, yunchange]
 tags: [vip, membership, omnichannel, private_domain, ai, digitalization, source]
 sources: [https://yunchange.com/news_detail/366/199.html]
+aliases: ["云迁：零售四大数字化路径", "会员资产全域打通与复购提升", "云迁：零售四大数字化路径——会员资产全域打通与复购提升"]
+brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[会员复购率提升策略]], [[全渠道会员一体化]], [[私域运营方法论]]
-confidence: 媒体估算
 ---
 
 # 云迁：零售四大数字化路径——会员资产全域打通与复购提升

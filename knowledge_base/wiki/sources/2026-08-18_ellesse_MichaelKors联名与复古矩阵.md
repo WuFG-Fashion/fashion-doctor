@@ -1,13 +1,13 @@
 ---
 type: source
 title: ellesse 2026 复古联名矩阵 — Michael Kors 联名与 Smiley/JieDa
-aliases: [ellesse Michael Kors, ellesse 复古联名, ellesse 70年代]
 tags: [ellesse, 联名, Michael Kors, Smiley, 复古, 运动时尚]
 sources: [https://jazko.com/?p=70704, https://www.maideyi.com/a57928, https://www.sswagger.hk/tag/ellesse/]
-created: 2026-08-18
-updated: 2026-08-18
+aliases: ["Ellesse", "ellesse", "2026", "复古联名矩阵", "ellesse 2026 复古联名矩阵 — Michael Kors 联名与 Smiley/JieDa"]
 confidence: 品牌自宣
 brand_specific: true
+created: 2026-08-18
+updated: 2026-08-18
 ---
 
 # ellesse 2026 复古联名矩阵 — Michael Kors 联名与 Smiley/JieDa

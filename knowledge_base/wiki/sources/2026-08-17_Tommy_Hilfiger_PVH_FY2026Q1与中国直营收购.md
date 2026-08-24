@@ -1,14 +1,14 @@
 ---
 type: source
 title: Tommy Hilfiger — PVH FY2026Q1 与中国直营收购
-aliases: ["Tommy Hilfiger PVH 2026Q1", "汤米希尔费格 2026财报"]
 tags: [tommy_hilfiger, pvh, competitor, premium, financials, channel, collaboration]
 sources: [2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]
+aliases: ["Tommy Hilfiger", "汤米希尔费格", "Tommy", "Hilfiger", "Tommy Hilfiger — PVH FY2026Q1 与中国直营收购"]
+confidence: 财报
+brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
-confidence: 财报
-brand_specific: true
 ---
 
 # Tommy Hilfiger — PVH FY2026Q1 与中国直营收购

@@ -3,6 +3,9 @@ type: source
 title: Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
 tags: [python, polars, devops, toolchain, uv, ruff]
 sources: [2026-06-14_AIFutureThinkers_uv_Ruff_Ty_Polars_2026默认技术栈.md]
+aliases: ["Python项目默认技术栈2026", "uv+Ruff+Ty+Polars", "Python项目默认技术栈2026 — uv+Ruff+Ty+Polars"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]]

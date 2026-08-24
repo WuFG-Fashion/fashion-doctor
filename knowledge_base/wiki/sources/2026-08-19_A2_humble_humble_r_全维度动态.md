@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·HumbleHumbleR（谦而不卑）2026 全维度动态（臻选店标杆化、多城首店、舒德主理）
-aliases: [HumbleHumbleR 2026-08-19 动态, 谦而不卑 宁波首店, humble_humble_r_2026_0819_update]
 tags: [humble_humble_r, 新锐男装, 国潮, 街头, 中国, A2, source, brand_update]
 sources: [websearch-2026-08-19]
+aliases: ["HUMBLE HUMBLE R", "A2轮", "HumbleHumbleR（谦而不卑）2026", "全维度动态（臻选店标杆化、多城首店、舒德主理）", "A2轮·HumbleHumbleR（谦而不卑）2026 全维度动态（臻选店标杆化、多城首店、舒德主理）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]]
-confidence: 品牌自宣
-brand_specific: true
 ---
 
 # A2轮·HumbleHumbleR（谦而不卑）2026 全维度动态

@@ -3,6 +3,9 @@ type: source
 title: StyleMatrix OTB规划方法论2026
 tags: [otb, merchandise, supply_chain, inventory, planning]
 sources: [StyleMatrix 2026-06]
+aliases: ["StyleMatrix", "OTB规划方法论2026", "StyleMatrix OTB规划方法论2026"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-17
 updated: 2026-06-17
 cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]]

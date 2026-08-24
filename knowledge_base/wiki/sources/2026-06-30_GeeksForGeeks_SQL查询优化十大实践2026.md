@@ -3,6 +3,9 @@ type: source
 title: SQL查询优化十大最佳实践2026 + 服装零售对照
 tags: [sql, optimization, best_practice, explain, index, retail]
 sources: [2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026.md]
+aliases: ["SQL查询优化十大最佳实践2026", "服装零售对照", "SQL查询优化十大最佳实践2026 + 服装零售对照"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]]

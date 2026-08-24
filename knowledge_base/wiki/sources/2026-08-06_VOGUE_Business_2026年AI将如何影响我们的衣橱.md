@@ -3,6 +3,9 @@ type: source
 title: VOGUE Business——2026年AI如何影响衣橱（含批判性边界）
 tags: [AI前沿, 虚拟试衣, 数字人直播, AI购物助手, 批判视角, VOGUE, RalphLauren, Zegna, 安踏]
 sources:
+aliases: ["VOGUE", "Business", "2026年AI如何影响衣橱（含批判性边界）", "VOGUE Business——2026年AI如何影响衣橱（含批判性边界）"]
+confidence: 媒体估算
+brand_specific: false
   - VOGUE Business（凤凰网转载）《2026 年 AI 将如何影响我们的衣橱？》
 created: 2026-08-06
 updated: 2026-08-06

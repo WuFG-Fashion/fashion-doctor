@@ -3,6 +3,9 @@ type: source
 title: 语义层 / 指标层 2026 全景：从 BI 配角到 AI 基础设施
 tags: [semantic_layer, metrics_layer, dbt, metricflow, osi, ai_agent, governance, source]
 sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景, https://www.kaelio.com/blog/best-semantic-layer-solutions-for-data-teams-2026-guide, https://supaboard.ai/blog/what-is-a-semantic-layer-the-2026-field-guide, https://bixtech.ai/dbt-semantic-models-metrics-layer-ai-agents, https://beefed.ai/zh/dbt-centralized-metrics-layer, https://juejin.cn/post/7628522386075992107]
+aliases: ["语义层", "指标层", "2026", "全景：从", "语义层 / 指标层 2026 全景：从 BI 配角到 AI 基础设施"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[semantic_layer_metrics_2026]], [[retail_analytics_reporting_2026]], [[data_governance_tech_routes_2026]], [[multi_brand_unified_analytics]]

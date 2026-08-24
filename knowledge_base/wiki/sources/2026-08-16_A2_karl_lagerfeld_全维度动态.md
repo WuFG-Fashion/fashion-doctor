@@ -1,14 +1,14 @@
 ---
 type: source
 title: A2轮·KARL LAGERFELD 2025-2026 全维度动态（七匹狼财报/假日快闪/巴黎俱乐部）
-aliases: [KARL LAGERFELD 2025 2026, Karl Lagerfeld A2轮动态, karl_lagerfeld_2026_update]
 tags: [karl_lagerfeld, 七匹狼, 轻奢, A2, source, brand_update]
 sources: [websearch-2026-08-16]
+aliases: ["Karl Lagerfeld", "老佛爷", "A2轮", "KARL", "A2轮·KARL LAGERFELD 2025-2026 全维度动态（七匹狼财报/假日快闪/巴黎俱乐部）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[karl_lagerfeld]], [[男装品牌竞争格局2026Q1]], [[light_luxury_brand_framework_2026]]
-confidence: 财报
-brand_specific: true
 ---
 
 # A2轮·KARL LAGERFELD 2025-2026 全维度动态

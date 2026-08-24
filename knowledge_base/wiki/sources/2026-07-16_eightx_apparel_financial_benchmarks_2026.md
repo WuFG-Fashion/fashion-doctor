@@ -3,6 +3,9 @@ type: source
 title: Eightx全球服装品牌财务基准2026
 tags: [kpi, benchmark, global, financial, gross_margin, inventory_turnover, dtc]
 sources: [2026-07-16_Eightx全球服装品牌财务基准2026.md]
+aliases: ["Eightx全球服装品牌财务基准2026"]
+confidence: 媒体估算
+brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q1]]

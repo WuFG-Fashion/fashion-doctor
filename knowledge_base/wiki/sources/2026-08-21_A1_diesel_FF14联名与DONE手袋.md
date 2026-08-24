@@ -1,14 +1,14 @@
 ---
 type: source
 title: Diesel ×《最终幻想14》联名落地 + D-ONE 手袋（A1·2026-08-21）
-aliases: ["Diesel FF14联名", "diesel D-ONE手袋", "Diesel Y2K耳机"]
 tags: [diesel, denim, premium_denim, collaboration, gaming, accessories, italy]
 sources: [2026-08-21_diesel_FF14联名与DONE手袋.md]
+aliases: ["Diesel", "迪赛", "×《最终幻想14》联名落地", "D-ONE", "Diesel ×《最终幻想14》联名落地 + D-ONE 手袋（A1·2026-08-21）"]
+confidence: 品牌自宣
+brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[diesel]], [[服装行业竞争格局]], [[ellesse]]
-confidence: 第三方数据
-brand_specific: true
 ---
 
 # Diesel ×《最终幻想14》联名落地 + D-ONE 手袋（A1·2026-08-21）

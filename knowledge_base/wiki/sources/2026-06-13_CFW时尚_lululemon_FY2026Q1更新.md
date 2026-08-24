@@ -3,6 +3,9 @@ type: source
 title: lululemon FY2026Q1 业绩更新（6月确认）
 tags: [lululemon, competitor, financial, athleisure, q1]
 sources: [wiki/raw/articles/2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md]
+aliases: ["lululemon", "FY2026Q1", "业绩更新（6月确认）", "lululemon FY2026Q1 业绩更新（6月确认）"]
+confidence: 财报
+brand_specific: false
 created: 2026-06-13
 updated: 2026-06-13
 cross_refs: [[lululemon]], [[six_brands_2026q1]], [[服装行业竞争格局]]

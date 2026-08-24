@@ -3,6 +3,9 @@ type: source
 title: Megaview Agent陪练成为导购随身实战教练
 tags: [guide, ai, coaching, training, megaview, ccfa]
 sources: [Megaview_Agent陪练随身实战教练_2026-03-10]
+aliases: ["Megaview", "Agent陪练成为导购随身实战教练", "Megaview Agent陪练成为导购随身实战教练"]
+confidence: 第三方数据
+brand_specific: false
 created: 2026-06-13
 updated: 2026-06-13
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]
