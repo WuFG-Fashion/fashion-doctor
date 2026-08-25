@@ -6,10 +6,10 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md]
 created: 2026-08-14
-updated: 2026-08-22
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]]
+updated: 2026-08-26
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
 ---
 
 # Tommy Hilfiger
@@ -83,6 +83,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[speedo]] · [[服装行业竞争格局]] · [[peacebird]]
+
+## 近期动态刷新（2026-08-26 · A3轮·品牌全维度·集团层补充）
+
+> 本轮按 A3 规范全维度增量核验，新增来源 [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]（品牌级 Q2 已在 08-19 入库，本页为集团层/区域拆解/口径闭环补充）。
+
+- **集团 Q2（增量）**：PVH 合并净销售额 **19.6 亿美元 +6%**；净利 1.19 亿美元（媒体"11.9 亿"为翻译笔误）；**EPS 1.52 美元**超预期（1.38），盘后 +3.5% 至年内高点 124.29 美元（置信度：财报）。
+- **品牌对照（CK 为增量）**：Calvin Klein **7.86 亿美元 +8%**（国际可比 +20%）；Tommy **8.92 亿美元 +4%**（国际可比 +6%）——国际是双品牌共同增长引擎，北美可比持续下滑（置信度：财报）。
+- **口径闭环**：WWD 官方 Q2 8.92 亿与 08-19 已入库一致；Q1 两口径"边界未对齐"结论维持不变，未扩大矛盾范围（置信度：财报/既有判断）。
+- **指引复核**：全年 EPS 6.44-6.54 与追加 1000 万行销费与 08-21 入库一致。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[nautica]]（国际路径对照） · [[服装行业竞争格局]] · [[peacebird]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]

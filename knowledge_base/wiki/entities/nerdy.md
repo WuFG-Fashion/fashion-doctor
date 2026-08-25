@@ -10,7 +10,7 @@ aliases:
 tags: [nerdy, ndy, competitor, streetwear, korean_wave, sportswear, china]
 sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_NERDY_武汉首店_中国扩张.md, 2026-08-19_A3_nerdy_全维度动态, 2026-08-23_A3_nerdy_更名NDY与韩国现状.md]
 created: 2026-08-15
-updated: 2026-08-23
+updated: 2026-08-26
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nerdy_全维度动态]], [[thisisizi8]], [[服装价格带管理与价格真空区]], [[brand_risk_signals_2026]], [[brand_portfolio_tiers_2026]]
 ---
 
@@ -61,6 +61,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-17_NERDY_武汉首店_中国扩张.md]] → 本页（[[nerdy]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-26 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验，**结果为已核对无新增**；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库信息**（非静默跳过）。
+- 核对项：① 更名 NDY 与韩国 10 店现状已 08-23 入库；② 本轮检索命中均为通用品牌介绍页（APR/MULTINEX 运营信息），无 2026-08 新店/联名信号。
+- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-08-26。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[nerdy]]）→ 下游应用：[[服装行业竞争格局]]
+
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]

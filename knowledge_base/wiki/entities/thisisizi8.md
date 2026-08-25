@@ -7,10 +7,10 @@ aliases:
   - "THISISIZI8"
   - "克莱因蓝买手店"
 tags: [thisisizi8, competitor, concept_store, buyer_store, korean, china]
-sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md]
+sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md, 2026-08-26_A3_thisisizi8_卡宾官网矩阵收录.md]
 created: 2026-08-15
-updated: 2026-08-19
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]]
+updated: 2026-08-26
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]], [[two_am]]
 ---
 
 # thisisIZI8
@@ -73,6 +73,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], 
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[thisisizi8]]）→ 下游应用：[[nerdy]] · [[koyo]] · [[peacebird]]
+
+## 近期动态刷新（2026-08-26 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范全维度检索核验，新增来源 [[2026-08-26_A3_thisisizi8_卡宾官网矩阵收录]]（品牌归属新信号；门店/联名维度探针 2 次均无 2026-08 新动作）。
+
+- **品牌归属新信号（结构性）**：卡宾官网（cabbeen.com）"集团介绍"将 **thisisIZI8** 与 KOYO、2AM、1%、CABBEEN Love/Home、MARKET LIBERTY 一并列入卡宾多品牌矩阵——"独立韩国血统买手店"叙事需叠加"卡宾集团矩阵成员"维度（置信度：品牌自宣，待工商确认）。
+- **与 KOYO/2AM 同源可能**：KOYO（A2 轮已标"卡宾巴黎子品牌"）与 2AM 同列矩阵，三者同源可能性上升（置信度：品牌自宣）。
+- **门店/营销维度**：深圳万象天地/武汉门店与 80+ 品牌矩阵无 2026-08 新增动作（与 08-17/08-19 一致）；开业首日 25 万+ 销售记录为既有事实。
+- **处置**：本论不造重复源页，仅新增矩阵收录 source 并登记核对记录。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-26_A3_thisisizi8_卡宾官网矩阵收录]] → 本页（[[thisisizi8]]）→ 下游应用：[[cabbeen]] · [[two_am]] · [[koyo]] · [[服装行业竞争格局]] · [[peacebird]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]

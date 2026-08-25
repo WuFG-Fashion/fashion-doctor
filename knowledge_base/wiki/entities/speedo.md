@@ -6,7 +6,7 @@ aliases:
 tags: [speedo, competitor, sportswear, swimwear, uk]
 sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md, 2026-08-19_A3_speedo_全维度动态.md, 2026-08-23_A3_speedo_亚运窗口与张展硕官宣.md]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-26
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]], [[salomon]], [[tommy_hilfiger]]
 ---
 
@@ -72,6 +72,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]] → 本页（[[speedo]]）→ 下游应用：[[peacebird]] · [[服装行业竞争格局]] · [[salomon]]
+
+
+## 近期动态刷新（2026-08-26 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验，**结果为已核对无新增**；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库信息**（非静默跳过）。
+- 核对项：① CHIIKAWA 系列/汪顺代言/亚运窗口已 08-21、08-23 入库；② 本轮检索命中 CHIIKAWA 营销内容与 UNDEFEATED 联名（均已在库），无新增。
+- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-08-26。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
