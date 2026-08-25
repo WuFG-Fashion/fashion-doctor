@@ -1,9 +1,9 @@
 {
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
-  "last_updated": "2026-08-24",
-  "generated_at": "2026-08-24 20:42:10",
-  "total_entries": 1085,
+  "last_updated": "2026-08-25",
+  "generated_at": "2026-08-25 10:16:34",
+  "total_entries": 1087,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -14947,6 +14947,38 @@
           ],
           "confidence": "媒体估算",
           "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_892",
+          "name": "2026-08-25_A1_adlv_巴斯奎特联名与艺术家IP泛化",
+          "path": "wiki/sources/2026-08-25_A1_adlv_巴斯奎特联名与艺术家IP泛化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "ADLV 巴斯奎特联名",
+            "ADLV Basquiat 26SS",
+            "巴斯奎特联名爆发2026",
+            "ADLV × Basquiat 巴斯奎特 26SS 联名与艺术家 IP 泛化（A1·2026-08-25）"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_893",
+          "name": "2026-08-25_A1_cabbeen_中报子品牌增速与渠道结构深挖",
+          "path": "wiki/sources/2026-08-25_A1_cabbeen_中报子品牌增速与渠道结构深挖.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "卡宾中报子品牌增速",
+            "卡宾都市+36%",
+            "凌晨两点+65%",
+            "卡宾411万会员",
+            "卡宾573家门店结构",
+            "卡宾 2026 中报子品牌增速与渠道结构深挖（A1·2026-08-25）"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
         }
       ],
       "arch": "wiki"

@@ -14,6 +14,7 @@ updated: 2026-08-24
 ### wiki/playbooks/ — 作战手册（怎么干）
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[导购团队管理SOP]] | 导购团队组织能力 SOP（新人培养/在岗提升/团队节奏） | playbook, team_action, 组织能力, 导购培养 |
 | [[清仓决策树]] | 死库存分级清仓决策树（上市周数 × 动销率） | playbook, inventory, clearance |
 | [[季初订货节奏]] | 订货会 → OTB 分配 → 波段上货 → 周度监控节奏线 | playbook, merchandise, otb |
 | ⭐ UPDATED [[导购培训SOP]] | 新人 7 天上岗路径 + 在岗提升闭环 + AI 陪练 | playbook, training, sales + 08-11新增:苏州培训ROI1:6.5+杭州12店成交率28→56 |
