@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-26
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -93,3 +93,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - D-ONE 手袋（2026 秋冬）香港/新加坡 HKD 5,200–9,700，客单抬升。
 
 > 来源：[[2026-08-23_A1_diesel_在华20周年与Unicorn授权.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-26）
+
+> 本轮 A1 全维度核验新增「可持续战略 + F/W 2026 大秀方向」维度信号，见 [[2026-08-26_A1_diesel_可持续战略与FW26大秀]]。
+
+- **可持续战略**：Diesel 发布「For Responsible Living」四支柱——Be the Alternative（环保产品/包装、低碳材料、研发）、Promote Integrity（供应链高标、可追溯）、Stand for the Planet（气候行动、再利用）、Celebrate Individuality（可持续文化、员工权利）；Eco-Age Livia Firth 参与框架建立（置信度：品牌自宣）。
+- **F/W 2026 大秀**：Glenn Martens 延续树脂涂层褶皱丹宁、超长裤侧开衩、多色线材粘合升级再造西装/大衣；舞台以数千件 Diesel 周边堆砌 rave 场景；媒体评价「销量数据越来越好」（媒体估算）。
+- **SS 2026「Inner Rebel」**（2025-10）：55 套造型散布 18 个隐藏地点，透明巨蛋 + QR 码解锁，Pokemon Go 式城市「寻宝」发布——游戏化营销实验。
+- 信息链：[[2026-08-26_A1_diesel_可持续战略与FW26大秀]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]、[[品牌墙概念与代理模式]]

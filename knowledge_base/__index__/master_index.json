@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-26",
-  "generated_at": "2026-08-26 00:24:37",
-  "total_entries": 1169,
+  "generated_at": "2026-08-26 06:48:48",
+  "total_entries": 1176,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -15939,6 +15939,109 @@
         },
         {
           "id": "WIKI_S_sources_941",
+          "name": "2026-08-26_A1_adlv_RollingStones与Garnier联名国际化",
+          "path": "wiki/sources/2026-08-26_A1_adlv_RollingStones与Garnier联名国际化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "ADLV Rolling Stones 联名",
+            "ADLV Garnier 联名",
+            "ADLV 越南促销"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_942",
+          "name": "2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络",
+          "path": "wiki/sources/2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "艾诺丝 米兰 Campaign",
+            "ARIOSE YEARS SUMMER 2026",
+            "艾诺丝 门店网络"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_943",
+          "name": "2026-08-26_A1_chuu_代理商结构与品类价格带_辣妹赛道",
+          "path": "wiki/sources/2026-08-26_A1_chuu_代理商结构与品类价格带_辣妹赛道.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "CHUU 代理商结构",
+            "CHUU 品类价格带",
+            "辣妹赛道图鉴",
+            "CHUU 七格格"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_944",
+          "name": "2026-08-26_A1_crocs_Q2电话会增量_凉鞋500M与Q3指引",
+          "path": "wiki/sources/2026-08-26_A1_crocs_Q2电话会增量_凉鞋500M与Q3指引.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Crocs Q2 2026 电话会",
+            "Crocs 凉鞋 5 亿美元",
+            "Crocs Q3 指引",
+            "CROX 电话会增量"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_945",
+          "name": "2026-08-26_A1_dekashell_加盟投资与第三方门店口径",
+          "path": "wiki/sources/2026-08-26_A1_dekashell_加盟投资与第三方门店口径.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "迪卡轩 加盟投资",
+            "DEKASHELL 加盟条件",
+            "迪卡轩 门店口径",
+            "迪卡轩 价格带"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_946",
+          "name": "2026-08-26_A1_dickies_Bluestar收购后欧洲扩张",
+          "path": "wiki/sources/2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Dickies Bluestar 收购",
+            "Dickies 欧洲扩张",
+            "SportLux Dickies",
+            "Just Now Distribution"
+          ],
+          "confidence": "官方公告",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_947",
+          "name": "2026-08-26_A1_diesel_可持续战略与FW26大秀",
+          "path": "wiki/sources/2026-08-26_A1_diesel_可持续战略与FW26大秀.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Diesel For Responsible Living",
+            "Diesel 可持续战略",
+            "Diesel FW26 大秀",
+            "Diesel Inner Rebel"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_948",
           "name": "2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略",
           "path": "wiki/sources/2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略.md",
           "file_count": 1,
@@ -15952,7 +16055,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_942",
+          "id": "WIKI_S_sources_949",
           "name": "2026-08-26_B佐证_Levi商品结构与品类聚焦",
           "path": "wiki/sources/2026-08-26_B佐证_Levi商品结构与品类聚焦.md",
           "file_count": 1,
@@ -15967,7 +16070,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_943",
+          "id": "WIKI_S_sources_950",
           "name": "2026-08-26_B佐证_卡宾终端培训与加盟运营体系",
           "path": "wiki/sources/2026-08-26_B佐证_卡宾终端培训与加盟运营体系.md",
           "file_count": 1,
@@ -15981,7 +16084,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_944",
+          "id": "WIKI_S_sources_951",
           "name": "2026-08-26_B佐证_江南布衣会员深化",
           "path": "wiki/sources/2026-08-26_B佐证_江南布衣会员深化.md",
           "file_count": 1,
@@ -15995,7 +16098,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_945",
+          "id": "WIKI_S_sources_952",
           "name": "2026-08-26_会员运营方法论_私域四大场景与RFMV分层",
           "path": "wiki/sources/2026-08-26_会员运营方法论_私域四大场景与RFMV分层.md",
           "file_count": 1,
@@ -16010,7 +16113,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_946",
+          "id": "WIKI_S_sources_953",
           "name": "2026-08-26_商品企划方法论_OTB与配补调2026",
           "path": "wiki/sources/2026-08-26_商品企划方法论_OTB与配补调2026.md",
           "file_count": 1,
@@ -16026,7 +16129,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_947",
+          "id": "WIKI_S_sources_954",
           "name": "2026-08-26_多品牌零售数据中台与全域用户治理实践2026",
           "path": "wiki/sources/2026-08-26_多品牌零售数据中台与全域用户治理实践2026.md",
           "file_count": 1,
@@ -16038,7 +16141,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_948",
+          "id": "WIKI_S_sources_955",
           "name": "2026-08-26_太平鸟数字化与数据分析体系2026",
           "path": "wiki/sources/2026-08-26_太平鸟数字化与数据分析体系2026.md",
           "file_count": 1,
@@ -16050,7 +16153,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_949",
+          "id": "WIKI_S_sources_956",
           "name": "2026-08-26_导购能力与门店人效方法论2026",
           "path": "wiki/sources/2026-08-26_导购能力与门店人效方法论2026.md",
           "file_count": 1,
@@ -16066,7 +16169,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_950",
+          "id": "WIKI_S_sources_957",
           "name": "2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准",
           "path": "wiki/sources/2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准.md",
           "file_count": 1,
@@ -16078,7 +16181,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_951",
+          "id": "WIKI_S_sources_958",
           "name": "2026-08-26_时尚忠诚度计划国际标杆2026",
           "path": "wiki/sources/2026-08-26_时尚忠诚度计划国际标杆2026.md",
           "file_count": 1,
@@ -16094,7 +16197,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_952",
+          "id": "WIKI_S_sources_959",
           "name": "2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI",
           "path": "wiki/sources/2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI.md",
           "file_count": 1,
@@ -16106,7 +16209,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_953",
+          "id": "WIKI_S_sources_960",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -16118,7 +16221,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_954",
+          "id": "WIKI_S_sources_961",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -16130,7 +16233,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_955",
+          "id": "WIKI_S_sources_962",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -16142,7 +16245,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_956",
+          "id": "WIKI_S_sources_963",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
