@@ -1,9 +1,9 @@
 {
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
-  "last_updated": "2026-08-25",
-  "generated_at": "2026-08-25 11:27:58",
-  "total_entries": 1157,
+  "last_updated": "2026-08-26",
+  "generated_at": "2026-08-26 00:09:08",
+  "total_entries": 1170,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -158,7 +158,9 @@
           "path": "wiki/concepts/16brands_2026q1_snapshot.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "16brands_2026q1_snapshot"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -168,7 +170,9 @@
           "path": "wiki/concepts/2026-07_东方财富_纺服中报预告综述_预盈率54.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "2026-07_东方财富_纺服中报预告综述_预盈率54"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -286,7 +290,9 @@
           "path": "wiki/concepts/ai_policy.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "ai_policy"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -296,7 +302,9 @@
           "path": "wiki/concepts/ai_tools.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "ai_tools"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -402,7 +410,9 @@
           "path": "wiki/concepts/bosideng_fy2026_deep_dive.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "bosideng_fy2026_deep_dive"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -412,7 +422,9 @@
           "path": "wiki/concepts/brand_config.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "brand_config"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -422,7 +434,9 @@
           "path": "wiki/concepts/category_planning.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "category_planning"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -492,7 +506,9 @@
           "path": "wiki/concepts/competitor_overview.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "competitor_overview"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -515,7 +531,9 @@
           "path": "wiki/concepts/cross_brand_integration.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "cross_brand_integration"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -585,7 +603,9 @@
           "path": "wiki/concepts/data_model.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "data_model"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -595,7 +615,9 @@
           "path": "wiki/concepts/data_quality.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "data_quality"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -617,7 +639,9 @@
           "path": "wiki/concepts/dead_stock.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "dead_stock"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -675,7 +699,9 @@
           "path": "wiki/concepts/fast_fashion.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "fast_fashion"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -709,7 +735,9 @@
           "path": "wiki/concepts/guide_training.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "guide_training"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -733,7 +761,9 @@
           "path": "wiki/concepts/kpi_benchmark.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "kpi_benchmark"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -755,7 +785,9 @@
           "path": "wiki/concepts/llm_update.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "llm_update"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -765,7 +797,9 @@
           "path": "wiki/concepts/points_program.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "points_program"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -835,7 +869,9 @@
           "path": "wiki/concepts/repurchase.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "repurchase"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -857,7 +893,9 @@
           "path": "wiki/concepts/retail_ai_cases.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "retail_ai_cases"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -927,7 +965,9 @@
           "path": "wiki/concepts/selling_ability.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "selling_ability"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -973,7 +1013,9 @@
           "path": "wiki/concepts/sku_lifecycle.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "sku_lifecycle"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -995,7 +1037,9 @@
           "path": "wiki/concepts/sql_optimization.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "sql_optimization"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1029,7 +1073,9 @@
           "path": "wiki/concepts/streamlit_multitab.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "streamlit_multitab"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1039,7 +1085,9 @@
           "path": "wiki/concepts/system_architecture.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "system_architecture"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1049,7 +1097,9 @@
           "path": "wiki/concepts/terminology.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "terminology"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1059,7 +1109,9 @@
           "path": "wiki/concepts/top_guide.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "top_guide"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1069,7 +1121,9 @@
           "path": "wiki/concepts/vip_tier.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "vip_tier"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1079,7 +1133,9 @@
           "path": "wiki/concepts/viz_best_practices.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "viz_best_practices"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1089,7 +1145,9 @@
           "path": "wiki/concepts/vogue_business_ai_consumer_2026.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "vogue_business_ai_consumer_2026"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1099,7 +1157,9 @@
           "path": "wiki/concepts/wave_timing.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "wave_timing"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1561,7 +1621,9 @@
           "path": "wiki/entities/croquis.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "croquis"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -1667,7 +1729,9 @@
           "path": "wiki/entities/gxg.md",
           "file_count": 1,
           "status": "ok",
-          "aliases": [],
+          "aliases": [
+            "gxg"
+          ],
           "confidence": null,
           "brand_specific": null
         },
@@ -2474,6 +2538,18 @@
         },
         {
           "id": "WIKI_R_practices_6",
+          "name": "retail_bi_three_tier_dashboard",
+          "path": "wiki/practices/retail_bi_three_tier_dashboard.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "三层角色看板, 总部区域门店看板, 全渠道BI看板实践, three tier dashboard"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_R_practices_7",
           "name": "RFM会员分层运营实战",
           "path": "wiki/practices/RFM会员分层运营实战.md",
           "file_count": 1,
@@ -2483,7 +2559,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_7",
+          "id": "WIKI_R_practices_8",
           "name": "sku_inventory_sql_operations",
           "path": "wiki/practices/sku_inventory_sql_operations.md",
           "file_count": 1,
@@ -2495,7 +2571,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_8",
+          "id": "WIKI_R_practices_9",
           "name": "streamlit_production_dashboard",
           "path": "wiki/practices/streamlit_production_dashboard.md",
           "file_count": 1,
@@ -2507,7 +2583,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_9",
+          "id": "WIKI_R_practices_10",
           "name": "服装订货会精准策划",
           "path": "wiki/practices/服装订货会精准策划.md",
           "file_count": 1,
@@ -2517,7 +2593,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_10",
+          "id": "WIKI_R_practices_11",
           "name": "私域运营方法论",
           "path": "wiki/practices/私域运营方法论.md",
           "file_count": 1,
@@ -2527,7 +2603,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_11",
+          "id": "WIKI_R_practices_12",
           "name": "零售数据仓库SQL实践",
           "path": "wiki/practices/零售数据仓库SQL实践.md",
           "file_count": 1,
@@ -15630,7 +15706,8 @@
           "aliases": [
             "服务硬性要求30条",
             "卡宾服务30条",
-            "服务硬性要求"
+            "服务硬性要求",
+            "卡宾服务清单"
           ],
           "confidence": "品牌自宣",
           "brand_specific": false
@@ -15671,7 +15748,8 @@
           "status": "ok",
           "aliases": [
             "店铺带教技巧",
-            "带教技巧"
+            "带教技巧",
+            "卡宾带教"
           ],
           "confidence": "品牌自宣",
           "brand_specific": false
@@ -15873,6 +15951,174 @@
         },
         {
           "id": "WIKI_S_sources_941",
+          "name": "2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略",
+          "path": "wiki/sources/2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Crocs Club",
+            "卡骆驰忠诚度",
+            "Croctober"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_942",
+          "name": "2026-08-26_B佐证_Levi商品结构与品类聚焦",
+          "path": "wiki/sources/2026-08-26_B佐证_Levi商品结构与品类聚焦.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Levis商品企划",
+            "Dockers出售",
+            "Denizen停用",
+            "丹宁品类聚焦"
+          ],
+          "confidence": "官方公告",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_943",
+          "name": "2026-08-26_B佐证_卡宾终端培训与加盟运营体系",
+          "path": "wiki/sources/2026-08-26_B佐证_卡宾终端培训与加盟运营体系.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "卡宾加盟培训",
+            "cabbeen终端运营",
+            "卡宾导购培训"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_944",
+          "name": "2026-08-26_B佐证_江南布衣会员深化",
+          "path": "wiki/sources/2026-08-26_B佐证_江南布衣会员深化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "江南布衣会员深化",
+            "JNBY会员运营2026",
+            "订单会员销售比"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_945",
+          "name": "2026-08-26_会员运营方法论_私域四大场景与RFMV分层",
+          "path": "wiki/sources/2026-08-26_会员运营方法论_私域四大场景与RFMV分层.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "RFMV模型",
+            "会员健康值指标",
+            "私域四大场景",
+            "会员五层级"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_946",
+          "name": "2026-08-26_商品企划方法论_OTB与配补调2026",
+          "path": "wiki/sources/2026-08-26_商品企划方法论_OTB与配补调2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "商品计划八步法",
+            "爆款生命周期",
+            "智能配补调",
+            "四等级分级",
+            "OTB公式"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_947",
+          "name": "2026-08-26_多品牌零售数据中台与全域用户治理实践2026",
+          "path": "wiki/sources/2026-08-26_多品牌零售数据中台与全域用户治理实践2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "多品牌数据中台2026, ETLCloud零售治理, 全域用户OneID, Branch8全渠道架构, Unity Catalog多品牌"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_948",
+          "name": "2026-08-26_太平鸟数字化与数据分析体系2026",
+          "path": "wiki/sources/2026-08-26_太平鸟数字化与数据分析体系2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "太平鸟数字化, PEACEBIRD 数字化, 太平鸟数据中台, 太平鸟全域CRM, TOC模式"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_949",
+          "name": "2026-08-26_导购能力与门店人效方法论2026",
+          "path": "wiki/sources/2026-08-26_导购能力与门店人效方法论2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "五步销售法",
+            "连带率基准",
+            "AI动态排班",
+            "导购能力模型2026",
+            "人效21.3"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_950",
+          "name": "2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准",
+          "path": "wiki/sources/2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "数据分析技术栈2026, 五引擎基准2026, Johal 2026 基准, Pandas 3.0 vs Polars 2.1 vs DuckDB 1.2"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_951",
+          "name": "2026-08-26_时尚忠诚度计划国际标杆2026",
+          "path": "wiki/sources/2026-08-26_时尚忠诚度计划国际标杆2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "忠诚度计划2026",
+            "Gap Encore",
+            "Nordy Club",
+            "ASOS World",
+            "兑换率基准"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_952",
+          "name": "2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI",
+          "path": "wiki/sources/2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "BI看板三层角色, 服装BI看板, 零售库存KPI, 全渠道看板设计"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_953",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -15884,7 +16130,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_942",
+          "id": "WIKI_S_sources_954",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -15896,7 +16142,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_943",
+          "id": "WIKI_S_sources_955",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -15908,7 +16154,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_944",
+          "id": "WIKI_S_sources_956",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,

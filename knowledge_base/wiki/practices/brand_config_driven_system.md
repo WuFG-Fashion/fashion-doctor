@@ -4,10 +4,10 @@ title: 品牌配置驱动多品牌系统
 aliases:
   - "brand config driven system"
 tags: [brand, configuration, python, streamlit, multi_brand, architecture, membership, master_data]
-sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026]
+sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026, 2026-08-26_多品牌零售数据中台与全域用户治理实践2026]
 created: 2026-06-08
-updated: 2026-08-15
-cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构], [[2026-08-15_主动元数据与多品牌数据目录2026]]]
+updated: 2026-08-26
+cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
 ---
 
 # 品牌配置驱动多品牌系统
@@ -233,3 +233,25 @@ MASTER_DATA_DIMS = {
 - [[brand_ops_data_infra_2026]] ⭐ S轮 — 数据基建适配跨品牌合成（品牌实例映射）
 
 - [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]
+
+## C轮更新（2026-08-26）：35 品牌注册表 + OneID 全域用户统一
+
+> 来源：[[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] / [[2026-08-26_太平鸟数字化与数据分析体系2026]]
+
+### 品牌注册表扩展为 35 品牌（品牌感知硬性要求）
+
+品牌配置驱动系统的注册表 = kb_benchmarks.json 的 focus_brands 35 品牌，按数据可得性分层配置：
+
+| 层 | 品牌 | 配置要点 |
+|---|---|---|
+| 财报品牌（3+） | cabbeen / peacebird / crocs（+dkny G-III、levis、tommy PVH 等可对齐） | 独立指标口径 + 财务字段映射 + confidence=财报 |
+| 品牌墙代理（26） | trussardi / mr_mrs / diesel / dkny / salomon / mlb / nerdy / chuu 等 | 配置"数据稀疏"降级路径：无财报→媒体估算标记，看板标注置信度 |
+| 女装补充（2） | ariose_years / dekashell | 自宣口径 + 第三方 corroboration 字段 |
+
+新增品牌 = 新增一条 Dict 配置 + 字段映射，不改代码（"一次开发、多品牌复用"的既有承诺）。
+
+### OneID 全域用户统一（对齐 ETLCloud 四层范式）
+
+- 品牌配置层新增 **OneID 主键策略**：手机号/身份证/设备 ID 三级构建全局唯一用户标识（对齐 [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026|ETLCloud ODS-STG-DWS-API 四层]] 的 DWS 宽表层）。
+- 与既有"会员跨品牌通认/隔离开关"设计合并：**通认 = OneID 共享层；隔离 = 财务/门店数据品牌独立**——开关依然是显式配置，但用户身份先归一。
+- 双核参照：[[peacebird]] 全域 CRM 千万级画像 + TOC 库存一体化（[[2026-08-26_太平鸟数字化与数据分析体系2026]]），是 OneID 落地的行业样板。

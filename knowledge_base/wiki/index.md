@@ -203,6 +203,7 @@ updated: 2026-08-24
 | [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] ⭐ NEW | 三引擎混合栈/快速决策树/服装零售场景决策表/迁移路线图 | polars, duckdb, pandas, selection |
 | [[bi_dashboard_retail_deployment|BI看板零售部署实操]] ⭐ NEW | 六步落地流程/Superset-DataEase-Streamlit三种方案/5大标准看板/避坑指南/Docker部署 | bi, dashboard, deployment, retail, superse, dataease, streamlit |
 | [[python_sql_integration_patterns_2026|Python Pandas+SQL集成实战]] ⭐ NEW | pandasql快速原型+SQLAlchemy生产集成+ETL管道分层，缩短分析时间50% | python, pandas, sql, pandasql, sqlalchemy, etl |
+| [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板]] ⭐ NEW 08-26 | 总部看全局/区域看趋势/门店看自己三层分角色看板+预警分级上报+每视图≤7指标，映射 focus_brands 35品牌 | bi, dashboard, store_ops, kpi, streamlit, C_round, practice |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
 ### wiki/comparisons/ — 对比库
@@ -224,7 +225,8 @@ updated: 2026-08-24
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
-| ⭐ NEW [[韦孚咨询专题（2026-08-25 入库）]] | 韦孚咨询搜狐号 23 篇公众号文章（含讲师介绍+服博会课程+3C 案例）的提炼专题——**1 个实体页（[[weifu_consulting]]）+ 5 个概念页（3C 经营体系/客资/量化美学/销售力/七次对接/美学零售）+ 11 个 source 页**；公开渠道首批完整提炼，公众号视频不可得见结论 | weifu, 3c, quantified_aesthetics, methodology, topic, source  |
+| ⭐ NEW 2026-08-26 C轮 4源 | 数据分析+多品牌系统·品牌感知：①[[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]] Johal五引擎基准(Polars2.1/DuckDB1.2/DataFusion全谱·零售迁移-82%成本) ②[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] 总部/区域/门店三层看板+库存KPI ③[[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] ETLCloud四层+OneID+Unity Catalog多品牌 ④[[2026-08-26_太平鸟数字化与数据分析体系2026]] 品牌级查漏·财报口径50+数字化项目/6亿研发中心/千万级画像/TOC | data_analysis, bi, multi_brand, middle_platform, peacebird, C_round, source |
+| ⭐ NEW [[weifu_consulting|韦孚咨询专题]] | 韦孚咨询搜狐号 23 篇公众号文章（含讲师介绍+服博会课程+3C 案例）的提炼专题——**1 个实体页（[[weifu_consulting]]）+ 5 个概念页（3C 经营体系/客资/量化美学/销售力/七次对接/美学零售）+ 11 个 source 页**；公开渠道首批完整提炼，公众号视频不可得见结论 | weifu, 3c, quantified_aesthetics, methodology, topic, source  |
 | ⭐ NEW 2026-08-25 human 课件/制度 39 源 | 桌面《培训课件》《店铺制度》入库提炼（销售九部曲/卖场管理/店长店助培训/FPA/五项管理/面料/卡宾制度等），原文存 human/，39 个 source 页见 wiki/sources/2026-08-25_human_* | human, training, store_rules, source + 08-25新增:39源批量入库 |
 | [[2026-08-20_客户价值四指标替代复购率]] ⭐ NEW | 复购率三大缺陷（口径可调节/只看人数/低频误判）+ LTV/留存率/NDR/NPS 四指标定义与落地四步（RFM分层→NPS监控→NDR追踪→LTV反推预算）；公众号「零售小九」 | vip, customer_value, ltv, ndr, nps, rfm, methodology, source |
 | [[2026-08-20_扎克伯格超级智能与第二大脑]] ⭐ NEW | 扎克伯格《The Future is for Everyone》解读：AI 是能力放大器非替代工具/发明>自动化/权力平衡与开源/一人+Agent≈小型组织/三个学习弯路；公众号「白熊安安」 | ai, empowerment, second_brain, agent, education, source |
