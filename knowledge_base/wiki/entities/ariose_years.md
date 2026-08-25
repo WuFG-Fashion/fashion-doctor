@@ -8,9 +8,9 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-26
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -140,3 +140,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 - 本轮为口径 corroborate + 新店信号，无新增硬财务（非上市无审计财报）。
 
 > 来源：[[2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-26）
+
+> 本轮 A1 全维度核验新增「米兰夏日 Campaign + 精选店铺网络」维度信号，见 [[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]]。
+
+- **米兰大片**：ARIOSE YEARS 2026 SUMMER Campaign 首度以意大利米兰斯福尔扎古堡（Castello Sforzesco）为拍摄地，主题「光与影/意式风情/度假叙事」——用欧式场景强化「不浮华的时尚、不怯场的高级」品牌溢价感知（置信度：品牌自宣）。
+- **精选店铺网络**（官方页，置信度：品牌自宣）：上海 7 店（静安嘉里中心 4F/静安久光 4F/万象城 3F/来福士 L3/七宝领展 3F/世纪汇 2F/合生汇 3F）、天津 2 店（万象城 4F/南开大悦城 3F）、合肥 3 店（万象城/银泰中心/包河万象汇）、西安 2 店（赛格国际 4F/CCBD 万象城 4F）、长沙 4 店（王府井 4F/德思勤 L2/国金街 B1/万象城 3F）等——头部 mall 深耕印证 1800+ 店口径。
+- **门店焕新**：西单大悦城 3F 新装开业（2026-08-13~15）、金山万达焕新开业（9 折）——存量升级与重奢拓店（08-20 源）互补。
+- 信息链：[[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]] → 本页（ariose_years 实体）→ 下游：[[服装价格带管理与价格真空区]]、[[服装行业竞争格局]]

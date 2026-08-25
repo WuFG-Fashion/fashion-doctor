@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-26
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
@@ -96,3 +96,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 后 VF 时代以"资本易主 + 高频联名"维持工装潮牌心智，慢上新本质未变。
 
 > 来源：[[2026-08-23_A1_dickies_Bluestar收购与Harley联名.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-26）
+
+> 本轮 A1 全维度核验新增「Bluestar 收购后欧洲扩张」维度信号，见 [[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]]。
+
+- **收购完成 corroborate**：VF 于 2025-11-12 完成向 Bluestar Alliance 出售 Dickies（6 亿美元现金，官方公告）——与 08-23 源一致。
+- **欧洲 master-licensing（2026-07 新增）**：Bluestar 委托 SportLux 为欧洲授权联盟运营方（品牌重新定位 + 批发规模扩张）；2026-07 任命 Just Now Distribution 负责英国/爱尔兰销售与批发开发（Luke Distribution 提供运营财务支持）——收购后首个区域运营动作（置信度：第三方数据）。
+- **Bluestar 组合规模**：全球零售额超 130 亿美元、600+ 授权商、500+ 品牌零售店（Off-White/Palm Angels/Scotch & Soda/Hurley/Bebe 等）；2026-06-30 Off-White 推出平价线 L/Ab——「管理与授权」模式下的品牌激活样本。
+- **对中国市场影响待观察**：UTG 中国主授权（08-23 源）之下，新东家控价/品类策略可能带来溢价管理变化，需持续跟踪。
+- 信息链：[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]] → 本页（dickies 实体）→ 下游：[[品牌墙概念与代理模式]]、[[服装行业竞争格局]]

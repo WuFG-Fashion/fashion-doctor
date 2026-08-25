@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-24
+updated: 2026-08-26
 ---
 
 # Fashion Doctor 知识库导航
@@ -66,13 +66,13 @@ updated: 2026-08-24
 | [[moco_epo]] ⭐ NEW | MO&Co./EPO集团：五级会员分层，会员贡献82%/老客复购51%/VIP复购35-45%，中高端女装会员运营对标样本 | moco, epo, competitor, womenswear, membership, vip |
 
 
-| [[adlv]] ⭐ NEW | 韩国街头潮牌，以婴儿脸印花与 oversize 版型在东亚市场走红。 +8-19新增:A1全维度(源:[[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]]) | adlv, competitor, streetwear, korean_wave |
+| [[adlv]] ⭐ UPDATED | 韩国街头潮牌，以婴儿脸印花与 oversize 版型在东亚市场走红。 +8-19新增:A1全维度(源:[[2026-08-19_A1_adlv_深圳大悦城华南首店与海绵宝宝联名]]) +8-26新增:Rolling Stones 26SS+Garnier越南促销(源:[[2026-08-26_A1_adlv_RollingStones与Garnier联名国际化]]) | adlv, competitor, streetwear, korean_wave |
 | [[awoken_space]] ⭐ NEW | 潮流品牌，定位年轻街头与空间美学。 | awoken_space, competitor, streetwear |
 | [[awoken_time]] ⭐ NEW | 潮流品牌，与 AWOKEN-SPACE 同属潮流线。 | awoken_time, competitor, streetwear |
-| [[chuu]] ⭐ NEW | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 +8-19新增:A1全维度(源:[[2026-08-19_A1_chuu_官方门店300家与赵露思全球代言]]) | chuu, competitor, womenswear, korean_wave, fast_fashion |
-| [[crocs]] ⭐ UPDATED | 美国休闲洞洞鞋品牌；2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/国际+7.2%/中国FY2025+30%(占8%)；2026-07樊振东全球代言、5月济南授权店售假风波 +8-19新增:A1全维度(瑞幸联名破发·源:[[2026-08-19_A1_crocs_瑞幸联名营销与破发]]) | crocs, competitor, footwear, casual, usa, focus_brand |
-| [[dickies]] ⭐ NEW | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 +8-19新增:A1全维度(2026联名矩阵·源:[[2026-08-19_A1_dickies_2026联名矩阵]]) | dickies, competitor, workwear, streetwear, usa |
-| [[diesel]] ⭐ NEW | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 +8-19新增:A1全维度(2026联名·源:[[2026-08-19_A1_diesel_2026联名矩阵]]) | diesel, competitor, denim, premium_denim, italy |
+| [[chuu]] ⭐ UPDATED | 韩国快时尚女装品牌，以甜美辣妹风、-5kg 牛仔裤营销著称。 +8-19新增:A1全维度(源:[[2026-08-19_A1_chuu_官方门店300家与赵露思全球代言]]) +8-26新增:代理商结构+品类价格带+辣妹赛道竞品(源:[[2026-08-26_A1_chuu_代理商结构与品类价格带_辣妹赛道]]) | chuu, competitor, womenswear, korean_wave, fast_fashion |
+| [[crocs]] ⭐ UPDATED | 美国休闲洞洞鞋品牌；2026Q1营收9.21亿美元(-1.7%)/DTC+12.9%首超批发/国际+7.2%/中国FY2025+30%(占8%)；2026-07樊振东全球代言、5月济南授权店售假风波 +8-19新增:A1全维度(瑞幸联名破发·源:[[2026-08-19_A1_crocs_瑞幸联名营销与破发]]) +8-26新增:Q2电话会增量·凉鞋5亿美元+指引上修(源:[[2026-08-26_A1_crocs_Q2电话会增量_凉鞋500M与Q3指引]]) | crocs, competitor, footwear, casual, usa, focus_brand |
+| [[dickies]] ⭐ UPDATED | 美国工装品牌，以 874 工装裤与工装夹克闻名，VF 集团旗下。 +8-19新增:A1全维度(2026联名矩阵·源:[[2026-08-19_A1_dickies_2026联名矩阵]]) +8-26新增:Bluestar收购后欧洲扩张·SportLux+英爱批发(源:[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]]) | dickies, competitor, workwear, streetwear, usa |
+| [[diesel]] ⭐ UPDATED | 意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆。 +8-19新增:A1全维度(2026联名·源:[[2026-08-19_A1_diesel_2026联名矩阵]]) +8-26新增:For Responsible Living可持续战略+FW26大秀(源:[[2026-08-26_A1_diesel_可持续战略与FW26大秀]]) | diesel, competitor, denim, premium_denim, italy |
 | [[dkny]] ⭐ NEW | 美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。 +8-19新增:A1全维度(G-III财报+上海店·源:[[2026-08-19_A1_dkny_GIII财报与上海新店]]) | dkny, competitor, womenswear, menswear, lifestyle, usa |
 | [[ellesse]] ⭐ NEW | 意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。 +8-19新增:A1全维度(Garfield战役·源:[[2026-08-19_A1_ellesse_AndrewGarfield全球战役]]) | ellesse, competitor, sportswear, retro, italy |
 | [[etudes]] ⭐ UPDATED | 法国当代男装/无性别品牌，以艺术联名与蓝色调视觉识别著称。 | etudes, competitor, menswear, contemporary, france |
@@ -100,8 +100,8 @@ updated: 2026-08-24
 | [[humble_humble_r]] ⭐ UPDATED | 中国新兴潮流男装品牌（2025 创立·宁波起源），"谦而不卑"内核，中高端潮流男装+亲民价格带，首店 2025-09-05 宁波鄞州万达，正全国扩张。 | humble_humble_r, competitor, menswear, streetwear, china_brand, trendy, focus |
 
 
-| [[ariose_years]] ⭐ UPDATED · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装(爱唯时尚集团)，2025销售约50亿/门店破1800/百万会员/杭州女装TOP3；AW PROJECT重奢商圈拓店(港汇恒隆首店首日60万) +8-19新增:A1全维度(春季Campaign+区域拓展·源:[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]) | womenswear, premium, china_brand, hangzhou, focus |
-| [[dekashell]] ⭐ UPDATED · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装(2007)，Style by Me，30省600+门店，战略"三年冲头部"；非上市无财报(母公司标注冲突待核实) +8-19新增:A1全维度(加盟模式·源:[[2026-08-19_A1_dekashell_全国门店与加盟模式]]) | womenswear, light_elegant, china_brand, hangzhou, focus |
+| [[ariose_years]] ⭐ UPDATED · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装(爱唯时尚集团)，2025销售约50亿/门店破1800/百万会员/杭州女装TOP3；AW PROJECT重奢商圈拓店(港汇恒隆首店首日60万) +8-19新增:A1全维度(春季Campaign+区域拓展·源:[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]) +8-26新增:米兰夏日Campaign+精选店铺网络(源:[[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]]) | womenswear, premium, china_brand, hangzhou, focus |
+| [[dekashell]] ⭐ UPDATED · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装(2007)，Style by Me，30省600+门店，战略"三年冲头部"；非上市无财报(母公司标注冲突待核实) +8-19新增:A1全维度(加盟模式·源:[[2026-08-19_A1_dekashell_全国门店与加盟模式]]) +8-26新增:加盟投资结构+第三方门店口径1655(源:[[2026-08-26_A1_dekashell_加盟投资与第三方门店口径]]) | womenswear, light_elegant, china_brand, hangzhou, focus |
 
 ### wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
@@ -227,6 +227,7 @@ updated: 2026-08-24
 |------|------|------|
 | ⭐ NEW 2026-08-26 B轮 8源 | 会员/导购/商品企划·方法论为主品牌为辅：①[[2026-08-26_会员运营方法论_私域四大场景与RFMV分层]] RFMV五层+健康值(渗透≥60%/复购≥40%/贡献≥70%) ②[[2026-08-26_时尚忠诚度计划国际标杆2026]] Gap Encore 4000万会员/Nordy 70%/兑换率20-30% ③[[2026-08-26_导购能力与门店人效方法论2026]] 上岗-67%/转化6→11%/连带率2.5-3.5/AI排班+21.3% ④[[2026-08-26_商品企划方法论_OTB与配补调2026]] 八步法/爆款18.3天/四等级配补调⚠️GMROI档位+售罄口径 ⑤[[2026-08-26_B佐证_卡宾终端培训与加盟运营体系]] ⑥[[2026-08-26_B佐证_江南布衣会员深化]] 订单销售比90%/智能推荐70% ⑦[[2026-08-26_B佐证_Levi商品结构与品类聚焦]] Dockers $3.11亿出售 ⑧[[2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略]] | vip, guide, merchandise, methodology, brand_specific, B_round, source + 08-26新增:B轮8源/概念5更新/实体4更新 |
 | ⭐ NEW 2026-08-26 C轮 4源 | 数据分析+多品牌系统·品牌感知：①[[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]] Johal五引擎基准(Polars2.1/DuckDB1.2/DataFusion全谱·零售迁移-82%成本) ②[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] 总部/区域/门店三层看板+库存KPI ③[[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] ETLCloud四层+OneID+Unity Catalog多品牌 ④[[2026-08-26_太平鸟数字化与数据分析体系2026]] 品牌级查漏·财报口径50+数字化项目/6亿研发中心/千万级画像/TOC | data_analysis, bi, multi_brand, middle_platform, peacebird, C_round, source |
+| ⭐ NEW 2026-08-26 A1轮 7源 | A1固定分组12品牌全维度采集（adlv/ariose_years/chuu/crocs/dekashell/dickies/diesel 7 品牌有新增，5 品牌探针核验无新增）：①[[2026-08-26_A1_adlv_RollingStones与Garnier联名国际化]] Rolling Stones 26SS+Garnier越南促销 ②[[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]] 米兰古堡大片+精选店铺网络 ③[[2026-08-26_A1_chuu_代理商结构与品类价格带_辣妹赛道]] 七格格系代理+119-599元带+rolarola/W.Management ④[[2026-08-26_A1_crocs_Q2电话会增量_凉鞋500M与Q3指引]] 凉鞋5亿美元+指引上修+口径变更 ⑤[[2026-08-26_A1_dekashell_加盟投资与第三方门店口径]] 单店13-18万+1655第三方口径 ⑥[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]] SportLux授权联盟+英爱批发 ⑦[[2026-08-26_A1_diesel_可持续战略与FW26大秀]] For Responsible Living+rave大秀 | brand_wall, competitor, full_dimension, A1_round, source + 08-26新增:A1轮7源/实体7更新/概念3回链 |
 | ⭐ NEW [[weifu_consulting|韦孚咨询专题]] | 韦孚咨询搜狐号 23 篇公众号文章（含讲师介绍+服博会课程+3C 案例）的提炼专题——**1 个实体页（[[weifu_consulting]]）+ 5 个概念页（3C 经营体系/客资/量化美学/销售力/七次对接/美学零售）+ 11 个 source 页**；公开渠道首批完整提炼，公众号视频不可得见结论 | weifu, 3c, quantified_aesthetics, methodology, topic, source  |
 | ⭐ NEW 2026-08-25 human 课件/制度 39 源 | 桌面《培训课件》《店铺制度》入库提炼（销售九部曲/卖场管理/店长店助培训/FPA/五项管理/面料/卡宾制度等），原文存 human/，39 个 source 页见 wiki/sources/2026-08-25_human_* | human, training, store_rules, source + 08-25新增:39源批量入库 |
 | [[2026-08-20_客户价值四指标替代复购率]] ⭐ NEW | 复购率三大缺陷（口径可调节/只看人数/低频误判）+ LTV/留存率/NDR/NPS 四指标定义与落地四步（RFM分层→NPS监控→NDR追踪→LTV反推预算）；公众号「零售小九」 | vip, customer_value, ltv, ndr, nps, rfm, methodology, source |
