@@ -1,3 +1,14 @@
+---
+type: concept
+title: SQL查询优化
+aliases: [sql_optimization]
+tags: [sql, kpi, optimization]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # SQL查询优化
 
 > **分类**: L2_06 数据分析实务 > L3_06_04 SQL查询优化

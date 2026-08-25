@@ -1,3 +1,14 @@
+---
+type: concept
+title: 波段上货节奏
+aliases: [wave_timing]
+tags: [merchandise, kpi, wave, timing]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 波段上货节奏
 
 > **来源**：服装行业商品企划通用方法

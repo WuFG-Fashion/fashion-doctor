@@ -1,3 +1,14 @@
+---
+type: concept
+title: Streamlit多Tab组件设计
+aliases: [streamlit_multitab]
+tags: [streamlit, dashboard, multitab]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]]
+---
+
 # Streamlit多Tab组件设计
 
 > **分类**: L2_07 服装多品牌数据分析系统构建 > L3_07_04 Streamlit多Tab组件设计
@@ -533,3 +544,9 @@ your_project/
 
 - Streamlit 1.59（2026-07）新特性：ButtonColumn(表内按钮)、st.mermaid_chart(内联架构图)、App.run() 直启、st.fragment 写外部容器(局部刷新)、persist_state(跨 rerun 保留状态)；st.write_stream 支持 OpenAI Responses API 流。
 - 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
+
+## 关联页面
+
+- [[streamlit_dashboard_2026|Streamlit看板2026]]
+- [[streamlit_production_dashboard|Streamlit生产级看板]]
+- [[multi_brand_unified_analytics|多品牌统一分析]]

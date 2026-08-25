@@ -28,7 +28,7 @@ cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bi
 > **来源**：Burberry官方财报（贝尔财经/新浪财经转载）
 > **最后更新**：2026-06-30
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 

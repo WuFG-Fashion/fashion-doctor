@@ -1,3 +1,14 @@
+---
+type: concept
+title: 零售AI实践案例
+aliases: [retail_ai_cases]
+tags: [ai, retail, cases]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 零售AI实践案例
 
 > **分类**: L2_00 AI前沿信息 > L3_00_03 零售AI实践案例

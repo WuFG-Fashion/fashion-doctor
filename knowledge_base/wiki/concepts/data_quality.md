@@ -1,3 +1,14 @@
+---
+type: concept
+title: 数据质量红线
+aliases: [data_quality]
+tags: [data, quality]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 数据质量红线
 
 > **来源**：Fashion Doctor 项目踩坑记录 + SQL规范
@@ -499,3 +510,6 @@ SELECT * FROM sales ORDER BY ROWID LIMIT 10;
 - [[viz_best_practices]]
 - [[sql_optimization]]
 - [[data_model]]
+
+## 关联页面
+- [[2026-08-25_human_EXCLE学习]] — EXCLE学习（Excel基础认知）

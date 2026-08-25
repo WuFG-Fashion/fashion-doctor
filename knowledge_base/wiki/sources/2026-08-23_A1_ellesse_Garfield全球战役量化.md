@@ -8,7 +8,7 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
-cross_refs: [[ellesse]], [[服装行业竞争格局], [服装价格带管理与价格真空区]]
+cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
 ---
 
 # ellesse Andrew Garfield 全球战役量化 / Smiley / 价格带（A1·2026-08-23）

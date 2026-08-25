@@ -27,7 +27,7 @@ cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baox
 >
 > **一句话摘要**：全球领先的时尚产业AI+3D数字孪生平台，发布服装行业AI中台StyleClaw数字伙伴，服务报喜鸟/森马/望思达/The Very Group等全球品牌，2026年定位"物理AI元年+智能体AI落地元年"。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 

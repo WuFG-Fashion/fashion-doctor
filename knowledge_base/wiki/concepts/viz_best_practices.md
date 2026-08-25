@@ -1,3 +1,14 @@
+---
+type: concept
+title: 可视化最佳实践
+aliases: [viz_best_practices]
+tags: [sql, viz, best, practices]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 可视化最佳实践
 
 > **分类**: L2_06 数据分析实务 > L3_06_03 可视化最佳实践

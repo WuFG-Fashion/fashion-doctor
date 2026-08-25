@@ -14,7 +14,7 @@ cross_refs: [[diesel]], [[服装行业竞争格局]]
 # Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）
 
 > **一句话摘要**：Diesel 2026 秋冬首推 D-ONE 手袋系列（金属扣环/皮带孔/铆钉工业美学），香港/新加坡/澳门专店定价 HKD 5,200–9,700；同期在印尼雅加达 Senayan City 开 3 个月 pop-up 并首发 Jewellery Collection，加速亚洲零售下沉。
-> **来源**：[[2026-08-22_diesel_D-ONE价格与印尼pop-up]]
+> **来源**：2026-08-22_diesel_D-ONE价格与印尼pop-up
 > **最后更新**：2026-08-22
 
 ## 核心要点
@@ -37,7 +37,7 @@ cross_refs: [[diesel]], [[服装行业竞争格局]]
 3. **K11 MUSEA 独家款制造稀缺**：以区域独家配色（水钻丹宁）制造话题与溢价，是轻奢配件常见的"限定驱动"打法。
 
 ## 信息链
-- 上游来源：[[2026-08-22_diesel_D-ONE价格与印尼pop-up]]（SIA HK/ELLE/NOW Jakarta 转引品牌）→ 本页（source）→ 下游应用：[[diesel]]（实体，补 D-ONE 价格带 + 印尼零售）、[[服装行业竞争格局]]（配件化趋势对照）
+- 上游来源：2026-08-22_diesel_D-ONE价格与印尼pop-up（SIA HK/ELLE/NOW Jakarta 转引品牌）→ 本页（source）→ 下游应用：[[diesel]]（实体，补 D-ONE 价格带 + 印尼零售）、[[服装行业竞争格局]]（配件化趋势对照）
 - 与既有 [[2026-08-21_A1_diesel_FF14联名与DONE手袋]]（FF14 联名 + D-ONE 首曝）互补，本页补具体价格带与印尼扩张。
 
 ## 关联页面

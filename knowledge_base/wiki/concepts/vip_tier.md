@@ -1,3 +1,14 @@
+---
+type: concept
+title: VIP分层模型
+aliases: [vip_tier]
+tags: [vip, membership, tier]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # VIP分层模型
 
 > **来源**：Fashion Doctor 实战 + RFM模型改良

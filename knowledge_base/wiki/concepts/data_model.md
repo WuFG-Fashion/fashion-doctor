@@ -1,3 +1,14 @@
+---
+type: concept
+title: 数据模型规范
+aliases: [data_model]
+tags: [data, model]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 数据模型规范
 
 > **分类**: L2_01 零售基础理论 > L3_01_03 数据模型规范

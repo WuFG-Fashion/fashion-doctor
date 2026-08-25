@@ -1,3 +1,14 @@
+---
+type: concept
+title: ZARA / 优衣库 / H&M 竞品分析
+aliases: [fast_fashion]
+tags: [fast_fashion, competitor, fast, fashion]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # ZARA / 优衣库 / H&M 竞品分析
 
 > **分类**: L2_02 竞品分析 > L3_02_06 ZARA优衣库H&M

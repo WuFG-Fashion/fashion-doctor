@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-26",
-  "generated_at": "2026-08-26 00:09:08",
-  "total_entries": 1170,
+  "generated_at": "2026-08-26 00:24:37",
+  "total_entries": 1169,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -166,18 +166,6 @@
         },
         {
           "id": "WIKI_C_concepts_1",
-          "name": "2026-07_东方财富_纺服中报预告综述_预盈率54",
-          "path": "wiki/concepts/2026-07_东方财富_纺服中报预告综述_预盈率54.md",
-          "file_count": 1,
-          "status": "ok",
-          "aliases": [
-            "2026-07_东方财富_纺服中报预告综述_预盈率54"
-          ],
-          "confidence": null,
-          "brand_specific": null
-        },
-        {
-          "id": "WIKI_C_concepts_2",
           "name": "3c_operation_system",
           "path": "wiki/concepts/3c_operation_system.md",
           "file_count": 1,
@@ -189,7 +177,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_3",
+          "id": "WIKI_C_concepts_2",
           "name": "aesthetic_retail",
           "path": "wiki/concepts/aesthetic_retail.md",
           "file_count": 1,
@@ -201,7 +189,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_4",
+          "id": "WIKI_C_concepts_3",
           "name": "agentic_commerce_fashion_2026",
           "path": "wiki/concepts/agentic_commerce_fashion_2026.md",
           "file_count": 1,
@@ -213,7 +201,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_5",
+          "id": "WIKI_C_concepts_4",
           "name": "ai_fashion_capability_2026",
           "path": "wiki/concepts/ai_fashion_capability_2026.md",
           "file_count": 1,
@@ -225,7 +213,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_6",
+          "id": "WIKI_C_concepts_5",
           "name": "ai_fashion_consumer_2026",
           "path": "wiki/concepts/ai_fashion_consumer_2026.md",
           "file_count": 1,
@@ -237,7 +225,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_7",
+          "id": "WIKI_C_concepts_6",
           "name": "ai_fashion_design_cases_2026",
           "path": "wiki/concepts/ai_fashion_design_cases_2026.md",
           "file_count": 1,
@@ -249,7 +237,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_8",
+          "id": "WIKI_C_concepts_7",
           "name": "ai_fashion_ecommerce_tryon_tools_2026",
           "path": "wiki/concepts/ai_fashion_ecommerce_tryon_tools_2026.md",
           "file_count": 1,
@@ -261,7 +249,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_9",
+          "id": "WIKI_C_concepts_8",
           "name": "ai_fashion_market_2026",
           "path": "wiki/concepts/ai_fashion_market_2026.md",
           "file_count": 1,
@@ -273,7 +261,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_10",
+          "id": "WIKI_C_concepts_9",
           "name": "ai_personal_empowerment_2026",
           "path": "wiki/concepts/ai_personal_empowerment_2026.md",
           "file_count": 1,
@@ -285,7 +273,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_11",
+          "id": "WIKI_C_concepts_10",
           "name": "ai_policy",
           "path": "wiki/concepts/ai_policy.md",
           "file_count": 1,
@@ -297,7 +285,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_12",
+          "id": "WIKI_C_concepts_11",
           "name": "ai_tools",
           "path": "wiki/concepts/ai_tools.md",
           "file_count": 1,
@@ -309,7 +297,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_13",
+          "id": "WIKI_C_concepts_12",
           "name": "ai_virtual_tryon_2026",
           "path": "wiki/concepts/ai_virtual_tryon_2026.md",
           "file_count": 1,
@@ -321,7 +309,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_14",
+          "id": "WIKI_C_concepts_13",
           "name": "AI导购陪练",
           "path": "wiki/concepts/AI导购陪练.md",
           "file_count": 1,
@@ -333,7 +321,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_15",
+          "id": "WIKI_C_concepts_14",
           "name": "apparel_ai_agents_2026",
           "path": "wiki/concepts/apparel_ai_agents_2026.md",
           "file_count": 1,
@@ -345,7 +333,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_16",
+          "id": "WIKI_C_concepts_15",
           "name": "apparel_ai_policy_2026",
           "path": "wiki/concepts/apparel_ai_policy_2026.md",
           "file_count": 1,
@@ -357,7 +345,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_17",
+          "id": "WIKI_C_concepts_16",
           "name": "apparel_esg_rating_2026",
           "path": "wiki/concepts/apparel_esg_rating_2026.md",
           "file_count": 1,
@@ -369,7 +357,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_18",
+          "id": "WIKI_C_concepts_17",
           "name": "apparel_inventory_benchmark_2026",
           "path": "wiki/concepts/apparel_inventory_benchmark_2026.md",
           "file_count": 1,
@@ -381,7 +369,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_19",
+          "id": "WIKI_C_concepts_18",
           "name": "apparel_supply_chain_profit_chasm_2026q1",
           "path": "wiki/concepts/apparel_supply_chain_profit_chasm_2026q1.md",
           "file_count": 1,
@@ -393,7 +381,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_20",
+          "id": "WIKI_C_concepts_19",
           "name": "arrow_zero_copy_interop_2026",
           "path": "wiki/concepts/arrow_zero_copy_interop_2026.md",
           "file_count": 1,
@@ -405,7 +393,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_21",
+          "id": "WIKI_C_concepts_20",
           "name": "bosideng_fy2026_deep_dive",
           "path": "wiki/concepts/bosideng_fy2026_deep_dive.md",
           "file_count": 1,
@@ -417,7 +405,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_22",
+          "id": "WIKI_C_concepts_21",
           "name": "brand_config",
           "path": "wiki/concepts/brand_config.md",
           "file_count": 1,
@@ -429,7 +417,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_23",
+          "id": "WIKI_C_concepts_22",
           "name": "category_planning",
           "path": "wiki/concepts/category_planning.md",
           "file_count": 1,
@@ -441,7 +429,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_24",
+          "id": "WIKI_C_concepts_23",
           "name": "china_apparel_2025_annual",
           "path": "wiki/concepts/china_apparel_2025_annual.md",
           "file_count": 1,
@@ -453,7 +441,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_25",
+          "id": "WIKI_C_concepts_24",
           "name": "china_apparel_2026q1_operations",
           "path": "wiki/concepts/china_apparel_2026q1_operations.md",
           "file_count": 1,
@@ -465,7 +453,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_26",
+          "id": "WIKI_C_concepts_25",
           "name": "china_apparel_export_2026",
           "path": "wiki/concepts/china_apparel_export_2026.md",
           "file_count": 1,
@@ -477,7 +465,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_27",
+          "id": "WIKI_C_concepts_26",
           "name": "china_apparel_industry_2026q1",
           "path": "wiki/concepts/china_apparel_industry_2026q1.md",
           "file_count": 1,
@@ -489,7 +477,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_28",
+          "id": "WIKI_C_concepts_27",
           "name": "china_apparel_industry_scale_2026",
           "path": "wiki/concepts/china_apparel_industry_scale_2026.md",
           "file_count": 1,
@@ -501,7 +489,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_29",
+          "id": "WIKI_C_concepts_28",
           "name": "competitor_overview",
           "path": "wiki/concepts/competitor_overview.md",
           "file_count": 1,
@@ -513,7 +501,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_30",
+          "id": "WIKI_C_concepts_29",
           "name": "consumption_expansion_15th_fiveyear_2026",
           "path": "wiki/concepts/consumption_expansion_15th_fiveyear_2026.md",
           "file_count": 1,
@@ -526,7 +514,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_31",
+          "id": "WIKI_C_concepts_30",
           "name": "cross_brand_integration",
           "path": "wiki/concepts/cross_brand_integration.md",
           "file_count": 1,
@@ -538,7 +526,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_32",
+          "id": "WIKI_C_concepts_31",
           "name": "customer_asset_system",
           "path": "wiki/concepts/customer_asset_system.md",
           "file_count": 1,
@@ -550,7 +538,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_33",
+          "id": "WIKI_C_concepts_32",
           "name": "customer_value_metrics_2026",
           "path": "wiki/concepts/customer_value_metrics_2026.md",
           "file_count": 1,
@@ -562,7 +550,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_34",
+          "id": "WIKI_C_concepts_33",
           "name": "data_asset_management_2026",
           "path": "wiki/concepts/data_asset_management_2026.md",
           "file_count": 1,
@@ -574,7 +562,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_35",
+          "id": "WIKI_C_concepts_34",
           "name": "data_governance_tech_routes_2026",
           "path": "wiki/concepts/data_governance_tech_routes_2026.md",
           "file_count": 1,
@@ -586,7 +574,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_36",
+          "id": "WIKI_C_concepts_35",
           "name": "data_lakehouse_2026",
           "path": "wiki/concepts/data_lakehouse_2026.md",
           "file_count": 1,
@@ -598,7 +586,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_37",
+          "id": "WIKI_C_concepts_36",
           "name": "data_model",
           "path": "wiki/concepts/data_model.md",
           "file_count": 1,
@@ -610,7 +598,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_38",
+          "id": "WIKI_C_concepts_37",
           "name": "data_quality",
           "path": "wiki/concepts/data_quality.md",
           "file_count": 1,
@@ -622,7 +610,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_39",
+          "id": "WIKI_C_concepts_38",
           "name": "data_quality_governance",
           "path": "wiki/concepts/data_quality_governance.md",
           "file_count": 1,
@@ -634,7 +622,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_40",
+          "id": "WIKI_C_concepts_39",
           "name": "dead_stock",
           "path": "wiki/concepts/dead_stock.md",
           "file_count": 1,
@@ -646,7 +634,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_41",
+          "id": "WIKI_C_concepts_40",
           "name": "duckdb_olap_engine_2026",
           "path": "wiki/concepts/duckdb_olap_engine_2026.md",
           "file_count": 1,
@@ -658,7 +646,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_42",
+          "id": "WIKI_C_concepts_41",
           "name": "earnings_quality_nonrecurring_2026",
           "path": "wiki/concepts/earnings_quality_nonrecurring_2026.md",
           "file_count": 1,
@@ -670,7 +658,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_43",
+          "id": "WIKI_C_concepts_42",
           "name": "etl_governance_convergence_2026",
           "path": "wiki/concepts/etl_governance_convergence_2026.md",
           "file_count": 1,
@@ -682,7 +670,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_44",
+          "id": "WIKI_C_concepts_43",
           "name": "ETL架构选型",
           "path": "wiki/concepts/ETL架构选型.md",
           "file_count": 1,
@@ -694,7 +682,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_45",
+          "id": "WIKI_C_concepts_44",
           "name": "fast_fashion",
           "path": "wiki/concepts/fast_fashion.md",
           "file_count": 1,
@@ -706,7 +694,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_46",
+          "id": "WIKI_C_concepts_45",
           "name": "FPA性格色彩与沟通",
           "path": "wiki/concepts/FPA性格色彩与沟通.md",
           "file_count": 1,
@@ -718,7 +706,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_47",
+          "id": "WIKI_C_concepts_46",
           "name": "global_apparel_financial_benchmarks_2026",
           "path": "wiki/concepts/global_apparel_financial_benchmarks_2026.md",
           "file_count": 1,
@@ -730,7 +718,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_48",
+          "id": "WIKI_C_concepts_47",
           "name": "guide_training",
           "path": "wiki/concepts/guide_training.md",
           "file_count": 1,
@@ -742,7 +730,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_49",
+          "id": "WIKI_C_concepts_48",
           "name": "kb_benchmarks",
           "path": "wiki/concepts/kb_benchmarks.md",
           "file_count": 1,
@@ -756,7 +744,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_50",
+          "id": "WIKI_C_concepts_49",
           "name": "kpi_benchmark",
           "path": "wiki/concepts/kpi_benchmark.md",
           "file_count": 1,
@@ -768,7 +756,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_51",
+          "id": "WIKI_C_concepts_50",
           "name": "light_luxury_brand_framework_2026",
           "path": "wiki/concepts/light_luxury_brand_framework_2026.md",
           "file_count": 1,
@@ -780,7 +768,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_52",
+          "id": "WIKI_C_concepts_51",
           "name": "llm_update",
           "path": "wiki/concepts/llm_update.md",
           "file_count": 1,
@@ -792,7 +780,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_53",
+          "id": "WIKI_C_concepts_52",
           "name": "points_program",
           "path": "wiki/concepts/points_program.md",
           "file_count": 1,
@@ -804,7 +792,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_54",
+          "id": "WIKI_C_concepts_53",
           "name": "polars_vs_pandas_2026",
           "path": "wiki/concepts/polars_vs_pandas_2026.md",
           "file_count": 1,
@@ -816,7 +804,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_55",
+          "id": "WIKI_C_concepts_54",
           "name": "python_dashboard_ecosystem_2026",
           "path": "wiki/concepts/python_dashboard_ecosystem_2026.md",
           "file_count": 1,
@@ -828,7 +816,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_56",
+          "id": "WIKI_C_concepts_55",
           "name": "python_data_stack_decision_2026",
           "path": "wiki/concepts/python_data_stack_decision_2026.md",
           "file_count": 1,
@@ -840,7 +828,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_57",
+          "id": "WIKI_C_concepts_56",
           "name": "python_dev_stack_2026",
           "path": "wiki/concepts/python_dev_stack_2026.md",
           "file_count": 1,
@@ -852,7 +840,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_58",
+          "id": "WIKI_C_concepts_57",
           "name": "quantified_aesthetics",
           "path": "wiki/concepts/quantified_aesthetics.md",
           "file_count": 1,
@@ -864,7 +852,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_59",
+          "id": "WIKI_C_concepts_58",
           "name": "repurchase",
           "path": "wiki/concepts/repurchase.md",
           "file_count": 1,
@@ -876,7 +864,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_60",
+          "id": "WIKI_C_concepts_59",
           "name": "retail_ai_adoption_2026",
           "path": "wiki/concepts/retail_ai_adoption_2026.md",
           "file_count": 1,
@@ -888,7 +876,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_61",
+          "id": "WIKI_C_concepts_60",
           "name": "retail_ai_cases",
           "path": "wiki/concepts/retail_ai_cases.md",
           "file_count": 1,
@@ -900,7 +888,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_62",
+          "id": "WIKI_C_concepts_61",
           "name": "retail_analytics_reporting_2026",
           "path": "wiki/concepts/retail_analytics_reporting_2026.md",
           "file_count": 1,
@@ -912,7 +900,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_63",
+          "id": "WIKI_C_concepts_62",
           "name": "retail_bi_visualization_2026",
           "path": "wiki/concepts/retail_bi_visualization_2026.md",
           "file_count": 1,
@@ -924,7 +912,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_64",
+          "id": "WIKI_C_concepts_63",
           "name": "retail_data_workflow_2026",
           "path": "wiki/concepts/retail_data_workflow_2026.md",
           "file_count": 1,
@@ -936,7 +924,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_65",
+          "id": "WIKI_C_concepts_64",
           "name": "retail_sales_force_system",
           "path": "wiki/concepts/retail_sales_force_system.md",
           "file_count": 1,
@@ -948,7 +936,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_66",
+          "id": "WIKI_C_concepts_65",
           "name": "sell_through_examination_standard_2026",
           "path": "wiki/concepts/sell_through_examination_standard_2026.md",
           "file_count": 1,
@@ -960,7 +948,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_67",
+          "id": "WIKI_C_concepts_66",
           "name": "selling_ability",
           "path": "wiki/concepts/selling_ability.md",
           "file_count": 1,
@@ -972,7 +960,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_68",
+          "id": "WIKI_C_concepts_67",
           "name": "semantic_layer_metrics_2026",
           "path": "wiki/concepts/semantic_layer_metrics_2026.md",
           "file_count": 1,
@@ -984,7 +972,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_69",
+          "id": "WIKI_C_concepts_68",
           "name": "seven_times_renhuo",
           "path": "wiki/concepts/seven_times_renhuo.md",
           "file_count": 1,
@@ -996,7 +984,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_70",
+          "id": "WIKI_C_concepts_69",
           "name": "sku_fine_management",
           "path": "wiki/concepts/sku_fine_management.md",
           "file_count": 1,
@@ -1008,7 +996,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_71",
+          "id": "WIKI_C_concepts_70",
           "name": "sku_lifecycle",
           "path": "wiki/concepts/sku_lifecycle.md",
           "file_count": 1,
@@ -1020,7 +1008,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_72",
+          "id": "WIKI_C_concepts_71",
           "name": "sleeping_member_reactivation",
           "path": "wiki/concepts/sleeping_member_reactivation.md",
           "file_count": 1,
@@ -1032,7 +1020,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_73",
+          "id": "WIKI_C_concepts_72",
           "name": "sql_optimization",
           "path": "wiki/concepts/sql_optimization.md",
           "file_count": 1,
@@ -1044,7 +1032,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_74",
+          "id": "WIKI_C_concepts_73",
           "name": "SQL查询性能优化",
           "path": "wiki/concepts/SQL查询性能优化.md",
           "file_count": 1,
@@ -1056,7 +1044,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_75",
+          "id": "WIKI_C_concepts_74",
           "name": "streamlit_dashboard_2026",
           "path": "wiki/concepts/streamlit_dashboard_2026.md",
           "file_count": 1,
@@ -1068,7 +1056,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_76",
+          "id": "WIKI_C_concepts_75",
           "name": "streamlit_multitab",
           "path": "wiki/concepts/streamlit_multitab.md",
           "file_count": 1,
@@ -1080,7 +1068,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_77",
+          "id": "WIKI_C_concepts_76",
           "name": "system_architecture",
           "path": "wiki/concepts/system_architecture.md",
           "file_count": 1,
@@ -1092,7 +1080,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_78",
+          "id": "WIKI_C_concepts_77",
           "name": "terminology",
           "path": "wiki/concepts/terminology.md",
           "file_count": 1,
@@ -1104,7 +1092,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_79",
+          "id": "WIKI_C_concepts_78",
           "name": "top_guide",
           "path": "wiki/concepts/top_guide.md",
           "file_count": 1,
@@ -1116,7 +1104,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_80",
+          "id": "WIKI_C_concepts_79",
           "name": "vip_tier",
           "path": "wiki/concepts/vip_tier.md",
           "file_count": 1,
@@ -1128,7 +1116,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_81",
+          "id": "WIKI_C_concepts_80",
           "name": "viz_best_practices",
           "path": "wiki/concepts/viz_best_practices.md",
           "file_count": 1,
@@ -1140,7 +1128,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_82",
+          "id": "WIKI_C_concepts_81",
           "name": "vogue_business_ai_consumer_2026",
           "path": "wiki/concepts/vogue_business_ai_consumer_2026.md",
           "file_count": 1,
@@ -1152,7 +1140,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_83",
+          "id": "WIKI_C_concepts_82",
           "name": "wave_timing",
           "path": "wiki/concepts/wave_timing.md",
           "file_count": 1,
@@ -1164,7 +1152,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_84",
+          "id": "WIKI_C_concepts_83",
           "name": "中国服装零售基准体系2026",
           "path": "wiki/concepts/中国服装零售基准体系2026.md",
           "file_count": 1,
@@ -1176,7 +1164,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_85",
+          "id": "WIKI_C_concepts_84",
           "name": "会员与VIP运营体系2026",
           "path": "wiki/concepts/会员与VIP运营体系2026.md",
           "file_count": 1,
@@ -1188,7 +1176,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_86",
+          "id": "WIKI_C_concepts_85",
           "name": "会员复购率提升策略",
           "path": "wiki/concepts/会员复购率提升策略.md",
           "file_count": 1,
@@ -1200,7 +1188,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_87",
+          "id": "WIKI_C_concepts_86",
           "name": "全渠道会员一体化",
           "path": "wiki/concepts/全渠道会员一体化.md",
           "file_count": 1,
@@ -1212,7 +1200,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_88",
+          "id": "WIKI_C_concepts_87",
           "name": "动态OTB管理",
           "path": "wiki/concepts/动态OTB管理.md",
           "file_count": 1,
@@ -1224,7 +1212,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_89",
+          "id": "WIKI_C_concepts_88",
           "name": "品牌墙概念与代理模式",
           "path": "wiki/concepts/品牌墙概念与代理模式.md",
           "file_count": 1,
@@ -1236,7 +1224,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_90",
+          "id": "WIKI_C_concepts_89",
           "name": "商品企划体系2026",
           "path": "wiki/concepts/商品企划体系2026.md",
           "file_count": 1,
@@ -1248,7 +1236,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_91",
+          "id": "WIKI_C_concepts_90",
           "name": "商品分析四层级框架",
           "path": "wiki/concepts/商品分析四层级框架.md",
           "file_count": 1,
@@ -1260,7 +1248,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_92",
+          "id": "WIKI_C_concepts_91",
           "name": "商品运营进销存分析",
           "path": "wiki/concepts/商品运营进销存分析.md",
           "file_count": 1,
@@ -1272,7 +1260,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_93",
+          "id": "WIKI_C_concepts_92",
           "name": "导购培训闭环体系",
           "path": "wiki/concepts/导购培训闭环体系.md",
           "file_count": 1,
@@ -1284,7 +1272,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_94",
+          "id": "WIKI_C_concepts_93",
           "name": "导购能力评估与赋能体系2026",
           "path": "wiki/concepts/导购能力评估与赋能体系2026.md",
           "file_count": 1,
@@ -1296,7 +1284,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_95",
+          "id": "WIKI_C_concepts_94",
           "name": "库存清仓策略",
           "path": "wiki/concepts/库存清仓策略.md",
           "file_count": 1,
@@ -1308,7 +1296,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_96",
+          "id": "WIKI_C_concepts_95",
           "name": "店铺规划与过货",
           "path": "wiki/concepts/店铺规划与过货.md",
           "file_count": 1,
@@ -1320,7 +1308,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_97",
+          "id": "WIKI_C_concepts_96",
           "name": "服装价格带管理与价格真空区",
           "path": "wiki/concepts/服装价格带管理与价格真空区.md",
           "file_count": 1,
@@ -1332,7 +1320,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_98",
+          "id": "WIKI_C_concepts_97",
           "name": "服装企划趋势渠道",
           "path": "wiki/concepts/服装企划趋势渠道.md",
           "file_count": 1,
@@ -1344,7 +1332,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_99",
+          "id": "WIKI_C_concepts_98",
           "name": "服装行业竞争格局",
           "path": "wiki/concepts/服装行业竞争格局.md",
           "file_count": 1,
@@ -1356,7 +1344,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_100",
+          "id": "WIKI_C_concepts_99",
           "name": "服装采购渠道选型2026",
           "path": "wiki/concepts/服装采购渠道选型2026.md",
           "file_count": 1,
@@ -1368,7 +1356,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_101",
+          "id": "WIKI_C_concepts_100",
           "name": "服装门店经营AI化2026",
           "path": "wiki/concepts/服装门店经营AI化2026.md",
           "file_count": 1,
@@ -1380,7 +1368,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_102",
+          "id": "WIKI_C_concepts_101",
           "name": "柔性供应链与商品企划",
           "path": "wiki/concepts/柔性供应链与商品企划.md",
           "file_count": 1,
@@ -1392,7 +1380,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_103",
+          "id": "WIKI_C_concepts_102",
           "name": "男装品牌竞争格局2026Q1",
           "path": "wiki/concepts/男装品牌竞争格局2026Q1.md",
           "file_count": 1,
@@ -1404,7 +1392,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_104",
+          "id": "WIKI_C_concepts_103",
           "name": "目标与时间管理",
           "path": "wiki/concepts/目标与时间管理.md",
           "file_count": 1,
@@ -1416,7 +1404,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_105",
+          "id": "WIKI_C_concepts_104",
           "name": "订货会决策框架",
           "path": "wiki/concepts/订货会决策框架.md",
           "file_count": 1,
@@ -1428,7 +1416,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_106",
+          "id": "WIKI_C_concepts_105",
           "name": "销售九部曲",
           "path": "wiki/concepts/销售九部曲.md",
           "file_count": 1,
@@ -1440,7 +1428,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_107",
+          "id": "WIKI_C_concepts_106",
           "name": "面料知识与洗涤保养",
           "path": "wiki/concepts/面料知识与洗涤保养.md",
           "file_count": 1,

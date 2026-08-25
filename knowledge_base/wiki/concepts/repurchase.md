@@ -1,3 +1,14 @@
+---
+type: concept
+title: 会员复购分析
+aliases: [repurchase]
+tags: [vip, membership, repurchase]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 会员复购分析
 
 > **来源**：Fashion Doctor VIP分析模块 + 行业通用方法

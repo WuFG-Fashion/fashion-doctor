@@ -1,3 +1,14 @@
+---
+type: concept
+title: 推销能力关键指标
+aliases: [selling_ability]
+tags: [guide, sales, selling, ability]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 推销能力关键指标
 
 > **来源**：Fashion Doctor 明星导购推销能力验证项目（2026-04）

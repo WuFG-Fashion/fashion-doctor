@@ -1,3 +1,14 @@
+---
+type: concept
+title: 导购培训体系
+aliases: [guide_training]
+tags: [guide, training]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 导购培训体系
 
 > **分类**: L2_04 导购能力评估 > L3_04_03 导购培训体系

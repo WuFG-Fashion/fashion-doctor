@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-26",
   "meta": {
     "source": "wiki/concepts + wiki/entities + L2分类目录",
-    "files_scanned": "60 个 wiki/entities 文件 + 56 个 wiki/concepts 文件",
+    "files_scanned": "65 个 wiki/entities 文件 + 107 个 wiki/concepts 文件",
     "data_points": "240+条数值",
-    "last_scan": "2026-08-15",
-    "updated": "2026-08-15",
+    "last_scan": "2026-08-26",
+    "updated": "2026-08-26",
     "focus_note": "后期信息搜集以卡宾+太平鸟双核、品牌墙图(原MODING运营集合)全品牌、艾诺丝、迪卡轩为主"
   },
   "industry": {
@@ -290,7 +290,11 @@
     },
     "cabbeen": {
       "listing": "HK 02030",
-      "brands": ["Cabbeen", "2AM", "Cabbeen Urban"],
+      "brands": [
+        "Cabbeen",
+        "2AM",
+        "Cabbeen Urban"
+      ],
       "revenue_2026h1_billion": 0.453,
       "revenue_2026h1_yoy": 0.0724,
       "gross_margin_2026h1": 0.463,
@@ -315,7 +319,11 @@
       "avg_discount_2026h1": 0.279,
       "sell_through_2025_collections": 0.738,
       "sell_through_2026ss": 0.484,
-      "channel_revenue_2026h1": {"offline": 0.53, "online": 0.422, "oem": 0.048},
+      "channel_revenue_2026h1": {
+        "offline": 0.53,
+        "online": 0.422,
+        "oem": 0.048
+      },
       "cabbeen_urban_share_2026h1": 0.286,
       "updated": "2026-08-21"
     },
@@ -348,7 +356,7 @@
     "dickies": {},
     "mlb_kids": {},
     "two_am": {},
-        "crocs": {
+    "crocs": {
       "listing": "NASDAQ: CROX",
       "q2_2026_revenue_usd_billion": 1.179,
       "q2_2026_revenue_yoy": 0.026,
@@ -360,7 +368,7 @@
       "heydude_q2_revenue_usd_billion": 0.179,
       "heydude_q2_yoy": -0.057,
       "gross_margin_q2_2026": 0.594,
-      "adj_gross_margin_q2_2026": 0.60,
+      "adj_gross_margin_q2_2026": 0.6,
       "adj_gross_margin_yoy_bp": -170,
       "intl_q2_yoy": 0.078,
       "china_q2_growth": "double_digit",

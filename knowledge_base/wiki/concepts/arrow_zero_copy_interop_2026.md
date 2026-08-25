@@ -24,7 +24,7 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_bran
 >
 > **一句话摘要**：Apache Arrow是数据栈的"USB-C接口标准"——不是数据库/不替代工具，而是定义跨语言统一列式内存布局，让Polars/DuckDB/Pandas/PySpark等工具共享同一份物理内存，消除序列化/反序列化的"三重浪费"。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心原理
 

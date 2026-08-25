@@ -1,3 +1,14 @@
+---
+type: entity
+title: 速写/江南布衣竞品分析
+aliases: [croquis]
+tags: [brand, croquis]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 速写/江南布衣竞品分析
 
 > **来源**：江南布衣（3306.HK）2025财年年报 + 公开报道

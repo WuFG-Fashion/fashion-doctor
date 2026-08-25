@@ -45,7 +45,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[thisisiz
 4. 数据风险：KOYO JEANS 私营不披露财务；门店清单来自品牌稿与招聘页（含香港/大陆），引用须标注口径与时点。
 
 ## 信息链
-- 上游来源：[[2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026]] → 本页（[[koyo]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[thisisizi8]]
+- [[2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026]]
+- [[koyo]]
+- [[服装行业竞争格局]]
+- [[peacebird]]
+- [[cabbeen]]
+- [[thisisizi8]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]

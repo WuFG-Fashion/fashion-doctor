@@ -14,7 +14,7 @@ cross_refs: [[dickies]], [[服装行业竞争格局]]
 # Dickies × WIND AND SEA 2026 秋冬联名（A1·2026-08-21）
 
 > **一句话摘要**：Dickies 与日本街头品牌 WIND AND SEA 推出 2026 秋冬胶囊联名（chore jacket 工装夹克/utility pants 工装裤/联名 T 恤，8-15 发售），2026 联名矩阵再添一支，日本街头品牌密度上升。
-> **来源**：[[2026-08-21_dickies_WIND_AND_SEA联名]]
+> **来源**：2026-08-21_dickies_WIND_AND_SEA联名
 > **最后更新**：2026-08-21
 
 ## 核心要点
@@ -39,7 +39,7 @@ cross_refs: [[dickies]], [[服装行业竞争格局]]
 3. **对国内工装赛道启示**：Dickies 联名聚焦"功能 + 街头"叙事（chore jacket/utility pants），与 [[dickies|Dickies]] 中国渠道扩张（Bluestar 代理后）形成"线上心智 + 线下铺货"组合。
 
 ## 信息链
-- 上游来源：[[2026-08-21_dickies_WIND_AND_SEA联名]] → 本页（source）→ 下游应用：[[dickies]]（实体，补联名矩阵）、[[服装行业竞争格局]]
+- 上游来源：2026-08-21_dickies_WIND_AND_SEA联名 → 本页（source）→ 下游应用：[[dickies]]（实体，补联名矩阵）、[[服装行业竞争格局]]
 - 旧源 [[2026-08-19_A1_dickies_2026联名矩阵]] 覆盖 5 支联名，本页补 WIND AND SEA，属于矩阵追加，非替代。
 
 ## 关联页面

@@ -1,3 +1,14 @@
+---
+type: concept
+title: VOGUE Business — 2026年AI时尚消费入口全景
+aliases: [vogue_business_ai_consumer_2026]
+tags: [vogue, business, ai, consumer, 2026]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # VOGUE Business — 2026年AI时尚消费入口全景
 
 > 来源：[[2026-06-30_VOGUE_Business_AI时尚消费入口2026]]

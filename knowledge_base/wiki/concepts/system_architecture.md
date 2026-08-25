@@ -1,3 +1,14 @@
+---
+type: concept
+title: 系统架构设计
+aliases: [system_architecture]
+tags: [architecture, system]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 系统架构设计
 
 > **分类**: L2_07 服装多品牌数据分析系统构建 > L3_07_01 系统架构设计

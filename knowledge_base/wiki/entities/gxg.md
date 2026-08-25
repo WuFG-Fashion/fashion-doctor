@@ -1,3 +1,14 @@
+---
+type: entity
+title: GXG 竞品分析
+aliases: [gxg]
+tags: [brand, gxg]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # GXG 竞品分析
 
 > **来源**：慕尚集团公开资料 + G2Retail/观远数据合作报道

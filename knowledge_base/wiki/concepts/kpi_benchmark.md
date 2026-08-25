@@ -1,3 +1,14 @@
+---
+type: concept
+title: KPI 健康基准
+aliases: [kpi_benchmark]
+tags: [kpi, benchmark]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # KPI 健康基准
 
 > **来源**：服装零售行业基准（2026-04-29，2026-05-11更新行业对比数据）

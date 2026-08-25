@@ -15,7 +15,7 @@ cross_refs: [[karl_lagerfeld]], [[ariose_years]], [[服装行业竞争格局]]
 # KARL LAGERFELD 上海快闪与生活方式跨界（2026）
 
 > **一句话摘要**：KARL LAGERFELD 2026 在中国以"高频快闪 + 生活方式跨界（咖啡馆/下午茶）"替代传统铺货，把奢侈资产转译为可打卡社交场景，全球逾 500 家精品店、明星矩阵维持声量；公开财务缺位。
-> **来源**：[[2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态]]
+> **来源**：2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态
 > **最后更新**：2026-08-15
 
 ## 核心要点
@@ -38,7 +38,7 @@ cross_refs: [[karl_lagerfeld]], [[ariose_years]], [[服装行业竞争格局]]
 - 轻奢授权品牌靠明星矩阵维持声量，但**公开财务缺位**，需警惕"声量 ≠ 经营质量"——与 FASHION DOCTOR 关注"品牌力 ≠ 盈利质量"一致；IP 化视觉符号（Choupette）与城市社交运营可作 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 线下体验升级参考，但须以真实复购与坪效验证。
 
 ## 信息链
-- 上游来源：[[2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态]] → 本页 → 下游实体/对比：[[karl_lagerfeld]] · [[ariose_years]] · [[服装行业竞争格局]]
+- 上游来源：2026-08-15_xhby_KARL_LAGERFELD上海快闪与品牌动态 → 本页 → 下游实体/对比：[[karl_lagerfeld]] · [[ariose_years]] · [[服装行业竞争格局]]
 
 ## 关联页面
 - [[karl_lagerfeld]] · [[ariose_years]] · [[服装行业竞争格局]] · [[peacebird]]

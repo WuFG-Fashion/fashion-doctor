@@ -1,3 +1,14 @@
+---
+type: concept
+title: 跨品牌数据整合
+aliases: [cross_brand_integration]
+tags: [architecture, multi_brand, cross, brand, integration]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 跨品牌数据整合
 
 > **分类**: L2_07 服装多品牌数据分析系统构建 > L3_07_03 跨品牌数据整合

@@ -7,7 +7,7 @@ tags: [bi, visualization, dashboard, tool_selection, retail, superse, dataease, 
 sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构, 2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]
 created: 2026-06-13
 updated: 2026-08-26
-cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]], [[服装全渠道BI三层角色看板实践]]
+cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]], [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板实践]]
 ---
 
 # 2026年BI可视化在服装零售的选型与应用
@@ -217,7 +217,7 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md]
 
 ## C轮更新（2026-08-26）：三层角色看板 + 指标铁律
 
-> 来源：[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] / [[服装全渠道BI三层角色看板实践]]
+> 来源：[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] / [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板实践]]
 
 ### 三层角色设计（服装零售场景）
 

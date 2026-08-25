@@ -25,7 +25,7 @@ cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[reta
 >
 > **一句话摘要**：2026年AI从时尚B2B幕后全面走向C端前台：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭数字分身(Alta)+数字衣橱管理(TheRealReal/Vêtir)+AI数字人直播(安踏>10万h/GMV>3亿)，消费入口逻辑从"流量竞争"转向"决策权竞争"。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 
@@ -164,3 +164,4 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - [[2026-08-06_贝恩纽锐拓_2026中国购物者报告]]
 - [[anta]]
 - [[会员复购率提升策略]]
+- [[vogue_business_ai_consumer_2026|VOGUE Business 2026 AI时尚消费入口全景]]

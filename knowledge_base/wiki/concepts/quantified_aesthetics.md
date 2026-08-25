@@ -46,7 +46,7 @@ brand_specific: false
 
 ### 2. 科学订货 / 商品二次企划
 
-> 详见 [[goods_replenishment_planning]] 概念页（待建，本页内展开）
+> 详见 goods_replenishment_planning 概念页（待建，本页内展开）
 
 - 主理人：**韩会玲**（资深量化美学顾问 / 商品二次企划专家）
 - 核心：
@@ -129,11 +129,13 @@ brand_specific: false
 ## 信息链
 
 - 上游：搜狐 461781409 / 201789872 / 152815688 / 201128282 → 本页（[[quantified_aesthetics]] 概念）
-- 下游：[[ariose_years]] / [[dekashell]] / [[peacebird]] / [[cabbeen]] 等品牌页可对照"设计-订货-区域差异"现状；[[pdca-season-kpi]] 可引入"区域客群差异化"指标。
+- 下游：[[ariose_years]] / [[dekashell]] / [[peacebird]] / [[cabbeen]] 等品牌页可对照"设计-订货-区域差异"现状；pdca-season-kpi 可引入"区域客群差异化"指标。
 
 ## 关联页面
 
 - [[weifu_consulting]] — 韦孚咨询实体
 - [[3c_operation_system]] — 3C 经营体系（下游配套）
 - [[aesthetic_retail]] — 美学零售（量化美学的零售落地形态）
-- [[goods_replenishment_planning]] — 商品二次企划/科学订货（量化美学子模块，待建）
+- goods_replenishment_planning — 商品二次企划/科学订货（量化美学子模块，待建）
+- [[2021-04-20_韦孚安踏合作]] — 韦孚合作伙伴【安踏集团】如何实现 2025 年集团双千亿的目标（含韦孚合作）
+- [[韦孚咨询公司介绍综合]] — 韦孚咨询公司介绍综合（3 篇合并：核心顾客大企划/美学零售新模式/服博会课程）

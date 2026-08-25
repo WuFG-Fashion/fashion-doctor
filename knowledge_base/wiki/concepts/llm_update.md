@@ -1,3 +1,14 @@
+---
+type: concept
+title: 大模型动态
+aliases: [llm_update]
+tags: [llm, ai, update]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 大模型动态
 
 > **分类**: L2_00 AI前沿信息 > L3_00_01 大模型动态

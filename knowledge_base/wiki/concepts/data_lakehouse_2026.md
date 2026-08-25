@@ -25,7 +25,7 @@ cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quali
 >
 > **一句话摘要**：2026年数据平台主流架构已从"数据湖vs数据仓库二选一"转向"湖仓一体"——Apache Iceberg成为事实标准，ETL全面向低代码/流批一体/智能化演进，多品牌服装系统可基于Iceberg+StarRocks构建统一分析底座。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 湖仓对比
 

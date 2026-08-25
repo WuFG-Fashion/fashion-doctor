@@ -25,7 +25,7 @@ cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit
 >
 > **一句话摘要**：2026年Python数据项目从传统8+工具链收敛到 uv+Ruff+Ty+Polars 四件套（同出Astral公司），所有配置集中 pyproject.toml，uv run 一站式管理从未如此简洁。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 

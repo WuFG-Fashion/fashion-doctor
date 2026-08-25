@@ -1,3 +1,14 @@
+---
+type: concept
+title: 零售术语体系
+aliases: [terminology]
+tags: [terminology]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 零售术语体系
 
 > **分类**: L2_01 零售基础理论 > L3_01_02 零售术语体系

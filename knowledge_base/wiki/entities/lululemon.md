@@ -24,7 +24,7 @@ cross_refs: [[peacebird]], [[fast_retailing]], [[semir]], [[inditex_zara]], [[si
 >
 > **一句话摘要**：全球运动休闲龙头，FY2026Q1营收25亿美元(+4%)、净利暴跌38%至1.95亿、中国大陆+30%逆势狂飙、北美连续5季同店下降、全年指引大幅下调。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 基本信息
 - 全称：lululemon athletica inc.

@@ -8,7 +8,7 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
-cross_refs: [[dickies]], [[服装行业竞争格局], [品牌墙概念与代理模式]]
+cross_refs: [[dickies]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 ---
 
 # Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）

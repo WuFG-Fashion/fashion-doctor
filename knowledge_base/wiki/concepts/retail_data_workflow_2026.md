@@ -26,7 +26,7 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询�
 >
 > **一句话摘要**：CRISP-DM 七步数据分析工作流映射到服装零售场景，配合 Pandas/Polars/DuckDB 三引擎按数据规模选型，EDA 三类分析 + 可视化全家桶快速定位业务问题。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## CRISP-DM 七步工作流 × 服装零售
 

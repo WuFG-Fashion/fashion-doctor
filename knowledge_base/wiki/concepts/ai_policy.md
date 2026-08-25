@@ -1,3 +1,14 @@
+---
+type: concept
+title: AI行业政策与监管
+aliases: [ai_policy]
+tags: [ai, policy]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # AI行业政策与监管
 
 > **分类**: L2_00 AI前沿信息 > L3_00_04 AI行业政策与监管

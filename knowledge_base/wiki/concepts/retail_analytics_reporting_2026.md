@@ -24,7 +24,7 @@ cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]
 >
 > **一句话摘要**：2026年服装报表体系核心从"能看报表"升级到"智能洞察"——AI+BI融合驱动五大优化趋势、六大KPI监控维度、五步实施路径，行业案例验证：李宁补货+20%/波司登响应+30%/安踏复购+15%。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 

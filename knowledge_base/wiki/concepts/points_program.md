@@ -1,3 +1,14 @@
+---
+type: concept
+title: 积分与权益运营
+aliases: [points_program]
+tags: [vip, membership, points, program]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 积分与权益运营
 
 > **分类**: L2_03 会员与VIP运营 > L3_03_03 积分与权益运营

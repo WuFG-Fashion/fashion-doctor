@@ -14,7 +14,7 @@ cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装�
 # ellesse × Smiley 联名与 Andrew Garfield campaign（A1·2026-08-22）
 
 > **一句话摘要**：意大利复古运动品牌 ellesse 2026 夏推 × Smiley 联名（70 年代 Rave 电音 + 笑脸，暖粉/暖阳黄高饱和），并启动 Andrew Garfield "Do It Like an Italian" FW2026 全球 campaign；2026 官网价格带 T 恤 £45–125、外套 £55–190，京东夹克约 399 元。
-> **来源**：[[2026-08-22_ellesse_Smiley与Garfield_campaign]]
+> **来源**：2026-08-22_ellesse_Smiley与Garfield_campaign
 > **最后更新**：2026-08-22
 
 ## 核心要点
@@ -37,7 +37,7 @@ cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装�
 3. **Rave/笑脸联名印证复古运动回潮**：与 Crocs 芭蕾风、Dickies 工装时尚化同属"旧品类新叙事"潮流，是 2026 运动时尚的共同解法。
 
 ## 信息链
-- 上游来源：[[2026-08-22_ellesse_Smiley与Garfield_campaign]]（买得易/MMMinecraft/爱企查转引品牌 + 官网）→ 本页（source）→ 下游应用：[[ellesse]]（实体，补 2026 联名 + 价格带）、[[服装价格带管理与价格真空区]]（价格带地图）、[[服装行业竞争格局]]
+- 上游来源：2026-08-22_ellesse_Smiley与Garfield_campaign（买得易/MMMinecraft/爱企查转引品牌 + 官网）→ 本页（source）→ 下游应用：[[ellesse]]（实体，补 2026 联名 + 价格带）、[[服装价格带管理与价格真空区]]（价格带地图）、[[服装行业竞争格局]]
 - 与既有 [[2026-08-21_A1_ellesse_价格带与Smiley联名续报]]（价格带/ Smiley 基础）互补，本页补 Rave 具体系列 + Garfield campaign + 价格带细化。
 
 ## 关联页面

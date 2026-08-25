@@ -44,4 +44,7 @@ cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [
 - Pagination→SKU/会员列表原生分页
 
 ## 关联页面
-[[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard|Streamlit生产级看板]]
+- [[streamlit_dashboard_2026]]
+- [[python_dashboard_ecosystem_2026]]
+- [[multi_brand_unified_analytics]]
+- [[streamlit_production_dashboard|Streamlit生产级看板]]

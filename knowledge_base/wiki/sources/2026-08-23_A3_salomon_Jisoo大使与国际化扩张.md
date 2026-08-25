@@ -14,7 +14,7 @@ cross_refs: [[salomon]], [服装行业竞争格局], [ai_fashion_market_2026], [
 # 2026-08-23 A3 Salomon Jisoo全球大使与纽约首店国际化扩张
 
 > **一句话摘要**：Salomon 在 2026 年 5 月任命 BLACKPINK 的 Jisoo 为全球品牌大使、Q2 于纽约 Fifth Avenue 开北美首店、并推行"Epicenter"核心城市旗舰战略，以"品牌势能"而非单纯铺货驱动全球化。
-> **来源**：[[2026-08-23_Salomon_Jisoo大使与纽约首店国际化]]
+> **来源**：2026-08-23_Salomon_Jisoo大使与纽约首店国际化
 > **最后更新**：2026-08-23
 
 ## 核心要点
@@ -41,7 +41,7 @@ cross_refs: [[salomon]], [服装行业竞争格局], [ai_fashion_market_2026], [
 4. 数据风险：Jisoo 大使任命与旗舰店开业为品牌/集团官方披露，Epicenter 城市清单与 400-500 家潜力来自管理层表述，须与分部财务口径区分引用。
 
 ## 信息链
-- 上游来源：[[2026-08-23_Salomon_Jisoo大使与纽约首店国际化]] → 本页（[[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]]）→ 下游应用：[[salomon]] · [[服装行业竞争格局]] · [[ai_fashion_market_2026]] · [[peacebird]] · [[cabbeen]]
+- 上游来源：2026-08-23_Salomon_Jisoo大使与纽约首店国际化 → 本页（[[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]]）→ 下游应用：[[salomon]] · [[服装行业竞争格局]] · [[ai_fashion_market_2026]] · [[peacebird]] · [[cabbeen]]
 
 > **置信度**：官方公告（Jisoo 任命与旗舰店开业为 Amer Sports/品牌官方披露；Epicenter 城市清单与门店潜力来自财报电话会与管理层表述，混合标记为官方公告/媒体估算）
 > **brand_specific**：true

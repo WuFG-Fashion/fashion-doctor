@@ -7,7 +7,7 @@ tags: [python, dashboard, streamlit, dash, gradio, comparison]
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-08-15_Streamlit_1.59新特性与LLM集成]
 created: 2026-06-07
 updated: 2026-08-15
-cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
+cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL架构选型]], [[retail_analytics_reporting_2026]], [[retail_data_workflow_2026|零售数据分析工作流]], [[retail_bi_visualization_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]
 ---
 
 # 2026 Python看板生态系统
@@ -23,7 +23,7 @@ cross_refs: [[streamlit_dashboard_2026]], [[零售数据仓库SQL实践]], [[ETL
 >
 > **一句话摘要**：2026年Python看板生态已形成三大赛道（Streamlit/Dash/Gradio）+嵌入式分析的四层格局，内部看板首选Streamlit(1-3天交付)，多租户SaaS看板应直接嵌入平台(1-5天)而非自建(4-8周)。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 

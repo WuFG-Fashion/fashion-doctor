@@ -1,3 +1,14 @@
+---
+type: concept
+title: 竞品综合对比
+aliases: [competitor_overview]
+tags: [competitor, overview]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 竞品综合对比
 
 > **来源**：综合太平鸟/GXG/MLB/江南布衣/H&M/滔搏/波司登/Burberry公开数据
@@ -77,7 +88,11 @@
 - 亚瑟士净利+47.2%领跑、Gap净利+75.6%降收增利奏效
 - lululemon Q1营收24.72亿(+4%)但净利暴跌-38%至1.95亿确认
 - 折扣零售TJX/Ross爆发，消费向性价比迁移
-- → wiki: [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]] | entities: [[fast_retailing]], [[lululemon]], [[hla]], [[semir]]
+- [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]]
+- [[fast_retailing]]
+- [[lululemon]]
+- [[hla]]
+- [[semir]]
 
 ### 五部门《纺织服装卓越品牌培育行动方案（2026-2028）》
 - "AI+纺织"首次写入国家级行动方案，2028年培育≥25个卓越品牌
@@ -591,3 +606,7 @@
 - GXG节流续命：三费-1.79亿覆盖毛利下滑1.51亿，全品牌无正增长
 - 优衣库全球碾压：H1+14.8%(884亿)、中国双位数增长、全年预测上调
 - 来源：东方财富/10jqka/Fast Retailing IR 2026-04~06 | 采集：2026-06-06
+
+## 关联页面
+
+- [[16brands_2026q1_snapshot|16家A股服装上市企业2026Q1快照]]

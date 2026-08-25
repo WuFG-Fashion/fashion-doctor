@@ -1,3 +1,14 @@
+---
+type: concept
+title: 品类结构规划
+aliases: [category_planning]
+tags: [merchandise, planning, category]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 品类结构规划
 
 > **分类**: L2_05 商品企划 > L3_05_02 品类结构规划

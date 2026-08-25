@@ -1,3 +1,14 @@
+---
+type: concept
+title: SKU生命周期管理
+aliases: [sku_lifecycle]
+tags: [sku, inventory, lifecycle]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # SKU生命周期管理
 
 > **分类**: L2_05 商品企划 > L3_05_03 SKU生命周期管理

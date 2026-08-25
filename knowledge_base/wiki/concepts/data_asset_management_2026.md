@@ -24,7 +24,7 @@ cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [
 >
 > **一句话摘要**：2026年数据资产管理从"战略愿景"变为"管理动作"——数据资产入表全面落地+AI驱动治理升级，七大核心能力覆盖从元数据到AI数据供给，人工工作量压缩40%/效率提升3倍。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 
@@ -114,7 +114,13 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - ⚠️ **断点（指向未建页）**：[[multi_brand_unified_analytics]]（待补页或修正双链）
 
 ## 关联页面
-[[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-07-28_清华_数据要素流通六大变化]] ⭐ NEW
+- [[data_governance_tech_routes_2026]]
+- [[data_quality_governance]]
+- [[data_lakehouse_2026]]
+- [[ETL架构选型]]
+- [[multi_brand_unified_analytics]]
+- [[etl_governance_convergence_2026|ETL治理一体化]]
+- [[2026-07-28_清华_数据要素流通六大变化]]
 
 - [[2026-07-18_FineDataLink_2026数据治理九平台评估]]
 

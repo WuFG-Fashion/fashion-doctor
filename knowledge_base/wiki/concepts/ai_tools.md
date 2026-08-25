@@ -1,3 +1,14 @@
+---
+type: concept
+title: AI工具推荐
+aliases: [ai_tools]
+tags: [ai, tool, tools]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # AI工具推荐
 
 > **分类**: L2_00 AI前沿信息 > L3_00_02 AI工具推荐

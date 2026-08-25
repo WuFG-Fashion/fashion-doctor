@@ -1,3 +1,14 @@
+---
+type: concept
+title: 明星导购识别模型
+aliases: [top_guide]
+tags: [guide, kpi, top]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 明星导购识别模型
 
 > **来源**：Fashion Doctor 明星导购分析项目（2026-04）

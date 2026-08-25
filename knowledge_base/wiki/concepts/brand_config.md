@@ -1,3 +1,14 @@
+---
+type: concept
+title: 品牌配置管理
+aliases: [brand_config]
+tags: [dashboard, architecture, brand, config]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 品牌配置管理
 
 > **分类**: L2_07 服装多品牌数据分析系统构建 > L3_07_02 品牌配置管理

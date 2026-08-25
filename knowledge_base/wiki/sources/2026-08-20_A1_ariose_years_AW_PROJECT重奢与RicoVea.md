@@ -14,7 +14,7 @@ cross_refs: [[ariose_years]], [[dekashell]], [[服装行业竞争格局]]
 # 艾诺丝雅诗 AW PROJECT 重奢拓展与 RicoVea 新锐（A1·2026-08-20）
 
 > **一句话摘要**：艾诺丝雅诗母集团以"主品牌 1,800 店 + AW PROJECT 重奢上探（港汇恒隆首日 60 万、进 SKP/万象城/德基）+ RicoVea 新锐接棒退潮 CHUU"三梯队推进，2026 加速向百亿女装冲刺。
-> **来源**：[[2026-08-20_ariose_years_AW_PROJECT重奢与RicoVea]]
+> **来源**：2026-08-20_ariose_years_AW_PROJECT重奢与RicoVea
 > **最后更新**：2026-08-20
 
 ## 核心要点
@@ -37,7 +37,7 @@ cross_refs: [[ariose_years]], [[dekashell]], [[服装行业竞争格局]]
 3. 数据仍非审计级（媒体估算 + 自宣 corroborate），引用须标注口径；但 50 亿 / 1,800 店已获第三方独立媒体 corroborate，置信度优于纯自宣。
 
 ## 信息链
-- 上游来源：[[2026-08-20_ariose_years_AW_PROJECT重奢与RicoVea]] → 本页（source）→ 下游应用：[[ariose_years]]（实体）、[[dekashell]]（杭州女装参照）、[[服装行业竞争格局]]
+- 上游来源：2026-08-20_ariose_years_AW_PROJECT重奢与RicoVea → 本页（source）→ 下游应用：[[ariose_years]]（实体）、[[dekashell]]（杭州女装参照）、[[服装行业竞争格局]]
 - 与 [[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]] 互补（本页补 AW PROJECT 重奢进展 + RicoVea + 母公司更名 corroborate），非替代。
 
 ## 关联页面

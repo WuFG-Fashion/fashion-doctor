@@ -1,3 +1,14 @@
+---
+type: concept
+title: 未动销库存量占比
+aliases: [dead_stock]
+tags: [inventory, kpi, dead, stock]
+sources: []
+created: 2026-06-05
+updated: 2026-08-26
+cross_refs: []
+---
+
 # 未动销库存量占比
 
 ## 定义

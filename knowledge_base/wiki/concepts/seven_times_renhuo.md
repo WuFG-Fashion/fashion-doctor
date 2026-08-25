@@ -137,7 +137,7 @@ brand_specific: false
 ## 信息链
 
 - 上游：搜狐 467523956 img_5.png / 453905487 → 本页（[[seven_times_renhuo]] 概念）
-- 下游：[[3c_operation_system]] 是本流程的上位体系；[[pdca-season-kpi]] 可引入此结构做诊断。
+- 下游：[[3c_operation_system]] 是本流程的上位体系；pdca-season-kpi 可引入此结构做诊断。
 
 ## 关联页面
 

@@ -40,7 +40,7 @@ cross_refs: [[awoken_time]], [[服装行业竞争格局]], [[peacebird]]
 3. 门店数/面积为商业地产媒体估算，品牌处快速扩张期，引用须标注时点。
 
 ## 信息链
-- 上游来源：[[2026-08-23_awoken_time_武汉多店清单与白猿宇宙]]（今日头条/大众点评/微博）→ 本页（source）→ 下游：[[awoken_time]]（实体回链）、[[服装行业竞争格局]]、[[peacebird]]
+- 上游来源：2026-08-23_awoken_time_武汉多店清单与白猿宇宙（今日头条/大众点评/微博）→ 本页（source）→ 下游：[[awoken_time]]（实体回链）、[[服装行业竞争格局]]、[[peacebird]]
 
 ## 关联页面
 - [[awoken_time|AWOKEN TIME]]、[[peacebird|太平鸟]]、[[humble_humble_r|HumbleHumbleR]]（国潮集合店参照）、[[服装行业竞争格局]]

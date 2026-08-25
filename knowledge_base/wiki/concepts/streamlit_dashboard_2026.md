@@ -9,7 +9,7 @@ tags: [streamlit, dashboard, caching, session_state, production, theme, datafram
 sources: [2026-06-07_Python看板框架对比2026, https://www.usedatabrain.com/how-to/create-python-dashboard, 2026-06-08_Streamlit_v147特性解析, 2026-06-09_Kanaries_Streamlit_DataFrame优化2026, 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58, 2026-07-22_Streamlit_v1.59.0, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线, 2026-08-15_Streamlit_1.59新特性与LLM集成]
 created: 2026-06-07
 updated: 2026-08-15
-cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
+cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[retail_data_workflow_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[python_dev_stack_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-21_Streamlit_2026_H2_Starlette正式化]], [[2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58]], [[2026-06-30_Streamlit官方_2026全版本更新v1.53-v1.58]], [[2026-07-03_Pandas官方_Pandas_3.0]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]
 ---
 
 # Streamlit 2026生产级最佳实践
@@ -25,7 +25,7 @@ cross_refs: [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics
 >
 > **一句话摘要**：Streamlit 2026年完成Tornado→Starlette/Uvicorn架构迁移（v1.57），v1.59最新(2026.7.6)带来ButtonColumn(表格内按钮)/st.skeleton(骨架屏)/st.mermaid_chart(流程图)/App.run()(无CLI启动)/Fragment跨容器更新，是Streamlit历史上最密集的功能迭代年。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 2026年关键版本特性
 

@@ -42,7 +42,7 @@ cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理�
 3. 同属 Pentland（与 [[speedo]] 同门），轻资产区域授权（中国百丽）模式值得 [[cabbeen|卡宾]] 参考。
 
 ## 信息链
-- 上游来源：[[2026-08-23_ellesse_Garfield战役与价格带]]（Pentland/FashionNetwork/官网）→ 本页（source）→ 下游：[[ellesse]]（实体回链）、[[服装行业竞争格局]]、[[服装价格带管理与价格真空区]]
+- 上游来源：2026-08-23_ellesse_Garfield战役与价格带（Pentland/FashionNetwork/官网）→ 本页（source）→ 下游：[[ellesse]]（实体回链）、[[服装行业竞争格局]]、[[服装价格带管理与价格真空区]]
 
 ## 关联页面
 - [[ellesse|ellesse]]、[[speedo|速比涛]]（Pentland 同门）、[[服装行业竞争格局]]、[[服装价格带管理与价格真空区]]

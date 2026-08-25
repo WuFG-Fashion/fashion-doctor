@@ -10,7 +10,7 @@ tags: [mlb, competitor, streetwear, sportswear, korean_wave, focus_brand, brand_
 sources: [2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报.md, 品牌墙图_2026-08-14, 2026-08-15_R4_MLB_FF_2026中国万亿]
 created: 2026-08-14
 updated: 2026-08-23
-cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]]
+cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]]
 ---
 
 # MLB

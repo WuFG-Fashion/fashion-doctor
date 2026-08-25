@@ -14,7 +14,7 @@ cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]], [[dat
 # Agentic Commerce 2026 — 结构化产品数据成胜负手（paz.ai）
 
 > **一句话摘要**：2026 年 Agentic Commerce 进入协议标准化 + 规模化部署期：ChatGPT 9 亿周活成最大购物流量入口之一，Shopify 5.6M 门店接入 AI 购物；胜负手从"流量运营"转向"结构化产品数据"——AI 代理只推荐属性完整、库存新鲜的 SKU。
-> **来源**：[[2026-08-15_paz_Agentic_Commerce_时尚品牌2026]]
+> **来源**：2026-08-15_paz_Agentic_Commerce_时尚品牌2026
 > **最后更新**：2026-08-15
 
 ## 核心要点
@@ -38,7 +38,7 @@ cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]], [[dat
 - 对 FASHION DOCTOR 的硬启示：商品主数据（尺码/颜色/面料/版型/合身）质量，直接决定未来被 AI 代理推荐的权重——数据不完整 = 在生成式商务生态"隐形"。
 
 ## 信息链
-- 上游来源：[[2026-08-15_paz_Agentic_Commerce_时尚品牌2026]] → 本页 → 下游概念/对比：[[agentic_commerce_fashion_2026]] · [[ai_fashion_market_2026]] · [[data_quality_governance]]
+- 上游来源：2026-08-15_paz_Agentic_Commerce_时尚品牌2026 → 本页 → 下游概念/对比：[[agentic_commerce_fashion_2026]] · [[ai_fashion_market_2026]] · [[data_quality_governance]]
 
 ## 关联页面
 - [[agentic_commerce_fashion_2026]] · [[ai_fashion_market_2026]] · [[data_quality_governance]] · [[retail_ai_adoption_2026]]

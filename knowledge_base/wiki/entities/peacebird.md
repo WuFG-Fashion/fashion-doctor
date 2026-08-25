@@ -396,7 +396,9 @@ EPS 0.22 元 / 每股净资产 9.31 元 / 资产负债率 38.75% / **销售毛�
 - [[2026-08-11_中财网_太平鸟半年净利增三成]]
 - [[2026-08-11_腾讯新闻_太平鸟净关店137家失速与陈红朝减持]]
 
-- [[2026-08-11_网易_2026Q1服装品类盈利分化], [[cabbeen]], [[core_brands_peacebird_cabbeen_2026]]]
+- [[2026-08-11_网易_2026Q1服装品类盈利分化]]
+- [[cabbeen]]
+- [[core_brands_peacebird_cabbeen_2026]]
 
 
 - [[2026-08-11_网易_2026Q1服装品类盈利分化]]
@@ -508,4 +510,4 @@ EPS 0.22 元 / 每股净资产 9.31 元 / 资产负债率 38.75% / **销售毛�
 - **与多品牌系统设计的映射**：太平鸟数字化架构可作为 focus_brands 35 品牌统一分析系统的组织样板（中台拥有数据资产、前台消费数据能力），见 [[multi_brand_unified_analytics]] / [[brand_config_driven_system]]。
 
 ### 信息链（本轮）
-- 上游来源：[[2026-08-26_太平鸟数字化与数据分析体系2026]] → 本页（[[peacebird]]）→ 下游应用：[[multi_brand_unified_analytics]] · [[brand_config_driven_system]] · [[服装全渠道BI三层角色看板实践]] · [[服装行业竞争格局]]
+- 上游来源：[[2026-08-26_太平鸟数字化与数据分析体系2026]] → 本页（[[peacebird]]）→ 下游应用：[[multi_brand_unified_analytics]] · [[brand_config_driven_system]] · [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板实践]] · [[服装行业竞争格局]]

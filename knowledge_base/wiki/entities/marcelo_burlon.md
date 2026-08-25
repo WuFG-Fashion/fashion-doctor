@@ -43,7 +43,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 4. 数据风险：Marcelo Burlon 私营不披露中国销售；香港店已关闭，大陆门店数为买手店代销口径，引用须标注'买手店/已关店'。
 
 ## 信息链
-- 上游来源：[[2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026]] → 本页（[[marcelo_burlon]]）→ 下游应用：[[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+- [[2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026]]
+- [[marcelo_burlon]]
+- [[服装行业竞争格局]]
+- [[peacebird]]
+- [[cabbeen]]
 
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
