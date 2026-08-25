@@ -24,6 +24,13 @@ updated: 2026-08-24
 | [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
 | [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
 | ⭐ NEW [[2026H1服装行业KPI经营应对]] | 行业"量增价跌、利润薄"结论→4个经营动作（利润率/周转对标、出口累计口径、定价转质价比） | playbook, benchmark, decision, industry + 08-14新增:行业KPI基准→经营动作闭环 |
+| ⭐ NEW [[连带销售与高单打法]] | 高单打法三阶（心态"我想我能我会"/顾客视角/顾问式搭配推荐），对应销售九部曲附推深化；源:human《高单数必炼手册》《中级着装顾问》《DAY1》 | playbook, sales, upselling, high_ticket, guide + 08-25新增:human课件提炼 |
+| ⭐ NEW [[充值活动与会员话术]] | 储值锁客六步（意义/优势/折扣率/障碍/话术/操作），"障碍→话术"结构可复用；源:human《充值培训与话术》 | playbook, vip, recharge, script, retention + 08-25新增:human课件提炼 |
+| ⭐ NEW [[卖场管理SOP]] | 卖场管理三件套：八大项检查框架+分区标准(形象/照明/音乐)+数据温度计(售罄率/坪效/人效)；源:human卖场五课件 | playbook, store_operation, display, inspection + 08-25新增:human课件提炼 |
+| ⭐ NEW [[店长现场与会议管理]] | 店长双引擎：现场管理(人店货+目标拆解到时段)+会议管理(例会流程)；店长=管理+数据+沟通；源:human金牌店长特训营二篇+东尚店长培训 | playbook, store_management, manager, meeting + 08-25新增:human课件提炼 |
+| ⭐ NEW [[店助带教体系]] | 店助"认知→职责→流程→带教"四件套培训体系，店助=店长分身+导购带教者；源:human 6.3店助培训四件套 | playbook, guide, training, mentorship + 08-25新增:human课件提炼 |
+| ⭐ NEW [[店铺运营制度]] | 门店制度四层：纪律(卖场纪律+乐捐奖惩)+服务(硬性要求30条)+数据(输机管理)+巡检(卖场规范)；样本卡宾方法论通用；源:human《店铺制度》五份 | playbook, store_rules, discipline, service + 08-25新增:human制度提炼 |
+| ⭐ NEW [[头狼店长进阶培训]] | 店长年度进阶体系(十三邀)：人货场客→五项管理→企业文化逐年递进+区域复盘(业绩+人力+培训三合一)；源:human头狼/零售系统/五项管理 | playbook, manager, advanced_training, team_culture + 08-25新增:human课件提炼 |
 
 ### wiki/entities/ — 实体库
 | 页面 | 说明 | 标签 |
@@ -113,6 +120,11 @@ updated: 2026-08-24
 | ⭐ NEW [[会员与VIP运营体系2026]] | L2_03领域枢纽：会员/VIP运营体系(铁三角+私域承载+AI增效)，头部30%贡献60-80%业绩/复购+10%→利润+30-50% | vip, membership, repurchase, private_domain + 08-14新增:L2_03深化(枢纽页串联复购/一体化/RFM/私域四页+会员价值提升打法) |
 | ⭐ NEW [[商品企划体系2026]] | L2_05领域枢纽：商品企划利润中枢(趋势→订货→供应链→售罄→清仓全链路)，10核心页+3落地页串联，2026范式=数据驱动小单快反 | merchandise, planning, otb, supply_chain, sell_through, hub + 08-14新增:L2_05深化(枢纽页串联柔性供应链/OTB/SKU/企划趋势/订货会/清仓/采购/售罄率/库存基准/利润分化十页+商品企划落地打法) |
 | ⭐ NEW [[中国服装零售基准体系2026]] | L2_01领域枢纽：零售基础理论基准坐标系(规模→年度→季度→出口→国际对标→政策→盈利质量→ESG→轻奢九模块)，RAG外网查询"行业好不好/品牌跑赢没"先在此定位 | retail, benchmark, kpi, industry, fundamentals, hub, l2_01 |
+| ⭐ NEW [[销售九部曲]] | 导购接待九步流程（待机迎宾→顾客识别→了解需求→货品介绍FABE→非销赞美→异议处理→附推→成交→售后）+顾客七维观察；通用方法论，源:human《初级销售技巧》 | sales, guide, selling_skill, process + 08-25新增:human课件提炼 |
+| ⭐ NEW [[面料知识与洗涤保养]] | 纤维四分类(棉麻/毛皮绒/粘胶/涤锦腈氨)优缺点+洗涤保养+混纺逻辑；FABE话术证据层；样本卡宾方法论通用；源:human《面料知识洗涤保养》 | fabric, care, product_knowledge + 08-25新增:human课件提炼 |
+| ⭐ NEW [[FPA性格色彩与沟通]] | 性格色彩(红蓝黄绿/DISC)测试→计分→识人→沟通四步，店长管理沟通+导购识客共用工具；源:human 5.11 FPA系列六件套 | psychology, fpa, communication + 08-25新增:human课件提炼 |
+| ⭐ NEW [[目标与时间管理]] | 五项管理(目标/心态/时间/学习/行动)+目标四层拆解表+门店销售目标分解，个人目标与企业目标同构；源:human《五项管理》等 | target_management, time_management + 08-25新增:human课件提炼 |
+| ⭐ NEW [[店铺规划与过货]] | 陈列三易(易看/易挑/易取)+过货四大法宝(新品过货/通情杆/陈列走墙/情景演练)，"货品知识→销售话术"转化器；源:human《店铺规划》《过货方式及流程》 | store_planning, display, merchandise + 08-25新增:human课件提炼 |
 | [[服装门店经营AI化2026]] ⭐ UPDATED | 65%手工记账→AI经营大脑，周转+60%复购+35%；8-03新增丽晶门店12核心指标与日周月三层节奏 | ai, retail_digitalization, store_operation |
 | [[男装品牌竞争格局2026Q1]] ⭐ NEW | 森马增速王/海澜大而不强/太平鸟拐点 | competitor, menswear, comparison |
 | 待迁移：售罄率 | 来自 L3_01_01 KPI健康基准 | kpi, sell_through |
@@ -212,6 +224,8 @@ updated: 2026-08-24
 ### wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| ⭐ NEW [[韦孚咨询专题（2026-08-25 入库）]] | 韦孚咨询搜狐号 23 篇公众号文章（含讲师介绍+服博会课程+3C 案例）的提炼专题——**1 个实体页（[[weifu_consulting]]）+ 5 个概念页（3C 经营体系/客资/量化美学/销售力/七次对接/美学零售）+ 11 个 source 页**；公开渠道首批完整提炼，公众号视频不可得见结论 | weifu, 3c, quantified_aesthetics, methodology, topic, source  |
+| ⭐ NEW 2026-08-25 human 课件/制度 39 源 | 桌面《培训课件》《店铺制度》入库提炼（销售九部曲/卖场管理/店长店助培训/FPA/五项管理/面料/卡宾制度等），原文存 human/，39 个 source 页见 wiki/sources/2026-08-25_human_* | human, training, store_rules, source + 08-25新增:39源批量入库 |
 | [[2026-08-20_客户价值四指标替代复购率]] ⭐ NEW | 复购率三大缺陷（口径可调节/只看人数/低频误判）+ LTV/留存率/NDR/NPS 四指标定义与落地四步（RFM分层→NPS监控→NDR追踪→LTV反推预算）；公众号「零售小九」 | vip, customer_value, ltv, ndr, nps, rfm, methodology, source |
 | [[2026-08-20_扎克伯格超级智能与第二大脑]] ⭐ NEW | 扎克伯格《The Future is for Everyone》解读：AI 是能力放大器非替代工具/发明>自动化/权力平衡与开源/一人+Agent≈小型组织/三个学习弯路；公众号「白熊安安」 | ai, empowerment, second_brain, agent, education, source |
 | [[2026-08-15_卡宾2026中期业绩与2025年报
