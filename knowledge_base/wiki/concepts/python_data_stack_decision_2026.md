@@ -5,10 +5,10 @@ aliases:
   - "Python数据栈边界决策框架"
   - "python data stack decision 2026"
 tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics, data_engineering]
-sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]
+sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比, 2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]
 created: 2026-06-15
-updated: 2026-08-12
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]]
+updated: 2026-08-26
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]
 ---
 
 # Python数据栈边界决策框架2026
@@ -25,7 +25,7 @@ cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_dat
 >
 > **一句话摘要**：Python数据栈的三重边界(内存/并发/分布式)清晰定义了何时用Pandas、何时切Polars/DuckDB、何时上Spark，Benchmark实测Polars 6.7x/ClickHouse 10x，电商实战4h→15min(16x提升)成本降60%。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 
@@ -195,3 +195,20 @@ ima.qq.com 观点：Polars 月下载 3000 万，"二选一"正在变成"混合�
 | 500 万~5000 万行 | **Polars（单机最优）** |
 | >5000 万行 / 流式 | Polars Lazy + DuckDB |
 | 生产 ETL + ML 最后一公里 | **Polars → Pandas 双轨**（Arrow 零拷贝） |
+
+## C轮更新（2026-08-26）：数据规模定工具（帆软 2026 价值链决策）
+
+> 来源：[[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]
+
+### 2026 价值链选型逻辑（帆软E数通）
+
+| 数据量 | 选型 | 说明 |
+|---|---|---|
+| <100GB | PostgreSQL | 免费/稳定/生态完善/学习成本最低 |
+| 100GB-10TB | 云数仓托管 | 性价比与运维复杂度优于自建集群 |
+| >10TB | 湖仓一体（Iceberg/Hudi/Delta） | 需专业数据团队主导 |
+
+- **加工层**：单表 10GB 内 Polars 最具性价比；>100GB 才考虑 PySpark。
+- **dbt 已是事实标准**：SQL 脚本 → 可测试/可版本化/可文档化的工程资产。
+- 分析师 2026 投入方向：SQL 开窗/CTE/优化、云数仓分区/聚类/物化视图、湖仓概念边界；Hadoop 运维不再构成壁垒。
+- **对照本项目**：35 品牌明细数据量级 <10GB → 按上表连 PostgreSQL 都非必需，DuckDB 嵌入式 + Polars 直接满足；只有当未来接入全量 POS 流水（亿级行）时再评估云数仓。

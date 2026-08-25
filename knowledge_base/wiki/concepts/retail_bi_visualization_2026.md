@@ -4,10 +4,10 @@ title: 2026年BI可视化在服装零售的选型与应用
 aliases:
   - "retail bi visualization 2026"
 tags: [bi, visualization, dashboard, tool_selection, retail, superse, dataease, metabase, smartbi]
-sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构]
+sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEase_开源BI三剑客对比2026, 2026-07-09_CSDN_全渠道BI三层架构, 2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]
 created: 2026-06-13
-updated: 2026-08-06
-cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]]
+updated: 2026-08-26
+cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]], [[服装全渠道BI三层角色看板实践]]
 ---
 
 # 2026年BI可视化在服装零售的选型与应用
@@ -24,7 +24,7 @@ cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [
 >
 > **一句话摘要**：2026年BI可视化工具从"辅助报表"升级为"业务分析中枢"，AI融合（ChatBI/Agent BI）成为选型新标准。服装零售企业应根据品牌规模、技术能力和分析场景，在商业BI（SmartBI/Tableau/观远数据）与开源BI（Superset/DataEase/Metabase）之间做出合理选择。
 
-_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md]] 2.3 区块规范）_
+_（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md](../CLAUDE.md) 2.3 区块规范）_
 
 ## 核心要点
 
@@ -214,3 +214,21 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [[CLAUDE.md
 - [[2026-06-13_腾讯新闻_BI可视化工具排行2026]] — 来源
 - [[2026-06-13_DataEase_开源BI三剑客对比2026]] — 来源
 - [[2026-08-06_AgenticBI与ChatBI零售落地实测]] — 各厂商 AI 形态刷新与主动预警规则 ⭐ NEW
+
+## C轮更新（2026-08-26）：三层角色看板 + 指标铁律
+
+> 来源：[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] / [[服装全渠道BI三层角色看板实践]]
+
+### 三层角色设计（服装零售场景）
+
+| 层 | 角色 | 核心指标 | 原则 |
+|---|---|---|---|
+| 总部 | 集团决策 | 全渠道销售达标率/区域排名/库存周转天数/高价值会员活跃率 | "一页看完"+ 层层下钻到 SKU |
+| 区域 | 区域运营 | 门店排名/畅销滞销排行/库存健康度分布/促销转化率 | 发现异常门店 |
+| 门店 | 终端执行 | 今日达成/客单连带/畅销款库存/会员开卡 | "可执行"：一键补货/暂停接单 |
+
+### 指标铁律与 KPI 基准
+- **每视图 ≤7 指标**；看板有效 = 触发行动而非"看看而已"。
+- 售罄率 80%+ 健康；缺货率 >5% 系统性；库存周转 4-6x/年；90 天+ 库存=积压；填充率 <95% 系统性问题；复购率 90 天内 <25% 警示。
+- 预警分级：一般异常黄标（周转连续 3 天上升）→ 重要异常主动推送（畅销款低于安全线）。
+- 零售 BI 平台价差 15x（Power BI Pro $10/user/月 → Domo/Tableau 企业 $83k-150k/年）；实施 2-4 周到 6-12 周。

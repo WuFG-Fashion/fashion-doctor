@@ -4,10 +4,10 @@ title: Streamlit生产级多品牌看板构建
 aliases:
   - "streamlit production dashboard"
 tags: [streamlit, dashboard, multi_brand, production, code, starlette, polars]
-sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线, 2026-08-15_Streamlit_1.59新特性与LLM集成]
+sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04), 2026-06-10_Streamlit官方_2026版本架构演进, 2026-06-12_Streamlit全版本新特性2026, 2026-06-14_Streamlit_2026v1.53-1.58全版本新特性.md, 2026-06-21_Streamlit_2026_H2_Starlette正式化与并发特性.md, 2026-06-24_Streamlit_2026全版本新特性v1.53-v1.58, 2026-07-28_Streamlit_v1.60_安全加固, 2026-07-31_Streamlit_2026生产部署与Cloud零门槛, 2026-08-12_Streamlit_企业级架构与生产部署路线, 2026-08-15_Streamlit_1.59新特性与LLM集成, 2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]
 created: 2026-06-07
-updated: 2026-08-15
-cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式], [[2026-08-15_Streamlit_1.59新特性与LLM集成]]]
+updated: 2026-08-26
+cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]], [[2026-08-15_Streamlit_1.59新特性与LLM集成]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
 ---
 
 # Streamlit生产级多品牌看板构建
@@ -387,9 +387,32 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 - 移动端/体验：st.skeleton 改善加载反馈；persist_state 缓解状态丢失；st.set_page_config initial_sidebar_state="locked" 锁定侧栏（避免移动端误触）。
 - 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
 
+## C轮更新（2026-08-26）：1.61 新特性 + 三层角色看板落地 focus_brands
+
+> 来源：[[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]] / Streamlit 官方（1.61）
+
+### Streamlit 1.61 生产要点（官方）
+- `st.dataframe` **lazy loading**：大数据帧按需加载，不再一次性拉全量——多品牌 SKU×店级明细（35 品牌、数万 SKU）渲染不再卡死。
+- **background cache refresh**：后台缓存刷新，用户无感拿到新数据——经营日报自动化场景（T+1 晨会前自动刷新）。
+- **metric icons**：指标卡图标，总览页可读性提升。
+
+### 三层角色看板 → 多品牌系统落地（品牌感知）
+把服装全渠道 BI 三层角色设计映射到 focus_brands 35 品牌看板：
+
+| 层 | 角色 | 看板内容（多品牌场景） | 权限 |
+|---|---|---|---|
+| 总部管理层 | 集团/双核决策 | 全渠道销售达标率、各品牌区域排名、全渠道库存周转天数、高价值会员活跃率；"一页看完"+ 层层下钻（品牌→区域→门店→SKU） | 全品牌只读 |
+| 区域经理 | 区域运营 | 门店业绩排名、畅销/滞销排行、库存健康度分布、促销转化率 | 管辖品牌+区域 |
+| 门店店长 | 终端执行 | 今日销售达成、客单连带、畅销款库存（不足一键补货）、会员开卡 | 单店 |
+
+硬规则：
+1. **每视图 ≤7 指标**（多则无焦点）；看板有效 = 触发行动（一键补货/一键暂停接单）而非"看看而已"。
+2. **预警分级上报**：一般异常看板黄标（周转天数连续 3 天上升）→ 重要异常主动推送（畅销款全渠道库存低于安全线 → 商品部+区域经理），Streamlit 端用 `st.toast`/通知组件实现。
+3. **三层复用同一数据层**：总部/区域/门店只是同一 [[multi_brand_unified_analytics|多品牌统一分析架构]] 指标层的不同视图，禁止为三层各自建口径。
+
 ## 关联页面
 - [[2026-08-15_Streamlit_1.59新特性与LLM集成]]
-
+- [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
 - [[2026-06-08_Streamlit_v147特性解析]]
 - [[2026-06-10_CSDN_Polars_MLflow_Streamlit工程化2026]]
 - [[2026-06-10_Streamlit官方_2026版本架构演进]]
