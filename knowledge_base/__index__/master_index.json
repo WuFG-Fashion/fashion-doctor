@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-26",
-  "generated_at": "2026-08-26 06:48:48",
-  "total_entries": 1176,
+  "generated_at": "2026-08-26 07:07:15",
+  "total_entries": 1182,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -16042,6 +16042,78 @@
         },
         {
           "id": "WIKI_S_sources_948",
+          "name": "2026-08-26_A2_etudes_SS27大秀与品牌升级",
+          "path": "wiki/sources/2026-08-26_A2_etudes_SS27大秀与品牌升级.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Études Studio SS27, Short Term Eternity, Gordon Matta Clark 联名, Études 品牌升级"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_949",
+          "name": "2026-08-26_A2_g_star_raw_FW26_ARC回归",
+          "path": "wiki/sources/2026-08-26_A2_g_star_raw_FW26_ARC回归.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "G-Star FW26, ARC Jean, ARCHETYPES, Passado 水洗, ARC 牛仔裤回归"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_950",
+          "name": "2026-08-26_A2_hoka_FY27Q1财报深化",
+          "path": "wiki/sources/2026-08-26_A2_hoka_FY27Q1财报深化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "HOKA FY27Q1, Deckers Q1, HOKA 中国降温, Clifton Pro, HOKA 增速刹车"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_951",
+          "name": "2026-08-26_A2_humble_humble_r_明星营销与奥莱渠道",
+          "path": "wiki/sources/2026-08-26_A2_humble_humble_r_明星营销与奥莱渠道.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "HumbleHumbleR 明星同款, 26 Spring Softcore, 沈阳杉杉奥莱, 朱志鑫, 张新成"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_952",
+          "name": "2026-08-26_A2_karl_lagerfeld_七匹狼战略与KL减值",
+          "path": "wiki/sources/2026-08-26_A2_karl_lagerfeld_七匹狼战略与KL减值.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "七匹狼夹克专家, KL 减值包袱, Karl Lagerfeld 大中华区, 七匹狼 2026H1"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_953",
+          "name": "2026-08-26_A2_mlb_Q2费用结构与入境游红利",
+          "path": "wiki/sources/2026-08-26_A2_mlb_Q2费用结构与入境游红利.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "MLB Q2 费用, 入境游红利, 广告费激增, F&F 2026 Q2, 旗舰店+60%"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_954",
           "name": "2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略",
           "path": "wiki/sources/2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略.md",
           "file_count": 1,
@@ -16055,7 +16127,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_949",
+          "id": "WIKI_S_sources_955",
           "name": "2026-08-26_B佐证_Levi商品结构与品类聚焦",
           "path": "wiki/sources/2026-08-26_B佐证_Levi商品结构与品类聚焦.md",
           "file_count": 1,
@@ -16070,7 +16142,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_950",
+          "id": "WIKI_S_sources_956",
           "name": "2026-08-26_B佐证_卡宾终端培训与加盟运营体系",
           "path": "wiki/sources/2026-08-26_B佐证_卡宾终端培训与加盟运营体系.md",
           "file_count": 1,
@@ -16084,7 +16156,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_951",
+          "id": "WIKI_S_sources_957",
           "name": "2026-08-26_B佐证_江南布衣会员深化",
           "path": "wiki/sources/2026-08-26_B佐证_江南布衣会员深化.md",
           "file_count": 1,
@@ -16098,7 +16170,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_952",
+          "id": "WIKI_S_sources_958",
           "name": "2026-08-26_会员运营方法论_私域四大场景与RFMV分层",
           "path": "wiki/sources/2026-08-26_会员运营方法论_私域四大场景与RFMV分层.md",
           "file_count": 1,
@@ -16113,7 +16185,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_953",
+          "id": "WIKI_S_sources_959",
           "name": "2026-08-26_商品企划方法论_OTB与配补调2026",
           "path": "wiki/sources/2026-08-26_商品企划方法论_OTB与配补调2026.md",
           "file_count": 1,
@@ -16129,7 +16201,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_954",
+          "id": "WIKI_S_sources_960",
           "name": "2026-08-26_多品牌零售数据中台与全域用户治理实践2026",
           "path": "wiki/sources/2026-08-26_多品牌零售数据中台与全域用户治理实践2026.md",
           "file_count": 1,
@@ -16141,7 +16213,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_955",
+          "id": "WIKI_S_sources_961",
           "name": "2026-08-26_太平鸟数字化与数据分析体系2026",
           "path": "wiki/sources/2026-08-26_太平鸟数字化与数据分析体系2026.md",
           "file_count": 1,
@@ -16153,7 +16225,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_956",
+          "id": "WIKI_S_sources_962",
           "name": "2026-08-26_导购能力与门店人效方法论2026",
           "path": "wiki/sources/2026-08-26_导购能力与门店人效方法论2026.md",
           "file_count": 1,
@@ -16169,7 +16241,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_957",
+          "id": "WIKI_S_sources_963",
           "name": "2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准",
           "path": "wiki/sources/2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准.md",
           "file_count": 1,
@@ -16181,7 +16253,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_958",
+          "id": "WIKI_S_sources_964",
           "name": "2026-08-26_时尚忠诚度计划国际标杆2026",
           "path": "wiki/sources/2026-08-26_时尚忠诚度计划国际标杆2026.md",
           "file_count": 1,
@@ -16197,7 +16269,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_959",
+          "id": "WIKI_S_sources_965",
           "name": "2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI",
           "path": "wiki/sources/2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI.md",
           "file_count": 1,
@@ -16209,7 +16281,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_960",
+          "id": "WIKI_S_sources_966",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -16221,7 +16293,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_961",
+          "id": "WIKI_S_sources_967",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -16233,7 +16305,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_962",
+          "id": "WIKI_S_sources_968",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -16245,7 +16317,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_963",
+          "id": "WIKI_S_sources_969",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
