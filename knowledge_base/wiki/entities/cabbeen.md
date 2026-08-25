@@ -12,7 +12,7 @@ tags: [cabbeen, competitor, menswear, streetwear, china_brand, core, hk_listed]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期业绩公告PDF(irmedia.cabbeen.com), 2026-08-15_R4_卡宾2026最新动态, 2026-08-22_A1_cabbeen_副线渠道股息.md]
 created: 2026-08-14
 updated: 2026-08-26
-cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[two_am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]], [[2026-08-26_B佐证_卡宾终端培训与加盟运营体系]]
+cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[two_am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]], [[2026-08-26_B佐证_卡宾终端培训与加盟运营体系]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]], [[2026-08-26_A3_thisisizi8_卡宾官网矩阵收录]]
 ---
 
 # 卡宾（Cabbeen）
