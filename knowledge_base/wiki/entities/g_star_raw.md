@@ -137,3 +137,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 **结论（刷新）**：A2 轮确认 [[g_star_raw]] 2026 下半年主线是"档案资产复活（ARC/ARCHETYPES）+ 可持续水洗创新"，替代明星联名驱动；与 [[levis]]（DTC 转型）、[[diesel]]（联名驱动）构成丹宁赛道三种增长范式并存，见 [[服装行业竞争格局]]。
 **信息链（刷新）**：[[2026-08-26_A2_g_star_raw_FW26_ARC回归]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[服装行业竞争格局]] / [[levis]] / [[diesel]]
 
+## 近期动态刷新（2026-08-27 · A轮A2全量覆盖）
+
+> 本段为 A2 轮（固定分组 11 品牌·品牌主体全维度）对 [[g_star_raw]] 的 2026 复核验算；与 [[2026-08-26_A2_g_star_raw_FW26_ARC回归]] 方向一致、无数值冲突。
+
+- 复核实证：G-STAR RAW FW26「Spotlight Returns」@ RAWFACTORY（Botter/RAW RESEARCH）、Arc 牛仔回归；Max Verstappen MAXRAW 联名（Radar Jeans €119.95 等，2027-02 上市）、Agbobly THE DENIM 003（SoHo 店 2026-02-12）、Yay Abe 南非艺术家联名（2026-04-10）（置信度：品牌自宣/媒体估算）。
+- 本轮无重大新增，标记"无新增·核验一致"。
+
+**结论（刷新）**：A2 轮复核实证 [[g_star_raw]] 2026"经典牛仔回归 + 体育/艺术联名"方向一致、无数值冲突。
+**信息链（刷新）**：[[2026-08-26_A2_g_star_raw_FW26_ARC回归]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[服装行业竞争格局]]

@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-27",
-  "generated_at": "2026-08-27 06:45:25",
-  "total_entries": 1187,
+  "generated_at": "2026-08-27 07:08:38",
+  "total_entries": 1193,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -16360,6 +16360,78 @@
         },
         {
           "id": "WIKI_S_sources_971",
+          "name": "2026-08-27_A2_karl_lagerfeld_七匹狼中报落地",
+          "path": "wiki/sources/2026-08-27_A2_karl_lagerfeld_七匹狼中报落地.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "七匹狼 2026 中报, KL 中报, 卡尔 2026H1, septwolves 2026H1"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_972",
+          "name": "2026-08-27_A2_king_baby_全维度动态",
+          "path": "wiki/sources/2026-08-27_A2_king_baby_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "King Baby Studio, KING BABY 珠宝, king baby 中国, 摇滚珠宝"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_973",
+          "name": "2026-08-27_A2_lacoste_全维度动态",
+          "path": "wiki/sources/2026-08-27_A2_lacoste_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Lacoste 2026, 鳄鱼品牌, Lacoste 香港旗舰, MF Brands"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_974",
+          "name": "2026-08-27_A2_levis_全维度动态",
+          "path": "wiki/sources/2026-08-27_A2_levis_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Levi Strauss, 李维斯 2026, LEVI Q2 2026, Levi's 中国"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_975",
+          "name": "2026-08-27_A2_marcelo_burlon_全维度动态",
+          "path": "wiki/sources/2026-08-27_A2_marcelo_burlon_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Marcelo Burlon County of Milan, County of Milan, 马尔塞洛·布尔隆, MB 2026"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_976",
+          "name": "2026-08-27_A2_mlb_kids_全维度动态",
+          "path": "wiki/sources/2026-08-27_A2_mlb_kids_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "MLB KIDS 童装, 童装 MLB, MLB Kids 中国, F&F 童装"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_977",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -16371,7 +16443,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_972",
+          "id": "WIKI_S_sources_978",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -16383,7 +16455,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_973",
+          "id": "WIKI_S_sources_979",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -16395,7 +16467,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_974",
+          "id": "WIKI_S_sources_980",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
