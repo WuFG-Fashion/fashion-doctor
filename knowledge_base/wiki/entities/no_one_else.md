@@ -9,7 +9,7 @@ aliases:
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear]
 sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md, 2026-08-19_A3_no_one_else_全维度动态]
 created: 2026-08-15
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_no_one_else_全维度动态]], [[chuu]], [[服装价格带管理与价格真空区]]
 ---
 
@@ -88,3 +88,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-19_A3_no_one_else_全维度动态]] → 本页（[[no_one_else]]）→ 下游应用：[[chuu]] · [[服装价格带管理与价格真空区]] · [[服装行业竞争格局]]
 
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_no_one_else_中国48店]]（置信度：第三方数据）。
+
+- 关键信号见源页 [[20260827_A3_no_one_else_中国48店]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_no_one_else_中国48店]] → 本页（[[no_one_else]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]

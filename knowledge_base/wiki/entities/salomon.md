@@ -8,7 +8,7 @@ aliases:
 tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_sports]
 sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md, 2026-08-19_A3_salomon_全维度动态, 2026-08-23_A3_salomon_Jisoo大使与国际化扩张.md, 2026-08-26_A3_salomon_北京双旗舰落地.md]
 created: 2026-08-14
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]]
 ---
 
@@ -132,3 +132,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 ### 信息链（本轮）
 - 上游来源：[[2026-08-26_A3_salomon_北京双旗舰落地]] → 本页（[[salomon]]）→ 下游应用：[[peacebird]]（门店质量对标） · [[服装行业竞争格局]] · [[hoka_one_one]]
 
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_salomon_2025_亚玛芬双引擎]]（置信度：财报）。
+
+- 关键信号见源页 [[20260827_A3_salomon_2025_亚玛芬双引擎]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_salomon_2025_亚玛芬双引擎]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]

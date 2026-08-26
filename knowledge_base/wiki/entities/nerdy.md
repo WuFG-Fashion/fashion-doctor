@@ -10,7 +10,7 @@ aliases:
 tags: [nerdy, ndy, competitor, streetwear, korean_wave, sportswear, china]
 sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_NERDY_武汉首店_中国扩张.md, 2026-08-19_A3_nerdy_全维度动态, 2026-08-23_A3_nerdy_更名NDY与韩国现状.md]
 created: 2026-08-15
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nerdy_全维度动态]], [[thisisizi8]], [[服装价格带管理与价格真空区]], [[brand_risk_signals_2026]], [[brand_portfolio_tiers_2026]]
 ---
 
@@ -103,3 +103,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-23_A3_nerdy_更名NDY与韩国现状]] → 本页（[[nerdy]]）→ 下游应用：[[brand_risk_signals_2026]] · [[chuu]] · [[no_one_else]] · [[thisisizi8]]
+
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_nerdy_NDY更名]]（置信度：媒体估算）。
+
+- 关键信号见源页 [[20260827_A3_nerdy_NDY更名]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_nerdy_NDY更名]] → 本页（[[nerdy]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
