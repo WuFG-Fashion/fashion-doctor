@@ -7,7 +7,7 @@ aliases:
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
 sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md]
 created: 2026-08-14
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]]
 ---
 
@@ -112,3 +112,12 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 
 - [[2026-08-19_A3_mr_mrs_全维度动态]]
 - [[2026-08-19_A3_nautica_全维度动态]]
+
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_trussardi_2025_Miroglio重建]]（置信度：媒体估算）。
+
+- 关键信号见源页 [[20260827_A3_trussardi_2025_Miroglio重建]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_trussardi_2025_Miroglio重建]] → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]

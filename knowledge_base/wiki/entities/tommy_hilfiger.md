@@ -8,7 +8,7 @@ aliases:
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
 sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md]
 created: 2026-08-14
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
 ---
 
@@ -102,3 +102,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 - [[2026-08-21_A1_dkny_GIII_FY2026集团业绩]]
 - [[brand_gross_margin_2026]]
+
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_tommy_hilfiger_PVH_FY2025]]（置信度：财报）。
+
+- 关键信号见源页 [[20260827_A3_tommy_hilfiger_PVH_FY2025]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_tommy_hilfiger_PVH_FY2025]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]

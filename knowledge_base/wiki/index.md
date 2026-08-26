@@ -893,3 +893,22 @@ updated: 2026-08-26
 - 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
+
+## 本轮新增（2026-08-27 · A3 轮 · 分组12品牌全维度）
+
+> A3 分组（mr_mrs/nautica/nerdy/no_one_else/peacebird/salomon/speedo/the_mr_young/thisisizi8/tommy_hilfiger/trussardi/two_am）全维度综合采集，以品牌主体为中心，12 篇源页均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]，无孤岛。
+
+| 新增源页 | 品牌 | 置信度 |
+|------|------|------|
+| [[20260827_A3_peacebird_2026H1_全维度]] | peacebird | 财报 |
+| [[20260827_A3_salomon_2025_亚玛芬双引擎]] | salomon | 财报 |
+| [[20260827_A3_tommy_hilfiger_PVH_FY2025]] | tommy_hilfiger_PVH_FY2025 | - |
+| [[20260827_A3_trussardi_2025_Miroglio重建]] | trussardi | 媒体估算 |
+| [[20260827_A3_nautica_中国运营商切换]] | nautica_中国运营商切换 | - |
+| [[20260827_A3_speedo_Page印度与全球]] | speedo_Page印度与全球 | - |
+| [[20260827_A3_nerdy_NDY更名]] | nerdy_NDY更名 | - |
+| [[20260827_A3_no_one_else_中国48店]] | no_one_else_中国48店 | - |
+| [[20260827_A3_thisisizi8_中国首店复盘]] | thisisizi8_中国首店复盘 | - |
+| [[20260827_A3_the_mr_young_轻奢国潮]] | the_mr_young_轻奢国潮 | - |
+| [[20260827_A3_two_am_马来西亚快闪]] | two_am_马来西亚快闪 | - |
+| [[20260827_A3_mr_mrs_设计师与沿革]] | mr_mrs_设计师与沿革 | - |

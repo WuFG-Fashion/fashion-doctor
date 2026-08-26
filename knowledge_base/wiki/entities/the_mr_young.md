@@ -9,7 +9,7 @@ aliases:
 tags: [the_mr_young, competitor, guochao, streetwear, china, menswear]
 sources: [2026-08-15_THE_MR_YOUNG_密特扬_中国轻奢国潮品牌速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_THE_MR_YOUNG_轻奢国潮_淮海中路旗舰店.md, 2026-08-19_A3_the_mr_young_全维度动态.md]
 created: 2026-08-15
-updated: 2026-08-26
+updated: 2026-08-27
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_the_mr_young_全维度动态]]
 ---
 
@@ -87,3 +87,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_the_mr_young_轻奢国潮]]（置信度：媒体估算）。
+
+- 关键信号见源页 [[20260827_A3_the_mr_young_轻奢国潮]]；核心要点已并入实体正文相关章节。
+
+### 信息链（本轮）
+- 上游来源：[[20260827_A3_the_mr_young_轻奢国潮]] → 本页（[[the_mr_young]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
