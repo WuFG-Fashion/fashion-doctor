@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md]
 created: 2026-08-14
-updated: 2026-08-26
+updated: 2026-08-28
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
@@ -43,6 +43,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 2. 其'经典 874 + 中端定价 + 慢上新'模式认知度高但增长钝化，与 [[levis|李维斯]] 的激进直营化形成对照——同为美式丹宁/工装，路径分化。
 3. 中国 2007 即设子公司、深耕一二线，证明其基础盘稳固，但被剥离开意味 VF 认为增长空间有限。
 4. 数据风险：VF 财报中 Dickies 已作为'已终止/出售'项处理，历史季度数据需区分'持有期'与'剥离后'口径。
+5. 后 Bluestar 时代暴露"授权碎片化"双风险：产品端 874 代际质量漂移（多运营方难守统一规格）、渠道端澳新关店被误读为退出（实为授权扰动）——对评估国际工装品牌下沉威胁是"防守样本"而非铁板龙头。
 
 ## 信息链
 - 上游来源：[[2026-08-15_Dickies___VF_中国工装市场与出售速览_2026]] → 本页（[[dickies]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
@@ -106,3 +107,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - **Bluestar 组合规模**：全球零售额超 130 亿美元、600+ 授权商、500+ 品牌零售店（Off-White/Palm Angels/Scotch & Soda/Hurley/Bebe 等）；2026-06-30 Off-White 推出平价线 L/Ab——「管理与授权」模式下的品牌激活样本。
 - **对中国市场影响待观察**：UTG 中国主授权（08-23 源）之下，新东家控价/品类策略可能带来溢价管理变化，需持续跟踪。
 - 信息链：[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]] → 本页（dickies 实体）→ 下游：[[品牌墙概念与代理模式]]、[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-28）
+
+> 本轮 A1 全维度核验新增「Bluestar 收购后质量争议与澳新授权扰动」维度信号，见 [[2026-08-28_A1_dickies_Bluestar后质量与授权扰动]]。
+
+- **874 代际质量争议（2026-06 评测）**：vintage 2001 美产 874 vs current 进口 874——主面料耐磨平手、口袋袋布 current 胜、抗污/防水 vintage 显著胜、版型 current 更瘦窄浅袋、旧款"两码可调"腰头被取消（置信度：第三方数据）。
+- **澳新授权扰动（非退出）**：closing-down 销售被误读为"退出"，Bluestar 收购后 Atomic Fashion Marketing 重新获任区域授权商，证实为授权/分销扰动（置信度：第三方数据）。
+- **多运营方碎片化**：W-D Apparel 持商标 / WRK Apparel 美国站 / Sportlux Swiss 欧洲站 / Workwear Outfitters B2B——授权模式放大"全球统一规格"守门难度（置信度：媒体估算）。
+- 信息链：[[2026-08-28_A1_dickies_Bluestar后质量与授权扰动]] → 本页（dickies 实体）→ 下游：[[品牌墙概念与代理模式]]、[[服装行业竞争格局]]
