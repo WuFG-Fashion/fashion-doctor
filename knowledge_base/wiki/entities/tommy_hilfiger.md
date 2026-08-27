@@ -6,10 +6,10 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md]
 created: 2026-08-14
-updated: 2026-08-27
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
+updated: 2026-08-28
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
 # Tommy Hilfiger
@@ -111,3 +111,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[20260827_A3_tommy_hilfiger_PVH_FY2025]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-28 · A3轮·品牌全维度·治理+卖方风险）
+
+> 本轮按 A3 规范以品牌主体为中心全维度核验（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]]（置信度：媒体估算，CFO 任命为官方公告）。
+
+- **治理交接**：PVH 任命 **Alexis Rollier** 为新任 CFO（2026-09 初到任），接替过渡期临时 CFO Melissa Stone（置信度：官方公告）。
+- **卖方重定价**：8 月 JPMorgan 降至 Underweight / $84、BofA 降至 Underperform / $70（自 $90），主因中东冲突压制 EMEA 敞口 + 关税约 215bp（置信度：媒体估算）。
+- **公司 vs 卖方背离**：PVH 自身全年 EPS 指引 6.44-6.54 美元未下调，降级属风险折价非业绩下修——引用须区分"卖方观点"与"公司经营数据"，防 RAG 把投行目标价当作品牌财务（置信度：媒体估算）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[brand_risk_signals_2026]] · [[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
