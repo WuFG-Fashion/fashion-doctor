@@ -8,9 +8,9 @@ aliases:
   - "MR and MRS ITALY"
   - "MR&MRS"
 tags: [mr_mrs, competitor, luxury, fur, outerwear, italy]
-sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md, 2026-08-19_A3_mr_mrs_全维度动态]
+sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-17_MR_MRS_ITALY_中国奢品电商与价格带.md, 2026-08-19_A3_mr_mrs_全维度动态, 2026-08-29_A3_mr_mrs_全维度动态.md]
 created: 2026-08-15
-updated: 2026-08-27
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_mr_mrs_全维度动态]], [[light_luxury_brand_framework_2026]]
 ---
 
@@ -98,3 +98,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[20260827_A3_mr_mrs_设计师与沿革]] → 本页（[[mr_mrs]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-29 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集核对，新增来源 [[2026-08-29_A3_mr_mrs_全维度动态]]（置信度：媒体估算）。
+
+- **创立沿革补全**：MR&MRS ITALY 由 Alessia Giacobino 于 2007/2009 在意大利创立；创意总监 Ivana Omazic（曾任 CELINE、Maison Martin Margiela）；因《来自星星的你》全智贤同款军绿派克爆红。
+- **2025-2026 数据真空登记**：私营品牌无公开财报；中国运营主体「漫漫爱(上海)贸易有限公司」，门店规模小众高端，未见新店/新系列披露——显式登记为「无新增可入库量化数据」。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-29_A3_mr_mrs_全维度动态]] → 本页（[[mr_mrs]]）→ 下游应用：[[服装行业竞争格局]] · [[trussardi]]
+

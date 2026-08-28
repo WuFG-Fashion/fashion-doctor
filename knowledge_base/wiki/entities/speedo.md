@@ -4,9 +4,9 @@ title: Speedo
 aliases:
   - "速比涛"
 tags: [speedo, competitor, sportswear, swimwear, uk]
-sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md, 2026-08-19_A3_speedo_全维度动态.md, 2026-08-23_A3_speedo_亚运窗口与张展硕官宣.md]
+sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md, 2026-08-19_A3_speedo_全维度动态.md, 2026-08-23_A3_speedo_亚运窗口与张展硕官宣.md, 2026-08-29_A3_speedo_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-27
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]], [[salomon]], [[tommy_hilfiger]]
 ---
 
@@ -111,3 +111,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[20260827_A3_speedo_Page印度与全球]] → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-29 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度增量采集，新增来源 [[2026-08-29_A3_speedo_全维度动态]]（置信度：第三方数据）。
+
+- **印度授权市场（Page Industries）**：截至 2025-03-31，Speedo 在印度 150+ 城市覆盖 1,096 家门店 + 38 家 Exclusive Brand Stores（EBS）。
+- **全球线上**：speedo.com 2025 电商 GMV 约 US$22m（主市场美国占 41%）；CompWorth 估算全球营收约 US$292.7m、员工 917 人。
+- **2026 联名矩阵补全**：UNDEFEATED（2026-06，UNDERCURRENT 主题）、BEAMS（2026 SS 年度第 7 季）、Kirby（Goldwin 日本，2025-12 第一波 / 2026-04-24 第二波）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-29_A3_speedo_全维度动态]] → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]] · [[salomon]]
+
