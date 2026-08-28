@@ -4,9 +4,9 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -104,3 +104,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 - APAC 女装占比目标 40%→60%（2026-27 冬）；中国由百丽时尚运营；战役预算 ~3,000 万美元为媒体估算（非官方）。
 
 > 来源：[[2026-08-23_A1_ellesse_Garfield战役与价格带.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_ellesse_鞋履全球授权与Smiley联名]]。
+- **一句话摘要**：意大利运动时尚品牌 Ellesse（Pentland 旗下）借 Nice Brand Lab 全球鞋履授权，目标 2026 鞋履营收翻倍、2026-27 进中美亚太开单品牌店；2026-08 联手 Smiley、与 Michael Kors 联名。
+
+**结论（织入）**：Ellesse 隶属 Pentland，NBL 获鞋履全球授权(2026-02翻倍目标)，Smiley/Michael Kors 联名延续运动时尚复古势能；是品牌墙中'授权扩张+联名'双轮驱动样本。
+**信息链（织入）**：[[2026-08-29_ellesse_鞋履全球授权与Smiley联名]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[crocs]]

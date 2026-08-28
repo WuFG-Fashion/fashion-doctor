@@ -6,9 +6,9 @@ aliases:
   - "唤醒时刻"
   - "AWOKEN"
 tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
-sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md, 2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md]
+sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md, 2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md, 2026-08-29_awoken_time_武汉潮流集合店扩张]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
 ---
 
@@ -51,6 +51,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_h
 
 - [[2026-08-16_awoken_space_2025-2026速览]]
 - [[2026-08-20_A1_awoken_time_武商城市奥莱新店与白猿宇宙]]
+
+- [[2026-08-25_A1_cabbeen_中报子品牌增速与渠道结构深挖]]
+- [[adlv]]
 ## A1轮复核织入（2026-08-16）
 
 > 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_awoken_time_2025-2026全维度复核]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。
@@ -80,3 +83,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_h
 - 门店数/面积为商业地产媒体估算，品牌快速扩张期，引用须标注时点。
 
 > 来源：[[2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_awoken_time_武汉潮流集合店扩张]]。
+- **一句话摘要**：武汉本土潮流生活方式品牌 AWOKEN TIME 以"极简/先锋/白猿宇宙/潮流户外"为主题，做 800+㎡ 潮流集合店（服饰+潮玩+咖啡），已在武汉/南昌/襄阳/宜昌多店布局。
+
+**结论（织入）**：AWOKEN TIME 为武汉本土潮流集合店(800+㎡、白猿宇宙 IP)，4家武汉店+外拓，是区域潮流集合店'在地文化+大店体验'模型的样本；与 AWOKEN SPACE 命名易混，已作区分标注。
+**信息链（织入）**：[[2026-08-29_awoken_time_武汉潮流集合店扩张]] → 本页（[[awoken_time]]） → 下游 [[awoken_space]] / [[服装行业竞争格局]]

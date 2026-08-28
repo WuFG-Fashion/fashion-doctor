@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名]
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
@@ -116,3 +116,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - **澳新授权扰动（非退出）**：closing-down 销售被误读为"退出"，Bluestar 收购后 Atomic Fashion Marketing 重新获任区域授权商，证实为授权/分销扰动（置信度：第三方数据）。
 - **多运营方碎片化**：W-D Apparel 持商标 / WRK Apparel 美国站 / Sportlux Swiss 欧洲站 / Workwear Outfitters B2B——授权模式放大"全球统一规格"守门难度（置信度：媒体估算）。
 - 信息链：[[2026-08-28_A1_dickies_Bluestar后质量与授权扰动]] → 本页（dickies 实体）→ 下游：[[品牌墙概念与代理模式]]、[[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_dickies_易主Bluestar与密集联名]]。
+- **一句话摘要**：工装老牌 Dickies 于 2025-09 被 VF 集团以 6 亿美元现金卖给品牌管理公司 Bluestar Alliance，2026 年以每月多起联名（UNION/White Mountaineering/哈雷）密集造势重启。
+
+**结论（织入）**：Dickies 被 VF 以6亿美元售予 Bluestar Alliance(2025-09)，2026密集联名(UNION/White Mountaineering/哈雷)重启潮流叙事；所有权更迭后品牌运营策略转向'联名驱动'需持续跟踪。
+**信息链（织入）**：[[2026-08-29_dickies_易主Bluestar与密集联名]] → 本页（[[dickies]]） → 下游 [[服装行业竞争格局]] / [[crocs]]

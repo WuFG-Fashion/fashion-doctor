@@ -5,9 +5,9 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
@@ -101,3 +101,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 - 单品牌中国门店仍黑箱（授权代理模式），引用须标注首店/电商层面。
 
 > 来源：[[2026-08-23_A1_dkny_GIII财报与上海首店运营.md]]（详见 source 页，含结论 + 信息链 + confidence + brand_specific）
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_dkny_上海首店与HaileyBieber]]。
+- **一句话摘要**：DKNY 于 2026-05-16 在上海淮海中路 Lady Huaihai 开中国首店（245㎡），以纽约为魂、Hailey Bieber 演绎 2026 春夏大片，由 G-III Apparel Group 操盘中国扩张。
+
+**结论（织入）**：DKNY 上海淮海中路首店(2026-05-16,245㎡)+ Hailey Bieber campaign，借 G-III 授权重启中国直营声量；是品牌墙'授权重启+明星 campaign'重入中国市场的样本。
+**信息链（织入）**：[[2026-08-29_dkny_上海首店与HaileyBieber]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]]

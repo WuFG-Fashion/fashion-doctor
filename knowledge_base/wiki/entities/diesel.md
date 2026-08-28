@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO]
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -111,3 +111,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - **马年胶囊（2026 CNY）**：9 款 $225–495（WWD），火焰奔马刺绣 + 红头巾 mini 马纹内衬，男 D-Macro/女 D-Sent 牛仔后袋奔马，复古 T 恤/扎染卫衣（置信度：品牌自宣）。
 - **首发行李箱系列**：硬壳/软质行李箱 + 背包 + 旅行配件，Canton Unicorn Group 制造，360° 静音轮 + TSA 锁，1-29 起香港/澳门/新加坡首发——"丹宁→配件→旅行"生活方式化第三步（置信度：品牌自宣）。
 - 信息链：[[2026-08-28_A1_diesel_马年胶囊与首发行李箱]] → 本页（diesel 实体）→ 下游：[[服装行业竞争格局]]、[[品牌墙概念与代理模式]]
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_diesel_OTB业绩与新CEO]]。
+- **一句话摘要**：Diesel 母公司 OTB 集团 2025 营收 16 亿欧元（-5%）、EBITDA 2.37 亿（-14%），但 Diesel 创"十年来最佳盈利"；2026-01 任命 Andrea Rigogliosi 为新 CEO，Glenn Martens 续任创意总监。
+
+**结论（织入）**：Diesel 母公司 OTB 2025营收€1.6bn(-5%)但 Diesel 实现十年最佳盈利，Andrea Rigogliosi 任新 CEO(2026-01)；品牌进入'盈利修复+新领导层'周期，是品牌墙中修复向好的样本。
+**信息链（织入）**：[[2026-08-29_diesel_OTB业绩与新CEO]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]]

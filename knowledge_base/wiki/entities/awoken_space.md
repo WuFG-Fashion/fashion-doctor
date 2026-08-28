@@ -5,9 +5,9 @@ aliases:
   - "AWOKEN SPACE"
   - "AWOKEN 空间线"
 tags: [awoken_space, competitor, streetwear, concept_store, china, wuhan]
-sources: [2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals]
+sources: [2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-29_awoken_space_资料稀缺标注]
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -50,6 +50,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 - [[2026-08-16_awoken_time_2025-2026全维度复核]]
 - [[2026-08-20_A1_awoken_time_武商城市奥莱新店与白猿宇宙]]
+
+- [[2026-08-23_A1_awoken_time_白猿宇宙与多店清单]]
 ## A1轮复核织入（2026-08-16）
 
 > 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_awoken_space_2025-2026速览]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。
@@ -63,3 +65,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 - [[brand_store_channel_2026|门店渠道对比]]
 - [[brand_gross_margin_2026|毛利率分层]]
 - [[2026-08-16_S3_blackbox_channel_signals|黑箱品牌渠道信号补全]]
+
+## A1轮全维度采集织入（2026-08-29）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-29_awoken_space_资料稀缺标注]]。
+- **一句话摘要**：本轮检索未能定位到独立的"AWOKEN SPACE"时尚品牌实体——网络结果主要指向美国加州 Malibu 一家同名瑜伽/疗愈空间，以及武汉潮流集合店 AWOKEN TIME，awoken_space 作为服装品牌资料极稀缺，需标注待核验。
+
+**结论（织入）**：AWOKEN SPACE 本轮未检索到独立服装品牌实体(仅 Malibu 疗愈工作室及与 AWOKEN TIME 混淆)，按护栏'不强行编造'标待核验；知识库暂不新增伪数据，留待后续定向核查。
+**信息链（织入）**：[[2026-08-29_awoken_space_资料稀缺标注]] → 本页（[[awoken_space]]） → 下游 [[awoken_time]] / [[服装行业竞争格局]]
