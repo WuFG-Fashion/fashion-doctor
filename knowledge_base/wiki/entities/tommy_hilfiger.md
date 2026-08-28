@@ -6,9 +6,9 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
@@ -103,6 +103,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[2026-08-21_A1_dkny_GIII_FY2026集团业绩]]
 - [[brand_gross_margin_2026]]
 
+
+- [[2026-08-23_A3_nautica_Champion秋季联名]]
 ## 近期动态刷新（2026-08-27 · A3轮·品牌全维度）
 
 > 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[20260827_A3_tommy_hilfiger_PVH_FY2025]]（置信度：财报）。
@@ -122,3 +124,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[brand_risk_signals_2026]] · [[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-29 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-08-29_A3_tommy_hilfiger_全维度动态]]（置信度：财报）。
+
+- **PVH FY2025/26**：集团营收 +3.4% 至 90 亿美元（恒定汇率 +0.5%），Tommy Hilfiger 全年 +3.9%（含 3% 汇率利好）。
+- **Q1 FY2026/27**：Tommy +2.8% 报收；APAC 逆势 +5.8%（恒定汇率，中国/日本需求复苏）；PVH 收回此前授权品类强化直营批发。
+- **渠道治理**：与 [[nautica]] 在华「授权 vs 直营」重构形成国际牌渠道对照。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-29_A3_tommy_hilfiger_全维度动态]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[nautica]]
+

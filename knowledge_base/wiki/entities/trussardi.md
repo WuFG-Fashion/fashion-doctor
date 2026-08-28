@@ -5,9 +5,9 @@ aliases:
   - "楚萨迪"
   - "托鲁纱缔"
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
-sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md]
+sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md, 2026-08-29_A3_trussardi_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-27
+updated: 2026-08-29
 cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]]
 ---
 
@@ -121,3 +121,15 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[20260827_A3_trussardi_2025_Miroglio重建]] → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 近期动态刷新（2026-08-29 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度增量采集，新增来源 [[2026-08-29_A3_trussardi_全维度动态]]（置信度：第三方数据）。
+
+- **Miroglio 重整期**：2025 营收 ~2900 万欧元（+70%）但 EBITDA 转亏 100 万欧元、净亏损扩大至 510 万欧元；11 家独立店。
+- **地缘退出**：2026-04 完成退出俄罗斯市场（2025 Q3 已关实体零售）。
+- **延伸方向**：迪拜 Trussardi Residences 住宅（与 Luxury Living）、2026-10 热那亚游艇展生活方式伙伴；与 [[mr_mrs]] 同为意大利小众奢华对照。
+
+### 信息链（本轮）
+- 上游来源：[[2026-08-29_A3_trussardi_全维度动态]] → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]] · [[mr_mrs]]
+
