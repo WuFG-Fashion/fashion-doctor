@@ -8,7 +8,7 @@ aliases:
 tags: [lacoste, competitor, sportswear, premium, france]
 sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -143,3 +143,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（织入）**：Lacoste"核心保基本盘 + 胶囊造话题 + 配饰提客单"验证品类结构黄金比例（主力 50-60%/形象 10-20%）在高端品牌的操作面；配饰是 SKU 增量池，Club Lacoste 打通商品企划与会员运营（L2_03×L2_05 跨域协同）。
 **信息链（织入）**：[[2026-08-28_B佐证_Lacoste商品企划与品类拓展]] → 本页（[[lacoste]]） → 下游 [[商品企划体系2026]] / [[sku_fine_management]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- 2026 下半年营销密集：哥斯拉（Godzilla）联名胶囊 9 月 1 日发售；新任代言人黄子韬演绎 LACOSTE × ALPHA INDUSTRIES（¥11,000）与 × TAILOR TOYO 横须贺夹克（¥25,000）；香港 Pedder Building 历史建筑旗舰（第 7 港址）已开业；4 月新视觉识别（衬线 logo + 初代绿）；详见 [[2026-08-29_A2_lacoste_Godzilla黄子韬联名]]。

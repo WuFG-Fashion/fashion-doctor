@@ -9,7 +9,7 @@ aliases:
 tags: [etudes, competitor, designer, french, art_led]
 sources: [2026-08-15_Études_Studio_法国艺术时装屋与2030蓝图_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -137,3 +137,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮复核实证 [[etudes]] 全维度方向（配饰驱动 + 美中双核 + 门店体验）与既有结论一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-26_A2_etudes_SS27大秀与品牌升级]]（来源摘要） → 本页（[[etudes]]） → 下游 [[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- 新 CEO Brice Groulier（前 Jacquemus CFO / Lemaire 财务总监）上任，战略转向配饰（手袋目标约占销售 50%）、强化外套与皮革品类；详见 [[2026-08-29_A2_etudes_新CEO配饰战略]]。
+- 巴黎 Marais 店将迁至更大 hybrid 旗舰（含艺术书店/策展），2027 年 1 月巴黎男装周开业；中国占全球营收约 20%、已布局 15 家买手店（深圳万象城最大店、北京 SKP-S 待开）。

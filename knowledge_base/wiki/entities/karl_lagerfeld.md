@@ -8,7 +8,7 @@ aliases:
 tags: [karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, pop_up]
 sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌墙图_2026-08-14, 2026-08-15_R4_卡尔拉格斐2026中国]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 ---
 
@@ -66,6 +66,8 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 - [[2026-08-21_A1_dkny_GIII_FY2026集团业绩]]
 - [[brand_portfolio_tiers_2026]]
 - [[brand_risk_signals_2026]]
+
+- [[dkny]]
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_karl_lagerfeld_全维度动态]]。
@@ -164,3 +166,7 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
 
 **结论（刷新）**：A2 轮确认 [[karl_lagerfeld]] 大中华区在七匹狼体系内仍为减值包袱（历史净资产 -1.6 亿、八年未造血），2026H1 母企扣非高增验证主业修复但 KL 未单列盈利；与 [[mlb]]（F&F IP 授权高增）轻奢/大众授权成败分化进一步坐实，见 [[品牌墙概念与代理模式]]。
 **信息链（刷新）**：[[2026-08-27_A2_karl_lagerfeld_七匹狼中报落地]]（来源摘要） → 本页（[[karl_lagerfeld]]） → 下游 [[mlb]] / [[earnings_quality_nonrecurring_2026]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- 七匹狼 2026H1 渠道颗粒：净关 84 家至 1,622 家；直营（含联营）收入 5.69 亿（+22.89%、毛利率 65.78%、占营收 40.22%）；加盟 2.30 亿（-14.61%）；线上 4.75 亿（占 33.56%）；KL 段延续轻奢定位 + 奥莱新增长点；详见 [[2026-08-29_A2_karl_lagerfeld_中报渠道颗粒]]。
+- 与 [[2026-08-27_A2_karl_lagerfeld_七匹狼中报落地]] 互补：中报实际扣非 1.43 亿（+392%）落预告区间，归母 -2,730 万主因炒股浮亏。

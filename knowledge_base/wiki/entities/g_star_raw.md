@@ -9,7 +9,7 @@ aliases:
 tags: [g_star_raw, competitor, denim, premium_denim, netherlands]
 sources: [2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -146,3 +146,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮复核实证 [[g_star_raw]] 2026"经典牛仔回归 + 体育/艺术联名"方向一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-26_A2_g_star_raw_FW26_ARC回归]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- 新创意总监 Botter 创始人 Lisi Herrebrugh & Rushemy Botter 操刀 FW26「Spotlight Returns」：RAW RESEARCH 实验线 + ARCHETYPES 档案线 + Arc 牛仔裤（2007 经典近 20 年回归），女装置于核心；详见 [[2026-08-29_A2_g_star_raw_Botter创意总监]]。

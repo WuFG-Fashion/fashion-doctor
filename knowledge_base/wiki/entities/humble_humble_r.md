@@ -8,7 +8,7 @@ aliases:
 tags: [humble_humble_r, competitor, streetwear, china, menswear, new_brand]
 sources: [2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-22
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -132,3 +132,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮复核实证 [[humble_humble_r]] 全维度（门店扩张 + 奥莱 + 明星种草 + 26 春夏）与既有结论一致、无数值冲突。
 **信息链（刷新）**：[[2026-08-26_A2_humble_humble_r_明星营销与奥莱渠道]]（来源摘要） → 本页（[[humble_humble_r]]） → 下游 [[服装行业竞争格局]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- 2026 持续男团/艺人明星同款矩阵（郝熠然巴黎高定周、毕雯珺、贺峻霖、黄子弘凡、蔡正杰、颜安、翟潇闻、朱志鑫）；新店落地宁波杉井奥莱、长沙杉杉奥莱（华中首店）、杭州湖滨银泰首店；详见 [[2026-08-29_A2_humble_humble_r_明星矩阵新店]]。
