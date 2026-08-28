@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-29",
-  "generated_at": "2026-08-29 07:11:15",
-  "total_entries": 1253,
+  "generated_at": "2026-08-29 07:27:41",
+  "total_entries": 1265,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -16946,6 +16946,181 @@
         },
         {
           "id": "WIKI_S_sources_1008",
+          "name": "2026-08-29_A3_mr_mrs_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_mr_mrs_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "MR&MRS ITALY",
+            "MR.MRS",
+            "皮草夫妇",
+            "mr_mrs"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1009",
+          "name": "2026-08-29_A3_nautica_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_nautica_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Nautica",
+            "诺帝卡",
+            "NAUTICA"
+          ],
+          "confidence": "官方公告",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1010",
+          "name": "2026-08-29_A3_nerdy_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_nerdy_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "NERDY",
+            "nerdy",
+            "纳迪"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1011",
+          "name": "2026-08-29_A3_no_one_else_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_no_one_else_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "NO ONE ELSE",
+            "NOE",
+            "no_one_else",
+            "NEO"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1012",
+          "name": "2026-08-29_A3_peacebird_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_peacebird_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "PEACEBIRD",
+            "太平鸟",
+            "603877",
+            "peacebird"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1013",
+          "name": "2026-08-29_A3_salomon_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_salomon_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Salomon",
+            "萨洛蒙",
+            "SALOMON"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1014",
+          "name": "2026-08-29_A3_speedo_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_speedo_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Speedo",
+            "速比涛",
+            "SPEEDO"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1015",
+          "name": "2026-08-29_A3_the_mr_young_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_the_mr_young_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "THE MR YOUNG",
+            "密特·扬",
+            "TMY",
+            "the_mr_young"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1016",
+          "name": "2026-08-29_A3_thisisizi8_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_thisisizi8_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "thisisIZI8",
+            "IZI8",
+            "izi8",
+            "thisisizi8"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1017",
+          "name": "2026-08-29_A3_tommy_hilfiger_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_tommy_hilfiger_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Tommy Hilfiger",
+            "汤米希尔费格",
+            "TOMMY",
+            "tommy_hilfiger"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1018",
+          "name": "2026-08-29_A3_trussardi_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_trussardi_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Trussardi",
+            "楚萨迪",
+            "TRUSSARDI"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1019",
+          "name": "2026-08-29_A3_two_am_全维度动态",
+          "path": "wiki/sources/2026-08-29_A3_two_am_全维度动态.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "2AM",
+            "凌晨两点",
+            "two_am",
+            "Cabbeen 2AM"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1020",
           "name": "2026-08-29_adlv_国际市场扩张与联名",
           "path": "wiki/sources/2026-08-29_adlv_国际市场扩张与联名.md",
           "file_count": 1,
@@ -16957,7 +17132,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1009",
+          "id": "WIKI_S_sources_1021",
           "name": "2026-08-29_ariose_years_2025业绩与AWPROJECT高端线",
           "path": "wiki/sources/2026-08-29_ariose_years_2025业绩与AWPROJECT高端线.md",
           "file_count": 1,
@@ -16969,7 +17144,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1010",
+          "id": "WIKI_S_sources_1022",
           "name": "2026-08-29_awoken_space_资料稀缺标注",
           "path": "wiki/sources/2026-08-29_awoken_space_资料稀缺标注.md",
           "file_count": 1,
@@ -16981,7 +17156,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1011",
+          "id": "WIKI_S_sources_1023",
           "name": "2026-08-29_awoken_time_武汉潮流集合店扩张",
           "path": "wiki/sources/2026-08-29_awoken_time_武汉潮流集合店扩张.md",
           "file_count": 1,
@@ -16993,7 +17168,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1012",
+          "id": "WIKI_S_sources_1024",
           "name": "2026-08-29_cabbeen_2026H1_中报与海外扩张",
           "path": "wiki/sources/2026-08-29_cabbeen_2026H1_中报与海外扩张.md",
           "file_count": 1,
@@ -17005,7 +17180,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1013",
+          "id": "WIKI_S_sources_1025",
           "name": "2026-08-29_chuu_赵露思代言与300店",
           "path": "wiki/sources/2026-08-29_chuu_赵露思代言与300店.md",
           "file_count": 1,
@@ -17017,7 +17192,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1014",
+          "id": "WIKI_S_sources_1026",
           "name": "2026-08-29_crocs_Q2营销与樊振东代言",
           "path": "wiki/sources/2026-08-29_crocs_Q2营销与樊振东代言.md",
           "file_count": 1,
@@ -17029,7 +17204,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1015",
+          "id": "WIKI_S_sources_1027",
           "name": "2026-08-29_dekashell_运营主体注销风险",
           "path": "wiki/sources/2026-08-29_dekashell_运营主体注销风险.md",
           "file_count": 1,
@@ -17041,7 +17216,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1016",
+          "id": "WIKI_S_sources_1028",
           "name": "2026-08-29_dickies_易主Bluestar与密集联名",
           "path": "wiki/sources/2026-08-29_dickies_易主Bluestar与密集联名.md",
           "file_count": 1,
@@ -17053,7 +17228,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1017",
+          "id": "WIKI_S_sources_1029",
           "name": "2026-08-29_diesel_OTB业绩与新CEO",
           "path": "wiki/sources/2026-08-29_diesel_OTB业绩与新CEO.md",
           "file_count": 1,
@@ -17065,7 +17240,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1018",
+          "id": "WIKI_S_sources_1030",
           "name": "2026-08-29_dkny_上海首店与HaileyBieber",
           "path": "wiki/sources/2026-08-29_dkny_上海首店与HaileyBieber.md",
           "file_count": 1,
@@ -17077,7 +17252,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1019",
+          "id": "WIKI_S_sources_1031",
           "name": "2026-08-29_ellesse_鞋履全球授权与Smiley联名",
           "path": "wiki/sources/2026-08-29_ellesse_鞋履全球授权与Smiley联名.md",
           "file_count": 1,
@@ -17089,7 +17264,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1020",
+          "id": "WIKI_S_sources_1032",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -17101,7 +17276,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1021",
+          "id": "WIKI_S_sources_1033",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -17113,7 +17288,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1022",
+          "id": "WIKI_S_sources_1034",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -17125,7 +17300,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1023",
+          "id": "WIKI_S_sources_1035",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -17137,7 +17312,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1024",
+          "id": "WIKI_S_sources_1036",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -17149,7 +17324,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1025",
+          "id": "WIKI_S_sources_1037",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -17161,7 +17336,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1026",
+          "id": "WIKI_S_sources_1038",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -17173,7 +17348,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1027",
+          "id": "WIKI_S_sources_1039",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -17185,7 +17360,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1028",
+          "id": "WIKI_S_sources_1040",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -17197,7 +17372,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1029",
+          "id": "WIKI_S_sources_1041",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -17209,7 +17384,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1030",
+          "id": "WIKI_S_sources_1042",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -17221,7 +17396,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1031",
+          "id": "WIKI_S_sources_1043",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -17233,7 +17408,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1032",
+          "id": "WIKI_S_sources_1044",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -17245,7 +17420,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1033",
+          "id": "WIKI_S_sources_1045",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -17257,7 +17432,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1034",
+          "id": "WIKI_S_sources_1046",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -17269,7 +17444,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1035",
+          "id": "WIKI_S_sources_1047",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
