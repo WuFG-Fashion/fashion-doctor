@@ -9,7 +9,7 @@ aliases:
 tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina]
 sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-15
-updated: 2026-08-23
+updated: 2026-08-29
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -125,3 +125,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：A2 轮确认 [[marcelo_burlon]] 为"设计师 IP + 授权运营"样本，授权几度易手、声量靠联名；与 [[mlb]]（自有 IP 长线）形成对照，评价标注"媒体估算·低置信"。
 **信息链（刷新）**：[[2026-08-27_A2_marcelo_burlon_全维度动态]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[mlb]]
+
+## 近期动态刷新（2026-08-29 · A2 轮全维度）
+- Levi's × Marcelo Burlon County of Milan 501 upcycling 胶囊（150 周年，激光 patchwork Trucker + 551Z 日本 Kaihara 布）落地；Fila Fusion × Marcelo Burlon 联名（蔡徐坤，上海 TX 淮海）；详见 [[2026-08-29_A2_marcelo_burlon_Levi's_501联名]]。
