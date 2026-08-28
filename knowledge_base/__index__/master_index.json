@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-28",
-  "generated_at": "2026-08-28 07:09:40",
-  "total_entries": 1207,
+  "generated_at": "2026-08-28 09:36:34",
+  "total_entries": 1220,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -1165,6 +1165,23 @@
         },
         {
           "id": "WIKI_C_concepts_84",
+          "name": "产品生命周期曲线预测方法",
+          "path": "wiki/concepts/产品生命周期曲线预测方法.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "产品生命周期预测",
+            "PLC曲线预测",
+            "需求形状识别",
+            "新产品需求预测",
+            "product life cycle forecasting",
+            "trapezoid curve"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_85",
           "name": "会员与VIP运营体系2026",
           "path": "wiki/concepts/会员与VIP运营体系2026.md",
           "file_count": 1,
@@ -1176,7 +1193,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_85",
+          "id": "WIKI_C_concepts_86",
           "name": "会员复购率提升策略",
           "path": "wiki/concepts/会员复购率提升策略.md",
           "file_count": 1,
@@ -1188,7 +1205,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_86",
+          "id": "WIKI_C_concepts_87",
           "name": "全渠道会员一体化",
           "path": "wiki/concepts/全渠道会员一体化.md",
           "file_count": 1,
@@ -1200,7 +1217,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_87",
+          "id": "WIKI_C_concepts_88",
           "name": "动态OTB管理",
           "path": "wiki/concepts/动态OTB管理.md",
           "file_count": 1,
@@ -1212,7 +1229,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_88",
+          "id": "WIKI_C_concepts_89",
           "name": "品牌墙概念与代理模式",
           "path": "wiki/concepts/品牌墙概念与代理模式.md",
           "file_count": 1,
@@ -1224,7 +1241,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_89",
+          "id": "WIKI_C_concepts_90",
           "name": "商品企划体系2026",
           "path": "wiki/concepts/商品企划体系2026.md",
           "file_count": 1,
@@ -1236,7 +1253,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_90",
+          "id": "WIKI_C_concepts_91",
           "name": "商品分析四层级框架",
           "path": "wiki/concepts/商品分析四层级框架.md",
           "file_count": 1,
@@ -1248,7 +1265,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_91",
+          "id": "WIKI_C_concepts_92",
           "name": "商品运营进销存分析",
           "path": "wiki/concepts/商品运营进销存分析.md",
           "file_count": 1,
@@ -1260,7 +1277,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_92",
+          "id": "WIKI_C_concepts_93",
           "name": "导购培训闭环体系",
           "path": "wiki/concepts/导购培训闭环体系.md",
           "file_count": 1,
@@ -1272,7 +1289,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_93",
+          "id": "WIKI_C_concepts_94",
           "name": "导购能力评估与赋能体系2026",
           "path": "wiki/concepts/导购能力评估与赋能体系2026.md",
           "file_count": 1,
@@ -1284,7 +1301,58 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_94",
+          "id": "WIKI_C_concepts_95",
+          "name": "库存三大核心指标",
+          "path": "wiki/concepts/库存三大核心指标.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存三大指标",
+            "周转率",
+            "动销率",
+            "呆滞率",
+            "库存周转",
+            "inventory turnover rate",
+            "sell-through active rate",
+            "dead stock rate"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_96",
+          "name": "库存与进销存关系",
+          "path": "wiki/concepts/库存与进销存关系.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存与进销存",
+            "库存vs进销存",
+            "进销存守恒公式",
+            "期末期初滚动衔接",
+            "inventory vs in-out-stock"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_97",
+          "name": "库存多维分析框架",
+          "path": "wiki/concepts/库存多维分析框架.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存分析框架",
+            "库存多维分析",
+            "库存价值结构库龄动销",
+            "库存周转分析表体系",
+            "inventory analysis framework"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_98",
           "name": "库存清仓策略",
           "path": "wiki/concepts/库存清仓策略.md",
           "file_count": 1,
@@ -1296,7 +1364,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_95",
+          "id": "WIKI_C_concepts_99",
           "name": "店铺规划与过货",
           "path": "wiki/concepts/店铺规划与过货.md",
           "file_count": 1,
@@ -1308,7 +1376,31 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_96",
+          "id": "WIKI_C_concepts_100",
+          "name": "数据分析九大模型框架",
+          "path": "wiki/concepts/数据分析九大模型框架.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "数据分析九大模型",
+            "分析模型框架",
+            "按问题选模型",
+            "对比分析",
+            "驱动分析",
+            "结构分析",
+            "Pareto",
+            "漏斗模型",
+            "同期群分析",
+            "RFM分析",
+            "归因分析",
+            "A/B测试",
+            "data analysis models"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_101",
           "name": "服装价格带管理与价格真空区",
           "path": "wiki/concepts/服装价格带管理与价格真空区.md",
           "file_count": 1,
@@ -1320,7 +1412,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_97",
+          "id": "WIKI_C_concepts_102",
           "name": "服装企划趋势渠道",
           "path": "wiki/concepts/服装企划趋势渠道.md",
           "file_count": 1,
@@ -1332,7 +1424,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_98",
+          "id": "WIKI_C_concepts_103",
           "name": "服装行业竞争格局",
           "path": "wiki/concepts/服装行业竞争格局.md",
           "file_count": 1,
@@ -1344,7 +1436,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_99",
+          "id": "WIKI_C_concepts_104",
           "name": "服装采购渠道选型2026",
           "path": "wiki/concepts/服装采购渠道选型2026.md",
           "file_count": 1,
@@ -1356,7 +1448,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_100",
+          "id": "WIKI_C_concepts_105",
           "name": "服装门店经营AI化2026",
           "path": "wiki/concepts/服装门店经营AI化2026.md",
           "file_count": 1,
@@ -1368,7 +1460,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_101",
+          "id": "WIKI_C_concepts_106",
           "name": "柔性供应链与商品企划",
           "path": "wiki/concepts/柔性供应链与商品企划.md",
           "file_count": 1,
@@ -1380,7 +1472,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_102",
+          "id": "WIKI_C_concepts_107",
           "name": "男装品牌竞争格局2026Q1",
           "path": "wiki/concepts/男装品牌竞争格局2026Q1.md",
           "file_count": 1,
@@ -1392,7 +1484,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_103",
+          "id": "WIKI_C_concepts_108",
           "name": "目标与时间管理",
           "path": "wiki/concepts/目标与时间管理.md",
           "file_count": 1,
@@ -1404,7 +1496,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_104",
+          "id": "WIKI_C_concepts_109",
           "name": "订货会决策框架",
           "path": "wiki/concepts/订货会决策框架.md",
           "file_count": 1,
@@ -1416,7 +1508,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_105",
+          "id": "WIKI_C_concepts_110",
           "name": "销售九部曲",
           "path": "wiki/concepts/销售九部曲.md",
           "file_count": 1,
@@ -1428,7 +1520,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_106",
+          "id": "WIKI_C_concepts_111",
           "name": "面料知识与洗涤保养",
           "path": "wiki/concepts/面料知识与洗涤保养.md",
           "file_count": 1,
@@ -16432,6 +16524,20 @@
         },
         {
           "id": "WIKI_S_sources_977",
+          "name": "2026-08-28_15个库存周转分析表",
+          "path": "wiki/sources/2026-08-28_15个库存周转分析表.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存周转分析表体系",
+            "库存预警治理",
+            "库龄监控表"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_978",
           "name": "2026-08-28_A1_dickies_Bluestar后质量与授权扰动",
           "path": "wiki/sources/2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md",
           "file_count": 1,
@@ -16443,7 +16549,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_978",
+          "id": "WIKI_S_sources_979",
           "name": "2026-08-28_A1_diesel_马年胶囊与首发行李箱",
           "path": "wiki/sources/2026-08-28_A1_diesel_马年胶囊与首发行李箱.md",
           "file_count": 1,
@@ -16455,7 +16561,108 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_979",
+          "id": "WIKI_S_sources_980",
+          "name": "2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价",
+          "path": "wiki/sources/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价",
+            "PVH CFO更替与分析师降级",
+            "Tommy Hilfiger 卖方重定价"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_981",
+          "name": "2026-08-28_产品生命周期曲线预测",
+          "path": "wiki/sources/2026-08-28_产品生命周期曲线预测.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "产品生命周期预测",
+            "PLC曲线预测",
+            "需求形状识别",
+            "新产品需求预测"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_982",
+          "name": "2026-08-28_库存三大核心指标",
+          "path": "wiki/sources/2026-08-28_库存三大核心指标.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存三大指标",
+            "周转率动销率呆滞率",
+            "库存健康三指标"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_983",
+          "name": "2026-08-28_库存与进销存区别",
+          "path": "wiki/sources/2026-08-28_库存与进销存区别.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存与进销存区别",
+            "库存vs进销存",
+            "进销存守恒公式",
+            "期末期初滚动衔接"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_984",
+          "name": "2026-08-28_库存周转率深度解读",
+          "path": "wiki/sources/2026-08-28_库存周转率深度解读.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存周转率",
+            "库存周转天数",
+            "inventory turnover rate"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_985",
+          "name": "2026-08-28_库存多维分析框架",
+          "path": "wiki/sources/2026-08-28_库存多维分析框架.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存分析框架",
+            "库存价值结构库龄动销",
+            "库存六步分析法"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_986",
+          "name": "2026-08-28_数据分析九大模型框架",
+          "path": "wiki/sources/2026-08-28_数据分析九大模型框架.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "数据分析九大模型",
+            "分析模型框架",
+            "按问题选模型",
+            "对比驱动结构Pareto漏斗同期群RFM归因AB"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_987",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -16467,7 +16674,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_980",
+          "id": "WIKI_S_sources_988",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -16479,7 +16686,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_981",
+          "id": "WIKI_S_sources_989",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -16491,7 +16698,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_982",
+          "id": "WIKI_S_sources_990",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -16503,7 +16710,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_983",
+          "id": "WIKI_S_sources_991",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -16515,7 +16722,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_984",
+          "id": "WIKI_S_sources_992",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -16527,7 +16734,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_985",
+          "id": "WIKI_S_sources_993",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -16539,7 +16746,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_986",
+          "id": "WIKI_S_sources_994",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -16551,7 +16758,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_987",
+          "id": "WIKI_S_sources_995",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -16563,7 +16770,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_988",
+          "id": "WIKI_S_sources_996",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -16575,7 +16782,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_989",
+          "id": "WIKI_S_sources_997",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -16587,7 +16794,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_990",
+          "id": "WIKI_S_sources_998",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -16599,7 +16806,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_991",
+          "id": "WIKI_S_sources_999",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -16611,7 +16818,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_992",
+          "id": "WIKI_S_sources_1000",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -16623,7 +16830,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_993",
+          "id": "WIKI_S_sources_1001",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -16635,7 +16842,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_994",
+          "id": "WIKI_S_sources_1002",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
