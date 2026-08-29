@@ -4,9 +4,9 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -112,3 +112,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 
 **结论（织入）**：Ellesse 隶属 Pentland，NBL 获鞋履全球授权(2026-02翻倍目标)，Smiley/Michael Kors 联名延续运动时尚复古势能；是品牌墙中'授权扩张+联名'双轮驱动样本。
 **信息链（织入）**：[[2026-08-29_ellesse_鞋履全球授权与Smiley联名]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[crocs]]
+
+## A1轮全维度采集织入（2026-08-30）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「美国市场回归」维度信号见 [[2026-08-30_ellesse_美国市场回归]]。
+- **一句话摘要**：Pentland 2025-06 与 Iconic Brands Corp 签美国长期授权，ellesse 2026 夏系列以电商+达拉斯总部+年末旗舰店回归美国，并合作 Cincinnati Open 网球赛（官方服装伙伴）。
+
+**结论（织入）**：ellesse 借 Pentland 区域授权以'美国子公司+电商+赛事赞助'重建退出多年的美国市场，Smiley 联名+Cincinnati Open 双线强化复古运动定位；与 [[品牌墙概念与代理模式]]、[[dickies]] 形成品牌墙操盘对照。
+**信息链（织入）**：[[2026-08-30_ellesse_美国市场回归]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]]

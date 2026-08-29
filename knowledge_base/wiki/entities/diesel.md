@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO, 2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -119,3 +119,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：Diesel 母公司 OTB 2025营收€1.6bn(-5%)但 Diesel 实现十年最佳盈利，Andrea Rigogliosi 任新 CEO(2026-01)；品牌进入'盈利修复+新领导层'周期，是品牌墙中修复向好的样本。
 **信息链（织入）**：[[2026-08-29_diesel_OTB业绩与新CEO]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-30）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「OTB 2025 利润额 + AI 试穿」维度信号见 [[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]]。
+- **一句话摘要**：OTB 2025 营收约 €1.7B（-4.8%）、消除净债务，Diesel 贡献 €44M 利润（十年最佳年）；Andrea Rigogliosi 2026-01-14 任 Diesel CEO；OTB × Google Cloud AI Try-On 以 Diesel 首发。
+
+**结论（织入）**：Diesel 在 Martens 创意复兴+批发清理+柏林/首尔新店下走出十年最佳年；OTB×Google Cloud AI 试穿(Diesel首发)是奢侈品集团级零售科技落地，与 [[零售AI试穿与虚拟穿搭2026]] 呼应、与 [[cabbeen]] AI 规划对照。
+**信息链（织入）**：[[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[零售AI试穿与虚拟穿搭2026]]

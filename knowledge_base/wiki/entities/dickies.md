@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
@@ -124,3 +124,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：Dickies 被 VF 以6亿美元售予 Bluestar Alliance(2025-09)，2026密集联名(UNION/White Mountaineering/哈雷)重启潮流叙事；所有权更迭后品牌运营策略转向'联名驱动'需持续跟踪。
 **信息链（织入）**：[[2026-08-29_dickies_易主Bluestar与密集联名]] → 本页（[[dickies]]） → 下游 [[服装行业竞争格局]] / [[crocs]]
+
+## A1轮全维度采集织入（2026-08-30）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「Pitti Uomo 2027 首秀 + 英爱批发」维度信号见 [[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]]。
+- **一句话摘要**：Bluestar 操盘下 Dickies 2026-05 米兰"From Industry to Icon" takeover 发布 SS2027、2026-06 亮相 Pitti Uomo（155㎡ 专属空间）、2026-07 任命英爱批发伙伴，重启文化驱动增长并补强女装线。
+
+**结论（织入）**：Dickies 被 Bluestar 以'文化事件+ trade show 首秀+区域批发伙伴'组合拳重启欧洲增长，SS2027 明补女装线；与 [[品牌墙概念与代理模式]] 直接关联，是品牌被品牌管理公司收购后重启样本。
+**信息链（织入）**：[[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]] → 本页（[[dickies]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]]

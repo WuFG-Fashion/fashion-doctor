@@ -976,3 +976,19 @@ updated: 2026-08-28
 | [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]] | source | multi_brand_unified_analytics / 服装行业竞争格局 | 媒体估算 | false |
 | [[brand_level_data_analysis_gap_matrix]] | practice | cabbeen / peacebird / crocs / 服装行业竞争格局 | — | — |
 | [[multi_brand_unified_analytics]] | practice(更新) | focus_brands 36 品牌 / DuckLake / 数据质量可观测性 / 中台案例 | — | — |
+
+---
+
+## 本轮新增（2026-08-30 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：7 真新增 / 5 显式无新增（非静默跳过）。7 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（crocs→[[服装价格带管理与价格真空区]]、dekashell→[[品牌墙概念与代理模式]]、dickies→[[品牌墙概念与代理模式]]、diesel→[[零售AI试穿与虚拟穿搭2026]]/[[品牌墙概念与代理模式]]、ellesse→[[服装行业竞争格局]]、ariose_years→[[品牌墙概念与代理模式]]、chuu→[[服装价格带管理与价格真空区]]/[[品牌墙概念与代理模式]]），无孤岛。5 无新增品牌（cabbeen/adlv/dkny/awoken_space/awoken_time）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea]] | ariose_years | 媒体估算 | true |
+| [[2026-08-30_chuu_赵露思同款质量舆情]] | chuu | 媒体估算 | true |
+| [[2026-08-30_crocs_Q2财报电话会财务细节]] | crocs | 财报 | true |
+| [[2026-08-30_dekashell_向星实业900店运营主体疑云]] | dekashell | 媒体估算 | true |
+| [[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]] | dickies | 品牌自宣 | true |
+| [[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] | diesel | 第三方数据 | true |
+| [[2026-08-30_ellesse_美国市场回归]] | ellesse | 媒体估算 | true |
