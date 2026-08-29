@@ -8,9 +8,9 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md, 2026-08-29_ariose_years_2025业绩与AWPROJECT高端线]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md, 2026-08-29_ariose_years_2025业绩与AWPROJECT高端线, 2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
 ---
 
@@ -161,3 +161,11 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 
 **结论（织入）**：艾诺丝(ARIOSE YEARS)2025营收约50亿、1800+店，2026推重奢线 AW PROJECT(上海港汇恒隆首日60万)上探价格带；杭州爱唯时尚集团操盘，是重点补充女装中'轻淑→重奢'升级路径的代表。
 **信息链（织入）**：[[2026-08-29_ariose_years_2025业绩与AWPROJECT高端线]] → 本页（[[ariose_years]]） → 下游 [[服装行业竞争格局]] / [[dekashell]]
+
+## A1轮全维度采集织入（2026-08-30）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增信号见 [[2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea]]。
+- **一句话摘要**：AW PROJECT 重奢首店（上海港汇恒隆首日 60 万）2026H1 加码北京 SKP/深圳万象城/南京德基；主品牌 2025 底 1,700+ 店/约 50 亿；母公司爱唯时尚集团 2026-03 孵化石蕊级新锐 RicoVea（成都 IFS 首店、二季度 10+ 新店）接棒走低 CHUU 热度。
+
+**结论（织入）**：艾诺丝以"主品牌(中淑)+AW PROJECT(重奢)+RicoVea(新锐设计师)"三层梯队对抗行业分化，是女装'轻淑→重奢升级 + 多品牌矩阵'的代表路径，需跟踪重奢线毛利贡献与 RicoVea 存活。
+**信息链（织入）**：[[2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea]] → 本页（[[ariose_years]]） → 下游 [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]] / [[dekashell]]
