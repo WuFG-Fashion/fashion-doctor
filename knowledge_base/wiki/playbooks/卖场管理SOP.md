@@ -56,6 +56,8 @@ brand_specific: false
 - 概念：[[kpi_benchmark]] ｜ [[sell_through_examination_standard_2026]]
 - 来源：[[2026-08-25_human_卖场建设8大项]] ｜ [[2026-08-25_human_卖场形象标准]] ｜ [[2026-08-25_human_卖场氛围营造]] ｜ [[2026-08-25_human_卖场温度计]] ｜ [[2026-08-25_human_卖场管理]]
 
+
+- [[店长现场与会议管理]]
 ## 信息链
 
 上游来源：human 卖场五课件 → 本页（playbook 卖场管理SOP）→ 下游应用：[[导购团队管理SOP]]（巡店）、[[sell_through_examination_standard_2026]]（售罄率口径）、[[店铺规划与过货]]（陈列衔接）

@@ -513,3 +513,6 @@ SELECT * FROM sales ORDER BY ROWID LIMIT 10;
 
 ## 关联页面
 - [[2026-08-25_human_EXCLE学习]] — EXCLE学习（Excel基础认知）
+
+- [[2026-08-25_human_前台销售输机管理]]
+- [[店铺运营制度]]

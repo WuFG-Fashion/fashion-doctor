@@ -5,10 +5,10 @@ aliases:
   - "楚萨迪"
   - "托鲁纱缔"
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
-sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md, 2026-08-29_A3_trussardi_全维度动态.md]
+sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md, 2026-08-29_A3_trussardi_全维度动态.md, 2026-08-30_A3_trussardi_2026零售扩张与鞋履授权.md]
 created: 2026-08-14
-updated: 2026-08-29
-cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]]
+updated: 2026-08-30
+cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]], [[2026-08-30_A3_trussardi_2026零售扩张与鞋履授权]]
 ---
 
 # Trussardi

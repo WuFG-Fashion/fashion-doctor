@@ -288,3 +288,5 @@ DuckDB Labs 给出三层查询优化栈，与本项目"款号/色号/门店编�
 - [[sku_inventory_sql_operations]]
 
 - [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]
+
+- [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]

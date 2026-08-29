@@ -68,6 +68,8 @@ DuckDB 调优三件套：`SET threads=8`（并行）、Zstd 解压加速（压�
 - [[retail_data_workflow_2026]]
 - [[data_library_selection_guide_2026|数据分析库选型决策指南2026]]
 
+
+- [[multi_brand_unified_analytics]]
 ## 待办 / 待验证
 
 - Johal 基准的 Pandas 3.0.1 与既有库中 Polars vs Pandas 数据（08-12 源 Join 12.4x）口径不同（本轮为三引擎全谱对比），非矛盾，注意引用时标注基准集。

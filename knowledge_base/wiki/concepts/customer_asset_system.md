@@ -102,3 +102,5 @@ brand_specific: false
 - [[3c_operation_system]] — 3C 经营体系（客资是其子系统）
 - [[weifu_consulting]] — 韦孚咨询实体
 - [[retail_sales_force_system]] — 销售力体系（前身）
+
+- [[2021-05-20_李炳辰3C商品零售体系]]

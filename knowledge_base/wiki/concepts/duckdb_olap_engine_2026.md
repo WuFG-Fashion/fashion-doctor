@@ -346,3 +346,5 @@ DuckDB 生产调优三层栈：**L1 文件级 Hive 分区+Glob（10–365x）/ L
 - [[semantic_layer_metrics_2026]]
 
 - [[2026-08-12_DuckDB官方_查询性能调优三层级实战]]
+
+- [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]

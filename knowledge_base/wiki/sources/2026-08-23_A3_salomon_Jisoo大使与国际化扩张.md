@@ -52,3 +52,5 @@ cross_refs: [[salomon]], [服装行业竞争格局], [ai_fashion_market_2026], [
 - [[ai_fashion_market_2026]]
 - [[peacebird]]
 - [[cabbeen]]
+
+- [[2026-08-26_A3_salomon_北京双旗舰落地]]

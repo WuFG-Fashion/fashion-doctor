@@ -315,3 +315,7 @@ Materialized View 打平嵌套 → Python Client 触发 profile scan
 
 - [[2026-08-15_Agentic_Commerce_2026结构化产品数据成胜负手]]
 - [[brand_ops_data_infra_2026]]
+
+- [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]]
+- [[2026-08-26_太平鸟数字化与数据分析体系2026]]
+- [[库存与进销存关系]]

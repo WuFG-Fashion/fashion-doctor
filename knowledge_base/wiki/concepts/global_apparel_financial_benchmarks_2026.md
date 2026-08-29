@@ -144,3 +144,6 @@ cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_i
 - [[2026-08-21_A2_levis_全维度动态]]
 - [[2026-08-21_A2_mlb_全维度动态]]
 - [[中国服装零售基准体系2026]]
+
+- [[2026-08-26_A2_etudes_SS27大秀与品牌升级]]
+- [[2026-08-26_A2_g_star_raw_FW26_ARC回归]]

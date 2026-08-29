@@ -111,3 +111,8 @@ ORDER BY sales_30d ASC;
 - [[SQL查询性能优化]]
 - [[动态OTB管理]]
 - [[零售数据仓库SQL实践]]
+
+## 关联页面
+
+- [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
+- [[retail_bi_three_tier_dashboard]]

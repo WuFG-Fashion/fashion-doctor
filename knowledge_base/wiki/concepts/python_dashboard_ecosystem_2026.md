@@ -146,3 +146,5 @@ _（AI 将基于本页数据提炼 2–4 条结论洞察；规范见 [CLAUDE.md]
 - [[2026-07-22_Streamlit_v1.59.0]]
 - [[multi_brand_unified_analytics]]
 - [[streamlit_production_dashboard]]
+
+- [[2026-08-23_数据可视化进阶8种图表_标题级]]

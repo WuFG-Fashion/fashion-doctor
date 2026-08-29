@@ -293,3 +293,5 @@ SegmentFault 2026年3月对Kettle/DataX/Informatica/DataStage/FineDataLink/ETLCl
 - [[polars_vs_pandas_2026]]
 - [[python_dashboard_ecosystem_2026]]
 - [[零售数据仓库SQL实践]]
+
+- [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]]

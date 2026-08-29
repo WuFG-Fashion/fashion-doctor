@@ -132,3 +132,5 @@ WHERE sale_date = '2026-06-06';
 - [[python_dashboard_ecosystem_2026]]
 - [[python_sql_integration_patterns_2026]]
 - [[2026-08-25_human_EXCLE学习]] — EXCLE学习（Excel基础认知）
+
+- [[2026-08-25_human_前台销售输机管理]]

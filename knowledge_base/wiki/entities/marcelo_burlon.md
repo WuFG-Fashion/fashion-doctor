@@ -7,9 +7,9 @@ aliases:
   - "MB"
   - "马尔塞罗·布尔隆"
 tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina]
-sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_marcelo_burlon_NGG破产保护与Coupang风险链.md]
 created: 2026-08-15
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -128,3 +128,16 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 ## 近期动态刷新（2026-08-29 · A2 轮全维度）
 - Levi's × Marcelo Burlon County of Milan 501 upcycling 胶囊（150 周年，激光 patchwork Trucker + 551Z 日本 Kaihara 布）落地；Fila Fusion × Marcelo Burlon 联名（蔡徐坤，上海 TX 淮海）；详见 [[2026-08-29_A2_marcelo_burlon_Levi's_501联名]]。
+
+## 近期动态刷新（2026-08-30 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[marcelo_burlon]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-30_A2_marcelo_burlon_NGG破产保护与Coupang风险链]]。
+
+- **⚠️ 母公司破产保护（本轮重大新增）**：经营主体 **New Guards Group（NGG）于 2024-11 在意大利申请进入破产保护程序**，直接触发为**失去 Reebok 欧洲市场分销许可权** + 财务困境（置信度：媒体估算）。NGG 是 MB 的设计/生产/批发/电商执行主体，程序约束直接传导至账期与履约。
+- **所有权链（新增）**：Coupang 已收购 Greenoaks 在 **Surpique LP**（原 Athena Topco LP）的全部股权，成为 Farfetch 资产**唯一所有者**；Farfetch 关闭洛杉矶/中国香港/莫斯科办公室，东京与迪拜缩至骨干，**人员腰斩至约 3,000 人（2026 年初）**，目标为在原 $5 亿承诺外**自筹资金、不再追加投资**（置信度：官方公告/媒体估算）。
+- **母体财务（新增）**：Coupang Q1 2026（SEC 8-K）总营收 **$85.04 亿 +8%**，但**营业亏损 $2.42 亿**（去年同期营业利润 $1.54 亿）、调整后 EBITDA 仅 $0.29 亿（-449bps）；含 Farfetch 的 **Developing Offerings 分部营收 $13.28 亿 +28%、分部调整后 EBITDA -$3.29 亿（亏损同比扩大 96%）**（置信度：官方公告）。
+- **创始人体系已出局（核验）**：2023-06 创办人 Davide De Giglio 退出经营团队；**Heron Preston 已收回自有品牌全部权利、退出 NGG 组合**（置信度：媒体估算）。
+- **Off-White 结构（新增·口径存疑）**：LVMH 持 60% IP、Farfetch 40%；NGG 授权经销名义期限**至 2035 年底**，另一口径为"至少至 2026 年"——知识库采信**保守口径**，见新页矛盾标记（置信度：媒体估算）。
+
+**结论（刷新）**：A2 轮把 [[marcelo_burlon]] 从"上升期轻奢潮牌"重分类为 [[brand_risk_signals_2026]] 的「**母体受限型**」。风险不在产品（黑白羽翼辨识度仍强，T 恤 600-1,000 元 / 卫衣外套 2,000-3,000 元），而在**四层母体资金链同时收紧**：L1 创始人出局 → L2 破产保护 → L3 裁员腰斩 → L4 明确不追加投资。两条方法论产出：①**"设计师赎回品牌"是比财报更灵敏的先行指标**（Heron Preston 已走），应作为哨兵持续监测；②评估品牌韧性时**"渠道广度"是伪指标**，真指标是"渠道控制权 × 资金自主度"——[[king_baby]] 仅 4 城但全自控，MB 渠道广但每层都不由自己决定，建议 [[brand_store_channel_2026]] 增设该维度。未来 12 个月对 MB 的合理预期是横盘或收缩，不是复苏。
+**信息链（刷新）**：[[2026-08-30_A2_marcelo_burlon_NGG破产保护与Coupang风险链]]（来源摘要） → 本页（[[marcelo_burlon]]） → 下游 [[brand_risk_signals_2026]] / [[king_baby]] / [[brand_store_channel_2026]] / [[服装行业竞争格局]]

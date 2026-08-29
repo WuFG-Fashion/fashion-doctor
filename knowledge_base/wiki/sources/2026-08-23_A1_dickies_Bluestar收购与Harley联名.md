@@ -45,3 +45,5 @@ cross_refs: [[dickies]], [[服装行业竞争格局]], [[品牌墙概念与代�
 
 > **置信度**：官方公告（VF→Bluestar 出售为交易公告；UTG 中国授权为授权公告；Harley 联名为品牌官宣，置信度：品牌自宣）。
 > **brand_specific**：true（Dickies 品牌特有资本/渠道数据，双链至 [[dickies]]）
+
+- [[2026-08-16_dickies_2025-2026全维度复核]]

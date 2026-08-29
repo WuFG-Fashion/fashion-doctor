@@ -50,3 +50,5 @@ cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[peacebird]], [[c
 
 - [[2026-08-19_A3_tommy_hilfiger_全维度动态]]
 - [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]]
+
+- [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]

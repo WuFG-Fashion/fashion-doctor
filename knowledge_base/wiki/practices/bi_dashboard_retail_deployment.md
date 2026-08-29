@@ -193,3 +193,6 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 
 - [[2026-07-09_CSDN_全渠道BI三层架构]]
 - [[streamlit_dashboard_2026]]
+
+- [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
+- [[retail_bi_three_tier_dashboard]]

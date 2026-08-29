@@ -46,5 +46,7 @@ cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]]
 ## 关联页面
 [[tommy_hilfiger]] / [[2026-08-19_A3_tommy_hilfiger_全维度动态]] / [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]] / [[speedo]] / [[peacebird]] / [[服装行业竞争格局]]
 
+
+- [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
 ## 待办 / 待验证
 > ℹ️ **待验证**：① 2500 万+1000 万营销费用在 CK 与 Tommy 间的分配比例；② Peanuts 联名是否进入中国市场；③ Cadillac F1 联名的中国零售落地渠道；④ 全年 EPS 指引 6.44-6.54 的汇率与税费假设；⑤ EPS 1.52 vs 2.01 的 GAAP/adjusted 口径差异确认。

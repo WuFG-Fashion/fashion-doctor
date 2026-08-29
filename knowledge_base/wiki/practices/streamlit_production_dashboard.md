@@ -425,3 +425,6 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 - [[python_dev_stack_2026]]
 
 - [[2026-08-12_Streamlit_企业级架构与生产部署路线]]
+
+- [[retail_bi_three_tier_dashboard]]
+- [[streamlit_multitab]]

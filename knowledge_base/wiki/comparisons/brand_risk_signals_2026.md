@@ -116,3 +116,5 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [
 - [[2026-08-16_ellesse_2025-2026全维度复核]]
 - [[brand_gross_margin_2026]]
 - [[brand_store_channel_2026]]
+
+- [[tommy_hilfiger]]

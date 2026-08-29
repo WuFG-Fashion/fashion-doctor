@@ -48,5 +48,7 @@ cross_refs: [[tommy_hilfiger]], [2026-08-21_A3_tommy_hilfiger_营销联名矩阵
 ## 关联页面
 [[tommy_hilfiger]] / [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]] / [[nautica]] / [[trussardi]] / [[peacebird]] / [[服装行业竞争格局]]
 
+
+- [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
 ## 待办 / 待验证
 > ℹ️ **待验证**：① 618 TOP5 的具体 GMV 绝对值与品类结构；② $70M 关税冲击在 H2 的转嫁/吸收进度；③ APAC 下滑是否在 Q3 触底；④ 加投营销在 CK 与 Tommy 间的分配；⑤ 库存 +13% 的库龄与减值风险。

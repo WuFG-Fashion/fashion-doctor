@@ -177,3 +177,5 @@ result = duckdb.sql("""
 - [[streamlit_production_dashboard]]
 
 - [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]]
+
+- [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]
