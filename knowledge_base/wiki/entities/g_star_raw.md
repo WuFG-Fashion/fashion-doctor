@@ -7,9 +7,9 @@ aliases:
   - "极星"
   - "G-STAR"
 tags: [g_star_raw, competitor, denim, premium_denim, netherlands]
-sources: [2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_g_star_raw_济南城市限定与NFC溯源.md]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-30
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -149,3 +149,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 ## 近期动态刷新（2026-08-29 · A2 轮全维度）
 - 新创意总监 Botter 创始人 Lisi Herrebrugh & Rushemy Botter 操刀 FW26「Spotlight Returns」：RAW RESEARCH 实验线 + ARCHETYPES 档案线 + Arc 牛仔裤（2007 经典近 20 年回归），女装置于核心；详见 [[2026-08-29_A2_g_star_raw_Botter创意总监]]。
+
+## 近期动态刷新（2026-08-30 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[g_star_raw]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-30_A2_g_star_raw_济南城市限定与NFC溯源]]。
+
+- **营销/社群（新增）**：济南 Gathering Day 推出 **Jinancow 城市限定系列**，以城市符号 × RAW 牛仔基因做区域稀缺性运营（置信度：品牌自宣）。
+- **产品技术（新增）**：限定单品内置 **NFC 芯片**，扫码可读面料来源/工艺工序/可持续参数，把环保叙事变为可验证凭据（置信度：品牌自宣）。
+- **价格上探（新增）**：南非 **Exclusives by G-Star RAW 第三季**，价格带 **R4,999–R9,999**（约 ¥2,000–¥4,000）（置信度：媒体估算）。
+- **门店渠道（核验一致）**：中国大陆约 **150 家门店 / 60+ 城市**，与 08-26 口径一致，无净增净关公告（置信度：媒体估算）。
+
+**结论（刷新）**：A2 轮确认 [[g_star_raw]] 走的是"**中等门店体量 + 城市颗粒度稀缺性**"路线，与 [[levis]] 的"DTC 占比 51% 规模化定价权"形成分岔；NFC 溯源本质是**用环保叙事换第一方数据**，比发券建档更低成本、更抗反感，对区域市场为主的 [[peacebird]]/[[cabbeen]] 具可迁移性。
+**信息链（刷新）**：[[2026-08-30_A2_g_star_raw_济南城市限定与NFC溯源]]（来源摘要） → 本页（[[g_star_raw]]） → 下游 [[levis]] / [[customer_asset_system]] / [[brand_store_channel_2026]] / [[服装行业竞争格局]]
