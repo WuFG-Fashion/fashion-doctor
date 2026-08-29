@@ -4,10 +4,10 @@ title: 多品牌统一数据分析架构
 aliases:
   - "multi brand unified analytics"
 tags: [multi_brand, analytics, architecture, data_integration, dashboard, etl, data_governance]
-sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026, 2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准, 2026-08-26_多品牌零售数据中台与全域用户治理实践2026, 2026-08-26_太平鸟数字化与数据分析体系2026]
+sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_07_03), 2026-06-10_FineDataLink_ETL选型避坑2026, 2026-06-11_FineDataLink_数据中台搭建方案2026, 2026-06-14_FineDataLink_2026数据中台赋能服装零售.md, 2026-06-24_SegmentFault_2026主流ETL工具横向评测, 2026-06-27_IT之家_2026年5月数据治理选型指南, 2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作, 2026-07-03_IT之家_鹿映星河AI时尚智能镜, 2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026, 2026-07-25_未央网_cww_数据治理DataAgent新范式2026, 2026-07-28_WAIC2026_多点数智_零售AI智能体, 2026-07-31_湖仓一体Lakehouse_2026主流方案选型, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026, 2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准, 2026-08-26_多品牌零售数据中台与全域用户治理实践2026, 2026-08-26_太平鸟数字化与数据分析体系2026, 2026-08-29_DuckLake_1.0_数据湖格式生产就绪, 2026-08-29_零售数据质量可观测性_Great_Expectations_dbt, 2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]
 created: 2026-06-07
 updated: 2026-08-26
-cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[semantic_layer_metrics_2026|语义层与指标层2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
+cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[semantic_layer_metrics_2026|语义层与指标层2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]], [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]], [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]], [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]], [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]
 ---
 
 # 多品牌统一数据分析架构
@@ -503,14 +503,24 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 
 - [[peacebird]]
 
+- [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]
+- [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]]
+- [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]]
+- [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]]
+
+
+- [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
+- [[retail_bi_three_tier_dashboard]]
+- [[streamlit_multitab]]
 ## C轮更新（2026-08-26）：以 focus_brands 35 品牌为被分析对象 + 品牌级查漏
 
 > 来源：[[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] / [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]] / [[2026-08-26_太平鸟数字化与数据分析体系2026]]
 
 ### 被分析对象明确化（品牌感知硬性要求）
 
-本系统（多品牌统一数据分析架构）的**被分析对象 = kb_benchmarks.json 的 focus_brands 35 品牌**：
+本系统（多品牌统一数据分析架构）的**被分析对象 = kb_benchmarks.json 的 focus_brands 36 品牌**（较 2026-08-26 记 35 新增 `humble_humble_r`，已全库同步修正）：
 - **双核**：[[cabbeen]]（HK 02030，2026H1 营收 4.53 亿/毛利 46.3%/门店 573/售罄率 73.8%@25秋冬）+ [[peacebird]]（2026H1 营收 28.78 亿/门店 2861/毛利 61.2%）
+- **第三家财报级品牌**：[[crocs]]（NASDAQ:CROX，Q2'26 营收 11.79 亿/毛利 59.4%）——可作为双核之外的跨品牌财报对标锚点
 - **品牌墙 26 品牌**（trussardi/mr_mrs/marcelo_burlon/diesel/g_star_raw/dkny/tommy_hilfiger/lacoste/levis/salomon/speedo/hoka_one_one/ellesse/mlb/nerdy/crocs/adlv/chuu/no_one_else/thisisizi8/awoken_space/awoken_time/the_mr_young/two_am/nautica/etudes 等）
 - **重点女装补充**：ariose_years（艾诺丝）、dekashell（迪卡轩）
 
@@ -541,4 +551,32 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 | Pandas 3.0.1 | 42.1s | 210.5s | 380.2s | $0.18 | 生态兼容层（scikit-learn 等） |
 | Spark 4.0.2 | 18.7s | 89.3s | 165.4s | $0.45 | >100GB 才考虑 |
 
-> 结论：35 品牌明细级数据量在 10GB 以下量级，**Polars + DuckDB 双引擎即满足全场景**，无需引入 Spark/Fivetran/Snowflake 重型云栈（对照 Johal 案例自托管省 82% 成本、p99 降 20 倍）。
+> 结论：36 品牌明细级数据量在 10GB 以下量级，**Polars + DuckDB 双引擎即满足全场景**，无需引入 Spark/Fivetran/Snowflake 重型云栈（对照 Johal 案例自托管省 82% 成本、p99 降 20 倍）。
+
+## 2026-08-29 C轮补强（focus_brands 36 + 品牌级查漏闭环）
+
+> 来源：[[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]] / [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]] / [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]] / [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]
+
+### 1. 被分析对象计数修正 35 → 36
+`kb_benchmarks.json` 的 focus_brands 已由 35 增至 **36**（新增 `humble_humble_r`），本页与 [[brand_level_data_analysis_gap_matrix|缺口矩阵]] 全库同步修正，避免 S轮合成时口径分裂。
+
+### 2. 存储层新候选：DuckLake 1.0（2026-04 生产就绪）
+- 元数据进 SQL 库（PostgreSQL/SQLite/DuckDB），小文件写入密集负载宣称比 Iceberg **926× 查询 / 105× 摄入**（厂商自测，置信度：媒体估算，须 POC 复现）。
+- 对本项目映射：36 品牌 POS/会员事件流属"大量小写入"负载，正是 DuckLake 优势区间；但须与现有 Iceberg/StarRocks 路线做对照 benchmark，暂作**并存备选**而非立即替换。
+- 详见 [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]]。
+
+### 3. 入闸校验补强（数据质量可观测性）
+- 多品牌系统数据质量胜负在**入闸**：dbt tests / Great Expectations / Soda 固化校验（schema 漂移/空值率/分布偏移告警），IBM 测算入闸捕获成本仅生产暴露的 1/10。
+- 映射：复用 [[brand_config_driven_system|品牌配置驱动]] 字段映射做跨品牌校验 + 治理左移防呆。
+- 详见 [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]]。
+
+### 4. 中台 ROI 锚点（多品牌服装案例）
+- 泽盈 20+ 品牌中台：会员 OneID 识别率 **99%**、跨品牌复购 **+30%**（半年）、财务月结 **+50%**——为 [[multi_brand_unified_analytics|多品牌统一分析架构]] 补上业务侧 ROI 锚点。
+- 范式：**会员 OneID 跨品牌通认是第一杠杆**，底层统一主数据 + 上层品牌独立。
+- 详见 [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]]。
+
+### 5. 品牌级查漏闭环（本轮核心）
+- 第零步扫描：**36 品牌实体页 0 个含系统化数据分析视角**（仅竞品 gxg 含 BI 小节）。
+- 按数据可得性分层：L1 双核+[[crocs]] 高优先（财报级数据已齐，缺品牌级分析页）；L2 上市公司中优先；L3 品牌墙 26 + 女装 2 探针式补全。
+- 下轮锚点：补 [[cabbeen]] 品牌级分析实践（售罄率趋势 SQL/渠道结构 BI/门店绩效）+ 建 [[crocs]] 对标页。
+- 详见 [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]。

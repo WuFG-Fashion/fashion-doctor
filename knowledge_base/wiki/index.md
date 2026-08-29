@@ -967,3 +967,12 @@ updated: 2026-08-28
 | [[2026-08-28_B佐证_MLB门店运营与导购]] | mlb / 导购培训闭环体系 | 媒体估算 | true |
 | [[2026-08-28_B佐证_太平鸟商品企划与OTB]] | peacebird / 动态OTB管理 | 财报 | true |
 | [[2026-08-28_B佐证_Lacoste商品企划与品类拓展]] | lacoste / 商品企划体系2026 | 媒体估算 | true |
+
+### 2026-08-29 C轮新增（L2_06/07 + 品牌级查漏）
+| 新增页 | 类型 | 主链 | 置信度 | brand_specific |
+|------|------|------|------|------|
+| [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]] | source | data_lakehouse_2026 / multi_brand_unified_analytics | 媒体估算 | false |
+| [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]] | source | data_quality_retail_practice / multi_brand_unified_analytics | 第三方数据 | false |
+| [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]] | source | multi_brand_unified_analytics / 服装行业竞争格局 | 媒体估算 | false |
+| [[brand_level_data_analysis_gap_matrix]] | practice | cabbeen / peacebird / crocs / 服装行业竞争格局 | — | — |
+| [[multi_brand_unified_analytics]] | practice(更新) | focus_brands 36 品牌 / DuckLake / 数据质量可观测性 / 中台案例 | — | — |
