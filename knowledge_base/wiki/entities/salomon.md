@@ -152,3 +152,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 ### 信息链（本轮）
 - 上游来源：[[2026-08-29_A3_salomon_全维度动态]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[speedo]]
 
+## 2026-08-30 B轮佐证（零售人才培训体系，L2_04 · 新版源页）
+> 原始摘要见 [[2026-08-30_salomon_零售人才培训体系]]（supersedes [[2026-08-17_salomon_门店人才梯队与VIP私域运营]]）。
+- Retail Talent Class 2026（8个月、70%晋升）、Retail Academy 全员平台、Field Training Specialist 店内coaching+KPI、3D脚型扫描/boot-fitting（置信度：官方公告）。
+**结论（织入）**：Salomon 以"专业户外知识"为导购核心能力，是 [[导购能力评估与赋能体系2026]] 专业能力维度的强样本；70%晋升率量化培训ROI。
+**信息链（织入）**：[[2026-08-30_salomon_零售人才培训体系]] → 本页（[[salomon]]）→ 下游 [[导购能力评估与赋能体系2026]] / [[导购培训闭环体系]]
+

@@ -8,6 +8,7 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
+superseded_by: "[[2026-08-30_peacebird_会员运营与私域复购]]"
 cross_refs: [[peacebird]], [[会员与VIP运营体系2026]], [[全渠道会员一体化]]
 ---
 

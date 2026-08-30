@@ -969,6 +969,21 @@ updated: 2026-08-28
 | [[2026-08-28_B佐证_太平鸟商品企划与OTB]] | peacebird / 动态OTB管理 | 财报 | true |
 | [[2026-08-28_B佐证_Lacoste商品企划与品类拓展]] | lacoste / 商品企划体系2026 | 媒体估算 | true |
 
+## 本轮新增（2026-08-30 · B轮 · L2_03/04/05 方法论为主·品牌为辅）
+
+> 通用方法论搜索 9 次 > 品牌上下文 6 次（本轮续跑：前 7 通用 + 2 重试通用落前半程 db79bf4；6 品牌上下文 two_am/ariose_years/salomon + peacebird/cabbeen 跨 L2_03/04/05 佐证）。双核 peacebird/cabbeen + 轮换 two_am/ariose_years/salomon（不与上轮 hoka/mlb/lacoste 重复）。8 源全含结论+信息链+confidence+brand_specific（2 通用 false + 6 品牌 true），概念 4 更新（商品企划体系2026/售罄率考核基准2026/会员与VIP运营体系2026/导购能力评估与赋能体系2026）+ 实体 5 更新，无孤岛；salomon/peacebird 旧源回填 superseded_by。
+
+| 新增源页 | 主链概念/实体 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-08-30_B_商品企划利润池模型与方法论]] | 商品企划体系2026 | 第三方数据 | false |
+| [[2026-08-30_B_售罄率与折扣毛利管理方法论]] | 售罄率考核基准2026 / 商品企划体系2026 | 第三方数据 | false |
+| [[2026-08-30_peacebird_会员运营与私域复购]] | peacebird / 会员与VIP运营体系2026 | 品牌自宣 | true |
+| [[2026-08-30_ariose_years_会员私域运营]] | ariose_years / 会员与VIP运营体系2026 | 媒体估算 | true |
+| [[2026-08-30_cabbeen_导购培训与人才梯队]] | cabbeen / 导购能力评估与赋能体系2026 | 品牌自宣 | true |
+| [[2026-08-30_salomon_零售人才培训体系]] | salomon / 导购能力评估与赋能体系2026 | 官方公告 | true |
+| [[2026-08-30_two_am_商品企划与快闪店]] | two_am / cabbeen / 商品企划体系2026 | 品牌自宣 | true |
+| [[2026-08-30_peacebird_商品企划与联名策略]] | peacebird / 商品企划体系2026 | 品牌自宣 | true |
+
 ### 2026-08-29 C轮新增（L2_06/07 + 品牌级查漏）
 | 新增页 | 类型 | 主链 | 置信度 | brand_specific |
 |------|------|------|------|------|

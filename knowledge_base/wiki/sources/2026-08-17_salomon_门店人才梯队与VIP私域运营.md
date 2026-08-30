@@ -8,6 +8,7 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
+superseded_by: "[[2026-08-30_salomon_零售人才培训体系]]"
 cross_refs: [[salomon]]
 ---
 

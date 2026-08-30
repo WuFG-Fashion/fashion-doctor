@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-30",
-  "generated_at": "2026-08-30 08:17:31",
-  "total_entries": 1282,
+  "generated_at": "2026-08-30 20:26:28",
+  "total_entries": 1290,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -17403,6 +17403,69 @@
         },
         {
           "id": "WIKI_S_sources_1041",
+          "name": "2026-08-30_ariose_years_会员私域运营",
+          "path": "wiki/sources/2026-08-30_ariose_years_会员私域运营.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "艾诺丝会员",
+            "ARIOSE YEARS会员",
+            "艾诺丝私域",
+            "艾诺丝雅诗复购"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1042",
+          "name": "2026-08-30_B_售罄率与折扣毛利管理方法论",
+          "path": "wiki/sources/2026-08-30_B_售罄率与折扣毛利管理方法论.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "售罄率折扣",
+            "折扣毛利管理",
+            "markdown管理",
+            "阶梯降价",
+            "STR阈值"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1043",
+          "name": "2026-08-30_B_商品企划利润池模型与方法论",
+          "path": "wiki/sources/2026-08-30_B_商品企划利润池模型与方法论.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "利润池模型",
+            "商品企划利润池",
+            "增长质量诊断",
+            "四种利润池",
+            "效率池"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1044",
+          "name": "2026-08-30_cabbeen_导购培训与人才梯队",
+          "path": "wiki/sources/2026-08-30_cabbeen_导购培训与人才梯队.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "卡宾导购",
+            "Cabbeen培训",
+            "卡宾人才梯队",
+            "卡宾管培生",
+            "622人才模型"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1045",
           "name": "2026-08-30_chuu_赵露思同款质量舆情",
           "path": "wiki/sources/2026-08-30_chuu_赵露思同款质量舆情.md",
           "file_count": 1,
@@ -17417,7 +17480,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1042",
+          "id": "WIKI_S_sources_1046",
           "name": "2026-08-30_crocs_Q2财报电话会财务细节",
           "path": "wiki/sources/2026-08-30_crocs_Q2财报电话会财务细节.md",
           "file_count": 1,
@@ -17432,7 +17495,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1043",
+          "id": "WIKI_S_sources_1047",
           "name": "2026-08-30_dekashell_向星实业900店运营主体疑云",
           "path": "wiki/sources/2026-08-30_dekashell_向星实业900店运营主体疑云.md",
           "file_count": 1,
@@ -17447,7 +17510,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1044",
+          "id": "WIKI_S_sources_1048",
           "name": "2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张",
           "path": "wiki/sources/2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张.md",
           "file_count": 1,
@@ -17462,7 +17525,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1045",
+          "id": "WIKI_S_sources_1049",
           "name": "2026-08-30_diesel_OTB2025财报与新CEO与AI试穿",
           "path": "wiki/sources/2026-08-30_diesel_OTB2025财报与新CEO与AI试穿.md",
           "file_count": 1,
@@ -17478,7 +17541,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1046",
+          "id": "WIKI_S_sources_1050",
           "name": "2026-08-30_ellesse_美国市场回归",
           "path": "wiki/sources/2026-08-30_ellesse_美国市场回归.md",
           "file_count": 1,
@@ -17493,7 +17556,68 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1047",
+          "id": "WIKI_S_sources_1051",
+          "name": "2026-08-30_peacebird_会员运营与私域复购",
+          "path": "wiki/sources/2026-08-30_peacebird_会员运营与私域复购.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "太平鸟会员",
+            "PEACEBIRD会员",
+            "PBClub",
+            "太平鸟私域复购",
+            "太平鸟复购率"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1052",
+          "name": "2026-08-30_peacebird_商品企划与联名策略",
+          "path": "wiki/sources/2026-08-30_peacebird_商品企划与联名策略.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "太平鸟商品企划",
+            "PEACEBIRD企划",
+            "太平鸟联名",
+            "太平鸟波段"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1053",
+          "name": "2026-08-30_salomon_零售人才培训体系",
+          "path": "wiki/sources/2026-08-30_salomon_零售人才培训体系.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Salomon培训",
+            "萨洛蒙零售学院",
+            "Salomon Retail Talent Class",
+            "Salomon导购"
+          ],
+          "confidence": "官方公告",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1054",
+          "name": "2026-08-30_two_am_商品企划与快闪店",
+          "path": "wiki/sources/2026-08-30_two_am_商品企划与快闪店.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "2AM商品企划",
+            "TWO AM快闪店",
+            "卡宾2AM",
+            "CABBEEN×2AM"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1055",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -17505,7 +17629,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1048",
+          "id": "WIKI_S_sources_1056",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -17517,7 +17641,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1049",
+          "id": "WIKI_S_sources_1057",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -17529,7 +17653,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1050",
+          "id": "WIKI_S_sources_1058",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -17541,7 +17665,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1051",
+          "id": "WIKI_S_sources_1059",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -17553,7 +17677,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1052",
+          "id": "WIKI_S_sources_1060",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -17565,7 +17689,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1053",
+          "id": "WIKI_S_sources_1061",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -17577,7 +17701,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1054",
+          "id": "WIKI_S_sources_1062",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -17589,7 +17713,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1055",
+          "id": "WIKI_S_sources_1063",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -17601,7 +17725,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1056",
+          "id": "WIKI_S_sources_1064",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -17613,7 +17737,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1057",
+          "id": "WIKI_S_sources_1065",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -17625,7 +17749,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1058",
+          "id": "WIKI_S_sources_1066",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -17637,7 +17761,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1059",
+          "id": "WIKI_S_sources_1067",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -17649,7 +17773,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1060",
+          "id": "WIKI_S_sources_1068",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -17661,7 +17785,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1061",
+          "id": "WIKI_S_sources_1069",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -17673,7 +17797,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1062",
+          "id": "WIKI_S_sources_1070",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
