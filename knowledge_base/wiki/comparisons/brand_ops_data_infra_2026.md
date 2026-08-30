@@ -9,9 +9,9 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, operations, membership, crm, data_infrastructure, multi_brand, 2026]
 sources: [kb_benchmarks.json, 36个品牌实体页, practices/RFM会员分层运营实战, practices/私域运营方法论, concepts/会员与VIP运营体系2026, practices/multi_brand_unified_analytics, practices/brand_config_driven_system, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-07-31_太平鸟2026半年报]
 created: 2026-08-16
-updated: 2026-08-23
+updated: 2026-08-30
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_years]], [[salomon]], [[brand_portfolio_tiers_2026]], [[brand_store_channel_2026]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[会员与VIP运营体系2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[data_quality_governance]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_years]], [[salomon]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_store_channel_2026]], [[brand_lifecycle_capital_events_2026]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[会员与VIP运营体系2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[data_quality_governance]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
 ---
 
 # 36品牌运营策略与数据基建适配（2026 S轮合成）
@@ -60,6 +60,19 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_y
 - **B轮 08-21 佐证**：[[ariose_years]] 波段企划获京东官方旗舰店实证（冬 8 波结构，高可信），可作女装波段企划对照基准；[[dekashell]] 加盟培训/终端运营体系（品牌自宣）显示黑箱女装也有"运营信号"，与 A轮"600-800 店"形成互补——黑箱品牌并非零运营信号，只是披露渠道不同（招聘平台/加盟手册）。
 - **双核战略信号**：[[peacebird]] 发布"2-5-10 战略愿景"（两年筑基/五年领跑/十年跨越）+ "弱化大众化、重点打造个性化产品"，核心一线城市不再新增大型门店、以集合店为主要拓展类型（官方公告级）；[[cabbeen]] 2026H1 微信会员 410 万 + 副线卡宾都市线上 +12.3%，会员数字化与多品牌矩阵并行。
 - **数据基建含义**：太平鸟战略转向"集合店 + 个性化产品"意味着其数据分析需求从"门店数量追踪"转向"单店/单品效率与会员资产追踪"——[[multi_brand_unified_analytics]] 的指标层应优先覆盖"同店销售、会员贡献、集合店坪效"三类指标；黑箱品牌（艾诺丝/迪卡轩）的运营信号提示"招聘平台 + 加盟手册"是可挖掘的替代数据源。
+
+## S轮增量刷新（2026-08-30 · 数据基建从"方法论"到"可落地实现" · S5）
+
+> 本小节为 S轮第五遍（S5）：08-26 两篇真实实现源（[[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] · [[2026-08-26_太平鸟数字化与数据分析体系2026]]）把 C轮方法论落到可引用案例，是 brand_ops_data_infra 维度实质新证据。
+
+| 维度 | 增量信号 | 落位实体/源 |
+|------|----------|--------------|
+| 数据基建（行业实现） | 多品牌零售数据中台 2026 范式：CDC 实时摄取 + ODS-STG-DWS-API 四层 + OneID 全域用户统一；案例量化收益 库存 -18% / 缺货 -22% / CLV +40% / 营销 ROI +23% / 转化率 +15% | [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]] |
+| 数据基建（品牌标杆） | [[peacebird]] 数字化体系：近三年 50+ 数字化项目、6 亿研发中心、千万级全域 CRM 画像、TOC 库存调度、AI+3D 研发——focus_brands 数字化披露最完整 | [[2026-08-26_太平鸟数字化与数据分析体系2026]] |
+| 运营策略（黑箱品牌） | [[dekashell]] 运营主体注销风险（08-29）提醒黑箱女装"运营信号"稳定性存疑；[[ariose_years]] 米兰 Campaign + 高端 mall 网络继续印证中淑标杆 | [[2026-08-29_dekashell_运营主体注销风险]] · [[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]] |
+| 渠道反转对数据基建含义 | [[cabbeen]] 代销 47.4% 成第一渠道——代销数据无单店 POS 回流，对 [[multi_brand_unified_analytics]] 四层架构的"摄取层"构成新挑战，须对代销占比单独打标 | [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]] |
+
+**增量结论**：① 数据基建从"方法论 pages"升级到"可落地案例"——多品牌数据中台四层+OneID 与太平鸟 50+ 项目实证，使 3→10 品牌扩展的路线从"设计"变为"有参照系的执行"；② 太平鸟凭千万级画像+TOC 成为 focus_brands 数字化标杆，但售罄率/库存周转的财报级验证仍需跟进（呼应 [[brand_risk_signals_2026]] "拐点叙事需穿透"）；③ 卡宾代销化暴露"代销数据难结构化"的新约束——品牌墙式数据黑箱可能因代销而加剧，指标层须对代销占比单独建模；④ 黑箱品牌的"运营信号"稳定性受主体注销/治理事件威胁（迪卡轩），替代数据源（招聘/加盟手册）需加时间戳与主体校验。
 
 ## 信息链
 

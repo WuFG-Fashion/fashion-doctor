@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-08-30",
-  "generated_at": "2026-08-30 07:23:31",
-  "total_entries": 1281,
+  "generated_at": "2026-08-30 08:17:31",
+  "total_entries": 1282,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -38,6 +38,18 @@
         },
         {
           "id": "WIKI_P_comparisons_1",
+          "name": "brand_lifecycle_capital_events_2026",
+          "path": "wiki/comparisons/brand_lifecycle_capital_events_2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "品牌生命周期事件2026"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_P_comparisons_2",
           "name": "brand_ops_data_infra_2026",
           "path": "wiki/comparisons/brand_ops_data_infra_2026.md",
           "file_count": 1,
@@ -49,7 +61,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_2",
+          "id": "WIKI_P_comparisons_3",
           "name": "brand_portfolio_tiers_2026",
           "path": "wiki/comparisons/brand_portfolio_tiers_2026.md",
           "file_count": 1,
@@ -61,7 +73,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_3",
+          "id": "WIKI_P_comparisons_4",
           "name": "brand_risk_signals_2026",
           "path": "wiki/comparisons/brand_risk_signals_2026.md",
           "file_count": 1,
@@ -73,7 +85,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_4",
+          "id": "WIKI_P_comparisons_5",
           "name": "brand_store_channel_2026",
           "path": "wiki/comparisons/brand_store_channel_2026.md",
           "file_count": 1,
@@ -85,7 +97,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_5",
+          "id": "WIKI_P_comparisons_6",
           "name": "core_brands_peacebird_cabbeen_2026",
           "path": "wiki/comparisons/core_brands_peacebird_cabbeen_2026.md",
           "file_count": 1,
@@ -97,7 +109,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_6",
+          "id": "WIKI_P_comparisons_7",
           "name": "four_brands_2025",
           "path": "wiki/comparisons/four_brands_2025.md",
           "file_count": 1,
@@ -109,7 +121,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_7",
+          "id": "WIKI_P_comparisons_8",
           "name": "menswear_brands_2026q1",
           "path": "wiki/comparisons/menswear_brands_2026q1.md",
           "file_count": 1,
@@ -121,7 +133,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_8",
+          "id": "WIKI_P_comparisons_9",
           "name": "six_brands_2026q1",
           "path": "wiki/comparisons/six_brands_2026q1.md",
           "file_count": 1,
@@ -133,7 +145,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_P_comparisons_9",
+          "id": "WIKI_P_comparisons_10",
           "name": "three_brands_mid2026",
           "path": "wiki/comparisons/three_brands_mid2026.md",
           "file_count": 1,

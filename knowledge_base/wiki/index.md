@@ -219,6 +219,7 @@ updated: 2026-08-28
 | [[brand_store_channel_2026]] ⭐ S轮·四遍 | 36品牌门店策略+渠道结构对比：直营/加盟/混合分类、开关节奏、DTC/线上/全渠道整合度；识别"直营化+大店模型=高增长标准答案""代理模式双刃剑""全渠道量化能力双核独享" +8-23增量：chuu城市门店细分/awoken_time白猿宇宙 | comparison, focus_brands, synthesis, s_round, store, channel |
 | [[brand_gross_margin_2026]] ⭐ S轮·四遍 | 36品牌毛利率分层：已披露聚焦品牌46%-62%、仅5/36有数据、黑箱最严重维度 +8-23增量：太平鸟Q2季度低点59.33% | comparison, focus_brands, synthesis, s_round, gross_margin |
 | [[brand_ops_data_infra_2026]] ⭐ S轮·四遍 | 36品牌运营策略+数据基建适配：桥接B/C轮practices，会员/社群信号仅双核+标杆有、数据基建适配度随可得性断崖 +8-23增量：B轮佐证艾诺丝波段/迪卡轩加盟培训、太平鸟2-5-10战略 | comparison, focus_brands, synthesis, s_round, operations, data_infrastructure |
+| [[brand_lifecycle_capital_events_2026]] ⭐ S轮·五遍 NEW | 品牌生命周期与资本动作事件图谱：2026-07~08 更名NDY/易主Dickies→Bluestar/退俄Trussardi/减值KL/卡宾代销反转/thisisizi8入卡宾矩阵/迪卡轩主体注销风险/ADLV国际化七类事件图谱，资本动作=财务恶化先行指标 | comparison, focus_brands, synthesis, s_round, lifecycle, capital_event |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
