@@ -6,9 +6,9 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
 ---
 
@@ -132,3 +132,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：Dickies 被 Bluestar 以'文化事件+ trade show 首秀+区域批发伙伴'组合拳重启欧洲增长，SS2027 明补女装线；与 [[品牌墙概念与代理模式]] 直接关联，是品牌被品牌管理公司收购后重启样本。
 **信息链（织入）**：[[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]] → 本页（[[dickies]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]]
+
+## A1轮全维度采集织入（2026-08-31）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「UNION × INVERSE FW2026 联名胶囊」维度信号见 [[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]]。
+- **一句话摘要**：Dickies × UNION「INVERSE」FW2026 联名（内外翻转/外露缝线解构工装）2026-08-21 发售，登陆 UNION 官网及洛杉矶/东京旗舰，与 Pitti Uomo 2027 首秀构成"欧洲走秀 + 美日联名"双线。
+
+**结论（织入）**：Bluestar 以'文化事件(UNION联名)+走秀(Pitti)'组合重启 Dickies；'解构工装'对抗品类老化；联名借买手店审美权威比流量明星更稳，是品牌墙代理可迁移样本。
+**信息链（织入）**：[[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]] → 本页（[[dickies]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]] / [[adlv]]

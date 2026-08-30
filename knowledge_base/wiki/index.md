@@ -1008,3 +1008,16 @@ updated: 2026-08-28
 | [[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]] | dickies | 品牌自宣 | true |
 | [[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] | diesel | 第三方数据 | true |
 | [[2026-08-30_ellesse_美国市场回归]] | ellesse | 媒体估算 | true |
+
+---
+
+## 本轮新增（2026-08-31 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：4 真新增 / 8 显式无新增（非静默跳过）。4 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（adlv→[[品牌墙概念与代理模式]]/[[awoken_time]]/[[chuu]]、cabbeen→[[two_am]]/[[品牌墙概念与代理模式]]、dkny→[[karl_lagerfeld]]/[[nautica]]/[[levis]]/[[brand_risk_signals_2026]]、dickies→[[品牌墙概念与代理模式]]/[[adlv]]），无孤岛。8 无新增品牌（ariose_years/awoken_space/awoken_time/chuu/crocs/dekashell/diesel/ellesse）经 WebSearch 核验与既有库一致（多数为 08-30 缓存同源），标记「无新增·核验一致」不重复造页。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-08-31_A1_adlv_澳门新八佰伴Y-CASUAL专柜]] | adlv | 媒体估算 | true |
+| [[2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海]] | cabbeen | 品牌自宣 | true |
+| [[2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整]] | dkny | 财报 | true |
+| [[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]] | dickies | 品牌自宣 | true |

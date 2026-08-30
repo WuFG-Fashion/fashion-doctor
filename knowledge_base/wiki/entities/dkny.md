@@ -5,9 +5,9 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md]
 created: 2026-08-14
-updated: 2026-08-29
+updated: 2026-08-31
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
@@ -109,3 +109,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：DKNY 上海淮海中路首店(2026-05-16,245㎡)+ Hailey Bieber campaign，借 G-III 授权重启中国直营声量；是品牌墙'授权重启+明星 campaign'重入中国市场的样本。
 **信息链（织入）**：[[2026-08-29_dkny_上海首店与HaileyBieber]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-08-31）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「母公司 G-III FY2027 财报 + 品牌组合调整」维度信号见 [[2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整]]。
+- **一句话摘要**：DKNY 母公司 G-III FY2027 Q1 营收 $5.3596 亿(-8.2%)、EPS -$0.21（beat 预期）；Q2 将于 2026-09-02 发布（预期 -7%）；组合新增 Sonia Rykiel / Champion / Cole Haan / Starter。
+
+**结论（织入）**：G-III 连续两财年营收下滑且 Q1 由盈转亏，DKNY 中国续店更依赖授权伙伴自有资金；'beat 预期但同比下滑'须以同比方向判健康；组合扩张是对冲授权到期风险。
+**信息链（织入）**：[[2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[karl_lagerfeld]] / [[nautica]] / [[levis]] / [[brand_risk_signals_2026]]
