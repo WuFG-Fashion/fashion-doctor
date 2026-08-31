@@ -8,7 +8,7 @@ aliases:
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
 sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md]
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-09-01
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
@@ -147,3 +147,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]]
 
+## 近期动态刷新（2026-09-01 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验（财务/门店/联名/营销/竞品/行业），**结果为已核对无新增**；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库信息**（非静默跳过）。
+- 核对项（2026-09-01 WebSearch 全维度探针）：PVH Q1/Q2 + Travis Kelce 全球大使（08-17/08-26/08-28/08-29 已入库）；⚠️ 下轮优先：PVH 2026Q2 财报将于 2026-09-02 盘后发布（Zacks 预期 EPS $3.08/营收 $2.1B），届时更新实体与基准；本轮无新增。
+- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-09-01。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]]
