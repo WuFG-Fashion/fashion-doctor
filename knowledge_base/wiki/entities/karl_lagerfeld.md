@@ -9,7 +9,7 @@ tags: [karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, pop_up
 sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌墙图_2026-08-14, 2026-08-15_R4_卡尔拉格斐2026中国]
 created: 2026-08-14
 updated: 2026-08-31
-cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]]
+cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]]
 ---
 
 # KARL LAGERFELD

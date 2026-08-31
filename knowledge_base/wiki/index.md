@@ -87,7 +87,7 @@ updated: 2026-08-28
 | [[mlb]] ⭐ UPDATED | 韩国 F&F 公司运营的潮流品牌，以美国职业棒球大联盟授权 logo 与帽饰、老花包出圈。 | mlb, competitor, streetwear, sportswear, korean_wave |
 | [[mlb_kids]] ⭐ UPDATED | MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。 | mlb_kids, competitor, childrenswear, streetwear, korean_wave |
 | [[mr_mrs]] ⭐ NEW | 意大利高端皮草派克外套品牌，以军绿色皮草内胆派克大衣出圈。 | mr_mrs, competitor, luxury, outerwear, italy |
-| [[nautica]] ⭐ NEW | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。 | nautica, competitor, menswear, sportswear, usa |
+| [[nautica]] ⭐ UPDATED | 美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。+9-01新增:Interparfums 20年全球香水授权(2030-01-01生效/首年预估>$70M·源:[[2026-09-01_A3_nautica_Interparfums香水授权协议]]) | nautica, competitor, menswear, sportswear, usa |
 | [[nerdy]] ⭐ NEW | 韩国潮流品牌，以彩色运动套装与 K-pop 明星同款走红。 | nerdy, competitor, streetwear, korean_wave |
 | [[no_one_else]] ⭐ NEW | 韩国/东亚潮流女装品牌，强调个性与无性别穿搭。 | no_one_else, competitor, streetwear, womenswear, korean_wave |
 | [[salomon]] ⭐ NEW | 法国户外与越野跑装备品牌，亚玛芬体育旗下，山系/机能风潮代表。 | salomon, competitor, sportswear, outdoor, trail_running, france |

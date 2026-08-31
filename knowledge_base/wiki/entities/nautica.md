@@ -5,10 +5,10 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md]
 created: 2026-08-14
-updated: 2026-08-31
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]]
+updated: 2026-09-01
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]]
 ---
 
 # NAUTICA
@@ -128,14 +128,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-29_A3_nautica_全维度动态]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[tommy_hilfiger]]
 
-## 近期动态刷新（2026-08-31 · A3轮·品牌全维度）
+## 近期动态刷新（2026-09-01 · A3轮·品牌全维度）
 
-> 本轮按 A3 规范以品牌主体为中心全维度检索核验（财务/门店/联名/营销/竞品/行业），**结果为已核对无新增**；按规范显式登记，不做静默跳过、不造重复源页。
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-09-01_A3_nautica_Interparfums香水授权协议]]（置信度：官方公告）。
 
-- **本轮检索结论：已核对，无新增可入库信息**（非静默跳过）。
-- 核对项（2026-08-31 WebSearch 全维度探针）：×Champion秋7款（08-23已入库）；本轮核验一致，无新联名/新店披露。
-- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-08-31。
+- **香水授权协议结构补全**：Interparfums 2026-01-28 官宣与 Nautica 签署**20 年全球独家香水授权**（创作/开发/生产/分销），**2030-01-01** 起全面接管，接管后**首年香水组合销售预计超 $70M**——补全实体页此前仅"香水授权至 2030"一句背后的协议结构（置信度：官方公告）。
+- **授权生态交叉印证**：Nautica 与 [[dkny|DKNY]]/[[karl_lagerfeld|Karl Lagerfeld]]/[[lacoste|Lacoste]] 共享 Interparfums 香水操盘方；所有者 ABG CEO 确认合作，印证"服装授权 + 香水授权分包"为 ABG 体系标准操作（置信度：官方公告+第三方数据）。
+- **本轮其余维度核验一致**：中国运营（上海荟众接替 Tristate）、2025 门店（70直营+44伙伴）、Champion 秋季联名、渠道切换诉讼等均与库内既有源一致，无新增数值冲突。
 
 ### 信息链（本轮）
-- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]]
+- 上游来源：[[2026-09-01_A3_nautica_Interparfums香水授权协议]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
 

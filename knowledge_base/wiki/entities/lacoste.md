@@ -9,7 +9,7 @@ tags: [lacoste, competitor, sportswear, premium, france]
 sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md]
 created: 2026-08-14
 updated: 2026-08-31
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]]
 ---
 
 # LACOSTE
