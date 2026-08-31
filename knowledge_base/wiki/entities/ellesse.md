@@ -4,9 +4,9 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-09-01
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -120,3 +120,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 
 **结论（织入）**：ellesse 借 Pentland 区域授权以'美国子公司+电商+赛事赞助'重建退出多年的美国市场，Smiley 联名+Cincinnati Open 双线强化复古运动定位；与 [[品牌墙概念与代理模式]]、[[dickies]] 形成品牌墙操盘对照。
 **信息链（织入）**：[[2026-08-30_ellesse_美国市场回归]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]]
+
+## A1轮全维度采集织入（2026-09-01）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「Andrew Garfield 全球战役 + 2026 价格带」维度信号见 [[2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]]。
+- **一句话摘要**：ellesse 2026-06 上线 Andrew Garfield 领衔的全球战役「Do It Like An Italian」（三章结构，SS26→AW26 滚动），2026 官网价格带上探（T 恤/Polo £45–125、外套/卫衣 £55–190、鞋类 £75–115，京东夹克≈¥399/卫衣≈¥698），网球基因营销延续（维基奇联名战服亮相辛辛那提 1000 赛）。
+
+**结论（织入）**：ellesse 用'全球明星战役+网球基因'双轮升级品牌：价格带上探配合 NBL 鞋类翻倍目标，Pentland 正把 ellesse 从'入门复古运动'向'中档运动时尚'上移（置信度：品牌自宣/第三方数据）；对中国是'授权代理提档实验'的可借鉴样本，转化效果暂无第三方验证。
+**信息链（织入）**：[[2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]] / [[peacebird]] / [[cabbeen]]

@@ -5,9 +5,9 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-09-01
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]]
 ---
 
@@ -117,3 +117,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：G-III 连续两财年营收下滑且 Q1 由盈转亏，DKNY 中国续店更依赖授权伙伴自有资金；'beat 预期但同比下滑'须以同比方向判健康；组合扩张是对冲授权到期风险。
 **信息链（织入）**：[[2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[karl_lagerfeld]] / [[nautica]] / [[levis]] / [[brand_risk_signals_2026]]
+
+## A1轮全维度采集织入（2026-09-01）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「Donna Karan 卸任创意总监 + FW26 系列」维度信号见 [[2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]]。
+- **一句话摘要**：Donna Karan 2026-08 卸任同名品牌创意总监（转投 Urban Zen 基金会、仍任顾问）；注意层级——此为 Donna Karan 主品牌变动，**DKNY 副线创意总监 Maxwell Osborne + Dao-Yi Chow 留任**；Donna Karan FW26「Black Cherry City」以黑樱桃核心色 + 多功能都市衣橱回归纽约都会。
+
+**结论（织入）**：Donna Karan 个人卸任 ≠ DKNY 品牌风险——副线创意留任 + G-III 收购整合推进，品牌重塑由'个人 IP 驱动'转向'集团组合管理'，与 [[karl_lagerfeld]]（G-III 授权组合）路径趋同（置信度：媒体估算）；评估国际品牌威胁须以 G-III 组合口径而非单品牌看。
+**信息链（织入）**：[[2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[karl_lagerfeld]] / [[peacebird]]

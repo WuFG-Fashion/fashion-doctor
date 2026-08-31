@@ -1021,3 +1021,17 @@ updated: 2026-08-28
 | [[2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海]] | cabbeen | 品牌自宣 | true |
 | [[2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整]] | dkny | 财报 | true |
 | [[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]] | dickies | 品牌自宣 | true |
+
+---
+
+## 本轮新增（2026-09-01 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：5 真新增 / 7 显式无新增（非静默跳过）。5 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（ellesse→[[服装价格带管理与价格真空区]]/[[peacebird]]/[[cabbeen]]、dkny→[[karl_lagerfeld]]/[[peacebird]]、dekashell→[[服装价格带管理与价格真空区]]/[[ariose_years]]、crocs→[[peacebird]]（代言人策略参照）、chuu→[[服装价格带管理与价格真空区]]/[[dekashell]]），无孤岛。7 无新增品牌（cabbeen/adlv/awoken_space/awoken_time/dickies/diesel/ariose_years）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]] | ellesse | 品牌自宣 | true |
+| [[2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]] | dkny | 媒体估算 | true |
+| [[2026-09-01_A1_dekashell_价格带与加盟模式口径]] | dekashell | 第三方数据 | true |
+| [[2026-09-01_A1_crocs_樊振东商业价值与股价信号]] | crocs | 媒体估算 | true |
+| [[2026-09-01_A1_chuu_辣妹赛道竞争格局]] | chuu | 媒体估算 | false |
