@@ -5,9 +5,9 @@ aliases:
   - "Diesel"
   - "迪赛"
 tags: [diesel, competitor, denim, premium_denim, italy]
-sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO, 2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]
+sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO, 2026-08-30_diesel_OTB2025财报与新CEO与AI试穿, 2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
 ---
 
@@ -127,3 +127,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：Diesel 在 Martens 创意复兴+批发清理+柏林/首尔新店下走出十年最佳年；OTB×Google Cloud AI 试穿(Diesel首发)是奢侈品集团级零售科技落地，与 [[零售AI试穿与虚拟穿搭2026]] 呼应、与 [[cabbeen]] AI 规划对照。
 **信息链（织入）**：[[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[零售AI试穿与虚拟穿搭2026]]
+
+## A1轮全维度采集织入（2026-09-02）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「FFXIV 联名胶囊 + FW26 campaign」维度信号见 [[2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]]。
+- **一句话摘要**：Diesel × Square Enix《FFXIV》27 件「BRAVE」联名胶囊（¥11,000-207,900），2026-09-16 伊势丹新宿 pop-up 首发（30 套限定盒 + 职业图标刺绣）、10-02 全球上线（涩谷旗舰/大阪/福冈），同步涩谷 Art Gallery Kosuke Kawamura 拼贴艺术展（10/2-11/8）；FW26 campaign 主打折皱/3D 丹宁与 D-Heel/D-Coco/D-One 新品。
+
+**结论（织入）**：联名策略从「牛仔单品」向「IP 世界观」升维（游戏叙事→服装图形→艺术展三层落地），日本市场是亚洲主攻点（伊势丹首发+涩谷旗舰/画廊联动），$69-1,302 价格带宽化兼顾传播与利润——是品牌墙联名战役中高投入深度联名样本（置信度：媒体估算）。
+**信息链（织入）**：[[2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]] / [[lacoste]]

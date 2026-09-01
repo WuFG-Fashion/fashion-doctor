@@ -5,9 +5,9 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]]
 ---
 
@@ -125,3 +125,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：Donna Karan 个人卸任 ≠ DKNY 品牌风险——副线创意留任 + G-III 收购整合推进，品牌重塑由'个人 IP 驱动'转向'集团组合管理'，与 [[karl_lagerfeld]]（G-III 授权组合）路径趋同（置信度：媒体估算）；评估国际品牌威胁须以 G-III 组合口径而非单品牌看。
 **信息链（织入）**：[[2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[karl_lagerfeld]] / [[peacebird]]
+
+## A1轮全维度采集织入（2026-09-02）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「母公司 G-III FY2027 Q2 财报预告」维度信号见 [[2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]]。
+- **一句话摘要**：G-III FY2027 Q2 财报定于 2026-09-02 美东盘前发布（电话会 8:30 ET），分析师预期 EPS $0.23 / 营收 $570.4M（-7%），管理层 Q2 指引 $0.15-0.25、全年 $2.15-2.25，季度股息 $0.10（派息率 14%），共识 Hold / 目标价 $33。
+
+**结论（织入）**：G-III 财报节奏 = DKNY 中国扩张的资源指针——若 Q2 维持全年指引则组合管理（Sonia Rykiel/Champion/Cole Haan 授权补位）被市场认可，若下修则 DKNY 直营扩张的集团资金支持或收紧；「beat 预期 + 同比下滑」须以同比方向判健康（置信度：媒体估算）。
+**信息链（织入）**：[[2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[karl_lagerfeld]]
