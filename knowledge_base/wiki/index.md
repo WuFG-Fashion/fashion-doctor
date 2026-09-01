@@ -1035,3 +1035,14 @@ updated: 2026-08-28
 | [[2026-09-01_A1_dekashell_价格带与加盟模式口径]] | dekashell | 第三方数据 | true |
 | [[2026-09-01_A1_crocs_樊振东商业价值与股价信号]] | crocs | 媒体估算 | true |
 | [[2026-09-01_A1_chuu_辣妹赛道竞争格局]] | chuu | 媒体估算 | false |
+
+---
+
+## 本轮新增（2026-09-01 · A2 轮 · 分组11品牌全维度验证/增量）
+
+> A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验，库已高度覆盖：2 真新增 / 9 显式无新增（非静默跳过）。2 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（karl→[[brand_risk_signals_2026]]/[[mlb]]/[[品牌墙概念与代理模式]]、levis→[[peacebird]]/[[cabbeen]]），无孤岛。9 无新增品牌（etudes/g_star_raw/hoka_one_one/humble_humble_r/king_baby/lacoste/marcelo_burlon/mlb/mlb_kids）经 WebSearch 核验与 08-26~08-31 已入库内容一致，标记「无新增·核验一致」不重复造页（etudes/humble/king_baby/marcelo 探针命中无关实体属检索污染）。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]] | karl_lagerfeld | 财报 | true |
+| [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]] | levis | 品牌自宣 | true |

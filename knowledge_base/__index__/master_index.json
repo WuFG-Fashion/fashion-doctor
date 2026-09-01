@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-01",
-  "generated_at": "2026-09-01 07:25:10",
-  "total_entries": 1302,
+  "generated_at": "2026-09-01 08:29:26",
+  "total_entries": 1304,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -17768,6 +17768,30 @@
         },
         {
           "id": "WIKI_S_sources_1066",
+          "name": "2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒",
+          "path": "wiki/sources/2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "KL大中华主体, Karl Lagerfeld Greater China Holdings, KL扭亏颗粒, 卡尔拉格斐子公司损益"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1067",
+          "name": "2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign",
+          "path": "wiki/sources/2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "s ROSÉ, Levi"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1068",
           "name": "2026-09-01_A3_nautica_Interparfums香水授权协议",
           "path": "wiki/sources/2026-09-01_A3_nautica_Interparfums香水授权协议.md",
           "file_count": 1,
@@ -17781,7 +17805,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1067",
+          "id": "WIKI_S_sources_1069",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -17793,7 +17817,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1068",
+          "id": "WIKI_S_sources_1070",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -17805,7 +17829,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1069",
+          "id": "WIKI_S_sources_1071",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -17817,7 +17841,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1070",
+          "id": "WIKI_S_sources_1072",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -17829,7 +17853,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1071",
+          "id": "WIKI_S_sources_1073",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -17841,7 +17865,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1072",
+          "id": "WIKI_S_sources_1074",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -17853,7 +17877,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1073",
+          "id": "WIKI_S_sources_1075",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -17865,7 +17889,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1074",
+          "id": "WIKI_S_sources_1076",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -17877,7 +17901,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1075",
+          "id": "WIKI_S_sources_1077",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -17889,7 +17913,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1076",
+          "id": "WIKI_S_sources_1078",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -17901,7 +17925,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1077",
+          "id": "WIKI_S_sources_1079",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -17913,7 +17937,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1078",
+          "id": "WIKI_S_sources_1080",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -17925,7 +17949,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1079",
+          "id": "WIKI_S_sources_1081",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -17937,7 +17961,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1080",
+          "id": "WIKI_S_sources_1082",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -17949,7 +17973,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1081",
+          "id": "WIKI_S_sources_1083",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -17961,7 +17985,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1082",
+          "id": "WIKI_S_sources_1084",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,

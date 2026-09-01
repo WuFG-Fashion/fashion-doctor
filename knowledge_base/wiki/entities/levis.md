@@ -6,10 +6,10 @@ aliases:
   - "李维斯"
   - "LEVI"
 tags: [levis, competitor, denim, premium_denim, usa]
-sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md]
+sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md]
 created: 2026-08-14
-updated: 2026-08-31
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]]
+updated: 2026-09-01
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]
 ---
 
 # Levi's
@@ -166,3 +166,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（刷新）**：A2 轮为 [[levis]] 补上"新兴市场扩面 + 品类宽化 + 本土化供应链"三维度，与既有"DTC-first + 高端化"结论形成互补：其印度打法证明**门店数不是护城河、单店产出与品类广度才是**，对 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 的下沉与扩品类有直接借鉴；日本档案复刻联名则承接高端/收藏需求，与中国明星/文化联名构成全球双轨。
 **信息链（刷新）**：[[2026-08-31_A2_levis_印度500店与日本联名]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[peacebird]] / [[cabbeen]]
+
+## 近期动态刷新（2026-09-01 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[levis]] 的 2025-2026 新增核验；本轮为每日增量验证轮，新增全球营销维度。
+
+- **「Keep it Loose」FW2026 全球 campaign（新增）**：BLACKPINK **ROSÉ** + NBA 现役 MVP **Shai Gilgeous-Alexander** 双代言，聚焦 **Loose Prep** 趋势（501 Loose / Baggy Barrel / Loose Taper / Loose Boot），Mel Bles 胶片拍摄、EPMD 原声，全球旗舰店配套双人专属造型编辑；8 月底全球上线、9 月单品上市（置信度：品牌自宣，见 [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]）。
+- **核验一致**：Q2 FY2026 财务颗粒（财季截止 05-31、DTC 51%、净开 50-60 店、单一 ERP）与 08-30 源一致；印度 500 店 + 日本双联名与 08-31 源一致——未重复造页。
+
+**结论（刷新）**：[[levis]] 的 2026 组合拳至此完整：**财务端**（DTC-first 51% + 净扩张 50-60 店 + 单一 ERP）→ **产品端**（501 资产 + Baggy 新廓形 + 超牛仔宽化）→ **区域端**（印度 500 店扩面 + 日本档案复刻）→ **营销端**（音乐×体育双顶流 Keep it Loose）——四端同频，是 [[服装行业竞争格局]] 中"经典品牌年轻化再加速"的完整样本，对 [[peacebird|太平鸟]] / [[cabbeen|卡宾]] 的"品类宽化 + 顶流代言 + 旗舰内容化"三件套可直接对标。
+**信息链（刷新）**：[[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[peacebird]] / [[cabbeen]] / [[karl_lagerfeld]]

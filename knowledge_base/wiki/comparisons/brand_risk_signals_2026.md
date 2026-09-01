@@ -8,9 +8,9 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, risk, 2026]
 sources: [36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-01_太平鸟2026Q2单季质量分析, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报, 2026-08-15_R4_卡尔拉格斐2026中国, 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-15_R4_卡骆驰2026Q2中国, 2026-08-15_CHUU中国现状从现象级到退潮的韩潮样本, 2026-08-23_A3_nerdy_更名NDY与韩国现状, 2026-08-23_A3_peacebird_盈利质量深挖_Q2亏损与研发收缩, 2026-08-22_A3_trussardi_退出俄罗斯市场, 2026-08-23_A1_dickies_Bluestar收购与Harley联名]
 created: 2026-08-16
-updated: 2026-08-30
+updated: 2026-09-01
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[nerdy]], [[dickies]], [[brand_portfolio_tiers_2026]], [[brand_lifecycle_capital_events_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[nerdy]], [[dickies]], [[brand_portfolio_tiers_2026]], [[brand_lifecycle_capital_events_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]]
 ---
 
 # 36品牌风险信号汇总（2026 S轮合成）
