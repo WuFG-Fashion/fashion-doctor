@@ -5,9 +5,9 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]]
 ---
 
@@ -64,6 +64,17 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]]
 
+
+## 近期动态刷新（2026-09-02 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例]]。
+
+- **Lacoste 先例**：Interparfums 2024 年接管 Lacoste 香水后，2025 年 +28% 至 $108M——Nautica 2027 首发窗口的可比锚（置信度：财报）。
+- **组合视角**：Nautica 与 Lacoste/GUESS（延长至 2048）在 Interparfums 组合内并置，ABG 体系「服装授权+香水分包」再印证（置信度：财报+官方公告）。
+- 与 09-01 已入库的 20 年香水授权协议（2030-01-01 接管/$70M 首年预估）衔接，形成协议→先例→窗口三层证据链。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[lacoste]] · [[dkny]] · [[karl_lagerfeld]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
