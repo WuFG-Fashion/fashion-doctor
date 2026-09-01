@@ -6,9 +6,9 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
@@ -96,6 +96,17 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 ### 信息链（本轮）
 - 上游来源：[[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[nautica]]（国际路径对照） · [[服装行业竞争格局]] · [[peacebird]]
 
+
+## 近期动态刷新（2026-09-02 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度采集，新增来源 [[2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻]]。
+
+- **PVH 2026Q2 财报发布前瞻**：财报于 2026-09-02 盘后发布，Zacks 共识 EPS $3.08 / 集团营收 $2.1B / TH 品牌 $1.1B（置信度：媒体估算）。
+- ⚠️ 待验证项：与 08-26 入库口径的财季编号关系（FY2026 vs 自然年 2026）待财报落地后核对。
+- 上轮 09-01 预判的「PVH Q2 财报 09-02 发布」已到窗口，本轮先行登记共识预期，落地后更新实体与基准。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[brand_risk_signals_2026]] · [[peacebird]]
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
