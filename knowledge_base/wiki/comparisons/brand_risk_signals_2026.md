@@ -130,3 +130,6 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [
 - [[brand_store_channel_2026]]
 
 - [[tommy_hilfiger]]
+- [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]（中国 MLB 分销库存雪崩→价格体系受损；Duvetica 全资收购为对冲授权依赖；Sergio Tacchini 若分部披露即进入加速期——授权模式风险敞口量化样本）
+- [[2026-09-02_A2_karl_lagerfeld_2026H1渠道运营颗粒_七匹狼中报]]（奥莱占比上升双刃剑：短期去库存 vs 长期轻奢价格带稀释——弱市去库存风险对照）
+- [[2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒]]（中国增速 +8.4% 降温监控；Deckers 零负债+$1.6B 现金为正向信号非风险触发）

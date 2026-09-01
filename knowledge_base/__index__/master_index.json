@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-02",
-  "generated_at": "2026-09-02 06:47:42",
-  "total_entries": 1310,
+  "generated_at": "2026-09-02 07:08:15",
+  "total_entries": 1315,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -17878,6 +17878,66 @@
         },
         {
           "id": "WIKI_S_sources_1075",
+          "name": "2026-09-02_A2_g_star_raw_再生棉新丹宁与Elwood建筑感廓形",
+          "path": "wiki/sources/2026-09-02_A2_g_star_raw_再生棉新丹宁与Elwood建筑感廓形.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "再生棉丹宁, regenerative cotton denim, Elwood 3D, G-Star 可持续, G-Star 面料创新"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1076",
+          "name": "2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒",
+          "path": "wiki/sources/2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Speedgoat 7 Hike GTX, Clifton 11 GTX OSHMAN'S, HOKA Smino, 霍伽新品, Deckers 回购"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1077",
+          "name": "2026-09-02_A2_karl_lagerfeld_2026H1渠道运营颗粒_七匹狼中报",
+          "path": "wiki/sources/2026-09-02_A2_karl_lagerfeld_2026H1渠道运营颗粒_七匹狼中报.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "卡尔品牌渠道, KL奥莱, KL直播间, 卡尔品牌2026H1, 七匹狼卡尔"
+          ],
+          "confidence": "财报",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1078",
+          "name": "2026-09-02_A2_levis_文化营销双连击_BigTex与WhiteMountaineering",
+          "path": "wiki/sources/2026-09-02_A2_levis_文化营销双连击_BigTex与WhiteMountaineering.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Big Tex 501, 德州州博会, White Mountaineering 联名, M&C联名, Levi's文化营销"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1079",
+          "name": "2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化",
+          "path": "wiki/sources/2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "F&F 战略, MLB 中国周期, F&F 品牌组合, Duvetica, Sergio Tacchini, Discovery Expedition"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1080",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -17889,7 +17949,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1076",
+          "id": "WIKI_S_sources_1081",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -17901,7 +17961,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1077",
+          "id": "WIKI_S_sources_1082",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -17913,7 +17973,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1078",
+          "id": "WIKI_S_sources_1083",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -17925,7 +17985,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1079",
+          "id": "WIKI_S_sources_1084",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -17937,7 +17997,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1080",
+          "id": "WIKI_S_sources_1085",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -17949,7 +18009,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1081",
+          "id": "WIKI_S_sources_1086",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -17961,7 +18021,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1082",
+          "id": "WIKI_S_sources_1087",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -17973,7 +18033,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1083",
+          "id": "WIKI_S_sources_1088",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -17985,7 +18045,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1084",
+          "id": "WIKI_S_sources_1089",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -17997,7 +18057,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1085",
+          "id": "WIKI_S_sources_1090",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -18009,7 +18069,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1086",
+          "id": "WIKI_S_sources_1091",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -18021,7 +18081,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1087",
+          "id": "WIKI_S_sources_1092",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -18033,7 +18093,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1088",
+          "id": "WIKI_S_sources_1093",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -18045,7 +18105,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1089",
+          "id": "WIKI_S_sources_1094",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -18057,7 +18117,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1090",
+          "id": "WIKI_S_sources_1095",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
