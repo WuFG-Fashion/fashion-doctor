@@ -8,7 +8,7 @@ aliases:
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -182,3 +182,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 - **核验结论**：对本品牌财务/门店/联名/营销/竞品/行业全维度联网核验，**无 2025-2026 新增重大信号**，与 2026-08-29 / 08-30 已入库内容一致，未重复造页。
 - **本次新增**：无（显式记录「无新增·核验一致」，非静默跳过）。
 - **关联**：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-09-02 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 增量采集；本轮新增产品延伸 + 营销 + 财务颗粒（见 [[2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒]]）。
+
+- **产品延伸（新增）**：**Speedgoat 7 Hike GTX** 多日徒步靴 2026-10-01 上市 **$190**——Speedgoat 7 平台 + Vibram Megagrip + supercritical EVA + Gore-Tex + Kevlar，切入"多日徒步/快打包"场景（置信度：品牌自宣）。
+- **日本限定（新增）**：**Clifton 11 GTX OSHMAN'S LIMITED** 09-01 起售 **¥25,300**（日本 24 店限定配色）（置信度：品牌自宣）。
+- **Lifestyle 营销（新增）**：Smino 摩托越野风格 campaign 推 Speedgoat 2，向街头/创意人群破圈（置信度：品牌自宣）。
+- **Deckers 财务颗粒（新增）**：Q1 FY2027 回购 **$338M @ $103.79**（高于现价）、**零债务 + $1.6B 现金**、HOKA 营业利润率 **36.3%**（置信度：媒体估算）。
+
+**结论（刷新）**：HOKA 在三连减速（FY27Q1 +7.7%）背景下主动双线补增长——**品类延伸**（跑鞋 DNA 横向移植徒步靴）＋**文化破圈**（Smino 街头 campaign），母公司 Deckers 以零负债 + $1.6B 现金 + 高于现价的回购为扩张提供安全垫；与 [[salomon]] 同处"越野/徒步细分扩容"赛道，但 HOKA 靠已验证平台横向延伸、salomon 靠单品类纵深，是 [[服装行业竞争格局]] 中两条不同的品类策略。
+**信息链（刷新）**：[[2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[salomon]]

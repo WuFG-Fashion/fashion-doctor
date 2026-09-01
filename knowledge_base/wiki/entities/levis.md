@@ -8,7 +8,7 @@ aliases:
 tags: [levis, competitor, denim, premium_denim, usa]
 sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]
 ---
 
@@ -176,3 +176,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（刷新）**：[[levis]] 的 2026 组合拳至此完整：**财务端**（DTC-first 51% + 净扩张 50-60 店 + 单一 ERP）→ **产品端**（501 资产 + Baggy 新廓形 + 超牛仔宽化）→ **区域端**（印度 500 店扩面 + 日本档案复刻）→ **营销端**（音乐×体育双顶流 Keep it Loose）——四端同频，是 [[服装行业竞争格局]] 中"经典品牌年轻化再加速"的完整样本，对 [[peacebird|太平鸟]] / [[cabbeen|卡宾]] 的"品类宽化 + 顶流代言 + 旗舰内容化"三件套可直接对标。
 **信息链（刷新）**：[[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[peacebird]] / [[cabbeen]] / [[karl_lagerfeld]]
+
+## 近期动态刷新（2026-09-02 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[levis]] 的 2025-2026 增量采集；本轮新增文化营销 + 日本联名双连击（见 [[2026-09-02_A2_levis_文化营销双连击_BigTex与WhiteMountaineering]]）。
+
+- **文化营销（新增）**：Levi's 成为德州州博会吉祥物 **Big Tex 官方牛仔裤**，2026 州博会（9/25-10/18）穿定制 501s；配套 **LS Service Station 快闪**（联名产品+现场定制）+ 达拉斯-沃斯堡门店定制 + **Red Tab 会员提前体验**（置信度：品牌自宣）。
+- **日本联名（新增）**：**Made & Crafted® × White Mountaineering** 限定迷你系列 09-04 起售——后开衩风衣/宽管工作裤/M65 军装外套 + **505™ 异材质拼接原色牛仔裤**（双马皮标加雪山形象）（置信度：品牌自宣）。
+- **核验一致**：Keep it Loose campaign（09-01 源）、Q2 财务颗粒（08-30 源）、印度 500 店（08-31 源）均一致。
+
+**结论（刷新）**：[[levis]] 营销节奏保持高频——09-01 全球顶流 campaign（ROSÉ×SGA）→ 09-04 日本设计联名 → 州博会文化 pop-up，三层覆盖（全球/日本/本土文化），与 FY26 净开 50-60 店的渠道扩张配合；Red Tab 会员提前体验权把线下事件做成会员触点，与 [[会员复购率提升策略]] 呼应。对 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 的启示：联名密度 + 会员前置体验是"新品新鲜度 → 单店产出"的前提。
+**信息链（刷新）**：[[2026-09-02_A2_levis_文化营销双连击_BigTex与WhiteMountaineering]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[peacebird]] / [[cabbeen]] / [[会员复购率提升策略]]
