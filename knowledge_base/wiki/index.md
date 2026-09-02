@@ -1024,6 +1024,18 @@ updated: 2026-08-28
 
 ---
 
+## 本轮新增（2026-09-03 · A2 轮 · 分组11品牌全维度验证/增量）
+
+> A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：3 真新增 / 8 显式无新增（非静默跳过）。3 源均含「结论+信息链+confidence+brand_specific」、均双链至品牌实体与 [[服装行业竞争格局]]（karl→[[品牌墙概念与代理模式]]/[[brand_risk_signals_2026]]/[[septwolves]]、levis→[[global_apparel_financial_benchmarks_2026]]/[[diesel]]、hoka→[[salomon]]/[[品牌墙概念与代理模式]]），无孤岛、无断链。8 无新增品牌（etudes/g_star_raw/humble_humble_r/king_baby/lacoste/marcelo_burlon/mlb/mlb_kids）经 WebSearch 核验与 08-22~09-02 已入库内容一致（探针污染：etudes→高定周无关/humble→赫莲娜hummel/king_baby→四川金贝儿食品/marcelo→NGG旧闻；lacoste 仅上海七宝香氛快闪弱信号不入源；mlb_kids 韩国 FW26 弱信号 09-02 已并入 mlb 源），标记「无新增·核验一致」不重复造页。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-03_A2_karl_lagerfeld_FW26全球campaign与NOT-KARL数字角色]] | karl_lagerfeld | 品牌自宣 | true |
+| [[2026-09-03_A2_levis_BlueTab_FW26全球工艺升级]] | levis | 品牌自宣 | true |
+| [[2026-09-03_A2_hoka_one_one_秋季产品矩阵_中国防水徒步与生活方式定价]] | hoka_one_one | 媒体估算 | true |
+
+---
+
 ## 本轮新增（2026-09-02 · A1 轮 · 分组12品牌全维度验证/增量）
 
 > A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：6 真新增 / 6 显式无新增（非静默跳过）。6 源均含「结论+信息链+confidence+brand_specific」、均双链至品牌实体与 [[服装行业竞争格局]]（dkny→[[karl_lagerfeld]]/[[brand_risk_signals_2026]]、crocs→[[brand_risk_signals_2026]]、diesel→[[品牌墙概念与代理模式]]/[[lacoste]]、chuu→[[服装价格带管理与价格真空区]]/[[dekashell]]、dekashell→[[服装价格带管理与价格真空区]]/[[ariose_years]]、ariose_years→[[服装价格带管理与价格真空区]]/[[dekashell]]），无孤岛。6 无新增品牌（cabbeen 风涌无界已 08-19/adlv 澳门专柜已 08-31/awoken_space 黑箱/awoken_time 门店清单已 08-23/dickies UNION 已 08-31/ellesse Garfield 已 09-01）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。G-III FY2027 Q2 财报（dkny 母公司）09-02 美东盘前发布为下轮即时核验点。

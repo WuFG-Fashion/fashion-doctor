@@ -147,3 +147,4 @@ cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_i
 
 - [[2026-08-26_A2_etudes_SS27大秀与品牌升级]]
 - [[2026-08-26_A2_g_star_raw_FW26_ARC回归]]
+- [[2026-09-03_A2_levis_BlueTab_FW26全球工艺升级]]（Blue Tab $300+ 全球奢华材质线——高端化价格带对照样本）
