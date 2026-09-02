@@ -1031,6 +1031,7 @@ updated: 2026-08-28
 | 新增源页 | 品牌 | 置信度 | brand_specific |
 |------|------|------|------|
 | [[2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]] | dkny | 媒体估算 | true |
+| [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]] | dkny | 财报 | true |
 | [[2026-09-02_A1_crocs_CEO减持与分析师评级]] | crocs | 媒体估算 | true |
 | [[2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]] | diesel | 媒体估算 | true |
 | [[2026-09-02_A1_chuu_涨价与韩皮争议核实]] | chuu | 媒体估算 | true |

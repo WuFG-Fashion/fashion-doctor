@@ -5,10 +5,10 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]
 created: 2026-08-14
-updated: 2026-09-02
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]]
+updated: 2026-09-03
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]]
 ---
 
 # DKNY
@@ -133,3 +133,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：G-III 财报节奏 = DKNY 中国扩张的资源指针——若 Q2 维持全年指引则组合管理（Sonia Rykiel/Champion/Cole Haan 授权补位）被市场认可，若下修则 DKNY 直营扩张的集团资金支持或收紧；「beat 预期 + 同比下滑」须以同比方向判健康（置信度：媒体估算）。
 **信息链（织入）**：[[2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[karl_lagerfeld]]
+
+## A1轮全维度采集织入（2026-09-03）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「母公司 G-III Q2 实际财报 + Marc Jacobs 收购完成」维度信号见 [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]]（supersedes 09-02 预告页）。
+- **一句话摘要**：G-III FY2027 Q2（截至 2026-07-31）实际营收 $554.1M（-10%，miss 预期 $570M），毛利率 +440bp 至 45.2%，non-GAAP EPS $0.26 beat 且全年指引上调（GAAP EPS $4.10-4.20）；**2026-09-01 完成 Marc Jacobs 运营业务收购**（长期目标年营收 $1B、FY2027 小幅摊薄）；现金 $529.2M、库存 -13%、净现金约 $521.4M。
+
+**结论（织入）**：预告→实际核验闭环——「beat 来自毛利率扩张 + 税项/利息一次性项而非销售增长」（营业利润与 adj EBITDA 双降印证）；Marc Jacobs 收购使 G-III 由授权商跃迁为自有品牌集团，DKNY 与之并行竞争集团资源，短期资金约束缓解（现金 $529M）但 MJ 整合期集团重心倾斜，DKNY 单品牌中国门店仍黑箱（置信度：财报/媒体估算）。
+**信息链（织入）**：[[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[品牌墙概念与代理模式]] / [[karl_lagerfeld]]
