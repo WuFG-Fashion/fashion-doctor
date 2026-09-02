@@ -8,7 +8,7 @@ aliases:
 tags: [karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, pop_up]
 sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌墙图_2026-08-14, 2026-08-15_R4_卡尔拉格斐2026中国]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-03
 cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]]
 ---
 
@@ -209,3 +209,14 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nau
 
 **结论（刷新）**：[[karl_lagerfeld]] 的"减亏进行时"叙事获得**运营侧证据闭环**——09-01 源给出"亏多少"（-288.83 万，减亏 95.7%），本轮财报给出"怎么减"（奥莱 + 直播间 + 华东华南加密 + 大单品）。这是品牌墙中唯一具备 A 股财报级运营披露的轻奢品牌，其"弱市轻奢三板斧"（奥莱去库存 + 直播间转化 + 核心商圈提质）可作为 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 及品牌墙其他授权品牌的对照样本；但奥莱占比上升是双刃剑，需在 [[brand_risk_signals_2026]] 中跟踪价格带稀释风险。
 **信息链（刷新）**：[[2026-09-02_A2_karl_lagerfeld_2026H1渠道运营颗粒_七匹狼中报]]（来源摘要） → 本页（[[karl_lagerfeld]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[septwolves]]
+
+## 近期动态刷新（2026-09-03 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 增量采集；本轮新增 KL 全球总部（欧洲体系）品牌层 campaign 信号（见 [[2026-09-03_A2_karl_lagerfeld_FW26全球campaign与NOT-KARL数字角色]]）。
+
+- **全球品牌层（新增·品牌自宣）**：KL 总部 FW2026 campaign「From Paris With Love」续章 09-01 全球上线——**Paris Hilton 续任品牌面孔至 FW2026+SS2027**（第 3 季）；**NOT-KARL 数字角色首秀**（以 Karl Lagerfeld 为原型的虚拟人，官方定义"品牌世界新成员"，明确为其更长叙事的"第一步"）；男装面孔换 **Kit Butler**；主牌/KARL LAGERFELD JEANS/KARL LAGERFELD PARIS 三线收拢为单一创意叙事；巴黎时装周期间办特别活动。
+- **产品（新增·品牌自宣）**：FW26 系列以单色调为主——锐利剪裁 + 燕尾服灵感白色长衬衫 + K/Autograph 手袋（当季核心配饰）。
+- **核验一致**：七匹狼中国区运营颗粒（KL 大中华主体 -288.83 万减亏 95.7%、净关 84 家至 1,622 家、奥莱/直播间运营）与 09-01/09-02 源一致，未重复造页。
+
+**结论（刷新）**：[[karl_lagerfeld]] 出现"总部做品牌资产、区域做渠道减亏"的双轨清晰化——全球层用 **NOT-KARL 虚拟 IP** 延续创始人遗产并统一三线叙事，中国区（七匹狼）则继续奥莱+直播间的减亏路径。对品牌墙的启示：**创始人遗产数字化（NOT-KARL 式虚拟人）是轻奢授权品牌对抗创始人离世后"空心化"的前沿解法**，值得 [[brand_risk_signals_2026]] 与 [[品牌墙概念与代理模式]] 跟踪其零售端（是否进入中国 campaigns/直播）落地。
+**信息链（刷新）**：[[2026-09-03_A2_karl_lagerfeld_FW26全球campaign与NOT-KARL数字角色]]（来源摘要） → 本页（[[karl_lagerfeld]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[septwolves]]

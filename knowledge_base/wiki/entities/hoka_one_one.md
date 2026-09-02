@@ -8,7 +8,7 @@ aliases:
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-03
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
@@ -194,3 +194,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：HOKA 在三连减速（FY27Q1 +7.7%）背景下主动双线补增长——**品类延伸**（跑鞋 DNA 横向移植徒步靴）＋**文化破圈**（Smino 街头 campaign），母公司 Deckers 以零负债 + $1.6B 现金 + 高于现价的回购为扩张提供安全垫；与 [[salomon]] 同处"越野/徒步细分扩容"赛道，但 HOKA 靠已验证平台横向延伸、salomon 靠单品类纵深，是 [[服装行业竞争格局]] 中两条不同的品类策略。
 **信息链（刷新）**：[[2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[salomon]]
+
+## 近期动态刷新（2026-09-03 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 增量采集；本轮新增秋季产品矩阵落点（见 [[2026-09-03_A2_hoka_one_one_秋季产品矩阵_中国防水徒步与生活方式定价]]）。
+
+- **中国渠道（新增·媒体估算）**：**Transport 2 GTX「畅行 2 防水版」2026-09-01 中国正式上市**——城市轻徒步/长途出行双向场景：GORE-TEX INVISIBLE FIT + VIBRAM ECOSTEP EVO（回收橡胶）+ CORDURA 鞋面 + TPU 鞋头 + 快速系带（置信度：媒体估算）。
+- **生活方式定价（新增·媒体估算）**：**Mach Remastered**（Mach 6 休闲化复刻）**$145**——半透明 ripstop/金属鞋眼/raw-edge 鞋舌潮流细节 + 超临界泡棉，多配色轮换（置信度：媒体估算）。
+- **竞速线（新增·媒体估算）**：**Tecton X 4** 碳板越野竞速鞋——双层 PEBA + 平行碳板 + MetaRocker，男 275g/40-35mm/5mm 落差，2026-08 UTMB 前后亮相（置信度：媒体估算）。
+- **核验一致**：Speedgoat 7 Hike GTX（10/1 $190）与 Clifton 11 GTX 日本限定（09-02 源）维持，未重复。
+
+**结论（刷新）**：HOKA 秋季在中国打"**防水轻户外**"牌——Transport 2 GTX 中国首发城市轻徒步场景（区别于 Speedgoat 的专业多日徒步），叠加 Mach Remastered $145 生活方式款与 Tecton X 4 竞速线，形成 **$145-190 防水/休闲/竞速三线矩阵**。判断：Deckers 对中国代理渠道的定位是"**城市通勤 + 轻户外**放量、专业越野树心智"，9 月开学季 + 十一出行季前卡位明确；生活方式化（Mach Remastered）对标 [[salomon]] XT 系/On，是提客单的第二曲线。
+**信息链（刷新）**：[[2026-09-03_A2_hoka_one_one_秋季产品矩阵_中国防水徒步与生活方式定价]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]
