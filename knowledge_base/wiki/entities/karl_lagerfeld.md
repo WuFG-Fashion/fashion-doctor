@@ -68,6 +68,7 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nau
 - [[brand_risk_signals_2026]]
 
 - [[dkny]]
+- [[2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证]]
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_karl_lagerfeld_全维度动态]]。
