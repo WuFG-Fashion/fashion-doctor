@@ -629,3 +629,5 @@ GROUP BY 1;
 - [[vip_tier]]
 - [[points_program]]
 - [[selling_ability]]
+
+- [[2026-09-02_B_会员复购率2026基准与忠诚度模型]]
