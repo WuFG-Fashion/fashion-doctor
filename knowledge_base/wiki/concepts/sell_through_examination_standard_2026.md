@@ -115,6 +115,8 @@ cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_man
 - [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
 - [[卖场管理SOP]]
 - [[商品分析四层级框架]]
+- [[cabbeen_brand_analytics_2026]]
+
 ## 待验证
 - 与 kb_benchmarks 中 lifecycle_sell_through 的行业通用值（15天22.5%/30天30%/45天42.5%）存在维度差异，正式考核制度阈值更激进，需在实际业务中验证适用性
 

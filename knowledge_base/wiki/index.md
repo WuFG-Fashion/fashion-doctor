@@ -1036,6 +1036,21 @@ updated: 2026-08-28
 
 ---
 
+## 本轮新增（2026-09-03 · C 轮 · L2_06/07 数据分析 + 品牌级查漏）
+
+> C 轮方法论为主·品牌为辅（技术搜索通用不绑品牌 + 品牌感知查漏锚定 focus_brands 35 个为被分析对象）。通用方法论 4 source（brand_specific:false，双链 concept/practice 不链品牌）：零售 BI 分角色看板与 KPI 基准（售罄 80%+ 健康 / 周转 4-6x / 8 周 70% KA 线，对表 kb_benchmarks）/ 服装库存四层拆解与售罄率×库龄交叉法（深度滞销判定：库龄>90 天 ∧ 14 天零销 ∧ 覆盖>120 天）/ 零售经营语义层四层法与指标契约（Metric Contract）/ 全球零售数据平台中央管控 vs 本地使用。品牌级 2 practice（品牌级数据分析覆盖 0→2/35，闭环缺口矩阵 P0 行）：[[cabbeen_brand_analytics_2026]]（售罄率趋势 SQL 模板 + 渠道口径表 + 存货 246 天→现金周期≈294 天）/ [[crocs_financial_benchmark_template_2026]]（财报五维对标模板，可复用 dkny/tommy/levis/salomon/hoka）。6 页全含「结论+信息链+confidence+brand_specific」；L2_07 practices 双链品牌实体与 [[服装行业竞争格局]]；织网 35 回链 / 23 目标页；无孤岛、无断链。
+
+| 新页 | 类型 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-03_零售BI分角色看板与KPI基准2026]] | source | 媒体估算 | false |
+| [[2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法]] | source | 媒体估算 | false |
+| [[2026-09-03_零售经营语义层建设指南_指标统一四层法]] | source | 媒体估算 | false |
+| [[2026-09-03_全球零售数据平台_中央管控与本地使用]] | source | 媒体估算 | false |
+| [[cabbeen_brand_analytics_2026]] | practice | 财报（主体口径） | true |
+| [[crocs_financial_benchmark_template_2026]] | practice | 财报（工作例） | true |
+
+---
+
 ## 本轮新增（2026-09-02 · A1 轮 · 分组12品牌全维度验证/增量）
 
 > A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：6 真新增 / 6 显式无新增（非静默跳过）。6 源均含「结论+信息链+confidence+brand_specific」、均双链至品牌实体与 [[服装行业竞争格局]]（dkny→[[karl_lagerfeld]]/[[brand_risk_signals_2026]]、crocs→[[brand_risk_signals_2026]]、diesel→[[品牌墙概念与代理模式]]/[[lacoste]]、chuu→[[服装价格带管理与价格真空区]]/[[dekashell]]、dekashell→[[服装价格带管理与价格真空区]]/[[ariose_years]]、ariose_years→[[服装价格带管理与价格真空区]]/[[dekashell]]），无孤岛。6 无新增品牌（cabbeen 风涌无界已 08-19/adlv 澳门专柜已 08-31/awoken_space 黑箱/awoken_time 门店清单已 08-23/dickies UNION 已 08-31/ellesse Garfield 已 09-01）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。G-III FY2027 Q2 财报（dkny 母公司）09-02 美东盘前发布为下轮即时核验点。

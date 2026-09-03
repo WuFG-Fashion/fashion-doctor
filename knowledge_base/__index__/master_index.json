@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-03",
-  "generated_at": "2026-09-03 07:12:11",
-  "total_entries": 1333,
+  "generated_at": "2026-09-03 11:36:58",
+  "total_entries": 1339,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -2594,6 +2594,30 @@
         },
         {
           "id": "WIKI_R_practices_3",
+          "name": "cabbeen_brand_analytics_2026",
+          "path": "wiki/practices/cabbeen_brand_analytics_2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "cabbeen brand analytics"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_R_practices_4",
+          "name": "crocs_financial_benchmark_template_2026",
+          "path": "wiki/practices/crocs_financial_benchmark_template_2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "crocs financial benchmark template"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_R_practices_5",
           "name": "data_library_selection_guide_2026",
           "path": "wiki/practices/data_library_selection_guide_2026.md",
           "file_count": 1,
@@ -2605,7 +2629,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_4",
+          "id": "WIKI_R_practices_6",
           "name": "data_quality_retail_practice",
           "path": "wiki/practices/data_quality_retail_practice.md",
           "file_count": 1,
@@ -2617,7 +2641,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_5",
+          "id": "WIKI_R_practices_7",
           "name": "multi_brand_unified_analytics",
           "path": "wiki/practices/multi_brand_unified_analytics.md",
           "file_count": 1,
@@ -2629,7 +2653,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_6",
+          "id": "WIKI_R_practices_8",
           "name": "python_sql_integration_patterns_2026",
           "path": "wiki/practices/python_sql_integration_patterns_2026.md",
           "file_count": 1,
@@ -2641,7 +2665,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_7",
+          "id": "WIKI_R_practices_9",
           "name": "retail_bi_three_tier_dashboard",
           "path": "wiki/practices/retail_bi_three_tier_dashboard.md",
           "file_count": 1,
@@ -2653,7 +2677,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_R_practices_8",
+          "id": "WIKI_R_practices_10",
           "name": "RFM会员分层运营实战",
           "path": "wiki/practices/RFM会员分层运营实战.md",
           "file_count": 1,
@@ -2663,7 +2687,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_9",
+          "id": "WIKI_R_practices_11",
           "name": "sku_inventory_sql_operations",
           "path": "wiki/practices/sku_inventory_sql_operations.md",
           "file_count": 1,
@@ -2675,7 +2699,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_10",
+          "id": "WIKI_R_practices_12",
           "name": "streamlit_production_dashboard",
           "path": "wiki/practices/streamlit_production_dashboard.md",
           "file_count": 1,
@@ -2687,7 +2711,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_11",
+          "id": "WIKI_R_practices_13",
           "name": "服装订货会精准策划",
           "path": "wiki/practices/服装订货会精准策划.md",
           "file_count": 1,
@@ -2697,7 +2721,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_12",
+          "id": "WIKI_R_practices_14",
           "name": "私域运营方法论",
           "path": "wiki/practices/私域运营方法论.md",
           "file_count": 1,
@@ -2707,7 +2731,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_13",
+          "id": "WIKI_R_practices_15",
           "name": "零售数据仓库SQL实践",
           "path": "wiki/practices/零售数据仓库SQL实践.md",
           "file_count": 1,
@@ -18182,6 +18206,54 @@
         },
         {
           "id": "WIKI_S_sources_1098",
+          "name": "2026-09-03_全球零售数据平台_中央管控与本地使用",
+          "path": "wiki/sources/2026-09-03_全球零售数据平台_中央管控与本地使用.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "中央管控本地使用, 全球零售数据平台, HQ控制本地灵活, global retail data platform"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1099",
+          "name": "2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法",
+          "path": "wiki/sources/2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "库存四层拆解, 售罄率库龄交叉, 服装库存分析, 库存复盘四层, 深度滞销判定"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1100",
+          "name": "2026-09-03_零售BI分角色看板与KPI基准2026",
+          "path": "wiki/sources/2026-09-03_零售BI分角色看板与KPI基准2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "零售BI看板, BI分角色看板, Retail BI 2026, 零售KPI基准2026, 服装售罄率80%基准"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1101",
+          "name": "2026-09-03_零售经营语义层建设指南_指标统一四层法",
+          "path": "wiki/sources/2026-09-03_零售经营语义层建设指南_指标统一四层法.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "零售语义层, 指标统一四层, 可组合指标, 共享维度层, 零售指标治理"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1102",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -18193,7 +18265,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1099",
+          "id": "WIKI_S_sources_1103",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -18205,7 +18277,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1100",
+          "id": "WIKI_S_sources_1104",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -18217,7 +18289,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1101",
+          "id": "WIKI_S_sources_1105",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -18229,7 +18301,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1102",
+          "id": "WIKI_S_sources_1106",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -18241,7 +18313,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1103",
+          "id": "WIKI_S_sources_1107",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -18253,7 +18325,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1104",
+          "id": "WIKI_S_sources_1108",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -18265,7 +18337,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1105",
+          "id": "WIKI_S_sources_1109",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -18277,7 +18349,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1106",
+          "id": "WIKI_S_sources_1110",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -18289,7 +18361,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1107",
+          "id": "WIKI_S_sources_1111",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -18301,7 +18373,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1108",
+          "id": "WIKI_S_sources_1112",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -18313,7 +18385,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1109",
+          "id": "WIKI_S_sources_1113",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -18325,7 +18397,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1110",
+          "id": "WIKI_S_sources_1114",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -18337,7 +18409,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1111",
+          "id": "WIKI_S_sources_1115",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -18349,7 +18421,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1112",
+          "id": "WIKI_S_sources_1116",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -18361,7 +18433,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1113",
+          "id": "WIKI_S_sources_1117",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,

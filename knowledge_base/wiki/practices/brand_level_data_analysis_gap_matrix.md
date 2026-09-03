@@ -73,6 +73,8 @@ cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[服装行业竞争格局]],
 - [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]]
 - [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]]
 - [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]]
+- [[cabbeen_brand_analytics_2026]]
+- [[crocs_financial_benchmark_template_2026]]
 
 ## 待办 / 待验证
 

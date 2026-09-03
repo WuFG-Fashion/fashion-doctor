@@ -69,6 +69,7 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[服装�
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+- [[crocs_financial_benchmark_template_2026]]
 
 ## A1轮复核织入（2026-08-16）
 

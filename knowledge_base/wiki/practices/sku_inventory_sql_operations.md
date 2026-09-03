@@ -116,3 +116,6 @@ ORDER BY sales_30d ASC;
 
 - [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
 - [[retail_bi_three_tier_dashboard]]
+- [[2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法]]
+- [[cabbeen_brand_analytics_2026]]
+

@@ -83,6 +83,7 @@ brand_specific: false
 - [[cabbeen]]
 - [[sku_inventory_sql_operations]]
 - [[bi_dashboard_retail_deployment]]
+- [[2026-09-03_零售BI分角色看板与KPI基准2026]]
 
 ## 待办 / 待验证
 

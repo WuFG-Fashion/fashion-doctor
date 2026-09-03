@@ -102,3 +102,5 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
 
 - [[2026-08-26_A2_hoka_FY27Q1财报深化]]
 - [[2026-08-26_A2_mlb_Q2费用结构与入境游红利]]
+- [[crocs_financial_benchmark_template_2026]]
+
