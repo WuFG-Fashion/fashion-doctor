@@ -7,7 +7,8 @@ aliases: ["PVH Q2 前瞻", "Tommy Hilfiger 财报预期", "2026-09-02_A3_tommy_h
 confidence: 媒体估算
 brand_specific: true
 created: 2026-09-02
-updated: 2026-09-02
+superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
+updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]
 ---
 
@@ -55,3 +56,8 @@ cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]
 - https://finimize.com/content/pvh-looks-set-to-hold-its-2026-outlook-despite-emea-weakness （UBS 观点摘要）
 
 > ⚠️ **待验证**：PVH Q2 实际数字（美东 09-02 盘后/北京 09-03 凌晨发布）落地后，须复核本页预期值与实绩差异，并核对与 08-26 已入库"集团 Q2 口径（EPS 1.52 / 净销售 19.6 亿 / TH 8.92 亿）"的财季编号关系（疑为不同财季口径，待确认）。
+
+## 更正（2026-09-04 · A3轮落地）
+
+> ⚠️ **本页已被官方实绩替代**：PVH 已于 2026-09-02 盘后发布 2026Q2 实绩（集团营收 $2,097M -3% / non-GAAP EPS $3.70 / TH 品牌 $1,132M 持平 / 全年指引重申 $11.80-12.10），frontmatter 已回填 `superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"`。Zacks 共识（EPS $3.08）被显著超越（+20.1%，含关税退税 ~$1.80/股）。RAG 检索请以 09-04 落地页为准。
+

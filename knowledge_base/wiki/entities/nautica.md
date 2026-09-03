@@ -5,9 +5,9 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]]
 ---
 
@@ -149,4 +149,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-01_A3_nautica_Interparfums香水授权协议]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
 
+> 本轮增量采集：转授权时间线精化，新增来源 [[2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景]]。
+
+- **接管时点确认**：Nautica 香水自 Coty 转至 Interparfums 于 **2030-01** 生效（Reuters 2026-05；Beckham 2028-04、Longchamp 首发 2027）——09-02 源"2027 首发窗口"精化为 **IPAR 组合层面 2027+ 新品周期**，Nautica 单品牌首发以 2030 接管后为合理预期（置信度：媒体估算）。
+- **IPAR 2026H1**：销售 +2% / 营业利润 -8%（转授权筹备消耗当期利润），全年指引维持 $1.48B/EPS $4.85——与 09-01/09-02 授权协议叙事闭环（置信度：财报/媒体估算）。
+- Nautica 香水 = 2030+ 远期期权，服装零售（联亚运营）仍是唯一主战场，结论不变。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景]] → 本页（[[nautica]]）→ 下游应用：[[服装行业竞争格局]]

@@ -7,7 +7,7 @@ aliases:
 tags: [trussardi, competitor, luxury, italy, leather, focus_brand, brand_wall]
 sources: [2026-08-15_楚萨迪2026重启开店计划, 商业新知 2026-06, 搜狐 2026-06(Fashion Network/华丽志), 2026-08-15_R4_楚萨迪2025业绩重启, 2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划.md, 2026-08-19_A3_trussardi_全维度动态.md, 2026-08-22_A3_trussardi_退出俄罗斯市场.md, 2026-08-29_A3_trussardi_全维度动态.md, 2026-08-30_A3_trussardi_2026零售扩张与鞋履授权.md]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_楚萨迪2026重启开店计划]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-21_A3_trussardi_资本重组警示与品牌延伸]], [[brand_risk_signals_2026]], [[nautica]], [[2026-08-22_A3_trussardi_退出俄罗斯市场]], [[2026-08-30_A3_trussardi_2026零售扩张与鞋履授权]]
 ---
 
@@ -177,3 +177,13 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
+
+> 本轮核验结果：**已核对，无重大新增**（非静默跳过）；弱信号并入本小节。
+
+- **核验一致项**：TRU TRUSSARDI 海港城旗舰店全新形象重开（全球首间新概念店，2026-08）已于 08 月底入库；Miroglio 2026 扩张计划/鞋履授权（Zengarini 2027 春）/€29M+70%/11 独立店均已在库。
+- **弱信号（不入源页）**：① FW26 品牌 campaign（model-scouting 08-25，模特 Ben Massarenti/Edoardo Nardoni、摄影师 Raffaele Grosso）；② Orbita 手袋（俄罗斯渠道新品，肩带天体位造型，3 尺寸）——均为产品/执行层细节，无战略信号（置信度：媒体估算）。
+- **下轮优先**：2026 下半年意/海外（土耳其/乌兹别克等）新店落地、生活方式线（迪拜 Residences）进展。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核验（无重大新增） → 本页（[[trussardi]]）→ 下游应用：[[服装行业竞争格局]]

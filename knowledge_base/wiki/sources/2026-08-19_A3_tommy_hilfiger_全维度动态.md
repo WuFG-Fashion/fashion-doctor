@@ -7,7 +7,8 @@ aliases: ["Tommy Hilfiger", "汤米希尔费格", "A3轮", "Tommy", "A3轮·Tomm
 confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-19
-updated: 2026-08-19
+superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
+updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[earnings_quality_nonrecurring_2026]], [[peacebird]], [[中国服装零售基准体系2026]]
 ---
 
@@ -55,3 +56,8 @@ cross_refs: [[tommy_hilfiger]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中�
 - [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]]
 ## 待办 / 待验证
 > ℹ️ **待验证（矛盾闭环前置条件）**：① PVH 官方 10-Q 中 Tommy Hilfiger 分部收入的确切定义（是否含批发/许可）；② Q1 与 Q2 是否取自同一披露表；③ 中国区/亚太区单独拆分数据；④ 一次性收益的具体构成与金额。
+
+## 更正（2026-09-04 · A3轮落地）
+
+> ⚠️ **本页 Q2 品牌级数值判为媒体转述失真**：本页记录的"PVH 2026Q2（截至 7/31）TH $892M +4%"与官方实绩（TH $1,132M 持平，同财季截至 2026-08-02）不符——frontmatter 已回填 `superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"`（仅 Q2 数值部分被替代，页面营销/代言等非财务内容仍可参考）。RAG 引用 Q2 数字请以 09-04 落地页为准。
+

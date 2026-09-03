@@ -9,7 +9,7 @@ aliases:
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear]
 sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md, 2026-08-19_A3_no_one_else_全维度动态, 2026-08-29_A3_no_one_else_全维度动态.md]
 created: 2026-08-15
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_no_one_else_全维度动态]], [[chuu]], [[服装价格带管理与价格真空区]]
 ---
 
@@ -142,3 +142,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[no_one_else]]）→ 下游应用：[[服装行业竞争格局]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
+
+> 本轮核验结果：**已核对，无新增**（非静默跳过）。
+
+- 探针命中爱企查品牌解释页（PPB STUDIO/黯涉运营/价格带）——与 08-29 源同源；48 店/招商 300+ 口径差异已在库标注；JUUN.J/其他韩潮动态非本品牌信号。
+- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-09-04。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[no_one_else]]）→ 下游应用：[[服装行业竞争格局]] · [[chuu]]

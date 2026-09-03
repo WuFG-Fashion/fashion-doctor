@@ -56,3 +56,8 @@ cross_refs: [[nautica]], [[lacoste]]
 - https://earningscalls.dev/transcripts/interparfums-inc_ipar_earnings_call_transcript_2026-08-05 （Q2 电话会）
 
 > ℹ️ **基准核对**：$70M 首年预估/2030-01-01 生效/20 年期限均与 09-01 入库的 [[2026-09-01_A3_nautica_Interparfums香水授权协议]] 一致（corroborate）；本轮新增 Lacoste 先例与 2027 首发窗口为增量维度，非数值替代，不触发 superseded_by。
+
+## 订正（2026-09-04 · A3轮精化）
+
+> ℹ️ **"2027 首发窗口"精化**：据 Reuters（2026-05）转授权时间线，Nautica 香水自 Coty 转至 Interparfums 于 **2030-01** 生效（Beckham 2028-04、Longchamp 首个新品 2027）——本页"2027 首发"应为 **IPAR 组合层面 2027+ 新品周期**（Longchamp 等）的误读，Nautica 单品牌首发以 2030 接管后为合理预期。详见 [[2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景]]。
+

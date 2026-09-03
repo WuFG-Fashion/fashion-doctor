@@ -9,7 +9,7 @@ aliases:
 tags: [thisisizi8, competitor, concept_store, buyer_store, korean, china]
 sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md, 2026-08-26_A3_thisisizi8_卡宾官网矩阵收录.md, 2026-08-29_A3_thisisizi8_全维度动态.md]
 created: 2026-08-15
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]], [[two_am]]
 ---
 
@@ -147,3 +147,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], 
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[thisisizi8]]）→ 下游应用：[[服装行业竞争格局]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
+
+> 本轮核验结果：**已核对，无新增**（非静默跳过）。
+
+- 探针命中均为卡宾主牌（万家丽门店体验文、Mid Valley 马来第三店）及无关品牌（CABaN 日本伊势丹），**无 thisisIZI8 专属 2026 新信号**；深圳/武汉门店与卡宾官网矩阵收录均已入库。
+- **处置**：不造重复源页，仅登记核对记录，`updated` 前推至 2026-09-04。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[thisisizi8]]）→ 下游应用：[[服装行业竞争格局]] · [[cabbeen]]

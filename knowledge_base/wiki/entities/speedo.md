@@ -6,7 +6,7 @@ aliases:
 tags: [speedo, competitor, sportswear, swimwear, uk]
 sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名.md, 2026-08-19_A3_speedo_全维度动态.md, 2026-08-23_A3_speedo_亚运窗口与张展硕官宣.md, 2026-08-29_A3_speedo_全维度动态.md]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]], [[salomon]], [[tommy_hilfiger]]
 ---
 
@@ -155,3 +155,12 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
+
+> 本轮核验结果：**已核对，弱增量并入本小节**（非静默跳过）。
+
+- **核验一致项**：张展硕加入 Team Speedo（08-18 官宣）已入库；UNDEFEATED/CHIIKAWA/BEAMS 联名已入库；京东渠道促销为常规运营。
+- **弱增量（并入实体，不入源页）**：① 官宣主题「浪起，展新局」(The Next Wave Starts Here)；② **名古屋亚运会 9 月中下旬开赛**（Team Speedo 装备高频曝光窗口，张展硕 400 自世界青年纪录 3:41.55 为话题核心）；③ 余依婷刷新女子 200 混亚洲纪录级成绩 2:07.45（泛太平洋赛会纪录）+ 加入竞速叙事——竞速线（黑标 6.0/Fastskin）赛事营销窗口（置信度：媒体估算，来源：smzdm 2026-08-21 / Speedo 官方微博）。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 核验（弱增量并入） → 本页（[[speedo]]）→ 下游应用：[[服装行业竞争格局]]

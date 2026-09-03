@@ -7,7 +7,8 @@ aliases: ["Tommy Hilfiger", "汤米·希尔费格", "PVH", "A3轮·Tommy Hilfige
 confidence: 财报
 brand_specific: true
 created: 2026-08-26
-updated: 2026-08-26
+superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
+updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[服装行业竞争格局]]
 ---
 
@@ -53,3 +54,8 @@ cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]]
 
 ## 待办 / 待验证
 > ℹ️ **待验证**：① TH 中国（直营收购后）在集团口径中的具体增速；② 北美可比下滑幅度与下半年拐点；③ 官方 Q1 10.77 亿与 Q2 8.92 亿环比 -17% 的口径解释（Q1 是否含中国收购并表一次性基数）。
+
+## 更正（2026-09-04 · A3轮落地）
+
+> ⚠️ **本页 Q2 数值判为媒体转述失真**：本页记录的"2026Q2 集团净销售 $1,960M +6% / EPS 1.52 / TH $892M +4% / CK $786M +8%"与 PVH 官方 2026-09-02 发布的同财季（截至 2026-08-02）实绩（集团 $2,097M -3% / non-GAAP EPS $3.70 / TH $1,132M 持平 / CK $913M -7%）系统性不符——媒体链（WWD/买得易转述）判为失真，frontmatter 已回填 `superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"`。RAG 检索请以 09-04 落地页为准。
+

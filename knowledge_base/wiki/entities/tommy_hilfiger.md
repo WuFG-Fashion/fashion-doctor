@@ -6,9 +6,9 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-09-04
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
@@ -168,3 +168,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]]
+## 近期动态刷新（2026-09-04 · A3轮·品牌全维度）
+
+> 本轮 P0 采集：PVH 2026Q2 官方实绩落地（09-02 发布），新增来源 [[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]。
+
+- **集团 Q2 实绩（截至 2026-08-02）**：营收 $20.97 亿（-3%，指引上沿）；non-GAAP EPS **$3.70**（超 Zacks 共识 $3.08 达 20.1%，但含关税退税 ~$1.80/股）；GAAP -$2.23（含 EMEA **$4.39 亿商誉减值**）（置信度：财报）。
+- **Tommy Hilfiger 品牌收入 $11.32 亿（持平）**：含收回北美授权女装品类约 +3pp，剔除过渡后约 -3%；DTC 毛衣双位数/亚麻 +30%+（置信度：财报）。
+- **财季编号闭环**：官方"2026 second quarter"= 截至 08-02 的 13 周，即 08-19/08-26 所指同财季——媒体链 Q2 数字（TH $8.92 亿 +4%/集团 $19.6 亿 +6%/EPS 1.52）判为**转述失真**，以官方实绩为准；08-19/08-26 源已回填 superseded_by 至 09-04 源（置信度：财报）。
+- **全年指引重申**：non-GAAP EPS **$11.80-12.10**（上年 $11.40）——否证 08-21/08-28 媒体链"指引 6.44-6.54"；Alexis Rollier（前丝芙兰 CFO/COO）到任 CFO；年内 130+ 新店/120+ 翻新（置信度：财报）。
+- **中国**：APAC DTC 低个位数（恒定汇率）增长、中国电商中个位数；商务部调查进行中（置信度：财报/媒体估算）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[brand_risk_signals_2026]] · [[earnings_quality_nonrecurring_2026]]
