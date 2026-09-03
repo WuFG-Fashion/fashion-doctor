@@ -5,10 +5,10 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]
 created: 2026-08-14
-updated: 2026-09-03
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]]
+updated: 2026-09-04
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]]
 ---
 
 # DKNY
@@ -141,3 +141,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：预告→实际核验闭环——「beat 来自毛利率扩张 + 税项/利息一次性项而非销售增长」（营业利润与 adj EBITDA 双降印证）；Marc Jacobs 收购使 G-III 由授权商跃迁为自有品牌集团，DKNY 与之并行竞争集团资源，短期资金约束缓解（现金 $529M）但 MJ 整合期集团重心倾斜，DKNY 单品牌中国门店仍黑箱（置信度：财报/媒体估算）。
 **信息链（织入）**：[[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[品牌墙概念与代理模式]] / [[karl_lagerfeld]]
+
+## A1轮全维度采集织入（2026-09-04）
+> 本轮 A1 对本品做 2026 全维度核验，新增「母公司 Q2 电话会品牌经营颗粒 + Marc Jacobs 整合结构」维度信号见 [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]]。
+- **一句话摘要**：G-III Q2 电话会补录单品牌颗粒——DKNY 官网销售 +20% 中段、门店同店中单位数、Kendall Jenner FW26 战役 + 鞋类分销扩至 Nordstrom/Macy's/Dillard's；Donna Karan +45%+；Marc Jacobs 约 2/3 收入 DTC、>100 直营店（多奥莱）、约 90% 收入来自手袋/配饰、今年全球销售约 $360M（不含授权）；Q3 指引逊预期致股价 09-02/03 下挫约 9% 至 ~$29.25。
+**结论（织入）**：DKNY 母公司口径健康度证据链齐（官网/门店/正价售罄/零售伙伴扩架四指标同向），但中国单品牌仍黑箱不可外推；Goldfarb 以「DKNY 当年'现金流工具'滥用教训 → Donna Karan 档案真实路线」直接定调 Marc Jacobs 整合方法论，同一集团内两种成长范式并行；MJ 短期摊薄 + Q3 指引逊预期 + 股价 -9% = 整合期风险已入价，12 月 Q3 财报为下个核验点（置信度：财报/媒体估算）。
+**信息链（织入）**：[[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]] → 本页（[[dkny]]） → 下游 [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[品牌墙概念与代理模式]] / [[karl_lagerfeld]]
