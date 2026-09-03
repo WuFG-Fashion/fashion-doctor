@@ -8,8 +8,8 @@ aliases:
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-09-03
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-09-04
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]
 ---
 
 # HOKA ONE ONE
@@ -206,3 +206,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（刷新）**：HOKA 秋季在中国打"**防水轻户外**"牌——Transport 2 GTX 中国首发城市轻徒步场景（区别于 Speedgoat 的专业多日徒步），叠加 Mach Remastered $145 生活方式款与 Tecton X 4 竞速线，形成 **$145-190 防水/休闲/竞速三线矩阵**。判断：Deckers 对中国代理渠道的定位是"**城市通勤 + 轻户外**放量、专业越野树心智"，9 月开学季 + 十一出行季前卡位明确；生活方式化（Mach Remastered）对标 [[salomon]] XT 系/On，是提客单的第二曲线。
 **信息链（刷新）**：[[2026-09-03_A2_hoka_one_one_秋季产品矩阵_中国防水徒步与生活方式定价]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]
+
+## 近期动态刷新（2026-09-04 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 增量采集；本轮新增 Archive 复刻与潮流化落点（见 [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]）。
+
+- **Archive 复刻（新增·媒体估算）**：**Tor Ultra Lo** 睽违三季复刻（2015 年首发 Cross-Over Hiker：跑鞋缓震 × 户外防水稳定，官方定调 Archive Icon）——Nubuck 皮 + Nylon + GORE-TEX Bootie + Vibram Megagrip，**¥38,500 日圆（≈$243）**，4 配色 2026-08-14 起分批至 12 月（Antique Olive 8/14 → Black 9 月上旬 → Varsity Navy 11 月上旬 → Archival Taupe 12 月上旬）（置信度：媒体估算）。
+- **潮流精选店渠道（新增·媒体估算）**：复刻款分销走 mita / atmos / Kith / BEAMS MEN / BEAMS BOY / DSMG / Billy's / UA&S 等潮流渠道，**非传统跑者专业店**——目标客群从"跑者"向"穿 HOKA 出门的人"迁移（置信度：媒体估算）。
+- **Clifton 潮流化（新增·媒体估算）**：**Clifton UTL** 2026-09-04 发售（台湾 NT$5,080）——Clifton 经典基因潮流转译：透气网布 + PU 模压支撑 + 反光鞋带织带 + CMEVA + 耐磨橡胶；Emma Rogue（ROGUE Vintage 创始人）演绎，首发星球灰/黑（置信度：媒体估算）。
+- **核验一致**：Transport 2 GTX 中国 9/1（09-03）、Mach Remastered $145（09-03）、Clifton 11 GTX OSHMAN'S 限定（09-02）、Speedgoat 7 Hike GTX 10/1（09-02）维持，未重复。
+
+**结论（刷新）**：HOKA 的 lifestyle 化已从"单点联名/限量"升级为"**复刻档案款 + 现款潮流转译**"双管线（Tor Ultra Lo / Mach Remastered 复刻线 + Clifton UTL / Clifton 11 GTX 潮流线），且统一走**潮流精选店 + 限定配色**渠道——用档案资产低成本扩 lifestyle，规避全新研发周期，对冲 FY27Q1 +7.7% 减速。对中国侧的判断：Tor Ultra 复刻目前仅日/台/北美，**未见中国上市信号**；若后续进入中国潮流店（DOE/INVINCIBLE 类）即 lifestyle 破圈落地的先行指标——与 [[salomon]]（单品类纵深）路径分野更清晰，是 [[服装行业竞争格局]] 中"复刻资产打法"的参照案例。
+**信息链（刷新）**：[[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]

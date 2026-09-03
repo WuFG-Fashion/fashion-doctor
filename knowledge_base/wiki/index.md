@@ -1036,6 +1036,16 @@ updated: 2026-08-28
 
 ---
 
+## 本轮新增（2026-09-04 · A2 轮 · 分组11品牌全维度验证/增量）
+
+> A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体与 [[服装行业竞争格局]]（hoka→[[salomon]]/[[品牌墙概念与代理模式]]），无孤岛。10 无新增品牌（etudes/karl_lagerfeld/levis/mlb 检索命中均已入库（karl G-III FY2026 $630M/>$1.7B/170+ 店与阿姆斯特丹咖啡馆、mlb KARINA 胶囊、levis 弱信号 BEAMS 联名不入源）/humble_humble_r/king_baby/marcelo_burlon 探针污染或旧闻（纽约 Humble 街头牌/K11 童装旧闻/2015 Moët 联名）/g_star_raw Agbobly+Yay Abe 已入库/lacoste Roland-Garros+香港旗舰已入库/mlb_kids 香港 K11 独立店为 2019 旧闻非 2026）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。hoka 源为 Archive 复刻与潮流化补录（Tor Ultra Lo 复刻 + Clifton UTL，09-02/03 产品矩阵源的并行 SKU 落点）。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]] | hoka_one_one | 媒体估算 | true |
+
+---
+
 ## 本轮新增（2026-09-03 · A2 轮 · 分组11品牌全维度验证/增量）
 
 > A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：3 真新增 / 8 显式无新增（非静默跳过）。3 源均含「结论+信息链+confidence+brand_specific」、均双链至品牌实体与 [[服装行业竞争格局]]（karl→[[品牌墙概念与代理模式]]/[[brand_risk_signals_2026]]/[[septwolves]]、levis→[[global_apparel_financial_benchmarks_2026]]/[[diesel]]、hoka→[[salomon]]/[[品牌墙概念与代理模式]]），无孤岛、无断链。8 无新增品牌（etudes/g_star_raw/humble_humble_r/king_baby/lacoste/marcelo_burlon/mlb/mlb_kids）经 WebSearch 核验与 08-22~09-02 已入库内容一致（探针污染：etudes→高定周无关/humble→赫莲娜hummel/king_baby→四川金贝儿食品/marcelo→NGG旧闻；lacoste 仅上海七宝香氛快闪弱信号不入源；mlb_kids 韩国 FW26 弱信号 09-02 已并入 mlb 源），标记「无新增·核验一致」不重复造页。
