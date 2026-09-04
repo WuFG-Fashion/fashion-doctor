@@ -6,7 +6,7 @@ tags: [diesel, otb, fashion_group, listed_private, new_ceo, ai_tryon, focus_bran
 sources: [nss magazine·OTB 2025 financial results, TheFashionDB·Diesel, The Beauty Press·OTB Google Cloud, FashionNetwork·Renzo Rosso]
 created: 2026-08-30
 updated: 2026-08-30
-cross_refs: [[diesel]], [[服装行业竞争格局]], [[零售AI试穿与虚拟穿搭2026]]
+cross_refs: [[diesel]], [[服装行业竞争格局]], [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]
 confidence: 第三方数据
 brand_specific: true
 ---
@@ -37,18 +37,18 @@ brand_specific: true
 ## 结论
 
 1. Diesel 在 Glenn Martens 创意复兴 + 批发清理 + 柏林/首尔新店三重驱动下走出十年最佳年，验证"创意总监 + 渠道纪律"对抗奢侈品危机的有效性。
-2. OTB × Google Cloud AI Try-On 以 Diesel 首发，是奢侈品集团级零售科技落地信号，与 [[零售AI试穿与虚拟穿搭2026]] 直接呼应（Fashion Doctor 零售分析系统可对标）。
+2. OTB × Google Cloud AI Try-On 以 Diesel 首发，是奢侈品集团级零售科技落地信号，与 [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]] 直接呼应（Fashion Doctor 零售分析系统可对标）。
 3. 对 Fashion Doctor：Diesel/OTB 是"非上市时尚集团财务透明度低但创意驱动增长 + AI 零售试点"的样本，与 [[cabbeen]]（AI 虚拟试穿规划）形成中外对照。
 
 ## 信息链
 
-- 上游来源：nss magazine / TheFashionDB / The Beauty Press → 本页（来源摘要）→ 下游应用：[[diesel]] 实体 / [[服装行业竞争格局]] / [[零售AI试穿与虚拟穿搭2026]]
+- 上游来源：nss magazine / TheFashionDB / The Beauty Press → 本页（来源摘要）→ 下游应用：[[diesel]] 实体 / [[服装行业竞争格局]] / [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]
 
 ## 关联页面
 
 - [[diesel]]（实体母页）
 - [[服装行业竞争格局]]
-- [[零售AI试穿与虚拟穿搭2026]]
+- [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]
 - [[cabbeen]]（AI 虚拟试穿对照）
 
 > ℹ️ **基准核对**：本源"Diesel 十年最佳年 €44M 利润 / Andrea Rigogliosi 2026-01-14 CEO"与 2026-08-29 源"OTB 业绩 + 新 CEO"方向一致（该源未含具体利润额与 AI 试穿），属增量补充，非矛盾。

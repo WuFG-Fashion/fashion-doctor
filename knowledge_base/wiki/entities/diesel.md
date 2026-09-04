@@ -126,8 +126,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 > 本轮 A1 对本品做 2026 全维度核验，新增「OTB 2025 利润额 + AI 试穿」维度信号见 [[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]]。
 - **一句话摘要**：OTB 2025 营收约 €1.7B（-4.8%）、消除净债务，Diesel 贡献 €44M 利润（十年最佳年）；Andrea Rigogliosi 2026-01-14 任 Diesel CEO；OTB × Google Cloud AI Try-On 以 Diesel 首发。
 
-**结论（织入）**：Diesel 在 Martens 创意复兴+批发清理+柏林/首尔新店下走出十年最佳年；OTB×Google Cloud AI 试穿(Diesel首发)是奢侈品集团级零售科技落地，与 [[零售AI试穿与虚拟穿搭2026]] 呼应、与 [[cabbeen]] AI 规划对照。
-**信息链（织入）**：[[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[零售AI试穿与虚拟穿搭2026]]
+**结论（织入）**：Diesel 在 Martens 创意复兴+批发清理+柏林/首尔新店下走出十年最佳年；OTB×Google Cloud AI 试穿(Diesel首发)是奢侈品集团级零售科技落地，与 [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]] 呼应、与 [[cabbeen]] AI 规划对照。
+**信息链（织入）**：[[2026-08-30_diesel_OTB2025财报与新CEO与AI试穿]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]
 
 ## A1轮全维度采集织入（2026-09-02）
 

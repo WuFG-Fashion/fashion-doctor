@@ -2,7 +2,7 @@
 title: 知识库导航
 type: index
 created: 2026-06-05
-updated: 2026-08-28
+updated: 2026-09-05
 ---
 
 # Fashion Doctor 知识库导航
@@ -997,7 +997,7 @@ updated: 2026-08-28
 
 ## 本轮新增（2026-08-30 · A1 轮 · 分组12品牌全维度验证/增量）
 
-> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：7 真新增 / 5 显式无新增（非静默跳过）。7 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（crocs→[[服装价格带管理与价格真空区]]、dekashell→[[品牌墙概念与代理模式]]、dickies→[[品牌墙概念与代理模式]]、diesel→[[零售AI试穿与虚拟穿搭2026]]/[[品牌墙概念与代理模式]]、ellesse→[[服装行业竞争格局]]、ariose_years→[[品牌墙概念与代理模式]]、chuu→[[服装价格带管理与价格真空区]]/[[品牌墙概念与代理模式]]），无孤岛。5 无新增品牌（cabbeen/adlv/dkny/awoken_space/awoken_time）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验，库已高度覆盖：7 真新增 / 5 显式无新增（非静默跳过）。7 源均含「结论+信息链」、均双链至品牌实体与 [[服装行业竞争格局]]（crocs→[[服装价格带管理与价格真空区]]、dekashell→[[品牌墙概念与代理模式]]、dickies→[[品牌墙概念与代理模式]]、diesel→[[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]/[[品牌墙概念与代理模式]]、ellesse→[[服装行业竞争格局]]、ariose_years→[[品牌墙概念与代理模式]]、chuu→[[服装价格带管理与价格真空区]]/[[品牌墙概念与代理模式]]），无孤岛。5 无新增品牌（cabbeen/adlv/dkny/awoken_space/awoken_time）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。
 
 | 新增源页 | 品牌 | 置信度 | brand_specific |
 |------|------|------|------|
@@ -1033,6 +1033,16 @@ updated: 2026-08-28
 | [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]] | dkny | 财报 | true |
 | [[2026-09-04_A1_crocs_游戏王联名与名人冬季战役]] | crocs | 品牌自宣 | true |
 | [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]] | dickies | 品牌自宣 | true |
+
+---
+
+## 本轮新增（2026-09-05 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验：1 真新增 / 11 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[chuu]] 与 [[服装行业竞争格局]]/[[服装价格带管理与价格真空区]]，无孤岛。11 无新增品牌（cabbeen 中国火箭官方合作伙伴 08-17 已入库·仅新浪「571 店 vs 财报 573」口径记实体待办、ariose_years 猎聘/BOSS 招聘弱信号已具、awoken_space+awoken_time 黑箱探针无信号、crocs 游戏王 SKU/日本定价/9-10 全球节奏=09-04 源细节补充、dekashell 检索污染、dickies OLWS 转载 corroborate、diesel FFXIV/大阪福冈 pop-up=09-02 源细节补充、dkny G-III/MJ 与 09-03/09-04 全 corroborate+中国门店黑箱延续+WWD Fall campaign 弱信号记实体观察、ellesse Garfield 已 09-01+Vekić/Tabilo 大使弱信号记实体观察、adlv 检索污染）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。chuu 源为 08-17 源「迪士尼米奇限定透卡」碎片信息的系统性补全（三弹节奏化时间线）。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-05_A1_chuu_迪士尼联名三弹与IP节奏化运营]] | chuu | 媒体估算 | true |
 
 ---
 
