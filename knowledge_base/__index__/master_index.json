@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-04",
-  "generated_at": "2026-09-04 09:25:25",
-  "total_entries": 1349,
+  "generated_at": "2026-09-04 11:48:54",
+  "total_entries": 1355,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -18372,6 +18372,94 @@
         },
         {
           "id": "WIKI_S_sources_1111",
+          "name": "2026-09-04_B_会员付费经济模型与忠诚度选型",
+          "path": "wiki/sources/2026-09-04_B_会员付费经济模型与忠诚度选型.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "会员付费经济模型",
+            "忠诚度选型门槛",
+            "付费会员unit economics"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1112",
+          "name": "2026-09-04_B_会员生命周期与沉睡唤醒2026",
+          "path": "wiki/sources/2026-09-04_B_会员生命周期与沉睡唤醒2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "会员生命周期管理2026",
+            "沉睡唤醒2026",
+            "会员流失归因"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1113",
+          "name": "2026-09-04_B_商品企划量化首单测款返单与售罄公式集",
+          "path": "wiki/sources/2026-09-04_B_商品企划量化首单测款返单与售罄公式集.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "首单比例",
+            "测款节点",
+            "返单节奏",
+            "售罄率公式",
+            "小单快反量化"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1114",
+          "name": "2026-09-04_B_季末清仓分级折扣与节奏管理",
+          "path": "wiki/sources/2026-09-04_B_季末清仓分级折扣与节奏管理.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "季末清仓",
+            "分级清货",
+            "清仓节奏",
+            "折扣红线"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1115",
+          "name": "2026-09-04_B_导购薪酬提成方案与考核量化设计",
+          "path": "wiki/sources/2026-09-04_B_导购薪酬提成方案与考核量化设计.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "导购提成方案",
+            "阶梯提成",
+            "导购考核量化"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1116",
+          "name": "2026-09-04_B_门店人效AI练货与智能工牌会话数字化",
+          "path": "wiki/sources/2026-09-04_B_门店人效AI练货与智能工牌会话数字化.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "AI练货",
+            "智能工牌",
+            "会话数字化",
+            "AI导购培训2026"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1117",
           "name": "2026-09-04_三款极简图表可视化Skill工具清单",
           "path": "wiki/sources/2026-09-04_三款极简图表可视化Skill工具清单.md",
           "file_count": 1,
@@ -18387,7 +18475,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1112",
+          "id": "WIKI_S_sources_1118",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -18399,7 +18487,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1113",
+          "id": "WIKI_S_sources_1119",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -18411,7 +18499,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1114",
+          "id": "WIKI_S_sources_1120",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -18423,7 +18511,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1115",
+          "id": "WIKI_S_sources_1121",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -18435,7 +18523,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1116",
+          "id": "WIKI_S_sources_1122",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -18447,7 +18535,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1117",
+          "id": "WIKI_S_sources_1123",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -18459,7 +18547,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1118",
+          "id": "WIKI_S_sources_1124",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -18471,7 +18559,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1119",
+          "id": "WIKI_S_sources_1125",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -18483,7 +18571,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1120",
+          "id": "WIKI_S_sources_1126",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -18495,7 +18583,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1121",
+          "id": "WIKI_S_sources_1127",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -18507,7 +18595,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1122",
+          "id": "WIKI_S_sources_1128",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -18519,7 +18607,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1123",
+          "id": "WIKI_S_sources_1129",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -18531,7 +18619,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1124",
+          "id": "WIKI_S_sources_1130",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -18543,7 +18631,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1125",
+          "id": "WIKI_S_sources_1131",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -18555,7 +18643,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1126",
+          "id": "WIKI_S_sources_1132",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -18567,7 +18655,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1127",
+          "id": "WIKI_S_sources_1133",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
