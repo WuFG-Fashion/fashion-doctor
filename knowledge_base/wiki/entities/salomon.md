@@ -8,8 +8,8 @@ aliases:
 tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_sports]
 sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md, 2026-08-19_A3_salomon_全维度动态, 2026-08-23_A3_salomon_Jisoo大使与国际化扩张.md, 2026-08-26_A3_salomon_北京双旗舰落地.md, 2026-08-29_A3_salomon_全维度动态.md, 2026-09-02_A3_salomon_中国门店矩阵与潮流化风险]
 created: 2026-08-14
-updated: 2026-09-04
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]]
+updated: 2026-09-05
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]], [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]]
 ---
 
 # SALOMON
@@ -200,3 +200,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核验（弱增量并入） → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[peacebird]]
+
+## 近期动态刷新（2026-09-05 · A3轮·品牌全维度）
+
+> 本轮采集：鞋类新品/联名/代言矩阵，新增来源 [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]]（置信度：品牌自宣）。
+
+- **XT-EVO 新鞋型 9/2 首发**：大网眼+液态橡胶外骨骼覆盖结构，赤焰红/量子黑/冷峻灰三色致敬 XT-6 初代；抖音旗舰店+线下精选店 9/2 先发、9/3 全线上铺开；Kith FW26 联名款先行售罄、吴赫（HYUKOH）上脚造势（置信度：品牌自宣）。
+- **Salomon × Goodbai 二度联名 XT-RIDGE（9/5 发售）**：干花标本拓印 + 限定鞋盒「盛放未止」叙事；渠道 Salomon 官方线上 + GOODBAI 上海/成都门店（置信度：品牌自宣）。
+- **杨祐宁 8/24 品牌挚友**：8/26 着 GENESIS 2 + SOLUS 出战 2026 UTMB ETC（15km/1200m）完赛首野——"普通跑者"越野文化叙事（置信度：品牌自宣）。
+- **核验一致项**：国贸旗舰店 728.37㎡ 三层、亚玛芬 Q2（Salomon 板块 $5.69 亿 +37.4%）、315 店/全年净增 45 家、GRVL/Genesis2 定价均与 08-19~09-04 库内一致；本月事件均为 SKU/代言新增维度，无数值冲突。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]] → 本页（[[salomon]]）→ 下游应用：[[服装行业竞争格局]] · [[hoka_one_one]] · [[peacebird]] · [[cabbeen]]

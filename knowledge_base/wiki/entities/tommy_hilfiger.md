@@ -8,7 +8,7 @@ aliases:
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
 sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]
 created: 2026-08-14
-updated: 2026-09-04
+updated: 2026-09-05
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
 ---
 
@@ -180,3 +180,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[brand_risk_signals_2026]] · [[earnings_quality_nonrecurring_2026]]
+
+## 近期动态刷新（2026-09-05 · A3轮·品牌全维度）
+
+> 本轮核验 + 财报细节补充：PVH 2026Q2 官方 8-K 更多颗粒（09-02 同一财报事件，细节延展，不建新源）。
+
+- **Q3 指引颗粒（新增数据点）**：FY2026 Q3 预计营收低个位数下滑（同比口径更艰难）、non-GAAP 营业利润率约 **7.5%**（低于去年同期）、non-GAAP EPS **$2.50-2.65**（上年 $2.83）——管理层"宏观压力持续但战略推进"口径；Q3 营销投放同比加码（置信度：财报）。
+- **$300M 回购计划（新增）**：PVH 宣布 2026 年内至少回购 **$3 亿**股票（置信度：财报）。
+- **Q2 补充口径（Vogue/电话会）**：TH 收入持平约 $1.1B；CK $913.3M（-7%）；EMEA -6%、美洲 -1%、APAC +1%（报告）/DTC 驱动；Jung Kook CK campaign 获"史上最成功产品联名"评价（$5B 社媒触达/90%+ 售罄率）——TH 侧 Kelce campaign 早秋 momentum 正面（置信度：财报/媒体）。
+- **核验一致**：09-04 源页全部核心数字（$2,097M/EPS $3.70/TH $1,132M/$439M 减值/全年 $11.80-12.10）复核一致，无数值冲突。
+
+### 信息链（本轮）
+- 上游来源：PVH 8-K（SEC 2026-09-02）+ Vogue/Zacks 摘要 → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[brand_risk_signals_2026]] · [[earnings_quality_nonrecurring_2026]]
