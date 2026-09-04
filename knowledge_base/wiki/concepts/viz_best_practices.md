@@ -5,8 +5,8 @@ aliases: [viz_best_practices]
 tags: [sql, viz, best, practices]
 sources: []
 created: 2026-06-05
-updated: 2026-08-26
-cross_refs: []
+updated: 2026-09-04
+cross_refs: [[2026-09-04_三款极简图表可视化Skill工具清单]]
 ---
 
 # 可视化最佳实践
@@ -198,3 +198,27 @@ fig.update_layout(width=800)  # 不要固定宽度
 
 - Streamlit 1.59（2026-07）新特性：ButtonColumn(表内按钮)、st.mermaid_chart(内联架构图)、App.run() 直启、st.fragment 写外部容器(局部刷新)、persist_state(跨 rerun 保留状态)；st.write_stream 支持 OpenAI Responses API 流。
 - 来源：[[2026-08-15_Streamlit_1.59新特性与LLM集成]]
+
+## 2026-09-04 更新（ingestInbox 临时收集提炼）
+
+### AI 图表可视化 Skill 三款（来源：公众号工具清单 → [[2026-09-04_三款极简图表可视化Skill工具清单]]，可信度：**中**·媒体估算待实测）
+
+- **lieflat-charts**（larashero3-dotcom）：编辑感数据图表统一风格，三形态 = **Lupi（编辑叙事型·细读）** / **Glance（快速判断型·周报看板）** / **Basics（基础编辑型）**；变异版 komakizhu/lieflat-charts-custom 增 4 套预设（莫兰迪/克莱因蓝橙/勃艮第青绿/梅子紫酸橙）。
+- **Archscribe**（lazypay）：手绘技术图/架构图/流程图，Excalidraw 可编辑源文件 + PNG + GIF，深浅两套观感。
+- **diagram-design**（cathrynlavery）：27 类专业图表（架构/流程/时序/ER + 四象限/维恩/金字塔），HTML+SVG，支持抓取网站首页自动匹配品牌色板字体（多品牌看板换肤候选）。
+
+> 与本页既有内容的关系：本节是"图表**风格/工具**层"补充，既有 Streamlit/BI 章节是"平台层"；选型顺序不变——先定 BI 平台（见上），再按阅读场景选风格（Glance 给经营日报、Lupi 给复盘长文）。
+
+## 结论
+
+1. **图表风格先于图表类型被决定**：读者阅读耐心决定形态——决策者扫读（Glance 粗柱大数字）vs 读者细读（Lupi 编辑叙事留白），同一数据在周报与年报应不同呈现。
+2. **多品牌看板的视觉一致性应靠"样式自动继承"而非逐图手调**：diagram-design 抓取站点生成样式指南的做法，是东尚多品牌 dashboard 视觉治理（每品牌一套色板/字体栈）的可借鉴模式。
+3. **工具清单类情报的价值在"按需可取"**：三款 Skill 入库作 AI 可视化备选池，真实适配结论须实测后回填，避免"装了工具=提升了看板"的错觉。
+
+## 信息链
+
+上游来源 [[2026-09-04_三款极简图表可视化Skill工具清单]] → 本页（[[viz_best_practices]]） → 下游应用 [[retail_bi_visualization_2026]] BI 选型对照 / [[streamlit_dashboard_2026]] 自建看板 / [[bi_dashboard_retail_deployment]] 部署实操 / 东尚多品牌 dashboard 视觉治理
+
+## 关联页面
+
+[[2026-09-04_三款极简图表可视化Skill工具清单]] / [[retail_bi_visualization_2026]] / [[streamlit_dashboard_2026]] / [[bi_dashboard_retail_deployment]] / [[python_dashboard_ecosystem_2026]]

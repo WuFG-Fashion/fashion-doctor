@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-04",
-  "generated_at": "2026-09-04 07:31:35",
-  "total_entries": 1348,
+  "generated_at": "2026-09-04 09:25:25",
+  "total_entries": 1349,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -18372,6 +18372,22 @@
         },
         {
           "id": "WIKI_S_sources_1111",
+          "name": "2026-09-04_三款极简图表可视化Skill工具清单",
+          "path": "wiki/sources/2026-09-04_三款极简图表可视化Skill工具清单.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "图表可视化Skill",
+            "lieflat-charts",
+            "Archscribe手绘技术图",
+            "diagram-design专业图表",
+            "极简图表工具"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": false
+        },
+        {
+          "id": "WIKI_S_sources_1112",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -18383,7 +18399,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1112",
+          "id": "WIKI_S_sources_1113",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -18395,7 +18411,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1113",
+          "id": "WIKI_S_sources_1114",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -18407,7 +18423,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1114",
+          "id": "WIKI_S_sources_1115",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -18419,7 +18435,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1115",
+          "id": "WIKI_S_sources_1116",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -18431,7 +18447,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1116",
+          "id": "WIKI_S_sources_1117",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -18443,7 +18459,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1117",
+          "id": "WIKI_S_sources_1118",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -18455,7 +18471,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1118",
+          "id": "WIKI_S_sources_1119",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -18467,7 +18483,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1119",
+          "id": "WIKI_S_sources_1120",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -18479,7 +18495,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1120",
+          "id": "WIKI_S_sources_1121",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -18491,7 +18507,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1121",
+          "id": "WIKI_S_sources_1122",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -18503,7 +18519,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1122",
+          "id": "WIKI_S_sources_1123",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -18515,7 +18531,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1123",
+          "id": "WIKI_S_sources_1124",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -18527,7 +18543,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1124",
+          "id": "WIKI_S_sources_1125",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -18539,7 +18555,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1125",
+          "id": "WIKI_S_sources_1126",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -18551,7 +18567,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1126",
+          "id": "WIKI_S_sources_1127",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
