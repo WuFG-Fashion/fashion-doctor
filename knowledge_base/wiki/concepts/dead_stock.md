@@ -107,3 +107,5 @@ Fashion Doctor 实操经验，2026-04-29 确认口径。
 - [[kpi_benchmark]]
 - [[data_quality]]
 - [[sku_lifecycle]]
+
+- [[2026-09-04_B_季末清仓分级折扣与节奏管理]]

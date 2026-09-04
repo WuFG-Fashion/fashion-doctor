@@ -229,3 +229,6 @@ cross_refs: []
 - [[category_planning]]
 - [[dead_stock]]
 - [[kpi_benchmark]]
+
+- [[2026-09-04_B_商品企划量化首单测款返单与售罄公式集]]
+- [[2026-09-04_B_季末清仓分级折扣与节奏管理]]
