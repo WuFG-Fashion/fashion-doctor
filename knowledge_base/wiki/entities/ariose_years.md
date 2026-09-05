@@ -8,10 +8,10 @@ aliases:
   - "ARIOSE"
   - "雅诗"
 tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, focus_brand]
-sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md, 2026-08-29_ariose_years_2025业绩与AWPROJECT高端线, 2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea, 2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带]
+sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md, 2026-08-29_ariose_years_2025业绩与AWPROJECT高端线, 2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea, 2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带, 2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]
 created: 2026-08-14
-updated: 2026-09-02
-cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]]
+updated: 2026-09-06
+cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]], [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]]
 ---
 
 # 艾诺丝·雅诗 (ARIOSE YEARS)
@@ -183,3 +183,11 @@ cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格�
 
 **结论（织入）**：「形象旗舰 + 加盟走量」双轨是 1800 家级女装的进阶路径——旗舰店支撑 ¥700-3,000 价格带上限的可信度，与 [[dekashell]]（600-900 家、全加盟、无旗舰）形成规模相近下的差异化对照（置信度：媒体估算）；门店口径三说并存仍是数据治理欠账，对外引用须统一 1800+ 基准。
 **信息链（织入）**：[[2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带]] → 本页（[[ariose_years]]） → 下游 [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]] / [[dekashell]]
+
+## A1轮全维度采集织入（2026-09-06）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「重庆 FV 佛罗伦萨小镇奥莱二期店」维度信号见 [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]]。
+- **一句话摘要**：重庆 FV 佛罗伦萨小镇名品奥特莱斯二期 08-13 试营业（预计 09-10 正式启幕），ARIOSE YEARS 位列二期 18 家「重庆奥莱独家品牌」之一（与 JORYA/MOUSSY/EVISU 并列潮流男女装）——与 09-02 悦荟 L1 北区旗舰店构成同城「购物中心旗舰 + 名品奥莱」双店布局（置信度：媒体估算）。
+
+**结论（织入）**："旗舰提形象、奥莱清库存"从集团叙事落到同城实证——重庆一城两店把渠道结构升级为「形象旗舰/购物中心 + 加盟/县域 + 奥莱/折扣」三通道；但奥莱名单中 ARIOSE 被项目方归类为"潮流男女装"而非轻奢档，反映其在折扣场景的定位语境与"EP 雅莹平替"静奢叙事存在温差（置信度：媒体估算/推断）。
+**信息链（织入）**：[[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]] → 本页（[[ariose_years]]） → 下游 [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]] / [[dekashell]]

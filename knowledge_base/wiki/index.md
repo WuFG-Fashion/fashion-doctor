@@ -1046,6 +1046,16 @@ updated: 2026-09-05
 
 ---
 
+## 本轮新增（2026-09-06 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验：1 真新增 / 11 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[ariose_years]] 与 [[服装行业竞争格局]]/[[服装价格带管理与价格真空区]]/[[2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带]]（上游），无孤岛。11 无新增品牌（cabbeen 9/20 风涌无界大秀未落地·仅石狮临时用海备案 4 公顷官方物流细节 + 股价 1.28 HKD 平台·YTD -12.93%、chuu 迪士尼三弹文章=09-05 源同源·无第四弹信号、crocs 游戏王 SKU 编码/Foot Locker 独家/赠卡机制=09-04 源细节补充·9/9-10 未发售无销售实证、dekashell 四主体与 500/600/900 口径全部 corroborate·仅弱颗粒旭弘注册资本 300 万同址向星、dickies WIND AND SEA 已 08-21 入库 + OLWS 转载 corroborate、diesel FFXIV 全部为 09-02 源转载 corroborate、dkny G-III 电话会与 09-03/09-04 全 corroborate + 中国门店黑箱延续、ellesse Garfield 已 09-01（GQ 意式运动回潮行业文涉 Fila/Diadora 非本组焦点不越界入库）、adlv 检索污染（adidas）、awoken_space + awoken_time 黑箱探针无信号）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。ariose_years 源为渠道新维度：重庆 FV 名品奥莱二期 18 家重庆独家品牌入驻（与悦荟 L1 北区旗舰同城双店）。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]] | ariose_years | 媒体估算 | true |
+
+---
+
 ## 本轮新增（2026-09-04 · A2 轮 · 分组11品牌全维度验证/增量）
 
 > A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体与 [[服装行业竞争格局]]（hoka→[[salomon]]/[[品牌墙概念与代理模式]]），无孤岛。10 无新增品牌（etudes/karl_lagerfeld/levis/mlb 检索命中均已入库（karl G-III FY2026 $630M/>$1.7B/170+ 店与阿姆斯特丹咖啡馆、mlb KARINA 胶囊、levis 弱信号 BEAMS 联名不入源）/humble_humble_r/king_baby/marcelo_burlon 探针污染或旧闻（纽约 Humble 街头牌/K11 童装旧闻/2015 Moët 联名）/g_star_raw Agbobly+Yay Abe 已入库/lacoste Roland-Garros+香港旗舰已入库/mlb_kids 香港 K11 独立店为 2019 旧闻非 2026）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。hoka 源为 Archive 复刻与潮流化补录（Tor Ultra Lo 复刻 + Clifton UTL，09-02/03 产品矩阵源的并行 SKU 落点）。
