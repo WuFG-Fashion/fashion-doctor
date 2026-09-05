@@ -6,10 +6,10 @@ aliases:
   - "李维斯"
   - "LEVI"
 tags: [levis, competitor, denim, premium_denim, usa]
-sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md]
+sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md, 2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑.md]
 created: 2026-08-14
-updated: 2026-09-03
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]
+updated: 2026-09-06
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]]
 ---
 
 # Levi's
@@ -198,3 +198,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（刷新）**：[[levis]] 高端化出现**结构性拐点**——Blue Tab 从"日牛发烧友小众线"升级为"全球奢华材质衣橱线"（$300+ 价位、跨产地材质、女装裙装补全），把 08-27 源"高端化（Blue Tab）三杠杆"从战略补成产品事实。营销层（大众 Keep it Loose 顶流 + 日本联名 + 美国文化 pop-up）与产品层（Blue Tab 全球工艺）同步上探，验证其"用文化资产换价格带"的整体路径；中国区（新 GM Anita Fung）是否同步引入 Blue Tab FW26 是下轮观察点。
 **信息链（刷新）**：[[2026-09-03_A2_levis_BlueTab_FW26全球工艺升级]]（来源摘要） → 本页（[[levis]]） → 下游 [[global_apparel_financial_benchmarks_2026]] / [[服装行业竞争格局]] / [[diesel]]
+
+## 近期动态刷新（2026-09-06 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[levis]] 的 2025-2026 增量采集；本轮新增产品档案层双里程碑（见 [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]]）。
+
+- **RED 系列三度复刻（新增·品牌自宣）**：1999 年问世的传奇解构支线 RED——**2010 停产、2014 短暂复刻后停 7 年**，2026 再度复刻：主打"宽酷廓潮 × 经典工装"碰撞 + 永续纤维材质；男、女上下身及配件完整单品线 + 全新 **5 大版型裤款**（复刻黄标、不规则鹰翅弧线缝线、特色红旗®标）；台湾市场 9 月见开售信号（Railroad Trousers 高腰茧型工作裤 **NT$6,200** / Workwear Loose Straight 宽松直筒 **NT$6,900**）（置信度：品牌自宣/媒体估算）。
+- **100% 可回收循环丹宁（新增·永续里程碑）**：Wellthread 系列"循环丹宁"——**20% 旧牛仔裤 + 20% 永续原料嫘萦 + 60% 有机棉**，应用男裤 502™ + 女裤全新版型 **HIGH LOOSE**，面料/纱线/双马标/排扣**整件皆可拆解**；与新锐涂鸦创作家 **Nathaniel Russell** 联名注入艺术感（置信度：品牌自宣）。
+- **核验一致**：Keep it Loose（09-01）/ Big Tex + White Mountaineering（09-02）/ Blue Tab FW26（09-03）均未重复；Q2 财务颗粒（08-30）维持；Keep it Loose 上海南京东路门店已上新图（ROSÉ Loose Boot/Taper，08 月）为同 campaign 渠道落地。
+
+**结论（刷新）**：[[levis]] 产品档案层至此形成 **LVC（元年复刻）+ RED（支线重启）+ 联名复刻（Shinzone/White Mountaineering）三轨复刻引擎**——150 年档案池是其独有的供给端优势，可与 [[hoka_one_one]]/[[g_star_raw]] 的档案复刻对照；循环丹宁以"100% 可回收 + 整件拆解"把永续叙事推到技术闭环级，比纤维级再生（g_star 75/25）更高门槛。产品端（复刻×永续）+ 营销端（顶流 campaign）× 渠道端（DTC 51% + 净开 50-60 店）三端同频，[[peacebird|太平鸟]]/[[cabbeen|卡宾]] 可借鉴"档案重启制造话题 + 可验证永续指标支撑溢价"的组合拳。
+**信息链（刷新）**：[[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[g_star_raw]] / [[peacebird]] / [[cabbeen]]
