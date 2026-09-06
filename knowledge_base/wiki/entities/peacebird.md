@@ -12,6 +12,19 @@ sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-18_新浪证券_15�
 created: 2026-06-05
 updated: 2026-09-05
 cross_refs: [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[hla]], [[semir]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[ai_fashion_design_cases_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-19_服装供应链SCM白皮书2026]], [[2026-06-28_证券时报_太平鸟品牌升级与数字化]], [[2026-06-02_浙江日报_太平鸟30周年深度]], [[2026-07-16_apparel_30_brands_2026q1_ranking]], [[2026-07-18_太平鸟2025FY年报详录与2026Q1更新]], [[2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%]], [[2026-08-01_太平鸟2026Q2单季质量分析]], [[2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略]], [[menswear_brands_2026q1]], [[服装企划趋势渠道]], [[six_brands_2026q1]], [[earnings_quality_nonrecurring_2026]], [[2026-08-09_太平鸟_2026H1质量深化存货与研发]], [[apparel_esg_rating_2026]], [[2026-08-10_中财网_太平鸟H1电商引擎与费用管控]], [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]], [[2026-08-19_A3_peacebird_全维度动态]], [[2026-08-21_A3_peacebird_组织架构调整与门店轨迹序列]], [[salomon]], [[mr_mrs]], [[multi_brand_unified_analytics]], [[2026-08-22_A3_peacebird_2026门店净增长指引与股权激励]], [[2026-08-26_A3_peacebird_券商评级与门店拆解]], [[2026-09-05_A3_peacebird_半年度业绩说明会与工商变更]]
+relations:
+  - type: competitor_of
+    target: "[[muson_gxg]]"
+    note: "男装线：通勤男装直接竞品"
+  - type: benchmark_of
+    target: "[[ariose_years]]"
+    note: "女装：中高端时尚女装（中淑），同价位对标"
+  - type: benchmark_of
+    target: "[[moco_epo]]"
+    note: "女装：中高端女装会员运营标杆"
+  - type: benchmark_of
+    target: "[[jnby]]"
+    note: "女装：设计师女装龙头，会员/品牌战略标杆"
 ---
 
 # 太平鸟 (PEACEBIRD, 603877.SH)

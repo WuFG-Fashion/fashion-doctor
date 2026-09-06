@@ -9,6 +9,10 @@ sources: [2026-08-15_迪卡轩品牌档案, DEKASHELL 官网 about, 猎聘招聘
 created: 2026-08-14
 updated: 2026-09-02
 cross_refs: [[peacebird]], [[cabbeen]], [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_迪卡轩品牌档案]]
+relations:
+  - type: benchmark_of
+    target: "[[ariose_years]]"
+    note: "同杭州女装，迪卡轩对标中淑定位"
 ---
 
 # 迪卡轩 (DEKASHELL)

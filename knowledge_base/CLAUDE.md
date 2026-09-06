@@ -55,6 +55,11 @@ cross_refs: [[引用页1]], [[引用页2]]
 confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估算   # 数据可信度分级（RAG 检索质量关键，见 2.4）
 brand_specific: true | false   # 仅 source 页：true=品牌特有数据（双链到品牌实体），false=行业通用方法论（双链到 concept，不链品牌），见 2.5
 superseded_by: "[[YYYY-MM-DD_更新source]]"   # 可选：当本页数据被更新 source 替代时填写，RAG 检索应优先取 superseded_by 指向的页面，见 2.5
+relations:                     # 可选，仅 entity 页：类型化关系（补充 cross_refs 的"什么关系"，见 2.6 本体关系试点）
+  competitor_of: [目标文件名]  # 直接竞品（同赛道同客群）
+  benchmark_of: [目标文件名]   # 对标/学习对象
+  same_sector: [目标文件名]    # 同赛道但非直接竞争
+  supplier_of: [目标文件名]    # 上下游（供应商）
 ---
 ```
 
@@ -135,6 +140,21 @@ superseded_by: "[[YYYY-MM-DD_更新source]]"   # 可选：当本页数据被更�
 - 旧 source 不删除（保留历史轨迹），但 RAG 检索时应优先取 `superseded_by` 指向的页面。
 - 采集自动化（A/B/C轮）在写入新 source 时，须检查是否已有同品牌同指标的旧 source，有则回填 `superseded_by`。
 - 知识库优化自动化（optimize）定期检查 `superseded_by` 链的完整性。
+
+### 2.6 类型化关系（relations，本体试点，仅 entity 页可选）
+
+> **为什么需要**：`cross_refs` 只表达"相关"，不表达"是什么关系"。太平鸟的 `cross_refs` 里有 `[[muson_gxg]]`、`[[fast_retailing]]`，但模型无法推断谁是竞品、谁是对标、谁是供应链上下游。`relations` 补上"主-谓-宾"关系语义，让模型能回答"太平鸟的直接竞品是谁"这类跨文档推理题。
+
+`relations`（仅 entity 页，可选字段，与 `cross_refs` 并列、不替换）：
+- 关系类型（第一批 4 种，够用再扩，宁缺毋滥）：
+  - `competitor_of`：直接竞品（同赛道、同客群、抢同一批顾客）
+  - `benchmark_of`：对标/学习对象（更强或不同打法，用来参照）
+  - `same_sector`：同赛道但非直接竞争（客群不同）
+  - `supplier_of`：上下游（供应商/客户）
+- 目标一律用**文件名**（不用 aliases，与 `cross_refs` 断链规则一致，见 4.2）。
+- 关系多为对称（A 竞品 B ⇒ B 竞品 A），落盘只写一次，检索端做双向展开即可，不必两边都写。
+- **试点范围**：先从"竞品分析"场景的核心品牌（太平鸟、卡宾、GXG、波司登、海澜之家等约 10-15 个）做起，暂不铺满全部 65 个实体。
+- 检索端支持关系展开（按 `competitor_of` > `benchmark_of` > `same_sector` 加权）属后续工作，未实施前 `relations` 字段不影响现有检索行为。
 
 ## 三、工作流规则（必须遵守）
 

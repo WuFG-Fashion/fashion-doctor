@@ -13,6 +13,19 @@ sources: [2026-08-15_卡宾2026中期业绩与2025年报, 卡宾服饰2026中期
 created: 2026-08-14
 updated: 2026-08-31
 cross_refs: [[peacebird]], [[muson_gxg]], [[hla]], [[lilanz]], [[menswear_brands_2026q1]], [[男装品牌竞争格局2026Q1]], [[服装行业竞争格局]], [[core_brands_peacebird_cabbeen_2026]], [[two_am]], [[2026-08-15_卡宾2026中期业绩与2025年报]], [[2026-08-17_cabbeen_火箭合作与秋季系列]], [[2026-08-17_cabbeen_会员规模与私域基数]], [[2026-08-18_cabbeen_中期经营质量深挖_净关店与现金流]], [[2026-08-20_A1_cabbeen_国际化快闪与明星营销]], [[2026-08-26_B佐证_卡宾终端培训与加盟运营体系]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]], [[2026-08-26_A3_thisisizi8_卡宾官网矩阵收录]]
+relations:
+  - type: competitor_of
+    target: "[[peacebird]]"
+    note: "太平鸟男装：同男装+中高端都市时尚，直接抢客"
+  - type: competitor_of
+    target: "[[muson_gxg]]"
+    note: "GXG：通勤/都市男装，价位重叠"
+  - type: competitor_of
+    target: "[[the_mr_young]]"
+    note: "密特·扬：国潮街头男装，调性最接近"
+  - type: competitor_of
+    target: "[[humble_humble_r]]"
+    note: "谦而不卑：新锐街头男装，同调性"
 ---
 
 # 卡宾（Cabbeen）
