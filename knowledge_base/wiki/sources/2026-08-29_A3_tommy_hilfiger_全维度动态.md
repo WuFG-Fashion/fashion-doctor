@@ -37,7 +37,7 @@ brand_specific: true
 
 ### 联名/营销/竞品/行业
 - 营销：Travis Kelce 合作、利物浦 FC 联名、核心毛衣/外套品类强化；Calvin Klein 借 Dakota Johnson、Jung Kook Campaign。
-- 竞品：[[tommy_hilfiger]] 与 [[speedo]]、[[salomon]] 同属国际品牌墙矩阵；休闲赛道竞品 Ralph Lauren、[[gxg_muson|GXG]] 等。
+- 竞品：[[tommy_hilfiger]] 与 [[speedo]]、[[salomon]] 同属国际品牌墙矩阵；休闲赛道竞品 Ralph Lauren、[[muson_gxg|GXG]] 等。
 - 行业：全球服饰承压，PVH+ 计划聚焦产品创新+运营效率，直营 DTC 提效、批发收回授权。
 
 ## 结论

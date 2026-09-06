@@ -37,7 +37,7 @@ superseded_by: ""
 - 若后续确认 awoken_space 为 MODING 运营代理下的独立品牌，应补建专属 source 并双链至 [[awoken_time]] 厘清关系；若确认已停运，应标注风险信号。
 
 ## 信息链
-上游来源 [[awoken_space_检索核查]]（WebSearch）→ 本页（[[awoken_space]] 资料状态维度）→ 下游应用 与 [[awoken_time]] 关系澄清 / [[服装行业竞争格局]]
+上游来源 WebSearch 检索核查→ 本页（[[awoken_space]] 资料状态维度）→ 下游应用 与 [[awoken_time]] 关系澄清 / [[服装行业竞争格局]]
 
 ## 关联页面
 - [[awoken_space]]

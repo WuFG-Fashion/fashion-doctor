@@ -31,7 +31,7 @@ sources: [https://carlmurawski.com/what-happened-to-dickies-874, https://post.m.
 > **brand_specific**：true（Dickies 品牌特有质量与授权风险信号）。
 
 ## 信息链
-- 上游来源：[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]] · [[品牌墙图_2026-08-14]] → 本页（[[2026-08-28_A1_dickies_Bluestar后质量与授权扰动]]）→ 下游应用：[[dickies]] · [[品牌墙概念与代理模式]] · [[服装行业竞争格局]]
+- 上游来源：[[2026-08-26_A1_dickies_Bluestar收购后欧洲扩张]] · 品牌墙图(2026-08-14, 用户指定) → 本页（[[2026-08-28_A1_dickies_Bluestar后质量与授权扰动]]）→ 下游应用：[[dickies]] · [[品牌墙概念与代理模式]] · [[服装行业竞争格局]]
 
 ## 来源链接
 - Carl Murawski《What Happened to Dickies? The Truth About the 874》(2026-06)

@@ -154,6 +154,7 @@ updated: 2026-09-05
 ### wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
 |------|------|------|
+| [[品牌联名策略]] ⭐ NEW | 联名预算三档配置法（流量型拉曲线/工艺型抬价值/生态型筑壁垒）+ Harriet Quick 三判据（专属团队/常态化线下/独立叙事）；实证：LACOSTE 2026 Godzilla×ALPHA×Alpine A290 分层组合（09-06 织网补建锚点） | collab, marketing, ip, strategy |
 | [[apparel_esg_rating_2026\|服装行业ESG评级2026]] ⭐ NEW | 秩鼎2026 A股纺服110家ESG评级：森马/报喜鸟AAA并列第1、太平鸟BBB第71(环境项36.36分/第95名)、比音勒芬BBB；ESG=竞品分析第五维度 | esg, rating, competitor, sustainability |
 | [[sleeping_member_reactivation|沉睡会员唤醒策略]] ⭐ UPDATED| 4类唤醒方法+流失窗口+七匹狼实战数据；8-03新增数字化转型网精准触达(无效推送-70%) + 08-05新增:有赞高端男装RFM唤醒| vip, dormant, repurchase |
 | [[sku_fine_management|服装SKU精细化管理]] ⭐ UPDATED| ABC分类+安全库存+8维度决策+四阶段推进+金波小单快反90天(起订-90%/滞销-25pp) + 08-05新增:金字塔结构+GreenRetail+品类角色| sku, inventory, merchandise + 08-11新增:百亿零商陈核心SKU动销≥90%+apparellots 60/30/10与GMROI2.5-3.5 |

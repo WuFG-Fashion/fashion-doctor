@@ -35,7 +35,7 @@ cross_refs: [[cabbeen]], [[会员与VIP运营体系2026]], [[会员复购率提�
 - 佐证"会员数据治理"必要性：410 万会员 vs 630 店，单店承载约 6,500 人，EZR 平台已收口私域，但 LTV 统一测算与个保合规仍是下一步。
 
 ## 信息链
-上游来源 [[wiki/wiki/raw/articles/2026-08-23_B_cabbeen_会员与VIP运营.md]] → 本页（source：卡宾会员与VIP运营品牌实证）→ 下游应用 [[会员与VIP运营体系2026]] / [[会员复购率提升策略]] / [[cabbeen]]
+上游来源 [[wiki/raw/articles/2026-08-23_B_cabbeen_会员与VIP运营.md]] → 本页（source：卡宾会员与VIP运营品牌实证）→ 下游应用 [[会员与VIP运营体系2026]] / [[会员复购率提升策略]] / [[cabbeen]]
 
 ## 关联页面
 - [[cabbeen]]
