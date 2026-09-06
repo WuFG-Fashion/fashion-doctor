@@ -214,12 +214,12 @@ updated: 2026-09-05
 | [[three_brands_mid2026]] ⭐ NEW | 太平鸟/GXG/优衣库2026中期三种模式三种命运 | competitor, comparison, financial |
 | [[six_brands_2026q1]] ⭐ UPDATED | 八品牌2026Q1对比+H&M Q2追踪+Q2前瞻(申万) +5月电商品牌梯队：森马利润王/太平鸟拐点/ZARA撤退/H&M毛利率修复至56.62%/滔搏存量优化/三种生存模式 +7-24新增中报前瞻(森马+50%+/比音勒芬+20%/海澜持平) +7-26 海澜毛利率45.93%→45.32%修正(交易所口径) +8-01新增太平鸟2026Q2单季质量(营收12.22亿/归母-3492万/毛利率59.33%/三费率52.92%/研发中心6亿·自洽Q1 1.37亿+Q2 -0.349亿=H1 1.02亿) +8-02新增慕尚GXG 2025年报深化(借款9.035→4.113亿/零压力通勤定位/增利靠节流) +8-05新增太平鸟2026H1品牌·渠道拆解实际值(替换中报前瞻)：童装为共同亮点/乐町-22.02%为最大降幅/加盟体系承压为行业共性 | competitor, comparison, 2026Q1, 2026Q2 |
 | [[core_brands_peacebird_cabbeen_2026]] | 双核对标：太平鸟(规模龙头) vs 卡宾(设计师差异化)，2026H1 体量 6:1 | peacebird, cabbeen, core_brand, comparison |
-| [[brand_portfolio_tiers_2026]] ⭐ S轮·四遍 | 36品牌组合分层矩阵：营收/增长/品类/国际化/DTC/数据可得性六维分层；识别"DTC直营化与高增长正相关""运动户外全员正增长""韩潮两极分化""数据黑箱系统性约束" +8-23增量：MLB Q2骤降/peacebird盈利深挖/nerdy更名NDY/dickies易主Bluestar | comparison, focus_brands, synthesis, s_round |
-| [[brand_risk_signals_2026]] ⭐ S轮·四遍 | 36品牌风险信号汇总：盈利质量/库存/渠道管控/单一市场依赖/韩潮退潮/治理口径/数据黑箱七类风险 +8-23增量：NERDY更名NDY/trussardi退俄/dickies易主/peacebird研发-20.43% | comparison, focus_brands, synthesis, risk |
-| [[brand_store_channel_2026]] ⭐ S轮·四遍 | 36品牌门店策略+渠道结构对比：直营/加盟/混合分类、开关节奏、DTC/线上/全渠道整合度；识别"直营化+大店模型=高增长标准答案""代理模式双刃剑""全渠道量化能力双核独享" +8-23增量：chuu城市门店细分/awoken_time白猿宇宙 | comparison, focus_brands, synthesis, s_round, store, channel |
-| [[brand_gross_margin_2026]] ⭐ S轮·四遍 | 36品牌毛利率分层：已披露聚焦品牌46%-62%、仅5/36有数据、黑箱最严重维度 +8-23增量：太平鸟Q2季度低点59.33% | comparison, focus_brands, synthesis, s_round, gross_margin |
-| [[brand_ops_data_infra_2026]] ⭐ S轮·四遍 | 36品牌运营策略+数据基建适配：桥接B/C轮practices，会员/社群信号仅双核+标杆有、数据基建适配度随可得性断崖 +8-23增量：B轮佐证艾诺丝波段/迪卡轩加盟培训、太平鸟2-5-10战略 | comparison, focus_brands, synthesis, s_round, operations, data_infrastructure |
-| [[brand_lifecycle_capital_events_2026]] ⭐ S轮·五遍 NEW | 品牌生命周期与资本动作事件图谱：2026-07~08 更名NDY/易主Dickies→Bluestar/退俄Trussardi/减值KL/卡宾代销反转/thisisizi8入卡宾矩阵/迪卡轩主体注销风险/ADLV国际化七类事件图谱，资本动作=财务恶化先行指标 | comparison, focus_brands, synthesis, s_round, lifecycle, capital_event |
+| [[brand_portfolio_tiers_2026]] ⭐ S轮·六遍 | 36品牌组合分层矩阵：营收/增长/品类/国际化/DTC/数据可得性六维分层；识别"DTC直营化与高增长正相关""运动户外全员正增长""韩潮两极分化""数据黑箱系统性约束" +S6(09-06)：档案复刻+循环材料成国际头部共同叙事/MLB官方判中国周期反转/卡宾2AM马来独立店出海 | comparison, focus_brands, synthesis, s_round |
+| [[brand_risk_signals_2026]] ⭐ S轮·六遍 | 36品牌风险信号汇总：盈利质量/库存/渠道管控/单一市场依赖/韩潮退潮/治理口径/数据黑箱七类风险 +S6(09-06)：PVH退税型beat(tommy)/dkny母公司收购Marc Jacobs/KL首次定量减亏/韩潮风险分层化(MLB反转vs尾部退潮) | comparison, focus_brands, synthesis, risk |
+| [[brand_store_channel_2026]] ⭐ S轮·六遍 | 36品牌门店策略+渠道结构对比：直营/加盟/混合分类、开关节奏、DTC/线上/全渠道整合度；识别"直营化+大店模型=高增长标准答案""代理模式双刃剑""全渠道量化能力双核独享" +S6(09-06)：出海独立性分层(双核独立店vs品牌墙授权专柜)/艾诺丝正价+奥莱双轨/tommy收回直营代价显性化 | comparison, focus_brands, synthesis, s_round, store, channel |
+| [[brand_gross_margin_2026]] ⭐ S轮·六遍 | 36品牌毛利率分层：已披露聚焦品牌46%-62%、仅5/36有数据、黑箱最严重维度 +S6(09-06)：无新披露5/36不变；纪律升级——先剔一次性项再比毛利(PVH退税型毛利$107M) | comparison, focus_brands, synthesis, s_round, gross_margin |
+| [[brand_ops_data_infra_2026]] ⭐ S轮·六遍 | 36品牌运营策略+数据基建适配：桥接B/C轮practices，会员/社群信号仅双核+标杆有、数据基建适配度随可得性断崖 +S6(09-06)：B轮09-02~04会员复购/生命周期方法论基准(通用方法论不链品牌) | comparison, focus_brands, synthesis, s_round, operations, data_infrastructure |
+| [[brand_lifecycle_capital_events_2026]] ⭐ S轮·六遍 | 品牌生命周期与资本动作事件图谱：2026-07~08 更名NDY/易主Dickies→Bluestar/退俄Trussardi/减值KL/卡宾代销反转/thisisizi8入卡宾矩阵/迪卡轩主体注销风险/ADLV国际化七类事件 +S6(09-06)：G-III收购Marc Jacobs/KL减亏修复/MLB组合多元化/nautica迁IPAR/2AM马来独立店——资本方向从收缩转向修复再布局 | comparison, focus_brands, synthesis, s_round, lifecycle, capital_event |
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 

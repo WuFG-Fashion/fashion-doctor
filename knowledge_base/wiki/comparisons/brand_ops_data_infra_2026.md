@@ -7,9 +7,9 @@ aliases:
   - "brand ops data infra 2026"
   - "focus_brands 运营与数据适配"
 tags: [comparison, focus_brands, synthesis, s_round, operations, membership, crm, data_infrastructure, multi_brand, 2026]
-sources: [kb_benchmarks.json, 36个品牌实体页, practices/RFM会员分层运营实战, practices/私域运营方法论, concepts/会员与VIP运营体系2026, practices/multi_brand_unified_analytics, practices/brand_config_driven_system, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-07-31_太平鸟2026半年报]
+sources: [kb_benchmarks.json, 36个品牌实体页, practices/RFM会员分层运营实战, practices/私域运营方法论, concepts/会员与VIP运营体系2026, practices/multi_brand_unified_analytics, practices/brand_config_driven_system, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-07-31_太平鸟2026半年报, 2026-09-02_B_会员复购率2026基准与忠诚度模型, 2026-09-04_B_会员生命周期与沉睡唤醒2026]
 created: 2026-08-16
-updated: 2026-08-30
+updated: 2026-09-06
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_years]], [[salomon]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_store_channel_2026]], [[brand_lifecycle_capital_events_2026]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[会员与VIP运营体系2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[data_quality_governance]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
 ---
@@ -18,7 +18,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_y
 
 > **一句话摘要**：把 B轮（品牌怎么运营）与 C轮（用什么工具分析）的方法论沉淀，反向映射到 36 个 focus_brands——识别出"会员/社群运营仅在双核+少数标杆有实质信号，品牌墙普遍缺位""数据基建适配度随数据可得性断崖：双核可直接接入多品牌统一分析，黑箱品牌只能做渠道信号监测"两条跨维度模式。
 > **合成方式**：S轮不采集新数据；运营策略引用 B轮 practices（[[RFM会员分层运营实战]]/[[私域运营方法论]]/[[会员与VIP运营体系2026]]/[[导购能力评估与赋能体系2026]]/[[商品企划体系2026]]），数据基建引用 C轮 practices（[[multi_brand_unified_analytics]]/[[brand_config_driven_system]]/[[data_quality_governance]]），本页是"方法论→品牌实例"的桥接页。
-> **最后更新**：2026-08-23（S轮增量刷新：B轮 08-21 佐证艾诺丝波段企划 / 迪卡轩加盟培训；太平鸟 2-5-10 战略）
+> **最后更新**：2026-09-06（S6 增量：B轮 09-02~04 会员复购/生命周期/首单售罄方法论基准，仍归通用方法论不链品牌）
 
 ## 一、运营策略对比（会员 / 社群 / 导购 / 商品企划信号）
 
@@ -73,6 +73,15 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_y
 | 渠道反转对数据基建含义 | [[cabbeen]] 代销 47.4% 成第一渠道——代销数据无单店 POS 回流，对 [[multi_brand_unified_analytics]] 四层架构的"摄取层"构成新挑战，须对代销占比单独打标 | [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]] |
 
 **增量结论**：① 数据基建从"方法论 pages"升级到"可落地案例"——多品牌数据中台四层+OneID 与太平鸟 50+ 项目实证，使 3→10 品牌扩展的路线从"设计"变为"有参照系的执行"；② 太平鸟凭千万级画像+TOC 成为 focus_brands 数字化标杆，但售罄率/库存周转的财报级验证仍需跟进（呼应 [[brand_risk_signals_2026]] "拐点叙事需穿透"）；③ 卡宾代销化暴露"代销数据难结构化"的新约束——品牌墙式数据黑箱可能因代销而加剧，指标层须对代销占比单独建模；④ 黑箱品牌的"运营信号"稳定性受主体注销/治理事件威胁（迪卡轩），替代数据源（招聘/加盟手册）需加时间戳与主体校验。
+
+## S轮增量刷新（2026-09-06 · 织入 08-31~09-06 B轮新 source · S6）
+
+> 本小节为 S轮第六遍（S6）按周增量合成，织入 08-31~09-06 B轮方法论 source（brand_specific=false，仅作运营方法基准补充，不构成品牌特有数据）。
+
+- **会员运营方法论增量（B轮 09-02~09-04）**：会员复购率 2026 基准与忠诚度模型（复购率行业 18-25% 区间 vs 知识库 membership 复购基线 15%/28%/12% 三档——口径分层：行业均值 vs 品牌分层阈值不可混用）；会员生命周期与沉睡唤醒（睡眠定义 90 天、唤醒 ROI>3 倍、流失归因）——为 [[peacebird]]/[[cabbeen]] 会员运营对比提供方法论基准，但**不改变** 08-30 结论"运营策略实质信号仅双核+少数标杆有"（置信度：第三方数据/媒体估算）。
+- **商品/导购方法论增量（B轮 09-04）**：首单测款返单与售罄公式集、季末清仓分级折扣、导购薪酬提成设计——可迁移到 [[cabbeen]] 代销化后的清仓与返单管理场景（代销渠道清仓折扣对毛利的影响，呼应 [[brand_gross_margin_2026]] S6 小节）。
+
+**增量结论**：B轮方法论持续产出但均归"通用方法论"（双链 concept、不链品牌实体），印证 08-30 判断——数据基建与运营方法论的差距不在"知识量"而在"品牌级可落地颗粒"；3→10 品牌扩展仍需以 [[brand_config_driven_system]] 为执行框架，方法论库做基准参考。
 
 ## 信息链
 
