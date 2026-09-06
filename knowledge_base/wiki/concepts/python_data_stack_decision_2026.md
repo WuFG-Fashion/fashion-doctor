@@ -8,7 +8,7 @@ tags: [python, polars, pandas, spark, clickhouse, decision_framework, analytics,
 sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.net/windowshht/article/details/160003287, 2026-07-22_2026现代Python数据栈, 2026-07-25_今日头条_Polars_Pandas_2026混合用范式, 2026-08-12_Polars2.1_Pandas3.0_生产级性能对比, 2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]
 created: 2026-06-15
 updated: 2026-08-26
-cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]]
+cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
 ---
 
 # Python数据栈边界决策框架2026

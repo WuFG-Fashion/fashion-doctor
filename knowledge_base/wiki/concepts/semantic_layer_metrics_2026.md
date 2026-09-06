@@ -10,7 +10,7 @@ tags: [semantic_layer, metrics_layer, dbt, metricflow, osi, ai_agent, governance
 sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景, 2026-08-15_语义层与数据契约治理2026]
 created: 2026-08-09
 updated: 2026-08-15
-cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[2026-08-15_语义层与数据契约治理2026]]
+cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[2026-08-15_语义层与数据契约治理2026]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
 ---
 
 # 语义层与指标层（Semantic Layer / Metrics Layer）2026

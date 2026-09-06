@@ -10,7 +10,7 @@ tags: [cabbeen, analytics, sell_through, sql, bi, inventory, channel, focus_bran
 sources: [2026-08-21_A1_cabbeen_中期报告售罄率与会员数据, 2026-08-26_A3_two_am_卡宾渠道转型与2AM增长, 卡宾2026中期业绩公告(HKEX PDF), 2026-09-03_零售BI分角色看板与KPI基准2026, 2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法]
 created: 2026-09-03
 updated: 2026-09-03
-cross_refs: [[cabbeen]], [[peacebird]], [[crocs_financial_benchmark_template_2026]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[sell_through_examination_standard_2026]], [[零售数据仓库SQL实践]], [[sku_inventory_sql_operations]]
+cross_refs: [[cabbeen]], [[peacebird]], [[crocs_financial_benchmark_template_2026]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[sell_through_examination_standard_2026]], [[零售数据仓库SQL实践]], [[sku_inventory_sql_operations]], [[peacebird_brand_analytics_2026]]
 ---
 
 # 卡宾品牌级数据分析实践（售罄率趋势/渠道结构/存货健康/门店绩效）

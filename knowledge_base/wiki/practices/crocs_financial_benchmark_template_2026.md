@@ -10,7 +10,7 @@ tags: [crocs, benchmark, template, financial_analysis, gmroi, dtc, inventory, fo
 sources: [2026-08-30_crocs_Q2财报电话会财务细节, 2026-08-26_A1_crocs_Q2电话会增量_凉鞋500M与Q3指引, 2026-09-03_零售BI分角色看板与KPI基准2026, 2026-09-03_服装库存分析四层拆解与售罄率库龄交叉法]
 created: 2026-09-03
 updated: 2026-09-03
-cross_refs: [[crocs]], [[cabbeen_brand_analytics_2026]], [[peacebird]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[brand_gross_margin_2026]], [[brand_store_channel_2026]]
+cross_refs: [[crocs]], [[cabbeen_brand_analytics_2026]], [[peacebird]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[brand_gross_margin_2026]], [[brand_store_channel_2026]], [[peacebird_brand_analytics_2026]]
 ---
 
 # Crocs 品牌级财报对标分析（上市鞋服品牌通用模板·2026Q2 工作例）

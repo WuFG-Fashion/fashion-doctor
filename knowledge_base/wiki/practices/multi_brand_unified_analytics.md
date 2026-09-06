@@ -524,10 +524,10 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 
 ### 被分析对象明确化（品牌感知硬性要求）
 
-本系统（多品牌统一数据分析架构）的**被分析对象 = kb_benchmarks.json 的 focus_brands 36 品牌**（较 2026-08-26 记 35 新增 `humble_humble_r`，已全库同步修正）：
+本系统（多品牌统一数据分析架构）的**被分析对象 = kb_benchmarks.json 的 focus_brands 35 品牌**（JSON 权威计数，已含 `humble_humble_r`；本页 2026-08-26/08-29 曾误记 36，2026-09-06 核对 JSON 后统一为 35）：
 - **双核**：[[cabbeen]]（HK 02030，2026H1 营收 4.53 亿/毛利 46.3%/门店 573/售罄率 73.8%@25秋冬）+ [[peacebird]]（2026H1 营收 28.78 亿/门店 2861/毛利 61.2%）
 - **第三家财报级品牌**：[[crocs]]（NASDAQ:CROX，Q2'26 营收 11.79 亿/毛利 59.4%）——可作为双核之外的跨品牌财报对标锚点
-- **品牌墙 26 品牌**（trussardi/mr_mrs/marcelo_burlon/diesel/g_star_raw/dkny/tommy_hilfiger/lacoste/levis/salomon/speedo/hoka_one_one/ellesse/mlb/nerdy/crocs/adlv/chuu/no_one_else/thisisizi8/awoken_space/awoken_time/the_mr_young/two_am/nautica/etudes 等）
+- **品牌墙 21 品牌**（trussardi/mr_mrs/marcelo_burlon/g_star_raw/diesel/dkny/tommy_hilfiger/lacoste/levis/salomon/speedo/hoka_one_one/ellesse/mlb/mlb_kids/nerdy/adlv/chuu/no_one_else/thisisizi8/awoken_space/awoken_time/the_mr_young/two_am/nautica/etudes/king_baby/humble_humble_r 等，品牌完整清单以 `kb_benchmarks.json` focus_brands 35 为准）
 - **重点女装补充**：ariose_years（艾诺丝）、dekashell（迪卡轩）
 
 系统设计含义：
@@ -557,18 +557,18 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 | Pandas 3.0.1 | 42.1s | 210.5s | 380.2s | $0.18 | 生态兼容层（scikit-learn 等） |
 | Spark 4.0.2 | 18.7s | 89.3s | 165.4s | $0.45 | >100GB 才考虑 |
 
-> 结论：36 品牌明细级数据量在 10GB 以下量级，**Polars + DuckDB 双引擎即满足全场景**，无需引入 Spark/Fivetran/Snowflake 重型云栈（对照 Johal 案例自托管省 82% 成本、p99 降 20 倍）。
+> 结论：35 品牌明细级数据量在 10GB 以下量级，**Polars + DuckDB 双引擎即满足全场景**，无需引入 Spark/Fivetran/Snowflake 重型云栈（对照 Johal 案例自托管省 82% 成本、p99 降 20 倍）。
 
-## 2026-08-29 C轮补强（focus_brands 36 + 品牌级查漏闭环）
+## 2026-08-29 C轮补强（focus_brands 35 + 品牌级查漏闭环）
 
 > 来源：[[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]] / [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]] / [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]] / [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]
 
-### 1. 被分析对象计数修正 35 → 36
-`kb_benchmarks.json` 的 focus_brands 已由 35 增至 **36**（新增 `humble_humble_r`），本页与 [[brand_level_data_analysis_gap_matrix|缺口矩阵]] 全库同步修正，避免 S轮合成时口径分裂。
+### 1. 被分析对象计数口径（2026-09-06 统一为 35）
+`kb_benchmarks.json` 的 focus_brands 权威计数为 **35**（已含 `humble_humble_r`；本页与 [[brand_level_data_analysis_gap_matrix|缺口矩阵]] 2026-08-29 曾误记 36"新增 humble"，经核对 JSON 修正，避免 S轮合成时口径分裂）。
 
 ### 2. 存储层新候选：DuckLake 1.0（2026-04 生产就绪）
 - 元数据进 SQL 库（PostgreSQL/SQLite/DuckDB），小文件写入密集负载宣称比 Iceberg **926× 查询 / 105× 摄入**（厂商自测，置信度：媒体估算，须 POC 复现）。
-- 对本项目映射：36 品牌 POS/会员事件流属"大量小写入"负载，正是 DuckLake 优势区间；但须与现有 Iceberg/StarRocks 路线做对照 benchmark，暂作**并存备选**而非立即替换。
+- 对本项目映射：35 品牌 POS/会员事件流属"大量小写入"负载，正是 DuckLake 优势区间；但须与现有 Iceberg/StarRocks 路线做对照 benchmark，暂作**并存备选**而非立即替换。
 - 详见 [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]]。
 
 ### 3. 入闸校验补强（数据质量可观测性）
@@ -582,7 +582,27 @@ FDL 零售案例：对接 **30+ 数据源**、全量 + 增量同步、配合 Kaf
 - 详见 [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]]。
 
 ### 5. 品牌级查漏闭环（本轮核心）
-- 第零步扫描：**36 品牌实体页 0 个含系统化数据分析视角**（仅竞品 gxg 含 BI 小节）。
+- 第零步扫描：**35 品牌实体页 0 个含系统化数据分析视角**（仅竞品 gxg 含 BI 小节，2026-08-29 初扫时点）。
 - 按数据可得性分层：L1 双核+[[crocs]] 高优先（财报级数据已齐，缺品牌级分析页）；L2 上市公司中优先；L3 品牌墙 26 + 女装 2 探针式补全。
 - 下轮锚点：补 [[cabbeen]] 品牌级分析实践（售罄率趋势 SQL/渠道结构 BI/门店绩效）+ 建 [[crocs]] 对标页。
 - 详见 [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]。
+
+## 2026-09-06 C轮补强：品牌级分析 P0 全部闭环（3/35 三种披露形态）
+
+> 来源：[[peacebird_brand_analytics_2026]] / [[cabbeen_brand_analytics_2026]] / [[crocs_financial_benchmark_template_2026]] / [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]]
+
+### 品牌级工作例（被分析对象实体化）
+
+本架构的"被分析对象 = focus_brands 35"已从口号落地为 **3 个真实数字工作例**，且恰好覆盖三种财报披露形态，验证了多品牌系统需要**按披露颗粒度做适配层**而非一刀切模板：
+
+| 工作例 | 披露形态 | 分析模板骨架 | 覆盖品牌级缺口 |
+|---|---|---|---|
+| [[cabbeen_brand_analytics_2026|卡宾（HK 02030）]] | 直披露售罄率 | 售罄率趋势 SQL（对齐 kb day15/30/45/季末 0.8）+ 两套渠道口径表 + 存货四层拆解（246 天→现金周期 294 天） | P0（09-03 闭环） |
+| [[peacebird_brand_analytics_2026|太平鸟（603877.SH）]] | 披露存货不披露售罄率 | 渠道三拆（直营/线上/加盟）+ 门店绩效关店账 SQL + 存货代理链（14.35 亿 -17.3%/准交率 96%）+ 盈利质量穿透（扣非 5071 万 vs 归母 1.02 亿） | P0（09-06 闭环） |
+| [[crocs_financial_benchmark_template_2026|Crocs（NASDAQ:CROX）]] | 美股季报颗粒 | 财报五维对标模板（营收/毛利/渠道/DTC/库存），可复用 dkny/tommy/levis/salomon/hoka | P0（09-03 闭环） |
+
+### 对四层架构的落点
+
+- **配置层**：三种披露形态 → `brand_config_driven_system` 需支持"披露形态标签"（sell_through_direct / inventory_proxy / sec_filing），决定该品牌套用哪套分析模板。
+- **指标层**：太平鸟案例证明"售罄率"不能作为全品牌统一指标——无披露品牌须降级为存货-周转代理链（对齐 kb inventory_health_redlines 4.0x 与库销比口径）。
+- **P1 下轮**：dkny/tommy/karl/salomon/hoka/levis/diesel 上市公司组套用 [[crocs_financial_benchmark_template_2026|Crocs 模板]] 即可批量补全（复用不重造）。
