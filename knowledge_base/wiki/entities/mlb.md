@@ -9,8 +9,8 @@ aliases:
 tags: [mlb, competitor, streetwear, sportswear, korean_wave, focus_brand, brand_wall]
 sources: [2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报.md, 品牌墙图_2026-08-14, 2026-08-15_R4_MLB_FF_2026中国万亿]
 created: 2026-08-14
-updated: 2026-09-02
-cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]]
+updated: 2026-09-07
+cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]], [[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]]
 ---
 
 # MLB
@@ -234,3 +234,15 @@ cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-
 
 **结论（刷新）**：[[mlb]] 叙事从"增长故事"切换为"周期管理故事"——分销库存雪崩是品牌可干预项，宏观与潮流周期不可控；Duvetica 全资收购标志 F&F 从"租 IP"走向"买 IP"，是 [[品牌墙概念与代理模式]] 中授权代理品牌生命周期的进阶参照；Sergio Tacchini 若分部披露营收即进入加速期，与 [[lacoste]] 同赛道对照。
 **信息链（刷新）**：[[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]（来源摘要） → 本页（[[mlb]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[brand_risk_signals_2026]] / [[mlb_kids]]
+
+## 近期动态刷新（2026-09-07 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[mlb]] 的增量采集；本轮新增母企组合定量颗粒（见 [[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]]）。
+
+- **Sergio Tacchini 营收轨迹首次量化（新增·第三方数据）**：管理其全球业务的 Sergio Tacchini Operations 营收 2023 **₩32.9B** → 2024 **₩37.1B** → 2025 **₩48.6B**（+31%）；F&F **2022 年以 ₩82.7B 收购 IP 控股+美运营公司 100%**；SS 主张「Court to Life」（网球服+日常 crewneck/hoodie/windbreaker），复制 MLB"授权 IP → lifestyle"playbook（置信度：第三方数据）。
+- **体量对照（新增）**：ST 2025 ₩48.6B ≈ MLB 年销近 ₩2 万亿的 **~2.4%** → "下一个 MLB"仍是多年叙事；3 年 CAGR ≈ 21%（置信度：第三方数据）。
+- **行业窗口（新增）**：2025 美国网球人口 2,730 万（vs 2019 +54%）+ Gucci×Sabalenka / Dior×郑钦文 / LV×Alcaraz 奢侈品牌大使潮 → tennis chic 是 premium 休闲确定性窗口，ST 与 [[lacoste]]（网球基因）同赛道双观察（置信度：第三方数据）。
+- **核验一致**：官网线下门店 **1,015 家**口径再次 corroborate（fnf-china.com）；百度百科背景史（1997 韩国授权/2023 千店/2025 KARINA/张康乐）与库内一致，未重复造页。
+
+**结论（刷新）**：[[mlb]] 母企 F&F 的战略重心是"组合再平衡"——中国 MLB 降速由韩国入境游对冲，新增长靠 Duvetica（全资）与 Sergio Tacchini（授权）两腿走路；ST 定量数据让"下一个 MLB"叙事从定性假设变为可追踪的营收曲线，**观察锚点 = ST 营收是否进入 F&F 分部披露**（09-02 源待办部分闭环：品牌层营收已量化，分部披露仍待财报）。
+**信息链（刷新）**：[[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]]（来源摘要） → 本页（[[mlb]]） → 下游 [[品牌墙概念与代理模式]] / [[lacoste]] / [[服装行业竞争格局]] / [[mlb_kids]]

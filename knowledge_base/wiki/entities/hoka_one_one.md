@@ -8,7 +8,7 @@ aliases:
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-09-04
+updated: 2026-09-07
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]
 ---
 
@@ -218,3 +218,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
 
 **结论（刷新）**：HOKA 的 lifestyle 化已从"单点联名/限量"升级为"**复刻档案款 + 现款潮流转译**"双管线（Tor Ultra Lo / Mach Remastered 复刻线 + Clifton UTL / Clifton 11 GTX 潮流线），且统一走**潮流精选店 + 限定配色**渠道——用档案资产低成本扩 lifestyle，规避全新研发周期，对冲 FY27Q1 +7.7% 减速。对中国侧的判断：Tor Ultra 复刻目前仅日/台/北美，**未见中国上市信号**；若后续进入中国潮流店（DOE/INVINCIBLE 类）即 lifestyle 破圈落地的先行指标——与 [[salomon]]（单品类纵深）路径分野更清晰，是 [[服装行业竞争格局]] 中"复刻资产打法"的参照案例。
 **信息链（刷新）**：[[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]
+
+## 近期动态刷新（2026-09-07 · A2 轮全维度核验）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[hoka_one_one]] 的核验；本轮新增中国精选店渠道观察信号（更新 09-04"未见中国上市信号"判断），无新增源页。
+
+- **中国精选店渠道信号（观察项·年份待核）**：中文潮流渠道信息显示 Tor Ultra Lo 复刻波次已在中国精选店出现——SOULGOODS 北京三里屯 **Antique Olive 8/26 公众号抽签 ¥1,899**、Z-ONE 杭州 **蓝绿 8/18 ¥1,899（货号 1130310-ARQ）**、FLOE 上海 **湖蓝 ¥1,899 已上架**、IDIFF 武汉 **7/31 ¥1,899**；另 SOULGOODS 8/11 有 FEATURE 联名极光配色波次。若属实即兑现 09-04"进入中国潮流店 = lifestyle 破圈落地先行指标"的判断（置信度：媒体估算·店面推文未标年）。
+- **官方侧 corroborate**：2026 复刻 4 配色节奏（Antique Olive 8/14 → Black 9 上 → Varsity Navy 11 上 → Archival Taupe 12 上）+ ¥38,500 JPY（≈$243）+ 渠道（HOKA 官方 / mita / UA&S / DSM 等）与 09-04 源全一致；原始出处为 2018 年 Engineered Garments 联名（余文乐 2018 上脚带火华语圈）——背景史非 2026 事件（置信度：媒体估算）。
+- **待验证**：① 精选店波次的确切年份（Antique Olive 8/26 与官方 8/14 首发时序吻合，倾向为 2026 同波，待 HOKA 中国官方/品牌店确认）；② ¥1,899 ≈ ¥38,500 JPY 折 CNY 零售价合理性核对。
+
+**结论（刷新）**：若中国精选店波次确认为 2026 复刻同波，则 HOKA Tor Ultra Lo 已"**经中国潮流渠道小批量落地**"（非官方 DTC/跑步渠道），9 月上旬 Black 配色上市是下一验证点——lifestyle 破圈的"中国侧先行指标"从"是否进入"转为"从哪些渠道进入、量级多大"；对中国零售的参照：专业运动品牌做潮流化，**先走精选店限量试水、再决定官方渠道铺货**，与 [[salomon]] XT 系路径一致。
+**信息链（刷新）**：[[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]（既有来源核验+观察更新） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]
