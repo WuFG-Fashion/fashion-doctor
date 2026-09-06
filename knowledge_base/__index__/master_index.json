@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-06",
-  "generated_at": "2026-09-06 07:24:12",
-  "total_entries": 1360,
+  "generated_at": "2026-09-06 11:31:57",
+  "total_entries": 1361,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -1254,6 +1254,18 @@
         },
         {
           "id": "WIKI_C_concepts_90",
+          "name": "品牌联名策略",
+          "path": "wiki/concepts/品牌联名策略.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "品牌联名策略"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_C_concepts_91",
           "name": "商品企划体系2026",
           "path": "wiki/concepts/商品企划体系2026.md",
           "file_count": 1,
@@ -1265,7 +1277,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_91",
+          "id": "WIKI_C_concepts_92",
           "name": "商品分析四层级框架",
           "path": "wiki/concepts/商品分析四层级框架.md",
           "file_count": 1,
@@ -1277,7 +1289,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_92",
+          "id": "WIKI_C_concepts_93",
           "name": "商品运营进销存分析",
           "path": "wiki/concepts/商品运营进销存分析.md",
           "file_count": 1,
@@ -1289,7 +1301,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_93",
+          "id": "WIKI_C_concepts_94",
           "name": "导购培训闭环体系",
           "path": "wiki/concepts/导购培训闭环体系.md",
           "file_count": 1,
@@ -1301,7 +1313,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_94",
+          "id": "WIKI_C_concepts_95",
           "name": "导购能力评估与赋能体系2026",
           "path": "wiki/concepts/导购能力评估与赋能体系2026.md",
           "file_count": 1,
@@ -1313,7 +1325,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_95",
+          "id": "WIKI_C_concepts_96",
           "name": "库存三大核心指标",
           "path": "wiki/concepts/库存三大核心指标.md",
           "file_count": 1,
@@ -1332,7 +1344,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_96",
+          "id": "WIKI_C_concepts_97",
           "name": "库存与进销存关系",
           "path": "wiki/concepts/库存与进销存关系.md",
           "file_count": 1,
@@ -1348,7 +1360,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_97",
+          "id": "WIKI_C_concepts_98",
           "name": "库存多维分析框架",
           "path": "wiki/concepts/库存多维分析框架.md",
           "file_count": 1,
@@ -1364,7 +1376,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_98",
+          "id": "WIKI_C_concepts_99",
           "name": "库存清仓策略",
           "path": "wiki/concepts/库存清仓策略.md",
           "file_count": 1,
@@ -1376,7 +1388,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_99",
+          "id": "WIKI_C_concepts_100",
           "name": "店铺规划与过货",
           "path": "wiki/concepts/店铺规划与过货.md",
           "file_count": 1,
@@ -1388,7 +1400,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_100",
+          "id": "WIKI_C_concepts_101",
           "name": "数据分析九大模型框架",
           "path": "wiki/concepts/数据分析九大模型框架.md",
           "file_count": 1,
@@ -1412,7 +1424,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_101",
+          "id": "WIKI_C_concepts_102",
           "name": "服装价格带管理与价格真空区",
           "path": "wiki/concepts/服装价格带管理与价格真空区.md",
           "file_count": 1,
@@ -1424,7 +1436,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_102",
+          "id": "WIKI_C_concepts_103",
           "name": "服装企划趋势渠道",
           "path": "wiki/concepts/服装企划趋势渠道.md",
           "file_count": 1,
@@ -1436,7 +1448,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_103",
+          "id": "WIKI_C_concepts_104",
           "name": "服装行业竞争格局",
           "path": "wiki/concepts/服装行业竞争格局.md",
           "file_count": 1,
@@ -1448,7 +1460,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_104",
+          "id": "WIKI_C_concepts_105",
           "name": "服装采购渠道选型2026",
           "path": "wiki/concepts/服装采购渠道选型2026.md",
           "file_count": 1,
@@ -1460,7 +1472,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_105",
+          "id": "WIKI_C_concepts_106",
           "name": "服装门店经营AI化2026",
           "path": "wiki/concepts/服装门店经营AI化2026.md",
           "file_count": 1,
@@ -1472,7 +1484,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_106",
+          "id": "WIKI_C_concepts_107",
           "name": "柔性供应链与商品企划",
           "path": "wiki/concepts/柔性供应链与商品企划.md",
           "file_count": 1,
@@ -1484,7 +1496,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_107",
+          "id": "WIKI_C_concepts_108",
           "name": "男装品牌竞争格局2026Q1",
           "path": "wiki/concepts/男装品牌竞争格局2026Q1.md",
           "file_count": 1,
@@ -1496,7 +1508,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_108",
+          "id": "WIKI_C_concepts_109",
           "name": "目标与时间管理",
           "path": "wiki/concepts/目标与时间管理.md",
           "file_count": 1,
@@ -1508,7 +1520,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_109",
+          "id": "WIKI_C_concepts_110",
           "name": "订货会决策框架",
           "path": "wiki/concepts/订货会决策框架.md",
           "file_count": 1,
@@ -1520,7 +1532,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_C_concepts_110",
+          "id": "WIKI_C_concepts_111",
           "name": "销售九部曲",
           "path": "wiki/concepts/销售九部曲.md",
           "file_count": 1,
@@ -1532,7 +1544,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_C_concepts_111",
+          "id": "WIKI_C_concepts_112",
           "name": "面料知识与洗涤保养",
           "path": "wiki/concepts/面料知识与洗涤保养.md",
           "file_count": 1,
