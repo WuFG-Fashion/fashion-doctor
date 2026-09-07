@@ -6,10 +6,10 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]
 created: 2026-08-14
-updated: 2026-09-05
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]]
+updated: 2026-09-08
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]]
 ---
 
 # Tommy Hilfiger
@@ -192,3 +192,16 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：PVH 8-K（SEC 2026-09-02）+ Vogue/Zacks 摘要 → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[brand_risk_signals_2026]] · [[earnings_quality_nonrecurring_2026]]
+
+## 近期动态刷新（2026-09-08 · A3轮·品牌全维度）
+
+> 本轮采集：2026 秋季营销执行维度落地，新增来源 [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]]（置信度：品牌自宣）。
+
+- **主线 campaign "Only in New York"（09-01 发布）**：Kelce（全球大使首秀）以 The Plaza "驻店嘉宾"身份出演，延续春 Palm Beach → 秋 Plaza 两幕式地标叙事；全明星阵容 Gigi Hadid/JISOO/Peggy Gou/Frances Tiafoe/Carmelo Anthony + Tommy/Dee 本人出镜（置信度：品牌自宣）。
+- **牛仔子战役 "Always Denim"**：Romeo Beckham 领衔（The Mark Hotel 场景），男款 Dover 直筒/90s 宽松、女款 Sarah 高腰——丹宁单列为独立 campaign = TH 2026 秋冬生意重点品类信号（置信度：品牌自宣）。
+- **转化结构**："Prep Made Current" hero 款 + **Tommy Icons 平价入口款（部分 <£79/~$100）**承接 campaign 声量；PVH CEO（09-02 Q2 发布）背书"Kelce campaign 消费者反响非常正面"——与 09-04 源 Q2 叙事闭环（置信度：品牌自宣/媒体估算）。
+- **管线**：Kelce 合作含 2027 春季第二支 campaign + 独立设计联名（置信度：媒体估算）。
+- **跨品牌名人重叠**：JISOO 同时任 Tommy 与 [[salomon]] 大使——名人资源重叠度作为竞品观察维度（置信度：推断）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[salomon]]

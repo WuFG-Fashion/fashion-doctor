@@ -1219,6 +1219,12 @@ updated: 2026-09-05
 - [[2026-09-05_A3_peacebird_半年度业绩说明会与工商变更]] — **太平鸟治理/IR（官方公告）**：9/11 半年度业绩说明会 + 注册资本增至 4.699 亿元（¥469,904,803）+ 经营范围扩围（专业设计/非医用口罩/一类医疗器械）——Q3 观察窗口官方锚点。
 - [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]] — **Salomon 9 月新品攻势（品牌自宣）**：XT-EVO 新鞋型 9/2 首发（Kith FW26 先行售罄）+ Goodbai 二度联名 XT-RIDGE 9/5 + 杨祐宁 8/24 品牌挚友出战 UTMB——"越野专业 + 潮流化变现"双叙事。
 
+## A3轮 2026-09-08 新增来源（分组A3·品牌全维度）
+
+> 本组 12 品牌全维度核验（1 真新增 / 11 显式核验非静默跳过）；置信度/brand_specific 见源页 frontmatter。
+
+- [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]] — **TH 2026 秋季双 campaign（品牌自宣）**：主线 "Only in New York"（Kelce 大使首秀 × The Plaza 地标叙事 × Gigi/JISOO/Peggy Gou/Tiafoe/Carmelo 全明星）+ "Always Denim" 牛仔子战役（Romeo Beckham）——"形象 + 品类"双 campaign 分层、<£79 Tommy Icons 平价入口款承接声量、Kelce 管线延至 2027 春；与 levis RED 档案复刻构成牛仔品类营销密度上升窗口，JISOO 跨 TH/salomon 双大使为名人资源重叠观察点。
+
 ---
 
 ## 本轮新增（2026-09-04 · ingestInbox 临时收集提炼 · 1源页/1概念更新）
