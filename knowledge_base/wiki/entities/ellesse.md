@@ -6,7 +6,7 @@ aliases:
 tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-08
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
 ---
 
@@ -128,3 +128,7 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 
 **结论（织入）**：ellesse 用'全球明星战役+网球基因'双轮升级品牌：价格带上探配合 NBL 鞋类翻倍目标，Pentland 正把 ellesse 从'入门复古运动'向'中档运动时尚'上移（置信度：品牌自宣/第三方数据）；对中国是'授权代理提档实验'的可借鉴样本，转化效果暂无第三方验证。
 **信息链（织入）**：[[2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]] → 本页（[[ellesse]]） → 下游 [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]] / [[peacebird]] / [[cabbeen]]
+
+## A1轮核验织入（2026-09-08 · 美国回归验证节点观察）
+
+> 本轮 A1 全维度核验 0 新增硬信号：Garfield campaign = 09-01 源同事件（Dallas Morning News 转载 corroborate）。新颗粒仅 1 条**旗舰店时间窗**：ellesse 美国旗舰店预计 **2027 下半年**落地达拉斯（候选 Knox Street / Henderson / Design District），美国总部租于 The Gild 双子塔（近 NorthPark Center，2025 起租）；8 月已首发 **U.S. Pro Tennis Collection**（男款 Piqué 网球 Polo/女款百褶网球裙）；渠道先行：Banner House @ T Bar M 职业店 + 圣地亚哥网球中心合作 + 美国官网（置信度：第三方数据/媒体）。08-30 源「年末旗舰店」颗粒精化为「2027 下半年」——**2027H2 达拉斯旗舰落地为远期核验点**。
