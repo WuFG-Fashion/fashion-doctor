@@ -1067,6 +1067,16 @@ updated: 2026-09-05
 
 ---
 
+## 本轮新增（2026-09-08 · A2 轮 · 分组11品牌全维度验证/增量）
+
+> A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过，本论 07:00 缺席 21:47 补跑）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[mlb]] 与 [[服装行业竞争格局]]/[[品牌墙概念与代理模式]]/[[mlb_kids]]（上游 [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]/[[2026-08-22_A2_mlb_全维度动态]]），无孤岛。10 无新增品牌（karl FW26+NOT-KARL=09-03 源 corroborate·PFW 特别活动细节仍待 9 月公布、levis RED 复刻（台媒 09-07 更新）+WM 联名=09-02/09-06 源同源转载、etudes 探针命中品牌对照文非本体事件、humble_humble_r 宁波天一 6 号门旗舰店仍"敬请期待"无官宣、lacoste Godzilla 9/1=08-29 源 corroborate+王一博 FW26=同季延展（黄子韬联名已 08-29 入库）、g_star_raw 优惠券/背景噪声、king_baby 美零售 corroborate（北京店维持）、marcelo_burlon 爱企查背景=污染、mlb_kids 韩儿童羽绒提前上市=09-02 mlb 源已覆盖）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。mlb 源为韩国侧营销事件：RESCENE 女团 4/5 成员出任 2026AW 品牌模特（09-01 官宣/09-03 画报）+ SLEEK 薄底鞋系列（台网已售）+ 26FW 动物帽款——"女团季季换脸"引擎（KARINA→RESCENE）+ 帽→服→鞋品类延伸。实体观察 2：hoka 中国精选店波次年份确认 2026（Olive 售罄、Triple Black 9 月上-中旬扩店放量、¥1,899≈¥38,500 JPY 价格校验通过）闭合 09-04"未见中国信号"待办；lacoste/humble 观察维持。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-08_A2_mlb_RESCENE女团26AW品牌模特与SLEEK系列]] | mlb | 品牌自宣 | true |
+
+---
+
 ## 本轮新增（2026-09-06 · A2 轮 · 分组11品牌全维度验证/增量）
 
 > A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[levis]] 与 [[服装行业竞争格局]]/[[g_star_raw]]/[[2026-09-03_A2_levis_BlueTab_FW26全球工艺升级]]/[[2026-08-26_B佐证_Levi商品结构与品类聚焦]]（上游），无孤岛。10 无新增品牌（karl FW26+NOT-KARL=09-03 源 corroborate·技术机制仅低质聚合站不入库、hoka Tor Ultra Black 无中国引入信号、lacoste 2026FW 复古网球鞋线 Slam Break/Ace Lift/Contest + 王一博 FW26 campaign=产品常规更新/同季延展不入源、humble_humble_r 宁波天一·和义「旗舰店敬请期待」=mall 招商预告弱信号记实体观察、mlb/mlb_kids 思格百科背景史+汪苏泷三防外套产品软文 corroborate·BaubleBar×美国 MLB 授权联名=无关实体不越界、etudes 换「Études Studio 巴黎男装」限定词命中本体（SS27 Short Term Eternity 细节=08-26 源同事件延展）、g_star_raw 济南活动=低质营销号且错称韩国品牌不入源·再生棉 corroborate、king_baby Amazon 旗舰矩阵 corroborate、marcelo_burlon 探针污染）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。levis 源为产品档案层双里程碑：RED 支线 2010 停产→2014 短暂复刻→2026 停 7 年三度复刻（5 大版型+永续纤维，台湾 NT$6,200-6,900）+ Wellthread 100% 可回收循环丹宁（20% 旧牛仔+20% 嫘萦+60% 有机棉、整件拆解）。
