@@ -41,6 +41,7 @@ cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[品牌联名策�
 - [[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]] — 同品牌同轮财务维度源
 - [[品牌联名策略]] — 联名/名人营销方法论概念页
 - [[服装行业竞争格局]] / [[salomon]]
+- [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] — 本页商业实效闭环（09-02 电话会首月 +30%）
 
 ## 来源链接
 - Tommy Hilfiger 官方 Newsroom（Fall 2026 "Only in New York" campaign）：https://newsroom.tommy.com/pressroom/tommy-hilfiger-invites-travis-kelce-and-friends-into-the-plaza-and-his-new-york-world-for-fall-2026

@@ -1262,4 +1262,5 @@ updated: 2026-09-05
 
 > 本组 11 品牌全维度核验（1 真新增 / 10 显式核验非静默跳过）；置信度/brand_specific 见源页 frontmatter。
 
+- [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] — **TH campaign 量化实效（官方公告）**：Always Denim 牛仔子战役（Romeo Beckham，7 月发布）首月拉动北美+欧洲 D2C 牛仔销售约 +30%（PVH Q2 电话会 CEO 口径，内部销售数据非审计）——09-08 campaign 源的商业实效闭环；另含 TH "Shopping Shop" 店中店全球试点 + 9/9-15 NYFW 秀场回归（对照 Coach +14%/RL +14% 双位数 vs TH 持平，"文化可见性≠财务加速度"）。
 - [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]] — **LACOSTE 酒店渠道第二击（媒体估算）**：× 英国 The Hoxton（19 店）× LA 艺术家 Michael McGregor 推 7 件限定胶囊（Polo/T/卫衣/睡衣/浴袍，$120 起），仅限 19 家酒店住客经房内菜单订购——继 8 月 The Plaza「Le Café Lacoste」后 30 天内第二次 hospitality 落地（单店地标 → 多城网络）；"房内点单"= 轻资产场景零售形态，与 mlb 授权铺量构成渠道光谱两极。
