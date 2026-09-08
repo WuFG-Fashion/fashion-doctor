@@ -6,10 +6,10 @@ aliases:
   - "法国鳄鱼"
   - "鳄鱼牌"
 tags: [lacoste, competitor, sportswear, premium, france]
-sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md]
+sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md]
 created: 2026-08-14
-updated: 2026-09-07
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]]
+updated: 2026-09-09
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]]
 ---
 
 # LACOSTE
@@ -175,3 +175,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]
 
 **结论（刷新）**：[[lacoste]] 联名分层矩阵（流量型 Godzilla/工艺型 ALPHA·TAILOR TOYO/生态型 Alpine，见 08-30）外新增"区域试探型"——CLOT 胶囊首发放美国 3 店而非亚洲，更像品牌对 CLOT 联名能量的低风险试水；对中国侧的可迁移点是**联名渠道策略本身可分离于产品**（先用窄渠道试水、再决定是否进主市场）。
 **信息链（刷新）**：[[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]]（网球赛道行业参照） → 本页（[[lacoste]]） → 下游 [[品牌联名策略]] / [[服装行业竞争格局]] / [[mlb]]
+
+## 近期动态刷新（2026-09-09 · A2 轮全维度核验）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[lacoste]] 的核验；本轮真新增 The Hoxton 房内胶囊（入源页），其余维度与已入库一致。
+
+- **LACOSTE × The Hoxton 房内胶囊（真新增·入源）**：WWD 独家（09-07 预览/09-08 转载）——× 英国酒店集团 The Hoxton（19 店·20 周年）× LA 艺术家 Michael McGregor，**7 件限定胶囊**（重塑 Polo/图案 T/卫衣/睡衣/浴袍，酒店生活灵感，起价 $120），**仅限 19 家酒店住客经房内菜单订购送房**，另含 McGregor 策展房内 F&B 菜单——继 8 月纽约 The Plaza「Le Café Lacoste」（网球季 08-12 起，见 [[2026-08-27_A2_lacoste_全维度动态]]）后**第二次 hospitality 渠道落地**，间隔不足一月且覆盖英/欧/北美 19 店网络（置信度：媒体估算）。详见 [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]]。
+- **判定**：The Plaza（单店地标）→ The Hoxton（多城网络）= 酒店渠道从"活动"升级为"渠道叙事"；"房内点单"零售形态（不建店/零库存/精准客群/稀缺话题）与 [[mlb]] 授权铺量构成渠道光谱两极。
+
+**结论（刷新）**：[[lacoste]] 的 hospitality 动作在 30 天内连击两次，验证其"生活方式场景（酒店=高净值有闲客群）轻资产投放"是 2026 下半年主动选择的渠道叙事而非一次性活动；联名矩阵增补第五型"场景型"（流量 Godzilla/工艺 ALPHA·TAILOR TOYO/生态 Alpine/区域试探 CLOT/场景 Hoxton），可迁移点在成本结构思维——重资产开店 vs 轻资产场景寄生。
+**信息链（刷新）**：[[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]]（来源摘要） + [[2026-08-27_A2_lacoste_全维度动态]]（The Plaza 首击上游） → 本页（[[lacoste]]） → 下游 [[服装行业竞争格局]] / [[品牌联名策略]] / [[mlb]]
