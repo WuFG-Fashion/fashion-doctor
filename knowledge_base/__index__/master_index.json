@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-09",
-  "generated_at": "2026-09-09 06:43:05",
-  "total_entries": 1378,
+  "generated_at": "2026-09-09 07:05:29",
+  "total_entries": 1379,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -18804,6 +18804,18 @@
         },
         {
           "id": "WIKI_S_sources_1139",
+          "name": "2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名",
+          "path": "wiki/sources/2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "Lacoste Hoxton, Hoxton胶囊, 房内菜单胶囊, Lacoste Room Service"
+          ],
+          "confidence": "媒体估算",
+          "brand_specific": true
+        },
+        {
+          "id": "WIKI_S_sources_1140",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -18815,7 +18827,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1140",
+          "id": "WIKI_S_sources_1141",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -18827,7 +18839,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1141",
+          "id": "WIKI_S_sources_1142",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -18839,7 +18851,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1142",
+          "id": "WIKI_S_sources_1143",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -18851,7 +18863,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1143",
+          "id": "WIKI_S_sources_1144",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -18863,7 +18875,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1144",
+          "id": "WIKI_S_sources_1145",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -18875,7 +18887,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1145",
+          "id": "WIKI_S_sources_1146",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -18887,7 +18899,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1146",
+          "id": "WIKI_S_sources_1147",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -18899,7 +18911,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1147",
+          "id": "WIKI_S_sources_1148",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -18911,7 +18923,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1148",
+          "id": "WIKI_S_sources_1149",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -18923,7 +18935,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1149",
+          "id": "WIKI_S_sources_1150",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -18935,7 +18947,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1150",
+          "id": "WIKI_S_sources_1151",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -18947,7 +18959,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1151",
+          "id": "WIKI_S_sources_1152",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -18959,7 +18971,7 @@
           "brand_specific": true
         },
         {
-          "id": "WIKI_S_sources_1152",
+          "id": "WIKI_S_sources_1153",
           "name": "韦孚公开课与活动回顾合集",
           "path": "wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -18971,7 +18983,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1153",
+          "id": "WIKI_S_sources_1154",
           "name": "韦孚咨询公司介绍综合",
           "path": "wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -18983,7 +18995,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_S_sources_1154",
+          "id": "WIKI_S_sources_1155",
           "name": "韦孚趋势洞察合集",
           "path": "wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,
