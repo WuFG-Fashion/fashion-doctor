@@ -1057,6 +1057,16 @@ updated: 2026-09-05
 
 ---
 
+## 本轮新增（2026-09-10 · A1 轮 · 分组12品牌全维度验证/增量）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）全维度核验：1 真新增 / 11 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[chuu]] 与 [[服装行业竞争格局]]/[[品牌联名策略]]/[[2026-09-05_A1_chuu_迪士尼联名三弹与IP节奏化运营]]（上游），无孤岛。11 无新增品牌（cabbeen 9/20 风涌无界大秀未落地·仅泉州站预告+安琥/杜德伟/张颜齐官宣延展（9/21 后查落地）、crocs 游戏王 9/9 日本/9/10 全球首发（今日发售·销售实证待 9/11 后查）、ariose_years FV 二期今日 9/10 开业（华龙网 08-16 官方确认已入库·开业实证待白天报道）、dkny 中国门店黑箱延续（G-III Q2 电话会转载 corroborate）、dekashell 迪卡侬污染+加盟星 corroborate（腾冲个体店弱颗粒）、diesel FFXIV BRAVE=09-02 源 corroborate、dickies OLWS=09-04 源 corroborate、ellesse Garfield=09-01 源 corroborate（GQ 意式运动回潮文涉 Fila/Diadora 不越界）、adlv LINE FRIENDS 单品促销噪声低于入页门槛、awoken_space + awoken_time 黑箱污染延续）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。chuu 源为明星营销机制新维度：政瞳 CP（孙政×吕思瞳）灵感挚友 × 中性系列 9/7 全渠道开售 + 同款订单自动计入销量 + 满 399/999 分层限量小卡礼盒（9000/4000 套）——韩式小卡经济 × 中国 BL CP 粉圈的落地样本，chuu 营销谱系从"单人代言/IP 联名"进入"CP 粉圈购买规则"阶段。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-10_A1_chuu_政瞳灵感挚友中性系列与明星周边机制]] | chuu | 品牌自宣 | true |
+
+---
+
 ## 本轮新增（2026-09-07 · A2 轮 · 分组11品牌全维度验证/增量）
 
 > A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[mlb]] 与 [[服装行业竞争格局]]/[[品牌墙概念与代理模式]]/[[lacoste]]（上游 [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]），无孤岛。10 无新增品牌（karl FW26+NOT-KARL=09-03 源 corroborate·PFW 特别活动细节仍待 9 月公布、levis RED 复刻=09-06 源同源转载、etudes FW26 No.28 Résonances=早于库内 SS27 的上一季历史延展、humble 宁波阪急臻选店 2026-01-24 已入库、g_star RAW RESEARCH=08-29 源同事件延展、mlb_kids 韩系列已并入 09-02 mlb 源、lacoste CLOT 联名 9/6 美 3 店=弱信号记实体观察、king_baby/marcelo_burlon 探针污染）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。mlb 源为母企组合定量补充：Sergio Tacchini 营收轨迹首次量化（2023 ₩32.9B→2024 ₩37.1B→2025 ₩48.6B、2022 收购 ₩82.7B）+ tennis chic 行业窗口。hoka 实体观察更新：Tor Ultra Lo 中国精选店波次信号（SOULGOODS/Z-ONE/FLOE/IDIFF ¥1,899）年份待核。
