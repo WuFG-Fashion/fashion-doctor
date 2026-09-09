@@ -1109,6 +1109,16 @@ updated: 2026-09-05
 
 ---
 
+## 本轮新增（2026-09-09 · C 轮 · L2_06/07 数据分析 + 品牌级查漏 P1 模板落地）
+
+> C 轮品牌感知（技术搜索通用不绑品牌 + 查漏落到品牌颗粒度）。本轮核心 = **P1 框架闭环**：新增 [[listed_brand_metrics_template_2026|L2 上市公司统一指标分析模板]]——7 品牌（dkny/tommy/karl/salomon/hoka/levis/diesel）「品牌→母公司→披露形态→可得指标」路由表（五类披露形态：brand_independent / parent_segment / brand_growth_language / dual_source / private_no_filing）+ Crocs 五维模板适配 + **2026 关税一次性项三家对照**（亚玛芬 $50.1M 退款 / PVH 退税 ~$1.80/EPS / Deckers GM -150bp，联动 [[earnings_quality_nonrecurring_2026]]）。同步更新 [[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]]（P1 行：模板已建，逐家工作例滚动中，hoka/levis 优先）、[[multi_brand_unified_analytics]]（披露形态五分类标签进配置层）、7 个 L2 品牌实体页 + Crocs/卡宾/太平鸟模板页 + [[brand_config_driven_system]] + [[服装行业竞争格局]] 全回链。品牌级覆盖维持 **3/35 闭环 + P1 框架就绪**（模板页不算单品牌闭环，防把"模板就绪"误报为"品牌覆盖"）。1 页全含「结论+信息链」；织网 28 出链 + 12 目标页回链；无孤岛、无断链；矛盾 0 处（ℹ️ 基准核对 4 组 corroborate）。
+
+| 新页 | 类型 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[listed_brand_metrics_template_2026]] | practice | 财报（主体口径，编译型） | —（跨 7 品牌方法论，不适用单品牌标注） |
+
+---
+
 ## 本轮新增（2026-09-06 · C 轮 · L2_06/07 数据分析 + 品牌级查漏 P0 收官）
 
 > C 轮品牌感知（技术搜索通用不绑品牌 + 查漏落到品牌颗粒度）。本轮核心 = **peacebird 品牌级分析页闭环**：[[peacebird_brand_analytics_2026]]（渠道三拆 BI / 门店绩效关店账 SQL / 存货代理链 / 盈利质量穿透 扣非/归母≈0.497）——[[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]] 双核 P0 三行全部闭环，品牌级覆盖 **3/35**，且恰好覆盖三种披露形态（卡宾=直算售罄率 / 太平鸟=存货代理链 / Crocs=财报对标模板）。通用方法论 1 source（brand_specific:false）：[[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]（<100GB PG/100GB-10TB 云数仓/>10TB 湖仓按量选型 + 观远/aloudata 统一口径三步法与语义层五步，雅戈尔 16 系统/900 报表口径混战案例）。**计数口径修复**：gap_matrix 与 multi_brand 页 focus_brands "36" → 35（核对 kb_benchmarks.json 权威，35 已含 humble_humble_r），历史分歧关闭；gap_matrix cross_refs 坏链 [hxg] → [[muson_gxg]]。3 页全含「结论+信息链+confidence+brand_specific」；织网 12 目标页回链；无孤岛、无断链。

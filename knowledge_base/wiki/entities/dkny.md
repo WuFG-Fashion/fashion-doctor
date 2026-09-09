@@ -8,7 +8,7 @@ tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
 sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]
 created: 2026-08-14
 updated: 2026-09-04
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]], [[listed_brand_metrics_template_2026]]
 ---
 
 # DKNY
@@ -48,6 +48,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 ## 关联页面
 - 核心对标：[[peacebird|太平鸟]]、[[cabbeen|卡宾]]
 - 行业格局：[[服装行业竞争格局]]
+- [[listed_brand_metrics_template_2026]]
+
 
 ## A1轮复核织入（2026-08-16）
 

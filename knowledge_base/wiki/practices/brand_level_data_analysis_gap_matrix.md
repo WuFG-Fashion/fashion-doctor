@@ -8,8 +8,8 @@ aliases:
 tags: [multi_brand, data_analysis, gap_analysis, focus_brands, cabbeen, peacebird, crocs, audit]
 sources: [2026-08-29_DuckLake_1.0_数据湖格式生产就绪, 2026-08-29_零售数据质量可观测性_Great_Expectations_dbt, 2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购, multi_brand_unified_analytics, 2026-08-26_多品牌零售数据中台与全域用户治理实践2026, 2026-08-26_太平鸟数字化与数据分析体系2026, peacebird_brand_analytics_2026, cabbeen_brand_analytics_2026, crocs_financial_benchmark_template_2026]
 created: 2026-08-29
-updated: 2026-09-06
-cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[peacebird_brand_analytics_2026]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]]
+updated: 2026-09-09
+cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[peacebird_brand_analytics_2026]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]], [[listed_brand_metrics_template_2026]]
 ---
 
 # 品牌级数据分析覆盖缺口矩阵（focus_brands 35）
@@ -24,7 +24,7 @@ cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业
 1. **品牌级缺口 ≠ 域级缺口**：L2_06/07 域级已较完整（SQL/BI/ETL/湖仓 practice 齐全），真正的缺口在**品牌颗粒度**——35 品牌实体页中仅竞品 `gxg` 含 BI 分析小节；2026-08-29 首建本矩阵时 **0/35 含"数据分析/BI 视角"的系统化分析页**。
 2. **数据可得性决定优先级**：35 品牌按"财报级数据可得性"分三层（L1 双核 / L2 上市公司 / L3 品牌墙+女装），缺口价值随可得性递减。
 3. **P0 全部闭环（3/35）**：2026-09-03 补 [[cabbeen_brand_analytics_2026|卡宾]]（售罄率直算型）+ [[crocs_financial_benchmark_template_2026|Crocs]]（财报对标模板型）；2026-09-06 补 [[peacebird_brand_analytics_2026|太平鸟]]（代理链型）——双核 + 第三财报品牌三种披露形态全覆盖。
-4. **下轮锚点（P1）**：L2 上市公司统一指标分析模板（dkny/tommy/karl/salomon/hoka/levis/diesel），复用三种既有模板骨架，不必从零设计。
+4. **P1 模板已建（09-09），剩逐家填数**：[[listed_brand_metrics_template_2026]] 落地"品牌→母公司→披露形态→可得指标"路由表（hoka/levis 品牌独立披露 / tommy/salomon 母公司分部 / karl 双源拼合 / diesel OTB 私有五类），复用既有三种模板骨架 + 内嵌 2026 关税一次性项对照（亚玛芬 $50.1M 退款 vs PVH 退税 vs Deckers -150bp）——7 家逐家数字工作例按 A 轮财报节奏滚动补。
 
 ## 35 品牌注册表·数据分析覆盖缺口矩阵
 
@@ -33,7 +33,7 @@ cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业
 | **L1 双核** | [[cabbeen]]（HK 02030） | ✅ 2026H1 营收4.53亿/毛利46.3%/门店573/售罄73.8% | ✅ | ✅ [[cabbeen_brand_analytics_2026]] | **已闭环**（09-03） |
 | **L1 双核** | [[peacebird]] | ✅ 2026H1 营收28.78亿/门店2861/毛利61.2% | ✅ | ✅ [[peacebird_brand_analytics_2026]] | **已闭环**（09-06） |
 | **L1 上市** | [[crocs]]（NASDAQ:CROX） | ✅ Q2'26 营收11.79亿/毛利59.4% | ✅ | ✅ [[crocs_financial_benchmark_template_2026]] | **已闭环**（09-03） |
-| **L2 上市** | dkny / tommy_hilfiger / karl_lagerfeld / salomon / hoka_one_one / levis / diesel | 🟡 母公司财报 | 部分 | ❌ | **中优先（P1 下轮）** |
+| **L2 上市** | dkny / tommy_hilfiger / karl_lagerfeld / salomon / hoka_one_one / levis / diesel | 🟡 母公司财报 | 部分 | 🟡 [[listed_brand_metrics_template_2026]] | **模板已建**（09-09，路由+五维适配）；逐家数字工作例待滚动补 |
 | **L2 上市** | gxg / muson（[[muson_gxg]]） | ✅ 2025 营收20.56亿 | ✅(含BI小节) | 🟡 | 部分覆盖 |
 | **L3 品牌墙** | trussardi / mr_mrs / marcelo_burlon / g_star_raw / lacoste / ellesse / mlb / mlb_kids / nerdy / adlv / chuu / no_one_else / thisisizi8 / awoken_space / awoken_time / the_mr_young / two_am / nautica / etudes / king_baby / humble_humble_r 等 21 品牌 | ❌ 黑箱/媒体估算 | 部分 | ❌ | 探针式补全 |
 | **L3 女装** | ariose_years（艾诺丝）/ dekashell（迪卡轩） | ❌ 私企无披露 | 部分 | ❌ | 探针式补全 |
@@ -47,7 +47,8 @@ cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业
 | ✅ P0 完成 | 补双核品牌级分析实践 | [[cabbeen_brand_analytics_2026]]（售罄率趋势 SQL + 渠道口径表 + 门店绩效） | [[cabbeen]] |
 | ✅ P0 完成 | 建第三家财报品牌对标页 | [[crocs_financial_benchmark_template_2026]]（GMROI/售罄/周转对标模板） | [[crocs]] |
 | ✅ P0 完成 | 补双核第二家品牌级分析 | [[peacebird_brand_analytics_2026]]（渠道三拆/门店绩效/存货代理链/盈利质量穿透） | [[peacebird]] |
-| P1 | L2 上市公司统一指标分析模板 | 财报品牌通用指标分析 practice | dkny/tommy/karl/salomon/hoka/levis/diesel |
+| P1 | L2 上市公司统一指标分析模板 | [[listed_brand_metrics_template_2026]]（披露路由表 + Crocs 五维适配 + 关税一次性项对照；09-09 模板已建） | dkny/tommy/karl/salomon/hoka/levis/diesel |
+| P1b | L2 上市公司逐家数字工作例 | hoka/levis 优先（品牌独立披露=同构 Crocs），其次 salomon/tommy（分部颗粒） | dkny/tommy/karl/salomon/hoka/levis/diesel |
 | P2 | 品牌墙探针式补全 | 媒体估算口径的品牌快照源页 | 品牌墙 21 + 女装 2 |
 
 ## 结论
@@ -55,7 +56,7 @@ cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业
 1. **C轮的"品牌感知"不是技术搜索绑品牌名，而是查漏必须落到品牌颗粒度**——2026-08-29 首建时 35 品牌实体页 0 个含系统化数据分析视角，这是比 L2 域级缺口更隐蔽、更该补的真缺口；历经两轮 C 轮（09-03/09-06）已闭环 P0 三行。
 2. **双核（cabbeen/peacebird）与 crocs 是最高杠杆的突破口**：三者已有财报级数据，补品牌级分析实践的边际成本最低、对 [[multi_brand_unified_analytics|多品牌统一分析架构]] 的"被分析对象"填充最直接——现已产出三种披露形态的模板（卡宾直算售罄率 / 太平鸟存货代理链 / Crocs 财报对标），P1 上市公司组可直接复用。
 3. **品牌墙 21 品牌与女装 2 品牌应探针式补全**，不做深度分析页——其数据黑箱/媒体估算属性决定深度分析 ROI 低，强行造页只会产生低置信度孤岛。
-4. 本矩阵须**每轮回溯**：随 A轮实体页与 C轮实践页增长，品牌级覆盖率（当前 3/35）应作为 C轮健康快照的固定指标。
+4. 本矩阵须**每轮回溯**：随 A轮实体页与 C轮实践页增长，品牌级覆盖率（当前 3/35 闭环 + P1 模板就绪、逐家工作例滚动中）应作为 C轮健康快照的固定指标。
 
 ## 信息链
 

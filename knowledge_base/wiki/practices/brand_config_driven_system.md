@@ -7,7 +7,7 @@ tags: [brand, configuration, python, streamlit, multi_brand, architecture, membe
 sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-03_丽晶Semarchy_多品牌服装集团数据中台架构, 2026-08-03_多品牌服装集团数据中台架构, 2026-08-12_阿里云_数据中台落地方法论与ETL事务管理, 2026-08-15_主动元数据与多品牌数据目录2026, 2026-08-26_多品牌零售数据中台与全域用户治理实践2026]
 created: 2026-06-08
 updated: 2026-08-26
-cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
+cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]], [[listed_brand_metrics_template_2026]]
 ---
 
 # 品牌配置驱动多品牌系统
@@ -235,6 +235,8 @@ MASTER_DATA_DIMS = {
 - [[2026-08-12_阿里云_数据中台落地方法论与ETL事务管理]]
 - [[2026-09-03_零售经营语义层建设指南_指标统一四层法]]
 - [[2026-09-03_全球零售数据平台_中央管控与本地使用]]
+- [[listed_brand_metrics_template_2026]]
+
 
 ## C轮更新（2026-08-26）：35 品牌注册表 + OneID 全域用户统一
 

@@ -9,8 +9,8 @@ aliases:
 tags: [peacebird, analytics, sql, bi, inventory, channel, store, earnings_quality, focus_brand, c_round]
 sources: [2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-01_太平鸟2026Q2单季质量分析, 2026-08-26_太平鸟数字化与数据分析体系2026, 2026-09-04_A3_peacebird_锋度红皮衣营销与销售费用率刚性, 2026-09-02_A3_peacebird_摩根士丹利研报与2-5-10战略, 2026-09-05_A3_peacebird_半年度业绩说明会与工商变更]
 created: 2026-09-06
-updated: 2026-09-06
-cross_refs: [[peacebird]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]], [[brand_level_data_analysis_gap_matrix]], [[multi_brand_unified_analytics]], [[服装行业竞争格局]], [[earnings_quality_nonrecurring_2026]], [[sell_through_examination_standard_2026]], [[库存三大核心指标]], [[retail_bi_visualization_2026]]
+updated: 2026-09-09
+cross_refs: [[peacebird]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]], [[brand_level_data_analysis_gap_matrix]], [[multi_brand_unified_analytics]], [[服装行业竞争格局]], [[earnings_quality_nonrecurring_2026]], [[sell_through_examination_standard_2026]], [[库存三大核心指标]], [[retail_bi_visualization_2026]], [[listed_brand_metrics_template_2026]]
 ---
 
 # 太平鸟品牌级数据分析实践（渠道结构/门店绩效/存货周转/盈利质量穿透）
@@ -130,6 +130,8 @@ FROM store_ret;
 - [[sell_through_examination_standard_2026]]
 - [[库存三大核心指标]]
 - [[retail_bi_visualization_2026]]
+- [[listed_brand_metrics_template_2026]]
+
 
 ## 待办 / 待验证
 

@@ -8,7 +8,7 @@ tags: [diesel, competitor, denim, premium_denim, italy]
 sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO, 2026-08-30_diesel_OTB2025财报与新CEO与AI试穿, 2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]
 created: 2026-08-14
 updated: 2026-09-02
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]], [[listed_brand_metrics_template_2026]]
 ---
 
 # DIESEL
@@ -52,6 +52,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - 行业格局：[[服装行业竞争格局]]
 
 - [[2026-09-02_B_diesel_商品结构与季末折扣管理]]
+- [[listed_brand_metrics_template_2026]]
+
+
 ## A1轮复核织入（2026-08-16）
 
 > 本轮 A1 对本品做 2025-2026 全维度复核，最新核验数据见 [[2026-08-16_diesel_2025-2026全维度复核]]；数值与 2026-08-15 入库一致（详见该源「ℹ️ 基准核对」），无新增硬信号、无矛盾。

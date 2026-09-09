@@ -9,7 +9,7 @@ tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
 updated: 2026-09-08
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]]
 ---
 
 # HOKA ONE ONE
@@ -52,6 +52,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
 - [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]]
 - [[brand_portfolio_tiers_2026]]
 - [[brand_store_channel_2026]]
+- [[listed_brand_metrics_template_2026]]
+
+
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_hoka_one_one_全维度动态]]。

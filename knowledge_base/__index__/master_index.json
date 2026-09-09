@@ -2,8 +2,8 @@
   "kb_version": "3.0",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-09",
-  "generated_at": "2026-09-09 07:26:03",
-  "total_entries": 1380,
+  "generated_at": "2026-09-09 12:01:21",
+  "total_entries": 1381,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -2654,6 +2654,18 @@
         },
         {
           "id": "WIKI_R_practices_7",
+          "name": "listed_brand_metrics_template_2026",
+          "path": "wiki/practices/listed_brand_metrics_template_2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "aliases": [
+            "listed brand metrics template"
+          ],
+          "confidence": null,
+          "brand_specific": null
+        },
+        {
+          "id": "WIKI_R_practices_8",
           "name": "multi_brand_unified_analytics",
           "path": "wiki/practices/multi_brand_unified_analytics.md",
           "file_count": 1,
@@ -2665,7 +2677,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_8",
+          "id": "WIKI_R_practices_9",
           "name": "peacebird_brand_analytics_2026",
           "path": "wiki/practices/peacebird_brand_analytics_2026.md",
           "file_count": 1,
@@ -2677,7 +2689,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_9",
+          "id": "WIKI_R_practices_10",
           "name": "python_sql_integration_patterns_2026",
           "path": "wiki/practices/python_sql_integration_patterns_2026.md",
           "file_count": 1,
@@ -2689,7 +2701,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_10",
+          "id": "WIKI_R_practices_11",
           "name": "retail_bi_three_tier_dashboard",
           "path": "wiki/practices/retail_bi_three_tier_dashboard.md",
           "file_count": 1,
@@ -2701,7 +2713,7 @@
           "brand_specific": false
         },
         {
-          "id": "WIKI_R_practices_11",
+          "id": "WIKI_R_practices_12",
           "name": "RFM会员分层运营实战",
           "path": "wiki/practices/RFM会员分层运营实战.md",
           "file_count": 1,
@@ -2711,7 +2723,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_12",
+          "id": "WIKI_R_practices_13",
           "name": "sku_inventory_sql_operations",
           "path": "wiki/practices/sku_inventory_sql_operations.md",
           "file_count": 1,
@@ -2723,7 +2735,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_13",
+          "id": "WIKI_R_practices_14",
           "name": "streamlit_production_dashboard",
           "path": "wiki/practices/streamlit_production_dashboard.md",
           "file_count": 1,
@@ -2735,7 +2747,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_14",
+          "id": "WIKI_R_practices_15",
           "name": "服装订货会精准策划",
           "path": "wiki/practices/服装订货会精准策划.md",
           "file_count": 1,
@@ -2745,7 +2757,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_15",
+          "id": "WIKI_R_practices_16",
           "name": "私域运营方法论",
           "path": "wiki/practices/私域运营方法论.md",
           "file_count": 1,
@@ -2755,7 +2767,7 @@
           "brand_specific": null
         },
         {
-          "id": "WIKI_R_practices_16",
+          "id": "WIKI_R_practices_17",
           "name": "零售数据仓库SQL实践",
           "path": "wiki/practices/零售数据仓库SQL实践.md",
           "file_count": 1,

@@ -9,7 +9,7 @@ tags: [levis, competitor, denim, premium_denim, usa]
 sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md, 2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑.md]
 created: 2026-08-14
 updated: 2026-09-06
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]]
 ---
 
 # Levi's
@@ -52,6 +52,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - [[brand_gross_margin_2026]]
 - [[brand_portfolio_tiers_2026]]
 - [[brand_store_channel_2026]]
+- [[listed_brand_metrics_template_2026]]
+
+
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[levis]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_levis_全维度动态]]。

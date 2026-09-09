@@ -9,7 +9,7 @@ tags: [karl_lagerfeld, competitor, luxury, womenswear, menswear, germany, pop_up
 sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌墙图_2026-08-14, 2026-08-15_R4_卡尔拉格斐2026中国]
 created: 2026-08-14
 updated: 2026-09-03
-cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]]
+cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]], [[listed_brand_metrics_template_2026]]
 ---
 
 # KARL LAGERFELD
@@ -69,6 +69,9 @@ cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nau
 
 - [[dkny]]
 - [[2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证]]
+- [[listed_brand_metrics_template_2026]]
+
+
 ## 近期动态刷新（2026-08-16 · A轮A2全量覆盖）
 
 > 本段为 A2 轮（固定分组 12 品牌·品牌主体全维度）对 [[karl_lagerfeld]] 的 2025-2026 新增核验；原始摘要见 [[2026-08-16_A2_karl_lagerfeld_全维度动态]]。

@@ -9,7 +9,7 @@ tags: [salomon, competitor, sportswear, outdoor, trail_running, france, amer_spo
 sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.md, 品牌墙图_2026-08-14, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-17_Salomon_亚玛芬Q1FY2026_中国302店.md, 2026-08-19_A3_salomon_全维度动态, 2026-08-23_A3_salomon_Jisoo大使与国际化扩张.md, 2026-08-26_A3_salomon_北京双旗舰落地.md, 2026-08-29_A3_salomon_全维度动态.md, 2026-09-02_A3_salomon_中国门店矩阵与潮流化风险]
 created: 2026-08-14
 updated: 2026-09-05
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]], [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]], [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]], [[listed_brand_metrics_template_2026]]
 ---
 
 # SALOMON
@@ -95,6 +95,9 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashi
 - [[brand_portfolio_tiers_2026]]
 - [[brand_store_channel_2026]]
 - [[speedo]]
+- [[listed_brand_metrics_template_2026]]
+
+
 ## 近期动态刷新（2026-08-19 · A3轮·品牌全维度）
 
 > 本轮按 A3 规范以品牌主体为中心全维度采集（财务/门店/联名/营销/竞品/行业），新增来源 [[2026-08-19_A3_salomon_全维度动态]]。
