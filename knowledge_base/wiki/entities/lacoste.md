@@ -6,10 +6,10 @@ aliases:
   - "法国鳄鱼"
   - "鳄鱼牌"
 tags: [lacoste, competitor, sportswear, premium, france]
-sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md]
+sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md, 2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络.md]
 created: 2026-08-14
-updated: 2026-09-09
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]]
+updated: 2026-09-10
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[品牌联名策略]]
 ---
 
 # LACOSTE
@@ -185,3 +185,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]
 
 **结论（刷新）**：[[lacoste]] 的 hospitality 动作在 30 天内连击两次，验证其"生活方式场景（酒店=高净值有闲客群）轻资产投放"是 2026 下半年主动选择的渠道叙事而非一次性活动；联名矩阵增补第五型"场景型"（流量 Godzilla/工艺 ALPHA·TAILOR TOYO/生态 Alpine/区域试探 CLOT/场景 Hoxton），可迁移点在成本结构思维——重资产开店 vs 轻资产场景寄生。
 **信息链（刷新）**：[[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]]（来源摘要） + [[2026-08-27_A2_lacoste_全维度动态]]（The Plaza 首击上游） → 本页（[[lacoste]]） → 下游 [[服装行业竞争格局]] / [[品牌联名策略]] / [[mlb]]
+
+## 近期动态刷新（2026-09-10 · A2 轮全维度核验）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[lacoste]] 的核验；本轮真新增 CLOT 联名扩亚洲（09-07 观察项闭环·入源页），其余维度与已入库一致。
+
+- **Lacoste × CLOT 联名扩亚洲（真新增·入源）**：09-06 美 3 店首发后，2026-09-10 前后**上架全球 JUICE 门店网络**——香港（铜锣湾/K11 MUSEA）+ 中国大陆（上海/广州/深圳）+ CLOT 官方旗舰店 + JUICESTORE 官网，台北/台中/洛杉矶即将登陆；Lacoste 官网（CA 站）同步在售 10 SKU（双面派克 C$1,094/卫衣 C$315/拖鞋 C$130 等）——09-07 观察项"CLOT 联名是否扩展亚洲/中国渠道"条件成立，**升级入源**（置信度：品牌自宣）。详见 [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]]。
+- **判定**：CLOT 联名主渠道实为**亚洲 JUICE 网络**（借合作方渠道轻资产进中国，不进入 Lacoste 自家中国经销体系），美国 3 店仅为亚洲街头品牌的北美延伸——"区域试探型"修正为"亚洲主场发售 + 借网进华"；中国侧可达性（JUICE 沪穗深 3 店 + CLOT 天猫旗舰店）远高于 The Hoxton 房内胶囊。
+
+**结论（刷新）**：[[lacoste]] 2026 下半年呈现"轻资产渠道双线并行"主题——hospitality 场景限量（The Plaza → The Hoxton，自营场景叙事）+ 街头联名借网进华（CLOT × JUICE 网络，借合作方渠道）；两条线都避开重资产开店，与 [[mlb]] 授权铺量（1500+ 店）构成渠道光谱的轻端两极。对中国侧（[[peacebird]]/[[cabbeen]]）可迁移点：联名"窄渠道首发造势 → 合作方网络承接转化"的节奏本身可复用，且借网进华不依赖自建经销体系。
+**信息链（刷新）**：[[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]]（来源摘要，JUICE 官微+Lacoste CA 官网） + [[2026-08-27_A2_lacoste_全维度动态]]（王一博 FW26 中国 campaign 上游） → 本页（[[lacoste]]） → 下游 [[品牌联名策略]]（联名分层矩阵六型）/ [[服装行业竞争格局]] / [[mlb]]（授权铺量对照）
