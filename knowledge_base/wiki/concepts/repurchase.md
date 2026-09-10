@@ -6,7 +6,7 @@ tags: [vip, membership, repurchase]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[2026-09-10_B_会员季度经营复盘会与会员资产健康度看板]]
 ---
 
 # 会员复购分析

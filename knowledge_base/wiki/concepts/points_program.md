@@ -6,7 +6,7 @@ tags: [vip, membership, points, program]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[2026-09-10_B_VIP分层权益成本收益测算与会员预算分配]]
 ---
 
 # 积分与权益运营
@@ -151,3 +151,4 @@ cross_refs: []
 
 - [[2026-08-25_human_充值培训与话术]]
 - [[充值活动与会员话术]]
+- [[2026-09-10_B_VIP分层权益成本收益测算与会员预算分配]]

@@ -6,7 +6,7 @@ tags: [sku, inventory, lifecycle]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[2026-09-10_B_直播内容电商渠道商品企划差异]]
 ---
 
 # SKU生命周期管理

@@ -6,7 +6,7 @@ tags: [merchandise, planning, category]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[2026-09-10_B_品类结构与款色码宽度深度企划]]
 ---
 
 # 品类结构规划

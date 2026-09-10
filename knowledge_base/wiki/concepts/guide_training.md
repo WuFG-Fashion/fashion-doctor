@@ -6,7 +6,7 @@ tags: [guide, training]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[2026-09-10_B_低绩效导购辅导与绩效面谈机制]]
 ---
 
 # 导购培训体系

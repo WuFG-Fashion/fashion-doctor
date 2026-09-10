@@ -6,7 +6,7 @@ tags: [方法论, 服饰零售, 韦孚, 客资, 会员, 客单件, 老客]
 sources: [搜狐 467523956 李炳辰3C商品零售体系, 534829270 艾诺丝雅诗]
 created: 2026-08-25
 updated: 2026-08-25
-cross_refs: [[3c_operation_system]], [[weifu_consulting]]
+cross_refs: [[3c_operation_system]], [[weifu_consulting]], [[2026-09-10_B_导购客户资产经营与企微加微SOP]]
 confidence: 品牌自宣
 brand_specific: false
 ---
@@ -104,3 +104,4 @@ brand_specific: false
 - [[retail_sales_force_system]] — 销售力体系（前身）
 
 - [[2021-05-20_李炳辰3C商品零售体系]]
+- [[2026-09-10_B_导购客户资产经营与企微加微SOP]]
