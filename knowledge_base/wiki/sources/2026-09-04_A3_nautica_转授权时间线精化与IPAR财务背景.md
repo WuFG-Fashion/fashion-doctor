@@ -52,3 +52,7 @@ cross_refs: [[nautica]], [[2026-09-02_A3_nautica_Interparfums组合视角与Laco
 - Longchamp 授权官宣（2025-07-22）：https://www.centralcharts.com/fr/3086-inter-parfums/news/5200381-interparfums-announces-fragrance-license-agreement-with-longchamp
 
 > ℹ️ **基准核对（精化非矛盾）**：09-02 源"2027 首发窗口"标记为媒体估算且含"Q2 电话会提及明年大量新 blockbuster"的模糊表述；本页据 Reuters 时间线将其精化为"组合层面 2027+ 新品周期（Longchamp 等），Nautica 单品牌 2030 接管后"，不构成数值冲突——09-02 源已附注订正。
+
+## 后续源（回链）
+
+- [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]] —— 同一品牌的**地理/渠道增量**维度（巴西官方电商 TRM 运营 + 全球 ~1,300 店/30+ 国含店中店口径 + Altomax 内衣袜品类分包）；与本页香水授权时间线互补，**非数值替代**。

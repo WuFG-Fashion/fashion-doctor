@@ -5,10 +5,10 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景, 2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]
 created: 2026-08-14
-updated: 2026-09-05
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]]
 ---
 
 # NAUTICA
@@ -172,3 +172,17 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页 → 下游应用：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-09-11 · A3轮·品牌全维度）
+
+> 本轮采集：巴西官方电商上线 + 全球门店网络量化，新增来源 [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]]（置信度：官方公告）。
+
+- **巴西官方电商上线（新事件）**：由本地合作方 **TRM** 以本地基础设施与市场经验运营，**首期仅开放男装**；ABG 巴西副总裁兼负责人 **Bruno Pedroso** 定性为"长期增长 Nautica 的下一步"（置信度：官方公告）。
+- **同市场第二类授权并行**：ABG 2026 年内已与内衣/袜类制造商 **Altomax** 签长期协议（男/女/童内衣袜的开发-生产-分销）——巴西同时跑"电商（TRM）+ 品类分包（Altomax）+ 既有零售"三线，属库内**首次收录的内衣袜品类分包维度**（置信度：官方公告）。
+- **全球门店网络量化（新口径）**：全球 **30+ 国家、近 1,300 家独立门店与店中店**（含 shop-in-shops）——库内**首个"含店中店"的全渠道点数口径**（置信度：品牌自宣）。
+- **ℹ️ 口径核对（非矛盾）**：本页 09-05 核验小节记"全球 75 国 / 244 家品牌专卖店"（爱企查口径，仅专卖店）；本页新增"30+ 国 / ~1,300 家（含店中店）"——**统计口径不同不可直比**，引用须带限定词（详见源页页末基准核对）。
+- **核验一致项**：中国运营方更替（联亚 Tristate → 上海汇众）、2025 中国门店（70 直营 + 54 伙伴店）、Interparfums 香水 2030-01 接管时间线——均与 08-29~09-04 库内一致，无新增数值冲突。
+- **下轮优先**：Altomax 内衣袜产品线上市时间与渠道；巴西是否进一步落独立门店；1,300 店口径的官方 IR/年报确认。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]] → 本页（[[nautica]]）→ 下游应用：[[brand_store_channel_2026]] · [[品牌墙概念与代理模式]] · [[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
