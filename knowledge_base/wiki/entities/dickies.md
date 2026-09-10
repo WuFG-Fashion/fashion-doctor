@@ -6,10 +6,10 @@ aliases:
   - "迪克尔斯"
   - "874工装裤"
 tags: [dickies, competitor, workwear, american, casual]
-sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md, 2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]
+sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md, 2026-09-04_A1_dickies_OurLegacyWORKSHOP联名, 2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]
 created: 2026-08-14
-updated: 2026-09-04
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]
 ---
 
 # Dickies
@@ -146,3 +146,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 - **一句话摘要**：瑞典 Our Legacy 实验支线 WORK SHOP × Dickies 2026-08-28 发售——以有机棉斜纹布 + WORK SHOP 招牌套染（overdyeing）做旧工艺重塑 Eisenhower Jacket 与 874 Pant（"Dickies Suit"成套制服逻辑，刻意不拆散上下装），色调浅米/橄榄棕/巧克力/炭灰/驼色，登陆 OLWS 官网/实体店 + Dover Street Market；系 Dickies 2026 年第三条联名线（06 月 Pitti 首秀 / 08-21 UNION×INVERSE / 08-28 OLWS）。
 **结论（织入）**：Bluestar 重启路径从"偶发联名"升级为"节奏化产品管线"（3 个月 3 条线），且全部借买手店/设计圈层权威（UNION/OLWS）而非流量明星；"一单品多叙事"（874/夹克在美式解构与北欧做旧两套审美下复刻）摊薄档案单品开发成本、抬高复刻天花板，是品牌墙可迁移打法；联名资源仍向欧美日倾斜、中国区未见同等量级动作（置信度：品牌自宣/推断，中国区待后续核验）。
 **信息链（织入）**：[[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]] → 本页（[[dickies]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]
+
+## A1轮全维度采集织入（2026-09-11）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「Saturdays NYC × Dickies 2026 秋冬联名胶囊」维度信号见 [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]。
+- **一句话摘要**：纽约 Saturdays NYC × Dickies FW26 联名胶囊 2026-09-11 起在 Saturdays NYC 门店/官网发售（中文口径 09-15），以**成衣染色 + 低调褶裥 + 考究腰头**把挺括 TC 斜纹布工装裤升级为**精裁西裤质感**，主推 **875 Slacks（直筒精裁）** 与 **873 Slim Fit Work Pants（修长工装）**；承接双方 SS26 联名脉络——Dickies 2026 年**第 4 条联名线**（Pitti 06 月 → UNION×INVERSE 08-21 → Our Legacy WORK SHOP 08-28 → Saturdays NYC 09-11）。
+
+**结论（织入）**：联名管线从"密度证明"进入**"品类扩张"**阶段——前三条线均在工装审美内部变奏（解构/做旧），第四条直接把工装裤改写成西裤（875 Slacks）以切入正价办公场景，绕开工装品类价格天花板；"同一档案单品（874/工装裤）× 多套审美改写"是低边际成本的复刻经济学，对国内品牌墙代理方具直接参照价值；但**四条线合作方全在欧美日，中国区零落点**，印证代理方在联名首发权上的结构性弱势（置信度：品牌自宣/推断）。
+**信息链（织入）**：[[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]] → 本页（[[dickies]]） → 下游 [[品牌联名策略]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]

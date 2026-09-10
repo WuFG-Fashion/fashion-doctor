@@ -9,6 +9,7 @@ updated: 2026-09-06
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带]]
 confidence: 媒体估算
 brand_specific: true
+superseded_by: "[[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]]"
 ---
 
 # 艾诺丝雅诗 进驻重庆佛罗伦萨小镇奥莱二期

@@ -4,10 +4,10 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带, 2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]
 created: 2026-08-14
-updated: 2026-09-08
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]]
 ---
 
 # ellesse
@@ -132,3 +132,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 ## A1轮核验织入（2026-09-08 · 美国回归验证节点观察）
 
 > 本轮 A1 全维度核验 0 新增硬信号：Garfield campaign = 09-01 源同事件（Dallas Morning News 转载 corroborate）。新颗粒仅 1 条**旗舰店时间窗**：ellesse 美国旗舰店预计 **2027 下半年**落地达拉斯（候选 Knox Street / Henderson / Design District），美国总部租于 The Gild 双子塔（近 NorthPark Center，2025 起租）；8 月已首发 **U.S. Pro Tennis Collection**（男款 Piqué 网球 Polo/女款百褶网球裙）；渠道先行：Banner House @ T Bar M 职业店 + 圣地亚哥网球中心合作 + 美国官网（置信度：第三方数据/媒体）。08-30 源「年末旗舰店」颗粒精化为「2027 下半年」——**2027H2 达拉斯旗舰落地为远期核验点**。
+
+## A1轮全维度采集织入（2026-09-11）
+
+> 本轮 A1 对本品做 2026 全维度核验，新增「美国回归运营主体 + 五通道渠道 + 品类延展路线图」维度信号见 [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]]。
+- **一句话摘要**：达拉斯 9 月举办回归庆祝活动（Banner House @ T Bar M，温网 Club Director Martin Guntrip 出席），运营方 **The Iconic Brand Corporation** 具名（Chairman **Todd Furniss** / CEO **Duwayne Miller**）并系统阐述美国战略：**美国总部设达拉斯**、**ellesse.us** DTC 已重启，渠道为"**DTC 官网 + 顶级网球俱乐部 + 滑雪度假村 + pop-up + 重点城市自有旗舰店**"五通道；品类从 on court / on mountain 延伸至男女 **luxury lifestyle**，探索**腕表/皮革包袋/意大利奢侈酒店布草/翁布里亚意式餐厅合作/精品酒店**；定位口径 "premium lifestyle brand rooted in authentic Italian heritage / La Dolce Vita"（1959 年 Leonardo Servadio 于佩鲁贾创立）。
+
+**结论（织入）**：本次为**同一战略的施工图细化**（08-30 源为授权签约，本页为运营主体/渠道结构/品类路线），**"场景优先、重资产后置"**是核心逻辑——顶级网球俱乐部 + 滑雪度假村 + pop-up 三类轻资产场景渠道先行、自有旗舰店延后至 2027H2，在品牌认知空窗期以场景精准触达替代货架竞争；品类延展清单属**纯意向口径**（无签约/无时间表），其成立前提是先重建文化势能（顺序：先势能、后授权）；与 Dickies 联名资源零落中国区互为佐证——**授权方在美区是自有运营重资产、在中国是区域授权代理，投入等级差异结构性存在**（置信度：品牌自宣/推断）。
+**信息链（织入）**：[[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] → 本页（[[ellesse]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]]
