@@ -1067,6 +1067,19 @@ updated: 2026-09-05
 
 ---
 
+## 本轮新增（2026-09-11 · A1 轮 · 分组12品牌全维度综合采集）
+
+> A1 固定分组（adlv/ariose_years/awoken_space/awoken_time/cabbeen/chuu/crocs/dekashell/dickies/diesel/dkny/ellesse）以品牌主体为中心、全维度综合采集：**4 真新增 / 8 显式无新增（非静默跳过）**。4 源均含「结论+信息链+confidence+brand_specific」、双链至品牌实体（[[ariose_years]] / [[dickies]] / [[ellesse]] / [[dkny]]）与 [[服装行业竞争格局]] / [[品牌联名策略]] / [[品牌墙概念与代理模式]] / [[服装价格带管理与价格真空区]] / [[brand_risk_signals_2026]] / [[listed_brand_metrics_template_2026]]，并回链上游源（09-06 ariose / 09-04 dickies / 08-30 ellesse / 09-03+09-04 dkny），无孤岛。8 无新增品牌（cabbeen 9/20 风涌无界大秀未落地·仅罗一舟/李汶翰助阵明星预热延展·9/21 后查落地、crocs 游戏王 09-10 全球首发当日 06:40 无首日销售报道属正常·促销卡 reportedly 约 9,000 张（美国约 3,000 张）记观察、chuu 政瞳 campaign=09-10 源同事件（无战报）、dekashell 检索污染延续（德基艺术奥莱/服装加盟行业文）、diesel 检索仅命中 FFXIV 通用周边无品牌信号、adlv 检索污染（ADL Fashion Week/Ann Demeulemeester）、awoken_space + awoken_time 黑箱延续第 8+ 轮（武汉 UWD 设计软文不可信））经 WebSearch 全维度核验与既有库一致，标记「无新增·核验一致」不重复造页。
+
+| 新增源页 | 品牌 | 置信度 | brand_specific |
+|------|------|------|------|
+| [[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]] | ariose_years | 第三方数据 | true |
+| [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]] | dickies | 品牌自宣 | true |
+| [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] | ellesse | 品牌自宣 | true |
+| [[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]] | dkny | 财报 | true |
+
+---
+
 ## 本轮新增（2026-09-07 · A2 轮 · 分组11品牌全维度验证/增量）
 
 > A2 固定分组（etudes/g_star_raw/hoka_one_one/humble_humble_r/karl_lagerfeld/king_baby/lacoste/levis/marcelo_burlon/mlb/mlb_kids）全维度核验：1 真新增 / 10 显式无新增（非静默跳过）。1 源含「结论+信息链+confidence+brand_specific」、双链至品牌实体 [[mlb]] 与 [[服装行业竞争格局]]/[[品牌墙概念与代理模式]]/[[lacoste]]（上游 [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]），无孤岛。10 无新增品牌（karl FW26+NOT-KARL=09-03 源 corroborate·PFW 特别活动细节仍待 9 月公布、levis RED 复刻=09-06 源同源转载、etudes FW26 No.28 Résonances=早于库内 SS27 的上一季历史延展、humble 宁波阪急臻选店 2026-01-24 已入库、g_star RAW RESEARCH=08-29 源同事件延展、mlb_kids 韩系列已并入 09-02 mlb 源、lacoste CLOT 联名 9/6 美 3 店=弱信号记实体观察、king_baby/marcelo_burlon 探针污染）经 WebSearch 核验与既有库一致，标记「无新增·核验一致」不重复造页。mlb 源为母企组合定量补充：Sergio Tacchini 营收轨迹首次量化（2023 ₩32.9B→2024 ₩37.1B→2025 ₩48.6B、2022 收购 ₩82.7B）+ tennis chic 行业窗口。hoka 实体观察更新：Tor Ultra Lo 中国精选店波次信号（SOULGOODS/Z-ONE/FLOE/IDIFF ¥1,899）年份待核。
