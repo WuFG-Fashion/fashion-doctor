@@ -8,8 +8,8 @@ aliases:
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
 sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
 created: 2026-08-14
-updated: 2026-09-08
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]
 ---
 
 # HOKA ONE ONE
@@ -244,3 +244,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
 
 **结论（刷新）**：[[hoka_one_one]] Tor Ultra Lo 复刻的"中国侧先行指标"从"**是否进入**"正式转为"**渠道分层 + 波次放量**"——第一波（Olive）精选店限量已售罄、第二波（Black）扩店放量，符合"先精选店试水、再决定铺货"的潮流化标准路径（与 [[salomon]] XT 系同构）；对中国零售的观察：**限定款第二波的铺货面扩张幅度 = 品牌对潮流化可行性的内部判断**，若 Black 波进入更多城市/渠道即确认 HOKA lifestyle 中国管线成型。
 **信息链（刷新）**：[[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]]（来源核验+观察闭合） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[品牌墙概念与代理模式]]
+
+## 跨品牌对照补充（2026-09-11 · A3轮）
+
+- [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]：同赛道（户外→潮流）两种品牌资产路径对照——HOKA 走"**专业跑者社群**（Run Club / Run It Again）+ 精选店 + 复刻档案鞋型（Tor Ultra Lo）"，Salomon 走"**潮流联名**（Kith / Goodbai）+ 时装周门店激活 + 致敬初代配色"。HOKA 用社群沉淀复购，Salomon 用联名换声量——**同一赛道的两种增长引擎**，可用于判断"社群型 vs 联名型"在不同客群下的适配。
+- 另注：Salomon XT-EVO 的"底台复用 + 鞋面重造"与 HOKA Tor Ultra Lo 的"档案鞋型复刻"同属**降低开发风险的成熟资产复用**，区别在于一个改鞋面、一个改配色。

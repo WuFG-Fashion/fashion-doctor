@@ -9,9 +9,9 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, store, channel, dtc, franchise, 2026]
 sources: [kb_benchmarks.json, 36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-16_A2_hoka_one_one_全维度动态, 2026-08-16_A2_levis_全维度动态, 2026-08-15_R4_卡骆驰2026Q2中国, 2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报, 2026-08-23_A1_chuu_城市门店数与客单价验证, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单, 2026-08-23_A1_crocs_2026H2联名营销矩阵与HEYDUDE, 2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海, 2026-09-04_A3_two_am_马来独立店与扩张管线, 2026-08-31_A2_levis_印度500店与日本联名, 2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店, 2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]
 created: 2026-08-16
-updated: 2026-09-06
+updated: 2026-09-11
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]
 ---
 
 # 36品牌门店策略与渠道结构对比（2026 S轮合成）
@@ -123,3 +123,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
 - [[2026-08-26_A2_mlb_Q2费用结构与入境游红利]]
 - [[crocs_financial_benchmark_template_2026]]
 
+
+## 渠道信号补充（2026-09-11 · A3轮）
+
+- [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]]（**渠道光谱最左端：授权铺量型的新口径与地理增量**）：Nautica 全球 **30+ 国 / 近 1,300 家独立门店与店中店（含 shop-in-shops）**——库内**首个"含店中店"的全渠道点数口径**，说明其国际化靠大量店中店/集合店点位而非独立旗舰（低成本铺量），与其轻奢大众化定位相符；巴西官方电商由本地合作方 TRM 运营、首期仅男装 = **授权体系下的零自建市场进入**。
+  - **光谱定位更新**：授权铺量型（[[nautica]] ~1,300 店含店中店 / [[mlb]] 1,500+ 店）↔ 借网进华型（[[lacoste]] × CLOT/JUICE）↔ 场景限量型（[[lacoste]] The Hoxton 房内点单）↔ 直营主导型（[[lacoste]] 约 70% 销量走直营）——**同一赛道四种渠道结构并存**。
+  - **ℹ️ 口径核对**：与库内"75 国 / 244 家品牌专卖店"（爱企查，仅专卖店）**统计口径不同不可直比**。
+- [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]（**"门店即媒介"的渠道用法**）：9/25 米兰时装周期间，Salomon Store Brera（Corso Garibaldi 12）被改造为沉浸式体验空间，借时装周的城市流量为单店导流——**不办秀、不搭台，用现成门店承接城市级流量**，成本远低于 runway，属渠道资产的高效复用。
+- [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]（**地标场景作为渠道外的"第三空间"**）：The Plaza 既是 campaign 拍摄地又是秀场（30 天内两次复用）——与独立店/店中店/电商并列的第四类触点：**不自持、可反复借用的地标场景**。

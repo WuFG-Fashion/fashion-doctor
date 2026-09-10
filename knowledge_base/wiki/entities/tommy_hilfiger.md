@@ -6,9 +6,9 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事, 2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事, 2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点, 2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]
 created: 2026-08-14
-updated: 2026-09-09
+updated: 2026-09-11
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[listed_brand_metrics_template_2026]]
 ---
 
@@ -221,3 +221,19 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[levis]] · [[earnings_quality_nonrecurring_2026]]
+
+## 近期动态刷新（2026-09-11 · A3轮·品牌全维度）
+
+> 本轮采集：NYFW 2027 春季大秀「Plaza Prep」落地，新增来源 [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]（置信度：品牌自宣）。
+
+- **重返 NYFW（新事件·已落地）**：2026-09-10（NYFW 官方首日）于**纽约 The Plaza Hotel** 发布 **2027 春季系列**，主题 **"Plaza Prep"**——09-09 源"NYFW 秀场回归（待发生）"的**落地闭环**；NYFW 本季 9/10-15 约 70 场，TH 紧接 Ralph Lauren / Coach / DVF 之后（置信度：品牌自宣+媒体估算）。
+- **场地资产复用（可迁移动作）**：The Plaza 是创始人**与妻子居住十余年的家**，同时是 8 月秋季 campaign "Only in New York"（Kelce）取景地——**同一地标 30 天内"campaign 拍摄地 → 秀场"两次复用**（置信度：品牌自宣）。
+- **产品语言**：以比例/色彩/面料现代化经典 preppy——色块橄榄球连衣裙、Ithaca 条纹牛津衬衫、传统格纹西装与 Ivy 夹克；Polo 在**缩小与超大廓形间切换** + Tommy crest 微型刺绣 + 立领；卡其裤→**高腰热裤**（另有牛仔工艺保守版）；Tommy Flag 褪色水洗用于超细麂皮/丝羊绒与大容量托特；鞋履以 90 年代双色滑板鞋、船鞋、便士乐福鞋、皮革泳池拖鞋收尾（置信度：品牌自宣）。
+- **卡司（F.A.M.E.S. 全员）**：**Gigi Hadid 开场、Romeo Beckham 走闭场**；头排 Kate Moss / Camila Cabello / JISOO / 少女时代 Hyoyeon Kim·Yuri Kwon·Sooyoung Choi / Yosh Yu / Patrick Schwarzenegger / Arón Piper / Carmelo Anthony + NBA 球员 Josh Hart·Karl-Anthony Towns·Miles McBride；Matt Jones 管弦乐团 + **Slayyyter 惊喜压轴演出**（置信度：品牌自宣+媒体估算）。
+- **品牌资产哲学（官方）**：营销总监 Virginia Ritchie 以 **F.A.M.E.S.（Fashion/Art/Music/Entertainment/Sport）** 概括品牌自 1985 年的融合打法；大使策略**"不按地区选人、按人本身选"**——Kelce"完美体现这一平衡"，JISOO 合作已三年、Gigi 时隔十余年回归（置信度：品牌自宣）。
+- **规模口径（官方 boilerplate）**：TOMMY HILFIGER 产品 2025 年**全球零售额约 $90 亿**；FashionNetwork 口径去年**营业额 $47.7 亿**、管理层推进**高端化（upmarket）**——**两口径不可直比**（详见源页页末基准核对）（置信度：品牌自宣/媒体估算）。
+- **核验一致项**：Always Denim 首月 NA+EU D2C 牛仔 +30%（09-09 源）、shop-in-shop 试点、Q2 集团 $2,097M -3% / TH $1,132M 持平、全年指引 $11.80-12.10（09-04 源）均无冲突。
+- **下轮优先**：秀场订货/零售转化口径（目前仅可见性）；2027 春季上市时间与价格带拆分；Kelce + Always Denim 延续性 → **Q3 财报（12 月初）**；高端化具体动作。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]（承 [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] 的"NYFW 待验证项"）→ 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[salomon]] · [[earnings_quality_nonrecurring_2026]]

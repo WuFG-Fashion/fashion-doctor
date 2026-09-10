@@ -9,7 +9,7 @@ tags: [levis, competitor, denim, premium_denim, usa]
 sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md, 2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑.md]
 created: 2026-08-14
 updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]], [[brand_store_channel_2026]], [[lacoste]], [[g_star_raw]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]], [[brand_store_channel_2026]], [[lacoste]], [[g_star_raw]], [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]]
 ---
 
 # Levi's
@@ -233,3 +233,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（刷新）**：[[levis]]「Keep it Loose」从"campaign 发布"进入"零售兑现"阶段——**9-15 全球发售 + 东京/香港双城快闪**说明该 campaign 的亚洲资源投放集中于**东京（日本市场）+ 香港（大中华门户）**，而非中国大陆直投；结合 RED 复刻在大陆仅有微博推广（09-10 观察），[[levis]] 2026 下半年在中国的动作呈现"**官方声量先行、渠道落地滞后**"的特征，与 [[lacoste]]（借 CLOT×JUICE 网络轻资产进华）形成两种不同的中国进入节奏。对 [[peacebird]]/[[cabbeen]] 的可迁移点：全球 campaign 的亚洲资源可按"东京内容场 + 香港交易场"配置，中国大陆留待第二波。
 **信息链（刷新）**：[[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]（campaign 发布上游） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[brand_store_channel_2026]] / [[lacoste]]（中国进入节奏对照） / [[g_star_raw]]
+
+## 跨品牌对照补充（2026-09-11 · A3轮）
+
+- [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]]：**"档案资产化"两型分野的对照锚点**——[[levis]] RED 三度复刻属**量产型复刻**（档案款重新上架卖货，赌销量，需供应链与库存投入）；Trussardi 档案裙 / [[salomon]] XT-EVO 致敬初代配色属**话题型再穿**（不量产，只做叙事，赌认知，边际成本近零）。**两型的投入产出模型完全不同**，品牌选哪一型取决于当前缺"卖货"还是"认知"。
+- 该分野也解释了为什么 Levi's 的档案能力必须配合"版型资产化"（一版多代际）使用：量产型复刻的收益取决于**同一档案母版能被反复诠释的次数**（参见 [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]] 的"同一档案单品 × 多套审美改写"）。
