@@ -56,3 +56,7 @@ brand_specific: true
 
 - 75% 再生棉 + 25% 回收棉新丹宁的量产规模与上市时间（Textile Today 未披露具体 SKU 档期）。
 - 再生棉认证体系（Regenagri/US Cotton Trust Protocol）在中国供应链的落地情况。
+
+## 后续源（回链）
+
+- [[2026-09-11_A2_g_star_raw_FluidDenim轻量天丝丹宁]]（2026-09-11·A2 轮：可持续叙事由纤维端（再生棉）推进至结构端（100% TENCEL™ Lyocell 9oz 轻量丹宁·无弹力靠结构可动））

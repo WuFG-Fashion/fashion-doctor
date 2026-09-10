@@ -6,10 +6,10 @@ aliases:
   - "法国鳄鱼"
   - "鳄鱼牌"
 tags: [lacoste, competitor, sportswear, premium, france]
-sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md, 2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络.md]
+sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md, 2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络.md, 2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴.md, 2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD.md]
 created: 2026-08-14
-updated: 2026-09-10
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[品牌联名策略]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[品牌联名策略]], [[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]], [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]], [[brand_store_channel_2026]], [[brand_risk_signals_2026]]
 ---
 
 # LACOSTE
@@ -195,3 +195,16 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]
 
 **结论（刷新）**：[[lacoste]] 2026 下半年呈现"轻资产渠道双线并行"主题——hospitality 场景限量（The Plaza → The Hoxton，自营场景叙事）+ 街头联名借网进华（CLOT × JUICE 网络，借合作方渠道）；两条线都避开重资产开店，与 [[mlb]] 授权铺量（1500+ 店）构成渠道光谱的轻端两极。对中国侧（[[peacebird]]/[[cabbeen]]）可迁移点：联名"窄渠道首发造势 → 合作方网络承接转化"的节奏本身可复用，且借网进华不依赖自建经销体系。
 **信息链（刷新）**：[[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]]（来源摘要，JUICE 官微+Lacoste CA 官网） + [[2026-08-27_A2_lacoste_全维度动态]]（王一博 FW26 中国 campaign 上游） → 本页（[[lacoste]]） → 下游 [[品牌联名策略]]（联名分层矩阵六型）/ [[服装行业竞争格局]] / [[mlb]]（授权铺量对照）
+
+## 近期动态刷新（2026-09-11 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[lacoste]] 的核验；本轮真新增 2 条（全维度结构口径 + FW26 联名矩阵扩容），均入源页。
+
+- **结构口径（真新增·入源）**：Lacoste 当前年营收约 **€3B**（目标 2028-2030 达 **€4B**）、**约 70% 销量走直营渠道**、**Polo 占销售比重约 20%（10 年前 35%）**；巴西 **88 个销售点**（置信度：媒体估算，Bloomberg Línea 采访拉美 CEO Pedro Zannoni）。详见 [[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]]。
+- **渠道（真新增）**：圣保罗 Shopping Cidade Jardim 开出 **Café Lacoste 全球第 3 家 / 拉美第 1 家**（2026-08-19；先摩纳哥试水 → 2026-02 巴黎常设 → 圣保罗）——库内 hospitality 线从"快闪/寄售"扩展到**自营实体咖啡馆**。
+- **风险（真新增）**：Lacoste 向法国财政部支付 **€9.9M** 了结 4 年税务争议（初判 €13.6M 含 €3.6M 罚金）；**香水授权 2026 Q2 -19% / H1 -16%**（2025 同期 +59%/+44%），东欧拖累（置信度：媒体估算/第三方数据）。
+- **联名（真新增·入源）**：FW26 追加 **× Lamarel**（瑞士·1990s 网球文化·20 件含男/女/童装 Mini-Me·8-03 合作方独家 → **9-19 进 Lacoste 线上店与精选精品店**）+ **× JOURNAL STANDARD relume**（日本·Milano rib 拉链开衫 ¥27,500 / 长袖 T ¥15,400·8-14 预订）——联名谱系新增"渠道共营型"与"童装扩龄型"。详见 [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]]。
+- **核验一致**：Éric Vallat 2025-09 上任（08-23 源）、王一博 FW26、Godzilla（09-01）、CLOT 扩亚洲（09-10）、The Hoxton（09-09）均维持。
+
+**结论（刷新）**：[[lacoste]] 的 2026 下半年主线已可概括为"**结构治理 + 场景渠道双线**"——结构侧把定价权收到 70% 直营、主动稀释 Polo 单一依赖（35%→20%）、同步处理税务历史包袱；渠道侧一边用自营咖啡馆（圣保罗，重资产自有场景）一边用他方网络（CLOT×JUICE 借网进华、The Hoxton 房内胶囊寄生轻资产）并行扩张。与 [[mlb]]（授权铺量 1,500+ 店）构成渠道光谱两极，中间态是 [[levis]]（DTC 51%）。风险点在于**授权香水由 2025 年 +44% 转为 2026 H1 -16%**，说明授权品类无法充当增长缓冲——这恰是 [[品牌墙概念与代理模式]] 中纯授权型品牌的结构性短板。
+**信息链（刷新）**：[[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]]（结构/渠道/风险） + [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]]（联名） → 本页（[[lacoste]]） → 下游 [[brand_store_channel_2026]] / [[brand_risk_signals_2026]] / [[品牌联名策略]]（矩阵扩至七/八型）/ [[服装行业竞争格局]] / [[global_apparel_financial_benchmarks_2026]]

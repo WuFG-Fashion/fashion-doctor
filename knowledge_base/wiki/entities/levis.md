@@ -8,8 +8,8 @@ aliases:
 tags: [levis, competitor, denim, premium_denim, usa]
 sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_levis_Q2财季口径校正与分区颗粒.md, 2026-08-31_A2_levis_印度500店与日本联名.md, 2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign.md, 2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑.md]
 created: 2026-08-14
-updated: 2026-09-10
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]]
+updated: 2026-09-11
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]], [[brand_store_channel_2026]], [[lacoste]], [[g_star_raw]]
 ---
 
 # Levi's
@@ -222,3 +222,14 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（刷新）**：[[levis]] RED 复刻的**中国大陆上市信号首次出现**（官方微博产品推广），但强度仍低于"正式上市官宣"——2026 复刻是否进入大陆门店/天猫仍是开放问题；与 2021 华语区"RED 先锋系列"（含 Feng Chen Wang 联名）的历史重叠意味着"RED 入华"有既有先例，观察点在于**2026 复刻版的大陆渠道形态**（旗舰店/天猫/限量发售）。
 **信息链（刷新）**：[[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]]（来源摘要） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[g_star_raw]] / [[peacebird]] / [[cabbeen]]
+
+## 近期动态刷新（2026-09-11 · A2 轮全维度核验）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[levis]] 的核验；本轮 **Keep it Loose 零售落地窗口确认**（09-01 源的时间/区域增量·记实体观察），其余维度与已入库一致。
+
+- **Keep it Loose 定档与亚洲快闪（观察升级·09-01 源增量）**：Hypebeast（中文/东南亚/印尼多语版，2026-09 发布）确认 FW26「Keep it Loose」胶囊**2026-09-15 起全球发售**（Levi's 专门店 + 官网），并在**亚洲多个精选城市开设快闪与企划活动，明确点名东京（09-15 开幕）与香港**；胶囊核心款为 **Loose Taper Jeans / Loose Boot Jeans / Loose Crop Trucker Jacket** + 阔腿牛仔裤、oversized 卡车司机外套、短版上衣、刺绣帽与挺身手袋（置信度：品牌自宣/媒体转述）。详见 [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]（本页为其零售落地增量）。
+- **判定**：09-01 源仅记录"8 月底上线/9 月单品上市"，本页补齐**具体发售日（9-15）+ 亚洲快闪双城（东京/香港）**——属同一 campaign 的执行颗粒，**不另造源页**；香港快闪为 09-15 起，**是否辐射中国大陆（深圳/广州）为下一观察点**。
+- **核验一致**：RED 三度复刻（09-06 源）、RED 大陆官方微博推广（09-10 观察）、Blue Tab FW26（09-03）、Big Tex + White Mountaineering（09-02）均维持；本次检索到的 RED 台湾报道（maideyi）为 09-06 源同源转载，无新增。
+
+**结论（刷新）**：[[levis]]「Keep it Loose」从"campaign 发布"进入"零售兑现"阶段——**9-15 全球发售 + 东京/香港双城快闪**说明该 campaign 的亚洲资源投放集中于**东京（日本市场）+ 香港（大中华门户）**，而非中国大陆直投；结合 RED 复刻在大陆仅有微博推广（09-10 观察），[[levis]] 2026 下半年在中国的动作呈现"**官方声量先行、渠道落地滞后**"的特征，与 [[lacoste]]（借 CLOT×JUICE 网络轻资产进华）形成两种不同的中国进入节奏。对 [[peacebird]]/[[cabbeen]] 的可迁移点：全球 campaign 的亚洲资源可按"东京内容场 + 香港交易场"配置，中国大陆留待第二波。
+**信息链（刷新）**：[[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]（campaign 发布上游） → 本页（[[levis]]） → 下游 [[服装行业竞争格局]] / [[brand_store_channel_2026]] / [[lacoste]]（中国进入节奏对照） / [[g_star_raw]]
