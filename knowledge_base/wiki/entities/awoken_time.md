@@ -8,8 +8,8 @@ aliases:
 tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
 sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md, 2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md, 2026-08-29_awoken_time_武汉潮流集合店扩张]
 created: 2026-08-14
-updated: 2026-08-29
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]], [[2026-09-12_A1_awoken_time_核验登记]]
 ---
 
 # AWOKEN TIME
@@ -91,3 +91,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_h
 
 **结论（织入）**：AWOKEN TIME 为武汉本土潮流集合店(800+㎡、白猿宇宙 IP)，4家武汉店+外拓，是区域潮流集合店'在地文化+大店体验'模型的样本；与 AWOKEN SPACE 命名易混，已作区分标注。
 **信息链（织入）**：[[2026-08-29_awoken_time_武汉潮流集合店扩张]] → 本页（[[awoken_time]]） → 下游 [[awoken_space]] / [[服装行业竞争格局]]
+
+## A1轮核验登记（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验：检索**连续第 9+ 轮无有效品牌信号**（命中结果全为无关实体/无关行业内容），**黑箱延续**；此前武汉 UWD 设计公司软文称承接 AWOKEN-TIME 全案设计，因含"G-STAR RAW 卡宾旗下"等错误表述判定**不可信**，不采信。
+- **结论（登记）**：awoken_time 与 [[awoken_space]] 同步进入"双黑箱第 9+ 轮"，**建议降级为季度探针**；本页不做新增，维持 08-29 状态。

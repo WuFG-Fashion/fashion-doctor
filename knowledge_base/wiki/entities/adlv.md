@@ -9,8 +9,8 @@ aliases:
 tags: [adlv, competitor, streetwear, korean_wave, womenswear]
 sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_adlv_2026联名矩阵.md, 2026-08-23_A1_adlv_深圳大悦城华南首店与门店盘点.md, 2026-08-25_A1_adlv_巴斯奎特联名与艺术家IP泛化.md, 2026-08-26_A1_adlv_RollingStones与Garnier联名国际化.md, 2026-08-29_adlv_国际市场扩张与联名, 2026-08-31_A1_adlv_澳门新八佰伴Y-CASUAL专柜.md]
 created: 2026-08-14
-updated: 2026-08-31
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]], [[2026-09-12_A1_adlv_核验登记]]
 ---
 
 # ADLV (acme de la vie)
@@ -130,3 +130,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], 
 
 **结论（织入）**：ADLV 以集合专柜轻量切入澳门新八佰伴，借港澳旅游零售客流做高毛利溢出，是韩潮小众品牌'内地养心智+港澳养利润'的可迁移渠道范式；单符号品牌(Baby Face)生命周期警示延续。
 **信息链（织入）**：[[2026-08-31_A1_adlv_澳门新八佰伴Y-CASUAL专柜]] → 本页（[[adlv]]） → 下游 [[服装行业竞争格局]] / [[chuu]] / [[awoken_time]] / [[品牌墙概念与代理模式]]
+
+## A1轮核验登记（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验。**新信号（营销维度，薄）**：微博 2026-09-10 记录 ADLV **2026 秋冬系列大片**由 **William（泰国演员，Ellemen Thailand 发布）**演绎，主题"**源于 ADLV、成于 ADLV、归于 ADLV**"，主打极简细节向街头风格——为 adlv 在**东南亚市场的明星营销**信号（置信度：品牌自宣）。
+- **结论（登记）**：adlv 本轮首次突破此前连续多轮的"检索污染/仅品牌介绍"状态，但信号**单源、无量化**，未达入页门槛 → 记实体观察，不造 source 页。其余维度（中国门店/联名/财务）**无新增**，澳门新八佰伴 Y-CASUAL 专柜仍为最近落地（08-31）。**下轮优先**：William FW26 大片的中国区投放情况 + 秋冬系列是否入华。

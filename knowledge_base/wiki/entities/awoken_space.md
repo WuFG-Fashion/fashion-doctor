@@ -7,8 +7,8 @@ aliases:
 tags: [awoken_space, competitor, streetwear, concept_store, china, wuhan]
 sources: [2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-29_awoken_space_资料稀缺标注]
 created: 2026-08-14
-updated: 2026-08-29
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-09-12_A1_awoken_space_核验登记]]
 ---
 
 # AWOKEN SPACE
@@ -73,3 +73,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 
 **结论（织入）**：AWOKEN SPACE 本轮未检索到独立服装品牌实体(仅 Malibu 疗愈工作室及与 AWOKEN TIME 混淆)，按护栏'不强行编造'标待核验；知识库暂不新增伪数据，留待后续定向核查。
 **信息链（织入）**：[[2026-08-29_awoken_space_资料稀缺标注]] → 本页（[[awoken_space]]） → 下游 [[awoken_time]] / [[服装行业竞争格局]]
+
+## A1轮核验登记（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验：检索**连续第 9+ 轮无有效品牌信号**（命中结果全为无关实体：上海长宁 Converse X-ING 概念店/台北时装周东区店家/Round Rock Premium Outlets/MOKO 新世纪广场/香港时尚高峰）——**黑箱延续**。
+- **结论（登记）**：awoken_space 自 08-29「资料稀缺标注」以来已连续 9+ 轮零信号，**建议按 09-11 快照判断降级为季度探针**（或从 A 轮逐轮检索中移出、改为月度核验），避免每轮占用检索预算。本页不做新增，维持 08-29 状态。
