@@ -5,10 +5,10 @@ aliases:
   - "Nautica"
   - "诺帝卡"
 tags: [nautica, competitor, menswear, sportswear, usa]
-sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景, 2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]
+sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景, 2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络, 2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]
 created: 2026-08-14
-updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]], [[brand_portfolio_tiers_2026]]
 ---
 
 # NAUTICA
@@ -186,3 +186,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]] → 本页（[[nautica]]）→ 下游应用：[[brand_store_channel_2026]] · [[品牌墙概念与代理模式]] · [[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
+
+## 近期动态刷新（2026-09-12 · A3轮·品牌全维度）
+
+> 本轮采集：家居窗饰品类授权扩张 + ABG 集团底座量化，新增来源 [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]]（置信度：官方公告）。
+
+- **新增家居窗饰品类授权（新事件）**：**SelectBlinds × Nautica** 推出 **Nautica Home** 窗饰系列（Roller/Roman Shades + Drapery，条纹/航海母题/植物纹/编织肌理），**仅 SelectBlinds.com 独家**；对手方 SelectBlinds **2023 年被 Hunter Douglas 收购**——即 Nautica 把窗饰品类交给了**窗饰行业龙头旗下电商平台**（置信度：官方公告）。
+- **Nautica 品类数口径（新维度）**：官方 boilerplate 记 Nautica **"70+ 品类"**（服装/配饰/家居，男/女/童全覆盖）——库内首次收录"品类数"维度（置信度：官方公告）。
+- **ABG 集团底座量化（新标尺）**：ABG 自述 **1,700+ 授权商与战略伙伴 / 150 国 / 年系统零售额超 $380 亿 / 50+ 品牌 / 近 10 亿社媒粉丝**——可作"品牌墙品牌背后所有方规模"的对照标尺（置信度：官方公告）。
+- **授权结构第三层被看清（结构增量）**：品牌所有者（ABG）→ **品类授权商**（Altomax 内衣袜 / Interparfums 香水 / SelectBlinds 窗饰）→ 区域运营方（联亚中国 / TRM 巴西）三层完整可见；同一市场（巴西）同时跑三条线、不同品类在不同市场用不同对手方（置信度：官方公告）。
+- **巴西电商二次确认**：ABG 官方 PR + FashionNetwork 独立报道复述 TRM 运营、首期仅男装、近 1,300 店/30+ 国口径——与 09-11 源一致 corroborate（置信度：官方公告）。
+- **ℹ️ 口径核对（非矛盾）**：本页"1,300 家含店中店/30+ 国"（ABG boilerplate）与 09-05 记"75 国/244 品牌专卖店"（爱企查）**口径不同不可直比**。
+- **下轮优先**：SelectBlinds 窗饰上市时间与价格带；Altomax 内衣袜上市时间与渠道；"70+ 品类"完整清单；家居品类是否引入中国（联亚是否获家居授权）；ABG $380 亿口径年份。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]] → 本页（[[nautica]]）→ 下游应用：[[品牌墙概念与代理模式]] · [[brand_portfolio_tiers_2026]] · [[brand_store_channel_2026]] · [[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
