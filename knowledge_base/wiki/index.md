@@ -1349,3 +1349,22 @@ updated: 2026-09-05
 - **diesel**：FFXIV「BRAVE」执行日历补全（伊势丹 09-16~22 / 涉谷 10-02 / 阪急梅田 10-07~13 / 岩田屋 10-14~20），**中国区无落点**。
 - **awoken_space / awoken_time**：**双黑箱第 9+ 轮**，建议降级为季度探针。
 
+
+## A2轮 2026-09-12 新增来源（分组A2·品牌全维度）
+
+> 本组 11 品牌以品牌主体为中心全维度核验（**1 真新增 / 10 显式核验非静默跳过**）；置信度/brand_specific 见源页 frontmatter。
+
+- [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]] — **KARL LAGERFELD 全球经营段 + 酒店/住宅管线首次量化（财报）**：G-III FY2027 Q2 电话会披露 KL **北美增长强劲（批发领跑）**、**欧洲销售承压但毛利率扩张**（定价 + 渠道结构 + 采购执行）、**KL PARIS 男女装同步扩张（连衣裙/鞋履动能最强）**、**KL JEANS 持续跑赢（年轻客群）**；**酒店板块首次给出管线数字：1 酒店 + 1 住宅已开业、5 个项目在开发**（里斯本 KL Residences 2026-06 落地），品牌定位升级为"借授权 + 酒店扩张的全球生活方式品牌"；H2 营销可见度 = Paris Hilton 第 3 季 + **全球 NOT-KARL campaign**。
+
+### 本轮实体页核验登记（无新 source 页）
+
+- **etudes**：Paris Men's Fashion Week SS27 日程（6/24）含 Études Studio，与 08-26 源一致；检索另命中 D2C 内容农场文（"Études Studio 视频广告重构"、含未经证实的 ROAS/thumb-stop 数字、创意总监姓名与品牌实际团队不符）→ **判定低质不可信，不入库**。
+- **g_star_raw**：Fluid Denim（09-11 源）价格/区域仍无公开口径；本轮命中优惠券站与品牌背景页（爱企查：1989 阿姆斯特丹 / 2023-12 WHP Global 多数股权 / 中国由广州番禺翡翠制衣运营），均为背景非新事件。
+- **hoka_one_one**：Tor Ultra Lo 复刻四配色 = 09-04 源 corroborate；**Tor Ultra Black 中国上市仍无信号**（仅香港水货零售页）；Deckers FY27 Q2 待 10 月下旬。
+- **humble_humble_r**：宁波天一广场 6 号门 "HumbleHumbleR 宁波旗舰店（敬请期待）"（天一广场官微 / 新浪财经 09-02 转载）仍**无官宣开业时间**，观察维持。
+- **king_baby**：连续多轮探针污染（Gymboree 金宝贝早教/童装、各地"金宝宝"个体童装店）→ 检索词需再优化。
+- **lacoste**：× The Hoxton 房内胶囊 = 09-09 源 corroborate；香港毕打行旗舰店（Pedder Building，Alvin c.k. Lam 画作 + Mathilde Wittock 回收网球家具 + 霓虹装置）= 库内既有；**Café Lacoste 亚洲落点与香水 Q3 仍无新口径**。
+- **levis**：Keep it Loose **9-15 全球发售 + 东京（9-15 开幕）/香港快闪**（Hypebeast 多语版）= 09-11 实体页已录增量，本轮 corroborate；Q2 财务（EPS $0.28 / 会员近 5,000 万 / 中国"新领导层下回暖" / BlueTab ~40%）= 08-29/08-30 源已覆盖，**无新增**。
+- **marcelo_burlon**：仅命中品牌背景页（爱企查：翅膀图案 / MC 简称 / 勿与 Marc O'Polo 混淆），**无 2026 事件信号**。
+- **mlb**：本轮命中为 **New Era（美国 MLB 联盟帽款授权商）** 的 Clubhouse / Country Flags 59FIFTY 系列与国内电商产品页（26 秋款 / 汪苏泷 Chunky Liner 学长鞋）——**非 MLB Korea（F&F）品牌事件**，属实体歧义；RESCENE × SLEEK = 09-08 源 corroborate，**无中国平移信号**。
+- **mlb_kids**：MLBKIDS ACE 跑鞋 / 学院系列卫衣（官方社媒 + 天猫在售），26FW 已并入 09-02 mlb 源，产品层弱信号不入源。

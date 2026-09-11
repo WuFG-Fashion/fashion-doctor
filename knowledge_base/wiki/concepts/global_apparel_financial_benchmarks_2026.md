@@ -8,7 +8,7 @@ tags: [kpi, benchmark, global, financial, gross_margin, inventory, dtc, internat
 sources: [2026-07-16_Eightx全球服装品牌财务基准2026.md]
 created: 2026-07-16
 updated: 2026-09-12
-cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q1]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]]
+cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q1]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]]
 ---
 
 # 全球服装品牌财务基准2026
@@ -174,3 +174,11 @@ cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_i
 **基准含义**：鞋类专业零售商呈现**"营收微降 + 毛利率大幅修复 + 门店零扩张"**组合——盈利改善来自**商品结构与降价管理**（叠加关税退款一次性项），而非渠道增长；可作为"成熟鞋服零售商进入存量经营期"的财务基准参照（对照 [[cabbeen]] 中报"小而稳"：营收 +7.24%、毛利率 43.8%→46.3%、门店零扩张）。
 
 **信息链**：[[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]] → 本页（[[global_apparel_financial_benchmarks_2026]]） → 下游 [[dkny]] / [[cabbeen]] / [[listed_brand_metrics_template_2026]]
+
+### 财务基准补充 2026-09-12 · A2 轮（KARL LAGERFELD / G-III 口径）
+
+**"销售承压 + 毛利率扩张"的轻奢弱市组合**：G-III FY2027 Q2 电话会披露 KL 品牌段——**北美增长强劲（批发领跑）**，**欧洲销售持续受消费环境拖累**，但**欧洲毛利率实现扩张**（归因：定价 + 渠道结构 + 采购执行）；同季 G-III 集团毛利率 45.2%（+440bp）亦为同向。
+
+**基准含义**：在需求端未修复时，**"保毛利优先于保规模"**（靠定价与渠道结构而非促销冲量）是国际同业的一致选择；可作为评估 [[peacebird|太平鸟]]/[[cabbeen|卡宾]] 弱市策略的对照标尺——**渠道结构优化应先于规模扩张**。另需注意 KL 的差异化项：其毛利改善的同时**收入端区域分化明显**（北美强 / 欧洲弱），说明该组合并非普适增长，而是**区域置换**。
+
+**信息链**：[[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]] → 本页（[[global_apparel_financial_benchmarks_2026]]） → 下游 [[karl_lagerfeld]] / [[cabbeen]] / [[peacebird]] / [[listed_brand_metrics_template_2026]]

@@ -10,7 +10,7 @@ sources: [36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137�
 created: 2026-08-16
 updated: 2026-09-12
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[nerdy]], [[dickies]], [[brand_portfolio_tiers_2026]], [[brand_lifecycle_capital_events_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]], [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[2026-09-12_A1_dekashell_旭弘实业工商核验与法人口径]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[nerdy]], [[dickies]], [[brand_portfolio_tiers_2026]], [[brand_lifecycle_capital_events_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]], [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[2026-09-12_A1_dekashell_旭弘实业工商核验与法人口径]], [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]]
 ---
 
 # 36品牌风险信号汇总（2026 S轮合成）
@@ -186,3 +186,11 @@ DKNY 品牌方（G-III）、鞋类授权商（DBI）、中国区运营方（未�
 杭州旭弘实业（2022-09-02 成立 / **注册资本 300 万**）与向星**同址**，叠加已注销佰加 + 区域加盟商荟苒 → **≥4 主体并存**；自述 600+ 店/30 省。**风险**：合同主体 ≠ 责任主体；**对冲动作**：签约前完成四主体股权关联与责任边界核验（已列入固定尽调清单）。
 
 **信息链**：[[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]] / [[2026-09-12_A1_dekashell_旭弘实业工商核验与法人口径]] → 本页（[[brand_risk_signals_2026]]） → 下游 [[dkny]] / [[dekashell]] / [[品牌墙概念与代理模式]]
+
+### 风险类型新增：「虚拟 IP 依赖度」（karl_lagerfeld · 2026-09-12）
+
+G-III FY2027 Q2 电话会明确 **NOT-KARL 全球 campaign 与 Paris Hilton 第 3 季并列，作为 H2 品牌营销可见度的两大支柱**（财报口径）。**风险**：创始人离世型轻奢品牌以虚拟角色承接"在场感"，**无任何销售侧归因口径**（无会员拉新 / 电商流量 / 门店转化数据），存在"营销自嗨型支出"可能；**对冲动作**：下轮追踪 NOT-KARL 的转化指标，若 Q3（12 月初）仍无销售口径则下调其权重评估。
+
+**对照组**：同为"顶流/内容驱动"的 [[chuu]] 政瞳 campaign 能在 3 日内给出 **GMV 876.33 万 + 礼盒售罄追加**（品牌自宣口径），说明**可归因性是营销投入能否被信任的分水岭**——KL 缺的正是这一层。
+
+**信息链**：[[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]] → 本页（[[brand_risk_signals_2026]]） → 下游 [[karl_lagerfeld]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]
