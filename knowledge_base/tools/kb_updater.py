@@ -37,13 +37,23 @@ SUPPORTED_EXTS = {".md", ".xlsx", ".xls", ".csv", ".pdf", ".png", ".jpg", ".jpeg
 
 # ── wiki/ 新架构映射（子目录 → 目录信息）──────────────
 WIKI_MAP = {
-    "sources":     {"id": "WIKI_S", "name": "来源库",         "desc": "采集来源摘要页（每篇一个 source）"},
-    "entities":    {"id": "WIKI_E", "name": "实体库",         "desc": "品牌/公司/人物/产品实体页"},
-    "concepts":    {"id": "WIKI_C", "name": "概念库",         "desc": "方法论/术语/指标体系概念页"},
-    "comparisons": {"id": "WIKI_P", "name": "对比库",         "desc": "跨实体/跨品牌对比分析页"},
-    "playbooks":   {"id": "WIKI_B", "name": "作战手册",       "desc": "可操作的打法/SOP/决策树"},
-    "practices":   {"id": "WIKI_R", "name": "实践库",         "desc": "技术实践/落地案例页"},
+    "sources":     {"id": "WIKI_S", "name": "来源库",         "desc": "采集来源摘要页（每篇一个 source）", "type": "source"},
+    "entities":    {"id": "WIKI_E", "name": "实体库",         "desc": "品牌/公司/人物/产品实体页", "type": "entity"},
+    "concepts":    {"id": "WIKI_C", "name": "概念库",         "desc": "方法论/术语/指标体系概念页", "type": "concept"},
+    "comparisons": {"id": "WIKI_P", "name": "对比库",         "desc": "跨实体/跨品牌对比分析页", "type": "comparison"},
+    "playbooks":   {"id": "WIKI_B", "name": "作战手册",       "desc": "可操作的打法/SOP/决策树", "type": "playbook"},
+    "practices":   {"id": "WIKI_R", "name": "实践库",         "desc": "技术实践/落地案例页", "type": "practice"},
 }
+
+# ── v2.1 frontmatter 数据契约（specs/知识库v2架构方案_讨论稿.md §13.2）──
+# layer 缺省值（仅当页面 frontmatter 未写 layer 时使用，属提示值非权威值）
+LAYER_DEFAULTS = {
+    "source": "T2", "entity": "T2",
+    "concept": "T1", "comparison": "T1", "practice": "T1", "playbook": "T1",
+}
+# frontmatter 中按「key: value」单行提取的字段
+CONTRACT_FIELDS = ("layer", "scope", "company", "volatility", "as_of",
+                   "review_due_at", "expires_at", "status", "superseded_by", "retrieval")
 
 
 def scan_kb():
@@ -87,6 +97,7 @@ def scan_wiki():
     if not wiki_root.is_dir():
         return {}
     wiki = {}
+    total_excluded = {"retired": 0, "never": 0, "explicit_only": 0}
     for sub_name, info in WIKI_MAP.items():
         sub_dir = wiki_root / sub_name
         if not sub_dir.is_dir():
@@ -94,9 +105,14 @@ def scan_wiki():
         entries = []
         for f in sorted(sub_dir.glob("*.md")):
             title = f.stem
-            aliases = []
-            confidence = None
-            brand_specific = None
+            meta = {
+                "aliases": [], "confidence": None, "brand_specific": None,
+                "type": info.get("type"),
+                "layer": LAYER_DEFAULTS.get(info.get("type")),  # 提示值，frontmatter 可覆写
+                "scope": "public", "company": None, "volatility": None,
+                "as_of": None, "review_due_at": None, "expires_at": None,
+                "status": "active", "superseded_by": None, "retrieval": "eligible",
+            }
             try:
                 text = f.read_text(encoding="utf-8", errors="ignore")
                 fm = re.search(r"^---\n(.*?)\n---", text, re.S)
@@ -106,27 +122,45 @@ def scan_wiki():
                     if am:
                         raw = am.group(1).strip()
                         aliases = re.findall(r'"([^"]+)"|\'([^\']+)\'', raw)
-                        aliases = [a or b for a, b in aliases] or [raw.strip("[]").strip()]
+                        meta["aliases"] = [a or b for a, b in aliases] or [raw.strip("[]").strip()]
+                    for key in CONTRACT_FIELDS:
+                        m = re.search(rf"^{key}:\s*(.+)$", body, re.M)
+                        if m:
+                            val = m.group(1).strip().strip('"\'')
+                            if val and val.lower() not in ("null", "none", "~", ""):
+                                meta[key] = val
                     cm = re.search(r"^confidence:\s*(\S+)", body, re.M)
                     if cm:
-                        confidence = cm.group(1).strip()
+                        meta["confidence"] = cm.group(1).strip()
                     bm = re.search(r"^brand_specific:\s*(true|false)", body, re.M)
                     if bm:
-                        brand_specific = bm.group(1) == "true"
+                        meta["brand_specific"] = bm.group(1) == "true"
             except Exception:
                 pass
+            # 个人域双保险：scope=personal 或物理路径在个人域 → 强制不可检索
+            rel_posix = str(f.relative_to(KB_ROOT)).replace("\\", "/")
+            if meta.get("scope") == "personal" or rel_posix.startswith("20_personal/") or "/临时收集/" in rel_posix:
+                meta["retrieval"] = "never"
+            # 状态门禁：retired 不入索引（物理删除永远只由人批，这里只是不再索引）
+            if meta.get("status") == "retired":
+                total_excluded["retired"] += 1
+                continue
+            if meta.get("retrieval") == "never":
+                total_excluded["never"] += 1
+            elif meta.get("retrieval") == "explicit_only":
+                total_excluded["explicit_only"] += 1
             entries.append({
                 "id": f"{info['id']}_{sub_name}_{len(entries)}",
                 "name": title,
-                "path": str(f.relative_to(KB_ROOT)).replace("\\", "/"),
+                "path": rel_posix,
                 "file_count": 1,
-                "status": "ok",
-                "aliases": aliases,
-                "confidence": confidence,
-                "brand_specific": brand_specific,
+                "status": "ok",              # 扫描状态（沿用旧语义，勿与生命周期混淆）
+                "lifecycle": meta.pop("status"),  # v2.1 生命周期状态（active/stale/expired/retired）
+                **meta,
             })
         if entries:
             wiki[sub_name] = {"info": info, "L3": entries}
+    wiki["__excluded__"] = total_excluded  # 供 main() 打印；build_index 会跳过
     return wiki
 
 
@@ -147,6 +181,8 @@ def build_index(kb: dict, wiki: dict = None) -> dict:
 
     wiki = wiki or {}
     for wk, data in sorted(wiki.items()):
+        if wk.startswith("__"):  # __excluded__ 等统计键不入索引
+            continue
         cat = {
             "id": data["info"]["id"],
             "name": data["info"]["name"],
@@ -158,15 +194,22 @@ def build_index(kb: dict, wiki: dict = None) -> dict:
         total += len(data["L3"])
 
     return {
-        "kb_version": "3.0",
+        "kb_version": "3.1",   # v2.1 契约：条目含 lifecycle/type/layer/scope/retrieval 等字段
         "kb_root": str(KB_ROOT),
         "last_updated": datetime.now().strftime("%Y-%m-%d"),
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "total_entries": total,
         "levels": {
             "L1": {"name": "知识库总库", "desc": "Fashion Doctor 服装零售知识库根目录"},
-            "L2": {"name": "品类库", "desc": "按业务域分类的二级目录（legacy L2 + wiki 新架构）"},
+            "L2": {"name": "品类库", "desc": "按业务域分类（wiki 新架构；旧 L2 目录已于 2026-08-24 退役，磁盘无 L2 目录，不再索引）"},
             "L3": {"name": "专题库", "desc": "L2下的细分专题，每条内容存为一个文件"}
+        },
+        "field_contract": {
+            "version": "v2.1",
+            "source": "specs/知识库v2架构方案_讨论稿.md §13.2",
+            "fields": ["type", "layer", "scope", "company", "volatility", "as_of",
+                       "review_due_at", "expires_at", "lifecycle", "superseded_by", "retrieval"],
+            "gating": "lifecycle in (expired,retired) 或 retrieval in (never,explicit_only) 的条目，检索默认不召回"
         },
         "L2_categories": categories,
         "retrieval_module": {
@@ -193,17 +236,22 @@ def main():
     kb = scan_kb()
     wiki = scan_wiki()
 
-    print(f"\n📊 扫描结果（legacy L2 {sum(len(v['L3']) for v in kb.values())} 条 + wiki {sum(len(v['L3']) for v in wiki.values())} 条）：")
+    print(f"\n📊 扫描结果（legacy L2 {sum(len(v['L3']) for v in kb.values())} 条 + wiki {sum(len(v['L3']) for k, v in wiki.items() if not k.startswith('__'))} 条）：")
     for L2_key, data in sorted(kb.items()):
         print(f"  {data['info']['name']} ({len(data['L3'])}个L3)")
         for L3 in data["L3"]:
             print(f"    └─ {L3['name']} ({L3['file_count']}文件)")
     for wk, data in sorted(wiki.items()):
+        if wk.startswith("__"):
+            continue
         print(f"  [wiki] {data['info']['name']} ({len(data['L3'])}个条目)")
         for L3 in data["L3"][:5]:
             print(f"    └─ {L3['name']} ({L3['file_count']}文件)")
         if len(data["L3"]) > 5:
             print(f"    … 等 {len(data['L3'])} 个")
+    excl = wiki.get("__excluded__", {})
+    if any(excl.values()):
+        print(f"\n🚫 门禁排除：retired 不入索引 {excl['retired']} 条 | retrieval=never {excl['never']} 条 | explicit_only {excl['explicit_only']} 条")
 
     new_index = build_index(kb, wiki)
 

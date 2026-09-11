@@ -51,7 +51,15 @@ def search_index(query: str, index: dict, level_filter: str = None):
     results = []
     for cat in index.get("L2_categories", []):
         for entry in cat.get("L3", []):
-            # 计算匹配分数
+            # ── v2.1 生命周期门禁（specs §13.2）──────────────────
+            # lifecycle: active|stale|expired|retired（缺省视为 active，兼容存量条目）
+            life = entry.get("lifecycle") or "active"
+            if life in ("expired", "retired"):
+                continue  # expired=退检索（显式通道另行处理）；retired=彻底退出
+            # retrieval: eligible|explicit_only|never（缺省视为 eligible）
+            if entry.get("retrieval", "eligible") in ("never", "explicit_only"):
+                continue  # never=个人域永不召回；explicit_only=T4视图仅显式注入
+            # ── 原有打分逻辑 ─────────────────────────────────────
             name = entry.get("name", "").lower()
             L2_name = cat["name"].lower()
             aliases = [a.lower() for a in entry.get("aliases", []) if a]
