@@ -1368,3 +1368,20 @@ updated: 2026-09-05
 - **marcelo_burlon**：仅命中品牌背景页（爱企查：翅膀图案 / MC 简称 / 勿与 Marc O'Polo 混淆），**无 2026 事件信号**。
 - **mlb**：本轮命中为 **New Era（美国 MLB 联盟帽款授权商）** 的 Clubhouse / Country Flags 59FIFTY 系列与国内电商产品页（26 秋款 / 汪苏泷 Chunky Liner 学长鞋）——**非 MLB Korea（F&F）品牌事件**，属实体歧义；RESCENE × SLEEK = 09-08 源 corroborate，**无中国平移信号**。
 - **mlb_kids**：MLBKIDS ACE 跑鞋 / 学院系列卫衣（官方社媒 + 天猫在售），26FW 已并入 09-02 mlb 源，产品层弱信号不入源。
+
+## A3轮 2026-09-12 新增来源（分组A3·品牌全维度）
+
+> 本组 12 品牌（mr_mrs / nautica / nerdy / no_one_else / peacebird / salomon / speedo / the_mr_young / thisisizi8 / tommy_hilfiger / trussardi / two_am）以品牌主体为中心全维度采集；**2 真新增 / 10 显式核验**（非静默跳过）。
+
+- [[2026-09-12_A3_peacebird_半年度业绩说明会问答口径与股东回报结构]] — **太平鸟半年度业绩说明会当日问答 + 股东回报结构（官方公告）**：9/11 15:00-16:00 说明会（记录表编号 2026-002，张江平 / 王青林 / 陈灵国出席）；管理层**首次显式归因**"营收 -0.72% 主要受加盟收入下降影响"（直营 +2.73% / 线上 +3.06% / **加盟 -10.32%**）；**库内新数据**：经营活动现金流净额 **2.41 亿**、期末现金 **2.63 亿**；行业定性"**已进入内生优化的精益经营新阶段**"；愿景"**世界级时尚品牌企业**"；门店矩阵口径"**旗舰店、集合店、单品牌店为核心**"（旗舰与集合店 **114 家逆势净增 +10**，净关 137 家）；**股东回报新维度**：累计派现募资比 **232.32%**（行业 7/65）、2026 中期**不分配不转增**、股东户数 -422 户、董事增持 2360 万股 @13.25 元。
+- [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]] — **Nautica 家居窗饰品类授权 + ABG 集团底座（官方公告）**：**SelectBlinds × Nautica Home** 窗饰系列（卷帘 / 罗马帘 / 窗帘，仅 SelectBlinds.com 独家），对手方 **2023 年被 Hunter Douglas 收购**；官方 boilerplate 记 Nautica **"70+ 品类"**；**ABG 集团底座**：**1,700+ 授权商 / 150 国 / 年系统零售额超 $380 亿 / 50+ 品牌 / 近 10 亿社媒粉丝** —— 授权结构"**品牌所有者 → 品类授权商 → 区域运营方**"三层补全（服装 = 联亚 / 内衣袜 = Altomax / 香水 = Interparfums / 窗饰 = SelectBlinds / 巴西电商 = TRM）。
+
+### 本轮实体页核验登记（无新 source 页）
+
+- **tommy_hilfiger**：NYFW 秀后**第三方媒体全景**（WWD / Vogue / Vogue Arabia / Vogue SG / L'Officiel）——新事实 **品牌档案复刻：1980 年代 Times Square 广告牌印上丝质长背心裙**；卡司补充（Victoria Monét / Coco Jones / Jung Hae-in / 泰国演员 3 人等）；谢幕牵白色萨摩耶致敬 Kelce campaign（Kelce 因 Chiefs 周一揭幕战缺席）；**秀场仍无订货 / 销售量化口径**。
+- **salomon**：XT-EVO 全维度 = 09-11 源 corroborate（三色 / 三 SKU / 大底与 XT-6 一致 / 海外 $190 · $200 · €190 / **中国官网截至 9/9 仍无统一标价** / 9/25 米兰 Brera 激活 / Kith 第 5 支 / **无销量口径**）。
+- **speedo**：名古屋亚运 **T-7**，中国游泳队 44 人（19 人首秀）、汪顺"五朝元老"、王长浩冲 50 蝶亚洲纪录；**战袍仍未曝光** → 亚运线延展。
+- **two_am**：IOI 首店（08-28）与 **Sunway Pyramid 09-15 未到**；产品线补 **CrissCross / Trekker**；马来语媒体把 2AM 与 Skechers 超级店、Hoka Pavilion 并列为"KL 高级鞋店三轨迹（性能 / 科技 / 社群）"。
+- **nerdy**：APR（278470.KS）市值 13.216 万亿韩元（新时点）、FY2026 一致预期 3.08 万亿、Q3 EPS 预期 4,026、**财报日确认 2026-11-05**；**NDY 服装线无新业务信号**。
+- **trussardi**：仅命中 2024 年 Milan Design Week 旧文（Casa × Luxury Living Group 等，库内已记）→ **无新增**；档案裙仍无品牌官方背书。
+- **mr_mrs / no_one_else / thisisizi8 / the_mr_young**：检索污染延续（**the_mr_young 第 12 轮**，卡宾 / 2AM 路径亦失败）→ 均记"核验一致·无新增"；the_mr_young 建议**降频为月度核验**。

@@ -8,7 +8,7 @@ aliases:
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
 sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事, 2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点, 2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]
 created: 2026-08-14
-updated: 2026-09-11
+updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[listed_brand_metrics_template_2026]]
 ---
 
@@ -237,3 +237,18 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]（承 [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] 的"NYFW 待验证项"）→ 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[salomon]] · [[earnings_quality_nonrecurring_2026]]
+
+## 近期动态刷新（2026-09-12 · A3轮·品牌全维度）
+
+> 本轮核验 + 延展：NYFW 2027 春季秀**秀后第三方媒体全景**（09-11 源为品牌自宣口径，本轮补 WWD/Vogue 等第三方媒体），含**新事实：品牌档案复刻**；按 A3 规范并入实体页、**不重复造源页**（同事件不同信源，09-11 源仍有独立价值，**不触发 superseded_by**）。
+
+- **秀后第三方媒体全景**：WWD / Vogue / Vogue Arabia / Vogue Singapore / L'Officiel USA 等发布秀评，普遍定性为「**looser kind of Americana**」「**modern prep**」；创始人自述 **"fashiontainment"**（时尚×娱乐融合）与 "It's like bringing people back into my home"（置信度：媒体估算）。
+- **新事实：品牌档案复刻（Times Square billboard）**——本季最"深挖档案"的款式是一件**白色丝质长背心裙，印有品牌 1980 年代中期投放的纽约时代广场广告牌**（牌面写着当时四位"最伟大的美国男装设计师"：Ralph Lauren / Perry Ellis / Calvin Klein / Hilfiger 本人）；另有 1980-90 年代 **sailing jacket（麂皮补丁）** 与 **grunge 格纹**（长板短裤 / 拉链大衣裙）的档案复刻（置信度：媒体估算）。
+- **卡司补充（09-11 源未含）**：**Victoria Monét、Coco Jones、Jordyn Woods、Lukas Gage、Kevin Woo、Jung Hae-in、Josh Heuston、Meg Donnelly、Sistine Stallone、Arón Piper** 及泰国演员 **Gemini Norawit / Fourth Nattawat / Phuwin Tangsakyuen**；**Matt Jones 管弦乐团身着 TH（denim 长裤 / 海军蓝西装 / 领带 / 红袜）现场演奏**（置信度：媒体估算）。
+- **谢幕细节**：创始人谢幕时牵一只**白色萨摩耶犬**——致敬 Kelce 主演的秋季 campaign 中的爱犬 Wendy；**Kelce 本人缺席**（Kansas City Chiefs 周一赛季揭幕战）（置信度：媒体估算）。
+- **行业语境（媒体读法）**：秀在 **9/11 事件 25 周年前夕**举行，红白蓝爱国色调被媒体解读为"纽约身份的公开展示"；媒体同时指出 **vintage Hilfiger 在二手转售市场有稳定需求**，构成品牌"重启档案"的商业依据（置信度：媒体估算）。
+- **核验一致项**：全球零售额 $90 亿 vs 营业额 $47.7 亿口径差异、F.A.M.E.S. 哲学、Plaza 一景两用结构——均与 09-11 源一致；**秀场仍无任何订货 / 销售量化口径**（关键缺口延续）。
+- **下轮优先**：2027 春季**上市时间与价格带**（秀场款 vs <£79 平价入口款拆分）；秀场订货 / 买手反馈；Q3 财报（12 月初）Kelce 主线延续性。
+
+### 信息链（本轮）
+- 上游来源：WWD / Vogue / Vogue Arabia / Vogue Singapore / L'Officiel USA 秀评（2026-09-11~12）+ [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[brand_risk_signals_2026]]
