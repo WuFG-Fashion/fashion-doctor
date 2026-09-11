@@ -4,10 +4,10 @@ title: ellesse
 aliases:
   - "Ellesse"
 tags: [ellesse, competitor, sportswear, retro, italy]
-sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带, 2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]
+sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带, 2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图, 2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道.md]
 created: 2026-08-14
-updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[brand_store_channel_2026]]
 ---
 
 # ellesse
@@ -140,3 +140,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]]
 
 **结论（织入）**：本次为**同一战略的施工图细化**（08-30 源为授权签约，本页为运营主体/渠道结构/品类路线），**"场景优先、重资产后置"**是核心逻辑——顶级网球俱乐部 + 滑雪度假村 + pop-up 三类轻资产场景渠道先行、自有旗舰店延后至 2027H2，在品牌认知空窗期以场景精准触达替代货架竞争；品类延展清单属**纯意向口径**（无签约/无时间表），其成立前提是先重建文化势能（顺序：先势能、后授权）；与 Dickies 联名资源零落中国区互为佐证——**授权方在美区是自有运营重资产、在中国是区域授权代理，投入等级差异结构性存在**（置信度：品牌自宣/推断）。
 **信息链（织入）**：[[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] → 本页（[[ellesse]]） → 下游 [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[服装价格带管理与价格真空区]]
+
+## A1轮全维度采集织入（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验，**美国回归渠道细化 + B2B 批发新通道**维度见 [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]]。
+- **一句话摘要**：ellesse 美国回归细节补齐——品牌方 **Pentland Brands** 与 **The Iconic Brand Corp.**（Furniss 董事长/Miller CEO）签**独家授权**；美国总部达拉斯 **The Gild 约 5,000 sq ft**（2025 年租下，选址含"紧邻 NorthPark Center 便于理解竞争与定价"）；**旗舰店预计 2027 下半年**（候选 **Knox Street / Henderson / Design District**）；已落地 **Banner House at T Bar M（三年官方服装合作伙伴）** + 圣地亚哥网球中心 + **2026 辛辛那提公开赛 / 2027 WTA 查尔斯顿公开赛**；**新增第六条通道：经 Catapult Brand Group 上线 RepSpark B2B 批发平台**（面向俱乐部/pro shops/专业零售商）（置信度：品牌自宣）。
+
+**结论（织入）**：ellesse 美国回归是**"渠道借用型"轻资产样本**——旗舰店推到 2027H2，但同期用俱乐部合作、赛事合作、B2B 批发三条"借网"路径铺开触点，**用别人的场地与分销网络换曝光铺货、把资本开支推后到品牌验证之后**。"专业垂直 B2B 平台"（RepSpark 属高尔夫行业、Catapult 的 Apparel Magic ERP 已与之集成）是品牌墙代理方最被低估的通道——进入成本远低于自建加盟体系（对照 [[dekashell]] 的督导+招商+爆破模式）。代言人（Garfield）+ 职业球员（Vekić/Tabilo）+ 赛事（辛辛那提/WTA）三线并进，卖的是**"网球文化身份"**，方向与 [[salomon]] 的"专业场景外扩"相反（ellesse 是文化身份内收）。**旗舰店候选点位公开化**本身是向业主方释放的招商信号，同时说明选址未锁定、2027H2 存在滑动风险（置信度：推断）。
+**信息链（织入）**：[[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] → [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]] → 本页（[[ellesse]]） → 下游 [[品牌墙概念与代理模式]] / [[brand_store_channel_2026]] / [[服装行业竞争格局]]

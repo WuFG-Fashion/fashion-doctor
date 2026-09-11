@@ -9,9 +9,9 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, store, channel, dtc, franchise, 2026]
 sources: [kb_benchmarks.json, 36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-16_A2_hoka_one_one_全维度动态, 2026-08-16_A2_levis_全维度动态, 2026-08-15_R4_卡骆驰2026Q2中国, 2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报, 2026-08-23_A1_chuu_城市门店数与客单价验证, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单, 2026-08-23_A1_crocs_2026H2联名营销矩阵与HEYDUDE, 2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海, 2026-09-04_A3_two_am_马来独立店与扩张管线, 2026-08-31_A2_levis_印度500店与日本联名, 2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店, 2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]
 created: 2026-08-16
-updated: 2026-09-11
+updated: 2026-09-12
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]]
 ---
 
 # 36品牌门店策略与渠道结构对比（2026 S轮合成）
@@ -131,3 +131,13 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]
   - **ℹ️ 口径核对**：与库内"75 国 / 244 家品牌专卖店"（爱企查，仅专卖店）**统计口径不同不可直比**。
 - [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]（**"门店即媒介"的渠道用法**）：9/25 米兰时装周期间，Salomon Store Brera（Corso Garibaldi 12）被改造为沉浸式体验空间，借时装周的城市流量为单店导流——**不办秀、不搭台，用现成门店承接城市级流量**，成本远低于 runway，属渠道资产的高效复用。
 - [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]]（**地标场景作为渠道外的"第三空间"**）：The Plaza 既是 campaign 拍摄地又是秀场（30 天内两次复用）——与独立店/店中店/电商并列的第四类触点：**不自持、可反复借用的地标场景**。
+
+## 渠道信号补充 2026-09-12 · A1轮
+
+> 新增样本见 [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]]。
+
+- **ellesse（美国）**：渠道光谱新增**"B2B 专业批发平台"**一档——经 Catapult Brand Group 上线 RepSpark（高尔夫/运动行业 B2B 订货平台，面向俱乐部、职业店内铺、专业零售商）。与既有各档对照：
+  - DTC 官网（自建）→ 俱乐部合作（**借场地**，Banner House at T Bar M 三年官方服装合作伙伴）→ 赛事合作（**借场景**，2026 辛辛那提公开赛 / 2027 WTA 查尔斯顿公开赛）→ **B2B 批发平台（借分销网络）** → 自有旗舰店（**延后 2027H2**，候选 Knox/Henderson/Design District）。
+- **渠道光谱四结构更新**：本轮进一步印证"**资本开支后置**"是品牌墙品牌回归/扩张的共性——先用借网路径验证需求，再决定是否投入自有门店。
+
+**信息链**：[[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]] → 本页（[[brand_store_channel_2026]]） → 下游 [[ellesse]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]

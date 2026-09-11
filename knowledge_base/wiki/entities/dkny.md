@@ -5,10 +5,10 @@ aliases:
   - "Donna Karan"
   - "唐娜·凯伦"
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
-sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合, 2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]
+sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合, 2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略, 2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役.md]
 created: 2026-08-14
-updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[brand_risk_signals_2026]], [[global_apparel_financial_benchmarks_2026]]
 ---
 
 # DKNY
@@ -157,3 +157,11 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lag
 
 **结论（织入）**：① **DKNY 中国扩张获母公司战略背书**——"国际增长"被写入自有品牌扩张官方路径清单，DKNY 是点名对冲 CK/TH 流失的三大自有品牌之首，修正此前"黑箱=战略优先级低"的推测（黑箱是**披露粒度**问题而非**战略缺位**）；② 授权依赖度 6pp 下降是"被动到期 + 主动转型"叠加，自有品牌更高毛利率是转型的**财务动机原文**；③ **H1 毛利率 54.9% vs Q2 单季 45.2% 差异提示口径陷阱**（累计口径含交割等结构性因素），引用须区分单季/累计；④ 零售伙伴破产 + 零售商自有品牌化 = **依赖批发货架的品牌必须加速转 DTC/自有门店**，与国内"渠道方话语权上升"趋势全球同构（置信度：财报/推断）。
 **信息链（织入）**：[[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]] → 本页（[[dkny]]） → 下游 [[brand_risk_signals_2026]] / [[karl_lagerfeld]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]] / [[listed_brand_metrics_template_2026]]
+
+## A1轮全维度采集织入（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验，**鞋类授权商侧财报**维度见 [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]]。
+- **一句话摘要**：DKNY **鞋类授权商** Designer Brands（NYSE: DBI，668 家门店）2026-09-10 发布 FY2026 Q2（截至 8/1）财报——净销售 **$730.6M（-1.2%）**、毛利率 **50.0%（+640bp，部分含关税退款一次性收益）**、调整后 EPS **$0.34**、全年调整后 EPS 指引上调至 **$0.47-0.52**；分部 Brand Portfolio（含 DKNY 等授权品牌）**+17.9% 至 $86.3M**、Retail **-2.2%**；门店总数 **668 家同比持平**；电话会明确 DKNY 秋季战役由 **Iris Law × Amelia Gray** 接棒一年期 Hailey Bieber 合作，战略三支点 = 产品新鲜度 + DTC 增长 + 全球扩张（置信度：财报）。
+
+**结论（织入）**：**DKNY 的"授权分层"结构被首次实证**——品牌方 G-III（09-11 源：授权依赖度 CK+Tommy 28.0%、2026-12-31 到期、自有品牌战略）与鞋类授权商 DBI（本页：品牌组合 +17.9%、门店持平、毛利率 +640bp）**同期披露、口径完全独立**，因此 **+17.9% 是"品牌组合整体"增速、不可当作 DKNY 增速引用**，评估 DKNY 必须分层标注来源主体。DBI 盈利改善含关税退款一次性项，鞋类零售大盘（Retail 同店 -2.4%、凉鞋拖累约 200bp）仍在收缩——DKNY 鞋类受益于**品牌组合结构**而非渠道扩张。秋季战役换人不换方向（Hailey Bieber → 更年轻的 Iris Law/Amelia Gray）= DKNY 客群下探是既定路线。DBI "品牌组合 + 668 店网络"的 Power of the Pair 模型为国内品牌墙代理方回答"多品牌如何摊薄渠道成本"提供实证（置信度：财报/推断）。
+**信息链（织入）**：[[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]] → [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]] → 本页（[[dkny]]） → 下游 [[品牌墙概念与代理模式]] / [[global_apparel_financial_benchmarks_2026]] / [[listed_brand_metrics_template_2026]] / [[brand_risk_signals_2026]]

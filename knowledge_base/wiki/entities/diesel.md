@@ -7,8 +7,8 @@ aliases:
 tags: [diesel, competitor, denim, premium_denim, italy]
 sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_diesel_D-ONE价格与印尼pop-up.md, 2026-08-23_A1_diesel_在华20周年与Unicorn授权.md, 2026-08-26_A1_diesel_可持续战略与FW26大秀.md, 2026-08-28_A1_diesel_马年胶囊与首发行李箱.md, 2026-08-29_diesel_OTB业绩与新CEO, 2026-08-30_diesel_OTB2025财报与新CEO与AI试穿, 2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]
 created: 2026-08-14
-updated: 2026-09-02
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]], [[listed_brand_metrics_template_2026]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]], [[listed_brand_metrics_template_2026]], [[2026-09-12_A1_diesel_核验登记]]
 ---
 
 # DIESEL
@@ -139,3 +139,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：联名策略从「牛仔单品」向「IP 世界观」升维（游戏叙事→服装图形→艺术展三层落地），日本市场是亚洲主攻点（伊势丹首发+涩谷旗舰/画廊联动），$69-1,302 价格带宽化兼顾传播与利润——是品牌墙联名战役中高投入深度联名样本（置信度：媒体估算）。
 **信息链（织入）**：[[2026-09-02_A1_diesel_FFXIV_BRAVE联名胶囊]] → 本页（[[diesel]]） → 下游 [[服装行业竞争格局]] / [[品牌墙概念与代理模式]] / [[lacoste]]
+
+## A1轮核验登记（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验。Diesel × FFXIV「BRAVE」（27 件）获 **Selecta Bisso / Third News / bestcalendar / note** 等多源报道，**与 09-02 源全 corroborate**，新增执行日历颗粒：伊势丹新宿 pop-up **09-16~09-22**（本馆 2 阶 Center Park / The Stage #2，首日入场 LivePocket 抽选：申込 8/29-9/4、当落 9/8 18:00）；**DIESEL 官网 + DIESEL SHIBUYA 10-02 起**；阪急うめだ本店 **10-07~10-13**；岩田屋本店 **10-14~10-20**；三越伊势丹线上限定「**暁の血盟コンプリートボックス**」（9 种 T 恤 + 2 个原创收纳箱）**¥207,900 / 限定 30 套 / 抽选 9/9-13**；DIESEL ART GALLERY 河村康輔展 **10-02~11-08**；styling contest 结果 **11-01** 公布（置信度：品牌自宣）。
+- **结论（登记）**：**日本市场"分城市分渠道滚动铺开 + 抽选制 + 艺术展"的联名执行模板**完整（伊势丹 → 涉谷旗舰 → 阪急梅田 → 岩田屋），10-02 起全球官网同步；**但中国区在本轮 FFXIV 联名中仍无任何落点**，与 Dickies 联名"中国区零落点"构成品牌墙品牌共同的结构性特征（记入 S 轮候选维度）。**下轮优先**：10-02 全球上线后是否有中国渠道 + OTB 集团业绩更新。

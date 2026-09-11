@@ -8,8 +8,8 @@ aliases:
 tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md, 2026-09-04_A1_dickies_OurLegacyWORKSHOP联名, 2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]
 created: 2026-08-14
-updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]
+updated: 2026-09-12
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]], [[2026-09-12_A1_dickies_核验登记]]
 ---
 
 # Dickies
@@ -154,3 +154,8 @@ cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-
 
 **结论（织入）**：联名管线从"密度证明"进入**"品类扩张"**阶段——前三条线均在工装审美内部变奏（解构/做旧），第四条直接把工装裤改写成西裤（875 Slacks）以切入正价办公场景，绕开工装品类价格天花板；"同一档案单品（874/工装裤）× 多套审美改写"是低边际成本的复刻经济学，对国内品牌墙代理方具直接参照价值；但**四条线合作方全在欧美日，中国区零落点**，印证代理方在联名首发权上的结构性弱势（置信度：品牌自宣/推断）。
 **信息链（织入）**：[[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]] → 本页（[[dickies]]） → 下游 [[品牌联名策略]] / [[品牌墙概念与代理模式]] / [[服装行业竞争格局]]
+
+## A1轮核验登记（2026-09-12）
+
+> 本轮 A1 对本品做 2026 全维度核验。Saturdays NYC × Dickies FW26 获 **Hypebeast 多语版（英/中/繁/葡）+ Selecta Bisso** 报道，**09-11 起仅于 Saturdays NYC 门店与官网 saturdaysnyc.com 发售**——新增颗粒：875 Slacks 提供**黑色 + 黑/藏青条纹**两色、**中缝由明线（topstitch）固定**以长期维持裤线结构；873 Slim Fit 改为**更宽松廓形 + 更含蓄收尾**；尺码 **28-36**（置信度：品牌自宣）。
+- **结论（登记）**：**发售渠道确认仅 Saturdays NYC 自有渠道 → 中国区零落点得到二次确认**（09-11 源判断"联名资源系统性偏向欧美日、中国区无同量级动作"成立）；且本页仍未获得**定价**（Hypebeast/Selecta Bisso 均未列价）→ 875 Slacks 定价待办延续。**下轮优先**：875 Slacks 定价 + 是否进入中国渠道 + 第 5 条联名线是否延续。
