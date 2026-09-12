@@ -38,6 +38,18 @@ def load_index():
         return json.load(f)
 
 
+def _is_expired(entry):
+    """expires_at 已过 → True（软化降权，不硬删。缺失/解析失败视为未过期）"""
+    exp = entry.get("expires_at")
+    if not exp:
+        return False
+    try:
+        exp_d = datetime.strptime(str(exp)[:10], "%Y-%m-%d").date()
+        return exp_d < datetime.now().date()
+    except Exception:
+        return False
+
+
 def search_index(query: str, index: dict, level_filter: str = None):
     """
     在索引中搜索匹配的L3条目。
@@ -80,6 +92,10 @@ def search_index(query: str, index: dict, level_filter: str = None):
                         score += 8
                         reasons.append(f"别名含「{kw}」")
                         break
+            # ── v2.1 过期软化降权（软化不删除：expires_at 已过→打3折排后，不硬删）──
+            is_expired = _is_expired(entry)
+            if is_expired:
+                score = int(score * 0.3)
             if score > 0:
                 results.append({
                     "id": entry["id"],
@@ -88,7 +104,8 @@ def search_index(query: str, index: dict, level_filter: str = None):
                     "L2_id": cat["id"],
                     "L2_name": cat["name"],
                     "score": score,
-                    "match_reason": "; ".join(reasons)
+                    "expired": is_expired,
+                    "match_reason": "; ".join(reasons) + ("；⚠️已过期(降权)" if is_expired else "")
                 })
     results.sort(key=lambda x: x["score"], reverse=True)
     return results
