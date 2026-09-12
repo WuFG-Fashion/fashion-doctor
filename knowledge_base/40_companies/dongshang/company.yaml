@@ -1,0 +1,8 @@
+# 东尚公司域配置（specs §6.1）
+company: 东尚
+aliases: [dongshang, 东尚时尚, 黄石东尚]
+scope: company              # company | public_only
+read_brands: [cabbeen, peacebird]   # 重点读取品牌墙中的这两个品牌（其余按需追加）
+semantic_layer: 40_companies/dongshang/04_语义层/   # P4 阶段落地（KB 侧只读镜像，真源=东尚系统当前主版本）
+allowed_layers: [T0, T1, T2]   # 该公司域参与检索的层级
+# 目录：01_制度 / 02_人员架构 / 03_业务梳理 / 04_语义层 / 05_证据 / 06_培训课件
