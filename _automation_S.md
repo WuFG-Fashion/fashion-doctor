@@ -38,7 +38,7 @@
 ## 第一步：加载上下文
 
 1. 读 `knowledge_base/CLAUDE.md`
-2. 读 `knowledge_base/30_30_wiki/index.md`
+2. 读 `knowledge_base/30_wiki/index.md`
 3. 读 `knowledge_base/kb_benchmarks.json`
 4. 读 `30_wiki/comparisons/` 目录（已有对比页清单）
 5. 读 `30_wiki/concepts/服装行业竞争格局.md`
@@ -99,8 +99,8 @@ git add knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_
 
 ## 第七步：写日志 + 健康快照
 
-1. 在 `knowledge_base/30_90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestS | 合成轮 — 新建/更新X个comparison页/识别X条跨品牌模式/回填X条superseded_by |
-2. 在 `knowledge_base/90_meta/90_meta/_health/YYYY-MM-DD_daily_health.md` 追加 S轮小节：
+1. 在 `knowledge_base/90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestS | 合成轮 — 新建/更新X个comparison页/识别X条跨品牌模式/回填X条superseded_by |
+2. 在 `knowledge_base/90_meta/_health/YYYY-MM-DD_daily_health.md` 追加 S轮小节：
    - 本轮合成的维度数 / 新建 comparison 页数 / 更新 comparison 页数
    - 识别的跨品牌模式数 / 异常品牌数
    - 回填 superseded_by 数
@@ -121,5 +121,5 @@ git add knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_
 1. S 轮**新建**的 comparison/concept 页 frontmatter 补齐契约字段：`layer: T1`、`scope`（跨品牌对比 = public 或 brand）、`volatility: slow`（对比页默认，含时效数据的按实际定）、`as_of`（本轮合成时点）、`review_due_at`（as_of+180 天）、`status: active`。
 2. S 轮**更新**旧页：frontmatter `updated` 必须刷新，正文标注本轮核验日期即可，**不强制**回填全部契约字段（存量页批量补齐另行处理）。
 3. 每个新建/更新页必须有 `## 前沿` 区块（合并原「待办/待验证」，不得两套并存）：本次合成还缺哪个品牌的哪类数据 / 下轮 S 该验证什么模式——这是下轮 S 的直接输入。
-4. **范围红线**：本轮只写 `knowledge_base/30_wiki/`、`knowledge_base/90_meta/90_meta/_health/`、`knowledge_base/90_meta/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
+4. **范围红线**：本轮只写 `knowledge_base/30_wiki/`、`knowledge_base/90_meta/_health/`、`knowledge_base/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
 5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。

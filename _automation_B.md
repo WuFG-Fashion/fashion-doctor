@@ -28,8 +28,8 @@ B轮的品牌搜索范围 = `kb_benchmarks.json` 的 `focus_brands`（当前 36 
 ## 第一步：加载上下文
 
 1. 读 `knowledge_base/CLAUDE.md`
-2. 读 `knowledge_base/30_30_wiki/index.md`
-3. 读 `knowledge_base/30_90_meta/log.md`
+2. 读 `knowledge_base/30_wiki/index.md`
+3. 读 `knowledge_base/90_meta/log.md`
 4. 读 `knowledge_base/kb_benchmarks.json`（获取 focus_brands 列表 + 会员/导购/商品企划已有基准）
 
 ## 第二步：联网搜索（通用方法论为主 + 品牌上下文为辅）
@@ -104,8 +104,8 @@ git add knowledge_base/10_web knowledge_base/30_wiki knowledge_base/90_meta/_hea
 
 ## 第八步：写日志 + 每日健康快照
 
-1. 在 `knowledge_base/30_90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestB | L2_03/04/05 — 采集X篇/织网X条/矛盾X处/品牌覆盖:双核+轮换X个 |
-2. 生成每日健康快照并写入 `knowledge_base/90_meta/90_meta/_health/YYYY-MM-DD_daily_health.md`，内容须含：
+1. 在 `knowledge_base/90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestB | L2_03/04/05 — 采集X篇/织网X条/矛盾X处/品牌覆盖:双核+轮换X个 |
+2. 生成每日健康快照并写入 `knowledge_base/90_meta/_health/YYYY-MM-DD_daily_health.md`，内容须含：
    - 本轮：采集 X 篇 / 织网 X 条 / 矛盾 X 处 / 新增双链 X 条 / 孤岛数 / 新增「结论+信息链」页数
    - 品牌覆盖：双核 + 轮换品牌列表 + 下轮轮换建议
    - 第零步缺口清单与下轮优先方向
@@ -143,5 +143,5 @@ git add knowledge_base/10_web knowledge_base/30_wiki knowledge_base/90_meta/_hea
    - `status: active`——自动化只允许写 active（stale/expired 由 TTL 报告标注；retired 仅人批）
 2. **`## 前沿` 区块**：每个新建/更新页必须有（合并原「待办/待验证」，不得两套并存）——本页还缺什么信息 / 下一步该查什么 / 哪个假设待验证；此区块是下一轮采集的直接输入。
 3. **链接规则（废除伪链机制）**：`## 信息链` 完整 = 上游来源→本页→下游应用（下游暂无写 `(open: 待谁用)`）；`[[双链]]` 有自然目标才加，**不再强制每页一条**；脚本只校验链接有效+无断链（CLAUDE.md 5.1 R1-R3）。
-4. **范围红线**：本轮只写 `knowledge_base/10_web/`、`knowledge_base/30_wiki/`、`knowledge_base/90_meta/90_meta/_health/`、`knowledge_base/90_meta/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
+4. **范围红线**：本轮只写 `knowledge_base/10_web/`、`knowledge_base/30_wiki/`、`knowledge_base/90_meta/_health/`、`knowledge_base/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
 5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。
