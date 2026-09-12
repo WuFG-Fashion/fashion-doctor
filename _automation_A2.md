@@ -39,7 +39,7 @@ etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, la
 ## 第四步：写入知识库（严格遵循 CLAUDE.md 3.2 + 2.3/5.1）
 - 原始资料保存到 `raw/articles/YYYY-MM-DD_来源_主题.md`
 - 编译到 `wiki/sources/` → `wiki/entities/` → `wiki/concepts/` → `wiki/comparisons/`
-- ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
+- ⚠️ 链接规则（v2.1）：`## 信息链`（上游→本页→下游）必须完整；`[[双链]]` 有自然目标才加，**不再强制每页一条**（废除"为双链而双链"）；脚本只校验「链接有效+无断链」（CLAUDE.md 5.1 R1-R3）
 - ⚠️ 每个新建/更新的 concept/entity/comparison 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链），遵循 CLAUDE.md 2.3/5.1
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`（双链到品牌实体页），行业通用方法论标 `false`（双链到 concept，不链品牌）
 - ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同品牌同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
@@ -63,7 +63,7 @@ etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, la
 0. **索引重建（RAG 必需）**：写入全部完成后运行 `python knowledge_base/tools/kb_updater.py` 重建 master_index.json（纳入 wiki/ 新架构），确认输出「1400+ 个L3条目」且 kb_version 3.1（含契约字段）后再提交。
 ```
 git pull --ff-only || true
-git add knowledge_base/ && git commit -m "[auto] Round A2 — L2_00/01/02 (分组A2·品牌全维度)" && git push
+git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A2 — L2_00/01/02 (分组A2·品牌全维度)" && git push
 ```
 
 ## 第八步：写日志 + 每日健康快照
@@ -89,8 +89,8 @@ git add knowledge_base/ && git commit -m "[auto] Round A2 — L2_00/01/02 (分�
 - 若执行至品牌 10+ 时察觉自身检索变浅 / 格式漂移，允许对剩余品牌仅做探针 + 记录“需复核”，**不得强行编造数据**。
 
 ### 9.3 分段提交（替换原第七步单次提交）
-- 前半程（品牌 1-6 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A2 — 前半程(品牌1-6)"`
-- 后半程（品牌 7-11 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A2 — 后半程(品牌7-11)" && git push`
+- 前半程（品牌 1-6 写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A2 — 前半程(品牌1-6)"`
+- 后半程（品牌 7-11 写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A2 — 后半程(品牌7-11)" && git push`
 
 ## 第十步：v2.1 数据契约（2026-09-12 起强制）
 

@@ -39,7 +39,7 @@ mr_mrs, nautica, nerdy, no_one_else, peacebird, salomon, speedo, the_mr_young, t
 ## 第四步：写入知识库（严格遵循 CLAUDE.md 3.2 + 2.3/5.1）
 - 原始资料保存到 `raw/articles/YYYY-MM-DD_来源_主题.md`
 - 编译到 `wiki/sources/` → `wiki/entities/` → `wiki/concepts/` → `wiki/comparisons/`
-- ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
+- ⚠️ 链接规则（v2.1）：`## 信息链`（上游→本页→下游）必须完整；`[[双链]]` 有自然目标才加，**不再强制每页一条**（废除"为双链而双链"）；脚本只校验「链接有效+无断链」（CLAUDE.md 5.1 R1-R3）
 - ⚠️ 每个新建/更新的 concept/entity/comparison 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链），遵循 CLAUDE.md 2.3/5.1
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`（双链到品牌实体页），行业通用方法论标 `false`（双链到 concept，不链品牌）
 - ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同品牌同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`

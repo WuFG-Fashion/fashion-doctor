@@ -62,7 +62,7 @@ adlv, ariose_years, awoken_space, awoken_time, cabbeen, chuu, crocs, dekashell, 
 0. **索引重建（RAG 必需）**：写入全部完成后运行 `python knowledge_base/tools/kb_updater.py` 重建 master_index.json（纳入 wiki/ 新架构），确认输出「1400+ 个L3条目」且 kb_version 3.1（含契约字段）后再提交。
 ```
 git pull --ff-only || true
-git add knowledge_base/ && git commit -m "[auto] Round A1 — L2_00/01/02 (分组A1·品牌全维度)" && git push
+git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A1 — L2_00/01/02 (分组A1·品牌全维度)" && git push
 ```
 
 ## 第八步：写日志 + 每日健康快照
@@ -88,8 +88,8 @@ git add knowledge_base/ && git commit -m "[auto] Round A1 — L2_00/01/02 (分�
 - 若执行至品牌 10+ 时察觉自身检索变浅 / 格式漂移，允许对剩余品牌仅做探针 + 记录“需复核”，**不得强行编造数据**。
 
 ### 9.3 分段提交（替换原第七步单次提交）
-- 前半程（品牌 1-6 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A1 — 前半程(品牌1-6)"`
-- 后半程（品牌 7-12 写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round A1 — 后半程(品牌7-12)" && git push`
+- 前半程（品牌 1-6 写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A1 — 前半程(品牌1-6)"`
+- 后半程（品牌 7-12 写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round A1 — 后半程(品牌7-12)" && git push`
 
 ## 第十步：v2.1 数据契约（2026-09-12 起强制）
 

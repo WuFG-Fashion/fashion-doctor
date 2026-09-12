@@ -71,7 +71,7 @@ B轮的品牌搜索范围 = `kb_benchmarks.json` 的 `focus_brands`（当前 36 
 
 - 原始资料保存到 `raw/articles/YYYY-MM-DD_来源_主题.md`
 - 编译到 `wiki/sources/` → `wiki/concepts/` → `wiki/practices/`
-- ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
+- ⚠️ 链接规则（v2.1）：`## 信息链`（上游→本页→下游）必须完整；`[[双链]]` 有自然目标才加，**不再强制每页一条**（废除"为双链而双链"）；脚本只校验「链接有效+无断链」（CLAUDE.md 5.1 R1-R3）
 - ⚠️ 每个新建/更新的 concept/practice 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链）
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——通用方法论 source 标 `false`（双链到 concept，**不**链品牌实体），品牌特有 source 标 `true`（双链到品牌实体页）
 - ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同品牌同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
@@ -99,7 +99,7 @@ B轮的品牌搜索范围 = `kb_benchmarks.json` 的 `focus_brands`（当前 36 
 
 ```
 git pull --ff-only || true
-git add knowledge_base/ && git commit -m "[auto] Round B — L2_03/04/05 (品牌对齐·会员/导购/商品企划)" && git push
+git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round B — L2_03/04/05 (品牌对齐·会员/导购/商品企划)" && git push
 ```
 
 ## 第八步：写日志 + 每日健康快照
@@ -126,8 +126,8 @@ git add knowledge_base/ && git commit -m "[auto] Round B — L2_03/04/05 (品牌
 - 若执行至后半程察觉检索变浅/格式漂移，允许对剩余搜索仅做探针 + 记录"需复核"，**不得强行编造数据**。
 
 ### 9.3 分段提交
-- 前半程（3 域通用方法论写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round B — 前半程(通用方法论)"`
-- 后半程（品牌上下文 + 补充写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round B — 后半程(品牌佐证)" && git push`
+- 前半程（3 域通用方法论写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round B — 前半程(通用方法论)"`
+- 后半程（品牌上下文 + 补充写完）：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round B — 后半程(品牌佐证)" && git push`
 
 ## 第十步：v2.1 数据契约（2026-09-12 起强制）
 

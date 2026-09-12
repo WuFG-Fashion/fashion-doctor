@@ -5,7 +5,7 @@
 ## 执行步骤（与自动化 prompt 对应）
 
 1. lint 五规则（CLAUDE.md §3.4）——用 `.kbtmp/opt_lint.py` 全扫（只读，结果存 `.kbtmp/opt_lint_result.json`）。
-2. 织网修复（§3.5）：断链修复 + 孤岛补链，目标 **断链 0 / 孤岛 0**。
+2. 织网修复（§3.5）：断链修复目标 **断链 0**；孤岛按下方口径**报告 + 只补自然链接**（v2.1 起「孤岛 0」不再是硬目标，见 CLAUDE.md 5.1 R1-R3）。
 3. `python knowledge_base/tools/kb_updater.py` 重建 `__index__/master_index.json`。
 4. 受控刷新 `kb_benchmarks.json` 元数据（updated/last_scan/files_scanned/data_points；**绝不覆盖阈值键值**）。
 5. 统计：页面数 / [[]] 双链数 / 孤岛数。

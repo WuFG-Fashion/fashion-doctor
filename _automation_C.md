@@ -57,7 +57,7 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 
 - 原始资料保存到 `raw/articles/YYYY-MM-DD_来源_主题.md`
 - 编译到 `wiki/sources/` → `wiki/concepts/` → `wiki/practices/`
-- ⚠️ 硬规则：每个新 `wiki/sources/` 页必须至少包含 1 条 `[[双链]]` 指向已有 concept 或 entity，禁止产生孤岛
+- ⚠️ 链接规则（v2.1）：`## 信息链`（上游→本页→下游）必须完整；`[[双链]]` 有自然目标才加，**不再强制每页一条**（废除"为双链而双链"）；脚本只校验「链接有效+无断链」（CLAUDE.md 5.1 R1-R3）
 - ⚠️ 每个新建/更新的 concept/practice 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链）
 - L2_07 的 practices 页须双链到 `[[服装行业竞争格局]]` 或具体品牌实体页（如 `[[cabbeen]]`、`[[peacebird]]`），打通系统设计与品牌数据
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`，行业通用方法论标 `false`
@@ -86,7 +86,7 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 
 ```
 git pull --ff-only || true
-git add knowledge_base/ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (品牌感知·数据分析/多品牌系统)" && git push
+git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (品牌感知·数据分析/多品牌系统)" && git push
 ```
 
 ## 第八步：写日志 + 每日健康快照
@@ -113,8 +113,8 @@ git add knowledge_base/ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (
 - 若察觉检索变浅/格式漂移，允许对剩余缺口仅做探针 + 记录"需复核"，**不得强行编造数据**。
 
 ### 9.3 分段提交
-- L2_06 写完：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round C — L2_06(数据分析)"`
-- L2_07 + 查漏写完：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round C — L2_07+查漏(多品牌系统)" && git push`
+- L2_06 写完：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_06(数据分析)"`
+- L2_07 + 查漏写完：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_07+查漏(多品牌系统)" && git push`
 
 ## 第十步：v2.1 数据契约（2026-09-12 起强制）
 
