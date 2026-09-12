@@ -21,12 +21,12 @@
 
 关系写在实体页 frontmatter 里，格式为 `关系类型 → 目标实体文件名`。目标一律用**文件名**（不用别名，与 `cross_refs` 同理，避免断链）。
 
-| 关系类型 | 含义（大白话） | 示例（以太平鸟为例） |
-|---------|--------------|---------------------|
-| `competitor_of` | 直接竞品（同赛道、同客群、抢同一批顾客） | `competitor_of → gxg`、`competitor_of → muson_gxg` |
-| `benchmark_of` | 对标/学习对象（更强或不同打法，用来参照） | `benchmark_of → fast_retailing`、`benchmark_of → inditex_zara` |
-| `same_sector` | 同赛道但非直接竞争（如都在运动服饰，但客群不同） | `same_sector → anta`、`same_sector → lululemon` |
-| `supplier_of` / `client_of` | 上下游（供应商/客户，如丽晶给太平鸟供 ERP） | `supplier_of → 丽晶`（丽晶是 ERP 供应商） |
+| 关系类型                        | 含义（大白话）                  | 示例（以太平鸟为例）                                                    |
+| --------------------------- | ------------------------ | ------------------------------------------------------------- |
+| `competitor_of`             | 直接竞品（同赛道、同客群、抢同一批顾客）     | `competitor_of → gxg`、`competitor_of → muson_gxg`             |
+| `benchmark_of`              | 对标/学习对象（更强或不同打法，用来参照）    | `benchmark_of → fast_retailing`、`benchmark_of → inditex_zara` |
+| `same_sector`               | 同赛道但非直接竞争（如都在运动服饰，但客群不同） | `same_sector → anta`、`same_sector → lululemon`                |
+| `supplier_of` / `client_of` | 上下游（供应商/客户，如丽晶给太平鸟供 ERP） | `supplier_of → 丽晶`（丽晶是 ERP 供应商）                               |
 
 > **设计原则**：关系要"够用且不重"。先 4 种，宁缺毋滥。等真出现"这 4 种表达不了"的情况，再加第 5 种，而不是一开始就列 20 种关系把字段搞复杂。
 

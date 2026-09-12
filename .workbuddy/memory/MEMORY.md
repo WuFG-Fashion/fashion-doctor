@@ -88,3 +88,11 @@ Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
 - 行尾已是 index=LF + autocrlf=true，勿加 .gitattributes（避免全库重 normalize）。
 
 **可复用技能**：`obsidian-kb-rag-readiness`（user-level），含审计→注入别名→补信息链→修孤岛→git协调 全流程。
+
+## 知识库 v2 架构方案（2026-09-11 讨论稿，未执行）⚠️ 待拍板
+
+- 文档：`specs/知识库v2架构方案_讨论稿.md`（仓库根，非 KB 内）。
+- 触发：老板发现 `Home.md → MOC_L00~L07 → L3` 导航层停在 8-06/8-07；实证为 08-09 手写快照后再无主人，MOC 指向的 L3 子页在 08-24 清理后仅剩 2 个 0KB 空壳；且 `raw/`（248 篇）与 `wiki/raw/`（783 篇）两份原料层并存；`wiki/_archive/` 为空（CLAUDE.md 声称已归档，实际未落盘）。
+- 核心设计（待定）：① 目录改按「谁产生+寿命+权限」分区（00_inbox/10_web/20_personal/30_wiki/40_companies/50_legacy/90_meta）；② 重要性拆三维度（权威 Tier0-4 × 衰减 volatility × 权限域）；③ 生命周期字段 `volatility/as_of/expires_at/status`，到期**软化不删除**（降权→退检索→人批归档），`expired` 页保留 as_of 作历史时序点；④ 双链规则废除「零孤岛」硬门槛（该门槛正是伪双链的制造机），改 R1 信息链完整 / R2 脚本校验可达性 / R3 链接有效 + 新增每页 `## 前沿` 驱动扩张；⑤ 公司域 `40_companies/<c>/` 含 04_语义层（指标契约），**与 dongshang-v3 语义层共用同一份真源**；⑥ 视图层（Home/index/MOC）一律脚本生成，禁止手写。
+- 未决 8 问：TTL 分档值 / 删除权限 / 公司域范围 / 个人域是否入 RAG / 培训课件 322 篇归属 / 感性言论定位 / 视图生成频率 / 逻辑分层 vs 物理搬迁（AI 推荐先逻辑分层，风险小一个数量级）。
+- 已知旧账（本方案 P0）：MOC+L3 死层退役（随阶段3物理处理）、raw 两处合并（step7，延后）；CLAUDE.md L28 归档假账已于 55b50b0 修正（_archive/l2_history 空壳 → 809 个 L2 历史路径从 git 历史找回）。
