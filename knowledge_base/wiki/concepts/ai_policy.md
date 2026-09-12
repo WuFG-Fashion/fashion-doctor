@@ -6,7 +6,7 @@ tags: [ai, policy]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[apparel_ai_policy_2026]], [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]]
 ---
 
 # AI行业政策与监管
@@ -440,3 +440,11 @@ cross_refs: []
 ## 关联知识
 
 - [[llm_update]]
+
+## 关联页面
+
+- [[apparel_ai_policy_2026]]
+- [[retail_ai_adoption_2026]]
+- [[服装门店经营AI化2026]]
+
+> 织网说明（2026-09-12 optimize 轮）：AI政策 → 零售AI采纳 → 门店AI化的传导链——仅补真实语义关系，未为凑连通性造链。

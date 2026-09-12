@@ -8,7 +8,7 @@ tags: [awoken_space, competitor, streetwear, concept_store, china, wuhan]
 sources: [2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-29_awoken_space_资料稀缺标注]
 created: 2026-08-14
 updated: 2026-09-12
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-09-12_A1_awoken_space_核验登记]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
 ---
 
 # AWOKEN SPACE

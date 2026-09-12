@@ -11,7 +11,7 @@ tags: [ariose_years, competitor, womenswear, premium, china_brand, hangzhou, foc
 sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱唯时尚集团, 企查查品牌介绍, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-16_S3_ariose_years_第三方交叉验证, 2026-08-22_A1_ariose_years_门店口径与母公司.md, 2026-08-23_A1_ariose_years_AW_PROJECT重奢拓店.md, 2026-08-23_A1_ariose_years_百度百科门店口径与蒙阴新店.md, 2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络.md, 2026-08-29_ariose_years_2025业绩与AWPROJECT高端线, 2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea, 2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带, 2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店, 2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]
 created: 2026-08-14
 updated: 2026-09-12
-cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]], [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]], [[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]], [[2026-09-12_A1_ariose_years_核验登记]]
+cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]], [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]], [[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]]
 ---
 
 # 艾诺丝·雅诗 (ARIOSE YEARS)

@@ -9,7 +9,7 @@ tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md, 2026-09-04_A1_dickies_OurLegacyWORKSHOP联名, 2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]
 created: 2026-08-14
 updated: 2026-09-12
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]], [[2026-09-12_A1_dickies_核验登记]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]
 ---
 
 # Dickies

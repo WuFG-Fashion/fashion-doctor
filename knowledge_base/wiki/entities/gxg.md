@@ -6,7 +6,7 @@ tags: [brand, gxg]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[muson_gxg]], [[服装行业竞争格局]], [[competitor_overview]], [[peacebird]]
 ---
 
 # GXG 竞品分析
@@ -242,3 +242,12 @@ cross_refs: []
 - [[kpi_benchmark]]
 - [[fast_fashion]]
 - [[peacebird]]
+
+## 关联页面
+
+- [[muson_gxg]]
+- [[服装行业竞争格局]]
+- [[competitor_overview]]
+- [[peacebird]]
+
+> 织网说明（2026-09-12 optimize 轮）：GXG 属慕尚集团 → 同品牌另一实体页 + 竞品全景 + 双核对照——仅补真实语义关系，未为凑连通性造链。

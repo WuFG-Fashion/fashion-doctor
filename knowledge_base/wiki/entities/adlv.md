@@ -10,7 +10,7 @@ tags: [adlv, competitor, streetwear, korean_wave, womenswear]
 sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_adlv_2026联名矩阵.md, 2026-08-23_A1_adlv_深圳大悦城华南首店与门店盘点.md, 2026-08-25_A1_adlv_巴斯奎特联名与艺术家IP泛化.md, 2026-08-26_A1_adlv_RollingStones与Garnier联名国际化.md, 2026-08-29_adlv_国际市场扩张与联名, 2026-08-31_A1_adlv_澳门新八佰伴Y-CASUAL专柜.md]
 created: 2026-08-14
 updated: 2026-09-12
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]], [[2026-09-12_A1_adlv_核验登记]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
 ---
 
 # ADLV (acme de la vie)

@@ -6,7 +6,7 @@ tags: [brand, croquis]
 sources: []
 created: 2026-06-05
 updated: 2026-08-26
-cross_refs: []
+cross_refs: [[jnby]], [[服装行业竞争格局]], [[competitor_overview]], [[peacebird]]
 ---
 
 # 速写/江南布衣竞品分析
@@ -119,3 +119,12 @@ cross_refs: []
 
 - [[competitor_overview]]
 - [[kpi_benchmark]]
+
+## 关联页面
+
+- [[jnby]]
+- [[服装行业竞争格局]]
+- [[competitor_overview]]
+- [[peacebird]]
+
+> 织网说明（2026-09-12 optimize 轮）：速写属江南布衣集团 → 母品牌实体 + 竞品全景 + 双核对照——仅补真实语义关系，未为凑连通性造链。

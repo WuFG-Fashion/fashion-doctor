@@ -9,7 +9,7 @@ tags: [awoken_time, competitor, streetwear, concept_store, china, wuhan]
 sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026.md, 品牌墙图_2026-08-14, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单.md, 2026-08-23_A1_awoken_time_武汉多店清单与白猿宇宙.md, 2026-08-29_awoken_time_武汉潮流集合店扩张]
 created: 2026-08-14
 updated: 2026-09-12
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]], [[2026-09-12_A1_awoken_time_核验登记]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
 ---
 
 # AWOKEN TIME
