@@ -40,8 +40,20 @@ DuckDB(SQL准备) → Polars(特征工程) → Pandas(ML/可视化)
 
 三库通过 Apache Arrow 零拷贝转换，无需序列化开销。
 
+## 结论
+
+三引擎对比的价值在于它推翻了「选一个最强引擎」的思路，改为分层混合栈：DuckDB 负责 SQL 准备（窗口函数 10 倍）、Polars 负责特征工程（CSV 读取 7.7 倍、Join 5 倍）、Pandas 负责 ML 与可视化。三者通过 Arrow 零拷贝转换，因此混用的切换成本极低——这是分层方案能成立的技术前提。
+
+## 信息链
+
+上游来源 [[2026-06-08_Polars_DuckDB_Pandas三大引擎对比]] → 本页 → 下游应用 [[polars_vs_pandas_2026]]、[[duckdb_olap_engine_2026]]、[[SQL查询性能优化]]
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]]
 - [[duckdb_olap_engine_2026]]
 - [[SQL查询性能优化]]
+
+## 前沿
+
+暂无（本页已稳定）

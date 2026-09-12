@@ -84,8 +84,20 @@ st.dataframe(load_brand_sales("peacebird"))
 | 排行榜 | `st.dataframe()` + 预排序+head(20) | Top N展示 |
 | 数据编辑 | `st.data_editor()` | 预算调整/参数配置 |
 
+## 结论
+
+本页给出了 Streamlit 数据展示的组件选型原则：大数据集用 dataframe（虚拟滚动）、小数据集用 table、需编辑用 data_editor，三者不可互替。其中最有实际价值的一条是 v1.30 起原生支持 Polars 零拷贝，配合缓存装饰器可省掉 to_pandas 的转换开销，这是本库若做数据量升级时最直接的收益点。
+
+## 信息链
+
+上游来源 [[2026-06-09_Kanaries_Streamlit_DataFrame优化2026]] → 本页 → 下游应用 [[streamlit_dashboard_2026]]、[[streamlit_production_dashboard]]、[[python_dashboard_ecosystem_2026]]
+
 ## 关联页面
 - [[streamlit_dashboard_2026]] — Streamlit生产级实践
 - [[streamlit_production_dashboard]] — 多品牌看板实操
 - [[polars_vs_pandas_2026]] — 数据分析引擎选型
 - [[python_dashboard_ecosystem_2026]] — 2026看板生态全景
+
+## 前沿
+
+暂无（本页已稳定）

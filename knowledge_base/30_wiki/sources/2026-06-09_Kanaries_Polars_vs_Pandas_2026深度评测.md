@@ -74,7 +74,19 @@ processed = pl.scan_parquet("sales.parquet")
 pandas_df = processed.to_pandas()  # 交给sklearn/matplotlib
 ```
 
+## 结论
+
+本页与同源的其他 Polars 评测结论一致，但补充了五个具体内存优化机制（Arrow 列式、惰性求值、投影下推、谓词下推、流式执行），并明确指出性能差距从 100 万行开始显著、10 万行以下几乎无差别。对本库的意义是：当前数据量级远未触及分水岭，选型应以生态与维护成本优先，Polars 属未来升级选项。
+
+## 信息链
+
+上游来源 [[2026-06-09_Kanaries_Polars_vs_Pandas_2026深度评测]] → 本页 → 下游应用 [[polars_vs_pandas_2026]]、[[python_dashboard_ecosystem_2026]]、[[data_library_selection_guide_2026]]
+
 ## 关联页面
 - [[polars_vs_pandas_2026]] — 三引擎完整选型指南
 - [[data_library_selection_guide_2026]] — 实操决策指南
 - [[2026-06-09_Scopir_Python数据分析库2026横评]] — Scopir六库横评
+
+## 前沿
+
+暂无（本页已稳定）
