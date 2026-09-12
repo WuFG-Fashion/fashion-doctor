@@ -14,7 +14,7 @@ from datetime import date, timedelta
 
 KB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WIKI = os.path.join(KB, "wiki")
-REPORT = os.path.join(KB, "_health", "2026-09-12_v21_backfill_report.md")
+REPORT = os.path.join(KB, "90_meta", "_health", "2026-09-12_v21_backfill_report.md")
 
 DATE_RE = re.compile(r"(\d{4})-(\d{2})-(\d{2})")
 KEY_RE = re.compile(r"^([A-Za-z_]+):")

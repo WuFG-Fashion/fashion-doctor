@@ -64,9 +64,9 @@ if _MISSING:
 # ── 配置 ──────────────────────────────────────────────
 KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导（修复：此前误用 parent 指向 tools/，基准/配置/wiki 全部读不到）
 BENCHMARKS_FILE = KB_ROOT / "kb_benchmarks.json"
-BRAND_CONFIGS_DIR = KB_ROOT / "brand_configs"
-WIKI_DIR = KB_ROOT / "wiki"
-RAW_DIR = KB_ROOT / "raw"
+BRAND_CONFIGS_DIR = KB_ROOT / "brand_wall" / "_configs"
+WIKI_DIR = KB_ROOT / "30_wiki"
+RAW_DIR = KB_ROOT / "10_web"
 PORT = int(os.environ.get("KB_API_PORT", 8899))
 API_KEY = os.environ.get("KB_API_KEY", "kb_readonly_2026")  # 默认key，生产环境改环境变量
 IS_PROD = "--prod" in sys.argv

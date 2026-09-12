@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import date
 
 KB = Path("D:/Fashion Doctor/fashion-doctor/knowledge_base")
-WIKI = KB / "wiki"
+WIKI = KB / "30_wiki"
 TODAY = date.today()
 
 # ── 工具函数 ──

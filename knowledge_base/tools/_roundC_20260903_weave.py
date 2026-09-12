@@ -8,7 +8,7 @@ Only touches wiki/ pages; creates the 关联页面 section if missing.
 import os, re, io
 from pathlib import Path
 
-WIKI = Path(__file__).resolve().parent.parent / "wiki"
+WIKI = Path(__file__).resolve().parent.parent / "30_wiki"
 SKIP_DIRS = {".obsidian", "__pycache__"}
 link_pat = re.compile(r"\[\[([^\]#|]+?)(?:\|[^]]*)?\]\]")
 

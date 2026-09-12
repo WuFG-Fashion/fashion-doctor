@@ -6,7 +6,7 @@
 import re, io
 from pathlib import Path
 
-WIKI = Path("D:/Fashion Doctor/fashion-doctor/knowledge_base/wiki")
+WIKI = Path("D:/Fashion Doctor/fashion-doctor/knowledge_base/30_wiki")
 ENT = WIKI / "entities"
 SRC = WIKI / "sources"
 

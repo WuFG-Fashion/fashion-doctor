@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 KB = Path("D:/Fashion Doctor/fashion-doctor/knowledge_base")
-WIKI = KB / "wiki"
+WIKI = KB / "30_wiki"
 
 NEW_SOURCES = [
     "sources/2026-09-06_B_会员日活动营销日历与ROI测算.md",

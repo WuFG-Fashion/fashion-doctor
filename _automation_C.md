@@ -17,7 +17,7 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 
 联网搜索前，先扫描知识库现状：
 1. 读取 `kb_benchmarks.json` 的 `focus_brands`，检查每个品牌在 L2_06/07 是否有对应的数据分析实践页或 source
-2. 读取 `wiki/index.md` 与 `log.md`：
+2. 读取 `30_wiki/index.md` 与 `log.md`：
    - 找出 L2_06/07 中超过 14 天无新 source 的方向
    - 检查最近 3 轮（A/B/C）未覆盖的分类，优先补充
    - **品牌级查漏**：哪些品牌在 A轮有财务/门店数据但在 L2_06 缺数据分析视角？哪些品牌在 B轮有运营数据但缺 BI 可视化？
@@ -27,8 +27,8 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 ## 第一步：加载上下文
 
 1. 读 `knowledge_base/CLAUDE.md`
-2. 读 `knowledge_base/wiki/index.md`
-3. 读 `knowledge_base/wiki/log.md`（检查最近 3 轮未覆盖的分类，优先补充）
+2. 读 `knowledge_base/30_30_wiki/index.md`
+3. 读 `knowledge_base/30_90_meta/log.md`（检查最近 3 轮未覆盖的分类，优先补充）
 4. 读 `knowledge_base/kb_benchmarks.json`（获取 focus_brands 列表 + 数据分析已有基准）
 
 ## 第二步：联网搜索（通用技术 + 品牌感知查漏 双轨）
@@ -55,22 +55,22 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 
 ## 第四步：写入知识库（严格遵循 CLAUDE.md 3.2 + 2.3/5.1）
 
-- 原始资料保存到 `raw/articles/YYYY-MM-DD_来源_主题.md`
-- 编译到 `wiki/sources/` → `wiki/concepts/` → `wiki/practices/`
+- 原始资料保存到 `10_web/articles/YYYY-MM-DD_来源_主题.md`
+- 编译到 `30_wiki/sources/` → `30_wiki/concepts/` → `30_wiki/practices/`
 - ⚠️ 链接规则（v2.1）：`## 信息链`（上游→本页→下游）必须完整；`[[双链]]` 有自然目标才加，**不再强制每页一条**（废除"为双链而双链"）；脚本只校验「链接有效+无断链」（CLAUDE.md 5.1 R1-R3）
 - ⚠️ 每个新建/更新的 concept/practice 页必须含 `## 结论`（2-4 条合成洞察，是判断而非数据复述）与 `## 信息链`（上游来源 → 本页 → 下游实体/对比/打法 的双链推理链）
 - L2_07 的 practices 页须双链到 `[[服装行业竞争格局]]` 或具体品牌实体页（如 `[[cabbeen]]`、`[[peacebird]]`），打通系统设计与品牌数据
 - ⚠️ **brand_specific 标注（CLAUDE.md 2.5）**：每个新 source 页 frontmatter 必须含 `brand_specific: true/false`——品牌特有数据标 `true`，行业通用方法论标 `false`
 - ⚠️ **superseded_by 回填（CLAUDE.md 2.5）**：写入新 source 时，检查是否有同指标的旧 source，有则在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`
-- 更新 `wiki/index.md` 和 `wiki/log.md`（不再同步到 L2/L3 历史目录——已冻结，见 CLAUDE.md 331）
-- 更新 `wiki/index.md` 和 `wiki/log.md`
+- 更新 `30_wiki/index.md` 和 `90_meta/log.md`（不再同步到 L2/L3 历史目录——已冻结，见 CLAUDE.md 331）
+- 更新 `30_wiki/index.md` 和 `90_meta/log.md`
 
 ## 第五步：自动织网 kb-link（遵循 CLAUDE.md 3.5）
 
 1. 扫描本轮新增的所有 `wiki/` 页面
 2. 为每个新增页面找到可链接目标（同名实体 > 共用概念 > 同标签页面 > **同品牌/同系统**）
 3. 在目标页面也加回链（双向链接）
-4. 更新 `wiki/index.md`
+4. 更新 `30_wiki/index.md`
 
 ## 第六步：矛盾检测（遵循 CLAUDE.md 3.4 第3条）
 
@@ -86,13 +86,13 @@ C轮引用 `kb_benchmarks.json` 的 `focus_brands`（当前 36 个）作为**系
 
 ```
 git pull --ff-only || true
-git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (品牌感知·数据分析/多品牌系统)" && git push
+git add knowledge_base/10_web knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_meta/__index__ && git commit -m "[auto] Round C — L2_06/07 + 查漏 (品牌感知·数据分析/多品牌系统)" && git push
 ```
 
 ## 第八步：写日志 + 每日健康快照
 
-1. 在 `knowledge_base/wiki/log.md` 追加：| YYYY-MM-DD HH:MM | ingestC | L2_06/07+查漏 — 采集X篇/织网X条/矛盾X处/品牌查漏X个 |
-2. 生成每日健康快照并写入 `knowledge_base/_health/YYYY-MM-DD_daily_health.md`，内容须含：
+1. 在 `knowledge_base/30_90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestC | L2_06/07+查漏 — 采集X篇/织网X条/矛盾X处/品牌查漏X个 |
+2. 生成每日健康快照并写入 `knowledge_base/90_meta/90_meta/_health/YYYY-MM-DD_daily_health.md`，内容须含：
    - 本轮：采集 X 篇 / 织网 X 条 / 矛盾 X 处 / 新增双链 X 条 / 孤岛数 / 新增「结论+信息链」页数
    - 品牌查漏：本轮识别的品牌数据分析缺口清单 + 下轮优先方向
    - 第零步缺口清单与下轮优先方向
@@ -101,7 +101,7 @@ git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_
 ## 第九步：置信度标注与上下文护栏（强制）
 
 ### 9.1 置信度（数据可信度分级，依据 CLAUDE.md 2.4）
-- 每个新建 `wiki/sources/` 页 frontmatter 必须含 `confidence`（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算），并在页内"来源链接"上方用 `> **置信度**：xxx` 显式声明。
+- 每个新建 `30_wiki/sources/` 页 frontmatter 必须含 `confidence`（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算），并在页内"来源链接"上方用 `> **置信度**：xxx` 显式声明。
 - 更新 concept/practice 页时，关键数字（性能基准/架构参数/转化率等）在正文内联标注。
 - 矛盾检测须优先比对同 `confidence` 等级数据。
 - **brand_specific 判断**：写入 source 页时，须判断数据为品牌特有（`true`）还是行业通用（`false`），并在页内用 `> **brand_specific**：true/false` 声明。品牌特有 → 双链到品牌实体页；行业通用 → 双链到 concept 页，不链品牌。
@@ -113,8 +113,8 @@ git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_
 - 若察觉检索变浅/格式漂移，允许对剩余缺口仅做探针 + 记录"需复核"，**不得强行编造数据**。
 
 ### 9.3 分段提交
-- L2_06 写完：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_06(数据分析)"`
-- L2_07 + 查漏写完：`git pull --ff-only || true && git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round C — L2_07+查漏(多品牌系统)" && git push`
+- L2_06 写完：`git pull --ff-only || true && git add knowledge_base/10_web knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_meta/__index__ && git commit -m "[auto] Round C — L2_06(数据分析)"`
+- L2_07 + 查漏写完：`git pull --ff-only || true && git add knowledge_base/10_web knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_meta/__index__ && git commit -m "[auto] Round C — L2_07+查漏(多品牌系统)" && git push`
 
 ## 第十步：v2.1 数据契约（2026-09-12 起强制）
 
@@ -130,5 +130,5 @@ git add knowledge_base/raw knowledge_base/wiki knowledge_base/_health knowledge_
    - `status: active`——自动化只允许写 active（stale/expired 由 TTL 报告标注；retired 仅人批）
 2. **`## 前沿` 区块**：每个新建/更新页必须有（合并原「待办/待验证」，不得两套并存）——本页还缺什么信息 / 下一步该查什么 / 哪个假设待验证；此区块是下一轮采集的直接输入。
 3. **链接规则（废除伪链机制）**：`## 信息链` 完整 = 上游来源→本页→下游应用（下游暂无写 `(open: 待谁用)`）；`[[双链]]` 有自然目标才加，**不再强制每页一条**；脚本只校验链接有效+无断链（CLAUDE.md 5.1 R1-R3）。
-4. **范围红线**：本轮只写 `knowledge_base/raw/`、`knowledge_base/wiki/`、`knowledge_base/_health/`、`knowledge_base/__index__/`；**绝不触碰个人域（20_personal/）与 `临时收集/`**。
+4. **范围红线**：本轮只写 `knowledge_base/10_web/`、`knowledge_base/30_wiki/`、`knowledge_base/90_meta/90_meta/_health/`、`knowledge_base/90_meta/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
 5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。

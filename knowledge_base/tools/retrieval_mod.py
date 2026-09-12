@@ -22,7 +22,7 @@ from pathlib import Path
 
 # ── 路径常量 ──────────────────────────────────────────
 KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导
-INDEX_FILE = KB_ROOT / "__index__" / "master_index.json"
+INDEX_FILE = KB_ROOT / "90_meta" / "__index__" / "master_index.json"
 DB_PATH = Path(os.environ.get("CABBEEN_DB") or Path(__file__).resolve().parents[3] / "cabbeen.db")  # CABBEEN_DB 环境变量优先
 
 
@@ -802,7 +802,7 @@ def retrieve(query: str,
 
     index = load_index()
     if not index:
-        result.answer = "❌ 知识库索引文件不存在，请检查 knowledge_base/__index__/master_index.json"
+        result.answer = "❌ 知识库索引文件不存在，请检查 knowledge_base/90_meta/__index__/master_index.json"
         result.confidence = "unverified"
         return result
 

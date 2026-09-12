@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ENT = ROOT / "wiki" / "entities"
+ENT = ROOT / "30_wiki" / "entities"
 DATE = "2026-08-30"
 
 BLOCKS = {

@@ -1,5 +1,5 @@
 import io
-log='wiki/log.md'
+log='90_meta/log.md'
 s=io.open(log,encoding='utf-8').read()
 if '08-12 17:06' in s:
     print("log line already present, skip")

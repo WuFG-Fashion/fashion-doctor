@@ -18,7 +18,7 @@ from pathlib import Path
 from datetime import datetime
 
 KB_ROOT = Path(os.environ.get("KB_ROOT") or Path(__file__).resolve().parents[1])  # knowledge_base/ 根：KB_ROOT 环境变量优先，默认按脚本位置推导（修复：此前误用 parent 指向 tools/）
-INDEX_FILE = KB_ROOT / "__index__" / "master_index.json"
+INDEX_FILE = KB_ROOT / "90_meta" / "__index__" / "master_index.json"
 
 # ── L2 品类映射（目录名 → 品类信息）─────────────────
 L2_MAP = {
@@ -93,7 +93,7 @@ def scan_kb():
 
 def scan_wiki():
     """扫描 wiki/ 新架构，每页一个条目（含 frontmatter 元数据）"""
-    wiki_root = KB_ROOT / "wiki"
+    wiki_root = KB_ROOT / "30_wiki"
     if not wiki_root.is_dir():
         return {}
     wiki = {}
@@ -139,7 +139,7 @@ def scan_wiki():
                 pass
             # 个人域双保险：scope=personal 或物理路径在个人域 → 强制不可检索
             rel_posix = str(f.relative_to(KB_ROOT)).replace("\\", "/")
-            if meta.get("scope") == "personal" or rel_posix.startswith("20_personal/") or "/临时收集/" in rel_posix:
+            if meta.get("scope") == "personal" or rel_posix.startswith("20_personal/") or "/00_inbox/" in rel_posix:
                 meta["retrieval"] = "never"
             # 状态门禁：retired 不入索引（物理删除永远只由人批，这里只是不再索引）
             if meta.get("status") == "retired":

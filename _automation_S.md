@@ -9,14 +9,14 @@
 ## 本轮覆盖范围
 
 - **不搜新数据**：不调用 WebSearch / WebFetch，只读已有 wiki 页面
-- **输入**：全部 36 个 focus_brands 的实体页 + `wiki/concepts/服装行业竞争格局.md` + `wiki/comparisons/` 已有对比页 + `wiki/sources/` 中近 30 天新增 source
-- **输出**：`wiki/comparisons/` 新增/更新跨品牌对比页 + `wiki/concepts/服装行业竞争格局.md` 更新 + `wiki/sources/` 旧页 `superseded_by` 回填
+- **输入**：全部 36 个 focus_brands 的实体页 + `30_wiki/concepts/服装行业竞争格局.md` + `30_wiki/comparisons/` 已有对比页 + `30_wiki/sources/` 中近 30 天新增 source
+- **输出**：`30_wiki/comparisons/` 新增/更新跨品牌对比页 + `30_wiki/concepts/服装行业竞争格局.md` 更新 + `30_wiki/sources/` 旧页 `superseded_by` 回填
 
 ## 第零步（预检）：合成缺口扫描
 
 1. 读取 `kb_benchmarks.json` 的 `focus_brands` 列表
-2. 读取 `wiki/comparisons/` 目录，列出已有对比页及其覆盖维度
-3. 读取 `wiki/concepts/服装行业竞争格局.md`，检查其"竞争格局"部分的维度覆盖
+2. 读取 `30_wiki/comparisons/` 目录，列出已有对比页及其覆盖维度
+3. 读取 `30_wiki/concepts/服装行业竞争格局.md`，检查其"竞争格局"部分的维度覆盖
 4. 对比已覆盖维度与应覆盖维度，产出**合成缺口清单**（见下方"合成维度清单"），在回复开头打印
 5. 优先处理缺口最大的维度
 
@@ -38,14 +38,14 @@
 ## 第一步：加载上下文
 
 1. 读 `knowledge_base/CLAUDE.md`
-2. 读 `knowledge_base/wiki/index.md`
+2. 读 `knowledge_base/30_30_wiki/index.md`
 3. 读 `knowledge_base/kb_benchmarks.json`
-4. 读 `wiki/comparisons/` 目录（已有对比页清单）
-5. 读 `wiki/concepts/服装行业竞争格局.md`
+4. 读 `30_wiki/comparisons/` 目录（已有对比页清单）
+5. 读 `30_wiki/concepts/服装行业竞争格局.md`
 
 ## 第二步：读取品牌实体页
 
-按 `kb_benchmarks.json` 的 `focus_brands` 顺序，读取每个品牌的实体页（`wiki/entities/<brand>.md`），提取关键数据：
+按 `kb_benchmarks.json` 的 `focus_brands` 顺序，读取每个品牌的实体页（`30_wiki/entities/<brand>.md`），提取关键数据：
 - 财务：营收 / 净利润 / 毛利率 / 同比增长
 - 门店：总数 / 净增/净减 / 直营/加盟比
 - 渠道：线上占比 / 线下占比 / 出海情况
@@ -85,22 +85,22 @@
 
 ## 第五步：自动织网
 
-1. 扫描本轮新增/更新的所有 `wiki/comparisons/` 页面
+1. 扫描本轮新增/更新的所有 `30_wiki/comparisons/` 页面
 2. 为每个新 comparison 页找到可链接的实体页和概念页
 3. 在目标页面也加回链（双向链接）
-4. 更新 `wiki/index.md`
+4. 更新 `30_wiki/index.md`
 
 ## 第六步：Git 推送
 
 ```
 git pull --ff-only || true
-git add knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round S — 跨品牌模式识别（合成轮）" && git push
+git add knowledge_base/30_wiki knowledge_base/90_meta/_health knowledge_base/90_meta/__index__ && git commit -m "[auto] Round S — 跨品牌模式识别（合成轮）" && git push
 ```
 
 ## 第七步：写日志 + 健康快照
 
-1. 在 `knowledge_base/wiki/log.md` 追加：| YYYY-MM-DD HH:MM | ingestS | 合成轮 — 新建/更新X个comparison页/识别X条跨品牌模式/回填X条superseded_by |
-2. 在 `knowledge_base/_health/YYYY-MM-DD_daily_health.md` 追加 S轮小节：
+1. 在 `knowledge_base/30_90_meta/log.md` 追加：| YYYY-MM-DD HH:MM | ingestS | 合成轮 — 新建/更新X个comparison页/识别X条跨品牌模式/回填X条superseded_by |
+2. 在 `knowledge_base/90_meta/90_meta/_health/YYYY-MM-DD_daily_health.md` 追加 S轮小节：
    - 本轮合成的维度数 / 新建 comparison 页数 / 更新 comparison 页数
    - 识别的跨品牌模式数 / 异常品牌数
    - 回填 superseded_by 数
@@ -121,5 +121,5 @@ git add knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && g
 1. S 轮**新建**的 comparison/concept 页 frontmatter 补齐契约字段：`layer: T1`、`scope`（跨品牌对比 = public 或 brand）、`volatility: slow`（对比页默认，含时效数据的按实际定）、`as_of`（本轮合成时点）、`review_due_at`（as_of+180 天）、`status: active`。
 2. S 轮**更新**旧页：frontmatter `updated` 必须刷新，正文标注本轮核验日期即可，**不强制**回填全部契约字段（存量页批量补齐另行处理）。
 3. 每个新建/更新页必须有 `## 前沿` 区块（合并原「待办/待验证」，不得两套并存）：本次合成还缺哪个品牌的哪类数据 / 下轮 S 该验证什么模式——这是下轮 S 的直接输入。
-4. **范围红线**：本轮只写 `knowledge_base/wiki/`、`knowledge_base/_health/`、`knowledge_base/__index__/`；**绝不触碰个人域（20_personal/）与 `临时收集/`**。
+4. **范围红线**：本轮只写 `knowledge_base/30_wiki/`、`knowledge_base/90_meta/90_meta/_health/`、`knowledge_base/90_meta/90_meta/__index__/`；**绝不触碰个人域（20_personal/）与 `00_inbox/`**。
 5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。

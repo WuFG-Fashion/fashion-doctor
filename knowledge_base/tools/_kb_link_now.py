@@ -3,7 +3,7 @@ import os, re, json
 from pathlib import Path
 
 KB = Path("D:/Fashion Doctor/fashion-doctor/knowledge_base")
-WIKI = KB / "wiki"
+WIKI = KB / "30_wiki"
 
 # 孤岛文件列表（来自审计）
 ORPHANS = [

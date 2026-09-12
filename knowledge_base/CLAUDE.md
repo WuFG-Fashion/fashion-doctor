@@ -9,30 +9,41 @@
 ## 一、架构概览
 
 ```
-knowledge_base/
-├── CLAUDE.md              ← 本文件：你的操作手册
-├── raw/                   ← 原始资料层（你只读不写）
-│   ├── articles/          ← 网页剪藏、PDF 导出的 Markdown
-│   ├── reports/           ← 行业报告、财报原文
-│   └── README.md
-├── wiki/                  ← 知识编译层（你全权维护）
+knowledge_base/            ← v2.1 物理架构（2026-09-12 落地，按「谁产生+寿命+权限」分区）
+├── CLAUDE.md              ← 本文件：你的操作手册（T0 规则层，只能人改）
+├── kb_benchmarks.json     ← KPI 阈值基准（T0，机器只读元数据、人控阈值）
+├── 00_inbox/              ← 临时收集（老板随手丢，AI 只读；周五提炼任务清空）TTL 14 天
+├── 10_web/                ← 网络采集原文原料层（机器写；2026-09-12 由根 raw/+wiki/raw 双入口合并）
+│   └── articles/          ← 网页剪藏、PDF 导出的 Markdown（883 篇 + weifu_consulting 图片库）
+├── 20_personal/           ← 个人知识沉淀（老板写，AI 默认只读；retrieval:never，不进任何公司 RAG）
+│   ├── 01_提炼判断与预期/
+│   └── 02_感性言论/       ← 只读素材：不参与合成、不影响判断
+├── 30_wiki/               ← 知识编译层（机器写，六类型）
 │   ├── index.md           ← 语义导航地图
-│   ├── log.md             ← 只追加操作日志
 │   ├── overview.md        ← 全局综述
 │   ├── entities/          ← 实体页：品牌、公司、人物、工具
 │   ├── concepts/          ← 概念页：KPI、方法论、术语
 │   ├── practices/         ← 实操页：代码、SQL、脚本
 │   ├── comparisons/       ← 对比页：跨实体/概念的综合分析
-│   ├── sources/           ← 来源摘要：每篇 raw/ 文章的提炼
+│   ├── sources/           ← 来源摘要：每篇 10_web/ 文章的提炼
 │   ├── playbooks/         ← 作战手册：SOP/决策树/复盘/决策日志（type: playbook）
-（L2_00~L2_07 历史目录已于 2026-08-24 迁移至 wiki/ 并退役：32 个核心概念页并入 wiki/concepts+entities；历史快照未单独落盘归档——wiki/_archive/l2_history/ 实为空壳，809 个 L2 历史路径可在 git 历史（git log --all）中随时找回；新内容一律写入 wiki/）
-├── tools/kb_updater.py    ← 索引扫描器（已纳入 wiki/ 新架构；每次采集收尾必须运行重建 master_index.json）
-├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter）
+├── brand_wall/            ← 品牌墙（跨公司共享品牌参考层，只增不减；_configs/ 存品牌配置）
+├── 40_companies/          ← 公司域（每公司一目录，RAG 隔离边界）
+│   └── dongshang/         ← 东尚：company.yaml + 01_制度/ + 06_培训课件/（原 human/ 迁入）
+├── 50_legacy/             ← 历史归档（MOC×8+L3×2 已退役于此；只读，永不物理删）
+├── 90_meta/               ← 规则产物/索引/健康/日志
+│   ├── __index__/         ← master_index.json（RAG 索引）
+│   ├── _health/           ← 每日健康快照、回填/审计报告
+│   └── log.md             ← 只追加操作日志（原 wiki/log.md）
+├── tools/kb_updater.py    ← 索引扫描器（扫描 30_wiki/；每次采集收尾必须运行重建 master_index.json）
+├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter；v2.1 生命周期门禁）
 ├── tools/_backfill_source_fields.py ← 老 source 字段回填工具（aliases/confidence/brand_specific）
-└── __index__/             ← JSON 索引（保留）
+└── tools/_v21_backfill_fields.py    ← v2.1 逻辑分层字段回填工具（layer/scope/volatility，幂等）
 ```
 
-> **⚠️ 索引重建（RAG 必需）**：`master_index.json` 覆盖 wiki/ 全部 6 个子目录（sources/entities/concepts/comparisons/playbooks/practices）。每次采集/提炼/优化后必须运行 `python knowledge_base/tools/kb_updater.py` 重建索引，否则新增页面无法被 `retrieval_mod.py` 检索到。
+> **L2/L3 旧账（已清）**：L2_00~L2_07 历史目录 2026-08-24 退役，809 个 L2 历史路径可在 git 历史（git log --all）找回；手写导航层 MOC_L00~L07 + 2 个 L3 空壳 2026-09-12 移入 `50_legacy/`（视图层 T4 改脚本生成，禁止手写 MOC）；`wiki/_archive/` 空壳已移除。新内容一律写入 `30_wiki/`。
+
+> **⚠️ 索引重建（RAG 必需）**：`master_index.json` 覆盖 30_wiki/ 全部 6 个子目录（sources/entities/concepts/comparisons/playbooks/practices）。每次采集/提炼/优化后必须运行 `python knowledge_base/tools/kb_updater.py` 重建索引，否则新增页面无法被 `retrieval_mod.py` 检索到。
 
 ---
 
@@ -63,7 +74,7 @@ as_of: YYYY-MM-DD             # 信息观察时点（不是写入日期；如"20
 review_due_at: YYYY-MM-DD     # volatility=evergreen 时必填（默认 as_of+180 天复核，不自动过期）
 expires_at: YYYY-MM-DD        # volatility ∈ {slow,fast,perishable} 时必填（fast 默认 as_of+90 天；perishable 默认 as_of+7~30 天；slow 填下期披露日或保守 180 天）
 status: active                # 生命周期 active|stale|expired|retired；自动化只允许写 active（stale/expired 由 TTL 报告标注，retired 仅人批）
-retrieval: eligible           # eligible|explicit_only|never；个人域与临时收集=never（索引器双保险强制），T4 视图=explicit_only
+retrieval: eligible           # eligible|explicit_only|never；个人域与 00_inbox=never（索引器双保险强制），T4 视图=explicit_only
 relations:                     # 可选，仅 entity 页：类型化关系（补充 cross_refs 的"什么关系"，见 2.6 本体关系试点）
   competitor_of: [目标文件名]  # 直接竞品（同赛道同客群）
   benchmark_of: [目标文件名]   # 对标/学习对象
@@ -78,12 +89,12 @@ relations:                     # 可选，仅 entity 页：类型化关系（补
 
 | type | 目录 | 命名格式 | 示例 |
 |------|------|----------|------|
-| `entity` | `wiki/entities/` | `[品牌名/公司名/人名].md` | `peacebird.md` |
-| `concept` | `wiki/concepts/` | `[概念名].md` | `sell_through_rate.md` |
-| `practice` | `wiki/practices/` | `[场景]_[主题].md` | `sql_dead_stock_query.md` |
-| `comparison` | `wiki/comparisons/` | `[A]_vs_[B].md` | `peacebird_vs_gxg.md` |
-| `source` | `wiki/sources/` | `YYYY-MM-DD_[标题].md` | `2026-05-11_太平鸟2025年报.md` |
-| `playbook` | `wiki/playbooks/` | `[场景]_[主题].md` | `清仓决策树.md` |
+| `entity` | `30_wiki/entities/` | `[品牌名/公司名/人名].md` | `peacebird.md` |
+| `concept` | `30_wiki/concepts/` | `[概念名].md` | `sell_through_rate.md` |
+| `practice` | `30_wiki/practices/` | `[场景]_[主题].md` | `sql_dead_stock_query.md` |
+| `comparison` | `30_wiki/comparisons/` | `[A]_vs_[B].md` | `peacebird_vs_gxg.md` |
+| `source` | `30_wiki/sources/` | `YYYY-MM-DD_[标题].md` | `2026-05-11_太平鸟2025年报.md` |
+| `playbook` | `30_wiki/playbooks/` | `[场景]_[主题].md` | `清仓决策树.md` |
 
 ### 2.3 内容区块规范
 
@@ -170,7 +181,7 @@ relations:                     # 可选，仅 entity 页：类型化关系（补
 ### 3.1 每次会话启动
 
 1. 先读本 `CLAUDE.md`
-2. 再读 `wiki/index.md`
+2. 再读 `30_wiki/index.md`
 3. 再开始工作
 
 ### 3.2 摄取新知识（ingest）
@@ -178,34 +189,34 @@ relations:                     # 可选，仅 entity 页：类型化关系（补
 触发指令：`kb-ingest <file>` 或用户说 "把这篇文章加入知识库"
 
 执行步骤：
-1. 读取 `raw/` 中的原始文件
+1. 读取 `10_web/` 中的原始文件
 2. 提取：实体（品牌/公司/人/产品）、概念（方法论/术语）、数据（数字/对比）
 3. 写入：
-   - 在 `wiki/sources/` 创建来源摘要页
-   - 在 `wiki/entities/` 创建或更新实体页
-   - 在 `wiki/concepts/` 创建或更新概念页
-   - 如有跨实体对比，在 `wiki/comparisons/` 创建或更新
+   - 在 `30_wiki/sources/` 创建来源摘要页
+   - 在 `30_wiki/entities/` 创建或更新实体页
+   - 在 `30_wiki/concepts/` 创建或更新概念页
+   - 如有跨实体对比，在 `30_wiki/comparisons/` 创建或更新
 4. `## 信息链` 必须完整（上游→本页→下游；下游暂无写 `(open: 待谁用)`）；`[[双链]]` 有自然目标才加，不再强制每页至少 1 条（v2.1 起废除“为双链而双链”，见 5.1 R1-R3）
-5. 必须更新 `wiki/index.md`（追加新页面链接）
-6. 必须追加 `wiki/log.md`（记录操作：时间 + 动作 + 文件）
+5. 必须更新 `30_wiki/index.md`（追加新页面链接）
+6. 必须追加 `90_meta/log.md`（记录操作：时间 + 动作 + 文件）
 7. 必须检查矛盾：逐条对比新数据与已有页面中的同指标数值（如"太平鸟毛利率"在两个 source 中是否一致），不一致则在新页面末尾加 `> ⚠️ **数据矛盾**：` 标记
 
 > ⚠️ **标记选用（严格区分，勿混用）**：
 > - `> ⚠️ **数据矛盾**：` —— **仅**用于数值真不一致（含口径差异导致的不可直比）。
 > - `> ℹ️ **基准核对**：` —— 用于**已核对一致 / 无硬冲突 / 仅提出基准补充建议**的情形。
 >
-> **为什么必须分开**：把"已核对一致"写成 `⚠️ 数据矛盾`，会让后续矛盾扫描（3.4）产生假阳性、虚增矛盾计数，并在 RAG 检索时误导模型认为该数据存疑。`wiki/log.md` 里的"矛盾 X 处"应等于全库 `⚠️ 数据矛盾` 标记页数——收尾前用 grep 核对二者一致。
+> **为什么必须分开**：把"已核对一致"写成 `⚠️ 数据矛盾`，会让后续矛盾扫描（3.4）产生假阳性、虚增矛盾计数，并在 RAG 检索时误导模型认为该数据存疑。`90_meta/log.md` 里的"矛盾 X 处"应等于全库 `⚠️ 数据矛盾` 标记页数——收尾前用 grep 核对二者一致。
 
 ### 3.3 查询知识库（query）
 
 触发指令：`kb-query <问题>` 或用户问 "知识库里有没有..."
 
 执行步骤：
-1. 先读 `wiki/index.md` 定位相关页面
+1. 先读 `30_wiki/index.md` 定位相关页面
 2. 沿 `[[]]` 双链展开相关页面
 3. 综合多个页面内容给出回答
 4. 如果发现知识缺口，明确告知用户
-5. 对于有价值的综合分析，生成报告保存到 `wiki/comparisons/`
+5. 对于有价值的综合分析，生成报告保存到 `30_wiki/comparisons/`
 
 ### 3.4 健康检查（lint）
 
@@ -225,19 +236,19 @@ relations:                     # 可选，仅 entity 页：类型化关系（补
 触发指令：`kb-link`
 
 执行步骤：
-1. 扫描所有 wiki/ 页面，识别新建但无 `[[]]` 出链的页面
+1. 扫描所有 30_wiki/ 页面，识别新建但无 `[[]]` 出链的页面
 2. 为连通性不足的页面寻找**自然**可链接目标——按优先级：同名实体（entities/）> 共用概念（concepts/）> 同标签页面 > 同来源（sources/互为引用）；找不到自然目标就不链（不为清零孤岛造伪链，见 5.1 R1-R3）
 3. 找到自然目标才添加双向链接（本页→目标 + 目标←本页），在目标页面的 `cross_refs:` 和"关联页面"区块同步更新
-4. 更新 `wiki/index.md`
+4. 更新 `30_wiki/index.md`
 
 执行频率：每次采集 automation（A/B/C 轮）完成写入后必须执行；每日优化 automation 也必须执行以查漏补缺
 
 ### 3.6 知识回流（flowback）
 
 当你完成任务产生了有价值的分析产物（报告、PPT、对比表），**主动询问用户**是否要回流到 wiki。如果用户同意：
-1. 将产物保存到 `wiki/comparisons/` 或对应目录
-2. 更新 `wiki/index.md`
-3. 追加 `wiki/log.md`
+1. 将产物保存到 `30_wiki/comparisons/` 或对应目录
+2. 更新 `30_wiki/index.md`
+3. 追加 `90_meta/log.md`
 
 ---
 
@@ -247,21 +258,21 @@ relations:                     # 可选，仅 entity 页：类型化关系（补
 
 - 文件名：全小写 + 下划线，语义化（如 `dead_stock.md` 而非 `L3_06_02.md`）
 - 标题：中文（如 "未动销库存占比"）
-- 目录名：拼音结构暂时保留 L2/L3 体系，但 wiki/ 下全用语义化目录
+- 目录名：L2/L3 学科体系已随 v2.1 物理改造退役（2026-09-12），30_wiki/ 下全用语义化目录
 
 ### 4.2 双链格式
 
 ```markdown
 [[文件名不含路径]]
-[[wiki/entities/peacebird|太平鸟男装]]
+[[30_wiki/entities/peacebird|太平鸟男装]]
 [[KPI健康基准]]
 ```
 
-双链统一不加 `.md` 后缀（Obsidian 会自动解析文件名）；含别名用 `[[目标|别名]]` 写法。跨目录引用可带路径（如 `[[wiki/entities/peacebird]]`），但不带 `.md`。
+双链统一不加 `.md` 后缀（Obsidian 会自动解析文件名）；含别名用 `[[目标|别名]]` 写法。跨目录引用可带路径（如 `[[30_wiki/entities/peacebird]]`），但不带 `.md`。
 
 > ⚠️ **双链目标必须是文件名，不能是 frontmatter 里的 aliases**。`aliases` 只服务于 RAG 检索与 Obsidian 搜索，**不是**可链接的目标。写 `[[售罄率考核基准2026]]`（这是 `sell_through_examination_standard_2026.md` 的别名）会产生**断链**；正确写法是 `[[sell_through_examination_standard_2026|售罄率考核基准2026]]`——文件名做目标、别名做显示文本，既不断链又保留可读性。
 >
-> **落盘前自检**：对每条新增双链，确认 `wiki/**/<目标>.md` 真实存在；找不到时先在 `concepts/ → entities/ → practices/ → playbooks/` 依次回退查找（同名页可能不在 concepts/ 下），仍找不到才判定为待创建页。
+> **落盘前自检**：对每条新增双链，确认 `30_wiki/**/<目标>.md` 真实存在；找不到时先在 `concepts/ → entities/ → practices/ → playbooks/` 依次回退查找（同名页可能不在 concepts/ 下），仍找不到才判定为待创建页。
 
 ### 4.3 标签规范
 
@@ -295,11 +306,11 @@ tags: [dead_stock, kpi, inventory, retail]
 正确做法——按内容路径精确 add：
 
 ```bash
-git add knowledge_base/raw/articles \
-        knowledge_base/wiki/sources knowledge_base/wiki/concepts \
-        knowledge_base/wiki/entities knowledge_base/wiki/practices \
-        knowledge_base/wiki/comparisons knowledge_base/wiki/playbooks \
-        knowledge_base/wiki/index.md knowledge_base/wiki/log.md \
+git add knowledge_base/10_web/articles \
+        knowledge_base/30_wiki/sources knowledge_base/30_wiki/concepts \
+        knowledge_base/30_wiki/entities knowledge_base/30_wiki/practices \
+        knowledge_base/30_wiki/comparisons knowledge_base/30_wiki/playbooks \
+        knowledge_base/30_wiki/index.md knowledge_base/90_meta/log.md \
         knowledge_base/L2_* knowledge_base/kb_benchmarks.json
 ```
 
@@ -343,7 +354,7 @@ DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[M
 
 ### 5.2 禁止
 
-- [ ] 不要直接覆盖 raw/ 中的原始文件
+- [ ] 不要直接覆盖 10_web/ 中的原始文件
 - [ ] 不要为凑双链制造伪链——「零孤岛」不再是质量门，连通性改由 R1-R3 脚本校验（5.1）；无自然目标时宁可不链
 - [ ] 不要把原始资料直接粘贴到 wiki/ —— 必须提炼
 - [ ] 不要在 wiki/ 中保留 "TODO" 超过 30 天而不处理

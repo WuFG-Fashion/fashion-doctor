@@ -2,7 +2,7 @@ import os, re, sys
 from collections import Counter
 from pathlib import Path
 # 解析为 knowledge_base/wiki 的绝对路径，避免依赖调用方 cwd（仓库根 vs knowledge_base 目录）
-WIKI = str(Path(__file__).resolve().parents[1] / 'wiki')
+WIKI = str(Path(__file__).resolve().parents[1] / '30_wiki')
 SKIP={'.obsidian','__pycache__','tools'}
 if not os.path.isdir(WIKI):
     sys.exit(f"[orphan_check] wiki 目录不存在: {WIKI}")
