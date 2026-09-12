@@ -21,7 +21,7 @@
 - **基准受控刷新**：`scripts/update_benchmarks_controlled.py --apply`——dry-run 拟新增竞品 0 个，故为**纯元数据刷新**；补同步了上轮遗漏的 `meta.updated`（脚本只刷顶层 updated + meta.last_scan）。**验证手法（可复用）**：刷新前把文件剥除元数据键后 JSON 序列化存快照，刷新后再剥除比对 → 证明阈值区逐字节未动。
 - **过期 54 → 139 属正常漂移**：90 天 cutoff 随日期前移，06-09~06-14 静态源页整批跨阈值；静态源页不判罚口径不变。**报告里必须写明这一点，否则会被误读为质量退化。**
 - **矛盾口径陷阱**：全库 grep 会命中 `_health/*` 快照与 `CLAUDE.md` 里的规则文本自引用 → 统计必须**排除 _health 与 CLAUDE.md**，否则得 71/82 而非真实 57/66。
-- **产物**：`_health/2026-09-12_daily_health_optimize.md` + log.md 行；分 2 段提交（无 relations 独立变更）。
+- **产物**：`_health/2026-09-12_daily_health_optimize.md` + log.md 行；分 **3 段**提交并推送：`73fe3c9`（修复段 17 页）→ `dfd3d22`（产物段 4 文件）→ `1c1bd01`（规范段：`_automation_optimize.md` 固化 8 项 + log 行修正）。local HEAD == origin/main == `1c1bd01`（`git ls-remote` 权威核对一致）；知识库待提交 0。
 - **下轮待办**：①在 `_automation_A1/A2/A3.md` 第九步加硬约束「核验登记只写实体页内联小节，禁止 cross_refs 指向独立核验登记页」；②6 个维护型过期页收口；③ℹ️ 基准核对 129→156 应定性为「自洽标注数」。
 
 ## 执行要点（可复用）
