@@ -3,7 +3,7 @@ type: source
 title: 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价
 aliases: ["2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价", "PVH CFO更替与分析师降级", "Tommy Hilfiger 卖方重定价"]
 tags: [tommy_hilfiger, a3_round, competitor_scan, governance, analyst_action, 2026]
-sources: [wiki/10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md]
+sources: [10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md]
 created: 2026-08-28
 updated: 2026-08-28
 cross_refs: [[tommy_hilfiger], [服装行业竞争格局], [brand_risk_signals_2026], [earnings_quality_nonrecurring_2026]]
@@ -19,7 +19,7 @@ status: active
 # PVH 治理层变动与分析师重定价（Tommy Hilfiger 母公司）
 
 > **一句话摘要**：Tommy Hilfiger 母公司 PVH 2026-09 起换帅（Alexis Rollier 任 CFO），8 月遭 JPMorgan/BofA 双降级（目标价 84/70 美元），主因中东冲突压制 EMEA 敞口——补"治理+卖方风险定价"维度。
-> **来源**：[[wiki/10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] · PVH Business Wire、TheFly、WWD/maideyi 分析师动作报道
+> **来源**：[[10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] · PVH Business Wire、TheFly、WWD/maideyi 分析师动作报道
 > **最后更新**：2026-08-28
 
 > **置信度**：媒体估算（CFO 任命为官方公告；两家投行降级/目标价为研报转述，属卖方观点非公司披露）
@@ -46,7 +46,7 @@ status: active
 3. **卖方降级 ≠ 基本面恶化**：PVH 自身指引未下调，降级更多是风险折价而非业绩下修，引用时须区分"卖方观点"与"公司经营数据"，防止 RAG 把投行目标价当作品牌财务。
 
 ## 信息链
-- 上游来源：[[wiki/10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] → 本页（[[2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]]）→ 下游应用：[[tommy_hilfiger]] · [[brand_risk_signals_2026]] · [[服装行业竞争格局]]
+- 上游来源：[[10_web/articles/2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]] → 本页（[[2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价]]）→ 下游应用：[[tommy_hilfiger]] · [[brand_risk_signals_2026]] · [[服装行业竞争格局]]
 - 对标实体：[[tommy_hilfiger]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面

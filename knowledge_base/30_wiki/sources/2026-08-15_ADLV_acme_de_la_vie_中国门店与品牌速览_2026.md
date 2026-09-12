@@ -2,7 +2,7 @@
 type: source
 title: ADLV acme de la vie 中国门店与品牌速览 2026
 tags: [adlv, competitor, streetwear, korean_wave, womenswear, 2026, competitor_update]
-sources: [wiki/10_web/articles/2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md]
+sources: [10_web/articles/2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md]
 aliases: ["ADLV", "爱德蒙", "acme", "de", "ADLV acme de la vie 中国门店与品牌速览 2026"]
 confidence: 品牌自宣
 brand_specific: true

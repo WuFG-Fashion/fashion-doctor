@@ -2,7 +2,7 @@
 type: source
 title: 太平鸟商品企划与联名策略佐证
 tags: [peacebird, merchandise, otd, collaboration, 商品企划, 联名, L2_05]
-sources: [wiki/10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md]
+sources: [10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md]
 aliases: ["太平鸟商品企划", "PEACEBIRD企划", "太平鸟联名", "太平鸟波段"]
 confidence: 品牌自宣
 brand_specific: true
@@ -18,7 +18,7 @@ status: active
 ---
 > **一句话摘要**：太平鸟 2026 以"新年∞好/高光假日"主题系列 + 国际设计师联名 + 复古运动风秋冬，按主品牌25-35/LEDIN18-28/MINI PEACE0-14 多客群分层企划，直营新品折率提升、存货控制有力。
 > **置信度**：品牌自宣（官方企划发布 + 财报运营表述）
-> **来源**：wiki/10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md（WebSearch 聚合）
+> **来源**：10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md（WebSearch 聚合）
 
 ## 核心要点
 - 主题系列：2026 春"新年∞好"、夏"高光假日"、国际设计师联名（置信度：品牌自宣）。
@@ -39,7 +39,7 @@ status: active
 - 直营新品折率提升 + 复古运动风，呼应 [[2026-08-30_B_售罄率与折扣毛利管理方法论]] 的"以正价售罄为锚、少依赖深折扣"逻辑。
 
 ## 信息链
-上游来源 [[wiki/10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md]] → 本页（source：太平鸟商品企划与联名策略）→ 下游应用 [[peacebird]] / [[商品企划体系2026]]
+上游来源 [[10_web/articles/2026-08-30_peacebird_商品企划与联名策略.md]] → 本页（source：太平鸟商品企划与联名策略）→ 下游应用 [[peacebird]] / [[商品企划体系2026]]
 
 ## 关联页面
 - [[peacebird]]

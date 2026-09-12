@@ -2,7 +2,7 @@
 type: source
 title: ellesse Garfield 全球战役与价格带（A1·2026-08-23）
 tags: [ellesse, sportswear, retro, italy, campaign, price_band]
-sources: [wiki/10_web/articles/2026-08-23_ellesse_Garfield战役与价格带.md]
+sources: [10_web/articles/2026-08-23_ellesse_Garfield战役与价格带.md]
 aliases: ["Ellesse", "ellesse", "Garfield", "全球战役与价格带（A1", "ellesse Garfield 全球战役与价格带（A1·2026-08-23）"]
 confidence: 品牌自宣
 brand_specific: true
@@ -19,7 +19,7 @@ status: active
 # ellesse Garfield 全球战役与价格带（A1·2026-08-23）
 
 > **一句话摘要**：ellesse「Do It Like An Italian」全球战役（Andrew Garfield，2026-06 起，三章贯穿 SS26+AW26）+ Smiley 联名（1,280 元登山帽）；价格带 £22-120（约 200-1100 元）corroborate 中端运动时尚。
-> **来源**：wiki/10_web/articles/2026-08-23_ellesse_Garfield战役与价格带.md
+> **来源**：10_web/articles/2026-08-23_ellesse_Garfield战役与价格带.md
 > **最后更新**：2026-08-23
 
 > **置信度**：品牌自宣（Pentland/FashionNetwork 官方）；战役预算 3,000 万美元为媒体估算

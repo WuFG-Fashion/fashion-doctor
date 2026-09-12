@@ -2,7 +2,7 @@
 type: source
 title: VIP分层忠诚度ROI
 tags: [vip, membership, loyalty, repurchase, source]
-sources: [wiki/10_web/articles/2026-08-09_Rivo_VIP分层忠诚度ROI.md]
+sources: [10_web/articles/2026-08-09_Rivo_VIP分层忠诚度ROI.md]
 aliases: ["VIP分层忠诚度ROI"]
 confidence: 媒体估算
 brand_specific: false

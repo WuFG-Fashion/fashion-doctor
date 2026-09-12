@@ -11,7 +11,7 @@ updated: 2026-09-05
 
 ## 目录分布
 
-### wiki/playbooks/ — 作战手册（怎么干）
+### 30_wiki/playbooks/ — 作战手册（怎么干）
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[导购团队管理SOP]] | 导购团队组织能力 SOP（新人培养/在岗提升/团队节奏） | playbook, team_action, 组织能力, 导购培养 |
@@ -22,7 +22,7 @@ updated: 2026-09-05
 | ⭐ NEW [[导购能力提升打法]] | 导购能力提升三打法：新人7天上岗闭环/在岗AI陪练持续提升/明星导购识别复制（含指标与SOP指向） | playbook, guide, training, sales + 08-14新增:L2_04深化枢纽配套打法页 |
 | ⭐ NEW [[商品企划落地打法]] | 商品企划落地三打法：趋势企划→精准订货/动态OTB滚动管控/售罄监控→分级清仓（含指标与SOP指向） | playbook, merchandise, planning, otb, sell_through + 08-14新增:L2_05深化枢纽配套打法页 |
 | [[决策日志_模板]] | 重要经营决定可追溯记录模板 | playbook, decision_log |
-| [[wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
+| [[30_wiki/playbooks/_template\|手册写作模板]] | 新建手册的规范与格式 | playbook, template |
 | ⭐ NEW [[2026H1服装行业KPI经营应对]] | 行业"量增价跌、利润薄"结论→4个经营动作（利润率/周转对标、出口累计口径、定价转质价比） | playbook, benchmark, decision, industry + 08-14新增:行业KPI基准→经营动作闭环 |
 | ⭐ NEW [[连带销售与高单打法]] | 高单打法三阶（心态"我想我能我会"/顾客视角/顾问式搭配推荐），对应销售九部曲附推深化；源:human《高单数必炼手册》《中级着装顾问》《DAY1》 | playbook, sales, upselling, high_ticket, guide + 08-25新增:human课件提炼 |
 | ⭐ NEW [[充值活动与会员话术]] | 储值锁客六步（意义/优势/折扣率/障碍/话术/操作），"障碍→话术"结构可复用；源:human《充值培训与话术》 | playbook, vip, recharge, script, retention + 08-25新增:human课件提炼 |
@@ -32,7 +32,7 @@ updated: 2026-09-05
 | ⭐ NEW [[店铺运营制度]] | 门店制度四层：纪律(卖场纪律+乐捐奖惩)+服务(硬性要求30条)+数据(输机管理)+巡检(卖场规范)；样本卡宾方法论通用；源:human《店铺制度》五份 | playbook, store_rules, discipline, service + 08-25新增:human制度提炼 |
 | ⭐ NEW [[头狼店长进阶培训]] | 店长年度进阶体系(十三邀)：人货场客→五项管理→企业文化逐年递进+区域复盘(业绩+人力+培训三合一)；源:human头狼/零售系统/五项管理 | playbook, manager, advanced_training, team_culture + 08-25新增:human课件提炼 |
 
-### wiki/entities/ — 实体库
+### 30_wiki/entities/ — 实体库
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[丽晶]] ⭐ UPDATED | 服装零售ERP/全渠道解决方案商；8-03新增门店12核心指标与日周月三层经营节奏 | vendor, retail, erp |
@@ -103,7 +103,7 @@ updated: 2026-09-05
 | [[ariose_years]] ⭐ UPDATED · 重点 | 艾诺丝·雅诗(ARIOSE YEARS)：杭州中高端时尚女装(爱唯时尚集团)，2025销售约50亿/门店破1800/百万会员/杭州女装TOP3；AW PROJECT重奢商圈拓店(港汇恒隆首店首日60万) +8-19新增:A1全维度(春季Campaign+区域拓展·源:[[2026-08-19_A1_ariose_years_春季Campaign与门店拓展]]) +8-26新增:米兰夏日Campaign+精选店铺网络(源:[[2026-08-26_A1_ariose_years_米兰夏日Campaign与门店网络]]) | womenswear, premium, china_brand, hangzhou, focus |
 | [[dekashell]] ⭐ UPDATED · 重点 | 迪卡轩(DEKASHELL)：杭州轻淑女装(2007)，Style by Me，30省600+门店，战略"三年冲头部"；非上市无财报(母公司标注冲突待核实) +8-19新增:A1全维度(加盟模式·源:[[2026-08-19_A1_dekashell_全国门店与加盟模式]]) +8-26新增:加盟投资结构+第三方门店口径1655(源:[[2026-08-26_A1_dekashell_加盟投资与第三方门店口径]]) | womenswear, light_elegant, china_brand, hangzhou, focus |
 
-### wiki/concepts/ — 概念库
+### 30_wiki/concepts/ — 概念库
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[earnings_quality_nonrecurring_2026]] ⭐ UPDATED | 盈利质量与扣非净利润(2026H1警示)：盛泰出售资产扮靓(归母+477%但扣非-64%)/九牧王金融资产拖累/安正真实修复跨品牌对照；7-29补充行业底色(中报预告预盈率54%/比音勒芬EPS 0.68/海澜0.20) +8-09新增太平鸟H1质量信号(归母+30.89%但非经常性占比>50%/扣非5071万+269.91%/存货13.93亿/研发-20.43%，验证盈利质量透镜) | earnings, non_recurring, profit_quality, alert, h1_2026 |
@@ -151,7 +151,7 @@ updated: 2026-09-05
 | [[bosideng_fy2026_deep_dive]] | 波司登 FY2026 深度（品牌价值/渠道/羽绒品类） | bosideng, down, fy2026, deep_dive, concept |
 | [[vogue_business_ai_consumer_2026]] | VOGUE Business 2026 AI 消费者报告（AI 影响衣橱） | ai, consumer, vogue, 2026, concept |
 
-### wiki/concepts/ — 概念库（二）
+### 30_wiki/concepts/ — 概念库（二）
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[品牌联名策略]] ⭐ NEW | 联名预算三档配置法（流量型拉曲线/工艺型抬价值/生态型筑壁垒）+ Harriet Quick 三判据（专属团队/常态化线下/独立叙事）；实证：LACOSTE 2026 Godzilla×ALPHA×Alpine A290 分层组合（09-06 织网补建锚点） | collab, marketing, ip, strategy |
@@ -190,7 +190,7 @@ updated: 2026-09-05
 | [[customer_value_metrics_2026]] ⭐ NEW | 客户价值指标体系2026：复购率"人数口径"失灵 → LTV/留存率/NDR/NPS 四指标组合（度量-监控-预算闭环）+ RFM 八分层落地（服装 90 天窗口） | customer_value, ltv, ndr, nps, rfm, kpi, methodology |
 | [[ai_personal_empowerment_2026]] ⭐ NEW | AI个人赋权与第二大脑方法论：发明>自动化/能力贫富差距/提问能力升值/一人+Agent≈小型组织/三个学习弯路；扎克伯格长文解读 | ai, empowerment, second_brain, agent, capability, methodology |
 
-### wiki/practices/ — 实操库
+### 30_wiki/practices/ — 实操库
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[RFM会员分层运营实战]] | RFM三维分层模型+私域复购全链路 | vip, rfm, operational |
@@ -207,7 +207,7 @@ updated: 2026-09-05
 | [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板]] ⭐ NEW 08-26 | 总部看全局/区域看趋势/门店看自己三层分角色看板+预警分级上报+每视图≤7指标，映射 focus_brands 35品牌 | bi, dashboard, store_ops, kpi, streamlit, C_round, practice |
 | 待迁移：品牌配置 | 来自 L3_07_02 品牌配置管理（已有 [[brand_config_driven_system]] 覆盖） | brand, configuration |
 
-### wiki/comparisons/ — 对比库
+### 30_wiki/comparisons/ — 对比库
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | [[four_brands_2025]] ⭐ NEW | 太平鸟/GXG/优衣库/ZARA四大品牌财务对比 | competitor, financial, comparison |
@@ -224,7 +224,7 @@ updated: 2026-09-05
 | 待迁移：竞品综合对比 | 来自 L3_02_05 竞品综合对比 | competitor, comparison |
 | 待迁移：快时尚对比 | 来自 L3_02_06 ZARA优衣库H&M | fast_fashion, comparison |
 
-### wiki/sources/ — 来源摘要库
+### 30_wiki/sources/ — 来源摘要库
 | 页面 | 说明 | 标签 |
 |------|------|------|
 | ⭐ NEW 2026-08-26 B轮 8源 | 会员/导购/商品企划·方法论为主品牌为辅：①[[2026-08-26_会员运营方法论_私域四大场景与RFMV分层]] RFMV五层+健康值(渗透≥60%/复购≥40%/贡献≥70%) ②[[2026-08-26_时尚忠诚度计划国际标杆2026]] Gap Encore 4000万会员/Nordy 70%/兑换率20-30% ③[[2026-08-26_导购能力与门店人效方法论2026]] 上岗-67%/转化6→11%/连带率2.5-3.5/AI排班+21.3% ④[[2026-08-26_商品企划方法论_OTB与配补调2026]] 八步法/爆款18.3天/四等级配补调⚠️GMROI档位+售罄口径 ⑤[[2026-08-26_B佐证_卡宾终端培训与加盟运营体系]] ⑥[[2026-08-26_B佐证_江南布衣会员深化]] 订单销售比90%/智能推荐70% ⑦[[2026-08-26_B佐证_Levi商品结构与品类聚焦]] Dockers $3.11亿出售 ⑧[[2026-08-26_B佐证_Crocs_Club忠诚度计划与折扣策略]] | vip, guide, merchandise, methodology, brand_specific, B_round, source + 08-26新增:B轮8源/概念5更新/实体4更新 |
@@ -243,7 +243,7 @@ updated: 2026-09-05
 | [[2026-08-29_A2_mlb_F&F_Q2_2026入境游]] ⭐ NEW | F&F Q2预估营收4150亿+10%/营业1004亿+20%+MLB国内+15%外国人~15%+中国+9% | mlb, fandf, inbound_tourism, source |
 | ⭐ NEW 2026-08-26 A3轮 5源 | A3固定分组12品牌全维度采集（peacebird/two_am/thisisizi8/salomon/tommy_hilfiger 5 品牌有新增，7 品牌探针核验无新增）：①[[2026-08-26_A3_peacebird_券商评级与门店拆解]] 直营999/加盟1862拆分+国盛买入+超级壹号店月销400万 ②[[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]] 代销47.4%成第一渠道+2AM营收+65.04% ③[[2026-08-26_A3_thisisizi8_卡宾官网矩阵收录]] thisisIZI8/KOYO列入卡宾官方矩阵·归属新信号 ④[[2026-08-26_A3_salomon_北京双旗舰落地]] 国贸728㎡三层+APM接盘兰蔻900㎡+Q3指引+18-20% ⑤[[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]] 集团19.6亿+6%+TH国际可比+6%+口径闭环 | brand_wall, competitor, full_dimension, A3_round, source + 08-26新增:A3轮5源/实体12更新(5新增+7核对)/概念1回链 |
 | ⭐ NEW [[weifu_consulting|韦孚咨询专题]] | 韦孚咨询搜狐号 23 篇公众号文章（含讲师介绍+服博会课程+3C 案例）的提炼专题——**1 个实体页（[[weifu_consulting]]）+ 5 个概念页（3C 经营体系/客资/量化美学/销售力/七次对接/美学零售）+ 11 个 source 页**；公开渠道首批完整提炼，公众号视频不可得见结论 | weifu, 3c, quantified_aesthetics, methodology, topic, source  |
-| ⭐ NEW 2026-08-25 human 课件/制度 39 源 | 桌面《培训课件》《店铺制度》入库提炼（销售九部曲/卖场管理/店长店助培训/FPA/五项管理/面料/卡宾制度等），原文存 human/，39 个 source 页见 wiki/sources/2026-08-25_human_* | human, training, store_rules, source + 08-25新增:39源批量入库 |
+| ⭐ NEW 2026-08-25 human 课件/制度 39 源 | 桌面《培训课件》《店铺制度》入库提炼（销售九部曲/卖场管理/店长店助培训/FPA/五项管理/面料/卡宾制度等），原文存 human/，39 个 source 页见 30_wiki/sources/2026-08-25_human_* | human, training, store_rules, source + 08-25新增:39源批量入库 |
 | [[2026-08-20_客户价值四指标替代复购率]] ⭐ NEW | 复购率三大缺陷（口径可调节/只看人数/低频误判）+ LTV/留存率/NDR/NPS 四指标定义与落地四步（RFM分层→NPS监控→NDR追踪→LTV反推预算）；公众号「零售小九」 | vip, customer_value, ltv, ndr, nps, rfm, methodology, source |
 | [[2026-08-20_扎克伯格超级智能与第二大脑]] ⭐ NEW | 扎克伯格《The Future is for Everyone》解读：AI 是能力放大器非替代工具/发明>自动化/权力平衡与开源/一人+Agent≈小型组织/三个学习弯路；公众号「白熊安安」 | ai, empowerment, second_brain, agent, education, source |
 | [[2026-08-15_卡宾2026中期业绩与2025年报
@@ -897,12 +897,12 @@ updated: 2026-09-05
 
 ## 快速入口
 
-> **历史登记归档**：2026-08-16 起的逐轮采集登记已移至 `wiki/_archive/index_log_history_20260816-0824.md`（完整日志见 `wiki/log.md`）。
+> **历史登记归档**：2026-08-16 起的逐轮采集登记已移至 `50_legacy/index_log_history_20260816-0824.md`（完整日志见 `90_meta/log.md`）。
 
-- 查询 KPI 基准：wiki/concepts/ → [[china_apparel_industry_2026q1]] / L3_01_01 KPI健康基准
-- 查询竞品数据：wiki/entities/ → [[peacebird]] / [[muson_gxg]] / [[fast_retailing]] / [[inditex_zara]]
-- 查询系统设计：wiki/practices/ → [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] / [[brand_config_driven_system|品牌配置驱动多品牌系统]]
-- 查询AI趋势：wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
+- 查询 KPI 基准：30_wiki/concepts/ → [[china_apparel_industry_2026q1]] / L3_01_01 KPI健康基准
+- 查询竞品数据：30_wiki/entities/ → [[peacebird]] / [[muson_gxg]] / [[fast_retailing]] / [[inditex_zara]]
+- 查询系统设计：30_wiki/practices/ → [[streamlit_production_dashboard|Streamlit生产级多品牌看板]] / [[brand_config_driven_system|品牌配置驱动多品牌系统]]
+- 查询AI趋势：30_wiki/concepts/ → [[retail_ai_adoption_2026]] / [[AI导购陪练]]
 
 ---
 

@@ -101,7 +101,7 @@ status: active
 - **AP2支付协议**：Google推AI代理支付协议，PayPal已采用→Agentic Commerce基础设施就绪
 - 部署用途分布：49%客服/46%营销/45%技术支持/43%产品创新
 - **TELUS**：57000+员工定期使用AI，每次交互节省40分钟
-- 关联知识：wiki/concepts/[[apparel_ai_agents_2026]]（已更新Google Cloud数据）
+- 关联知识：30_wiki/concepts/[[apparel_ai_agents_2026]]（已更新Google Cloud数据）
 
 ---
 
@@ -113,7 +113,7 @@ status: active
 - 74%消费者仍看重实体店人际互动 → AI负责效率、人负责温度
 - **Ralph Lauren × 微软**：Ask Ralph AI造型助手，将旗舰店体验数字化延伸到每个用户手机
 - AI价值分层：低价值/高危区（碎片化+孤立）vs 高价值/红利区（跨职能+规模化+数据治理）
-- 关联知识：wiki/concepts/[[retail_ai_adoption_2026]]（已更新信任数据）
+- 关联知识：30_wiki/concepts/[[retail_ai_adoption_2026]]（已更新信任数据）
 
 ### 案例: 知衣科技 FD+ — AI服装设计全链路平台实测
 - **企业**: 杭州知衣科技（国家高新技术企业，高瓴/祥禾投资）

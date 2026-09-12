@@ -1,6 +1,6 @@
 ---
 type: concept
-title: 波司登FY2026深层分析 — 同步自 wiki/sources/2026-07-02_波司登FY2026深层分析_非羽绒板块承压.md
+title: 波司登FY2026深层分析 — 同步自 30_wiki/sources/2026-07-02_波司登FY2026深层分析_非羽绒板块承压.md
 aliases: [bosideng_fy2026_deep_dive]
 tags: [bosideng, fy2026, deep, dive]
 sources: []
@@ -14,7 +14,7 @@ as_of: 2026-08-26
 review_due_at: 2027-02-22
 status: active
 ---
-# 波司登FY2026深层分析 — 同步自 wiki/sources/2026-07-02_波司登FY2026深层分析_非羽绒板块承压.md
+# 波司登FY2026深层分析 — 同步自 30_wiki/sources/2026-07-02_波司登FY2026深层分析_非羽绒板块承压.md
 
 > 📌 已迁移到 [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] + [[bosideng]]
 > 最后同步：2026-07-02

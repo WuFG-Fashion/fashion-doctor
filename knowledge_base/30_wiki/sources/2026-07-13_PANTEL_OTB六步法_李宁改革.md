@@ -2,7 +2,7 @@
 type: source
 title: PANTEL OTB预算编制六步法+李宁改革案例
 tags: [otb, merchandise, planning, budget, lining, case_study]
-sources: [wiki/10_web/articles/2026-07-13_PANTEL_OTB预算编制六步法_李宁案例.md]
+sources: [10_web/articles/2026-07-13_PANTEL_OTB预算编制六步法_李宁案例.md]
 aliases: ["PANTEL", "OTB预算编制六步法+李宁改革案例", "PANTEL OTB预算编制六步法+李宁改革案例"]
 confidence: 第三方数据
 brand_specific: false

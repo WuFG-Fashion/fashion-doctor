@@ -1,6 +1,6 @@
 ---
 type: concept
-title: 16家A股服装上市企业2026Q1财报 — 同步自 wiki/sources/2026-07-02_16家服装企业2026Q1.md
+title: 16家A股服装上市企业2026Q1财报 — 同步自 30_wiki/sources/2026-07-02_16家服装企业2026Q1.md
 aliases: [16brands_2026q1_snapshot]
 tags: [16brands, 2026q1, snapshot]
 sources: []
@@ -14,7 +14,7 @@ as_of: 2026-08-26
 review_due_at: 2027-02-22
 status: active
 ---
-# 16家A股服装上市企业2026Q1财报 — 同步自 wiki/sources/2026-07-02_16家服装企业2026Q1.md
+# 16家A股服装上市企业2026Q1财报 — 同步自 30_wiki/sources/2026-07-02_16家服装企业2026Q1.md
 
 > 📌 已迁移到 [[2026-07-02_16家服装企业2026Q1]]
 > 最后同步：2026-07-02

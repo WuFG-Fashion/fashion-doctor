@@ -2,7 +2,7 @@
 type: source
 title: HumbleHumbleR 谦而不卑 中国新锐男装速览 2026
 tags: [humble_humble_r, competitor, streetwear, china, menswear, new_brand, 2026, competitor_update]
-sources: [wiki/10_web/articles/2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md]
+sources: [10_web/articles/2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md]
 aliases: ["HumbleHumbleR", "谦而不卑", "中国新锐男装速览", "2026", "HumbleHumbleR 谦而不卑 中国新锐男装速览 2026"]
 confidence: 媒体估算
 brand_specific: false

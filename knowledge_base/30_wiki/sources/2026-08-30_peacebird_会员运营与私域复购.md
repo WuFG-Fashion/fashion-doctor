@@ -2,7 +2,7 @@
 type: source
 title: 太平鸟会员运营与私域复购佐证
 tags: [peacebird, vip, membership, private_domain, repurchase, 会员运营, L2_03]
-sources: [wiki/10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md]
+sources: [10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md]
 aliases: ["太平鸟会员", "PEACEBIRD会员", "PBClub", "太平鸟私域复购", "太平鸟复购率"]
 confidence: 品牌自宣
 brand_specific: true
@@ -18,7 +18,7 @@ status: active
 ---
 > **一句话摘要**：太平鸟会员 2600 万、贡献 68% 销售、复购率 41%（非会员 3 倍）、私域复购 +35%；PBClub 黑卡年均 8600 元、复购率 78%——会员是增长主引擎。
 > **置信度**：品牌自宣（会员运营/复购为品牌官方口径；营收 87.16 亿/净利 5.32 亿为财报级，已内联标注）
-> **来源**：wiki/10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md（WebSearch 聚合）
+> **来源**：10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md（WebSearch 聚合）
 
 ## 核心要点
 - 会员规模：2600 万（高价值 580 万），会员贡献 68% 销售（置信度：品牌自宣）。
@@ -41,7 +41,7 @@ status: active
 - 黑卡 78% 复购率 + 45 天短周期，是 [[全渠道会员一体化]] 高阶形态（付费/高净值会员专享）的可对标样板，对 [[peacebird]] 长期 LTV 有强支撑。
 
 ## 信息链
-上游来源 [[wiki/10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md]] → 本页（source：太平鸟会员运营与私域复购）→ 下游应用 [[peacebird]] / [[会员与VIP运营体系2026]] / [[全渠道会员一体化]]
+上游来源 [[10_web/articles/2026-08-30_peacebird_会员运营与私域复购.md]] → 本页（source：太平鸟会员运营与私域复购）→ 下游应用 [[peacebird]] / [[会员与VIP运营体系2026]] / [[全渠道会员一体化]]
 
 ## 关联页面
 - [[peacebird]]

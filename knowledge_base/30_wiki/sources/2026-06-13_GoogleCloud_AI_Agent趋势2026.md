@@ -2,7 +2,7 @@
 type: source
 title: Google Cloud AI Agent Trends 2026 — 五大转变重塑企业AI
 tags: [ai, agent, retail, agentic_ai, google_cloud]
-sources: [wiki/10_web/articles/2026-06-13_GoogleCloud_AI_Agent趋势2026.md]
+sources: [10_web/articles/2026-06-13_GoogleCloud_AI_Agent趋势2026.md]
 aliases: ["Google", "Cloud", "AI", "Agent", "Google Cloud AI Agent Trends 2026 — 五大转变重塑企业AI"]
 confidence: 媒体估算
 brand_specific: false
@@ -21,7 +21,7 @@ status: active
 > **一句话摘要**：Google Cloud 2026 AI Agent 趋势报告，基于3466名全球决策者调研，揭示五大转变：52%已部署Agent、88%获正ROI、Home Depot Magic Apron零售案例。
 
 > **来源**：Google Cloud / 腾讯新闻 (2026-02-14)
-> **原始资料**：wiki/10_web/articles/2026-06-13_GoogleCloud_AI_Agent趋势2026.md
+> **原始资料**：10_web/articles/2026-06-13_GoogleCloud_AI_Agent趋势2026.md
 
 ## 核心要点
 

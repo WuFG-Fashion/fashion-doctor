@@ -3,7 +3,7 @@ type: source
 title: 20260827_A3_tommy_hilfiger_PVH_FY2025
 aliases: ["20260827_A3_tommy_hilfiger_PVH_FY2025"]
 tags: [tommy_hilfiger, a3_round, competitor_scan, 2026]
-sources: [wiki/10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025.md]
+sources: [10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025.md]
 created: 2026-08-27
 updated: 2026-08-27
 cross_refs: [[tommy_hilfiger], [服装行业竞争格局]]
@@ -19,7 +19,7 @@ status: active
 # Tommy Hilfiger PVH FY2025 全维度动态
 
 > **一句话摘要**：PVH 旗下 Tommy Hilfiger 2025 财年营收 47.71 亿美元(+4%)，但亚太(含中国)下滑 4.2%，靠 Travis Kelce/Cadillac F1 等联名撑增长，2026 受关税约 215bp 拖累。
-> **来源**：[[wiki/10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025]] · PVH 10-K/8-K(2026-03-31)、SEC、Vogue、GlobalData
+> **来源**：[[10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025]] · PVH 10-K/8-K(2026-03-31)、SEC、Vogue、GlobalData
 > **最后更新**：2026-08-27
 
 > **置信度**：财报（PVH 为 NYSE 上市公司，数据来自 10-K/8-K）
@@ -46,7 +46,7 @@ status: active
 2. 关税与 DTC 依赖是其在华核心风险，可为国内品牌"出海/高端化"提供汇率与渠道结构反面教材。
 
 ## 信息链
-- 上游来源：[[wiki/10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025]] → 本页（[[20260827_A3_tommy_hilfiger_PVH_FY2025]]）→ 下游应用：[[tommy_hilfiger]] · [[服装行业竞争格局]]
+- 上游来源：[[10_web/articles/20260827_A3_tommy_hilfiger_PVH_FY2025]] → 本页（[[20260827_A3_tommy_hilfiger_PVH_FY2025]]）→ 下游应用：[[tommy_hilfiger]] · [[服装行业竞争格局]]
 - 对标实体：[[tommy_hilfiger]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面

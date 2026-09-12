@@ -2,7 +2,7 @@
 type: source
 title: DIESEL / OTB Group 中国运营与财务速览 2026
 tags: [diesel, competitor, denim, premium_denim, italy, 2026, competitor_update]
-sources: [wiki/10_web/articles/2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md]
+sources: [10_web/articles/2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md]
 aliases: ["Diesel", "迪赛", "DIESEL", "OTB", "DIESEL / OTB Group 中国运营与财务速览 2026"]
 confidence: 品牌自宣
 brand_specific: true

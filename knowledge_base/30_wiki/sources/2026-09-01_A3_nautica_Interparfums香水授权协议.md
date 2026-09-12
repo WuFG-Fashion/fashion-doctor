@@ -2,7 +2,7 @@
 type: source
 title: Nautica × Interparfums 全球香水授权协议（20年）
 tags: [nautica, competitor, menswear, sportswear, usa, fragrance, license, 2026]
-sources: [wiki/10_web/articles/2026-09-01_nautica_Interparfums香水授权协议.md]
+sources: [10_web/articles/2026-09-01_nautica_Interparfums香水授权协议.md]
 aliases: ["Nautica 香水授权", "Interparfums Nautica", "2026-09-01_A3_nautica_Interparfums香水授权"]
 confidence: 官方公告
 brand_specific: true

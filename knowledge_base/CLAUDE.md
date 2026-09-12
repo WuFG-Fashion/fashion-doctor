@@ -34,14 +34,14 @@ knowledge_base/            ← v2.1 物理架构（2026-09-12 落地，按「谁
 ├── 90_meta/               ← 规则产物/索引/健康/日志
 │   ├── __index__/         ← master_index.json（RAG 索引）
 │   ├── _health/           ← 每日健康快照、回填/审计报告
-│   └── log.md             ← 只追加操作日志（原 wiki/log.md）
+│   └── log.md             ← 只追加操作日志（原 90_meta/log.md）
 ├── tools/kb_updater.py    ← 索引扫描器（扫描 30_wiki/；每次采集收尾必须运行重建 master_index.json）
 ├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter；v2.1 生命周期门禁）
 ├── tools/_backfill_source_fields.py ← 老 source 字段回填工具（aliases/confidence/brand_specific）
 └── tools/_v21_backfill_fields.py    ← v2.1 逻辑分层字段回填工具（layer/scope/volatility，幂等）
 ```
 
-> **L2/L3 旧账（已清）**：L2_00~L2_07 历史目录 2026-08-24 退役，809 个 L2 历史路径可在 git 历史（git log --all）找回；手写导航层 MOC_L00~L07 + 2 个 L3 空壳 2026-09-12 移入 `50_legacy/`（视图层 T4 改脚本生成，禁止手写 MOC）；`wiki/_archive/` 空壳已移除。新内容一律写入 `30_wiki/`。
+> **L2/L3 旧账（已清）**：L2_00~L2_07 历史目录 2026-08-24 退役，809 个 L2 历史路径可在 git 历史（git log --all）找回；手写导航层 MOC_L00~L07 + 2 个 L3 空壳 2026-09-12 移入 `50_legacy/`（视图层 T4 改脚本生成，禁止手写 MOC）；原 `wiki/_archive/` 空壳已移除。新内容一律写入 `30_wiki/`。
 
 > **⚠️ 索引重建（RAG 必需）**：`master_index.json` 覆盖 30_wiki/ 全部 6 个子目录（sources/entities/concepts/comparisons/playbooks/practices）。每次采集/提炼/优化后必须运行 `python knowledge_base/tools/kb_updater.py` 重建索引，否则新增页面无法被 `retrieval_mod.py` 检索到。
 

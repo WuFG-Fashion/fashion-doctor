@@ -2,7 +2,7 @@
 type: source
 title: 太平鸟会员运营与私域体系佐证
 tags: [peacebird, vip, membership, private_domain, 会员运营]
-sources: [wiki/10_web/articles/2026-08-21_B_peacebird_会员运营与私域体系.md]
+sources: [10_web/articles/2026-08-21_B_peacebird_会员运营与私域体系.md]
 aliases: ["太平鸟", "PEACEBIRD", "太平鸟会员运营与私域体系佐证"]
 confidence: 品牌自宣
 brand_specific: true
@@ -20,7 +20,7 @@ status: active
 # 太平鸟会员运营与私域体系佐证
 
 > **一句话摘要**：太平鸟 2026Q1 累计注册会员超 2600 万、高价值活跃会员 580 万，会员贡献营收 68%、复购率 41%、客单高出散客 56%——是"全域会员运营+私域引流"方法论的双核品牌实证。
-> **来源**：wiki/10_web/articles/2026-08-21_B_peacebird_会员运营与私域体系.md
+> **来源**：10_web/articles/2026-08-21_B_peacebird_会员运营与私域体系.md
 > **最后更新**：2026-08-21
 > **置信度**：品牌自宣（营销拆解文章口径，非财报数据；营收数字与财报不符处以财报为准）
 

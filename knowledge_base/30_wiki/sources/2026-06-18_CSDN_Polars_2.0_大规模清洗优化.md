@@ -2,7 +2,7 @@
 type: source
 title: Polars 2.0 大规模CSV/Parquet清洗新API与旧版对比实测
 tags: [polars, python, benchmark, parquet, csv, streaming]
-sources: [wiki/10_web/articles/2026-06-18_CSDN_Polars_2.0_大规模数据清洗优化.md]
+sources: [10_web/articles/2026-06-18_CSDN_Polars_2.0_大规模数据清洗优化.md]
 aliases: ["Polars", "2.0", "大规模CSV/Parquet清洗新API与旧版对比实测", "Polars 2.0 大规模CSV/Parquet清洗新API与旧版对比实测"]
 confidence: 第三方数据
 brand_specific: false
@@ -20,7 +20,7 @@ status: active
 
 > **一句话摘要**：Polars 2.0引入Arrow Flight SQL Planner实现谓词下推至Parquet页级、SIMD正则引擎、流式执行，Mem峰值降49%，元数据预读加速20倍，零拷贝Join消除GC停顿。
 
-> **来源**：wiki/10_web/articles/2026-06-18_CSDN_Polars_2.0_大规模数据清洗优化.md
+> **来源**：10_web/articles/2026-06-18_CSDN_Polars_2.0_大规模数据清洗优化.md
 > **最后更新**：2026-06-18
 
 ## 核心要点

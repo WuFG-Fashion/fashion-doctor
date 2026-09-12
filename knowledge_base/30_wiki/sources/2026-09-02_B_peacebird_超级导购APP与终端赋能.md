@@ -2,7 +2,7 @@
 type: source
 title: 太平鸟超级导购APP与终端赋能（B轮·2026-09-02）
 tags: [peacebird, 导购, 零售终端, 数字化, L2_04, 品牌实证, B轮]
-sources: [wiki/10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md]
+sources: [10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md]
 aliases: ["太平鸟超级导购", "超级导购APP", "太平鸟导购赋能"]
 confidence: 品牌自宣
 brand_specific: true
@@ -19,7 +19,7 @@ status: active
 # 太平鸟超级导购 APP 与终端赋能（B轮·2026-09-02）
 
 > **一句话摘要**：太平鸟以"超级导购 APP"（智能商品 + 任务驱动 + 岗位培养）构建零售终端生态，叠加 2026 经营计划"零售运营提质 + 区域化企划 + PLM 数字化看板"——导购赋能与商品数字化联动。
-> **来源**：wiki/10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md（品牌公开宣传 + 2025 年度股东会资料）
+> **来源**：10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md（品牌公开宣传 + 2025 年度股东会资料）
 > **置信度**：品牌自宣（APP 宣传口径）/ 官方公告（股东会资料）
 > **brand_specific**：true（太平鸟品牌特有，双链至 [[peacebird]]）
 
@@ -44,7 +44,7 @@ status: active
 - 零售运营提质（人效）与区域化企划（货盘）必须联动：工具只给导购"推什么"，若货盘不匹配区域客群，推荐再准也无效——**货盘区域化是导购工具生效的前提**。
 
 ## 信息链
-上游来源 [[wiki/10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md]] → 本页（source）→ 下游应用 [[peacebird]] / [[AI导购陪练]] / [[导购培训闭环体系]]
+上游来源 [[10_web/articles/2026-09-02_B_peacebird_超级导购APP与终端赋能.md]] → 本页（source）→ 下游应用 [[peacebird]] / [[AI导购陪练]] / [[导购培训闭环体系]]
 
 ## 关联页面
 - [[peacebird]]

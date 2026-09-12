@@ -3,7 +3,7 @@ type: source
 title: 20260827_A3_the_mr_young_轻奢国潮
 aliases: ["20260827_A3_the_mr_young_轻奢国潮"]
 tags: [the_mr_young, a3_round, competitor_scan, 2026]
-sources: [wiki/10_web/articles/20260827_A3_the_mr_young_轻奢国潮.md]
+sources: [10_web/articles/20260827_A3_the_mr_young_轻奢国潮.md]
 created: 2026-08-27
 updated: 2026-08-27
 cross_refs: [[the_mr_young], [服装行业竞争格局]]
@@ -19,7 +19,7 @@ status: active
 # THE MR YOUNG 密特·扬 轻奢国潮全维度动态
 
 > **一句话摘要**：本土轻奢国潮 THE MR YOUNG(上海艾动实业，2021)以中国文化+IP"扬仔"为核心，联名艺术家与鲸鱼GT赛车俱乐部，走高审美国潮路线。
-> **来源**：[[wiki/10_web/articles/20260827_A3_the_mr_young_轻奢国潮]] · 微博探店、商产网、品牌资料
+> **来源**：[[10_web/articles/20260827_A3_the_mr_young_轻奢国潮]] · 微博探店、商产网、品牌资料
 > **最后更新**：2026-08-27
 
 > **置信度**：媒体估算（探店/招商资料，无财报；私营品牌）
@@ -43,7 +43,7 @@ status: active
 2. 私营无披露，本轮仅核验登记，不重复造页。
 
 ## 信息链
-- 上游来源：[[wiki/10_web/articles/20260827_A3_the_mr_young_轻奢国潮]] → 本页（[[20260827_A3_the_mr_young_轻奢国潮]]）→ 下游应用：[[the_mr_young]] · [[服装行业竞争格局]]
+- 上游来源：[[10_web/articles/20260827_A3_the_mr_young_轻奢国潮]] → 本页（[[20260827_A3_the_mr_young_轻奢国潮]]）→ 下游应用：[[the_mr_young]] · [[服装行业竞争格局]]
 - 对标实体：[[the_mr_young]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面
