@@ -52,9 +52,21 @@ Parquet 销售数据
 
 全链路无需序列化开销，千万级交易数据秒级流转。
 
+## 结论
+
+Polars 与 Arrow 生态的零拷贝互操作把多工具串联的成本降到接近零：Polars → DuckDB → Polars 全程只传指针不复制数据。对服装零售的实用形态是「Parquet 读取（Polars）→ 清洗过滤（Polars）→ SQL 聚合（DuckDB）→ 看板展示（Streamlit）」的链路，使千万级交易数据可在单机秒级流转，无需引入分布式系统。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（零拷贝互操作模式）→ [[duckdb_olap_engine_2026]]（DuckDB 集成）与 [[python_data_stack_decision_2026]]（边界决策）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 2026选型基准：Polars vs Pandas vs DuckDB
 - [[duckdb_olap_engine_2026]] — DuckDB 嵌入式OLAP引擎
 - [[python_data_stack_decision_2026]] — Python 数据栈三重边界决策框架
 - [[data_library_selection_guide_2026|数据分析库选型决策指南2026]] — 三引擎混合栈方案
+
+## 前沿
+
+在本项目数据链路上实测该四段式管线的端到端耗时，验证是否可替代现有处理流程；补充 Arrow Flight 跨机器场景的必要性评估。

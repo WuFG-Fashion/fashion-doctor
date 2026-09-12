@@ -49,6 +49,14 @@ status: active
 - 销售流水ETL管道→**Polars**（流式引擎/惰性求值）
 - 两者协同：DuckDB粗粒度聚合→Polars精粒度转换→Arrow零拷贝
 
+## 结论
+
+DuckDB 与 Polars 在 2026 年的单机 OLAP 场景中已非竞争关系而是分工关系：10GB 级 Parquet 读取 Polars 略优（1.5-5s vs 2-6s），复杂 Join+Window 聚合 DuckDB 略优（8-25s vs 10-35s），差距普遍在 20-50% 以内。两者同以 Apache Arrow 为内存格式，可零拷贝互转，因此选型的真正分界线不在速度而在接口范式——「用 SQL 说话」选 DuckDB，「用 Python 说话」选 Polars。
+
+## 信息链
+
+[[python_data_stack_decision_2026]]（Python 数据栈三重边界决策）→ 本页（DuckDB vs Polars 实测基准数据）→ [[polars_vs_pandas_2026]]（三引擎整体选型）与 [[duckdb_olap_engine_2026]]（DuckDB 能力边界）
+
 ## 关联页面
 
 - [[duckdb_olap_engine_2026]] — DuckDB嵌入式OLAP引擎
@@ -60,3 +68,7 @@ status: active
 ## 待办 / 待验证
 
 - 无矛盾：PDS-H 94x、Arrow零拷贝、DuckDB 10x窗口函数等已有基准一致
+
+## 前沿
+
+补充 100 亿行以上流式场景的两者表现，以及 MotherDuck 云托管与本地 DuckDB 的混合部署成本对比；确认 Polars 2.0 后基准是否发生变化。

@@ -47,9 +47,21 @@ status: active
 - **新项目**：推荐 Polars + Pandas 3.0 混合策略
 - **CoW 行为**：注意子集修改不再影响原始 DataFrame
 
+## 结论
+
+Pandas 3.0 是 Panda 历史上最大的一次主版本升级，两项默认行为变更具有全局影响：底层存储转向 Arrow-backed Dtypes、Copy-on-Write 默认开启。前者让 Pandas 与 Polars/DuckDB 共享内存成为默认而非技巧，后者消除了 SettingWithCopyWarning 但会改变既有代码中「修改切片即修改原表」的隐式语义——升级前必须审计依赖这一行为的代码。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（DataFrame 选型对比）→ 本页（Pandas 3.0 变更）→ [[python_data_stack_decision_2026]]（数据栈决策）与 [[streamlit_dashboard_2026]]（Streamlit 兼容性）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 2026 Python DataFrame 选型对比
 - [[python_data_stack_decision_2026]] — <5GB Pandas / 5-100GB Polars+DuckDB / >100GB Spark
 - [[streamlit_dashboard_2026]] — Streamlit 2026 看板生态
 - [[data_quality_governance|数据质量常态化治理]] — CoW 机制对数据质量治理的价值
+
+## 前沿
+
+排查本项目现有 Pandas 代码中依赖切片写回语义的位置；确认 Streamlit 与其余依赖库对 Pandas 3.x 的兼容状态。

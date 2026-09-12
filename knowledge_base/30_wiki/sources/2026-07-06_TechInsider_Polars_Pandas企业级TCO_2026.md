@@ -62,6 +62,14 @@ status: active
 | 1TB ETL (AWS EC2) | $3.40/次 | $18.60/次(8x) |
 | 年度节能(日1TB) | ~500 kWh | 基准 |
 
+## 结论
+
+Polars vs Pandas 的企业级对比结论已从「快多少」推进到「省多少」：10 亿行 GroupBy 约 29x 加速、每 1TB 批次能耗 0.4 kWh vs 1.6-2.0 kWh、EC2 单次 ETL 成本 $3.40 vs $18.60（约 8x）。对经营的含义是，数据栈迁移的决策依据应当是「年度计算成本的绝对节省」而非「跑分倍数」，后者在数据量不足时会严重高估收益。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（企业级 TCO 与能耗数据）→ [[ETL架构选型]]（ETL 工具与架构决策）与 [[multi_brand_unified_analytics]]（多品牌架构落地）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 三引擎选型指南
@@ -70,3 +78,7 @@ status: active
 - [[multi_brand_unified_analytics]] — 多品牌统一数据分析架构
 
 - [[python_data_stack_decision_2026]]
+
+## 前沿
+
+用国内云厂商报价重算 TCO（AWS 价格不直接适用）；结合本项目实际数据量评估迁移临界点是否已到达。

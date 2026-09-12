@@ -55,6 +55,14 @@ status: active
 - **Tommy Hilfiger**：618天猫男装数字人榜首
 - 数字人成本<达人直播1/10
 
+## 结论
+
+AI 时尚消费入口的竞争本质是「决策权的转移」：Phia、Daydream、Gensmo、Alta 等创业公司争夺的不是流量而是「代消费者做选择」的位置，其退货率 -50% 的数据正是决策质量提升的直接证据。中国的路径与之不同——不靠独立 App 而靠平台内嵌（千问×淘宝、豆包×抖音商城），这决定了国内品牌应对 AI 入口的抓手是平台内的商品数据结构化，而非自建入口。
+
+## 信息链
+
+[[ai_virtual_tryon_2026]]（虚拟试衣技术）→ 本页（AI 消费入口格局）→ [[agentic_commerce_fashion_2026]]（AI 代理电商）与 [[retail_ai_adoption_2026]]（零售 AI 采纳全景）
+
 ## 关联页面
 
 - [[ai_virtual_tryon_2026]] — AI虚拟试衣技术与工具
@@ -62,3 +70,7 @@ status: active
 - [[retail_ai_adoption_2026]] — 零售AI采纳全景
 - [[apparel_ai_agents_2026]] — 服装AI智能体
 - [[ai_fashion_market_2026]] — AI时尚市场规模
+
+## 前沿
+
+跟踪 Phia 等入口的用户留存与 GMV 转化（当前披露以用户数为主）；补充国内平台内 AI 入口对品牌的可运营空间评估。

@@ -47,8 +47,20 @@ status: active
 | Python ETL管道 | Polars | Lazy DataFrame，Python生态集成 |
 | 两者都需要 | 混合 | Arrow零拷贝互转，uv统一安装 |
 
+## 结论
+
+DuckDB 与 Polars 在 1 亿-10 亿行区间内的性能差距仅 20-50%，且各有优势面：DuckDB 在复杂 Join+Window 上略优（8-25s vs 10-35s），Polars 在简单 Filter/GroupBy 与流式 DataFrame 上略优（10 亿行 12-35s vs 15-40s），峰值内存 Polars 略省（1.5-5GB vs 2-6GB）。由于两者共享 Arrow 内存可零拷贝互转，最优解不是二选一而是「SQL 报表走 DuckDB、Python 管道走 Polars」。
+
+## 信息链
+
+[[python_data_stack_decision_2026]]（数据栈决策）→ 本页（DuckDB vs Polars 严格基准）→ [[duckdb_olap_engine_2026]] 与 [[polars_vs_pandas_2026]]（各自能力边界）
+
 ## 关联页面
 
 - [[duckdb_olap_engine_2026]] — DuckDB 1.5+Sirius GPU完整能力
 - [[polars_vs_pandas_2026]] — Polars vs Pandas选型深度对比
 - [[python_data_stack_decision_2026]] — Python数据栈三重边界决策框架
+
+## 前沿
+
+补充两者在「多品牌异构表 Union」这一本项目实际场景下的性能对比（基准测试通常为单表）。

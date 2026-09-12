@@ -66,8 +66,20 @@ status: active
 | Kaggle Notebook占比 | 30%+ |
 | Discord社区 | 20,000+ |
 
+## 结论
+
+Polars 在 PDS-H 10GB 全量基准上实现 94 倍加速（3.89 秒 vs Pandas 365.71 秒），其加速来源可归因为「Rust 实现 + Arrow 列式内存 + 懒执行四大优化（谓词下推/列裁剪/聚合下推/常量折叠）」。生态侧 80,000+ GitHub Stars、月下载 500 万+、Kaggle Notebook 占比 30%+ 说明其已跨越「小众工具」阶段，迁移的人才与资料风险显著降低。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（架构原理与生态数据）→ [[python_data_stack_decision_2026]]（边界决策）与 [[ETL架构选型]]（ETL 落地）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — Polars vs Pandas vs DuckDB 2026选型
 - [[python_data_stack_decision_2026]] — Python数据栈三重边界决策
 - [[ETL架构选型]] — 2026 ETL三大趋势与选型
+
+## 前沿
+
+验证懒执行四大优化在本项目多品牌异构表上的实际收益；补充 94x 这类极端倍数与数据量、算子类型的相关性说明。

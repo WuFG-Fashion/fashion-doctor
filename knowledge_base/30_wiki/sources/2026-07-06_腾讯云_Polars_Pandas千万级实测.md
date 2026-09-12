@@ -48,8 +48,20 @@ status: active
 | 500万~5000万行 | **Polars（单机最优解）** |
 | >5000万行 | Polars Lazy+DuckDB |
 
+## 结论
+
+千万行级实测给出的关键结论是「分层选型」而非「一刀切替换」：<10 万行 Pandas、10 万-500 万行 Pandas+PyArrow、500 万-5000 万行 Polars 单机最优、>5000 万行 Polars Lazy+DuckDB。同时验证了 Pandas 加装 PyArrow 后端可将 CSV 载入差距从 5.9x 压缩至约 4x，说明「不换框架先换后端」是一个低风险的过渡选项。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（千万行严格对照实测与迁移矩阵）→ [[python_data_stack_decision_2026]]（边界决策框架）与 [[data_library_selection_guide_2026]]（选型指南）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 三引擎选型指南（含DuckDB）
 - [[data_library_selection_guide_2026]] — 数据分析库选型决策指南
 - [[python_data_stack_decision_2026]] — Python数据栈边界决策框架
+
+## 前沿
+
+用本项目实际主表（销售/库存/会员）的行数套用迁移矩阵，判定当前是否已到迁移临界点；补充 Lazy 模式在门店级小表上的收益衰减测试。

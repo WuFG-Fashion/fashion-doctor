@@ -66,6 +66,14 @@ status: active
 - 独家产品+设计师联名+个性化搭配 = 时尚零售护城河
 - 品牌忠诚度弱化 → "结果导向为王"
 
+## 结论
+
+Bain 这份报告的核心判断是「AI 代理正在去中介化购物漏斗顶端」——8% 美国消费者已从 ChatGPT 开始购物、AI 推荐占 25% 推荐流量但仅不到 1% 总流量，这组对比说明渗透率处在早期但增速极快，现在布局的成本远低于两年后。真正给零售商敲警钟的是「消费者信任自有代理是第三方代理的 3 倍」，却仍有 65% 零售媒体预算压在站内广告上——一旦流量入口迁移到第三方代理，这部分广告支出将面临结构性失效。Amazon Rufus 创造约 120 亿美元增量年化销售、用户购买可能性高 60%，是目前代理式购物最硬的商业证据。
+
+## 信息链
+
+上游来源：Bain & Company《Agentic AI in Retail》（2026-05）→ 本页 → 下游应用：[[agentic_commerce_fashion_2026]]（Agentic Commerce 时尚应用）、[[retail_ai_adoption_2026]]（零售 AI 采纳全景）、[[apparel_ai_agents_2026]]（服装垂直智能体）、[[ai_fashion_market_2026]]（AI 时尚市场规模）、[[ai_fashion_ecommerce_tryon_tools_2026]]（AI 试衣工具选型）。
+
 ## 关联页面
 
 - [[agentic_commerce_fashion_2026]] — Agentic Commerce在时尚零售的应用
@@ -73,3 +81,7 @@ status: active
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
 - [[ai_fashion_market_2026]] — AI时尚市场规模与赛道
 - [[ai_fashion_ecommerce_tryon_tools_2026]] — 服装AI试衣工具选型
+
+## 前沿
+
+待跟进：Rufus 增量销售额为 Bain 估算值，需与 Amazon 官方口径核对；「元数据成为新广告资产」的变现模式（赞助代理推荐、代理影响费）尚无落地定价；站内广告向代理渠道迁移的实际速度值得按季度观测。

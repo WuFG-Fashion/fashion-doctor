@@ -53,9 +53,21 @@ status: active
 1. 提高被AI找到的能力 → AEO（JSON-LD schema + 结构化feed）
 2. 做好被AI Agent完成购买的能力 → API就绪 + 语义化产品描述
 
+## 结论
+
+AI 导购在 2026 年已从聊天工具进化为销售基础设施，其价值有三个可量化锚点：转化率 +46%（Bluecore 144 品牌）、挽单成功率 20-35%（对比邮件挽单 10.7%）、影响全站 11.4% GMV（Tatcha）。同时该报告标注了品牌必须补上的两项能力——被 AI 找到（AEO：JSON-LD schema + 结构化 feed）与被 AI 完成购买（API 就绪 + 语义化商品描述），这两项恰是国内多数服装品牌当前的空白。
+
+## 信息链
+
+[[retail_ai_adoption_2026]]（零售 AI 采纳）→ 本页（AI 导购四场景数据与 Agentic Commerce 时间线）→ [[agentic_commerce_fashion_2026]]（AI 代理电商）与 [[AI导购陪练]]（导购能力）
+
 ## 关联页面
 - [[retail_ai_adoption_2026]] — 2026零售AI采纳全景
 - [[agentic_commerce_fashion_2026]] — Agentic Commerce在服装零售
 - [[AI导购陪练]] — 基于LLM的导购智能培训
 - [[ai_virtual_tryon_2026]] — AI虚拟试衣
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体
+
+## 前沿
+
+落地评估「AEO 就绪度」自查清单（JSON-LD/结构化 feed/API），作为品牌接入 AI 渠道的前置条件。

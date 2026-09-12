@@ -47,8 +47,20 @@ status: active
 | 进程间传递中间结果 | Arrow IPC |
 | 长期存储/BI查询 | Parquet |
 
+## 结论
+
+Apache Arrow 的定位应当被准确理解：它不是数据库而是一种内存与传输格式标准，作用相当于数据世界的「USB-C 接口」——把 N×N 的格式转换问题降为 N 次适配。这使得 DuckDB/Polars/Pandas 3.0/Spark 之间可以共享同一份物理内存，从而让「多引擎混用」从架构负担变成零成本选项。
+
+## 信息链
+
+[[duckdb_olap_engine_2026]]（DuckDB 与 Arrow 原生集成）→ 本页（Arrow 零拷贝与跨语言互操作）→ [[polars_vs_pandas_2026]]（三引擎以 Arrow 串联的选型）与 [[multi_brand_unified_analytics]]（跨品牌数据共享）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — 三引擎选型（Arrow零拷贝串联）
 - [[duckdb_olap_engine_2026]] — DuckDB嵌入式OLAP（Arrow原生集成）
 - [[multi_brand_unified_analytics]] — 多品牌数据架构（Arrow跨品牌数据共享）
+
+## 前沿
+
+补充 Arrow IPC 与 Parquet 的选择判据（进程间传递 vs 长期存储）在服装零售数据量级下的实际取舍；跟踪 Pandas 3.0 全面 Arrow 化后的生态兼容问题。

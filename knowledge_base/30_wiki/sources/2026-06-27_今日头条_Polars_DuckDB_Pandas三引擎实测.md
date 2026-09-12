@@ -57,8 +57,20 @@ DuckDB ("扛体量") → Polars ("提速度") → Pandas ("连生态")
 | 超内存数据(50GB+) | **DuckDB+Polars** | 磁盘spilling不OOM |
 | ML建模 | **Pandas** | scikit-learn原生支持 |
 
+## 结论
+
+三引擎 1000 万行实测给出了明确的分工模型：DuckDB「扛体量」（加载 3.8 秒、内存 0.3GB，为 Pandas 的 126 倍快/17 倍省）、Polars「提速度」（复杂多列转换、多线程 5-10x）、Pandas「连生态」（scikit-learn 与可视化）。三者以 Apache Arrow 零拷贝串联，50GB 混合流水线（DuckDB 预筛→Polars 特征工程→Pandas 建模）全程不崩溃——这证明单机混合栈已可替代多数中小规模的分布式方案。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（三引擎严格实测与分工模型）→ [[duckdb_olap_engine_2026]]（DuckDB 能力）与 [[data_library_selection_guide_2026]]（选型指南）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — Polars vs Pandas完整选型指南
 - [[duckdb_olap_engine_2026]] — DuckDB 1.5+Sirius GPU引擎
 - [[data_library_selection_guide_2026]] — 三引擎混合栈实践
+
+## 前沿
+
+在本项目数据链路上复现「DuckDB 预筛→Polars 特征→Pandas 建模」模式，评估可替代的现有环节。

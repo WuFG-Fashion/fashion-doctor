@@ -44,7 +44,19 @@ status: active
 | Polars | 100万-10亿行 | 89% |
 | DuckDB | SQL分析 | — |
 
+## 结论
+
+1 亿行 RFM 计算 15x 加速且内存从 32GB 降至 4GB（8x 节省）的数据说明，Polars 对会员分析场景的价值不只是「快」更是「能在单机跑完」——Pandas 需要 32GB 内存的任务在 Polars 下 4GB 即可完成，这直接决定了一套会员分析流程是「必须上服务器」还是「笔记本可跑」。RFM 恰是服装会员运营的核心分析，因此该收益可直接兑现。
+
+## 信息链
+
+[[polars_vs_pandas_2026]]（三引擎选型）→ 本页（RFM 场景实测与 v1.26 新特性）→ [[RFM会员分层运营实战]]（RFM 运营落地）与 [[python_data_stack_decision_2026]]（数据栈决策）
+
 ## 关联页面
 - [[polars_vs_pandas_2026]] — 三引擎选型全集
 - [[python_data_stack_decision_2026]] — Python数据栈决策框架
 - [[duckdb_olap_engine_2026]] — DuckDB GPU加速
+
+## 前沿
+
+用本项目会员表实际行数复现 RFM 计算，验证 15x/8x 的量级是否成立；评估 v1.26 流式模式处理全量历史会员数据的可行性。

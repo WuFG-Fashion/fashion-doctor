@@ -48,8 +48,20 @@ status: active
 - Parallel Fragment→大看板各Tab独立并行刷新
 - Pagination→SKU/会员列表原生分页
 
+## 结论
+
+这篇与同期的版本全景文互补，聚焦两件事：Tornado→Starlette/Uvicorn 的默认切换（v1.57）和 @st.fragment(parallel=True) 的并发执行（v1.58）。迁移到 ASGI 的实际意义不只是性能，而是可以在部署层直接挂 FastAPI 中间件做认证、限流、CORS——这对多品牌看板意味着权限隔离可以下沉到服务器层，而不必全部写在应用逻辑里。Polars Arrow 零拷贝则消除了 Pandas 转换层带来的类型失真，对多品牌异构库的字段映射场景尤其重要。st.pagination 把 SKU/会员列表从手工管理 offset/limit 中解放出来。
+
+## 信息链
+
+上游来源：Streamlit 官方 Release Notes（v1.53–v1.58 汇总）→ 本页 → 下游应用：[[streamlit_dashboard_2026]]（Streamlit 2026 架构演进全貌）、[[python_dashboard_ecosystem_2026]]（Python 看板生态对比）、[[multi_brand_unified_analytics]]（多品牌统一分析）、[[streamlit_production_dashboard]]（生产级看板实践）。
+
 ## 关联页面
 - [[streamlit_dashboard_2026]]
 - [[python_dashboard_ecosystem_2026]]
 - [[multi_brand_unified_analytics]]
 - [[streamlit_production_dashboard|Streamlit生产级看板]]
+
+## 前沿
+
+待跟进：ASGI 中间件方案（认证/限流/CORS）与本项目现有权限模型的结合方式值得评估——若可行可简化前端权限判断；parallel Fragment 与 session_state 的并发写入约束需在升级前确认。
