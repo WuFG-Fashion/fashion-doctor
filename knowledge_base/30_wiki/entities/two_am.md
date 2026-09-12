@@ -8,13 +8,13 @@ aliases:
 tags: [two_am, competitor, menswear, streetwear, cabbeen_subbrand]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 品牌墙图_2026-08-14, 2026-08-15_R4_2AM卡宾3D打印鞋, 2026-08-17_2AM_卡宾_吉隆坡快闪_3D打印鞋.md, 2026-08-21_A3_two_am_卡宾H1占比与中期股息.md, 2026-08-26_A3_two_am_卡宾渠道转型与2AM增长.md, 2026-08-29_A3_two_am_全维度动态.md, 2026-09-04_A3_two_am_马来独立店与扩张管线]
 created: 2026-08-14
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[cabbeen]], [[peacebird]], [[服装行业竞争格局]], [[2026-08-21_A3_two_am_卡宾H1占比与中期股息]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-12
-expires_at: 2027-03-11
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # 2AM
@@ -199,6 +199,20 @@ status: active
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页 → 下游应用：[[服装行业竞争格局]] · [[brand_store_channel_2026]]
+
+## 近期动态刷新（2026-09-13 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库源页**（非静默跳过）。
+- **核验一致项**：**Sunway Pyramid 第二家马来店 09-15 开业**（本轮 09-13 检索时**仍未到**，2 天后）；IOI City Mall 首店 08-28 已开；候选落位 **Pavilion KL / The Exchange TRX / Mid Valley / 1 Utama / KLCC**；产品线 **Awake slipper（RM389 起）/ Rocker sneaker（RM589）/ Evolve（RM789）/ CrissCross / Trekker**；目标客群 22–55 岁、偏男性、高可支配收入；团队 **Lee Wye-Ming（零售运营）/ Wong Kim Yoong（品牌战略）/ Jolene Phang（营销）**；五年愿景东南亚→日本——**均与 09-04/09-12 源一致**。
+- **行业语境（马来语媒体，corroborate）**：KL 高级鞋店「**三轨迹**」= 性能（**Skechers Sunway Pyramid 超级店 8,650 sq ft**，约原址 6 倍）/ 科技（**2AM 3D 打印**）/ 社群（**Hoka Pavilion 第 5 家店**）——**均已在库**。
+- **关键限制（媒体明确提示）**：**「已宣布的扩张计划 ≠ 已验证的零售需求」**——门店实际开出数量、运营时长、复购（新奇期后）比扩张路线图更重要（3dshoes 分析）。
+- 处置：`updated` 前推至 2026-09-13。
+- **下轮优先**：**Sunway Pyramid 09-15 开业核验**（最高优先）；IOI 首店首月销售（9 月下旬）；是否落位 TRX/1 Utama。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 全维度核对 → 本页 → 下游应用：[[brand_store_channel_2026]] · [[服装行业竞争格局]] · [[cabbeen]]
 
 ## 前沿
 

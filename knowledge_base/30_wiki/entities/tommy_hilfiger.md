@@ -6,15 +6,15 @@ aliases:
   - "TOMMY"
   - "Tommy"
 tags: [tommy_hilfiger, competitor, premium, menswear, womenswear, usa]
-sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事, 2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点, 2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]
+sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购.md, 2026-08-19_A3_tommy_hilfiger_全维度动态.md, 2026-08-22_A3_tommy_hilfiger_618与关税冲击.md, 2026-08-26_A3_tommy_hilfiger_PVH_Q2财报.md, 2026-08-28_A3_tommy_hilfiger_PVH治理与分析师重定价.md, 2026-08-29_A3_tommy_hilfiger_全维度动态.md, 2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事, 2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点, 2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀, 2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]
 created: 2026-08-14
-updated: 2026-09-12
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[listed_brand_metrics_template_2026]]
+updated: 2026-09-13
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]], [[listed_brand_metrics_template_2026]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-12
-expires_at: 2027-03-11
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # Tommy Hilfiger
@@ -257,6 +257,20 @@ status: active
 
 ### 信息链（本轮）
 - 上游来源：WWD / Vogue / Vogue Arabia / Vogue Singapore / L'Officiel USA 秀评（2026-09-11~12）+ [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[服装行业竞争格局]] · [[品牌联名策略]] · [[brand_risk_signals_2026]]
+
+## 近期动态刷新（2026-09-13 · A3轮·品牌全维度）
+
+> 本轮采集：**'Residence' 店型概念全球铺开**（零售空间维度新信号），新增来源 [[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]]（置信度：品牌自宣）。
+
+- **新店型概念 'Residence'（新信号）**：定位"**an invitation into the world of Tommy Hilfiger**"（待客之道 + 经典美式风格）；空间语言 = 暖色木饰面 + 复古感座椅 + 航海元素 + 策展式现代艺术（置信度：品牌自宣）。
+- **首发与复制路径**：**都柏林 Dundrum**（改造重开，**2,088 sq ft**）→ **中国广州 9 月底** → **南非开普敦**——"**欧洲验证 → 中国/新兴市场复制**"顺序，中国市场被放在**店型复制场**而非试验场的位置（置信度：品牌自宣）。
+- **与秋季 2026 系列同步**：cable knits / rugby silhouettes / varsity jackets + 外套（mixed-media / wool pea coats / car coats / padded layers），红白蓝签名色 + 档案细节——与 09-11 源 NYFW"Prep Made Current"、09-08 源 Fall campaign 同属**美式学院风当代化主轴**（置信度：品牌自宣）。
+- **零售空间两条并行线（结构判断）**：**Residence（重资产独立店型）** × **Shop-in-Shop（轻资产店中店，09-09 源）**——用不同资本强度覆盖不同商圈层级（置信度：品牌自宣）。
+- **集团层**：PVH 确认 **Stefan Larsson（CEO）+ Alexis Rollier（新任 CFO）+ Melissa Stone** 于 **2026-09-14** 出席高盛第 33 届全球零售大会炉边对话（美东 10:45），**新任 CFO 首次公开亮相**（置信度：官方公告）。
+- **下轮优先**：广州 Residence 是否如期 **9 月底**开业及落位商场；9/14 高盛零售大会是否给出**店型战略与 Q3 指引量化口径**；Residence 的投资额/单店产出（仍零口径）；秀场订货反馈 + 2027 春季上市价格带（延续缺口）。
+
+### 信息链（本轮）
+- 上游来源：[[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]] → 本页（[[tommy_hilfiger]]）→ 下游应用：[[brand_store_channel_2026]] · [[服装行业竞争格局]] · [[品牌联名策略]] · [[dkny]]
 
 ## 前沿
 

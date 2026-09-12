@@ -2,8 +2,8 @@
   "kb_version": "3.1",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-13",
-  "generated_at": "2026-09-13 07:04:32",
-  "total_entries": 1411,
+  "generated_at": "2026-09-13 07:26:23",
+  "total_entries": 1414,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -3928,9 +3928,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -3974,9 +3974,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -3997,9 +3997,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4020,9 +4020,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4043,9 +4043,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4066,9 +4066,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4135,9 +4135,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4204,9 +4204,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4227,9 +4227,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4250,9 +4250,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4296,9 +4296,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -4319,9 +4319,9 @@
           "scope": "brand",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "review_due_at": null,
-          "expires_at": "2027-03-11",
+          "expires_at": "2027-03-12",
           "superseded_by": null,
           "retrieval": "eligible"
         },
@@ -34659,6 +34659,87 @@
         },
         {
           "id": "WIKI_S_sources_1171",
+          "name": "2026-09-13_A3_peacebird_太平转债回售结果与股价",
+          "path": "30_wiki/sources/2026-09-13_A3_peacebird_太平转债回售结果与股价.md",
+          "file_count": 1,
+          "status": "ok",
+          "lifecycle": "active",
+          "aliases": [
+            "太平转债回售结果",
+            "太平鸟转债回售",
+            "113627 回售",
+            "太平鸟转债零申报",
+            "2026-09-13_A3_peacebird_太平转债回售结果与股价"
+          ],
+          "confidence": "官方公告",
+          "brand_specific": true,
+          "type": "source",
+          "layer": "T2",
+          "scope": "brand",
+          "company": null,
+          "volatility": "fast",
+          "as_of": "2026-09-13",
+          "review_due_at": null,
+          "expires_at": "2026-12-12",
+          "superseded_by": null,
+          "retrieval": "eligible"
+        },
+        {
+          "id": "WIKI_S_sources_1172",
+          "name": "2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术",
+          "path": "30_wiki/sources/2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术.md",
+          "file_count": 1,
+          "status": "ok",
+          "lifecycle": "active",
+          "aliases": [
+            "Salomon XT-EVO 中国定价",
+            "萨洛蒙 XT-EVO 价格",
+            "XT-EVO ¥1398",
+            "Salomon 渠道价格治理",
+            "2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": true,
+          "type": "source",
+          "layer": "T2",
+          "scope": "brand",
+          "company": null,
+          "volatility": "perishable",
+          "as_of": "2026-09-13",
+          "review_due_at": null,
+          "expires_at": "2026-10-13",
+          "superseded_by": null,
+          "retrieval": "eligible"
+        },
+        {
+          "id": "WIKI_S_sources_1173",
+          "name": "2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开",
+          "path": "30_wiki/sources/2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开.md",
+          "file_count": 1,
+          "status": "ok",
+          "lifecycle": "active",
+          "aliases": [
+            "Tommy Hilfiger Residence",
+            "TH Residence 店型",
+            "Tommy Hilfiger 广州新店",
+            "Tommy Hilfiger Dundrum",
+            "2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开"
+          ],
+          "confidence": "品牌自宣",
+          "brand_specific": true,
+          "type": "source",
+          "layer": "T2",
+          "scope": "brand",
+          "company": null,
+          "volatility": "fast",
+          "as_of": "2026-09-13",
+          "review_due_at": null,
+          "expires_at": "2026-12-12",
+          "superseded_by": null,
+          "retrieval": "eligible"
+        },
+        {
+          "id": "WIKI_S_sources_1174",
           "name": "20260827_A3_mr_mrs_设计师与沿革",
           "path": "30_wiki/sources/20260827_A3_mr_mrs_设计师与沿革.md",
           "file_count": 1,
@@ -34681,7 +34762,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1172",
+          "id": "WIKI_S_sources_1175",
           "name": "20260827_A3_nautica_中国运营商切换",
           "path": "30_wiki/sources/20260827_A3_nautica_中国运营商切换.md",
           "file_count": 1,
@@ -34704,7 +34785,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1173",
+          "id": "WIKI_S_sources_1176",
           "name": "20260827_A3_nerdy_NDY更名",
           "path": "30_wiki/sources/20260827_A3_nerdy_NDY更名.md",
           "file_count": 1,
@@ -34727,7 +34808,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1174",
+          "id": "WIKI_S_sources_1177",
           "name": "20260827_A3_no_one_else_中国48店",
           "path": "30_wiki/sources/20260827_A3_no_one_else_中国48店.md",
           "file_count": 1,
@@ -34750,7 +34831,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1175",
+          "id": "WIKI_S_sources_1178",
           "name": "20260827_A3_peacebird_2026H1_全维度",
           "path": "30_wiki/sources/20260827_A3_peacebird_2026H1_全维度.md",
           "file_count": 1,
@@ -34773,7 +34854,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1176",
+          "id": "WIKI_S_sources_1179",
           "name": "20260827_A3_salomon_2025_亚玛芬双引擎",
           "path": "30_wiki/sources/20260827_A3_salomon_2025_亚玛芬双引擎.md",
           "file_count": 1,
@@ -34796,7 +34877,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1177",
+          "id": "WIKI_S_sources_1180",
           "name": "20260827_A3_speedo_Page印度与全球",
           "path": "30_wiki/sources/20260827_A3_speedo_Page印度与全球.md",
           "file_count": 1,
@@ -34819,7 +34900,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1178",
+          "id": "WIKI_S_sources_1181",
           "name": "20260827_A3_the_mr_young_轻奢国潮",
           "path": "30_wiki/sources/20260827_A3_the_mr_young_轻奢国潮.md",
           "file_count": 1,
@@ -34842,7 +34923,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1179",
+          "id": "WIKI_S_sources_1182",
           "name": "20260827_A3_thisisizi8_中国首店复盘",
           "path": "30_wiki/sources/20260827_A3_thisisizi8_中国首店复盘.md",
           "file_count": 1,
@@ -34865,7 +34946,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1180",
+          "id": "WIKI_S_sources_1183",
           "name": "20260827_A3_tommy_hilfiger_PVH_FY2025",
           "path": "30_wiki/sources/20260827_A3_tommy_hilfiger_PVH_FY2025.md",
           "file_count": 1,
@@ -34888,7 +34969,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1181",
+          "id": "WIKI_S_sources_1184",
           "name": "20260827_A3_trussardi_2025_Miroglio重建",
           "path": "30_wiki/sources/20260827_A3_trussardi_2025_Miroglio重建.md",
           "file_count": 1,
@@ -34911,7 +34992,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1182",
+          "id": "WIKI_S_sources_1185",
           "name": "20260827_A3_two_am_马来西亚快闪",
           "path": "30_wiki/sources/20260827_A3_two_am_马来西亚快闪.md",
           "file_count": 1,
@@ -34934,7 +35015,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1183",
+          "id": "WIKI_S_sources_1186",
           "name": "韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播",
           "path": "30_wiki/sources/韦孚×品牌合作案例合集-卡尔丹顿秋水伊人日播.md",
           "file_count": 1,
@@ -34957,7 +35038,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1184",
+          "id": "WIKI_S_sources_1187",
           "name": "韦孚公开课与活动回顾合集",
           "path": "30_wiki/sources/韦孚公开课与活动回顾合集.md",
           "file_count": 1,
@@ -34980,7 +35061,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1185",
+          "id": "WIKI_S_sources_1188",
           "name": "韦孚咨询公司介绍综合",
           "path": "30_wiki/sources/韦孚咨询公司介绍综合.md",
           "file_count": 1,
@@ -35003,7 +35084,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_S_sources_1186",
+          "id": "WIKI_S_sources_1189",
           "name": "韦孚趋势洞察合集",
           "path": "30_wiki/sources/韦孚趋势洞察合集.md",
           "file_count": 1,

@@ -9,13 +9,13 @@ aliases:
 tags: [thisisizi8, competitor, concept_store, buyer_store, korean, china]
 sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩阵速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_thisisIZI8_深圳武汉首店_80品牌矩阵.md, 2026-08-26_A3_thisisizi8_卡宾官网矩阵收录.md, 2026-08-29_A3_thisisizi8_全维度动态.md]
 created: 2026-08-15
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]], [[two_am]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-12
-expires_at: 2027-03-11
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # thisisIZI8
@@ -185,6 +185,19 @@ status: active
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页 → 下游应用：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-09-13 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库源页**（非静默跳过）。
+- **污染延续（全轮 100%）**：检索命中 **Ikebukuro PARCO 2026 秋季最大规模调改**（kolor / Onitsuka Tiger / HYSTERIC GLAMOUR / ULTRAMAN STORE）、**Izipizi 东京首店**（眼镜品牌）、**新中关购物中心品牌清单**、**无锡杉杉奥莱 9/16 试营业**——**均为无关实体**，无本品牌信号。
+- **既有基线**：卡宾官网矩阵收录、深圳/武汉首店、80 品牌矩阵——已在库。
+- 处置：`updated` 前推至 2026-09-13。
+- **下轮优先**：建议改走**卡宾渠道侧**或商场方招商公告路径（常规品牌检索持续污染）。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 全维度核对 → 本页 → 下游应用：[[cabbeen]] · [[服装行业竞争格局]]
 
 ## 前沿
 
