@@ -337,3 +337,15 @@ Fashion Doctor/
 
 - 语义层成 agentic AI 时代定义真相源：dbt 调研 83% 团队把数据信任放首位；Semantic Lakehouse 实测智能体数据解读错误 -75%、AI 与 BI 指标一致性 4x；指标定义为代码 + CI 校验 + 列级血缘。
 - 来源：[[2026-08-15_语义层与数据契约治理2026]]
+
+## 结论
+
+多品牌数据系统的架构关键取舍是"在数据不动的前提下统一分析"：用配置层（[[brand_config]]）吸收品牌差异，用口径层吸收指标差异，用视图层吸收展示差异。三者任一被绕过，系统的可扩展性就会退化为每加一个品牌就改一次代码。
+
+## 信息链
+
+[[2026-06-14_FineDataLink_数据中台赋能服装零售2026]] · [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]] · [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]] → 本页 → [[data_governance_tech_routes_2026]] · [[ETL架构选型]] · [[data_lakehouse_2026]] · [[polars_vs_pandas_2026]] · [[brand_config]] · [[cross_brand_integration]] · [[streamlit_multitab]] · [[data_model]] · [[multi_brand_unified_analytics]] · [[duckdb_olap_engine_2026]]
+
+## 前沿
+
+1. 明确"半语义层"（FIELD_MAP 执行 vs METRIC_DEFINITIONS 文档）的收敛路径与验收标准；2. 评估语义层与 dongshang-v3 共用同一份真源的可行性（避免口径两处维护）。

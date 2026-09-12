@@ -116,3 +116,15 @@ CREATE TABLE brand_sales (...);
 - [[terminology]]
 - [[system_architecture]]
 - [[brand_config]]
+
+## 结论
+
+数据模型是[[terminology]]（术语）与[[kpi_benchmark]]（基准值）之间的落点：术语定义了什么是指标，基准值定义了指标的合格线，而数据模型定义了指标如何被算出。三者缺一，KPI 就无法端到端复现。
+
+## 信息链
+
+[[terminology]] · [[kpi_benchmark]] → 本页 → [[system_architecture]] · [[brand_config]]
+
+## 前沿
+
+暂无（本页已稳定）；建议补一张"表-字段-指标"映射清单，作为 [[system_architecture]] 语义层的输入材料。

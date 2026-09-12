@@ -633,3 +633,19 @@ P0 三样板验证了适配层思想；本轮把 L2 上市公司 7 家（dkny/to
 - **配置层升级**：`brand_config_driven_system` 的披露形态标签从 P0 三态扩展为**五态**（新增 brand_growth_language / dual_source / private_no_filing 细分），见 [[listed_brand_metrics_template_2026|上市公司统一指标模板]] 的适配表。
 - **关税一次性项内置**：亚玛芬 Q2 $50.1M 退款 / PVH 退税 ~$1.80/EPS / Deckers GM -150bp 三家同季对照——统一模板第 0 步必须是"归一到不含关税一次性项的调整后口径"，联动 [[earnings_quality_nonrecurring_2026|盈利质量穿透]]。
 - **逐家数字工作例滚动中**：hoka/levis 优先（同构 Crocs），其次 salomon/tommy；karl 走中国区分析；diesel 归快照层。每完成一家在 [[brand_level_data_analysis_gap_matrix|缺口矩阵]] 品牌级覆盖率 +1/35。
+
+## 结论
+
+1. 多品牌统一分析的**第一原则是"可比性优先于完整性"**：绝对额（销售额/门店数）跨品牌不可直比，必须降维到比率指标（售罄率/周转天数/坪效/增速）才有分析价值——这与 [[cross_brand_integration]] 的"可直接对比 vs 需谨慎对比"两栏完全对应。
+2. 本页与 [[four_brands_2025]]/[[six_brands_2026q1]] 的关系是**方法与实例**：本页给出统一分析的方法论（映射体系 + 对比维度 + 看板设计），comparisons 页是按此方法产出的结论——若结论与方法的维度定义不符，应回查方法页而非直接改结论。
+3. 真正的技术难点是**品类映射**（A 品牌有"西装"、B 品牌没有）：映射表必须集中维护且可审计，否则跨品牌品类对比会因映射漂移而失去意义。
+4. 数据隔离是硬边界：多品牌分析**必须在权限层做隔离**（单品牌管理员只见己方），不能只在 UI 层隐藏——跨品牌明细的可见范围需在查询侧注入过滤条件。
+
+## 信息链
+
+- 上游来源：[[cross_brand_integration]]（跨品牌数据整合方法论） · [[brand_config]] · [[data_model]] → 本页（[[multi_brand_unified_analytics]]）→ 下游应用：[[four_brands_2025]] · [[six_brands_2026q1]] · [[bi_dashboard_retail_deployment]] · [[system_architecture]]
+
+## 前沿
+
+1. **待补**：品类映射表（`CATEGORY_MAP`）目前是示例结构，**未落到卡宾/太平鸟的真实品类值**——需要一次实际的品类取值对齐，否则跨品牌品类对比无法真正执行。
+2. **待验证**：店铺名称标准化（全称 vs 简称）在新增品牌时的匹配失败率——[[data_model]] 约定用 `full_name` JOIN，但多品牌下命名习惯差异可能导致静默漏配。

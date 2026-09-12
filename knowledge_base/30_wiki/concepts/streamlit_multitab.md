@@ -555,3 +555,15 @@ your_project/
 - [[streamlit_dashboard_2026|Streamlit看板2026]]
 - [[streamlit_production_dashboard|Streamlit生产级看板]]
 - [[multi_brand_unified_analytics|多品牌统一分析]]
+
+## 结论
+
+Streamlit多Tab设计的核心约束是"脚本即应用"——每次交互都会重跑整个脚本，因此状态管理与计算缓存的正确性直接决定体验。多Tab的正确用法是按Tab拆分计算边界（而非仅做视觉分组），并配合 Session State 持久化筛选条件，否则切Tab即丢失上下文。
+
+## 信息链
+
+[[2026-08-06_Python看板六框架横评与生产三大失效模式]] · [[2026-08-15_Streamlit_1.59新特性与LLM集成]] → 本页 → [[streamlit_dashboard_2026]] · [[streamlit_production_dashboard]] · [[multi_brand_unified_analytics]] · [[system_architecture]] · [[brand_config]]
+
+## 前沿
+
+1. 验证多Tab下的计算重复执行开销，为高成本查询加缓存；2. 跟踪 Streamlit 1.59 新特性对现有看板的可简化点。

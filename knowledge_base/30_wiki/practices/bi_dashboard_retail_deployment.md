@@ -201,3 +201,19 @@ curl -sSL https://github.com/dataease/dataease/releases/latest/download/quick_st
 
 - [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
 - [[retail_bi_three_tier_dashboard]]
+
+## 结论
+
+1. 零售 BI 看板的成败**不在可视化美感，而在数据契约**：指标口径不统一时，看板越漂亮越容易制造"两个销售额"式的争论——这与 [[cross_brand_integration]] 的"ETL/ELT 归属边界"是同一问题的两面。
+2. 部署路线的优先级应是**先固化口径、再上工具**：工具（帆软/PowerBI/Streamlit）可替换，口径一旦分裂就要全库返工，成本量级完全不同。
+3. 卡宾的现状决定了务实路径：现有多品牌 SQLite + Streamlit 架构已能支撑看板，**迁移成本应只花在真正瓶颈处**（数据量或并发），而非追求"更专业的 BI 产品"。
+4. 与 [[multi_brand_unified_analytics]] 的分工：本页管"怎么把看板跑起来"，后者管"多品牌数据怎么统一"，两者构成部署与架构的两层。
+
+## 信息链
+
+- 上游来源：[[multi_brand_unified_analytics]] · [[data_model]] · [[streamlit_production_dashboard]]（BI 部署实践汇总） → 本页（[[bi_dashboard_retail_deployment]]）→ 下游应用：[[streamlit_production_dashboard]] · [[system_architecture]] · [[data_quality_retail_practice]]
+
+## 前沿
+
+1. **待补**：本页缺少与卡宾实际部署形态（SQLite + Streamlit）的对照小节，部署清单尚未落到本项目的具体组件版本与启动方式。
+2. **待验证**：看板上线后的**采纳率指标**（谁在看、看什么频率）未定义——缺少采纳率，看板有效性无法判断，容易沦为"做了但没人用"。

@@ -175,3 +175,15 @@ ORDER BY date;
 
 - 主动元数据(Active Metadata)成 2026 标准：检测 PII→即时脱敏(双向同步)；Autodesk 扩到 60 业务域、Kingfisher 自助排查 小时→分钟、Datanauta 推「信任分」98%；多品牌系统应叠加自动编目/打 owner/跨品牌血缘。
 - 来源：[[2026-08-15_主动元数据与多品牌数据目录2026]]
+
+## 结论
+
+跨品牌整合的难点不是技术连接，而是"口径统一"——同一指标在不同品牌库里可能对应不同字段、不同统计周期。若不先建口径层就直接做联合查询，产出的对比数字必然不可比。因此本页的定位是[[system_architecture]]的前置议题，也是[[multi_brand_unified_analytics]]能否成立的前提。
+
+## 信息链
+
+[[data_governance_tech_routes_2026]] · [[2026-08-15_主动元数据与多品牌数据目录2026]] → 本页 → [[system_architecture]] · [[brand_config]] · [[multi_brand_unified_analytics]] · [[data_lakehouse_2026]] · [[retail_bi_visualization_2026]] · [[competitor_overview]]
+
+## 前沿
+
+暂无（本页已稳定）；口径统一进度应以"指标契约"覆盖率为量化验收标准，待 [[system_architecture]] 语义层方案定稿后回填。

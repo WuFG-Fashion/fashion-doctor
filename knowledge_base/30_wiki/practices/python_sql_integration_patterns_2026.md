@@ -175,3 +175,19 @@ con.execute("SET memory_limit = '8GB'")
 - [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] — 来源原文
 
 - [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
+
+## 结论
+
+1. 三模式分层（pandasql 原型 → SQLAlchemy 生产 ETL → 管道分层自动化）的本质是**按生命周期选工具**：原型期求快、生产期求稳、自动化期求可维护，用错阶段是常见返工源。
+2. 本页最硬的一条红线：**pandasql 不得进生产**——它在大数据量下显著慢于原生，这是"能跑通"与"能上线"的分界，也是分析脚本转为服务时最容易踩的坑。
+3. 对本项目的直接含义：卡宾现有 SQLite 分析若将来走向自动化更新，应从当前的直接 SQL 逐步收敛到 **SQLAlchemy + 显式会话管理**，以获得连接复用与参数化（顺带消除 SQL 注入面）。
+4. 与 [[零售数据仓库SQL实践]] 的分工：本页管"Python 与 SQL 怎么衔接"，后者管"SQL 本身怎么写快"，两者组合才构成完整的分析工程栈。
+
+## 信息链
+
+- 上游来源：[[python_sql_integration_patterns_2026]]（aimojo 2026-06-12） · [[SQL查询性能优化]] → 本页（[[python_sql_integration_patterns_2026]]）→ 下游应用：[[零售数据仓库SQL实践]] · [[multi_brand_unified_analytics]] · [[streamlit_production_dashboard]]
+
+## 前沿
+
+1. **待补**：本页缺少**卡宾现有脚本的现状盘点**——哪些脚本未参数化（f-string 拼 SQL）、哪些可直接迁移，缺这张清单就无法排迁移优先级。
+2. **待验证**：SQLAlchemy 引入后在 SQLite 上的**实际性能损耗**（ORM 开销 vs 原生 `sqlite3`），决定是全面迁移还是仅在新模块采用。

@@ -158,3 +158,15 @@ def reload_configs():
 - [[system_architecture]]
 - [[cross_brand_integration]]
 - [[competitor_overview]]
+
+## 结论
+
+brand_config 是"配置驱动"思路在数据系统里的具体化：把品牌差异（库路径、字段映射、口径阈值）收敛为一份可切换的配置，而不是散落在各查询里的 if-else。它的真正价值是让新增一个品牌从"改代码"变成"加配置"——这是多品牌系统能否规模化的分水岭。
+
+## 信息链
+
+[[system_architecture]] · [[cross_brand_integration]] → 本页 → [[competitor_overview]]
+
+## 前沿
+
+暂无（本页已稳定）；与 dongshang-v3 的 FIELD_MAP 真源对齐情况需单独核验（见 [[system_architecture]] 前沿）。

@@ -433,3 +433,19 @@ CMD ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0
 
 - [[retail_bi_three_tier_dashboard]]
 - [[streamlit_multitab]]
+
+## 结论
+
+1. Streamlit 从原型走向生产的**分水岭是缓存策略**：`@st.cache_data` 用错粒度会导致数据不刷新或重复重算，正确做法是把"取数"与"渲染"分离，只缓存取数层。
+2. 多品牌场景的扩展点在并发：v1.58 起 `@st.fragment(parallel=True)` 支持多品牌 Tab 独立并发刷新（见 [[system_architecture]]），这是多品牌看板响应速度的关键升级项。
+3. 生产化真正要解决的问题是**数据不重的信任问题**：看板必须能回答"这个数是从哪来的、什么时点的"，因此每个指标需附带口径与 `as_of` 标注，而不只是展示数值。
+4. 架构演进方向明确：Starlette 正式化（v1.57）后 ASGI 中间件可用，意味着**认证与限流可以在框架层实现**，不必再靠外部反向代理——这是本项目从"内网看板"走向"多用户服务"的可行路径。
+
+## 信息链
+
+- 上游来源：[[system_architecture]] · [[streamlit_multitab]] · [[bi_dashboard_retail_deployment]] → 本页（[[streamlit_production_dashboard]]）→ 下游应用：[[multi_brand_unified_analytics]] · [[brand_config_driven_system]] · [[data_library_selection_guide_2026]]
+
+## 前沿
+
+1. **待补**：本页缺少与**卡宾现网 Streamlit 应用**的差距清单（当前用了哪些缓存、哪些页面未拆分 fragment），无法直接排优化顺序。
+2. **待验证**：多品牌 Tab 并行刷新在 SQLite 上的实际收益——SQLite 为单写多读，并发读是否构成瓶颈需实测确认。

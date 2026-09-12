@@ -321,3 +321,15 @@ CREATE INDEX IF NOT EXISTS idx_arrival_shop ON arrival(shop_name);
 
 - 2026 向量化执行+自适应查询成 OLAP 标配：DuckDB 1.5.4 比 PostgreSQL 18.4 在 TPC-H 1TB 平均快 7.4x（Q1 扫描 8.2 vs 1.1 GB/s，3+表 JOIN 5.2x）；`pg_duckdb` 1.0 让 PG 内部路由分析查询到 DuckDB；混合架构( PG OLTP + DuckDB OLAP )实测 138k 写/秒 + 7.8 GB/s 零争用。
 - 来源：[[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+
+## 结论
+
+SQL性能优化的收益排序是"先改结构、再改写法"：加索引与减少全表扫描带来的提升通常远大于重写 WHERE 顺序。在零售分析场景中，最有效的三条是——把高频过滤字段（sale_date/shop_name/style_color）建索引、把多次全表扫描合并为一次聚合、把复杂逻辑下推到 DuckDB 等 OLAP 引擎而非在 Python 侧循环处理。
+
+## 信息链
+
+[[SQL查询性能优化]] · [[2026-06-14_Scopir_Python数据分析库2026全景对比]] · [[2026-06-15_aimojo_Python_Pandas_SQL集成指南]] → 本页 → [[polars_vs_pandas_2026]] · [[ETL架构选型]] · [[python_sql_integration_patterns_2026]] · [[data_quality]] · [[brand_config]] · [[system_architecture]] · [[python_dev_stack_2026]] · [[python_data_stack_decision_2026]] · [[duckdb_olap_engine_2026]]
+
+## 前沿
+
+暂无（本页已稳定）；建议补一组本库真实查询的改前/改后耗时实测，替代通用建议。

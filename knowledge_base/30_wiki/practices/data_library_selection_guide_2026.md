@@ -201,3 +201,19 @@ model = RandomForestClassifier().fit(X, labels)
 | 全国门店IoT数据 | 100GB+ | DuckDB+Polars | 流式spilling不OOM |
 
 > **关键经验**：Apache Arrow零拷贝是关键——`.pl()`和`.to_pandas()`全程不复制数据。Polars `collect(streaming=True)` 处理TB级数据不OOM。
+
+## 结论
+
+1. 选型的核心不是"哪个库更强"，而是**数据量边界决定技术栈**：<100 万行 Pandas 足够、5-100GB 转 Polars+DuckDB、>100GB 才需要 Spark——按边界选型可避免"用大炮打蚊子"的过度工程。
+2. 卡宾当前数据量（万级行）**落在 Pandas 舒适区内**，因此选型的正确动作是"不迁移"，只在新分析脚本中试点 Polars 以积累经验——迁移的触发条件应明确写为"数据量跨过百万行门槛"。
+3. DuckDB 是本项目最被低估的选项：**零依赖、单文件、SQL 原生**，与 SQLite 同形态但为分析场景优化，可在不改变现有架构的前提下替换分析侧引擎。
+4. 决策纪律：选型文档必须写明**触发迁移的量化条件**，否则"以后再换"会永远停留在讨论层。
+
+## 信息链
+
+- 上游来源：[[SQL查询性能优化]] · [[python_sql_integration_patterns_2026]] · [[polars_vs_pandas_2026]] → 本页（[[data_library_selection_guide_2026]]）→ 下游应用：[[multi_brand_unified_analytics]] · [[streamlit_production_dashboard]] · [[data_model]]
+
+## 前沿
+
+1. **待补**：本页缺少卡宾真实数据量下的 **Pandas vs Polars vs DuckDB 三方实测**（同一查询的耗时与内存），目前结论建立在通用基准上。
+2. **待验证**：DuckDB 直接读取现有 SQLite 文件的兼容性边界（是否支持现有库的全部表结构与索引），决定它能否作为"零改造成本"的加速选项。
