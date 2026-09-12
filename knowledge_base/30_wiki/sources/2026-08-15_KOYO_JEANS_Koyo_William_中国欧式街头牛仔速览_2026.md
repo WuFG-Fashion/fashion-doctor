@@ -32,6 +32,18 @@ status: active
 - http://www.huobaoweishang.com/pinpai/99729.html
 - https://m.liepin.com/company/8686632
 
+## 结论
+
+KOYO JEANS 的差异化在于"华人设计师 + 欧洲时尚丹宁"的稀缺组合：2002 年香港设计师 Koyo William 创立，以 'Destroy & Reborn' 的哥特摇滚美学与施华洛世奇钉珠著称，架构为"法国设计中心+香港行政中心+大陆生产物流"三位一体。渠道上确立了一线商场密集策略（入驻国内一线商场 50+ 家，含香港海港城、广州太古汇、成都/长沙 IFS），并有 G-Dragon、CL 等明星背书。
+
+## 信息链
+
+上游来源 2026-08-15_KOYO_JEANS_Koyo_William_中国欧式街头牛仔速览_2026 → 本页（KOYO JEANS 品牌与中国渠道） → 下游应用 [[koyo]] 实体页 / [[2026-08-16_S3_blackbox_channel_signals]] 渠道信号补全 / [[服装行业竞争格局]] 时尚丹宁
+
 ## 关联页面
 - [[koyo]] — 实体页
 - [[服装行业竞争格局]] — 行业格局
+
+## 前沿
+
+待验证：50+ 一线商场获多源 corroborate 但确切店数仍为黑箱，且广州高龙贸易 2024 年"重新注册"是否意味着主体变更或重组，需进一步核实。

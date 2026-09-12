@@ -81,6 +81,14 @@ MetricFlow 四种指标类型：Simple（聚合单 measure）/ Ratio（一 measu
 - [[data_governance_tech_routes_2026]] 的语义层能力（如腾讯云 WeData Unity Semantics）是产品化路径。
 - 给本项目的 ChatBI/对话式分析入口（已在 [[multi_brand_unified_analytics]] 第三阶段规划）提供"受治理指标目录"底座，Agent 经 MCP 只读已批准指标。
 
+## 结论
+
+2026 年语义层已成为 AI 时代的数据基础设施——核心价值是把"已定义好的指标"而非裸 SQL 暴露给 BI 与 AI Agent，从根上解决多团队对同一指标定义不一、报表口径漂移的问题。主流实现各有适配（dbt Semantic Layer 适合 Git 原生团队、Cube 适合 API 优先、仓内原生方案适合单栈），并有成本案例佐证（Bilt Rewards 集中实体关系后分析成本下降约 80%）。判断是否需要上语义层的三个警号是：同时用多个分析工具、持续有人抱怨数据难拿、部门报表数字对不上。
+
+## 信息链
+
+上游来源 2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景 → 本页（语义层方案全景与落地阶段） → 下游应用 [[semantic_layer_metrics_2026]] 指标定义 / [[multi_brand_unified_analytics]] 多品牌统一 / [[retail_analytics_reporting_2026]] 报表口径 / [[data_governance_tech_routes_2026]] 选型
+
 ## 关联页面
 
 - [[semantic_layer_metrics_2026]] — 本源编译出的概念页
@@ -92,3 +100,7 @@ MetricFlow 四种指标类型：Simple（聚合单 measure）/ Ratio（一 measu
 
 - [ ] 本项目是否应把售罄率/周转天数做成 dbt MetricFlow 度量定义待评估
 - [ ] OSI 标准与现有指标字典（业务术语库）的映射未做
+
+## 前沿
+
+待验证：本项目"多品牌售罄率/毛利率口径不一"已符合该上语义层的警号，但技术栈无 dbt 链路——建议先做单指标（售罄率）的契约化 PoC，验证收益后再决定是否引入完整语义层方案。

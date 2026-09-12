@@ -56,6 +56,14 @@ User → Nginx(SSL/Auth) → {负载均衡·会话亲和} → Streamlit 实例1 
 - 多品牌切换栏/全局筛选可借 [[streamlit_dashboard_2026]] 的 `st.bottom` + streamlit-elements 做可拖拽大屏。
 - 与 [[multi_brand_unified_analytics]] 的"四层架构"生产呈现层一致：Docker 化部署是跨品牌统一看板的落地底座。
 
+## 结论
+
+Streamlit 的生产部署已形成清晰的成本-控制力权衡矩阵：Community Cloud 免费但有 1GB 内存上限、12h 休眠、无自定义域名，不适合 pandas 重负载；livemy.app（$10/月扁平）与 Railway/Render（$5-7/月起）适合轻量多服务；Docker on VPS（$5-20/月）控制力最强但需自维护。生产推荐拓扑是 Nginx（SSL/Auth）→ Docker（Streamlit 多实例 + 会话亲和）→ 内部 DB/LLM API，认证用 OAuth2.0/SAML RBAC、监控用 Prometheus/Grafana。
+
+## 信息链
+
+上游来源 2026-08-12_Streamlit_企业级架构与生产部署路线 → 本页（Streamlit 生产部署矩阵与架构拓扑） → 下游应用 [[streamlit_production_dashboard]] 生产实践 / [[streamlit_dashboard_2026]] 看板建设 / [[multi_brand_unified_analytics]] 部署底座
+
 ## 关联页面
 
 - [[streamlit_dashboard_2026]] — Streamlit 2026 版本与最佳实践总览
@@ -66,3 +74,7 @@ User → Nginx(SSL/Auth) → {负载均衡·会话亲和} → Streamlit 实例1 
 
 - [ ] 本项目是否需引入 streamlit-elements 做可拖拽大屏待评估
 - [ ] K8s 多实例下的 session_state 一致性方案待设计
+
+## 前沿
+
+待验证：社区云 1GB 上限对多品牌看板是否必然触顶（取决于数据量级与缓存策略）——建议先测自家看板峰值内存占用，再决定是否值得为 Docker+VPS 增加运维成本。

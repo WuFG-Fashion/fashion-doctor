@@ -33,6 +33,18 @@ status: active
 - https://wwd.com/business-news/financial/otb-diesel-maison-margies-growth-1238610597
 - https://au.fashionunited.com/news/business/maison-margiela-drives-growth-for-otb-group-amidst-overall-revenue-decrease/2026021719854
 
+## 结论
+
+Diesel 是 OTB 集团营收最大品牌且在 2025 实现近十年最佳盈利，但集团整体承压（2025 营收 17 亿欧元、-4.8% 恒定汇率，EBITDA 率 15.1%、净利仅 1010 万欧元）——单品牌强势与集团盈利能力薄并存。中国是其重要基本盘：大中华区 113 家直营店，2025 恰逢入华 20 周年并设新总部，2026-01 更换 CEO 预示策略调整。
+
+## 信息链
+
+上游来源 2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026 → 本页（Diesel 与 OTB 集团财务、中国渠道） → 下游应用 [[diesel]] 实体页 / [[服装行业竞争格局]] 高端牛仔赛道
+
 ## 关联页面
 - [[diesel]] — 实体页
 - [[服装行业竞争格局]] — 行业格局
+
+## 前沿
+
+待验证：集团 2025 净利仅 1010 万欧元而 Diesel "近十年最佳盈利"，反映其他品牌拖累——待 OTB 披露分品牌数据，方能判断 Diesel 的实际利润贡献与 2026 新任 CEO 的策略方向。

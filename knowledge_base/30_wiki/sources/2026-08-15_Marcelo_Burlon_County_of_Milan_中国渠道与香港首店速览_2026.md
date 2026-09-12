@@ -32,6 +32,18 @@ status: active
 - https://hypebeast.com/tw/2017/9/marcelo-burlon-county-of-milan-open-in-hong-kong
 - https://shopsinhk.com/marcelo-burlon-clothing-store-in-hong-kong.html
 
+## 结论
+
+Marcelo Burlon 走的是"多品牌买手店铺货"而非独立门店扩张的中国路径：全球首家专门店（2017 香港海港城）已于 2022 关闭，大陆主要通过 D-mop 等买手店在广州/东莞铺货。这种模式让它以极低成本维持中国存在感，但也意味着品牌无法沉淀直营数据与独立形象，属于'符号型存在'而非'渠道型品牌'。
+
+## 信息链
+
+上游来源 2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026 → 本页（Marcelo Burlon 中国渠道模式） → 下游应用 [[marcelo_burlon]] 实体页 / [[服装行业竞争格局]] 潮流时装屋
+
 ## 关联页面
 - [[marcelo_burlon]] — 实体页
 - [[服装行业竞争格局]] — 行业格局
+
+## 前沿
+
+待验证：香港专门店 2022 关闭后是否在中国大陆有独立门店计划尚不明确——建议后续采集时确认其中国策略是持续买手店模式还是重启直营。

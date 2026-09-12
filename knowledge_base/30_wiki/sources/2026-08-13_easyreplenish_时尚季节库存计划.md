@@ -44,6 +44,14 @@ status: active
 
 季节采购量 = 预测需求 + 安全库存 − 现有库存。
 
+## 结论
+
+时尚季节库存计划需要六个指标协同，而非单看售罄率：STR（核心季款健康 65-85%）、WOC（须贴合剩余季长，超出即将成 overstock）、OTB（销售+markdown+期末-期初）、周转（时尚电商约 10-12x/年）、GMROI（毛利÷平均库存成本）、缺货率。其中最关键的判断规则是——STR 高但薄利慢转仍可能 GMROI 弱，说明售罄率不能单独作为健康度结论。
+
+## 信息链
+
+上游来源 2026-08-13_easyreplenish_时尚季节库存计划 → 本页（时尚季节库存六指标与 OTB 纪律） → 下游应用 [[apparel_inventory_benchmark_2026]] 服装基准 / [[动态OTB管理]] OTB 纪律 / [[库存多维分析框架]] 六步分析 / [[kb_benchmarks.json]] 阈值
+
 ## 关联页面
 
 - [[动态OTB管理]]
@@ -52,3 +60,7 @@ status: active
 ## 待办 / 待验证
 
 - STR 65–85% 与 kb `lifecycle_sell_through.end_season_target=0.80`、`season_end_sell_through.excellent=0.70` 一致（0.80 落在区间内）。
+
+## 前沿
+
+待验证：STR 65-85% 与 WOC 基准为美国时尚零售口径，与国内服装季节节奏（春夏/秋冬两季为主）是否匹配未验证——建议用自家品牌历史 STR 分布回测该区间。
