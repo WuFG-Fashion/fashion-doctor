@@ -37,7 +37,19 @@ status: active
 | `server.maxWidgetStateSize` | 25 MB | 单次 rerun widget state payload 上限 |
 | query string 上限 | 512 KiB / 1000 字段 | 防无界资源分配 |
 
+## 结论
+
+本页把 Streamlit v1.60（2026-07-21）定位为一次以安全加固为主线的版本，对多品牌敏感看板的生产部署有直接价值：修复了子 iframe / 注入脚本伪造 origin 的问题（CWE-346），query string 上限收紧至 512KiB / 1000 字段，widget state 上限 25MB，并新增全局数据导出禁用开关 `client.disableDataExport`（默认 false，开启后同时隐藏 CSV 导出与禁用只读表剪贴板复制）。其中 `disableDataExport` 是唯一一个「默认不安全、需主动开启」的配置——在品牌结构/口径属商业机密的前提下，这一开关应作为内部看板的必设项，而非可选项。
+
+## 信息链
+
+上游来源 [[2026-07-28_Streamlit_v1.60_安全加固]] → 本页（v1.60 安全边界修复 + 数据导出禁用开关） → 下游应用 [[streamlit_dashboard_2026]]、[[streamlit_multitab]]、[[data_quality_governance]]
+
 ## 关联页面
 - [[streamlit_dashboard_2026]] — Streamlit 2026 生产级最佳实践（v1.59 起 ButtonColumn/Mermaid/App.run 等）
 - [[streamlit_production_dashboard]] — Streamlit 生产级多品牌看板构建实操
 - [[multi_brand_unified_analytics]] — 多品牌统一数据分析架构（分析呈现层）
+
+## 前沿
+
+待核实：本项目 8503 服务的 Streamlit 版本与 `client.disableDataExport` 当前设置值——若为默认 false，则任一访客可将看板数据导出为 CSV，需评估是否属必须收紧的暴露面。

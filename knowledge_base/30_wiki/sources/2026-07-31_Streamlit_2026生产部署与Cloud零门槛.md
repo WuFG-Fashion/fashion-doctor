@@ -46,8 +46,20 @@ status: active
 - 对外分享：Streamlit Cloud 零门槛，4 分钟上线销售看板。
 - 性能：耗时 IO 必 `@st.cache_data`；Plotly 用 `mode='lines'` 或 `render_mode="webgl"` 防卡死。
 
+## 结论
+
+本页把 Streamlit 的生产部署整理为三条互不替代的路线，判断依据不是技术优劣而是运维归属：Snowflake Container Runtime（2026-03-09 GA，无休眠、支持 GPU 与长时服务）适合已在 Snowflake 生态内的重度用户；Streamlit Cloud 以「免邀请、4 分 17 秒全球上线」换取零运维，适合对外快速分享；Docker + Nginx（327MB 镜像、3 秒启动）则是内部生产看板的正解，因为敏感看板的认证必须外挂（Auth0 / Cloudflare Access）而非依赖平台自带。其真正的工程要点在性能侧——耗时 IO 必加 `@st.cache_data`，Plotly 须用 `mode='lines'` 或 `render_mode="webgl"`，否则全脚本重跑模型下会直接卡死。
+
+## 信息链
+
+上游来源 [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]] → 本页（Streamlit 三条部署路线 + 缓存与渲染性能护栏） → 下游应用 [[streamlit_dashboard_2026]]、[[streamlit_multitab]]、[[python_dashboard_ecosystem_2026]]
+
 ## 关联页面
 
 - [[streamlit_dashboard_2026]] — 概念页：v1.53→v1.60 特性 + 生产故障修复
 - [[streamlit_production_dashboard]] — 实操页：多品牌看板构建 + v1.60 安全加固
 - [[multi_brand_unified_analytics]] — 实操页：多品牌四层统一架构
+
+## 前沿
+
+待验证：本项目多品牌看板当前是否已对外暴露、有无认证外挂——若走 Docker + Nginx 路线，需确认反向代理层是否已接入认证，避免经营数据裸奔（品牌结构/口径属商业机密）。

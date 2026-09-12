@@ -49,6 +49,14 @@ status: active
 5. 执行每周复盘（SKU级售罄率/在库率/WOS）
 6. 提前规划折扣策略（季初定义售罄率触发阈值、折扣深度、执行渠道）
 
+## 结论
+
+本页给出一套可直接落库的 DTC 库存六项健康基准：售罄率（期内已售/已收货）季末 80%+、WOS（库存可支撑周数）多数品类 6–8 周、库存周转 DTC 服装 4–6 次/年、在库率（可售 SKU 占比）在售货盘 95%+、折扣率（打折销售额占比）健康毛利品牌 <20%、OTB 按销售预测编制。配套六步实操流程：审计 SKU 表现 → 精简货盘释放 OTB → 按品类建立需求预测 → 按周期设定 OTB 目标 → 每周复盘 SKU 级售罄率/在库率/WOS → 季初即预定义折扣触发阈值。其中第六步的纪律性最强——折扣策略必须在季初定义好触发阈值与执行渠道，而非等到季末被动清货。
+
+## 信息链
+
+上游来源 [[2026-08-05_GreenRetail_DTC全渠道库存优化六项健康基准]] → 本页（DTC 库存六项基准 + 六步流程） → 下游应用 [[动态OTB管理]]、[[apparel_inventory_benchmark_2026]]、[[sku_fine_management]]
+
 ## 关联页面
 
 - [[动态OTB管理]] — 六步流程第4步"设定OTB目标"与本知识库OTB体系直接对应
@@ -59,3 +67,7 @@ status: active
 
 - 基准源自欧美DTC/omnichannel品牌，服装零售可参照；季末售罄率80%+ 与 kb_benchmarks `lifecycle_sell_through.end_season_target=0.8` 一致 ✓。
 - "20-30% SKU贡献70-80%利润"为利润口径，与 kb `sku_abc.a_class_sales_contribution=0.65`（销售贡献）口径不同，不冲突。
+
+## 前沿
+
+建议对照：本页六项基准与 `kb_benchmarks.json` 现有 lifecycle/sell-through 分组的阈值需做一次逐项比对，标注口径差异（如季末售罄率 80%+ vs 既有 end_season_target=0.8 是否同源）。

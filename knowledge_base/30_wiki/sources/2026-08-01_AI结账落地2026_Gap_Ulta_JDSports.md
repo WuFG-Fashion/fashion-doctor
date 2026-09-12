@@ -39,9 +39,21 @@ status: active
 | OpenAI | 关闭 Instant Checkout | — |
 | Google UCP | 20+ 零售伙伴 | 通用商务协议 |
 
+## 结论
+
+本页记录 2026 上半年 Agentic Commerce 从对话式导购升级为对话内结账的落地进展：Gap 与 Ulta Beauty 经 Google Gemini + UCP（通用商务协议）实现 in-chat checkout；JD Sports 经 Stripe Agentic Commerce Suite + commercetools 实现实时库存与安全结账。同时 OpenAI 关闭了 Instant Checkout，Google UCP 已联合 20+ 零售伙伴。其判断价值在于——Agentic Commerce 已从演示概念变为真实销售通道，且竞争格局出现分化：Google 走开放协议 + 多方结盟路线，OpenAI 收缩自建结账能力。对品牌的含义是，未来需要把 AI 代理能否完成购买作为商品数据与库存接口的设计前提。
+
+## 信息链
+
+上游来源 [[2026-08-01_AI结账落地2026_Gap_Ulta_JDSports]] → 本页（Agentic Commerce 落地进展与协议分化） → 下游应用 [[ai_fashion_consumer_2026]]、[[retail_ai_adoption_2026]]
+
 ## 关联页面
 - [[agentic_commerce_fashion_2026]] — Agentic Commerce 新范式（UCP/ACP/ACT 协议基建）
 - [[apparel_ai_agents_2026]] — 服装垂直AI智能体（三大商业协议章节）
 
 ## 待办 / 待验证
 - Gap/Ulta/JD Sports 对话内结账的实际 GMV 转化占比待后续披露
+
+## 前沿
+
+待跟踪：UCP 协议的采纳范围与中国市场的兼容性尚未明确，国内品牌的可迁移性需单独评估。
