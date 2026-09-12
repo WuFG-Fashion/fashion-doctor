@@ -40,9 +40,21 @@ status: active
 | 4 | FusionInsight | 自主可控 | 政企本地化/混合云 |
 | 5 | TezData | 大数据原生 | 超大规模分析/实时处理 |
 
+## 结论
+
+这份对比的核心判断很清晰：2026年ETL选型的第一问题不是「能不能跑」而是「是否开放中立」——因为锁定成本在数据积累后才会显现。四家定位差异明确：Kettle开源免费但无CDC、分布式弱，适合传统中小数仓；DataWorks全链路但强锁定阿里云且成本随规模线性上涨；ETLCloud国产中立、流批一体、支持私有化/混合云/K8s多模式；FineDataLink低代码+国产生态+实时数仓。需要留意排名表来源为FineDataLink自家四维评估，把FineDataLink排第一属自评，选型时应以「开放度」这一维度作为第一权重，因为它直接决定未来更换供应商的成本。
+
+## 信息链
+
+上游来源：[[2026-07-12_Juejin_2026年ETL工具全场景对比_Kettle_DataWorks_ETLCloud_FineDataLink]]（Juejin + FineDataLink 2026，第三方数据/含厂商自评）→ 本页 → 下游应用：[[ETL架构选型]]（ETL架构三大趋势与选型框架） | [[multi_brand_unified_analytics]]（多品牌统一数据分析架构） | [[data_lakehouse_2026]]（湖仓一体与数据中台） | [[etl_governance_convergence_2026]]（ETL治理一体化） | [[brand_config_driven_system]]（品牌配置驱动多品牌系统）
+
 ## 关联页面
 - [[ETL架构选型]] — ETL架构三大趋势与选型框架
 - [[multi_brand_unified_analytics]] — 多品牌统一数据分析架构
 - [[data_lakehouse_2026]] — 湖仓一体与数据中台
 - [[etl_governance_convergence_2026]] — ETL治理一体化
 - [[brand_config_driven_system]] — 品牌配置驱动多品牌系统
+
+## 前沿
+
+排名表出自FineDataLink自家评估，存在自评偏倚；下一步建议补充第三方（如信通院或独立测评）的ETL工具横评，或直接按「开放度/实时能力/部署灵活/AI集成/国产化」五维自行打分。

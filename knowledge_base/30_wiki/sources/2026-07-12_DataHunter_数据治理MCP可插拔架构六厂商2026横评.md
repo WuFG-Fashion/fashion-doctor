@@ -41,9 +41,21 @@ status: active
 | 用友 | BIP | 中 | 央国企/制造 | 多Agent+ERP源头治理 |
 | 金蝶 | 云·苍穹 | 中 | 制造/零售 | 业务嵌入式+低代码 |
 
+## 结论
+
+这份横评抓住了2026年数据治理最重要的技术变量：MCP标准协议使治理能力可以「不替换、不迁移、不重构」地被接入，这对已有数百万到数千万元中台/数仓投入的企业（文中称72%）是唯一现实的AI化路径。IDC的两项预测（2027年85%治理项目采用可插拔模块化、2028年60%中国500强部署Data Agent）给出了时间表。六厂商格局可归纳为三类：数猎天下（全开放MCP+AI原生）vs 华为/阿里/腾讯（云生态绑定，开放度中到中高）vs 用友/金蝶（ERP生态绑定）——选型的双核心「智能化深度（效率上限）+平台开放度（避免锁定）」准确概括了取舍。需注意本文出自DataHunter，其自评开放度「极高」应打折看待。
+
+## 信息链
+
+上游来源：[[2026-07-12_DataHunter_数据治理MCP可插拔架构六厂商2026横评]]（DataHunter 2026-06-12，媒体估算/含厂商自评）→ 本页 → 下游应用：[[data_governance_tech_routes_2026]]（数据治理技术路线全景，需更新MCP趋势） | [[data_lakehouse_2026]]（湖仓一体与数据中台） | [[etl_governance_convergence_2026]]（ETL治理一体化） | [[data_quality_governance]]（数据质量常态化治理） | [[data_asset_management_2026]]（数据资产管理全景）
+
 ## 关联页面
 - [[data_governance_tech_routes_2026]] — 数据治理技术路线全景（需更新MCP趋势）
 - [[data_lakehouse_2026]] — 湖仓一体与数据中台
 - [[etl_governance_convergence_2026]] — ETL治理一体化
 - [[data_quality_governance]] — 数据质量常态化治理
 - [[data_asset_management_2026]] — 数据资产管理全景
+
+## 前沿
+
+厂商开放度评分为自评口径，需第三方验证；另可跟踪MCP协议在企业级数据治理中的实际采纳情况（是否有非DataHunter客户案例），以判断「可插拔」是趋势还是厂商叙事。

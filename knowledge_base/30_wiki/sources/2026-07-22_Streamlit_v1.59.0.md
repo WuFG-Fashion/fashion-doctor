@@ -43,8 +43,20 @@ status: active
 | chat_input 粘贴 | 导购 AI 助手直接贴销售截图 |
 | App.run() | 一键部署到生产环境 |
 
+## 结论
+
+本页记录的是Streamlit从「快速原型工具」向「生产级应用框架」推进的一步：ButtonColumn让表格内可执行行级操作（如库存表每行直接触发调拨、会员表每行直接发起触达），st.skeleton提供标准加载骨架屏，st.mermaid_chart原生支持流程图与时序图，App.run()支持免CLI启动。其中ButtonColumn与st.fragment跨容器更新对「看板即操作台」这一形态最有价值——它把只读报表变成了可交互的工作面。
+
+## 信息链
+
+上游来源：[[2026-07-22_Streamlit_v1.59.0]]（Streamlit 官方 Changelog） → 本页 → 下游应用：[[streamlit_dashboard_2026]]、[[streamlit_production_dashboard]]、[[python_dashboard_ecosystem_2026]]、[[2026-06-08_Streamlit_v147特性解析]]
+
 ## 关联页面
 
 [[streamlit_dashboard_2026]] — 生产级最佳实践
 [[streamlit_production_dashboard]] — 多品牌看板实操
 [[python_dashboard_ecosystem_2026]] — 看板生态对比
+
+## 前沿
+
+版本号为1.59.0且发布日期标注2026.7.6，属快速迭代期的功能堆叠，建议在升级前确认ButtonColumn与st.fragment在既有代码中的兼容性（fragment的rerun范围变化可能影响既有交互逻辑）。Mermaid渲染依赖前端资源加载，在内网环境下可能失败。App.run()虽省去CLI，但生产部署仍推荐显式进程管理，官方文档未将两者定位等同。

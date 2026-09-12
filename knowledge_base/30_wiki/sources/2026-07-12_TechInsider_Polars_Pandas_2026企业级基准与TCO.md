@@ -40,6 +40,14 @@ status: active
 | TPC-H Q5(SF=10) | 2.8s | 48s | **17x** |
 | 周下载量 | 280万 | 1850万 | 15%份额 |
 
+## 结论
+
+这份基准相比纯性能测试多了两个企业级维度：TCO（AWS上1TB join Polars $3.40 vs Pandas $18.60）与人才市场（Polars职位年增+450%、数据工程师薪资溢价$14-19K），把引擎选型从「跑得快」扩展到了「总拥有成本与人力可得性」。其引述的首个同行评审DataFrame能效研究（Polars每次操作省电3-5x）也提供了能耗视角。但页面自标的数据矛盾值得重视：GitHub Stars本文称32,000而概念页引用称80,000+（差异超2x），月下载量推算约1,120万与概念页「500万+」也不一致——这类元数据分歧说明引用时应避免把它当作权威口径，优先使用官方GitHub仓库数据。
+
+## 信息链
+
+上游来源：[[2026-07-12_TechInsider_Polars_Pandas_2026企业级基准与TCO]]（TechInsider 2026-04，第三方数据）→ 本页 → 下游应用：[[polars_vs_pandas_2026]]（三引擎选型指南，需更新企业案例与能效数据） | [[python_data_stack_decision_2026]]（数据栈决策框架） | [[arrow_zero_copy_interop_2026]]（Arrow零拷贝互操作） | [[duckdb_olap_engine_2026]]（DuckDB嵌入式OLAP） | [[data_library_selection_guide_2026]]（数据分析库选型指南）
+
 ## 关联页面
 - [[polars_vs_pandas_2026]] — 三引擎选型指南（需更新企业案例+能效数据）
 - [[python_data_stack_decision_2026]] — Python数据栈决策框架
@@ -48,3 +56,7 @@ status: active
 - [[data_library_selection_guide_2026]] — 数据分析库选型指南
 
 > ⚠️ **数据矛盾**：Polars GitHub Stars — 本文（TechInsider 2026-04）报告32,000星，而 [[polars_vs_pandas_2026]] 引用 chenxutan（2026-06-27）称80,000+星，差异超过2x。需核实Polars官方GitHub仓库确认准确数字。类似地，月下载量本文推算约1,120万（周280万×4），而概念页记载"500万+"，可能为旧数据。
+
+## 前沿
+
+GitHub Stars（32,000 vs 80,000+）与月下载量（1,120万 vs 500万+）两处与概念页存在矛盾，需核实Polars官方GitHub仓库；已列入跨页矛盾待核清单。

@@ -62,6 +62,14 @@ result = orders.with_columns(
 ).filter(pl.col("revenue_rank") <= 3)
 ```
 
+## 结论
+
+这份实战对比最有价值的贡献是「停止对立」这个结论：基于数百GB到2TB Parquet管道的实测，DuckDB与Polars的差距只有约33%（45s vs 60s），远非营销宣传的10x，且胜负取决于操作类型——CSV读取与Join是Polars胜，窗口函数是DuckDB胜，Group-by持平。真正决定生产成败的变量不是引擎选择而是「分区」：分区数据使DuckDB峰值内存降8x、Polars降4x。共存模式（DuckDB SQL扫描聚合→.pl()零拷贝转Polars→Polars表达式做排名变换）给出了既取SQL易读性又取表达式灵活性的工程答案。对多品牌数据管道而言，结论是「先做分区，再谈引擎」。
+
+## 信息链
+
+上游来源：[[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]]（Danilchenko/codecentric 实测，第三方数据）→ 本页 → 下游应用：[[polars_vs_pandas_2026]]（引擎选型基准） | [[duckdb_olap_engine_2026]]（DuckDB嵌入式OLAP） | [[arrow_zero_copy_interop_2026]]（Arrow零拷贝互操作） | [[multi_brand_unified_analytics]]（多品牌统一数据分析架构） | [[data_library_selection_guide_2026]]（数据分析库选型决策指南）
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026]] — Python 数据处理引擎选型基准
@@ -69,3 +77,7 @@ result = orders.with_columns(
 - [[arrow_zero_copy_interop_2026]] — Apache Arrow 零拷贝互操作
 - [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
 - [[data_library_selection_guide_2026|数据分析库选型决策指南2026]]
+
+## 前沿
+
+「分区比引擎重要」是本次最有价值的发现，值得进一步量化——建议在真实多品牌零售数据集上测试分区前后峰值内存与耗时，把8x/4x的收益落到自家场景。

@@ -53,6 +53,14 @@ status: active
 
 DuckDB Labs 的 db-benchmark 在 0.5/5/50GB 三档追踪 group-by 与 join 性能（Polars / Pandas / DuckDB 等）。
 
+## 结论
+
+本页提供了比常规benchmark更可信的证据——240M行真实点击流（非合成数据）下Polars的joins/group-bys约10倍、Parquet读取约5倍于Pandas，且Pandas 3.0的改进（PyArrow字符串默认、CoW默认、pd.col()表达式API）并未改变引擎级差距。作者的结论是从两条生产管道的实际经验得出「双轨制」：Polars做批量变换、Pandas守最后一公里（sklearn/matplotlib）。
+
+## 信息链
+
+上游来源：[[2026-07-25_Danilchenko_Polars_vs_Pandas_2026刷新基准]]（Danilchenko.dev） → 本页 → 下游应用：[[polars_vs_pandas_2026]]、[[python_data_stack_decision_2026]]、[[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]]
+
 ## 关联页面
 
 - [[polars_vs_pandas_2026|Polars vs Pandas 2026 选型指南]] — 详细性能对比、三引擎协同与零售场景适配
@@ -60,3 +68,7 @@ DuckDB Labs 的 db-benchmark 在 0.5/5/50GB 三档追踪 group-by 与 join 性�
 ## 待办 / 待验证
 
 - [ ] Polars 1.43 与 Pandas 3.0 同机再测（确认 10x/5x 在新版本下稳定）
+
+## 前沿
+
+基准使用的版本组合为Polars 1.18 vs Pandas 2.2，作者声明差距在1.43/3.0下不变但未给出同版本实测数据，「结论在新版本下稳定」属推断而非实测。硬件为M2 Pro 16核32GB（Apple Silicon），与x86服务器环境的加速比可能有差异。作者自己的生产选型是双轨制，这是个人经验而非行业统计。

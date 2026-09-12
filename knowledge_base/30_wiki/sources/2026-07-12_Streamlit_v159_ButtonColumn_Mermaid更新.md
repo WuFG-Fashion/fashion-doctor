@@ -42,8 +42,20 @@ status: active
 | v1.54.0 | 02-04 | widget绑定query params、动态option配置 |
 | v1.53.0 | 01-14 | Markdown指标/slider、sidebar宽度配置 |
 
+## 结论
+
+Streamlit v1.59.0（2026-07-06）的三项新增（ButtonColumn表格行内按钮、Mermaid图表原生渲染、chat_input文件粘贴）对多品牌看板有直接价值：ButtonColumn让「表格即操作界面」成为可能（如库存预警表直接挂补货按钮），Mermaid原生渲染省去额外组件依赖。更重要的是架构层面的变化：v1.57将底层从Tornado正式切换到Starlette/ASGI，使Streamlit可挂载到FastAPI（与现有后端共存）；v1.58引入并行Fragment（parallel=True）支持后台类工作流。这三点叠加意味着Streamlit已从「快速原型工具」进入「可与生产后端集成的看板层」阶段。
+
+## 信息链
+
+上游来源：[[2026-07-12_Streamlit_v159_ButtonColumn_Mermaid更新]]（Streamlit官方Changelog，第三方数据）→ 本页 → 下游应用：[[streamlit_dashboard_2026]]（Streamlit看板概念页，需更新至v1.59） | [[streamlit_production_dashboard]]（生产级多品牌看板实践） | [[python_dashboard_ecosystem_2026]]（Python看板生态概览） | [[multi_brand_unified_analytics]]（多品牌统一分析架构）
+
 ## 关联页面
 - [[streamlit_dashboard_2026]] — Streamlit看板概念页（需更新至v1.59）
 - [[streamlit_production_dashboard]] — 生产级多品牌看板实践
 - [[python_dashboard_ecosystem_2026]] — Python看板生态概览
 - [[multi_brand_unified_analytics]] — 多品牌统一分析架构
+
+## 前沿
+
+ASGI化后与FastAPI的集成方式值得实测验证（挂载路径、session状态共享、并发模型差异）；另需确认ButtonColumn在数据量大时的渲染性能。
