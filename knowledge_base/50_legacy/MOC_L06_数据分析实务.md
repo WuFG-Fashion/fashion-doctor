@@ -5,6 +5,8 @@ tags: [moc, L2_06, data, analytics]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # 📈 L2_06 — 数据分析实务

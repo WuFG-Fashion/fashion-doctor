@@ -5,6 +5,8 @@ tags: [moc, L2_00, ai, llm]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # 🤖 L2_00 — AI 前沿信息

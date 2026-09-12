@@ -5,6 +5,8 @@ tags: [moc, L2_07, system, multi-brand]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # 🏗️ L2_07 — 多品牌数据分析系统构建

@@ -5,6 +5,8 @@ tags: [moc, L2_01, retail, theory]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # 📊 L2_01 — 零售基础理论

@@ -5,6 +5,8 @@ tags: [moc, L2_05, merchandise, planning]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # 📦 L2_05 — 商品企划

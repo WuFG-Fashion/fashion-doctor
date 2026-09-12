@@ -5,6 +5,8 @@ tags: [moc, L2_04, sales, staff]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[Home]]
+status: retired
+retrieval: never
 ---
 
 # ⭐ L2_04 — 导购能力评估
