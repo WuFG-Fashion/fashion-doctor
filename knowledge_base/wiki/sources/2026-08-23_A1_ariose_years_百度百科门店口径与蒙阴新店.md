@@ -2,7 +2,7 @@
 type: source
 title: 艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）
 tags: [ariose_years, womenswear, store, price_band, hangzhou]
-sources: [wiki/raw/articles/2026-08-23_ariose_years_百度百科门店口径与蒙阴新店.md]
+sources: [wiki/10_web/articles/2026-08-23_ariose_years_百度百科门店口径与蒙阴新店.md]
 aliases: ["艾诺丝雅诗", "ARIOSE YEARS", "艾诺丝", "门店口径与蒙阴新店（A1", "艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）"]
 confidence: 品牌自宣
 brand_specific: true
@@ -19,7 +19,7 @@ status: active
 # 艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）
 
 > **一句话摘要**：艾诺丝雅诗门店数多源口径差异（1200+/1800/2800+），主数 1800 家（2026-03 官方/直营口径）保持稳定；蒙阴旗舰店 3-8 开业 corroborate 渠道下沉。
-> **来源**：wiki/raw/articles/2026-08-23_ariose_years_百度百科门店口径与蒙阴新店.md
+> **来源**：wiki/10_web/articles/2026-08-23_ariose_years_百度百科门店口径与蒙阴新店.md
 > **最后更新**：2026-08-23
 
 > **置信度**：媒体估算（爱企查/百度百科/中服网招商页，非官方审计）

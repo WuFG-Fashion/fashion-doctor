@@ -2,7 +2,7 @@
 type: source
 title: ADLV acme de la vie 中国门店与品牌速览 2026
 tags: [adlv, competitor, streetwear, korean_wave, womenswear, 2026, competitor_update]
-sources: [wiki/raw/articles/2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md]
+sources: [wiki/10_web/articles/2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md]
 aliases: ["ADLV", "爱德蒙", "acme", "de", "ADLV acme de la vie 中国门店与品牌速览 2026"]
 confidence: 品牌自宣
 brand_specific: true
@@ -16,7 +16,9 @@ volatility: fast
 as_of: 2026-08-15
 expires_at: 2026-11-13
 status: active
----# 2026-08-15 ADLV acme de la vie 中国门店与品牌速览 2026
+---
+
+# 2026-08-15 ADLV acme de la vie 中国门店与品牌速览 2026
 
 > **一句话摘要**：韩国潮流品牌，由双胞胎兄弟 2017 年创立，以'大脸宝宝'系列 T 恤蹿红，主打无性别可爱街头。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[adlv]]。
 

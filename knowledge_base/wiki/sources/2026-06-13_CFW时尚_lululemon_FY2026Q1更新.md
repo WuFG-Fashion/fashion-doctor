@@ -2,7 +2,7 @@
 type: source
 title: lululemon FY2026Q1 业绩更新（6月确认）
 tags: [lululemon, competitor, financial, athleisure, q1]
-sources: [wiki/raw/articles/2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md]
+sources: [wiki/10_web/articles/2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md]
 aliases: ["lululemon", "FY2026Q1", "业绩更新（6月确认）", "lululemon FY2026Q1 业绩更新（6月确认）"]
 confidence: 财报
 brand_specific: false
@@ -21,7 +21,7 @@ status: active
 > **一句话摘要**：lululemon FY2026Q1增收不增利：营收25亿(+4%)/毛利率54.2%(-410bp)/中国+30%唯一增量/北美连续5季同店下降/四大困境确认低增长调整期。
 
 > **来源**：CFW时尚 (2026-06-10)，原始出处 lululemon 6月4日财报
-> **原始资料**：wiki/raw/articles/2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md
+> **原始资料**：wiki/10_web/articles/2026-06-13_CFW时尚_lululemon_FY2026Q1更新.md
 
 ## 核心要点
 

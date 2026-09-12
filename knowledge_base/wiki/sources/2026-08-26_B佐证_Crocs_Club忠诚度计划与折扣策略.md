@@ -3,7 +3,7 @@ type: source
 title: 2026-08-26 B佐证 Crocs Club 忠诚度计划与折扣策略
 aliases: ["Crocs Club", "卡骆驰忠诚度", "Croctober"]
 tags: [crocs, loyalty, membership, discount, brand_specific]
-sources: [raw/articles/2026-08-26_时尚忠诚度计划国际标杆2026.md]
+sources: [10_web/articles/2026-08-26_时尚忠诚度计划国际标杆2026.md]
 created: 2026-08-26
 updated: 2026-08-26
 cross_refs: [[crocs]], [[会员与VIP运营体系2026]], [[2026-08-26_时尚忠诚度计划国际标杆2026]]

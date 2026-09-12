@@ -3,7 +3,7 @@ type: source
 title: 2026数据分析技术栈盘点与Polars_DuckDB性能基准
 aliases: [数据分析技术栈2026, 五引擎基准2026, Johal 2026 基准, Pandas 3.0 vs Polars 2.1 vs DuckDB 1.2]
 tags: [data_analysis, sql, polars, duckdb, pandas, benchmark, tech_stack, python]
-sources: [raw/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md]
+sources: [10_web/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md]
 created: 2026-08-26
 updated: 2026-08-26
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[data_library_selection_guide_2026]]
@@ -19,7 +19,7 @@ status: active
 # 2026 数据分析技术栈盘点与 Polars/DuckDB 性能基准
 
 > **一句话摘要**：2026 年 Python 数据分析引擎的最新基准与选型逻辑——Pandas 3.0.1 / Polars 2.1.0 / DuckDB 1.2.3 / Spark 4.0.2 / DataFusion 0.12.1 五引擎同测，以及"数据规模决定工具选型"的价值链决策框架。
-> **来源**：raw/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md
+> **来源**：10_web/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md
 > **最后更新**：2026-08-26
 > **置信度**：第三方数据
 > **brand_specific**：false（行业通用技术方法论，双链到 concept 不链品牌）
@@ -62,7 +62,7 @@ DuckDB 调优三件套：`SET threads=8`（并行）、Zstd 解压加速（压�
 
 ## 信息链
 
-上游来源：raw/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md（Johal/帆软/Kanaries 原始采集） → 本页（[[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准|source]]） → 下游应用 [[polars_vs_pandas_2026]] / [[python_data_stack_decision_2026]] / [[duckdb_olap_engine_2026]] / [[data_library_selection_guide_2026|数据分析库选型决策指南]] / [[SQL查询性能优化]] / [[retail_data_workflow_2026]]
+上游来源：10_web/articles/2026-08-26_数据分析技术栈2026与Polars_DuckDB基准.md（Johal/帆软/Kanaries 原始采集） → 本页（[[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准|source]]） → 下游应用 [[polars_vs_pandas_2026]] / [[python_data_stack_decision_2026]] / [[duckdb_olap_engine_2026]] / [[data_library_selection_guide_2026|数据分析库选型决策指南]] / [[SQL查询性能优化]] / [[retail_data_workflow_2026]]
 
 ## 关联页面
 

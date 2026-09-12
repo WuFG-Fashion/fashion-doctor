@@ -2,7 +2,7 @@
 type: source
 title: Salomon门店人才梯队与VIP私域运营
 tags: [guide, retail, salomon, 培训, VIP, 户外]
-sources: [wiki/raw/articles/2026-08-17_salomon_门店人才梯队与VIP私域运营.md]
+sources: [wiki/10_web/articles/2026-08-17_salomon_门店人才梯队与VIP私域运营.md]
 aliases: ["Salomon", "萨洛蒙", "Salomon门店人才梯队与VIP私域运营"]
 confidence: 品牌自宣
 brand_specific: true

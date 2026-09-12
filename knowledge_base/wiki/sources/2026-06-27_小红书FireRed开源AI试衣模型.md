@@ -20,7 +20,7 @@ status: active
 
 > **一句话摘要**：小红书Super Intelligence团队开源FireRed-Image-Edit模型（v1.0→v1.1史诗级更新），支持虚拟试穿，4.5秒推理/10+元素融合/消费级显卡运行，但消费者信任危机（AI试穿仅4%选择率）成为最大挑战。
 > **来源**：小多AI电商洞察 · 2026-06-27
-> **原始资料**：wiki/raw/articles/2026-06-27_小红书FireRed开源AI试衣模型.md
+> **原始资料**：wiki/10_web/articles/2026-06-27_小红书FireRed开源AI试衣模型.md
 
 ## 核心要点
 

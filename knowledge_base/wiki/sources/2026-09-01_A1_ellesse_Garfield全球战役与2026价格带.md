@@ -3,7 +3,7 @@ type: source
 title: ellesse Andrew Garfield 全球战役与 2026 价格带
 aliases: [ellesse战役, Do It Like An Italian, ellesse价格带]
 tags: [ellesse, sportswear, campaign, price_band, marketing]
-sources: [raw/articles/2026-09-01_ellesse_Garfield全球战役与2026价格带.md]
+sources: [10_web/articles/2026-09-01_ellesse_Garfield全球战役与2026价格带.md]
 created: 2026-09-01
 updated: 2026-09-01
 cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]]

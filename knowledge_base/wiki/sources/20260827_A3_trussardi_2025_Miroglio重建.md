@@ -3,7 +3,7 @@ type: source
 title: 20260827_A3_trussardi_2025_Miroglio重建
 aliases: ["20260827_A3_trussardi_2025_Miroglio重建"]
 tags: [trussardi, a3_round, competitor_scan, 2026]
-sources: [wiki/raw/articles/20260827_A3_trussardi_2025_Miroglio重建.md]
+sources: [wiki/10_web/articles/20260827_A3_trussardi_2025_Miroglio重建.md]
 created: 2026-08-27
 updated: 2026-08-27
 cross_refs: [[trussardi], [服装行业竞争格局]]
@@ -19,7 +19,7 @@ status: active
 # Trussardi 楚萨迪 2025 重建期全维度动态
 
 > **一句话摘要**：被 Miroglio 收购后，Trussardi 2025 营收 €29M(+70%)但仍亏损(EBITDA -€1M)，11 家店并计划 2026 再开 10 家，同时退出俄罗斯市场，处"重建投入期"。
-> **来源**：[[wiki/raw/articles/20260827_A3_trussardi_2025_Miroglio重建]] · FashionNetwork、搜狐、htt.hk
+> **来源**：[[wiki/10_web/articles/20260827_A3_trussardi_2025_Miroglio重建]] · FashionNetwork、搜狐、htt.hk
 > **最后更新**：2026-08-27
 
 > **置信度**：媒体估算（私营品牌，数据来自行业媒体对 Miroglio CEO 采访与财报转述，未经审计）
@@ -46,7 +46,7 @@ status: active
 2. 退出俄罗斯+加码中东/东欧，显示欧洲小众奢侈在地缘重塑下的渠道再平衡，对国内品牌出海区域选择有参照。
 
 ## 信息链
-- 上游来源：[[wiki/raw/articles/20260827_A3_trussardi_2025_Miroglio重建]] → 本页（[[20260827_A3_trussardi_2025_Miroglio重建]]）→ 下游应用：[[trussardi]] · [[服装行业竞争格局]]
+- 上游来源：[[wiki/10_web/articles/20260827_A3_trussardi_2025_Miroglio重建]] → 本页（[[20260827_A3_trussardi_2025_Miroglio重建]]）→ 下游应用：[[trussardi]] · [[服装行业竞争格局]]
 - 对标实体：[[trussardi]]、[[mr_mrs]]、[[peacebird]]
 
 ## 关联页面

@@ -19,7 +19,7 @@ status: active
 # DuckDB vs Polars 2026基准对比
 
 > **一句话摘要**：PyInns 2026年3月实测 DuckDB 1.2+ vs Polars 1.x，覆盖1亿-10亿行数据集，提供SQL vs表达式API双视角选型指南。
-> **来源**：wiki/raw/articles/2026-06-24_PyInns_DuckDB vs Polars 2026基准对比.md
+> **来源**：wiki/10_web/articles/2026-06-24_PyInns_DuckDB vs Polars 2026基准对比.md
 > **最后更新**：2026-06-24
 
 ## 核心要点

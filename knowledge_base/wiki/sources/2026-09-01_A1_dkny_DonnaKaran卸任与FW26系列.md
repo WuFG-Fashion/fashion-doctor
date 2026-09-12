@@ -3,7 +3,7 @@ type: source
 title: DKNY Donna Karan 卸任创意总监与 FW26 系列
 aliases: [DonnaKaran卸任, Black Cherry City, 黑樱桃都会]
 tags: [dkny, donna_karan, womenswear, creative_director, runway]
-sources: [raw/articles/2026-09-01_dkny_DonnaKaran卸任与FW26系列.md]
+sources: [10_web/articles/2026-09-01_dkny_DonnaKaran卸任与FW26系列.md]
 created: 2026-09-01
 updated: 2026-09-01
 cross_refs: [[dkny]], [[karl_lagerfeld]], [[服装行业竞争格局]]

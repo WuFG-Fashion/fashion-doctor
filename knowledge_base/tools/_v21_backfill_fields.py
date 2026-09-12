@@ -79,13 +79,13 @@ def brand_in_name(name):
     return None
 
 
-def plan_for(relpath, fname, fm_lines):
+def plan_for(relpath, fname, fm_lines, fullpath=None):
     """Return dict of fields to add (already resolved values)."""
     as_of = parse_date(fname)  # sources 文件名日期 = 采集日 ≈ 信息观察时点，优先
     if as_of is None and fm_lines is not None:
         as_of = parse_date(fm_get(fm_lines, "updated")) or parse_date(fm_get(fm_lines, "created"))
     if as_of is None:
-        as_of = date.fromtimestamp(os.path.getmtime(os.path.join(WIKI, relpath)))
+        as_of = date.fromtimestamp(os.path.getmtime(fullpath or os.path.join(WIKI, relpath)))
     d = as_of
 
     if relpath.startswith("entities/"):
@@ -109,7 +109,7 @@ def plan_for(relpath, fname, fm_lines):
     if relpath.startswith("practices/") or relpath.startswith("playbooks/"):
         return {"layer": "T1", "scope": "public", "volatility": "evergreen",
                 "as_of": str(d), "review_due_at": str(d + timedelta(days=180)), "status": "active"}
-    if relpath.startswith("raw/articles/"):
+    if relpath.startswith("10_web/articles/"):
         b = brand_in_name(fname)
         return {"type": "raw", "layer": "T3", "scope": "brand" if b else "public",
                 "volatility": "fast", "as_of": str(d),
@@ -118,13 +118,14 @@ def plan_for(relpath, fname, fm_lines):
 
 
 def main():
-    targets = ["entities", "concepts", "sources", "comparisons", "practices", "playbooks",
-               "raw/articles"]
+    targets = ["entities", "concepts", "sources", "comparisons", "practices", "playbooks"]
+    extra_kb_dirs = ["10_web/articles"]  # KB-rooted (not under wiki/)
     stats = {}
     changed_files = 0
     skipped = 0
-    for t in targets:
-        root = os.path.join(WIKI, t)
+    walk_units = [(os.path.join(WIKI, t), WIKI, t) for t in targets]
+    walk_units += [(os.path.join(KB, t), KB, t) for t in extra_kb_dirs]
+    for root, rel_base, t in walk_units:
         if not os.path.isdir(root):
             continue
         for dirpath, _dirs, files in os.walk(root):
@@ -132,11 +133,11 @@ def main():
                 if not fn.endswith(".md"):
                     continue
                 full = os.path.join(dirpath, fn)
-                rel = os.path.relpath(full, WIKI).replace("\\", "/")
+                rel = os.path.relpath(full, rel_base).replace("\\", "/")
                 with io.open(full, encoding="utf-8") as f:
                     text = f.read()
                 fm_lines, body, had_fm = split_frontmatter(text)
-                plan = plan_for(rel + ("" if had_fm else ""), fn, fm_lines) if had_fm else plan_for(rel, fn, None)
+                plan = plan_for(rel, fn, fm_lines, full) if had_fm else plan_for(rel, fn, None, full)
                 if plan is None:
                     continue
                 if had_fm:
@@ -145,7 +146,7 @@ def main():
                         skipped += 1
                         continue
                     new_fm = list(fm_lines) + ["%s: %s" % (k, v) for k, v in adds]
-                    new_text = "---\n" + "\n".join(new_fm) + "\n---" + body
+                    new_text = "---\n" + "\n".join(new_fm) + "\n---\n" + body
                 else:
                     adds = list(plan.items())
                     new_text = "---\n" + "\n".join("%s: %s" % kv for kv in adds) + "\n---\n\n" + text
@@ -160,15 +161,15 @@ def main():
              "- 日期：2026-09-12", "- 模式：批量回填（只增不改，幂等）",
              "- 改动文件数：%d；已合规跳过：%d" % (changed_files, skipped), "",
              "| 目录 | 文件数 | 补字段数 |", "|---|---|---|"]
-    for t in targets:
+    for t in list(targets) + extra_kb_dirs:
         if t in stats:
             lines.append("| %s | %d | %d |" % (t, stats[t]["files"], stats[t]["fields"]))
     lines += ["", "## 口径", "",
               "- entities T2/brand/slow+180d; concepts T1/public/evergreen+180d 复核",
               "- sources T2，scope 取 brand_specific；confidence=财报 → slow+180d，其余 fast+90d",
               "- comparisons T1/public/slow+180d 复核（沿 S 轮约定）; practices/playbooks T1/public/evergreen+180d 复核",
-              "- raw/articles T3，文件名命中 focus_brands → brand 否则 public，fast+90d",
-              "- as_of 取 updated→created→文件名日期→mtime；全部 status: active（不判过期，由 TTL 引擎后续校准）"]
+              "- 10_web/articles T3，文件名命中 focus_brands → brand 否则 public，fast+90d",
+              "- as_of 取 文件名日期→updated→created→mtime；全部 status: active（不判过期，由 TTL 引擎后续校准）"]
     with io.open(REPORT, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines) + "\n")
     print(json.dumps({"changed": changed_files, "skipped": skipped, "stats": stats}, ensure_ascii=False, indent=1))

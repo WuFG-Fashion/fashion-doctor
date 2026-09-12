@@ -3,7 +3,7 @@ type: source
 title: 20260827_A3_speedo_Page印度与全球
 aliases: ["20260827_A3_speedo_Page印度与全球"]
 tags: [speedo, a3_round, competitor_scan, 2026]
-sources: [wiki/raw/articles/20260827_A3_speedo_Page印度与全球.md]
+sources: [wiki/10_web/articles/20260827_A3_speedo_Page印度与全球.md]
 created: 2026-08-27
 updated: 2026-08-27
 cross_refs: [[speedo], [服装行业竞争格局]]
@@ -19,7 +19,7 @@ status: active
 # Speedo 速比涛 全球与印度市场全维度动态
 
 > **一句话摘要**：Speedo 印度(Page Industries 授权)覆盖 1096+ 门店、FY25 EBITDA margin 19-21%；全球 177 国，美国电商 GMV $22M(2025)，并推 Eco Fastskin 可持续线。
-> **来源**：[[wiki/raw/articles/20260827_A3_speedo_Page印度与全球]] · Page Industries 年报、ECDB、Pentland
+> **来源**：[[wiki/10_web/articles/20260827_A3_speedo_Page印度与全球]] · Page Industries 年报、ECDB、Pentland
 > **最后更新**：2026-08-27
 
 > **置信度**：第三方数据（Page Industries 为上市公司年报；全球电商为第三方 ECDB 估算）
@@ -44,7 +44,7 @@ status: active
 2. 可持续材料(Eco Fastskin)是其在运动服饰 ESG 叙事上的差异化，对国内品牌轻运动线有产品参照。
 
 ## 信息链
-- 上游来源：[[wiki/raw/articles/20260827_A3_speedo_Page印度与全球]] → 本页（[[20260827_A3_speedo_Page印度与全球]]）→ 下游应用：[[speedo]] · [[服装行业竞争格局]]
+- 上游来源：[[wiki/10_web/articles/20260827_A3_speedo_Page印度与全球]] → 本页（[[20260827_A3_speedo_Page印度与全球]]）→ 下游应用：[[speedo]] · [[服装行业竞争格局]]
 - 对标实体：[[speedo]]、[[peacebird]]、[[cabbeen]]
 
 ## 关联页面

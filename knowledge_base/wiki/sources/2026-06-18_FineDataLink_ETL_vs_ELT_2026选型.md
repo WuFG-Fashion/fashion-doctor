@@ -2,7 +2,7 @@
 type: source
 title: 2026 ETL vs ELT 选型与FineDataLink双模式最佳实践
 tags: [etl, data_warehouse, multi_brand, fine_datalink, architecture]
-sources: [wiki/raw/articles/2026-06-18_FineDataLink_ETL_vs_ELT_2026选型.md]
+sources: [wiki/10_web/articles/2026-06-18_FineDataLink_ETL_vs_ELT_2026选型.md]
 aliases: ["2026", "ETL", "vs", "ELT", "2026 ETL vs ELT 选型与FineDataLink双模式最佳实践"]
 confidence: 第三方数据
 brand_specific: false
@@ -20,7 +20,7 @@ status: active
 
 > **一句话摘要**：2026年ETL vs ELT选型已从"二选一"转向"场景驱动动态组合"，FineDataLink支持双模式灵活切换，零售企业实测处理时间从4小时降至30分钟（提速8倍）。
 
-> **来源**：wiki/raw/articles/2026-06-18_FineDataLink_ETL_vs_ELT_2026选型.md
+> **来源**：wiki/10_web/articles/2026-06-18_FineDataLink_ETL_vs_ELT_2026选型.md
 > **最后更新**：2026-06-18
 
 ## 核心要点

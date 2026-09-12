@@ -3,7 +3,7 @@ type: source
 title: 迪卡轩价格带与加盟模式口径
 aliases: [dekashell价格带, 迪卡轩加盟, DEKASHELL价格]
 tags: [dekashell, womenswear, price_band, franchise, china_brand]
-sources: [raw/articles/2026-09-01_dekashell_价格带与加盟模式口径.md]
+sources: [10_web/articles/2026-09-01_dekashell_价格带与加盟模式口径.md]
 created: 2026-09-01
 updated: 2026-09-01
 cross_refs: [[dekashell]], [[服装价格带管理与价格真空区]], [[ariose_years]]

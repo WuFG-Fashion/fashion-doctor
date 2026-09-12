@@ -30,7 +30,7 @@ status: active
 
 ## 原始文件
 
-`knowledge_base/wiki/wiki/raw/articles/2026-06-05_Megaview_AI陪练赋能零售导购成长.md`
+`knowledge_base/wiki/wiki/10_web/articles/2026-06-05_Megaview_AI陪练赋能零售导购成长.md`
 
 ## 关联知识
 

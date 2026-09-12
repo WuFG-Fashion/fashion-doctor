@@ -2,7 +2,7 @@
 type: source
 title: 艾诺丝·雅诗会员私域运营佐证
 tags: [ariose_years, vip, membership, private_domain, 女装, L2_03]
-sources: [wiki/raw/articles/2026-08-30_ariose_years_会员私域运营.md]
+sources: [wiki/10_web/articles/2026-08-30_ariose_years_会员私域运营.md]
 aliases: ["艾诺丝会员", "ARIOSE YEARS会员", "艾诺丝私域", "艾诺丝雅诗复购"]
 confidence: 媒体估算
 brand_specific: true
@@ -18,7 +18,7 @@ status: active
 ---
 > **一句话摘要**：艾诺丝（杭州爱唯）定位 25-40 岁都市女性、年销约 10 亿、超百万会员、单店月销破百万，被视为"EP 雅莹平替"；门店数 1700+（口径存异）。
 > **置信度**：媒体估算（门店数/年销售含"约/估"，1700 vs 2890 口径待核）
-> **来源**：wiki/raw/articles/2026-08-30_ariose_years_会员私域运营.md（WebSearch 聚合）
+> **来源**：wiki/10_web/articles/2026-08-30_ariose_years_会员私域运营.md（WebSearch 聚合）
 
 ## 核心要点
 - 品牌定位：25-40 岁都市女性、商旅美学、"EP 雅莹平替"（置信度：媒体估算）。
@@ -39,7 +39,7 @@ status: active
 - 门店数 1700 vs 2890 口径差异提示：A轮实体页须统一"门店"定义（直营/加盟/全渠道）后再纳入 kb_benchmarks。
 
 ## 信息链
-上游来源 [[wiki/raw/articles/2026-08-30_ariose_years_会员私域运营.md]] → 本页（source：艾诺丝会员私域运营）→ 下游应用 [[ariose_years]] / [[会员与VIP运营体系2026]]
+上游来源 [[wiki/10_web/articles/2026-08-30_ariose_years_会员私域运营.md]] → 本页（source：艾诺丝会员私域运营）→ 下游应用 [[ariose_years]] / [[会员与VIP运营体系2026]]
 
 ## 关联页面
 - [[ariose_years]]

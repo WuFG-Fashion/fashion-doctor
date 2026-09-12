@@ -2,7 +2,7 @@
 type: source
 title: 导购AI对练改写经验复制
 tags: [guide, training, ai, megaview, source]
-sources: [wiki/raw/articles/2026-08-09_Megaview_导购AI对练改写经验复制.md]
+sources: [wiki/10_web/articles/2026-08-09_Megaview_导购AI对练改写经验复制.md]
 aliases: ["导购AI对练改写经验复制"]
 confidence: 第三方数据
 brand_specific: false

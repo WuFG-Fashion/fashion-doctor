@@ -20,7 +20,7 @@ status: active
 
 > **一句话摘要**：Kanaries 2026年发布的Polars vs Pandas性能基准——Polars在1000万行数据集上比Pandas快5-11倍，内存节省87%，数据>100万行时应优先选Polars。
 
-> **原始文件**：`wiki/raw/articles/2026-06-06_Kanaries_Polars_vs_Pandas_2026.md`
+> **原始文件**：`wiki/10_web/articles/2026-06-06_Kanaries_Polars_vs_Pandas_2026.md`
 
 ## 核心要点
 

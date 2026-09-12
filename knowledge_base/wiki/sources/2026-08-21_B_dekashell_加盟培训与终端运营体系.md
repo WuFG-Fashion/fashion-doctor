@@ -2,7 +2,7 @@
 type: source
 title: 迪卡轩加盟培训与终端运营体系佐证
 tags: [dekashell, franchise, training, store_operation, 加盟运营]
-sources: [wiki/raw/articles/2026-08-21_B_dekashell_加盟培训与终端运营体系.md]
+sources: [wiki/10_web/articles/2026-08-21_B_dekashell_加盟培训与终端运营体系.md]
 aliases: ["迪卡轩", "DEKASHELL", "迪卡轩加盟培训与终端运营体系佐证"]
 confidence: 品牌自宣
 brand_specific: true
@@ -19,7 +19,7 @@ status: active
 # 迪卡轩加盟培训与终端运营体系佐证
 
 > **一句话摘要**：迪卡轩（DEKASHELL）以"佰加商学院 + 督导部 + 终端万里行"构建加盟培训体系，加盟培训 10 天+带店指导，统一运营手册管控陈列/促销/仪容——是加盟型女装"总部赋能终端"的实证样本。
-> **来源**：wiki/raw/articles/2026-08-21_B_dekashell_加盟培训与终端运营体系.md
+> **来源**：wiki/10_web/articles/2026-08-21_B_dekashell_加盟培训与终端运营体系.md
 > **最后更新**：2026-08-21
 > **置信度**：品牌自宣（加盟招商平台口径，非审计数据）
 

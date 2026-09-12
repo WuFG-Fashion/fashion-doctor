@@ -2,7 +2,7 @@
 type: source
 title: Marcelo Burlon County of Milan 中国渠道与香港首店速览 2026
 tags: [marcelo_burlon, competitor, designer, luxury, italy, argentina, 2026, competitor_update]
-sources: [wiki/raw/articles/2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md]
+sources: [wiki/10_web/articles/2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店速览_2026.md]
 aliases: ["Marcelo Burlon", "Marcelo", "Burlon", "County", "Marcelo Burlon County of Milan 中国渠道与香港首店速览 2026"]
 confidence: 品牌自宣
 brand_specific: true

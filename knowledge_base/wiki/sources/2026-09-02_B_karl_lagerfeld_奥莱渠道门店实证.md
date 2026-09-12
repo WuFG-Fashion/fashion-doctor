@@ -2,7 +2,7 @@
 type: source
 title: Karl Lagerfeld 奥莱渠道门店实证（B轮·2026-09-02）
 tags: [karl_lagerfeld, 奥莱, 渠道, 轻奢, L2_04, 品牌实证, B轮]
-sources: [wiki/raw/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md]
+sources: [wiki/10_web/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md]
 aliases: ["KL奥莱渠道", "卡尔拉格斐奥莱", "KarlLagerfeld奥莱实证"]
 confidence: 财报
 brand_specific: true
@@ -19,7 +19,7 @@ status: active
 # Karl Lagerfeld 奥莱渠道门店实证（B轮·2026-09-02）
 
 > **一句话摘要**：KL 依托七匹狼体系"深耕华东华南 + 加速奥莱渠道拓展"，雄安奥莱、砂之船西安奥莱门店落地——奥莱从去库存渠道升级为轻奢品牌下沉的增长抓手，正价店与奥莱店需分层运营。
-> **来源**：wiki/raw/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md（七匹狼 2026H1 中报 + 商业地产媒体）
+> **来源**：wiki/10_web/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md（七匹狼 2026H1 中报 + 商业地产媒体）
 > **置信度**：财报（七匹狼中报 KL 段策略）/ 媒体估算（奥莱门店盘点）
 > **brand_specific**：true（KL 品牌特有，双链至 [[karl_lagerfeld]]）
 
@@ -42,7 +42,7 @@ status: active
 - 直播间运营优化提示：轻奢线上渠道的转化效率与线下同步改善，渠道结构调整（奥莱/直播）是店效与人效提升的抓手。
 
 ## 信息链
-上游来源 [[wiki/raw/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md]] → 本页（source）→ 下游应用 [[karl_lagerfeld]] / [[库存清仓策略]] / [[导购培训闭环体系]]
+上游来源 [[wiki/10_web/articles/2026-09-02_B_karl_lagerfeld_奥莱渠道门店实证.md]] → 本页（source）→ 下游应用 [[karl_lagerfeld]] / [[库存清仓策略]] / [[导购培训闭环体系]]
 
 ## 关联页面
 - [[karl_lagerfeld]]
