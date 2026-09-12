@@ -1,113 +1,41 @@
 # Fashion Doctor 知识库 - 项目记忆
 
-## Git 仓库信息
+## 仓库
+- GitHub: WuFG-Fashion/fashion-doctor（SSH git@github.com:WuFG-Fashion/fashion-doctor.git），本地 D:\Fashion Doctor\fashion-doctor，分支 main，git 身份 WorkBuddy <wb@local>。
 
-- **GitHub 仓库**: https://github.com/WuFG-Fashion/fashion-doctor
-- **SSH 地址**: git@github.com:WuFG-Fashion/fashion-doctor.git
-- **本地路径**: D:\Fashion Doctor\fashion-doctor
-- **分支**: main
-- **创建日期**: 2026-06-06
+## frontmatter 字段口径 ⚠️ 长期约定（2026-09-12）
+- 标签由 AI 推断填写；确定不了→一律填「未知」，老板自行修正。
+- layer：entities/sources=T2 其余=T1；scope：brand/public/company/personal；volatility：方法论=evergreen、门店/组织=slow、季度财报/行情=fast、事件/联名=perishable；as_of=文件名日期优先、未知=未知；expires_at：fast=as_of+90天、slow=+180天、evergreen 不填；confidence：财报/官方公告/第三方数据/品牌自宣/媒体估算、分不清=未知。
+- 详规 `specs/存量补齐批次方案_2026-09-12.md` §2.1。
 
-## 项目简介
+## 采集焦点（长期约定）
+- 双核：卡宾 cabbeen（独立上市 HK02030，仅次于太平鸟）、太平鸟 peacebird——并列不合并。墙图集合 30 品牌（trussardi/mr_mrs/marcelo_burlon/karl_lagerfeld/dkny/tommy_hilfiger/lacoste/diesel/g_star_raw/levis/dickies/salomon/speedo/hoka_one_one/ellesse/mlb/nerdy/crocs/mlb_kids/adlv/chuu/no_one_else/thisisizi8/awoken_space/awoken_time/the_mr_young/two_am/king_baby/nautica/etudes，原 MODING 运营代理集合，MODING 本体不建实体）+ 艾诺丝 ariose_years + 迪卡轩 dekashell。机器可读清单 `knowledge_base/kb_benchmarks.json` focus_brands（koyo 已移除）。
+- 品牌归属：卡宾与 MODING 并列非上下级，勿挂「集团旗下」；太平鸟与卡宾双核独立实体页。
 
-Fashion Doctor 知识库项目，包含 wiki 双轨架构和分类体系。
+## 自动化轮次架构（2026-08-15）
+- A1/A2/A3（06:40/07:00/07:20，automation-…752372/…752688/…753030 ACTIVE）：以品牌为主体全维度采集，35 品牌按 kb_benchmarks 顺序均分 3 组防上下文溢出；不得钉死单一事件镜头。每轮每品牌必被检索/核验/更新或显式记录「无新增」。原单轮 automation-…752126 保持 PAUSED（prompt 为重建版）。指令：仓库根 `_automation_A1/A2/A3.md`。
+- B 轮（…753361）：方法论为主·品牌为辅，source 页必标 brand_specific。C 轮（…753693）：技术搜索通用+品牌感知（多品牌系统引用 focus_brands）。S 轮（…754325，周日 08:00）：跨品牌合成，不采集新数据，输出 comparisons/ + 回填 superseded_by。A=品牌情报 / B=运营方法论 / C=数据基建 / S=合成。
+- 置信度分级（2026-08-15）：source 页必填 confidence + 页内 `> **置信度**` 声明；entity 关键数字内联标注；矛盾比对同等级优先。A 轮护栏：每品牌 WebSearch≤3、第 6 品牌后中途分段 commit、尾部降级只探针不编造。
+- 生命周期字段：brand_specific（source 必填）、superseded_by（新数据出时回填旧页，旧页不删）。已写入 CLAUDE.md 2.1/2.5/5.1 及五份采集规范。
 
-## frontmatter 字段口径 ⚠️ 长期约定（2026-09-12 确立）
+## 三区块补齐战役（批次 1-11 收官 2026-09-13）
+- 30_wiki 实审 1405 页三区块 100%、结论引导语=0（终审 PASS）。`.kbtmp/_b11_audit.py` 幂等可复跑，作常态验收工具。
+- **验收铁律**：批处理验收必须「存在性+内容标记黑名单」双检，禁单存在性判定；名单驱动清理必须配全库变体宽扫；标题精确 `## 结论` 禁装饰变体。批次1 漏检根因（`1edf87b` 骨架只铺不写）已归档 `specs/批次11执行记录_2026-09-13.md` §3。
+- CLAUDE.md 5.1/5.2 验收铁律已提交（批次 12）。结论区 U+0022 696 页=历史体例，已定性不回改。
 
-- **frontmatter 标签由 AI 推断填写**（不是人工精填，也不是"采集时作者主动填准确值"）。
-- **确定不了 / 明确未知 → 一律填 `未知`**。
-- 老板会自行修正需要修正的字段，AI 不必追求"准确值"、不必纠结。
-- 推断规则：`layer`（entities/sources=T2，其余=T1）；`scope`（品牌专属=brand，通用=public，公司=company，个人=personal）；`volatility`（方法论=evergreen，门店/组织=slow，季度财报/行情=fast，事件/联名=perishable）；`as_of`（文件名日期优先，不确定=未知）；`expires_at`（fast=as_of+90天，slow=+180天，evergreen 不填）；`confidence`（财报/官方公告/第三方数据/品牌自宣/媒体估算，分不清=未知）。
-- 详规见 `specs/存量补齐批次方案_2026-09-12.md` 2.1 节。
+## 批次 12（2026-09-13 收官）：矛盾清单回写源页
+- 批次 8 §9 的 14 条矛盾全部收口：过时「待核实/须仲裁/未闭环」行 → 「跨页裁定（批次12 · 2026-09-13）」行；TH「净利 11.9 亿」笔误全库勘误为 1.19 亿美元；Marcelo 运营主体两说维持「未裁定 · 两说并列」标注。36 条 entry / 25 文件（7 实体+18 源页），实体页同步收敛消除与裁定自相矛盾的「未裁定」行。
+- 裁定要点（后续引用口径）：TH Q1 收入两口径=口径边界未对齐禁跨口径换算；MLB 门店 RAG 主数 1,094（F&F DART）/1,185 对照；卡宾代销 201→202=财报口径、101→370=渠道占比；太平鸟净增长=前瞻指引 H2 需净开 ≥138 家；ARIOSE 主数 1,800+；HOKA 主数 >230（Deckers 财报）、250+ 对照、1000 作废；Crocs 破圈=曝光维度/遇冷=转化维度可并列。
+- 详见 `specs/批次12执行记录_2026-09-13.md`（含与交接文档 4 处偏差记录）。
 
-## 信息搜集优先级（采集焦点）⚠️ 长期约定
+## RAG 就绪（2026-08-14，commit 33a2776）
+- 四支柱：aliases 必填（中/英/代码/别称）、结论块（合成判断）、信息链、零孤岛。entities/concepts/comparisons 100% 达标；sources 全有出链。技能 `obsidian-kb-rag-readiness`。
+- git 协调：.obsidian volatile 与 .claudian 不入库、稳定设置保留；行尾 index=LF+autocrlf=true，勿加 .gitattributes。
 
-用户明确：后期信息搜集以**以下品牌为主**（2026-08-14 确认）。卡宾/太平鸟为双核，品牌墙图全品牌为运营代理集合（MODING 是渠道方非品牌，不单独追踪），艾诺丝/迪卡轩为重点补充女装。
+## 知识库 v2 方案（2026-09-11 讨论稿待拍板）
+- `specs/知识库v2架构方案_讨论稿.md`：按「谁产生+寿命+权限」分区；重要性三维度（Tier×volatility×权限域）；TTL 到期软化不删除；双链废「零孤岛」硬门槛改 R1/R2/R3+`## 前沿`；40_companies 语义层与 dongshang-v3 共用真源；视图一律脚本生成。未决 8 问（TTL 值/删除权限/公司域/个人域入 RAG/课件归属/感性言论/视图频率/逻辑 vs 物理——AI 推荐先逻辑分层）。旧账：MOC+L3 死层、raw 两处合并延后。
 
-- **双核**：卡宾（cabbeen，仅次于太平鸟的核心）、太平鸟（peacebird）
-- **品牌墙图集合**（用户所发图片，原 MODING 运营代理操盘的品牌，非 MODING 本体）：trussardi, mr_mrs, marcelo_burlon, karl_lagerfeld, dkny, tommy_hilfiger, lacoste, diesel, g_star_raw, levis, dickies, salomon, speedo, hoka_one_one, ellesse, mlb, nerdy, crocs, mlb_kids, adlv, chuu, no_one_else, thisisizi8, awoken_space, awoken_time, the_mr_young, two_am, king_baby, nautica, etudes
-- **重点补充女装**：艾诺丝（ariose_years，ARIOSE YEARS，杭州爱唯）、迪卡轩（dekashell，DEKASHELL，杭州轻淑）
-
-机器可读清单见 `knowledge_base/kb_benchmarks.json` 的 `focus_brands` 字段（当前 35 个，含上述双核+品牌墙+艾诺丝+迪卡轩；实际数量以 json 为准）。新增实体默认带 `sources: [用户指定-重点女装品牌]` 或 `品牌墙图_2026-08-14`。（2026-08-22 用户确认 koyo 占比过小，已从 focus_brands 移除、不再纳入 A 轮采集；其历史实体页/source 页保留。）
-
-## A轮自动化覆盖规则 ⚠️ 长期约定（2026-08-15 确立）
-
-- **每次 A轮（Round-A）自动化必须覆盖全部 `focus_brands`（35 个）**——但为规避"单次运行上下文溢出导致后段品牌质量滑坡"，自 2026-08-15 起将单轮拆分为 **A1/A2/A3 三轮分批**（见下），全天仍覆盖全部 35，每轮上下文可控。
-- **「只跑少源」仅为用户单次显式收窄的临时范围，不是默认行为**；若需收窄，必须由用户在当次明确指定。
-- 预检缺口清单可做优先级排序，但**每轮每个本组品牌都必须被检索 / 核验 / 更新**，或显式记录「无新增」后跳过造页（不得静默跳过）。
-
-### A1/A2/A3 三分架构（06:40 / 07:00 / 07:20）
-- 35 品牌按 `kb_benchmarks.json` 顺序**均分 3 组（A1/A3 各 12 个、A2 11 个、互不重叠）**，**分组仅用于把 35 拆成 3 批以控制单次运行上下文**。
-- ⚠️ **采集方向（用户 2026-08-15 重申）**：以**品牌主体**为中心，对每组每个品牌做**全维度综合采集**（财务/门店渠道/联名营销/竞品/行业趋势 一律覆盖），**不得把品牌钉死在单一事件镜头上**（早期曾误按"财务/门店/联名"分镜头，导致单品牌信息残缺，已纠正）。
-  - **A1（06:40）** 分组=[adlv, ariose_years, awoken_space, awoken_time, cabbeen, chuu, crocs, dekashell, dickies, diesel, dkny, ellesse]
-  - **A2（07:00）** 分组=[etudes, g_star_raw, hoka_one_one, humble_humble_r, karl_lagerfeld, king_baby, lacoste, levis, marcelo_burlon, mlb, mlb_kids]
-  - **A3（07:20）** 分组=[mr_mrs, nautica, nerdy, no_one_else, peacebird, salomon, speedo, the_mr_young, thisisizi8, tommy_hilfiger, trussardi, two_am]
-- 各轮完整指令存于仓库根 `_automation_A1.md` / `_automation_A2.md` / `_automation_A3.md`；对应自动化：`automation-1787122752372`(A1) / `automation-1787122752688`(A2) / `automation-1787122753030`(A3)，均 ACTIVE。
-- 原单轮 `automation-1787122752126` 已 **PAUSED**（保留为历史底本，避免与 A1 在 06:40 重复触发）。⚠️ 该 PAUSED A轮 prompt 为 2026-08-19 按审计报告描述重建（原内嵌全文随旧账号丢失未收录），建议保持 PAUSED。
-
-### 数据可信度分级（置信度）标准（2026-08-15 新增）
-- **背景**：私企/小众女装（艾诺丝/迪卡轩/CHUU 中国等）无审计披露，数据多为品牌自宣/媒体估算；Run4 部分数字带"约/估"。RAG 检索时模型无法区分"财报数"与"自宣数" → 必须分级。
-- **落地**：CLAUDE.md 2.1 frontmatter 新增 `confidence` 字段（取值：财报 / 官方公告 / 第三方数据 / 品牌自宣 / 媒体估算）；新增 2.4 章节定义分级与使用规则；5.1 必含清单纳入 `confidence`。
-- **强制**：三份 A轮规范 `_automation_A1/A2/A3.md` 追加「第九步：置信度标注与上下文护栏」——source 页必填 `confidence` frontmatter + 页内 `> **置信度**` 声明；entity 页关键数字内联标注（"约/估"必标 媒体估算）；矛盾检测优先比对同等级。
-- **护栏同条固化**：第九步一并规定单轮 11-12 品牌全维度的上下文护栏——每品牌 WebSearch≤3 次、优先摘要、第 6 品牌后中途 git commit（分两段提交）、尾部降级允许仅探针不得编造，从根上防溢出/降级。
-- 已回填空量 Run4 的 11 个 `2026-08-15_R4_*` 源页 `confidence`（上市品牌=财报；Trussardi/CHUU=媒体估算；2AM/艾诺丝/迪卡轩=品牌自宣）。
-
-### B/C轮品牌对齐改造（2026-08-15 确立，23:49 修正为方法论为主）
-- **背景**：A轮已改为"以品牌为主体、全维度综合采集"，但 B轮（会员VIP/导购/商品企划）和 C轮（数据分析/多品牌系统）的 prompt 仍是纯主题搜索，完全不提任何品牌名 → 运营知识与品牌情报割裂。
-- **B轮改法（方法论为主·品牌为辅）**：每个 L2 域通用方法论搜索 2-3 次为主体，品牌上下文搜索 1-2 次为佐证（双核轮换 + 每轮轮换 2-3 个品牌），防止方法论维度坍缩为实体维度子集。source 页必标 `brand_specific` 区分通用方法论 vs 品牌特有。
-- **C轮改法（品牌感知）**：技术搜索（SQL/Streamlit/Polars/ETL）保持通用，但"多品牌系统"须引用 focus_brands 清单作为被分析对象，"查漏"须检查品牌级数据分析覆盖缺口。补齐 confidence/护栏/结论信息链/git pull/健康快照/分段提交。
-- 规范文件：`_automation_B.md` / `_automation_C.md`；对应自动化 `automation-1787122753361`(B) / `automation-1787122753693`(C)，均 ACTIVE。
-- **A vs B vs C vs S 品牌关系定位**：A轮=品牌情报（品牌在做什么）；B轮=品牌运营方法论（怎么运营，可迁移）；C轮=品牌数据基建（用什么工具分析）；S轮=跨品牌合成（品牌放在一起说明什么）。A/B/C 是采集导向，S 是合成导向。
-
-### S轮（合成轮）跨品牌模式识别（2026-08-15 确立）
-- **背景**：A/B/C 三轮都是"采集导向"（加新节点），没有"合成导向"（从已有节点中发现跨品牌模式）。第一性原理：100 条品牌情报不如 1 条跨品牌模式有价值。
-- **定位**：不采集新数据（不调用 WebSearch/WebFetch），只读已有 wiki 页面，做跨品牌模式识别。
-- **合成维度**：营收规模分层 / 增长模式分类 / 门店策略对比 / 毛利率分层 / 渠道结构对比 / 国际化程度 / 品类定位 / 运营策略对比 / 数据基建适配 / 风险信号。
-- **输出**：`wiki/comparisons/` 新增/更新跨品牌对比页 + 更新 `wiki/concepts/服装行业竞争格局.md` + 回填旧 source 的 `superseded_by`。
-- 规范文件：`_automation_S.md`；对应自动化 `automation-1787122754325`，ACTIVE，每周日 08:00。
-- **上下文护栏**：35 品牌实体页分 3 批读取（A1/A3 每批 12 个、A2 每批 11 个），每批读完即提取要点笔记。
-
-### 数据生命周期字段（2026-08-15 新增）
-- **brand_specific**（source 页必填）：`true`=品牌特有数据（双链到品牌实体页），`false`=行业通用方法论（双链到 concept，不链品牌）。防止"伪连接"——通用方法论错误链到品牌实体，形式上链了但不支持推理。
-- **superseded_by**（source 页可选）：当新 source 包含同品牌同指标的更新数据时，在旧 source frontmatter 回填 `superseded_by: "[[新source]]"`。旧 source 不删除但 RAG 检索优先取新页。
-- 已写入 CLAUDE.md 2.1 frontmatter schema + 2.5 章节 + 5.1 必含清单；已同步到 A1/A2/A3/B/C 五份采集规范。
-
-## 品牌归属重要约束
-
-- 卡宾（cabbeen）是**独立上市公司（卡宾服饰 HK 02030）**，与 MODING GROUP 是并列关系，NOT 上下级——不要把卡宾挂到任何"集团旗下"。
-- MODING 只是品牌运营代理公司，不是关注品牌，知识库中**不单独建 MODING 实体**。
-- 太平鸟与卡宾是**并列双核**，结构上是两份独立实体页 + 对照表，不得合并。
-
-## RAG 就绪规划 ⚠️ 长期约定（2026-08-14 确立）
-
-**目标**：将来 Obsidian 用本地部署大模型实现外网访问的 RAG。当下准备工作已落地（commit 33a2776）。
-
-**RAG 四大支柱**（知识库页面必须满足）：
-1. **aliases 别名必填**：实体/概念页 frontmatter 必须有中/英/股票代码/别称——这是本地 LLM 检索命中率的决定性字段。已写入 CLAUDE.md 2.1 schema + 5.1 必含清单，采集自动化须强制带别名。
-2. **结论块**：每页 `## 结论` 是合成判断（非数据复述）。
-3. **信息链**：每页 `## 信息链`（上游来源→本页→下游应用双链），支撑多跳推理。
-4. **零孤岛**：每页至少一条入链。
-
-**当前就绪度**：entities 61 + concepts 60 + comparisons 5 已 100% aliases/结论/信息链；内容层别名 135/147=91%；全库 0 孤岛；sources 603 全有出链。
-
-**git 与 Obsidian 协调约定**：
-- `.obsidian/` 的 volatile 状态（workspace.json / graph.json / plugins/*/data.json / cache）已移出版本控制（.gitignore + git rm --cached）；稳定设置（app/appearance/community-plugins/core-plugins.json + 插件代码）保留版本化。
-- `.claudian/` 本地 AI 工具状态不入库。
-- 行尾已是 index=LF + autocrlf=true，勿加 .gitattributes（避免全库重 normalize）。
-
-**可复用技能**：`obsidian-kb-rag-readiness`（user-level），含审计→注入别名→补信息链→修孤岛→git协调 全流程。
-
-## 知识库 v2 架构方案（2026-09-11 讨论稿，未执行）⚠️ 待拍板
-
-- 文档：`specs/知识库v2架构方案_讨论稿.md`（仓库根，非 KB 内）。
-- 触发：老板发现 `Home.md → MOC_L00~L07 → L3` 导航层停在 8-06/8-07；实证为 08-09 手写快照后再无主人，MOC 指向的 L3 子页在 08-24 清理后仅剩 2 个 0KB 空壳；且 `raw/`（248 篇）与 `wiki/raw/`（783 篇）两份原料层并存；`wiki/_archive/` 为空（CLAUDE.md 声称已归档，实际未落盘）。
-- 核心设计（待定）：① 目录改按「谁产生+寿命+权限」分区（00_inbox/10_web/20_personal/30_wiki/40_companies/50_legacy/90_meta）；② 重要性拆三维度（权威 Tier0-4 × 衰减 volatility × 权限域）；③ 生命周期字段 `volatility/as_of/expires_at/status`，到期**软化不删除**（降权→退检索→人批归档），`expired` 页保留 as_of 作历史时序点；④ 双链规则废除「零孤岛」硬门槛（该门槛正是伪双链的制造机），改 R1 信息链完整 / R2 脚本校验可达性 / R3 链接有效 + 新增每页 `## 前沿` 驱动扩张；⑤ 公司域 `40_companies/<c>/` 含 04_语义层（指标契约），**与 dongshang-v3 语义层共用同一份真源**；⑥ 视图层（Home/index/MOC）一律脚本生成，禁止手写。
-- 未决 8 问：TTL 分档值 / 删除权限 / 公司域范围 / 个人域是否入 RAG / 培训课件 322 篇归属 / 感性言论定位 / 视图生成频率 / 逻辑分层 vs 物理搬迁（AI 推荐先逻辑分层，风险小一个数量级）。
-- 已知旧账（本方案 P0）：MOC+L3 死层退役（随阶段3物理处理）、raw 两处合并（step7，延后）；CLAUDE.md L28 归档假账已于 55b50b0 修正（_archive/l2_history 空壳 → 809 个 L2 历史路径从 git 历史找回）。
-
-## 三区块补齐战役收官与验收基线 ⚠️ 长期约定（2026-09-13 批次11 终审确立）
-
-- 批次 1–11 完成 30_wiki 全库三区块补齐：实审 1405 页（entities 65/concepts 113/comparisons 11/practices 18/playbooks 15/sources 1183）**三区块 100%、结论引导语 = 0**（终审 PASS，`.kbtmp/_b11_audit.py` 幂等可复跑，可作常态验收工具）。
-- **验收铁律**：一切批处理验收必须「**存在性 + 内容标记黑名单**」双检，禁止单存在性判定；名单驱动的清理步骤必须配**全库变体宽扫**（至少：未闭合项 / 仍为模板引导语 / 需另开一轮处置）。标题一律用精确 `## 结论`，禁装饰变体（如「结论（核心洞察）」）。
-- 批次 1 漏检根因已归档（`specs/批次11执行记录_2026-09-13.md` §3）：源头 `1edf87b`（08-14）synthesize 给 83 页铺结论骨架仅 Top5 真写；「有区块但内容为引导语」对存在性筛选不可见。
-- 遗留待办：批次 10 §9.2 矛盾清单回写源页（TH 口径/卡宾代销/太平鸟门店方向等）。结论区 U+0022 696 页为历史体例，已定性不回改。
+## 遗留待办
+- ~~批次 12 矛盾清单回写~~ ✅ 2026-09-13 完成（36 条/25 文件，见执行记录）。
+- 编译层 aliases 覆盖审计；v2 方案 8 问拍板。
+- 批次 12 范围外同型残留（低优先级）：comparisons/practices 层 6 页对已裁矛盾的「未裁定」引用未同步；trussardi 地理口径标注行（交接定性不动）。
