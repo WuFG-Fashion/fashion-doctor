@@ -9,8 +9,13 @@ updated: 2026-08-30
 cross_refs: [[g_star_raw]], [[levis]], [[服装行业竞争格局]], [[brand_store_channel_2026]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 # G-Star RAW 济南 Gathering Day 城市限定 + NFC 溯源；南非 Exclusives 第三季（2026）
 
 > **一句话摘要**：G-Star RAW 在中国以"城市限定 + 线下聚会"作为区域运营抓手（济南 Gathering Day 推出 Jinancow 区域限定系列，单品内置 NFC 芯片可查面料/工艺溯源）；同时在南非推出第三季 Exclusives by G-Star RAW 高端限量线（定价 R4,999–R9,999），形成"中国走区域社群 + 成熟市场走高价限量"的双轨；中国大陆规模仍维持约 150 家门店 / 60+ 城市。

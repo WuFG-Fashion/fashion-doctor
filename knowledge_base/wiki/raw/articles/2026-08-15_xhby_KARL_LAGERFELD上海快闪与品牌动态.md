@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # KARL LAGERFELD 上海快闪与品牌动态 2026（剪藏）
 
 > 来源：新华报业网 / 风声 / 新浪微博 等多源综合，2026-02 至 2026-07

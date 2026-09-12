@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
+---
+
 # Streamlit v1.59.0 发布：ButtonColumn、Mermaid、文件粘贴
 
 > 来源：https://docs.streamlit.io/en/stable/changelog.html + https://www.change8.dev/package/streamlit

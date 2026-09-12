@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # 7月15日涤纶短纤产业链情报（纺织业H1数据）
 
 > 来源：生意社（100ppi.com）/ 2026-07-15（https://www.100ppi.com/data/detail-20260715-1234663.html）

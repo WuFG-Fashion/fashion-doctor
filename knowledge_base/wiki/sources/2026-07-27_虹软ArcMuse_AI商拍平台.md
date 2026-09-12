@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-27
 updated: 2026-07-27
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_virtual_tryon_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-27
+expires_at: 2026-10-25
+status: active
 ---
-
 # 虹软ArcMuse引擎：双层架构破解AI商拍可控性与真实感
 
 > **一句话摘要**：虹软科技PSAI智能商拍平台采用ArcMuse"视觉大模型+垂直小模型"双层架构，固定百余面部关键点、物理动态还原面料，解决AI商拍"变形/Logo模糊/恐怖谷"痛点。

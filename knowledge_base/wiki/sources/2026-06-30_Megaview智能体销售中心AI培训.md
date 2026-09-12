@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-01
 updated: 2026-07-01
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
 ---
-
 # Megaview智能体销售中心AI培训
 
 > **一句话摘要**：Megaview推出"AI筑基+人工赋能"导购培育新模式，AI承接标准化基础培训（产品知识+全场景模拟+量化考核），老员工聚焦高阶实战指导，落地门店资深员工带教工作量减少60%。

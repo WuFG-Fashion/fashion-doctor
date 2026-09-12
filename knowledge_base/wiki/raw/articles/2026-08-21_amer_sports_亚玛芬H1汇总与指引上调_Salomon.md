@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 亚玛芬体育 2026H1 汇总与指引上调（含 Salomon 中国进展）
 
 > 来源：腾讯新闻（新京报/亚玛芬财报转述）+ 网易经济观察报 + 腾讯新闻（源Sight）+ 腾讯（杜文钧上任）

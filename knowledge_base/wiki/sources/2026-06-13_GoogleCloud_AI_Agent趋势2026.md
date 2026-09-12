@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-13
 updated: 2026-06-13
 cross_refs: [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-13
+expires_at: 2026-09-11
+status: active
 ---
-
 # Google Cloud AI Agent Trends 2026
 
 > **一句话摘要**：Google Cloud 2026 AI Agent 趋势报告，基于3466名全球决策者调研，揭示五大转变：52%已部署Agent、88%获正ROI、Home Depot Magic Apron零售案例。

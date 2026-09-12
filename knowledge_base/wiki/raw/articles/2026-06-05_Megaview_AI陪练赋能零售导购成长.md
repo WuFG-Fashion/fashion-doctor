@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-05
+expires_at: 2026-09-03
+status: active
+---
+
 # AI陪练解决方案赋能零售导购高效成长
 
 > **来源**: 深维智信Megaview博客 (blog.megaview.com/archives/24143)

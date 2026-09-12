@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-13
+expires_at: 2026-10-11
+status: active
+---
+
 # AI Fashion Try-On: Industry Trends & Statistics 2026
 
 > 来源：RenderedFits

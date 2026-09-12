@@ -10,8 +10,13 @@ created: 2026-08-19
 superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
 updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[earnings_quality_nonrecurring_2026]], [[peacebird]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A3轮·Tommy Hilfiger 2026 全维度动态
 
 > **一句话摘要**：PVH 2026 Q2（截至 2026-07-31）Tommy Hilfiger 品牌收入 8.92 亿美元、同比 +4%；集团 Q2 净利 11.9 亿美元含一次性收益不可年化。更重要的是，本轮 Q2 数值为上轮悬置的 Q1 两口径矛盾提供了辨析线索——8.92 亿与"媒体口径 Q1 8.42 亿"同量级，与"官方口径 Q1 10.77 亿"差 -17%，指向两套口径统计边界不同而非某一方错误。

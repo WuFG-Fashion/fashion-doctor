@@ -12,8 +12,13 @@ sources: [wiki/raw/articles/2026-06-14_百家号_滔搏FY2026全年业绩257亿.
 created: 2026-06-14
 updated: 2026-07-03
 cross_refs: [[服装行业竞争格局]], [[six_brands_2026q1]], [[china_apparel_industry_2026q1]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-07-03_中财网_纺织服装中报前瞻2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-03
+expires_at: 2026-12-30
+status: active
 ---
-
 # 滔搏国际（TOP SPORTS）
 
 > **一句话摘要**：中国最大运动品牌零售代理商，代理Nike/Adidas等20+品牌，FY2025/26营收257.4亿(-4.7%)/净利12.7亿(-1.5%)/用户9290万——进入存量优化期

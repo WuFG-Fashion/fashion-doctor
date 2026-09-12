@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
+---
+
 # PostgreSQL 19 Beta 1 — 60+ 项新特性全解析
 
 > 来源：腾讯云开发者社区，2026-06-07

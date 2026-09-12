@@ -8,8 +8,13 @@ created: 2026-08-20
 updated: 2026-08-20
 confidence: 媒体估算
 cross_refs: [[2026-08-20_客户价值四指标替代复购率]], [[会员复购率提升策略]], [[会员与VIP运营体系2026]], [[全渠道会员一体化]], [[sleeping_member_reactivation]], [[2026-09-10_B_VIP分层权益成本收益测算与会员预算分配]], [[2026-09-10_B_会员季度经营复盘会与会员资产健康度看板]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-20
+review_due_at: 2027-02-16
+status: active
 ---
-
 # 客户价值指标体系2026（LTV/留存率/NDR/NPS 替代复购率）
 
 > **一句话摘要**：复购率作为"人数口径"规模指标已无法度量客户价值，2026 客户价值度量体系升级为 LTV/留存率/NDR/NPS 四指标组合（度量-监控-预算闭环），配 RFM 分层落地。

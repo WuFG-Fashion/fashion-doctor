@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 艾诺丝雅诗波段企划与商品结构佐证（B轮品牌上下文）
 
 > 来源：京东艾诺丝雅诗旗舰店商品分类结构（官方店铺）、爱企查品牌资料、加盟招商平台、官方公众号 2026 AUTUMN 企划

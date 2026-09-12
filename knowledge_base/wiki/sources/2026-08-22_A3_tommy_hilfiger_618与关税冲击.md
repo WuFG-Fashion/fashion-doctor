@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[tommy_hilfiger]], [2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调], [服装行业竞争格局], [earnings_quality_nonrecurring_2026], [nautica]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # A3轮·Tommy Hilfiger 618 天猫 TOP5 与关税冲击
 
 > **一句话摘要**：PVH 2026Q2 电话会披露——2026 年 618 大促 Calvin Klein 与 Tommy Hilfiger 双双位列天猫国际品牌 TOP5，Tommy 实现高个位数 GMV 增长；但美国关税"翻倍"造成约 7000 万美元未对冲 EBIT 冲击，APAC/中国仍低个位数下滑，Q3 毛利率预计降约 175bp。

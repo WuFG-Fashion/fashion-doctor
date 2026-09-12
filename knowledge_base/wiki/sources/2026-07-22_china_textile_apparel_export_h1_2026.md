@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[china_apparel_export_2026]], [[china_apparel_industry_2026q1]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # 2026上半年中国纺织服装出口 — 海关总署数据
 
 > **一句话摘要**：2026年1-6月中国纺织服装累计出口1459.6亿美元(+1.4%)，其中纺织品+3.5%、服装-0.7%。6月单月强劲反弹+7.2%(环比+14.3%)，三重因素拉动：前期订单释放+海外备货+中美关系改善。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-06
 updated: 2026-08-06
 cross_refs: [[ETL架构选型]], [[etl_governance_convergence_2026]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
 ---
-
 # ETL/ELT/ETLT 混合架构与电商数据工程四层栈（2026）
 
 > **一句话摘要**：2026 年 ETL/ELT 之争已经收敛为"**90% 中大型企业单平台双模式**"——主数据与敏感报表走 ETL 前置清洗、行为日志与实时分析走 ELT 入仓后转换，全场景增量统一靠 CDC；电商侧的标准解法是"源→ELT 摄取→数仓→dbt 三层建模"四层栈，而最贵的错误是两套管道写同一报表层的**混合陷阱**。

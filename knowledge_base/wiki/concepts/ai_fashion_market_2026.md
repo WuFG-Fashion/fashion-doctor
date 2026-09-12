@@ -9,8 +9,13 @@ sources: [2026-06-09_Style3D_AI时尚品牌应用2026.md, 2026-06-16_IIM_全球�
 created: 2026-06-09
 updated: 2026-08-06
 cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_consumer_2026]], [[2026-06-16_IIM_全球服装大模型应用市场预测2026]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[apparel_ai_policy_2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-18_Bloomreach_AI时尚零售2026全球数据]], [[2026-07-19_MetaModels_25品牌AI应用2026]], [[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # AI时尚市场与品牌应用全景（2026）
 
 > **一句话摘要**：2026年全球服装行业大模型渗透率跃升至34.2%（2023年<8%）、中国占全球应用规模41.7%、AI in Fashion市场规模达$25.6亿；H&M/Zara/Uniqlo/Gucci/Levi's等十大品牌已规模化部署AI，覆盖生成设计/虚拟试穿/趋势预测/供应链/个性化五大赛道，形成可量化的投资回报框架。

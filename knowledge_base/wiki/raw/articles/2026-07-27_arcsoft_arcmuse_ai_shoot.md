@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-27
+expires_at: 2026-10-25
+status: active
+---
+
 # 2026服装电商视觉新趋势：虹软ArcMuse引擎的技术突破
 
 > 来源：今日头条 / 2026-07-01

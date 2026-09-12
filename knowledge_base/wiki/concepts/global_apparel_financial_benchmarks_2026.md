@@ -9,8 +9,13 @@ sources: [2026-07-16_Eightx全球服装品牌财务基准2026.md]
 created: 2026-07-16
 updated: 2026-09-12
 cross_refs: [[2026-07-16_eightx_apparel_financial_benchmarks_2026]], [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q1]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-12
+review_due_at: 2027-03-11
+status: active
 ---
-
 # 全球服装品牌财务基准2026
 
 > **一句话摘要**：Eightx基于8家全球上市服装公司+NYU Stern 35家数据库编制的2026年财务基准——毛利率中位数55.3%→运营利润率6.7%（蒸发48pp），为国际对标提供量化标尺。

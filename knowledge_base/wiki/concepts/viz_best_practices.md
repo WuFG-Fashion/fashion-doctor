@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-09-04
 cross_refs: [[2026-09-04_三款极简图表可视化Skill工具清单]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-04
+review_due_at: 2027-03-03
+status: active
 ---
-
 # 可视化最佳实践
 
 > **分类**: L2_06 数据分析实务 > L3_06_03 可视化最佳实践

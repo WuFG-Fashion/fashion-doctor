@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-15
 updated: 2026-06-15
 cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-15
+expires_at: 2026-09-13
+status: active
 ---
-
 # aimojo — Python Pandas+SQL集成2026指南
 
 > **一句话摘要**：Pandas+SQL融合可缩短分析时间50%，pandasql提供DataFrame原生SQL查询，生产环境推荐SQLAlchemy，ETL管道SQL+提取/Pandas转换+加载。

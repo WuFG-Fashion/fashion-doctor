@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
+---
+
 # 2026 Python数据分析变局：Polars+DuckDB碾压Pandas？
 
 > 来源：今日头条 https://www.toutiao.com/article/7628966471826014760/

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-12
+expires_at: 2026-11-10
+status: active
+---
+
 # Streamlit 企业级架构与生产部署路线（2026-08）
 
 > 采集日期：2026-08-12

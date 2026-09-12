@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[karl_lagerfeld]], [[septwolves]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # A2轮·KARL LAGERFELD 2026 全维度动态
 
 > **一句话摘要**：KARL LAGERFELD 中国业务的持有方七匹狼发布 2026 半年度业绩预告，预计净亏损 1,950-2,900 万元，主因交易性金融资产公允价值变动损失约 1.55-1.86 亿元；扣非净利同比大增，说明主业（含 KL 中国）经营端在改善但仍未摆脱亏损拖累。

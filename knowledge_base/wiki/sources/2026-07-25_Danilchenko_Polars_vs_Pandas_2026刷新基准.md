@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-25
 updated: 2026-07-25
 cross_refs: [[polars_vs_pandas_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-25
+expires_at: 2026-10-23
+status: active
 ---
-
 # Danilchenko：Polars vs Pandas 2026 真实基准刷新
 
 > **一句话摘要**：2026-07 刷新实测——240M 行真实点击流负载下 Polars joins/group-bys 约 10x、Parquet 读取约 5x 快于 Pandas；Pandas 3.0 GA（PyArrow 字符串 + CoW 默认）缩小部分差距但引擎级差距未变，结论仍是"双轨混合用"。

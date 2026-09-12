@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · MLB KIDS 2026 新品（WebSearch 2026-08-22）
 
 - MLB KIDS（F&F 2010-02 推出）。

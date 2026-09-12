@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
+---
+
 # ETL / ELT / ETLT 混合架构与电商数据工程四层栈（2026）
 
 **采集日期**：2026-08-06

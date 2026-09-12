@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[dekashell]], [[导购培训闭环体系]], [[导购培训SOP]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # 迪卡轩加盟培训与终端运营体系佐证
 
 > **一句话摘要**：迪卡轩（DEKASHELL）以"佰加商学院 + 督导部 + 终端万里行"构建加盟培训体系，加盟培训 10 天+带店指导，统一运营手册管控陈列/促销/仪容——是加盟型女装"总部赋能终端"的实证样本。

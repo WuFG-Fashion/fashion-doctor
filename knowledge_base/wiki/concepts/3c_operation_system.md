@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[weifu_consulting]], [[quantified_aesthetics]], [[customer_asset_system]], [[retail_sales_force_system]], [[seven_times_renhuo]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 3C 经营体系（3C Operation System）
 
 > **一句话摘要**：韦孚咨询（李炳辰创立）面向服饰零售品牌的总部-终端一体化方法论，3C = **商品 × 顾客 × 商业模式**，以商品体系为核心、顾客需求为导向、围绕"七次人货对接"打总部-终端-顾客端到端、构建"商品经营+客资经营+人才育成"三大子系统，实现"顾客增量×商品增量=毛利增量"。

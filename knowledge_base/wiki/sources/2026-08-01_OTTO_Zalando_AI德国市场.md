@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_design_cases_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
 ---
-
 # OTTO / Zalando AI 德国市场（2026-08-01）
 
 > **一句话摘要**：德国两大时尚平台把 AI 用于 discovery→recommendation→content 全链路——OTTO KI-Assistent 掌握 1900 万件商品、Zalando 生成式内容 +70% 成本 -90%、Discovery Feed 周活 900 万。

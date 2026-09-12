@@ -12,8 +12,13 @@ created: 2026-08-30
 updated: 2026-09-06
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[dickies]], [[trussardi]], [[nerdy]], [[karl_lagerfeld]], [[two_am]], [[thisisizi8]], [[dekashell]], [[brand_risk_signals_2026]], [[brand_portfolio_tiers_2026]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-06
+review_due_at: 2027-03-05
+status: active
 ---
-
 # 品牌生命周期与资本动作事件图谱（2026 S轮合成）
 
 > **一句话摘要**：对 36 个 focus_brands 在 2026-07~08 集中出现的"品牌生命周期/资本动作"事件做横向图谱——更名（NDY）、易主（Dickies→Bluestar）、退市（Trussardi 退俄）、减值（KL/七匹狼）、渠道结构反转（卡宾代销化）、归属迁移（thisisizi8 入卡宾矩阵）、主体注销风险（迪卡轩）七类事件在同月密集出现，证明组合已步入"重组周期"，这类信号往往是财务恶化的先行指标。

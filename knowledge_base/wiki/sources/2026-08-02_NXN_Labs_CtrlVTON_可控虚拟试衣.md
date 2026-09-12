@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-02
 updated: 2026-08-02
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-02
+expires_at: 2026-10-31
+status: active
 ---
-
 # NXN Labs×KAIST CtrlVTON 可控虚拟试衣
 
 > **一句话摘要**：NXN Labs 与 KAIST 提出 CtrlVTON 可控换衣框架 + VIP-SAM 服装分割，让用户精确控制"扎进/拉链/内外层"等穿衣语义，把 VTO 从"被动换衣"推向"主动穿衣"。

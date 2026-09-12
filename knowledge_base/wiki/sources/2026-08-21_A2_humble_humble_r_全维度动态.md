@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A2轮·HUMBLE HUMBLE R 2026 全维度动态
 
 > **一句话摘要**：2026 上半年 HUMBLE HUMBLE R 营销重心转向"明星上身矩阵"：TOP 登陆少年朱志鑫、张新成（《飞驰人生3》路演）、时代少年团严浩翔、翟潇闻 等密集上身带动同款；26 Spring 定位"Softcore"松弛美学；渠道端出现山西奥莱导购招聘（晋中天美杉杉奥莱），显示向二三线奥莱渠道下沉，与 2026-08-18 记录的宁波阪急全国首家臻选店（店型升级）构成"高端化+下沉"双线。

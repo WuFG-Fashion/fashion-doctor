@@ -9,8 +9,13 @@ sources: [DigitalDefynd 2026-05-28, 2026-08-01_苏豪时尚_AI智造出海.md, 2
 created: 2026-06-06
 updated: 2026-08-05
 cross_refs: [[retail_ai_adoption_2026]], [[服装门店经营AI化2026]], [[inditex_zara]], [[fast_retailing]], [[2026-06-06_AI时尚设计10大案例]], [[ai_fashion_capability_2026]], [[2026-06-11_知衣科技_FD+AI设计工具]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]], [[2026-06-21_搜狐_AI服饰消费新纪元2026]], [[apparel_ai_policy_2026]], [[2026-07-28_veeton_2026全球AI时尚能力报告]], [[2026-08-01_苏豪时尚_AI智造出海]], [[2026-08-01_OTTO_Zalando_AI德国市场]], [[suhao_fashion]], [[2026-08-02_CLO_Virtual_Fashion_DiffGI_3D薄壳生成]], [[2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准]], [[2026-08-05_迪尚集团_创意服饰产业大脑效率基准]], [[2026-08-05_苏豪时尚_智尚云平台数智化资源库]], [[apparel_ai_agents_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-05
+review_due_at: 2027-02-01
+status: active
 ---
-
 # AI时尚设计十大案例（2026）
 
 > **一句话摘要**：H&M样品-50%/库存-15-30%、Nike周期缩短数周、Levi's解决30-40%尺码退货——全球10大品牌AI落地的量化效果总结。

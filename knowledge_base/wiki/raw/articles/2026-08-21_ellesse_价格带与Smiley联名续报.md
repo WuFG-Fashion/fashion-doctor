@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # ellesse：价格带补充 + Smiley 联名续报
 
 > 来源：爱企查 ellesse 品牌词条；买得易 2026-08《童趣设计当道!ellesse、PUMA推出联名款》；搜狐 2026 夏季运动裙实测

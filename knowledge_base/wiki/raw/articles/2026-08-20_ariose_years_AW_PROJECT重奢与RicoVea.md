@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-20
+expires_at: 2026-11-18
+status: active
+---
+
 # 艾诺丝雅诗 AW PROJECT 重奢拓展与 RicoVea 新锐（剪藏 2026-08-20）
 
 - 来源1：今日头条《别人在熬，他们在涨：比音、艾诺、山下有松的上涨秘诀》(https://m.toutiao.com/article/7649958421092925987)

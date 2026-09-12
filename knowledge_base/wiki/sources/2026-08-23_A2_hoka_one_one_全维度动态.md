@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[hoka_one_one]], [服装行业竞争格局], [中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # A2轮·HOKA 2026 全维度动态
 
 > **一句话摘要**：Deckers Brands 2026 财年 Q1（截至 2025-06-30）HOKA 净销售额 $653.1M（+19.8% YoY），创品牌历史最佳季度；集团国际 +49.7%，中国门店突破 230 家、被管理层称为"HOKA 国际业务最核心增长引擎"；为应对关税 2025-07 起对部分产品提价。与 On/Salomon 同属"中产跑鞋"高增长阵营。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # AI购物Agent重塑时尚搜索生态 — Adobe 2026 Q1数据
 
 > **来源**: Fibre2Fashion / Adobe Digital Insights / Stellagent

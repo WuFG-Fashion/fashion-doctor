@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-11
 updated: 2026-06-11
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[data_library_selection_guide_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-11
+expires_at: 2026-09-09
+status: active
 ---
-
 # Polars深度实战 — Rust架构全解析（2026-06）
 
 > **一句话摘要**：Polars基于Rust+Apache Arrow列式存储+Rayon多线程引擎实现无GIL全核并行，PDS-H基准全量处理94倍于Pandas，2026年6月GitHub 80,000+ Stars，下半年路线图含GPU加速/SQL 2003/Iceberg原生支持。

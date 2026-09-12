@@ -11,8 +11,13 @@ sources: [2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026
 created: 2026-09-09
 updated: 2026-09-09
 cross_refs: [[brand_level_data_analysis_gap_matrix]], [[multi_brand_unified_analytics]], [[crocs_financial_benchmark_template_2026]], [[cabbeen_brand_analytics_2026]], [[peacebird_brand_analytics_2026]], [[dkny]], [[tommy_hilfiger]], [[karl_lagerfeld]], [[salomon]], [[hoka_one_one]], [[levis]], [[diesel]], [[服装行业竞争格局]], [[earnings_quality_nonrecurring_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # L2 上市公司品牌统一指标分析模板（7 品牌母公司披露路由·2026）
 
 > **一句话摘要**：[[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]] 中 **P1 行**（L2 上市公司统一指标模板：dkny/tommy/karl/salomon/hoka/levis/diesel）的落地交付——先建一张**「品牌 → 母公司 → 披露形态 → 可得指标」路由表**，再说明这 7 家如何复用 [[crocs_financial_benchmark_template_2026|Crocs 五维对标模板]] 骨架批量补全。与双核样板（[[cabbeen_brand_analytics_2026|卡宾]]/[[peacebird_brand_analytics_2026|太平鸟]]）及 Crocs 页共同构成 focus_brands 35 品牌级分析的「P0 三种披露形态 + P1 上市公司七家」全景。

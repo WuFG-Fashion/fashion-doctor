@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-01
 updated: 2026-09-01
 cross_refs: [[nautica]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-01
+expires_at: 2026-11-30
+status: active
 ---
-
 # 2026-09-01 A3 Nautica × Interparfums 全球香水授权协议（20年）
 
 > **一句话摘要**：Interparfums 于 2026-01-28 官宣与 Nautica 签署 20 年全球独家香水授权协议，2030-01-01 起全面接管，首年香水组合销售预计超 $70M——补全实体页"香水授权至 2030"背后的协议结构。

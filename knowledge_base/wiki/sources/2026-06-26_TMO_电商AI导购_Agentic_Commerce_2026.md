@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-26
 updated: 2026-06-26
 cross_refs: [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]], [[AI导购陪练]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-26
+expires_at: 2026-09-24
+status: active
 ---
-
 # TMO 2026电商AI导购与Agentic Commerce深度报告
 
 > **一句话摘要**：2026年AI导购从聊天工具进化为品牌销售基础设施，Tatcha 3×转化/Puffy 63%AI自动化；Agentic Commerce迎来UCP协议大统一（Amazon+Meta+Microsoft加入），麦肯锡预计2030年驱动3-5万亿美元交易。

@@ -9,8 +9,13 @@ sources: [2026-08-15_DIESEL___OTB_Group_中国运营与财务速览_2026.md, 品
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_diesel_2026联名与Pride营销]], [[2026-08-18_diesel_OTB2025业绩与新CEO任命]], [[listed_brand_metrics_template_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # DIESEL
 
 > **一句话摘要**：意大利高端牛仔与生活方式品牌，牛仔丹宁赛道标杆，OTB 集团旗下。

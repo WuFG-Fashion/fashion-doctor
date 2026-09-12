@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[动态OTB管理]], [[sku_fine_management|服装SKU精细化管理]], [[柔性供应链与商品企划]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # State of Apparel Merchandising Planning 2026（RetailNorthstar，2026）
 
 > **一句话摘要**：RetailNorthstar 2026研究显示，高效商品企划采用单一计划模型（OTB/assortment/buy同源）+ 尺码曲线基于sold% + 48小时季中可见性；规模阈值>200-250 SKU后管理复杂度非线性上升，$10M品牌季运营缺口$380K-750K。

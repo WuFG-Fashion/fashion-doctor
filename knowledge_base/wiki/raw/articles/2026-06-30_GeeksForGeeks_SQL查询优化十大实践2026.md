@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
+---
+
 # SQL查询优化十大最佳实践（2026版）
 
 > **来源**：GeeksforGeeks, "SQL Query Optimizations - Best Practices", 2026-06-11更新

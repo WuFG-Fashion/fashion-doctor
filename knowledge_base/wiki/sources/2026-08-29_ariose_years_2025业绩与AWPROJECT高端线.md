@@ -10,8 +10,13 @@ cross_refs: [[ariose_years], [dekashell]]
 confidence: 媒体估算
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # 艾诺丝雅诗 2025 业绩与 AW PROJECT 高端第二曲线
 
 > **一句话摘要**：艾诺丝雅诗（ARIOSE YEARS）2025 年营收约 50 亿元、门店超 1700-1800 家，并孵化高端子品牌 AW PROJECT 进驻 SKP/万象城/德基，冲刺"百亿女装"第二曲线。

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[no_one_else]], [[chuu]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A3轮·NO ONE ELSE 2026 全维度动态
 
 > **一句话摘要**：NO ONE ELSE 隶属韩国 PPB STUDIO（与 [[chuu]] 为姐妹品牌），中国由杭州黯涉品牌管理集团运营，主打无性别男女通款、客单价 400-600 元，已进北京/上海/深圳/杭州/重庆/南京/武汉等城市核心购物中心；同期"辣妹女装"赛道集中进场（rolarola 内地首店、W.Management 40+店、Subdued 快闪、ONE MOMENT 扩张），该价格带正从蓝海转入贴身竞争。

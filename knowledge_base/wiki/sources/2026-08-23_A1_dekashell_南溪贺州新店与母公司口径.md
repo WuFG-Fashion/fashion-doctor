@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # DEKASHELL 南溪贺州新店与母公司口径（A1·2026-08-23）
 
 > **一句话摘要**：迪卡轩南溪（4 月）、贺州（1 月）新店 corroborate 渠道下沉；百度百科仍记"佰加"（2023 注销），库内已校正为杭州旭弘实业（佰加为曾用名/关联）。

@@ -9,8 +9,13 @@ updated: 2026-08-27
 cross_refs: [[the_mr_young], [服装行业竞争格局]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-27
+expires_at: 2026-11-25
+status: active
 ---
-
 # THE MR YOUNG 密特·扬 轻奢国潮全维度动态
 
 > **一句话摘要**：本土轻奢国潮 THE MR YOUNG(上海艾动实业，2021)以中国文化+IP"扬仔"为核心，联名艺术家与鲸鱼GT赛车俱乐部，走高审美国潮路线。

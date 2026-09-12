@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # 艾诺丝 ARIOSE YEARS — 门店规模与价格带（轻淑女装）
 
 > **一句话摘要**：艾诺丝（ARIOSE YEARS，杭州爱唯服饰）定位中高端轻淑女装，全国门店约 2800 家（商场常见口径），核心价格带 200–1600 元，子品牌 AW PROJECT 2024 线上 GMV 近 3500 万——补上 08-16 复核后的门店/价格 concrete 数据。

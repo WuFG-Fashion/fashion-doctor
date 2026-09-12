@@ -10,8 +10,13 @@ created: 2026-08-17
 updated: 2026-08-17
 superseded_by: "[[2026-08-30_salomon_零售人才培训体系]]"
 cross_refs: [[salomon]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # Salomon门店人才梯队与VIP私域运营
 
 > **一句话摘要**：Salomon 用"高潜零售人才 8 个月沉浸式培养（70% 晋升率）+ 奢侈品精细化待客 + VIP 私域深度运营"作为高端户外门店打法。

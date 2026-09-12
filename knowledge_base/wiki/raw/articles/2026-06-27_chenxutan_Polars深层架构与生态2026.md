@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
+---
+
 # Polars 2026：深层架构与生态全景
 
 > 来源：chenxutan https://chenxutan.com/d/3111.html

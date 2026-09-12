@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # ellesse Andrew Garfield「Do It Like An Italian」全球战役与 Smiley/PUMA 联名
 
 > **一句话摘要**：ellesse（Pentland 旗下，1959 意大利创立，网球/滑雪基因）2026 启动由 Andrew Garfield 代言的全球战役「Do It Like An Italian」（6 月上线，三章：Say/Play/Style，贯穿 SS26-AW26），重塑"意大利式愉悦运动"品牌身份；同期 ellesse×Smiley（Rave 电音/70 年代，8-17 报道）与 ellesse×PUMA（Mr. Doodle）延展联名，与 [[crocs]]/[[dickies]] 同属"复古运动品牌再年轻化"赛道。

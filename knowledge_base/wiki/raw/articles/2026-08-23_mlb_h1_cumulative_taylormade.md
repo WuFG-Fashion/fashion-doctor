@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 原始剪藏：F&F(MLB) 2026 H1 累计 + Q2 分部 + 泰勒梅 M&A 进展（2026-08-23 采集）
 
 > 来源（WebSearch 2026-08-23）：

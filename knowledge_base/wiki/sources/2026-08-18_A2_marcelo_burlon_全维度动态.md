@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # A2轮·Marcelo Burlon County of Milan 2026 全维度动态
 
 > **一句话摘要**：创始人 Marcelo Burlon 本人已于 2026 年公开表示彻底退出品牌事务（2026-02 播客称要"walk away from all of it"），品牌 County of Milan 的运营仍在 New Guards Group 体系内；此口径与本库 2026-08-17 源页所记"许可权转至 Daddato Next"存在差异，已列入矛盾清单待核。

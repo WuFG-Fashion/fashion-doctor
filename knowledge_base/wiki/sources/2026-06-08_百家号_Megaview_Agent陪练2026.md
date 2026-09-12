@@ -10,8 +10,13 @@ created: 2026-06-08
 updated: 2026-06-21
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]], [[2026-06-19_CSDN_2026企业AI陪练综合能力榜单]]
 
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-08
+expires_at: 2026-09-06
+status: active
 ---
-
 # Megaview Agent陪练 2026版
 
 > **一句话**：CCFA报告45%导购转化不足/52%政策落地滞后，Megaview MegaAgents+MegaRAG架构实现成交率+18%。

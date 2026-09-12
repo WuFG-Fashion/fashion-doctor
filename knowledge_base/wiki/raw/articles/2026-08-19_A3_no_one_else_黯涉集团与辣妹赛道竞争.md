@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — NO ONE ELSE 品牌归属、门店矩阵与"辣妹女装"赛道竞争
 
 来源：

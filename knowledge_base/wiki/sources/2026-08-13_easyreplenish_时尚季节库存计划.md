@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-13
 updated: 2026-08-13
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-13
+expires_at: 2026-11-11
+status: active
 ---
-
 # 时尚零售商季节库存计划六大指标
 
 > **一句话摘要**：时尚零售以 STR 65–85%、WOC 贴合剩余季长、OTB 预算纪律、周转 10–12x(电商)、GMROI、缺货率六大指标做季节库存计划。

@@ -6,8 +6,13 @@ sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发�
 created: 2026-06-06
 updated: 2026-06-30
 cross_refs: [[SQL查询性能优化]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[duckdb_olap_engine_2026]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-06-30
+review_due_at: 2026-12-27
+status: active
 ---
-
 # 零售数据仓库SQL实践
 
 > **一句话**：面向服装零售场景（销售/库存/会员/导购）的SQL优化实践方法论，从索引设计到查询改写，实现BI看板秒级响应。

@@ -16,8 +16,13 @@ updated: 2026-08-29
 cross_refs: [[data_quality]], [[data_quality_governance]], [[data_quality_retail_practice]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]]
 confidence: 第三方数据
 brand_specific: false
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # 零售数据质量可观测性与入闸校验（2026）
 
 > **一句话摘要**：2026 年零售 AI 就绪的数据底座共识——数据质量不是一次性清洗，而是持续的"数据可观测性"：在入闸（ingestion gate）用 dbt tests / Great Expectations / Soda 拦截 schema 漂移、空值率飙升、分布偏移；IBM 测算在入闸捕获问题的修复成本仅是生产模型暴露后的 1/10。

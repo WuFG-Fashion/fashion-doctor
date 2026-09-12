@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[semantic_layer_metrics_2026]], [[retail_analytics_reporting_2026]], [[data_governance_tech_routes_2026]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
 ---
-
 # 语义层 / 指标层 2026 全景：从 BI 配角到 AI 基础设施
 
 > **一句话摘要**：2026 年语义层（Semantic Layer）成为 AI 时代的数据基础设施——把"已定义好的指标"而非裸 SQL 暴露给 BI 工具与 AI Agent，解决多团队对同一指标定义不一、报表口径漂移的问题；OSI 标准 1 月发布，dbt Semantic Layer 是主流实现之一。

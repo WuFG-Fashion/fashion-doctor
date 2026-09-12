@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # Megaview AI陪练：重塑连锁门店导购成交链路
 
 > 来源：Megaview 销研院 | 2026-06-17

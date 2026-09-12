@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-30
 updated: 2026-07-30
 cross_refs: [[AI导购陪练]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-30
+expires_at: 2026-10-28
+status: active
 ---
-
 # Megaview_门店被拒绝AI模拟训练
 
 > **一句话摘要**：深维智信 Megaview 让"被客户拒绝"变得可控可重复可评估——参加AI陪练导购较未参加组"比价后仍留店沟通"比例高出近四成、"10秒内有效回应异议"从不到一半升至八成以上。

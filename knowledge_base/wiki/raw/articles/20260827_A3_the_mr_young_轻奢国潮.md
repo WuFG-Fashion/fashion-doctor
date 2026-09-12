@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-09-12
+expires_at: 2026-12-11
+status: active
+---
+
 # 原始资料 · 20260827_A3_the_mr_young_轻奢国潮
 
 THE MR YOUNG 密特·扬（上海艾动实业，2021 创立，本土轻奢国潮）：

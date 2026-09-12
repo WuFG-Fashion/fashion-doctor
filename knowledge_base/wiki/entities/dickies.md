@@ -10,8 +10,13 @@ sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # Dickies
 
 > **一句话摘要**：美国百年工装品牌，以 874 经典工装裤与卡其工装著称，VF 集团旗下（2026 年已出售）。

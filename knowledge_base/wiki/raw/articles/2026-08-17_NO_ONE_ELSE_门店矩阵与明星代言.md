@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：NO ONE ELSE — 门店矩阵与明星代言
 
 - 来源1（爱企查，品牌介绍）：https://aiqicha.baidu.com/details/rankList?query=b77ac17cd6d34358f6152cc3fe8080af

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · KARL LAGERFELD 大中华区 / 七匹狼 2025（WebSearch 2026-08-22）
 
 - 七匹狼 2017 以 ¥320M 收购 KARL LAGERFELD 大中华区。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-14
+expires_at: 2026-09-12
+status: active
 ---
-
 # 零售AI培训系统三分类2026
 
 > **一句话摘要**：零售AI培训系统分三类——场景化实战型(连锁首选)、轻量化碎片型(小微入门)、数据复盘型(精细管理)，按门店规模选型。

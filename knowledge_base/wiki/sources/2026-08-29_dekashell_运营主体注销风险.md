@@ -10,8 +10,13 @@ cross_refs: [[dekashell], [ariose_years]]
 confidence: 官方公告
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # 迪卡轩（DEKASHELL）运营主体注销风险信号
 
 > **一句话摘要**：迪卡轩运营主体"杭州佰加服饰有限公司"已于 2023-05-08 由"存续"变更为"注销"，作为焦点品牌的 DEKASHELL 轻淑女装大概率已停止主动运营，是需重点标注的风险信号。

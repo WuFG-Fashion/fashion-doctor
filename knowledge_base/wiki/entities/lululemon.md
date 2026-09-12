@@ -11,8 +11,13 @@ sources: [2026-06-07_竞品财务更新2026Q1_六品牌.md, 2026-06-08_lululemon
 created: 2026-06-07
 updated: 2026-06-26
 cross_refs: [[peacebird]], [[fast_retailing]], [[semir]], [[inditex_zara]], [[six_brands_2026q1]], [[apparel_supply_chain_profit_chasm_2026q1|服装产业链利润分化（2026Q1）]], [[2026-06-14_29家服装运动企业2026Q1财报全景]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-06-26_新华网_时尚产业周报_竞品动态202606]], [[2026-06-26_高端消费复苏_618轻奢品牌三维框架]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-06-26
+expires_at: 2026-12-23
+status: active
 ---
-
 # lululemon
 
 > **一句话摘要**：全球运动休闲龙头，FY2026Q1营收25亿美元(+4%)、净利暴跌38%至1.95亿、中国大陆+30%逆势狂飙、北美连续5季同店下降、全年指引大幅下调。

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[karl_lagerfeld]], [服装行业竞争格局], [中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # A2轮·KARL LAGERFELD 中国（七匹狼）2026 全维度动态
 
 > **一句话摘要**：七匹狼（002029.SZ）2025 营收 30.04 亿（-4.35%）、归母净利 3.33 亿（+16.91% 但 97% 来自投资收益）、扣非仅 961 万（-86.91%）；2026 Q1 归母净利 -66.67%、H1 预告亏损 1950-2900 万；旗下 KARL LAGERFELD 中国 2025 营收 3.77 亿、净亏 0.66 亿（+142% 亏损扩大）并计提减值 0.83 亿。KL 中国尚未成增长引擎，反持续吞噬利润。

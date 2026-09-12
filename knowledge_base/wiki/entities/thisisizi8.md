@@ -11,8 +11,13 @@ sources: [2026-08-15_thisisIZI8_韩国概念买手店_中国首店与品牌矩�
 created: 2026-08-15
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[koyo]], [[nerdy]], [[two_am]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # thisisIZI8
 
 > **一句话摘要**：韩国血统综合型概念买手品牌店，2013 年由 Koyo William 创立，集 80+ 潮流品牌，中国首店 2022-01-15 深圳万象天地。

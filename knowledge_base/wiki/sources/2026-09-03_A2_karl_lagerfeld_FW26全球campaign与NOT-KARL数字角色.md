@@ -9,8 +9,13 @@ updated: 2026-09-03
 cross_refs: [[karl_lagerfeld]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]], [[septwolves]], [[2026-08-22_A2_karl_lagerfeld_全维度动态]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-03
+expires_at: 2026-12-02
+status: active
 ---
-
 # KARL LAGERFELD FW2026 全球 campaign「From Paris With Love」续章 + NOT-KARL 数字角色首秀
 
 > **一句话摘要**：KARL LAGERFELD 全球总部层面（非七匹狼中国运营）延续 Paris Hilton 品牌面孔至 FW2026+SS2027，并于 9/1 全球上线 FW26 campaign「From Paris With Love」新章——首次引入 **NOT-KARL 数字角色**（以 Karl Lagerfeld 为原型的 AI/数字人物），搭配男装新面孔 Kit Butler，主牌/Jeans/PARIS 三线统一叙事，巴黎时装周期间办特别活动。

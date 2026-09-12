@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-02
+expires_at: 2026-10-31
+status: active
+---
+
 # 当 AI 遇到服装设计：韩国 CLO Virtual Fashion 研发出能"理解"衣服薄薄一层结构的 3D 生成技术
 
 > 来源：腾讯新闻（new.qq.com）转载，2026-07-30

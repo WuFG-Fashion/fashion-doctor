@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
+---
+
 # 语义层 / 指标层 2026 全景：从 BI 配角到 AI 基础设施
 
 > 采集日期：2026-08-09

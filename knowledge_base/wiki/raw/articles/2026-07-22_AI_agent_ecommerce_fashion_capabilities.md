@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # 纺织服装电商领域AI Agent的场景应用与能力构建
 
 > **来源**: 中国纺织建设规划院 / 南京羊毛市场

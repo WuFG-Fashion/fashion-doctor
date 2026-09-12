@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # 2026上半年中国纺织服装出口数据
 
 > **来源**: 海关总署 / 中国纺织品进出口商会 / 中新社

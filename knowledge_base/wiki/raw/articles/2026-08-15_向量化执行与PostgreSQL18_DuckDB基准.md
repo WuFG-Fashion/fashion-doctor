@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 向量化执行与 PostgreSQL 18 / DuckDB 1.5.4 基准（2026 剪藏）
 
 > 来源：modern-datatools PostgreSQL vs DuckDB 对比、johal.in PostgreSQL17 vs DuckDB1.2、markaicode DuckDB vs PostgreSQL Benchmark 2026、motherduck PGConfDev 2025、gitcode DuckDB 架构演进。

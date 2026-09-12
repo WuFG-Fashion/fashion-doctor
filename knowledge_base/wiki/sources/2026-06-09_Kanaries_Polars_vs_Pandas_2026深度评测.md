@@ -9,8 +9,13 @@ source_url: https://docs.kanaries.net/zh/articles/polars-vs-pandas
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[polars_vs_pandas_2026]], [[python_dashboard_ecosystem_2026]], [[data_library_selection_guide_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-09
+expires_at: 2026-09-07
+status: active
 ---
-
 # Polars vs Pandas 2026深度评测（Kanaries）
 
 > **来源**：Kanaries Docs（更新于2026-02-12）

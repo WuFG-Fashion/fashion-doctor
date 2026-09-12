@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-20
 updated: 2026-08-20
 cross_refs: [[awoken_time]], [[服装行业竞争格局]], [[awoken_space]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-20
+expires_at: 2026-11-18
+status: active
 ---
-
 # AWOKEN TIME 武商城市奥莱新店与白猿宇宙（A1·2026-08-20）
 
 > **一句话摘要**：AWOKEN TIME 2026 以"白猿宇宙"巨型打卡装置 + 武商城市奥莱新店（5 月 1 日）延续武汉密集开店，靠"服装+咖啡+潮玩"场景化集合店黏住 Z 世代。

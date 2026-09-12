@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · G-Star RAW 2026 治理/渠道/联名（WebSearch 2026-08-22）
 
 - 创立 1989 阿姆斯特丹；CEO Rob Schilder 独任（Patrick Kraaijeveld 离任）；创意总监 Rushemy Botter & Lisi Herrebrugh。

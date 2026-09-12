@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[trussardi]], [[服装行业竞争格局]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Trussardi 全维度动态（2026-08-29 A3）
 
 > **一句话摘要**：1911 年创立的意大利奢侈品牌（灰狗标志），2024-03 被 Miroglio 集团收购重整；2025 营收约 2900 万欧元（+70%）但 EBITDA 转亏 100 万欧元、净亏损扩大至 510 万欧元；11 家独立店；2026-04 已完成退出俄罗斯市场。

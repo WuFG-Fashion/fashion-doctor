@@ -11,8 +11,13 @@ sources: [2026-08-15_Marcelo_Burlon_County_of_Milan_中国渠道与香港首店�
 created: 2026-08-15
 updated: 2026-08-31
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-31
+expires_at: 2027-02-27
+status: active
 ---
-
 # Marcelo Burlon County of Milan
 
 > **一句话摘要**：意大利（阿根廷裔主理人）潮流时装屋，2012 年前后创立，Mapuche 十字/巴塔哥尼亚元素，全球首店 2017 香港（已关），中国借 D-mop 多品牌店铺货。

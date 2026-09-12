@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-14
+expires_at: 2026-09-12
+status: active
 ---
-
 # KPMG零售导购AI陪练数据2026
 
 > **一句话摘要**：KPMG 2025权威数据——专业导购可使成交率+42%/客单价+35%，但仅38%导购接受系统培训，74%零售企业2026年将规模化AI。

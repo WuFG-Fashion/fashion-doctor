@@ -8,8 +8,13 @@ brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # Megaview：AI培训重塑线下成交链路——转化率+40%/知识留存72%/上岗6→2月
 
 > **一句话摘要**：Megaview 案例：导购训练从'记住说什么'转向'学会怎么听'；5 维 16 粒度能力模型，敢于追问客户的新人门店转化率比传统组高 40%，知识留存 72%、上岗 6→2 月。

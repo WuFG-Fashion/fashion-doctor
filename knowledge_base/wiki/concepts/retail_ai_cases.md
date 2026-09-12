@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: []
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 零售AI实践案例
 
 > **分类**: L2_00 AI前沿信息 > L3_00_03 零售AI实践案例

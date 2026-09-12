@@ -10,8 +10,13 @@ sources: [2026-06-09_NRF_2026时尚科技AI创新者.md, 2026-06-22_Bain_Agentic
 created: 2026-06-09
 updated: 2026-08-15
 cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[服装行业竞争格局]], [[ai_fashion_consumer_2026]], [[2026-06-15_搜狐_2026零售业AI趋势_务实落地]], [[2026-06-15_搜狐_2026年AI+零售报告_重构线上线下]], [[2026-06-19_中新经纬_2026年618消费洞察报告]], [[2026-06-22_搜狐_AI_Agent重塑零售三阶段]], [[2026-06-22_Bain_Agentic_AI零售2026]], [[2026-06-26_TMO_电商AI导购_Agentic_Commerce_2026]], [[2026-06-27_经济观察报_618消费洞察与AI零售逻辑]], [[2026-06-29_Adobe_AI电商2026数据]], [[2026-06-29_36Kr_618消费洞察2026]], [[2026-07-03_NVIDIA_2026零售AI全价值链落地]], [[2026-07-03_Vistoya_2026AI时尚趋势指南]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-13_RenderedFits_AI虚拟试衣趋势2026]], [[2026-07-26_Vistoya_2026时尚品牌AI_Agent实战]], [[2026-08-01_AI结账落地2026_Gap_Ulta_JDSports]], [[2026-08-01_OTTO_Zalando_AI德国市场]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 代理式商务与时尚零售AI新范式（2026）
 
 > **一句话摘要**：2026年NRF揭示Agentic Commerce新范式：OpenAI×Target开启"AI买手"时代，消费者通过AI代理搜索→比较→购买；NRF 2026展示4家女性领导时尚科技初创公司，聚焦收据数字化/智能着陆/数据层/AI原生GTM四大场景。

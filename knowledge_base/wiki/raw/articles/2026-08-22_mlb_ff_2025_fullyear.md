@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · MLB / F&F 2025 全年 + 中国门店 + 2026 营销（WebSearch 2026-08-22）
 
 - F&F 2025 全年：销售额 1.93 万亿韩元（≈RMB 89.36 亿）、净利润 4,027 亿韩元（≈RMB 18.65 亿）、同比 +13.1%。

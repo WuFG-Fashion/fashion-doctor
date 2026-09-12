@@ -12,8 +12,13 @@ sources: [2026-08-15_艾诺丝雅诗AWPROJECT2026动态, 百度百科·杭州爱
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[peacebird]], [[cabbeen]], [[dekashell]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-15_艾诺丝雅诗AWPROJECT2026动态]], [[2026-08-18_ariose_years_门店规模与价格带]], [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]], [[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # 艾诺丝·雅诗 (ARIOSE YEARS)
 
 > **一句话摘要**：杭州爱唯时尚集团旗下中高端时尚女装（2005 创立），2025 销售额约 50 亿元、门店突破 1,800 家、会员超百万，是杭州女装 TOP3 中的"中淑精准商业黑马"；第二曲线 AW PROJECT 以重奢商圈首店试探高净值客群。

@@ -9,8 +9,13 @@ sources: [2026-08-15_MLB_KIDS___F&F_中国亲子线速览_2026.md, 品牌墙图_
 created: 2026-08-14
 updated: 2026-09-02
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-02
+expires_at: 2027-03-01
+status: active
 ---
-
 # MLB KIDS
 
 > **一句话摘要**：MLB 童装线，延续老花与运动潮流基因，定位亲子与儿童街头穿搭。

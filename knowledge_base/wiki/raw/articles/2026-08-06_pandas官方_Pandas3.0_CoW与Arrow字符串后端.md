@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
+---
+
 # Pandas 3.0 — Copy-on-Write、PyArrow 字符串后端与 pd.col() 表达式
 
 **采集日期**：2026-08-06

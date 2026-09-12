@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-11
 updated: 2026-07-11
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-11
+expires_at: 2026-10-09
+status: active
 ---
-
 # Megaview AI陪练：1.2万导购30天训练，异议准确率63%→89%
 
 > **一句话摘要**：Megaview AI陪练为某1.2万导购连锁服饰企业实施30天专项培训，异议处理准确率从63%升至89%（价格异议+41%）、新人首月出单率28%→45%、人均业绩+18%、培训成本-21.5%、流失率35%→25%、NPS 42→58，形成"培训-数据-业务"闭环。

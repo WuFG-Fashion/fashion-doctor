@@ -10,8 +10,13 @@ cross_refs: [[diesel], [dkny]]
 confidence: 官方公告
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Diesel 母公司 OTB 2025 业绩与新 CEO
 
 > **一句话摘要**：Diesel 母公司 OTB 集团 2025 营收 16 亿欧元（-5%）、EBITDA 2.37 亿（-14%），但 Diesel 创"十年来最佳盈利"；2026-01 任命 Andrea Rigogliosi 为新 CEO，Glenn Martens 续任创意总监。

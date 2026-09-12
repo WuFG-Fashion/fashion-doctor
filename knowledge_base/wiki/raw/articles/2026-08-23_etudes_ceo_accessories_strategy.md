@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 原始剪藏：Études Studio 新 CEO 与配饰战略（2026-08-23 采集）
 
 > 来源（WebSearch 2026-08-23，贸易媒体 + 公司披露转述）：

@@ -9,8 +9,13 @@ updated: 2026-09-03
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[salomon]], [[2026-09-02_A2_hoka_one_one_Speedgoat7HikeGTX与lifestyle营销_Deckers财务颗粒]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-03
+expires_at: 2026-12-02
+status: active
 ---
-
 # HOKA 2026 秋季产品矩阵（Transport 2 GTX 中国上市 + Mach Remastered 生活方式定价 + Tecton X 4 竞速越野）
 
 > **一句话摘要**：HOKA 2026 秋季产品线多点铺开——中国 9/1 上市城市轻徒步鞋 **Transport 2 GTX（畅行 2 防水版）**；全球推生活方式化 **Mach Remastered**（$145，基于 Mach 6 的现代休闲改造）；越野竞速线发 **Tecton X 4** 碳板鞋（8 月 UTMB 前后亮相，275g/5mm 落差）。与已入库的 Speedgoat 7 Hike GTX（10/1，$190）共同构成"防水徒步 + 生活方式 + 竞速"三线秋季矩阵。

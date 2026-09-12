@@ -10,8 +10,13 @@ created: 2026-08-26
 superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
 updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-26
+expires_at: 2027-02-22
+status: active
 ---
-
 # A3轮·Tommy Hilfiger PVH 2026Q2 集团层补充
 
 > **一句话摘要**：PVH 2026Q2（截至 7/31）集团净销售额 19.6 亿美元 +6%、EPS 1.52 美元超预期（盘后 +3.5% 至年内高点 124.29 美元）；Tommy Hilfiger 8.92 亿美元 +4%（**国际可比 +6%**）与 Calvin Klein 7.86 亿 +8%（国际可比 +20%）双品牌对照——品牌级 Q2 数据已在 08-19 入库，本页为集团层/区域拆解/口径闭环的增量补充。

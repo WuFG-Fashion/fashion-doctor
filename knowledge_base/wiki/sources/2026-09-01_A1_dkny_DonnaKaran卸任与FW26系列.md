@@ -9,8 +9,13 @@ updated: 2026-09-01
 cross_refs: [[dkny]], [[karl_lagerfeld]], [[服装行业竞争格局]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-01
+expires_at: 2026-11-30
+status: active
 ---
-
 # DKNY：Donna Karan 卸任创意总监与 FW26「Black Cherry City」系列
 
 > **一句话摘要**：Donna Karan（2026-08）从同名品牌卸下创意总监一职转投 Urban Zen 基金会（仍任品牌顾问）；Donna Karan 2026 秋冬「Black Cherry City」以黑樱桃为核色回归纽约都会衣橱；母公司层面 G-III 已完成对 Donna Karan International 的收购整合。

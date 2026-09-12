@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # ellesse 2026 Smiley 联名与 Garfield 代言
 
 > **一句话摘要**：ellesse 2026 以 Smiley 联名（Rave 电音 70 年代）与 Andrew Garfield 全球代言 "Do It Like An Italian" 新纪元 campaign 双线激活复古运动时尚，是品牌墙意大利运动品牌的典型重启打法。

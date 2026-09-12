@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # 京东大时尚2026合作伙伴大会：AI生态重塑时尚生产力
 
 > **来源**: 京东官方 / 央广网

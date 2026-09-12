@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # 艾诺丝雅诗 门店口径与蒙阴新店（A1·2026-08-23）
 
 > **一句话摘要**：艾诺丝雅诗门店数多源口径差异（1200+/1800/2800+），主数 1800 家（2026-03 官方/直营口径）保持稳定；蒙阴旗舰店 3-8 开业 corroborate 渠道下沉。

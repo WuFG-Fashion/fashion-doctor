@@ -8,8 +8,13 @@ confidence: 第三方数据
 brand_specific: true
 created: 2026-08-26
 updated: 2026-08-26
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # DEKASHELL 加盟投资结构与第三方门店口径
 
 > **一句话摘要**：第三方加盟平台披露迪卡轩单店加盟投资 12.9-17.6 万/区域代理约 60-70 万、价格带春夏 179-1299 元/秋冬 239-2599 元、第三方门店总数口径 1655 家——与官方 600+ 店口径差异大（低置信度上限参考）。

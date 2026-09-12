@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[2026-09-10_B_会员季度经营复盘会与会员资产健康度看板]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 会员复购分析
 
 > **来源**：Fashion Doctor VIP分析模块 + 行业通用方法

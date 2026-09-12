@@ -9,8 +9,13 @@ sources: [2026-06-24_五部门_AI纺织行动方案2026-2028.md]
 created: 2026-06-24
 updated: 2026-07-11
 cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[china_apparel_industry_2026q1]], [[2026-07-08_商务部_人工智能+消费实施意见]], [[2026-07-09_中国服装协会H1行业运行态势]], [[2026-06-22_波司登AI智能制造国家级典型案例]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-07-11
+review_due_at: 2027-01-07
+status: active
 ---
-
 # 纺织服装AI国家政策（2026-2028）
 
 > **一句话摘要**：2026年"AI+纺织"首次写入五部门国家级行动方案，目标2028年培育≥25个卓越品牌，标志着服装行业AI应用从企业自发进入国家战略推进阶段。

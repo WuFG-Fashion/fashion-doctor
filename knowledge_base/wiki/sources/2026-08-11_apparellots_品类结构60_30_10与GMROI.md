@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-11
 updated: 2026-08-11
 cross_refs: [[sku_fine_management]], [[服装企划趋势渠道]], [[柔性供应链与商品企划]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-11
+expires_at: 2026-11-09
+status: active
 ---
-
 # 服装品类结构60/30/10与GMROI基准
 
 > **一句话摘要**：服装门店品类结构60%基础款/30%趋势款/10%测试款；年周转4-6次（快时尚6-12/奢侈2-4），首4-6周售罄率60-75%为强、<50%清仓，GMROI健康区间2.5-3.5。

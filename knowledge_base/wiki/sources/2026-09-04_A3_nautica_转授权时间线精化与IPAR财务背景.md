@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-04
 updated: 2026-09-04
 cross_refs: [[nautica]], [[2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-04
+expires_at: 2026-12-03
+status: active
 ---
-
 # 2026-09-04 A3 Nautica 香水转授权时间线精化 + Interparfums 2026H1 财务背景
 
 > **一句话摘要**：交叉核验 Interparfums（IPAR）组合转授权时间线：**Nautica 香水自 Coty 转至 IPAR 的接管日为 2030-01**（David Beckham 为 2028-04；Longchamp 首个新品 2027）——09-02 源"2027 首发窗口"判为 IPAR 组合层面"2027+ 新品周期"（Longchamp 等）的误读，Nautica 单品牌首发以 2030 接管后为合理预期；同时补 IPAR 2026H1 财务（营收 +2%/营业利润 -8%，全年指引维持 $1.48B/$4.85）。

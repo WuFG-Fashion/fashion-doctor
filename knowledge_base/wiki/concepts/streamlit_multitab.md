@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # Streamlit多Tab组件设计
 
 > **分类**: L2_07 服装多品牌数据分析系统构建 > L3_07_04 Streamlit多Tab组件设计

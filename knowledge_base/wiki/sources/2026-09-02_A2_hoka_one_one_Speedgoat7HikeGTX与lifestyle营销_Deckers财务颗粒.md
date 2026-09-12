@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[brand_risk_signals_2026]], [[2026-08-23_A2_hoka_one_one_全维度动态]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # HOKA 产品线延伸（Speedgoat 7 Hike GTX / Clifton 11 GTX 日本限定）+ Smino 街头营销 + Deckers 财务颗粒
 
 > **一句话摘要**：HOKA 将旗舰跑鞋 DNA 延伸至徒步靴品类（Speedgoat 7 Hike GTX 10 月上市），并以日本零售商限定配色 + 街头艺人 campaign 深化 lifestyle 受众；母公司 Deckers 层 Q1 大额回购 + 零负债 + 高现金提供财务安全垫。

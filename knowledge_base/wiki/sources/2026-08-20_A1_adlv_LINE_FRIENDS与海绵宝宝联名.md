@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-20
 updated: 2026-08-20
 cross_refs: [[adlv]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-20
+expires_at: 2026-11-18
+status: active
 ---
-
 # ADLV LINE FRIENDS 与海绵宝宝联名（A1·2026-08-20）
 
 > **一句话摘要**：ADLV 2026 连续拿下 LINE FRIENDS（3 月）与海绵宝宝 SpongeBob（4 月）两大角色 IP 联名，以"萌趣角色 + 无性别街头"巩固韩潮少女盘；中国内地门店约 14 家、深圳大悦城店待开，扩张克制。

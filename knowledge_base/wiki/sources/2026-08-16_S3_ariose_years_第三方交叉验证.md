@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[ariose_years]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # S3·艾诺丝ARIOSE YEARS 第三方交叉验证
 
 > **一句话摘要**：对实体页自宣数字（2025 营收 ~50 亿、2026-03 门店 1,800+）做第三方交叉验证——头条等行业媒体 corroborate 50 亿 / 1,700+ 量级，自宣基本站得住；但第三方间亦存分歧（爱企查 10 亿、浙江人才网 30 亿、搜狗百科 2,800+ 店），须标注口径差异。

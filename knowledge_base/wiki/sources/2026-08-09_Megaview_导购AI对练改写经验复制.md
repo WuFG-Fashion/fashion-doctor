@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
 ---
-
 # Megaview 导购AI对练改写经验复制
 
 > **一句话摘要**：美妆连锁用 Megaview AI 对练，新人日均 12.7 轮对话、成交推进 31→67 分，70% 断点在犹豫后 3 秒内。

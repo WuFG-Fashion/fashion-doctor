@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 艾诺丝雅诗（ARIOSE YEARS）2026 动态（原始剪藏）
 
 > 来源：百度百科·杭州爱唯时尚集团、今日头条 2026-07、企查查品牌介绍、QQ 新闻 2026

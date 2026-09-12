@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · HOKA / Deckers FY2026 Q2 + 2026 联名（WebSearch 2026-08-22）
 
 - Deckers FY2026 Q2（截至 2025-09-30）：净销售 +9.1% 至 $1.431B；HOKA +11.1% 至 $634.1M；国际 +29.3%、美国 -1.7%；毛利率 56.2%；FY2026 指引约 $5.35B。

@@ -11,8 +11,13 @@ sources: [2026-07-14_朗姿股份_2026H1业绩预告.md, 2026-07-21_朗姿股份
 created: 2026-07-17
 updated: 2026-07-21
 cross_refs: [[light_luxury_brand_framework_2026]], [[bienlefen]], [[anzheng_fashion]], [[2026-07-21_朗姿股份2026H1业绩预告]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-21
+expires_at: 2027-01-17
+status: active
 ---
-
 # 朗姿股份 (002612.SZ)
 
 > **一句话摘要**：A股"女装+医美+婴童"三主业集团，女装Q1营收~5.7亿(+13.11%)、医美~8.06亿(+14%)，2026H1归母净利同比-65.78%~-76.59%（高新资格取消+非经常性拖累），但剔除非经常性后日常经营性净利同比+30-60%，主营业务发展稳健。

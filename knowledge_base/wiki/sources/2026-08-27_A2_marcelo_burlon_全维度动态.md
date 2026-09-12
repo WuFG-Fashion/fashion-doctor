@@ -9,8 +9,13 @@ updated: 2026-08-27
 cross_refs: [[marcelo_burlon]], [[品牌墙概念与代理模式]], [[服装行业竞争格局]], [[mlb]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-27
+expires_at: 2026-11-25
+status: active
 ---
-
 # MARCELO BURLON 2026 全维度动态（授权易主/联名/中国）
 
 > **一句话摘要**：Marcelo Burlon County of Milan（2012 年由阿根廷裔设计师 Marcelo Burlon 创立）2025 完成全球授权从 Farfetch 转交意大利 Daddato Next，2026 借 FILA FUSION、Levi's 501 150 周年两波联名维持潮流声量；财务缺公开披露（峰值约 €40M/400+ 店为 2017 数据），属"授权驱动型"小众潮牌。

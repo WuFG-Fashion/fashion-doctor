@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 艾诺丝雅诗 ARIOSE YEARS — 2026-08-23 联网检索原始素材
 
 ## 来源1：爱企查/百度百科（2026-08-23 检索）

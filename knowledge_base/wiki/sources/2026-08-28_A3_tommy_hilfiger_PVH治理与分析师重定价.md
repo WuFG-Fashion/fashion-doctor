@@ -9,8 +9,13 @@ updated: 2026-08-28
 cross_refs: [[tommy_hilfiger], [服装行业竞争格局], [brand_risk_signals_2026], [earnings_quality_nonrecurring_2026]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-28
+expires_at: 2026-11-26
+status: active
 ---
-
 # PVH 治理层变动与分析师重定价（Tommy Hilfiger 母公司）
 
 > **一句话摘要**：Tommy Hilfiger 母公司 PVH 2026-09 起换帅（Alexis Rollier 任 CFO），8 月遭 JPMorgan/BofA 双降级（目标价 84/70 美元），主因中东冲突压制 EMEA 敞口——补"治理+卖方风险定价"维度。

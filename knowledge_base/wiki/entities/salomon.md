@@ -10,8 +10,13 @@ sources: [2026-08-15_Salomon北京国贸旗舰店与亚玛芬中国加速扩张.
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ai_fashion_market_2026]], [[2026-08-17_salomon_门店人才梯队与VIP私域运营]], [[2026-08-19_A3_salomon_全维度动态]], [[2026-08-21_A3_salomon_亚玛芬H1汇总与指引上调]], [[2026-08-23_A3_salomon_Jisoo大使与国际化扩张]], [[中国服装零售基准体系2026]], [[nautica]], [[2026-08-26_A3_salomon_北京双旗舰落地]], [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[品牌联名策略]], [[服装价格带管理与价格真空区]], [[hoka_one_one]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # SALOMON
 
 > **一句话摘要**：法国户外与越野跑装备品牌，亚玛芬体育（Amer Sports）旗下，2025 营收首破 20 亿美元（+30%+）、2026 Q1 分部 +42%，是中国"专业跑步 + 都市户外"双赛道增速领跑者，2026-08-10 北京国贸 728㎡ 旗舰店启幕。

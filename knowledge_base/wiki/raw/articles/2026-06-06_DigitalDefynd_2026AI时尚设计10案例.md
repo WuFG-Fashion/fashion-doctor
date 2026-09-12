@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
+---
+
 # 2026年AI在时尚设计中的10大案例
 
 > 来源：DigitalDefynd 2026-05-28

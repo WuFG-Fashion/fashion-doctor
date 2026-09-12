@@ -12,8 +12,13 @@ sources: [2026-08-15_NERDY_韩国潮流品牌_中国门店与运营商速览_202
 created: 2026-08-15
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nerdy_全维度动态]], [[thisisizi8]], [[服装价格带管理与价格真空区]], [[brand_risk_signals_2026]], [[brand_portfolio_tiers_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # NERDY (널디)
 
 > **一句话摘要**：韩国首尔街头潮流品牌，MODEUS（莫媞美思）运营，以纽约街头风格+签名紫色 Track Suit 走红，中国由杭州弗娜瑞品牌管理运营。

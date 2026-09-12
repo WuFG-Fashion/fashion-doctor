@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[karl_lagerfeld]], [[服装行业竞争格局]], [[septwolves]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-02
+expires_at: 2027-03-01
+status: active
 ---
-
 # Karl Lagerfeld 2026H1 渠道运营颗粒（七匹狼中报：奥莱加速/直播间优化/华东华南加密）
 
 > **一句话摘要**：七匹狼 2026 半年报（2026-08-27 披露）首次给出 Karl Lagerfeld 品牌的运营策略颗粒——轻奢定位下深耕华东华南、奥莱渠道加速拓展（部分门店成新增长点）、线上直播间优化、核心大单品驱动，与 09-01 入库的大中华主体减亏颗粒互为财务-运营闭环。

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[dekashell]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # S3·迪卡轩DEKASHELL 第三方交叉验证
 
 > **一句话摘要**：对实体页自宣数字（遍布 30 省、超 600 家门店、非上市无财报）做第三方交叉验证——全智 / 猎聘等招聘平台 corroborate 600+ 门店，品牌手册（自身）称 800 余家、校园宣讲转述 1,000+，自宣 600+ 站得住、无显著夸大；母公司实为杭州旭弘实业（2007 公司成立 / 2013 推品牌）。

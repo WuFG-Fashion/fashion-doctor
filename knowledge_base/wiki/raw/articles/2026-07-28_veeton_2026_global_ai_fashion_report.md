@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # A 2026 Report on AI's Newest Capabilities for Fashion
 
 > 来源：Veeton Blog / 2026（https://veeton.com/blog/a-2026-report-on-ai-s-newest-capabilities-for-fashion）

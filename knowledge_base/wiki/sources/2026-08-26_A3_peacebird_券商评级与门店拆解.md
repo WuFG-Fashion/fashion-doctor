@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-26
 updated: 2026-08-26
 cross_refs: [[peacebird]], [[2026-08-23_A3_peacebird_盈利质量深挖_Q2亏损与研发收缩]], [[2026-08-22_A3_peacebird_2026门店净增长指引与股权激励]], [[earnings_quality_nonrecurring_2026]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # A3轮·太平鸟 2026-08 券商评级与门店拆解
 
 > **一句话摘要**：2026-08 券商（国盛买入/摩根大通中性）给出太平鸟门店结构拆解（直营 999/加盟 1862）与 2026-2028 盈利预测，叠加"三年砺新"叙事（关店 2200+/SKU -30%/超级壹号店月销 400 万/研发中心 8.59 万㎡冲出正负零）——转型进入"验证期"而非"兑现期"。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-26
+expires_at: 2026-10-24
+status: active
+---
+
 # Vistoya — How Fashion Brands Are Using AI Agents in 2026: Real Examples
 
 > 来源：Vistoya（vistoya.com/publication），2026 年发布

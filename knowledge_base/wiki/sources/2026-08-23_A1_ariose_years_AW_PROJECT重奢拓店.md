@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ariose_years]], [[dekashell]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # 艾诺丝雅诗 AW PROJECT 重奢拓店清单 / 母公司集团化（A1·2026-08-23）
 
 > **一句话摘要**：艾诺丝雅诗第二曲线 AW PROJECT 2026H1 加速重奢商圈拓店——上海港汇恒隆首店首日破 60 万、进驻北京 SKP / 深圳万象城 / 南京德基，以"主品牌供应链复用 + 重奢首店试探高净值客群"验证中端女装上探轻奢路径；母公司杭州爱唯时尚集团多品牌矩阵成型。

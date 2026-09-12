@@ -10,8 +10,13 @@ sources: [2026-06-12_帆软_ETL集成治理一体化, 2026-07-25_fjcio_finedatal
 created: 2026-06-12
 updated: 2026-08-06
 cross_refs: [[ETL架构选型]], [[data_quality_governance]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # ETL治理一体化演进2026
 
 > **一句话摘要**：ETL 工具正从"数据搬运工"进化为"可信数据供给平台"——治理能力不再事后补丁，而是从集成环节就内嵌，血缘自动沉淀、质量前置校验、标准默认执行，多品牌零售是优先受益场景。

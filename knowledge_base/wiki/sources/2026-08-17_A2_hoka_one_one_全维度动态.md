@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[hoka_one_one]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # A2轮·HOKA（Deckers）2025-2026 全维度动态
 
 > **一句话摘要**：Deckers FY2026 集团营收 $5.472B（+9.8%），其中 HOKA $2.587B（+15.9%）；但 Q1 FY2027 增速放缓至 +7.7%（前季 +14.5%），中国市场以马年限定（井柏然）、BEAMS、XLIM 等联名维持热度。

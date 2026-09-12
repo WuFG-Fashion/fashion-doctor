@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-08
+expires_at: 2026-09-06
+status: active
+---
+
 # 零售门店业绩难突破？Agent陪练成为导购随身实战教练
 
 > **来源**：百家号/Megaview深维智信，2026-03-10

@@ -10,8 +10,13 @@ sources: [2026-08-15_HumbleHumbleR_谦而不卑_中国新锐男装速览_2026.md
 created: 2026-08-14
 updated: 2026-09-10
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-10
+expires_at: 2027-03-09
+status: active
 ---
-
 # HumbleHumbleR (谦而不卑)
 
 > **一句话摘要**：中国本土设计师潮流男装，2025 年创立，以'BE HUMBLE/谦而不卑'中性情绪与高质价比切入 Z 世代。

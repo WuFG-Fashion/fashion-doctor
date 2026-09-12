@@ -8,8 +8,13 @@ sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEa
 created: 2026-06-13
 updated: 2026-08-26
 cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[bi_dashboard_retail_deployment]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-23_数据可视化进阶8种图表_标题级]], [[2026-08-23_100个思维模型做PPT_标题级]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]], [[retail_bi_three_tier_dashboard|服装全渠道BI三层角色看板实践]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 2026年BI可视化在服装零售的选型与应用
 
 > **一句话摘要**：2026年BI可视化工具从"辅助报表"升级为"业务分析中枢"，AI融合（ChatBI/Agent BI）成为选型新标准。服装零售企业应根据品牌规模、技术能力和分析场景，在商业BI（SmartBI/Tableau/观远数据）与开源BI（Superset/DataEase/Metabase）之间做出合理选择。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-30
+expires_at: 2026-10-28
+status: active
+---
+
 # 门店导购被客户当场拒绝，AI 模拟训练比你想象中更敢练
 
 - **来源**：深维智信 Megaview https://www.megaview.com/resource/archives/35302

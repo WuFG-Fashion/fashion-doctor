@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[marcelo_burlon]], [服装行业竞争格局], [中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # A2轮·Marcelo Burlon 2026 全维度动态
 
 > **一句话摘要**：Marcelo Burlon 卸任其 2012 年创立的 Marcelo Burlon County of Milan 创意总监；母公司 New Guards Group（NGG，Farfetch 被 Coupang 救援后）前景未明、Style Capital 拟收购。品牌命运与"潮牌集合平台"资本博弈绑定，对双核直接竞争弱，但可作"主理人 IP 化品牌可持续性"的警示样本。

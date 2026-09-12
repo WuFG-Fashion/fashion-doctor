@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-27
 updated: 2026-06-27
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[ETL架构选型]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
 ---
-
 # Polars 2026深层架构与生态全景
 
 > **一句话摘要**：Polars基于Rust+Arrow架构实现PDS-H 94倍加速(10GB全量)，2026年生态达80K+Stars/月下载500万+/Kaggle占比30%+，懒执行四大优化使5000万行3.8x提升。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-26
 updated: 2026-07-26
 cross_refs: [[apparel_ai_agents_2026]], [[agentic_commerce_fashion_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-26
+expires_at: 2026-10-24
+status: active
 ---
-
 # Vistoya — 2026 时尚品牌 AI Agent 实战案例（全球）
 
 > **一句话摘要**：Vistoya 汇总 2026 全球品牌 AI Agent 落地：Madhappy 过剩生产 -40%、Mejuri 邮件收入 +28%、Bain 供应链 lead time -23%/物流成本 -17%、CAC -22%、AI 质检退货 -30%、物流 $2.40/单节省——可量化 ROI 成主叙事。

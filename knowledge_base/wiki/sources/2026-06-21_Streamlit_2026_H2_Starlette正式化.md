@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-21
 updated: 2026-06-22
 cross_refs: [[streamlit_dashboard_2026]], [[python_dashboard_ecosystem_2026]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-21
+expires_at: 2026-09-19
+status: active
 ---
-
 # Streamlit 2026 H2 Starlette正式化与并行Fragment
 
 > **一句话摘要**：Streamlit v1.57正式完成Tornado→Starlette/Uvicorn迁移（默认启用），v1.58引入@st.fragment(parallel=True)并发执行和st.pagination分页，Polars Arrow零拷贝直传上线。

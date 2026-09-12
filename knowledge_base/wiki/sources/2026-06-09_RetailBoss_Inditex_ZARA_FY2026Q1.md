@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[inditex_zara]], [[six_brands_2026q1]]
+layer: T2
+scope: public
+volatility: slow
+as_of: 2026-06-09
+expires_at: 2026-12-06
+status: active
 ---
-
 # 2026-06-09 RetailBoss Inditex ZARA FY2026Q1
 
 > **一句话摘要**：Inditex FY2026Q1（2026.02-04）净营收€87.5亿(+5.8%/固定汇率+8.8%)，毛利率61.2%(+67bp)，净利润€13.75亿(+5.4%)，PBT利润率20.1%，Q2初期销售+11.5%超预期。

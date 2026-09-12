@@ -8,8 +8,13 @@ created: 2026-08-20
 updated: 2026-08-20
 confidence: 媒体估算
 cross_refs: [[2026-08-20_扎克伯格超级智能与第二大脑]], [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]], [[AI导购陪练]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-20
+review_due_at: 2027-02-16
+status: active
 ---
-
 # AI个人赋权与第二大脑方法论2026
 
 > **一句话摘要**：AI 时代的个人能力方法论——AI 不是替代工具而是"个人能力放大器（第二大脑）"，未来稀缺的是提问/判断/创造/行动能力；一个人 + 一组 AI Agent 可接近小型组织生产力。

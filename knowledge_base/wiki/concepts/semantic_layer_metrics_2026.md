@@ -11,8 +11,13 @@ sources: [2026-08-09_Kaelio_Supaboard_dbt_语义层与指标层2026全景, 2026-
 created: 2026-08-09
 updated: 2026-08-15
 cross_refs: [[data_governance_tech_routes_2026]], [[retail_analytics_reporting_2026]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[2026-08-15_语义层与数据契约治理2026]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 语义层与指标层（Semantic Layer / Metrics Layer）2026
 
 > **一句话摘要**：语义层是 2026 年成为 AI 基础设施的数据抽象层——把"已定义好的指标/维度/实体关系/业务规则"与原始数据分离，对 BI 工具与 AI Agent 统一暴露，解决多团队对同一指标定义不一、报表口径漂移的问题。

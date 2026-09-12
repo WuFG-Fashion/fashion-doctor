@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-31
 updated: 2026-07-31
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-31
+expires_at: 2026-10-29
+status: active
 ---
-
 # Streamlit 2026 生产部署与 Cloud 零门槛
 
 > **一句话摘要**：2026 Streamlit 部署三路线——Snowflake Container Runtime GA(GPU/长时服务/secrets)、Streamlit Cloud 免邀请零门槛(4分17秒全球上线)、Docker(327MB镜像/3秒启动)；全脚本重跑模型下缓存与性能排查是关键。

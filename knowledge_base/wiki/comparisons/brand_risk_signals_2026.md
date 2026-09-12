@@ -11,8 +11,13 @@ created: 2026-08-16
 updated: 2026-09-12
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[karl_lagerfeld]], [[trussardi]], [[crocs]], [[chuu]], [[nerdy]], [[dickies]], [[brand_portfolio_tiers_2026]], [[brand_lifecycle_capital_events_2026]], [[earnings_quality_nonrecurring_2026]], [[apparel_inventory_benchmark_2026]], [[2026-08-23_A3_nerdy_更名NDY与韩国现状]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]], [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[2026-09-12_A1_dekashell_旭弘实业工商核验与法人口径]], [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-12
+review_due_at: 2027-03-11
+status: active
 ---
-
 # 36品牌风险信号汇总（2026 S轮合成）
 
 > **一句话摘要**：从 36 个 focus_brands 实体页提炼七类风险信号——盈利质量、库存、渠道管控、单一市场依赖、品牌势能退潮、治理/口径、数据黑箱；最集中的风险敞口在"盈利质量含水分"（双核同现）与"韩潮快时尚退潮"（4 品牌同敞口）。

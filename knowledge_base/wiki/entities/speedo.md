@@ -8,8 +8,13 @@ sources: [2026-08-15_Speedo_中国泳装市场份额与渠道速览_2026.md, 品
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-21_A3_speedo_BEAMS7与CHIIKAWA联名]], [[salomon]], [[tommy_hilfiger]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # Speedo
 
 > **一句话摘要**：英国竞技泳装品牌，专业游泳装备代名词。

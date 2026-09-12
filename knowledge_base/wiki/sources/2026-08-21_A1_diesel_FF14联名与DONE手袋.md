@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[diesel]], [[服装行业竞争格局]], [[ellesse]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # Diesel ×《最终幻想14》联名落地 + D-ONE 手袋（A1·2026-08-21）
 
 > **一句话摘要**：Diesel ×《最终幻想14》联名披露完整落地节奏（8-7 游戏内穿搭大赛 → 8-28 设计公开 → 9 月发售 → 9-16~10-20 东京/大阪/福冈三城 Pop-Up）；同步推进 D-ONE 手袋（2026 秋冬秀首曝）与 Y2K 耳机新配色（8-17 港澳/新加坡上架），Glenn Martens 主导下"服装→配饰/科技配件"生活方式化加速。

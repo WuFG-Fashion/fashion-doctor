@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[etudes]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Études 新 CEO 与配饰战略：手袋冲 50% 销售 + Marais hybrid 旗舰（2026）
 
 > **一句话摘要**：法国艺术男装 Études Studio 任命新 CEO Brice Groulier（前 Jacquemus CFO、Lemaire 财务总监），战略重心转向配饰（手袋目标约占销售 50%）、强化外套与皮革品类，并将巴黎 Marais 店迁至更大 hybrid 旗舰（含书店/艺术策展）于 2027 年 1 月巴黎男装周开业；中国占其全球营收约 20%、已布局 15 家买手店。

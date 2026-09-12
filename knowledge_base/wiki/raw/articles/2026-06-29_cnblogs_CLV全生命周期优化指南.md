@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-29
+expires_at: 2026-09-27
+status: active
+---
+
 # 2026年会员管理CLV全生命周期优化指南
 
 > 来源：cnblogs.com | 日期：2026-06-11

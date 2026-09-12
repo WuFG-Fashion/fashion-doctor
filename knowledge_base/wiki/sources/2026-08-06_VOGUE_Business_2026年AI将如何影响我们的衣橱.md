@@ -12,8 +12,13 @@ updated: 2026-08-06
 cross_refs: 
   - "[[ai_fashion_consumer_2026]]"
   - "[[apparel_ai_agents_2026]]"
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
 ---
-
 # VOGUE Business——2026年AI如何影响衣橱（含批判性边界）
 
 ## 核心要点

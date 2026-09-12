@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 云迁：零售四大数字化路径——会员资产全域打通与复购提升
 
 > 来源剪藏：https://yunchange.com/news_detail/366/199.html

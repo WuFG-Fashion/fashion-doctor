@@ -8,8 +8,13 @@ brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[sell_through_examination_standard_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # retailnorthstar：服装降价风险与OTB期初库存——分类正价售罄基准
 
 > **一句话摘要**：retailnorthstar：按品类正价售罄基准（核心款 80-90%/延续时尚 65-78%/新款 60-75%/季节 70-85%）；OTB 期初库存须 48-72h 内从系统直取校验；降价归因缺口是普遍盲区。

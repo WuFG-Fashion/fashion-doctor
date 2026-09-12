@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[导购团队管理SOP]], [[店铺规划与过货]], [[sell_through_examination_standard_2026]], [[kpi_benchmark]], [[2026-08-25_human_卖场温度计]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 卖场管理SOP
 
 > **一句话摘要**：把"卖场好不好"变成可巡检、可打分、可改进的系统——八大项检查框架（氛围/形象/陈列/卫生/人员/货品/服务/数据）+ 分区标准（形象/照明/音乐）+ 数据温度计（销售额/售罄率/坪效/人效）三件套。

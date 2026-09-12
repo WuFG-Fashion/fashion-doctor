@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
+---
+
 # SQL查询优化2026：PostgreSQL 18更新 + AI工具 + 五步诊断法
 
 > **来源**：Dupple Blog, "How to Optimize SQL Queries in 2026 (PostgreSQL 18 Update)" — Louis Corneloup, 2026-03-26

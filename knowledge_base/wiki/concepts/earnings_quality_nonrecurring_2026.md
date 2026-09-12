@@ -10,8 +10,13 @@ sources: [2026-07-29_盛泰集团H1业绩预告_出售资产扮靓.md, 2026-07-1
 created: 2026-07-29
 updated: 2026-08-19
 cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[china_apparel_industry_2026q1]], [[anzheng_fashion]], [[jiumuwang]], [[安奈儿]], [[peacebird]], [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]], [[2026-07_东方财富_纺服中报预告综述_预盈率54]], [[2026-08-09_太平鸟_2026H1质量深化存货与研发]], [[2026-08-10_中财网_太平鸟H1电商引擎与费用管控]], [[peacebird_brand_analytics_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-19
+review_due_at: 2027-02-15
+status: active
 ---
-
 # 盈利质量与扣非净利润（2026H1警示）
 
 > **一句话摘要**：2026H1多家服装上市公司"归母"与"扣非"严重背离——盛泰出售资产扮靓(+477%归母但扣非-64%)、九牧王金融资产拖累(-74%~-83%)、美邦由盈转亏，分析竞品时需以扣非净利润为真实经营底色。

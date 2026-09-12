@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # 电商AI Agent五大能力框架 — 纺织服装行业版
 
 > **一句话摘要**：中国纺织建设规划院发布纺织服装电商AI Agent五大核心能力：选品/商品上架/产品咨询/供应链调度/售后服务，指出服装品类与数码/食品存在本质差异，通用Agent无法满足行业需求。

@@ -9,8 +9,13 @@ updated: 2026-08-30
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 # 艾诺丝 AW PROJECT 重奢商圈落地与姊妹品牌 RicoVea（2026-08）
 
 > **一句话摘要**：艾诺丝主品牌 2025 底 1,700+ 店 / 约 50 亿，第二曲线 AW PROJECT 2026H1 加码重奢商圈（上海港汇恒隆首店首日破 60 万、北京 SKP、深圳万象城、南京德基），母公司爱唯时尚集团 2026-03 孵化新锐 RicoVea 接棒走低的 CHUU 热度。

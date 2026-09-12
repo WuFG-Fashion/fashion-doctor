@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # 2026 现代 Python 数据栈：团队实际在用的工具全景
 
 > **来源**: SaaS Curate "The Modern Python Data Stack Teams Are Actually Using in 2026" (saascurate.com) + Datafold "The Modern Data Stack: Open-source edition" (datafold.com) + htdocs.dev "The Modern Python Data Stack in 2026"

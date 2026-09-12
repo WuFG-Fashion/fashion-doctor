@@ -10,8 +10,13 @@ created: 2026-09-02
 superseded_by: "[[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]"
 updated: 2026-09-04
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # 2026-09-02 A3 PVH 2026 Q2 财报发布前瞻（Tommy Hilfiger 品牌预期）
 
 > **一句话摘要**：PVH 集团 FY2026 Q2 财报将于美东 2026-09-02 盘后发布，Zacks/UBS 共识预期 EPS $3.08（+22.2% YoY）、营收 $2.1B（-3.2%），Tommy Hilfiger 品牌收入预期 $1.1B——本轮收录为"发布前分析师预期"前瞻，实际数字落地后需复核更新。

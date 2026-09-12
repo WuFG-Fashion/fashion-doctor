@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
+---
+
 # OTTO / Zalando：德国时尚电商平台的 AI 实战
 
 > 来源：OnMaCon GmbH《KI auf Fashion-Marktplätzen 2026: OTTO-Assistent, Zalando-KI und was Brands jetzt tun müssen》

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-09-12
+expires_at: 2026-12-11
+status: active
+---
+
 # 原始资料 · 20260827_A3_speedo_Page印度与全球
 
 Speedo（Pentland Brands 1991 收购，国际总部 Nottingham；印度由 Page Industries 授权）：

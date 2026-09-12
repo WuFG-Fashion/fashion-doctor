@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[data_library_selection_guide_2026]], [[python_data_stack_decision_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
 ---
-
 # 腾讯云 Polars vs Pandas 千万级实测 2026
 
 > **一句话摘要**：腾讯云开发者社区2026-07-06发布千万行(1000万×12列/567MB CSV)严格对照实测，Polars全链路5.9x加速(22.72s→3.87s)，Join最快7.4x，并提出按数据量分层的迁移决策矩阵。

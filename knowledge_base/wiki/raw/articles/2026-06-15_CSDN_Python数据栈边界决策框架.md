@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-15
+expires_at: 2026-09-13
+status: active
+---
+
 # Python 在数据栈中的边界：何时高效原型、何时切换到 SQL/Spark/Rust
 
 > 来源: CSDN Blog, 2026-04-10

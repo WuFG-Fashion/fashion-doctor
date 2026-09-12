@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 剪藏：Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）
 
 - 来源：交易公告 / 品牌官宣 / 授权公告

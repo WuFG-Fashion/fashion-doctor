@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 卡宾服饰 2026 中期业绩与 2025 年报（原始剪藏）
 
 > 来源：卡宾服饰(02030.HK) 2026-08-07 中期业绩公告（irmedia.cabbeen.com PDF）+ 中国证券报·中证网 2026-08-07 + 格隆汇/搜狐 2026-03-11（2025 年报）+ 环球网 2026-08-13 解读

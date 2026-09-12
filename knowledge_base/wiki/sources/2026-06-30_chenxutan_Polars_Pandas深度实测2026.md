@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[duckdb_olap_engine_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
 ---
-
 # Polars vs Pandas深度实测：1亿行RFM 15x加速 + v1.26新功能
 
 > **来源**：chenxutan.com, 2026-06-28

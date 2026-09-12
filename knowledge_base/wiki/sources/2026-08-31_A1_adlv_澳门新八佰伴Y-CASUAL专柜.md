@@ -9,8 +9,13 @@ updated: 2026-08-31
 cross_refs: [[adlv]], [[chuu]], [[awoken_time]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-31
+expires_at: 2026-11-29
+status: active
 ---
-
 # 2026-08-31 A1 ADLV 澳门新八佰伴 Y-CASUAL 专柜（港澳渠道扩展）
 
 > **一句话摘要**：韩国潮流品牌 ADLV（acmé de la vie）于**澳门新八佰伴（南湾店）3 楼 Y-CASUAL 专柜**上架「小熊系列」（Baby Face），确认品牌在**中国内地约 14 店之外，已切入港澳免税/旅游零售渠道**——是其"内地标杆 mall + 港澳旅游零售"双线渠道策略的实证，也是韩潮品牌借港澳免税客流做高毛利溢出的典型路径。

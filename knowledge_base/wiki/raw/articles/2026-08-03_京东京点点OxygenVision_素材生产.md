@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-03
+expires_at: 2026-11-01
+status: active
+---
+
 # 京东京点点 Oxygen Vision 服饰素材生产（2026）
 
 > 来源：腾讯网，2026-07-08《扎根产业！更懂零售的技术AI矩阵是如何运作的》

@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[3c_operation_system]], [[weifu_consulting]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 销售力/BMTE 终端零售体系（韦孚 3C 前身）
 
 > **一句话摘要**：李炳辰 2008-2016 主导的韦孚**早期终端零售方法论**（销售力提升体系 / BMTE 终端零售体系），是 3C 经营体系的前身；2017 年起逐步被 3C 经营体系（以商品为核心）迭代；核心案例：歌力思 2015-2016 BMTE 导入 35+ 标杆店 +20%、VERRI 2014-2015 35 家 +20%、赢家 2008 至今长期合作。

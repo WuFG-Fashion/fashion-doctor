@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-13
+expires_at: 2026-11-11
+status: active
+---
+
 # 时尚零售商季节库存计划（STR/WOC/OTB/GMROI六大指标）
 
 - 来源: https://www.easyreplenish.com/blog/seasonal-inventory-planning-fashion

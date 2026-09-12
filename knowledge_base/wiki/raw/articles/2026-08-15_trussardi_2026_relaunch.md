@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 楚萨迪（Trussardi）2026 重启与开店计划（原始剪藏）
 
 > 来源：商业新知 2026-06、搜狐 2026-06（Fashion Network/华丽志）

@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[ariose_years]], [[2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店]], [[2026-09-02_A1_ariose_years_重庆悦荟旗舰店与价格带]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[dekashell]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # 艾诺丝雅诗 重庆 FV 佛罗伦萨小镇奥莱二期正式开业 + 客流/销售量化
 
 > **一句话摘要**：重庆 FV 佛罗伦萨小镇名品奥特莱斯二期于 **2026-09-10 正式开业**（8/13 试营业），新增 60 余家品牌（其中 18 家重庆奥莱独家）、整体建面拓至约 8 万㎡、品牌总数近 200 家；**试营业以来客流同比 +40%、销售额同比 +35%**，JORYA/HAGLOFS/UNDEFEATED 等独家品牌表现突出——ARIOSE YEARS（艾诺丝雅诗）位列 18 家重庆奥莱独家品牌（潮流男女装），其奥莱落点从"预计启幕"升级为"已开业 + 项目方量化验证"。

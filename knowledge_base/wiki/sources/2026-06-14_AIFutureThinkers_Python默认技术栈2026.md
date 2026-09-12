@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-14
 updated: 2026-06-14
 cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-14
+expires_at: 2026-09-12
+status: active
 ---
-
 # Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
 
 > **一句话摘要**：2026年Python项目统一技术栈：uv+Ruff+Ty+Polars四件套替代传统8+工具，所有配置集中pyproject.toml，一站式管理从环境到数据管道。

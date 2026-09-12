@@ -9,8 +9,13 @@ sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙�
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]], [[brand_portfolio_tiers_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # NAUTICA
 
 > **一句话摘要**：美国航海灵感生活方式品牌，以帆船 logo 与海洋风休闲装著称。

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # ellesse × Smiley 联名与 Andrew Garfield campaign（A1·2026-08-22）
 
 > **一句话摘要**：意大利复古运动品牌 ellesse 2026 夏推 × Smiley 联名（70 年代 Rave 电音 + 笑脸，暖粉/暖阳黄高饱和），并启动 Andrew Garfield "Do It Like an Italian" FW2026 全球 campaign；2026 官网价格带 T 恤 £45–125、外套 £55–190，京东夹克约 399 元。

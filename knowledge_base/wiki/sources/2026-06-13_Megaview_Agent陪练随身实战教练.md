@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-13
 updated: 2026-06-13
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-13
+expires_at: 2026-09-11
+status: active
 ---
-
 # Megaview Agent陪练成为导购随身实战教练
 
 > **一句话摘要**：深维智信Megaview基于MegaAgents架构的AI陪练系统，CCFA报告显示45%门店导购转化不足，引入2个月后成交率+18%/客单价+12%/新人出单缩至1.5个月。

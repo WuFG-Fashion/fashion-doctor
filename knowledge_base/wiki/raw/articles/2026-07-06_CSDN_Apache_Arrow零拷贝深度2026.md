@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
+---
+
 # Apache Arrow 零拷贝与跨语言互操作 2026深度实战
 
 > 来源：CSDN，2026-07-04

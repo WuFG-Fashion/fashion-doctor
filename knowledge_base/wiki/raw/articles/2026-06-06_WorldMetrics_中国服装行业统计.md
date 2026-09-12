@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
+---
+
 # WorldMetrics 中国服装行业统计报告（2026年2月发布）
 
 > 来源：WorldMetrics.org 2026-02-12（2026-05验证）

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[no_one_else]], [[服装行业竞争格局]], [[peacebird]], [[chuu]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # NO ONE ELSE — 门店矩阵与明星代言
 
 > **一句话摘要**：韩国 PPB STUDIO 旗下无性别潮牌（chuu 姐妹品牌）在中国多城购物中心铺店（北京/上海/杭州/南京/成都/深圳/武汉），客单 400–600 元，借明星种草+内购折扣转化。

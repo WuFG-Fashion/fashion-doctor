@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：Tommy Hilfiger — PVH FY2026Q1 与中国直营收购
 
 - 来源1（华丽志，官方财报）：https://luxe.co/ （PVH 截至 2026-05-03 FY2026Q1）

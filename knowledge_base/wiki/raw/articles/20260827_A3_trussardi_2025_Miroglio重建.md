@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-09-12
+expires_at: 2026-12-11
+status: active
+---
+
 # 原始资料 · 20260827_A3_trussardi_2025_Miroglio重建
 
 Trussardi（意大利，Miroglio 集团 2024-03 收购）：

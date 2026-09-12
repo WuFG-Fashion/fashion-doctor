@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-13
 updated: 2026-07-13
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
 ---
-
 # 小红书FireRed开源AI试衣模型
 
 > **一句话摘要**：小红书Super Intelligence团队开源FireRed-Image-Edit模型（v1.0→v1.1史诗级更新），支持虚拟试穿，4.5秒推理/10+元素融合/消费级显卡运行，但消费者信任危机（AI试穿仅4%选择率）成为最大挑战。

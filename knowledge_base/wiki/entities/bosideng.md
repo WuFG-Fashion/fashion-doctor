@@ -9,8 +9,13 @@ sources: [2026-06-29_波司登_FY2026财报.md, 2026-07-02_深圳新闻网_波�
 created: 2026-06-29
 updated: 2026-08-04
 cross_refs: [[china_apparel_industry_2026q1]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[apparel_supply_chain_profit_chasm_2026q1]], [[2026-07-03_中财网_纺织服装中报前瞻2026]], [[2026-07-09_申万宏源2026中报前瞻]], [[2026-06-22_波司登AI智能制造国家级典型案例]], [[2026-06-08_AI驱动服装供应链重塑]], [[2026-08-04_波司登品牌价值1356.87亿]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-04
+expires_at: 2027-01-31
+status: active
 ---
-
 # 波司登（3998.HK）
 
 > **一句话摘要**：中国羽绒服龙头，FY2025/26（截至2026年3月）营收273.5亿(+5.6%)/净利39.94亿(+13.7%)/毛利率57.2%/净利率14.6%，连续第九年双增，AI全链路布局领先，ESG MSCI AAA亚洲纺织首个。

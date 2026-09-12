@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[动态OTB管理]], [[柔性供应链与商品企划]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # $5B at Risk：零售尺码曲线正在漂移（Impact Analytics，2026）
 
 > **一句话摘要**：Impact Analytics 2026警示，GLP-1等因素驱动尺码需求结构性向小码漂移，超4亿件服装面临错配、$50亿库存与毛利敞口；历史尺码曲线基于"卖了的"非"想要的"，缺货静默扭曲曲线。

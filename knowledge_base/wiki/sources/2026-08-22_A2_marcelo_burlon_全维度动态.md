@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[marcelo_burlon]], [[服装企划趋势渠道]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # A2轮·Marcelo Burlon 2026 全维度动态
 
 > **一句话摘要**：Marcelo Burlon 的 County of Milan（2012 创立）2025 年发生**授权易主**：全球设计/制造/分销许可从 Farfetch（2019 收购 New Guards Group 后持有）转交意大利公司 Daddato Next（Dario Daddato / Matteo Battaglia / Giacomo Ragazzi）；Burlon 仍 100% 持有品牌，首系列于 2025 秋发布，定位"扎实、结构化、雄心勃勃的工业项目"重启。Burlon 已于 2024-04 退出创意总监。联名新增 ×Eastpak（MB Padded Pak'r / MB Reader / MB Springer）与 ×Kappa ×SSC Napoli 三方（限量球衣 1000+200）。财务私营未披露。

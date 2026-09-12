@@ -11,8 +11,13 @@ sources: [2026-08-15_Études_Studio_法国艺术时装屋与2030蓝图_2026.md, 
 created: 2026-08-14
 updated: 2026-08-31
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-31
+expires_at: 2027-02-27
+status: active
 ---
-
 # Études Studio
 
 > **一句话摘要**：法国艺术导向时装屋（注意与韩妆 ETUDE HOUSE 伊蒂之屋区分），2012 年巴黎创立，男装+出版+艺术策展。

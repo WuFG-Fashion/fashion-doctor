@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # Agentic Commerce for Fashion Brands 2026（剪藏）
 
 > 来源：paz.ai《Agentic Commerce for Fashion and Apparel Brands》，2026

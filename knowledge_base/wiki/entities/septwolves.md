@@ -9,8 +9,13 @@ sources: [http://finance.sina.com.cn/roll/2026-02-10/doc-inhmiaek4662804.shtml, 
 created: 2026-06-06
 updated: 2026-08-03
 cross_refs: [[会员复购率提升策略]], [[私域运营方法论]], [[sleeping_member_reactivation|沉睡会员唤醒策略]], [[全渠道会员一体化]], [[2026-07-19_七匹狼私域会员运营深度]], [[2026-08-03_微盟见实_七匹狼会员深度运营五年最高增长]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-03
+expires_at: 2027-01-30
+status: active
 ---
-
 # 七匹狼 (Septwolves)
 
 > **一句话摘要**：七匹狼002029，中国男装品牌，2026年以私域运营为核心战略，小程序GMV同比增长60%，高价值会员运营（狼族俱乐部）回流率70-80%，是服装零售私域标杆。

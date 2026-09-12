@@ -9,8 +9,13 @@ updated: 2026-09-04
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[salomon]], [[2026-09-03_A2_hoka_one_one_秋季产品矩阵_中国防水徒步与生活方式定价]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-04
+expires_at: 2026-12-03
+status: active
 ---
-
 # HOKA 2026 Archive 复刻与潮流化（Tor Ultra Lo 复刻 + Clifton UTL）
 
 > **一句话摘要**：HOKA 在 2026-08~12 分批发售 **Tor Ultra Lo** 复刻（2015 年 Archive 经典跨界 hiker，¥38,500 日圆 ≈ $243，4 配色经日本/潮流精选店渠道放量），并于 9 月初推 **Clifton UTL**（潮流化 Clifton，台湾 NT$5,080，Emma Rogue 演绎）——两枚新 SKU 与已入库的 Mach Remastered（Mach 6 休闲化复刻 $145）共同构成 HOKA 的"**复刻档案款 + 潮流转译**"产品管线，是 lifestyle 化的第二条腿。

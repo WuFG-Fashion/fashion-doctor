@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # 迪卡轩 全国门店规模与加盟模式
 
 > **一句话摘要**：迪卡轩（DEKASHELL，杭州佰加服饰，2007 创立，Style by Me）定位中高档轻淑女装，全国 300+ 专卖店、覆盖 30 省，加盟需保证金 20-30 万——以"加盟为主、轻资产扩张"支撑"三年冲头部"战略，与 [[ariose_years]] 的代理模型同属杭派女装下沉打法但加盟门槛更显性。

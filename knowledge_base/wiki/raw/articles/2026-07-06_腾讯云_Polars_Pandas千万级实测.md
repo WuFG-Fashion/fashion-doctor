@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
+---
+
 # Polars vs Pandas：千万级真实业务数据实测
 
 > 来源：腾讯云开发者社区，2026-07-06

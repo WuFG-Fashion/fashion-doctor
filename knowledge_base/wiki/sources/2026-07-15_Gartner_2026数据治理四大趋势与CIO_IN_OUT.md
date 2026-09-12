@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-15
 updated: 2026-07-15
 cross_refs: [[data_governance_tech_routes_2026]], [[data_lakehouse_2026]], [[ETL架构选型]], [[data_quality_governance]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-15
+expires_at: 2026-10-13
+status: active
 ---
-
 # Gartner 2026数据治理四大趋势 + CIO数据管理IN/OUT
 
 > **一句话摘要**：Gartner 2026 数据治理 MQ 指出 GenAI 驱动治理市场转折——从人工转向 AI 智能体+主动元数据自动治理，四大趋势（非结构化治理/平台整合/消费者化2.0/动态信任）。CIO 梳理 6 IN（原生治理/平台整合+Lakehouse/Zero ETL/对话式分析/向量原生存储+Iceberg）5 OUT。

@@ -8,8 +8,13 @@ sources: [2026-06-13_腾讯新闻_BI可视化工具排行2026, 2026-06-13_DataEa
 created: 2026-06-13
 updated: 2026-08-06
 cross_refs: [[retail_bi_visualization_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # BI看板在服装零售的部署与落地实操
 
 > **一句话摘要**：从需求分析→工具选型→数据建模→看板设计→部署上线→持续运营，六步走通服装零售BI看板落地全流程。提供Superset/DataEase/Streamlit三种方案的实操对比。

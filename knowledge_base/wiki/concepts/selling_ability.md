@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[2026-09-10_B_低绩效导购辅导与绩效面谈机制]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 推销能力关键指标
 
 > **来源**：Fashion Doctor 明星导购推销能力验证项目（2026-04）

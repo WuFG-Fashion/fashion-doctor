@@ -9,8 +9,13 @@ sources: [https://scopir.com/zh/posts/top-python-data-analysis-libraries-2026/, 
 created: 2026-06-09
 updated: 2026-08-06
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[ETL架构选型]], [[streamlit_dashboard_2026]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[python_data_stack_decision_2026]], [[2026-06-27_今日头条_Polars_DuckDB_Pandas三引擎实测]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # 数据分析库选型决策指南（2026版）
 
 > **一句话摘要**：2026年Python数据分析三引擎协同最佳实践：DuckDB做SQL聚合、Polars做ETL流水线、Pandas做ML/可视化，通过Apache Arrow零拷贝串联。

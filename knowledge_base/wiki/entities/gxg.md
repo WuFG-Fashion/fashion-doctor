@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[muson_gxg]], [[服装行业竞争格局]], [[competitor_overview]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-26
+expires_at: 2027-02-22
+status: active
 ---
-
 # GXG 竞品分析
 
 > **来源**：慕尚集团公开资料 + G2Retail/观远数据合作报道

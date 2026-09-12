@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-08
 updated: 2026-06-08
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-08
+expires_at: 2026-09-06
+status: active
 ---
-
 # 2026 Polars/DuckDB/Pandas三大引擎对比
 
 > **一句话摘要**：PythonDataBench 2026年2月发布的10M行基准测试，Polars和DuckDB比Pandas快4-10x，建议零售场景采用DuckDB→Polars→Pandas三阶段混合栈。

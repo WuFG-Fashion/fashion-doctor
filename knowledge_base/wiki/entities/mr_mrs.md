@@ -12,8 +12,13 @@ sources: [2026-08-15_MR&MRS_ITALY_皮草夫妇_中国奢侈派克大衣速览_20
 created: 2026-08-15
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_mr_mrs_全维度动态]], [[light_luxury_brand_framework_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # MR&MRS ITALY (皮草夫妇)
 
 > **一句话摘要**：意大利奢侈皮草派克大衣品牌，2007 年创立，以手工皮草派克大衣闻名，因韩剧《来自星星的你》全智贤同款爆红。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-17
+expires_at: 2026-09-15
+status: active
+---
+
 # Open-to-Buy Planning in Fashion Retail: Mastering Inventory & Profitability
 
 > **来源**: StyleMatrix 2026-06

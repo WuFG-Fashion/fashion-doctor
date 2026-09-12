@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · Marcelo Burlon 授权易主 + 联名（WebSearch 2026-08-22）
 
 - County of Milan（2012 创立）全球许可由 Farfetch 转交 Daddato Next（Dario Daddato / Matteo Battaglia / Giacomo Ragazzi）；Burlon 100% 持有；首系列 2025 秋；重启为"结构化工业项目"。

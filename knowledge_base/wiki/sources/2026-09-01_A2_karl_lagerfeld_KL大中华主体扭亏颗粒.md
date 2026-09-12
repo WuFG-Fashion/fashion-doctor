@@ -9,8 +9,13 @@ updated: 2026-09-01
 cross_refs: [[karl_lagerfeld]], [[服装行业竞争格局]], [[brand_risk_signals_2026]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-01
+expires_at: 2027-02-28
+status: active
 ---
-
 # KARL LAGERFELD 大中华主体 2026H1 净利 -288.83 万（亏损大幅收窄颗粒）
 
 > **一句话摘要**：七匹狼 2026 半年报披露的子公司 Karl Lagerfeld Greater China Holdings Limited 上半年净利润 **-288.83 万元**，较 2025 全年 **-6,649.18 万元**（含无形资产减值影响）亏损大幅收窄约 96%——首次以子公司主体口径量化 KL 大中华区减亏进度。

@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[brand_store_channel_2026]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-29
+expires_at: 2027-02-25
+status: active
 ---
-
 # HOKA 母公司 Deckers FY2026 全年创新高：中国店破 230 家成最强引擎（2026）
 
 > **一句话摘要**：Deckers Brands 截至 2026-03-31 的 FY2026 全年净销售 $54.72 亿（+9.8%）创历史新高，HOKA $25.87 亿（+15.9%，6 条产品线均破亿）；中国已成 HOKA 国际业务最核心驱动力、门店数破 230 家（超全球任一单一市场），未来每年新增 20-25 家自营店、重点投亚洲/中国；FY2027 指引 $58.6-59.1 亿。

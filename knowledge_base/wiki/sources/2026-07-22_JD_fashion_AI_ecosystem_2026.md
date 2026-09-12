@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # 京东大时尚AI生态2026 — 京点点Oxygen Vision + 数字人直播
 
 > **一句话摘要**：京东大时尚发布零售行业首个AI全自动素材设计平台"京点点Oxygen Vision"，NIKE/Adidas/海澜之家等品牌应用后转化率+29.03%/上架速度+90%，AI穿搭覆盖200万款/75类目/1000+品牌，数字人直播7×24小时免费开放。

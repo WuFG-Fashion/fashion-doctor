@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
+---
+
 # 2026年ETL建模与数据仓库选型指南
 
 > 来源：帆软FineDataLink官方博客 https://www.finedatalink.com/blog/article/69c5e0891916e24b22e6e3e4

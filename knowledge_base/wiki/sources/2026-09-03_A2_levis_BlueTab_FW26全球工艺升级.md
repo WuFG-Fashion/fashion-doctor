@@ -9,8 +9,13 @@ updated: 2026-09-03
 cross_refs: [[levis]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]], [[2026-08-27_A2_levis_全维度动态]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-03
+expires_at: 2026-12-02
+status: active
 ---
-
 # Levi's Blue Tab™ FW2026「Takes Flight」全球工艺升级（航空灵感 + 全球奢华材质扩张）
 
 > **一句话摘要**：Levi's 最高端线 Blue Tab™ 发布 FW2026「Takes Flight」系列——以 1940s 飞行员与 Amelia Earhart 等早期女性飞行员为灵感，将 Blue Tab 从"日本丹宁工艺"单点升级为**全球顶级材质组合**（意大利皮/麂皮 + 羊绒/羊毛针织 + 日本 indigo 丹宁 + 八棱灯芯绒），8 月起全球 Levi's 门店与官网上市，标志 Levi's 高端化的"全球工艺"叙事成型。

@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[jnby]], [[服装行业竞争格局]], [[competitor_overview]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-26
+expires_at: 2027-02-22
+status: active
 ---
-
 # 速写/江南布衣竞品分析
 
 > **来源**：江南布衣（3306.HK）2025财年年报 + 公开报道

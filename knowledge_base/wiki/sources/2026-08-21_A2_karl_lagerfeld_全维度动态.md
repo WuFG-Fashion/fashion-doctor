@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[karl_lagerfeld]], [[septwolves]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A2轮·KARL LAGERFELD 2026 全维度动态
 
 > **一句话摘要**：七匹狼（KL 大中华区被授权方）2025 年报细化：KL 品牌 2025 营收 ¥3.77 亿、净亏损扩大至 ¥6,649 万（+142%）、计提无形资产减值 ¥8,279 万、净资产 -1.6 亿；七匹狼整体 2025 营收 30.04 亿 -4.35%、归母 3.33 亿 +16.91%（靠投资收益）、扣非仅 ¥961 万 -86.91%；门店净减 98 家至 1,706（直营 817/加盟 889）；2026Q1 七匹狼扣非 +302.63% 至 ¥1.56 亿（费用紧缩+库存出清驱动，非基本面反转）。KL 中国持续承压，与 G-III 全球增长（$630M、170+店）分化加剧。

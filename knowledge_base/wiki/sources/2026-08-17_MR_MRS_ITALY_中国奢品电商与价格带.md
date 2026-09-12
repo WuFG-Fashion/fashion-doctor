@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[mr_mrs]], [[服装行业竞争格局]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # MR&MRS ITALY（皮草夫妇）— 中国奢品电商与价格带
 
 > **一句话摘要**：意大利小众奢侈皮草派克品牌（2007 创立），在中国以寺库/百联/别样等奢品电商与买手店触达，无大规模 mono-brand 店，价格带 ¥1.1 万–5.3 万。

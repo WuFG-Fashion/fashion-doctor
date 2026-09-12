@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # HumbleHumbleR 明星营销矩阵与奥莱渠道
 
 > **一句话摘要**：HumbleHumbleR（宁波新锐街头品牌）2025-12~2026-02 以时代少年团系/演员明星同款做种草营销，发布 26 Spring "Softcore" 系列，线下新店落点沈阳杉杉奥莱（全场低至 99 元），暗示折扣店主导渠道结构。

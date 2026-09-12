@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[china_apparel_industry_2026q1]], [[apparel_inventory_benchmark_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-16
+expires_at: 2026-10-14
+status: active
 ---
-
 # 商务部2026年1-2月服装行业经济运行
 
 > **一句话摘要**：2026年开年服装行业企稳修复，内销+10.7%/出口+14.8%/利润-5.19%（降幅收窄22.15pp）/利润率3.58%，为全年最早官方基准信号。

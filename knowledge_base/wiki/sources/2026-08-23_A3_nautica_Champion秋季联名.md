@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[nautica]], [[tommy_hilfiger]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # A3轮·NAUTICA × Champion 2026 秋季联名
 
 > **一句话摘要**：NAUTICA 携手 Champion 推出 2026 秋季联名系列，共 7 款单品（T恤/卫衣/连帽衫/长裤），将 NAUTICA 字母 "C" 融入 Champion Logo，以 "NTC" 学院徽章 + 橡胶印花强化复古校园气质——ABG 授权体系下品牌墙成员的常规联名动作。

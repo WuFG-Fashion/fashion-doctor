@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[humble_humble_r]], [[服装企划趋势渠道]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # A2轮·HUMBLE 2026 全维度动态
 
 > **一句话摘要**：街头服饰品牌 HUMBLE（品牌墙品牌）2026 可见信号：被台湾 NIL Official 渠道销售（图形 Tee NT$2,680-3,680，含 Smiley Face / Paisley Stars / slogan 款）；另有独立站 thehumblebrand.co 走超级英雄 IP Tee（$70）；香氛线"旋转木马复古随行香包"（¥88）。品牌财务未披露。⚠️ 须与瑞典食饮集团 "Humble Group AB"（STO:HUMBLE，Q2 2025 净销售 SEK 1.983B）严格区分——二者同名不同业，禁混用。

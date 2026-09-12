@@ -9,8 +9,13 @@ sources: [2026-06-21_百家号_数据资产管理全景指南2026.md, 2026-07-28
 created: 2026-06-21
 updated: 2026-07-28
 cross_refs: [[data_governance_tech_routes_2026]], [[data_quality_governance]], [[data_lakehouse_2026]], [[ETL架构选型]], [[multi_brand_unified_analytics]], [[2026-08-03_数据治理五大平台AI原生横评2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-07-28
+review_due_at: 2027-01-24
+status: active
 ---
-
 # 数据资产管理2026全景
 
 > **一句话摘要**：2026年数据资产管理从"战略愿景"变为"管理动作"——数据资产入表全面落地+AI驱动治理升级，七大核心能力覆盖从元数据到AI数据供给，人工工作量压缩40%/效率提升3倍。

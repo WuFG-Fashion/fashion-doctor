@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]], [[data_quality_governance]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # Agentic Commerce 2026 — 结构化产品数据成胜负手（paz.ai）
 
 > **一句话摘要**：2026 年 Agentic Commerce 进入协议标准化 + 规模化部署期：ChatGPT 9 亿周活成最大购物流量入口之一，Shopify 5.6M 门店接入 AI 购物；胜负手从"流量运营"转向"结构化产品数据"——AI 代理只推荐属性完整、库存新鲜的 SKU。

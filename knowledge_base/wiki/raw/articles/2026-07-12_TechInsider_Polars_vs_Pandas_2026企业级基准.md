@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
+---
+
 # Polars vs Pandas 2026: 15x Speed Gap — Tech-Insider企业级基准测试
 
 > 来源：https://tech-insider.org/polars-vs-pandas-2026/

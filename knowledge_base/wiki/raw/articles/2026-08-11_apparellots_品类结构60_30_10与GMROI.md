@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-11
+expires_at: 2026-11-09
+status: active
+---
+
 # 服装品类结构60/30/10与GMROI基准
 
 来源：apparellots《How to Choose the Right Clothing Inventory for Your First Store》（2026）。

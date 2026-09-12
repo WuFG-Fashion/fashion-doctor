@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-02
 updated: 2026-08-02
 cross_refs: [[ai_fashion_design_cases_2026]], [[ai_fashion_market_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-02
+expires_at: 2026-10-31
+status: active
 ---
-
 # CLO Virtual Fashion DiffGI 薄壳 3D 服装生成
 
 > **一句话摘要**：CLO Virtual Fashion 提出 DiffGI（可微分几何图像），首次以接近人类裁缝理解布料的方式生成/还原薄壳 3D 服装，破解领口/荷叶边/拉链等开放边界结构的锯齿难题。

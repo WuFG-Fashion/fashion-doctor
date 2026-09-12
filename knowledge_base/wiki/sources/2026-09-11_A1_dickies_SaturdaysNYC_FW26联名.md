@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[dickies]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]], [[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]], [[品牌联名策略]], [[品牌墙概念与代理模式]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # Dickies × Saturdays NYC 2026 秋冬联名胶囊
 
 > **一句话摘要**：纽约冲浪都市品牌 **Saturdays NYC × Dickies 2026 秋冬联名胶囊**于 2026-09-11 起在 Saturdays NYC 门店与官网发售（中文版口径为 09-15）——以**成衣染色（garment-dyed）+ 低调褶裥 + 考究腰头**把 Dickies 挺括 TC 斜纹布工装裤**升级为精裁西裤质感**，主推 **875 Slacks（直筒精裁）** 与 **873 Slim Fit Work Pants（修长工装）** 两款裤型；承接双方 SS26 联名脉络，为 Dickies 2026 年**第四条联名线**、也是第三条"设计圈/买手店"路线（继 UNION × INVERSE、Our Legacy WORK SHOP 之后）。

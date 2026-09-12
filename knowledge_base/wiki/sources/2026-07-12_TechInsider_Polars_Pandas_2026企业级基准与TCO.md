@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[arrow_zero_copy_interop_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
 ---
-
 # TechInsider Polars vs Pandas 2026企业级基准与TCO
 
 > **一句话摘要**：TechInsider 2026-04权威基准——Polars 1.24.0 vs Pandas 2.2.3（3.0延迟），15-30x group-by加速、8.6x内存缩减、VU Amsterdam能源研究3-5x省电、GitHub ETL降本75%、JPMorgan VaR 7.3x加速、Polars周下载280万(+250% YoY)。

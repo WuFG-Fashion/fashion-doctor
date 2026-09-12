@@ -9,8 +9,13 @@ updated: 2026-09-09
 cross_refs: [[lacoste]], [[服装行业竞争格局]], [[品牌联名策略]], [[2026-08-27_A2_lacoste_全维度动态]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-09
+expires_at: 2026-12-08
+status: active
 ---
-
 # LACOSTE × The Hoxton 房内胶囊——酒店渠道零售创新
 
 > **一句话摘要**：LACOSTE 联名英国酒店集团 The Hoxton 与洛杉矶艺术家 Michael McGregor，推出仅限住客经房内菜单订购的 7 件限定胶囊（Polo/卫衣/睡衣/浴袍等，$120 起），是继 8 月纽约 The Plaza「Le Café Lacoste」后第二次酒店渠道零售动作。

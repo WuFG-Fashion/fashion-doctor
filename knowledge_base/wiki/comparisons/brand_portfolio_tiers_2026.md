@@ -12,8 +12,13 @@ created: 2026-08-16
 updated: 2026-09-06
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[ariose_years]], [[karl_lagerfeld]], [[nerdy]], [[dickies]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[core_brands_peacebird_cabbeen_2026]], [[six_brands_2026q1]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-06
+review_due_at: 2027-03-05
+status: active
 ---
-
 # 36品牌组合分层矩阵（2026 S轮合成）
 
 > **一句话摘要**：对全部 36 个 focus_brands 做首轮全景合成——按营收规模、增长模式、品类定位、国际化程度、渠道结构、数据可得性六个维度分层，识别出"DTC 直营化与高增长强相关""运动户外是唯一确定性赛道""韩潮两极分化""数据黑箱是系统性约束"四条跨品牌模式。

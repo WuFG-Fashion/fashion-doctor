@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-13
 updated: 2026-08-13
 cross_refs: [[AI导购陪练]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-13
+expires_at: 2026-11-11
+status: active
 ---
-
 # 连锁门店导购高压训练场景切片AI教练陪练破解需求挖掘难题
 
 > **一句话摘要**：Megaview AI 教练即时反馈 + SPIN 暗示性问题，知识留存率提至 ~72%，培训成本 −50%，新人上岗 6 月压缩至 2 月。

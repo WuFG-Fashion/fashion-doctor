@@ -12,8 +12,13 @@ sources: [2026-07-14_安正时尚_2026H1业绩预告.md]
 created: 2026-07-17
 updated: 2026-07-29
 cross_refs: [[light_luxury_brand_framework_2026]], [[bienlefen]], [[earnings_quality_nonrecurring_2026]], [[2026-07-29_盛泰集团H1业绩预告_出售资产扮靓]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-29
+expires_at: 2027-01-25
+status: active
 ---
-
 # 安正时尚 (603839.SH)
 
 > **一句话摘要**：A股中高端女装集团，核心品牌JZ玖姿，2026H1归母净利5800-8500万(+162%~285%)，扣非+303%~494%，聚焦核心品牌+全域零售+供应链优化驱动主业强劲修复。

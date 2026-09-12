@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-03
 updated: 2026-08-03
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[ai_virtual_tryon_2026]], [[retail_ai_adoption_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-03
+expires_at: 2026-11-01
+status: active
 ---
-
 # 京东京点点Oxygen Vision服饰素材生产（2026）
 
 > **一句话摘要**：京东自研 Oxygen Vision 以 200+ 数字模特库 + 1 分钟生成全套高清素材，adidas 旗舰店素材生产效率提升 30 倍、转化+29%；Oxygen TryOn 覆盖千万级商品/数万家店铺。

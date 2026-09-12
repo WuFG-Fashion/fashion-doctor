@@ -9,8 +9,13 @@ updated: 2026-06-21
 sources:
   - 2026-06-06_简道云_服装SKU进销存管理
 cross_refs: [[sku_fine_management|服装SKU精细化管理]], [[SQL查询性能优化]], [[动态OTB管理]], [[2026-01-28_搜狐_服装库存破局双轨制与ESG合规]], [[2026-05-07_新浪财经_永辉SKU优化调改实践]], [[2026-08-03_服装零售指标口径统一与进销存SQL]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-06-21
+review_due_at: 2026-12-18
+status: active
 ---
-
 # 服装SKU进销存管理实操
 
 > **一句话摘要**：服装SKU进销存管理的完整实操框架——从SKU编码规范、ABC分类自动计算、安全库存公式、畅滞款SQL识别，到8维度补货决策的端到端落地指南。

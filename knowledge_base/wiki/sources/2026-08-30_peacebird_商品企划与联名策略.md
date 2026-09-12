@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-30
 updated: 2026-08-30
 cross_refs: [[peacebird]], [[商品企划体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 > **一句话摘要**：太平鸟 2026 以"新年∞好/高光假日"主题系列 + 国际设计师联名 + 复古运动风秋冬，按主品牌25-35/LEDIN18-28/MINI PEACE0-14 多客群分层企划，直营新品折率提升、存货控制有力。
 > **置信度**：品牌自宣（官方企划发布 + 财报运营表述）
 > **来源**：wiki/raw/articles/2026-08-30_peacebird_商品企划与联名策略.md（WebSearch 聚合）

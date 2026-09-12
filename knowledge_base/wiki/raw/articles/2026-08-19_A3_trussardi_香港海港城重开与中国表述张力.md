@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — Trussardi 香港海港城 TRU TRUSSARDI 旗舰店新形象重开，与"暂不考虑中国"表述的张力
 
 来源：

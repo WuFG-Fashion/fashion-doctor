@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
+---
+
 # Megaview 导购启动AI培训实验转化跃升（原始采集 2026-08-09）
 
 来源：megaview.com/resource/archives/24420（WebSearch 2026-08-09，Round B / L2_04）

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # Trussardi：资本重组风险警示与品牌延伸（住宅/游艇）
 
 > 来源：华丽志 LuxeCO（2025FY 财报 + Racca 访谈）+ 商业新知（开店计划）

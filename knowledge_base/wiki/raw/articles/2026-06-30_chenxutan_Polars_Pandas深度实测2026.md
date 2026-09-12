@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
+---
+
 # Polars vs Pandas 深度实测：列式存储、懒执行与多线程重构大数据处理范式（2026版）
 
 > **来源**：chenxutan.com, "Polars vs Pandas 深度实战：列式存储、懒执行与多线程如何重构大数据处理范式", 2026-06-28

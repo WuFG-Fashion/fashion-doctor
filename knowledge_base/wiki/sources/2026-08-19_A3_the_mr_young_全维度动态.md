@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[the_mr_young]], [[no_one_else]], [[light_luxury_brand_framework_2026]], [[服装行业竞争格局]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A3轮·THE MR YOUNG 2026 全维度动态
 
 > **一句话摘要**：首次为 THE MR YOUNG（密特·扬）落定运营主体——**上海艾动实业有限公司**（注册资本 1400 万，法人余忠明，注册地上海奉贤）；企业页自宣"一二线核心商圈专卖店 500 余家、覆盖 150 余城、员工近千人"，但工商登记人员规模仅 20-99 人，两者严重不匹配，500 店数据不可采信为事实；品牌真实可验证的动作是淮海中路518号潮流艺术体验店、自有 IP"扬仔"、与鲸鱼赛车俱乐部联名。

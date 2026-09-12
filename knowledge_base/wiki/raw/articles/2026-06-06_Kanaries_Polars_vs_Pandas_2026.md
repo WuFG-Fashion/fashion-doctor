@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
+---
+
 # Polars vs Pandas：2026年选型指南
 
 > **来源**：Kanaries Docs，2026-02-11

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-05
 updated: 2026-06-05
 cross_refs: [[AI导购陪练]], [[深维智信]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-05
+expires_at: 2026-09-03
+status: active
 ---
-
 # 2026-06-05 Megaview AI陪练赋能零售导购
 
 > **来源摘要**：深维智信Megaview发布的AI陪练解决方案，引用KPMG/CCFA/京东消费研究院数据

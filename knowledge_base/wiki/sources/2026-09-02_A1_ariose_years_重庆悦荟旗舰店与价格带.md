@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[2026-08-30_ariose_years_AWPROJECT重奢落地与RicoVea]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # 艾诺丝雅诗 重庆悦荟北区首家旗舰店与价格带颗粒
 
 > **一句话摘要**：ARIOSE YEARS（艾诺丝雅诗）于重庆悦荟购物中心 L1 开「北区首家旗舰店」（2026-08 焕新登场，微博官方号发布）；爱企查补全价格带颗粒：主流单品 ¥700-3,000、奥莱/特卖 ¥300-600、正价千元以上，门店口径 1700/1800/2890 家并存。

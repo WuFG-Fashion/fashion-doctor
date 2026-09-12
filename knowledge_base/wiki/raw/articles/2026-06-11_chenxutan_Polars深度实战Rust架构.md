@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-11
+expires_at: 2026-09-09
+status: active
+---
+
 # Polars 深度实战：碾压 Pandas 的 Rust 极速 DataFrame 库（2026）
 
 > 来源：https://chenxutan.com/d/3111.html

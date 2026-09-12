@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
+---
+
 # 2026年AI将如何影响我们的衣橱？
 
 > **来源**：VOGUE Business（搜狐转载），2026-06-30

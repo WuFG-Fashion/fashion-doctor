@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # 优衣库一边关店，一边赚钱（关店赚钱·全球第二）
 
 > 来源：腾讯新闻 / 2026-07-27（https://new.qq.com/rain/a/20260727A04PG400）

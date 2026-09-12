@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 剪藏：艾诺丝雅诗 AW PROJECT 重奢拓店清单 / 母公司集团化（A1·2026-08-23）
 
 - 来源：品牌官宣 / 购物中心媒体（港汇恒隆/SKP/万象城/德基）

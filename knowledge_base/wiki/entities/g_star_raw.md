@@ -11,8 +11,13 @@ sources: [2026-08-15_G-Star_RAW_中国丹宁运营与渠道速览_2026.md, 品�
 created: 2026-08-14
 updated: 2026-09-11
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-09-11_A2_g_star_raw_FluidDenim轻量天丝丹宁]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-11
+expires_at: 2027-03-10
+status: active
 ---
-
 # G-Star RAW
 
 > **一句话摘要**：荷兰丹宁品牌，1989 年阿姆斯特丹创立，'原始牛仔 Raw Denim'先驱，中国由极星服饰商贸（上海）运营。

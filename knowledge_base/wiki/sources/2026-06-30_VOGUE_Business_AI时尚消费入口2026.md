@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-20
 updated: 2026-07-20
 cross_refs: [[ai_fashion_consumer_2026]], [[agentic_commerce_fashion_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
 ---
-
 # VOGUE Business — 2026年AI时尚消费入口全景
 
 > **一句话摘要**：VOGUE Business 2026年6月深度报道全球AI时尚消费四大趋势——AI购物入口(Phia/Daydream/Gensmo)、数字人直播(Burberry>50%双11/Tommy Hilfiger天猫男装榜首)、AI穿搭顾问(Ralph Lauren Ask Ralph/Zegna X)、数字衣橱资产管理(Alta/Vêtir/TheRealReal)，中国路径"平台内嵌"vs欧美"独立应用"。

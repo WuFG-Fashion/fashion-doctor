@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[服装企划趋势渠道]], [[sell_through_examination_standard_2026|售罄率考核基准2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
 ---
-
 # retailnorthstar——分品类正价售罄率基准与期初库存校验
 
 > 一句话摘要：分品类正价售罄率基准（Core/Replenishment 80-90%/Carry-over 65-78%/New 60-75%/Seasonal 70-85%），期初库存48-72h校验窗口，数字化OTB准确率0.89 vs 传统0.68。

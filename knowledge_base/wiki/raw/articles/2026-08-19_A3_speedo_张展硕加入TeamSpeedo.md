@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — Speedo 2026-08-18 官宣张展硕加入 Team Speedo
 
 来源：

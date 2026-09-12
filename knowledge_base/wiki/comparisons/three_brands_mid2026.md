@@ -9,8 +9,13 @@ sources: [2026-06-06_竞品财务更新202606]
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[four_brands_2025]], [[menswear_brands_2026q1]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-06-06
+review_due_at: 2026-12-03
+status: active
 ---
-
 # 太平鸟 vs GXG vs 优衣库 — 2026年中期对比
 
 > **一句话摘要**：太平鸟拐点确立（扣非+33.46%），GXG节流续命（营收-9.4%靠省1.79亿），优衣库全球碾压（H1+14.8%中国双位数增长）——三种模式、三种命运。

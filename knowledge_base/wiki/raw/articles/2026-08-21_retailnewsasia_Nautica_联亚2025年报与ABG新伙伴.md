@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # Nautica / Spyder 联亚2025年报数据与ABG新伙伴上海慧中
 
 > 来源：Retail News Asia（ABG 公告转述）+ 爱企查品牌档案

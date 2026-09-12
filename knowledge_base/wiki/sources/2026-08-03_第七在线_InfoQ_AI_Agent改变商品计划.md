@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-03
 updated: 2026-08-03
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[服装企划趋势渠道]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-03
+expires_at: 2026-11-01
+status: active
 ---
-
 # AI Agent 正在改变商品计划：从事后复盘到提前决策（第七在线 / InfoQ）
 
 > 一句话摘要：AI Agent 不替商品团队做决定，而是把商品计划从"一次性作业"推向"持续推演"，实现 7×24 监控、动态推演与提前决策，让决策窗口从"事后"拉到"事前"。

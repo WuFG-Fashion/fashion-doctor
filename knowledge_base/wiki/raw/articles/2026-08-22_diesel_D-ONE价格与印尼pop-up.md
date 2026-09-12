@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # 原始剪藏 — Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）
 
 - 来源：https://sia-hk.com/2026/08/12/diesel-全新-d-one-手袋系列登场 （SIA Hong Kong，2026-08-12）

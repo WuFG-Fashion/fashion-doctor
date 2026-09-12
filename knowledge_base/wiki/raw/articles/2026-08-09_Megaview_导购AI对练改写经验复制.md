@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
+---
+
 # Megaview 导购AI对练改写经验复制（原始采集 2026-08-09）
 
 来源：blog.megaview.com/archives/32387（WebSearch 2026-08-09，Round B / L2_04）

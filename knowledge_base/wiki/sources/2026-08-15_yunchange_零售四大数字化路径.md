@@ -8,8 +8,13 @@ brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[会员复购率提升策略]], [[全渠道会员一体化]], [[私域运营方法论]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # 云迁：零售四大数字化路径——会员资产全域打通与复购提升
 
 > **一句话摘要**：零售四大数字化路径：门店→导购→会员→营销全链路数智化；会员管理四步（全域资产打通→分层精细运营→情感长期绑定→AI智能触达），私域复购系统化提升。

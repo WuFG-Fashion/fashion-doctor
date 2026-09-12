@@ -9,8 +9,13 @@ brand_specific: false
   - https://www.sohu.com/a/1032216588_121707246
 created: 2026-06-06
 updated: 2026-06-06
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
 ---
-
 # FindPowerAI 2026 AI销售陪练选型指南
 
 ## 核心要点

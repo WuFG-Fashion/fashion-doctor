@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[g_star_raw]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # G-Star RAW FW26 ARC 牛仔裤回归
 
 > **一句话摘要**：G-Star RAW 2026 FW26 让标志性 ARC 牛仔裤近 20 年后回归（2026-07 起发售），并推出 ARCHETYPES 档案线 + 藻类生物基 Passado 水洗，品牌档案资产复活与可持续创新并行。

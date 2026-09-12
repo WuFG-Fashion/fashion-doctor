@@ -9,8 +9,13 @@ updated: 2026-09-08
 cross_refs: [[mlb]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]], [[mlb_kids]], [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]], [[2026-08-22_A2_mlb_全维度动态]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-08
+expires_at: 2026-12-07
+status: active
 ---
-
 # MLB 官宣 RESCENE 女团出任 2026AW 品牌模特与 SLEEK 鞋类系列（2026）
 
 > **一句话摘要**：MLB（F&F）2026-09-01 通过官方社媒官宣韩国女团 RESCENE 的 4 名成员（Liv/Minami/May/Zena）出任 2026AW 品牌模特，09-03 发布画报并同步推广 **SLEEK 薄底球鞋系列**（「SLEEK, THE RESCENE WAY」，洋基/道奇 logo、韩国开发亚洲脚型）与 **26FW 动物帽款**；台网已上架——F&F 韩国侧延续"K-pop 女团季季换脸"的 Z 世代营销引擎。

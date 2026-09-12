@@ -10,8 +10,13 @@ created: 2026-08-21
 updated: 2026-08-21
 superseded_by: "[[2026-08-30_peacebird_会员运营与私域复购]]"
 cross_refs: [[peacebird]], [[会员与VIP运营体系2026]], [[全渠道会员一体化]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # 太平鸟会员运营与私域体系佐证
 
 > **一句话摘要**：太平鸟 2026Q1 累计注册会员超 2600 万、高价值活跃会员 580 万，会员贡献营收 68%、复购率 41%、客单高出散客 56%——是"全域会员运营+私域引流"方法论的双核品牌实证。

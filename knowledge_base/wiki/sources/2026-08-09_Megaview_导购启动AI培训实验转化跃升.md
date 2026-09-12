@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
 ---
-
 # Megaview 导购启动AI培训实验转化跃升
 
 > **一句话摘要**：Megaview AI 陪练使价格质疑响应 -40%、异议 >75 分者首月转化近一倍、培训成本 -50%、经验 MegaRAG 24h 同步。

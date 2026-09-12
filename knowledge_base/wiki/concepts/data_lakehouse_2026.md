@@ -10,8 +10,13 @@ sources: [2026-06-08_2026湖仓一体与ETL新四化, https://blog.csdn.net/yunq
 created: 2026-06-08
 updated: 2026-08-06
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]], [[duckdb_olap_engine_2026]], [[data_governance_tech_routes_2026]], [[2026-06-09_解码数据局_数据治理平台四大技术路线2026]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-12_IT之家_数据治理平台选型2026]], [[2026-06-13_百家号_五大厂商数据中台全景拆解2026]], [[2026-06-14_FineDataLink_数据中台赋能服装零售2026]], [[2026-06-15_CSDN_AI驱动数据治理全链路一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[2026-06-18_百家号_2026数据治理性价比三档方案]], [[data_asset_management_2026]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # 湖仓一体2026架构
 
 > **一句话摘要**：2026年数据平台主流架构已从"数据湖vs数据仓库二选一"转向"湖仓一体"——Apache Iceberg成为事实标准，ETL全面向低代码/流批一体/智能化演进，多品牌服装系统可基于Iceberg+StarRocks构建统一分析底座。

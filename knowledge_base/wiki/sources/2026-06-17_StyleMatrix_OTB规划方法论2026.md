@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-17
 updated: 2026-06-17
 cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-17
+expires_at: 2026-09-15
+status: active
 ---
-
 # StyleMatrix OTB规划方法论2026
 
 > **一句话摘要**: 现代OTB=计划销售额+期末库存+降价金额−期初库存−在途订单，双重计量（金额+单位）+OTR协同+AI趋势发现。

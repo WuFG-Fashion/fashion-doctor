@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-15
+expires_at: 2026-10-13
+status: active
+---
+
 # DuckDB vs Polars 2026：从生产管道迁移实战看引擎选择
 
 > **来源**：https://www.danilchenko.dev/posts/duckdb-vs-polars (Danilchenko 个人博客)

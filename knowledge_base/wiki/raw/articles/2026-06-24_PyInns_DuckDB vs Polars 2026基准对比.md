@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-24
+expires_at: 2026-09-22
+status: active
+---
+
 # DuckDB vs Polars 2026 基准对比：单机分析引擎终极选型
 
 > **来源**: https://www.pyinns.com/python/data-sciences/duckdb-vs-polars-2026-fast-analytics-benchmarks

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # 原始剪藏 — 艾诺丝 ARIOSE YEARS 门店口径冲突与母公司变更（A1·2026-08-22）
 
 - 来源：https://baike.baidu.com/view/4019628.htm （百度百科，杭州爱唯服饰，2026-03 数据）

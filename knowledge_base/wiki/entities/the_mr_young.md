@@ -11,8 +11,13 @@ sources: [2026-08-15_THE_MR_YOUNG_密特扬_中国轻奢国潮品牌速览_2026.
 created: 2026-08-15
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_the_mr_young_全维度动态]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # THE MR YOUNG (密特·扬)
 
 > **一句话摘要**：中国本土'轻奢国潮'原创品牌，根植上海，由曾代理 MLB 的上海艾动实业运营，主打高审美潮流生活方式。

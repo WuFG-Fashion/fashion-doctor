@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[speedo]], [[2026-08-19_A3_speedo_全维度动态]], [[2026-08-17_Speedo_江湖见战役_汪顺_UNDEFEATED联名]], [[peacebird]], [[salomon]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A3轮·Speedo BEAMS 7.0 与 CHIIKAWA 联名
 
 > **一句话摘要**：Speedo 2026 夏联名矩阵补全：① Speedo x BEAMS 2026 春夏联名 7.0（2020 年起年度联动，2026-07-11 发售，网格纹样 + 亮橙配色，含 MIN-NANO 三方胶囊）；② Speedo x CHIIKAWA 吉伊卡哇联名（携手代言人汪顺，UPF50+ 防晒面料 + 玩水场景）——与已入库的 UNDEFEATED 联名、张展硕签约共同构成"专业 + 潮流 + IP 萌系"三线结构。

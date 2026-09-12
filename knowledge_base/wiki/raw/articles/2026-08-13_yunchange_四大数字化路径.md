@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-13
+expires_at: 2026-11-11
+status: active
+---
+
 # 2026年零售企业四大数字化路径打通全域营收
 
 - 来源: https://yunchange.com/news_detail/366/199.html

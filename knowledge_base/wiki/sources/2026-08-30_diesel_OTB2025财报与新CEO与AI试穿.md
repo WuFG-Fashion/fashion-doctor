@@ -9,8 +9,13 @@ updated: 2026-08-30
 cross_refs: [[diesel]], [[服装行业竞争格局]], [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 # Diesel / OTB 2025 财报 + 新 CEO + Google Cloud AI 试穿（2026）
 
 > **一句话摘要**：OTB Group 2025 营收约 €1.7B（-4.8%）、消除净债务；Diesel 获"过去 10 年最佳财务年"（柏林/首尔新店、批发清理，贡献 €44M 利润）；2026-01-14 Andrea Rigogliosi 任 Diesel CEO；OTB 携手 Google Cloud 推 AI Virtual Try-On（Diesel + Jil Sander 首发）。

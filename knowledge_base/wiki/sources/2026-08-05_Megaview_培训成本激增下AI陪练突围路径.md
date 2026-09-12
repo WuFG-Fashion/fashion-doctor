@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-05
 updated: 2026-08-05
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-05
+expires_at: 2026-11-03
+status: active
 ---
-
 # 培训成本激增下AI陪练突围路径（Megaview 深维智信）
 
 > 一句话摘要：Megaview以"5维×16粒度"能力雷达图把培训从"大水漫灌"转为"精准滴灌"：新人独立上岗周期6月→2月，主管一对一陪练工时-50%，三个月周期复训后异议处理得分稳定性+40%、边际成本≈0。

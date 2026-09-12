@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[g_star_raw]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[levis]], [[2026-09-02_A2_g_star_raw_再生棉新丹宁与Elwood建筑感廓形]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # A2轮·G-Star RAW「Fluid Denim」——100% TENCEL™ Lyocell 9oz 轻量深靛蓝女装丹宁
 
 > **一句话摘要**：G-Star RAW 推出 **Fluid Denim** 女装系列，用 **100% TENCEL™ Lyocell 天丝、9 盎司轻量丹宁**替代传统重磅硬挺牛仔布——保留深靛蓝外观但去掉刚性与束缚，无弹力却靠轻量与结构自然跟随身体运动；品类从丹宁裤扩到**西装外套/马甲/阔腿裤/fatigue 工装裤/衬衫/工装连衣裙**，把丹宁从"裤装单品"改造成"全衣橱材质语言"。

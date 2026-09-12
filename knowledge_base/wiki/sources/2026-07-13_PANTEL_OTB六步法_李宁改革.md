@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-13
 updated: 2026-07-13
 cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management|服装SKU精细化管理]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-13
+expires_at: 2026-10-11
+status: active
 ---
-
 # PANTEL OTB预算编制六步法+李宁改革案例
 
 > **一句话摘要**：PANTEL时尚提出的OTB预算六步法（销售目标→库存盘点→周转率→期末库存→采买计算→波段分配），李宁实施后售罄率62%→78%、周转143→89天。

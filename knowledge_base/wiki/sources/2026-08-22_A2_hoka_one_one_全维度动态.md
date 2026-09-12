@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[hoka_one_one]], [[2026-06-07_竞品财务更新2026Q1]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # A2轮·HOKA 2026 全维度动态
 
 > **一句话摘要**：Deckers FY2026 Q2（截至 2025-09-30）净销售 +9.1% 至 $1.431B，HOKA +11.1% 至 $634.1M（国际 +29.3%、美国 -1.7%）；FY2026 指引约 $5.35B、毛利率 56.2%；中国保持双位数增长。2026 联名矩阵新增 ×XLIM MAFATE SPEED 2 TS（2026-05-08，¥1,499）、×BEAMS Bondi 7（2026-08，£155）、×John Elliott Rocket X 3（2026-03，£260）、×井柏然 马年限定（2026-01-15）。

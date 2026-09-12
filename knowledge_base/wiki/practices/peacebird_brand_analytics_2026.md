@@ -11,8 +11,13 @@ sources: [2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026
 created: 2026-09-06
 updated: 2026-09-09
 cross_refs: [[peacebird]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]], [[brand_level_data_analysis_gap_matrix]], [[multi_brand_unified_analytics]], [[服装行业竞争格局]], [[earnings_quality_nonrecurring_2026]], [[sell_through_examination_standard_2026]], [[库存三大核心指标]], [[retail_bi_visualization_2026]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # 太平鸟品牌级数据分析实践（渠道结构/门店绩效/存货周转/盈利质量穿透）
 
 > **一句话摘要**：双核 [[peacebird|太平鸟]]（603877.SH）的**品牌级数据分析实践页**——把 2026H1 财报颗粒（营收 28.78 亿/扣非 5071 万/门店 2861/存货降 17.3%）编译成渠道结构 BI、门店绩效、存货周转与盈利质量穿透四大分析模板，是 [[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]] peacebird 行（🟡 部分覆盖 → ✅ 完整闭环）的交付；与 [[cabbeen_brand_analytics_2026|卡宾]] / [[crocs_financial_benchmark_template_2026|Crocs]] 构成"双核+第三财报品牌"同构样板。

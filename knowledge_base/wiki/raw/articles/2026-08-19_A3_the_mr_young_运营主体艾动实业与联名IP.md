@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — THE MR YOUNG（密特·扬）运营主体、门店自宣规模与联名/IP
 
 来源：

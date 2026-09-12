@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-25
+expires_at: 2026-10-23
+status: active
+---
+
 # 2026 数据战略极简主义：零 ETL + 湖仓一体成为架构北极星
 
 > 来源：福建 CIO 网(fjcio.cn)《2026年数据战略：AI 倒逼下的"极简主义"回归》、FineDataLink 博客《数据治理2026新趋势》

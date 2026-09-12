@@ -10,8 +10,13 @@ sources: [https://baijiahao.baidu.com/s?id=1865940131230636888, https://www.digi
 created: 2026-06-06
 updated: 2026-08-15
 cross_refs: [[ETL架构选型]], [[data_governance_tech_routes_2026]], [[零售数据仓库SQL实践]], [[2026-06-07_数据治理平台TOP榜2026]], [[multi_brand_unified_analytics]], [[data_quality_retail_practice]], [[retail_analytics_reporting_2026]], [[2026-06-11_百家号_数据治理AI驱动选型2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[data_lakehouse_2026|湖仓一体2026]], [[data_asset_management_2026]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防|AI驱动数据质量管理2026]], [[2026-08-09_Melissa信通院_零售数据质量2026可信度基准]], [[2026-08-15_语义层与数据契约治理2026]], [[2026-08-15_主动元数据与多品牌数据目录2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 数据质量常态化治理
 
 > **一句话摘要**：2026年企业数据质量治理已形成四大核心指标（完整性/准确性/一致性/时效性）标准化框架，电商零售行业应优先保障时效性与完整性，通过"监控→预警→闭环→迭代"实现常态式管理。

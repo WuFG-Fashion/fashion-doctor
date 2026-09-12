@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[the_mr_young]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # THE MR YOUNG 密特·扬 全维度动态（2026-08-29 A3）
 
 > **一句话摘要**：根植上海本土文化的轻奢国潮设计师品牌，由上海艾动实业运营，以「扬仔」IP 与艺术家/赛车跨界联名构建潮流沟通平台；2025-2026 公开声量较 2021-2022 开店高峰明显回落，未见新财报或大规模拓店披露。

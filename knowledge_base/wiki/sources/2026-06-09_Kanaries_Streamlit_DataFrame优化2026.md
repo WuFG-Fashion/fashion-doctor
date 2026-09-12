@@ -9,8 +9,13 @@ source_url: https://docs.kanaries.net/zh/topics/Streamlit/streamlit-dataframe
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[streamlit_dashboard_2026]], [[polars_vs_pandas_2026]], [[python_dashboard_ecosystem_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-09
+expires_at: 2026-09-07
+status: active
 ---
-
 # Streamlit DataFrame 显示与优化2026
 
 > **来源**：Kanaries Docs（2026-05-29更新）

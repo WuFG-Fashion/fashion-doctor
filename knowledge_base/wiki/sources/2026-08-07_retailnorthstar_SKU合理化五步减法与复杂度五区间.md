@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-07
 updated: 2026-08-07
 cross_refs: [[sku_fine_management]], [[动态OTB管理]], [[柔性供应链与商品企划]], [[sell_through_examination_standard_2026]], [[2026-08-01_retailnorthstar_分品类售罄率基准]], [[2026-08-05_wecx_女装商品结构金字塔四层占比]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-07
+expires_at: 2026-11-05
+status: active
 ---
-
 # retailnorthstar — SKU 合理化五步减法与复杂度五区间模型
 
 > **一句话摘要**：SKU 单向膨胀源于"加法决策成本远低于减法"（未治理品牌 SKU 年均自增 12%–18%）；用复杂度五区间定位后，多数成熟品牌处在"稀释区"；执行五步减法（退出候选池→蚕食检验→战略豁免→影响量化→释放再投入）后，SKU 降 15%–25% 而销售额持平至 +5%，售罄率提升 3–8pct、断码率降 20%–30%。

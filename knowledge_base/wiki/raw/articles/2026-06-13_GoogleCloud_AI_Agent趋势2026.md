@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-13
+expires_at: 2026-09-11
+status: active
+---
+
 # Google Cloud AI Agent Trends 2026 报告
 
 > 来源：Google Cloud × 腾讯新闻

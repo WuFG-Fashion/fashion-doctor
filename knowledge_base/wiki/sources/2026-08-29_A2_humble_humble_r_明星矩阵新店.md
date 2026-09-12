@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # HumbleHumbleR 明星种草矩阵 + 奥莱/商圈新店扩张（2026）
 
 > **一句话摘要**：宁波新锐中高端潮流男装 HumbleHumbleR（2025-09-05 首店）2026 年持续以男团/艺人明星同款矩阵做社媒种草（郝熠然巴黎高定周、毕雯珺、贺峻霖、黄子弘凡等），并加速奥莱/核心商圈开店（宁波杉井奥莱、长沙杉杉奥莱华中首店、杭州湖滨银泰首店），被多家高端商业体作为"首店经济"引入。

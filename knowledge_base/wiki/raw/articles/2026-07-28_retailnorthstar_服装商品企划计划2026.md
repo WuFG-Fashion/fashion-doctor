@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # State of Apparel Merchandising Planning 2026（RetailNorthstar，2026）
 
 > 来源：retailnorthstar.ai/resources/research/state-of-apparel-planning-2024（RetailNorthstar 研究，2026）

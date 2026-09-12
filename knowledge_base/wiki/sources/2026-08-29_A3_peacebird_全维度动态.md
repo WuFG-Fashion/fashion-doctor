@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[peacebird]], [[服装行业竞争格局]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-29
+expires_at: 2027-02-25
+status: active
 ---
-
 # 太平鸟 2026 半年报全维度动态（2026-08-29 A3）
 
 > **一句话摘要**：2026H1 营收 28.78 亿（-0.72%）、归母净利 1.02 亿（+30.89%）、扣非 5071 万（+269.91%）；门店净减 137 家至 2861 家（加盟 -83、直营 -54）、加盟渠道 -10.32%；毛利率 61.21%（+1.40pp）；Q2 单季亏 3492 万（减亏）。

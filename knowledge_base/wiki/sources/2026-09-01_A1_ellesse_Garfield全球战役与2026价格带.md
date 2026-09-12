@@ -9,8 +9,13 @@ updated: 2026-09-01
 cross_refs: [[ellesse]], [[服装价格带管理与价格真空区]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-01
+expires_at: 2026-11-30
+status: active
 ---
-
 # ellesse Andrew Garfield 全球战役与 2026 价格带
 
 > **一句话摘要**：ellesse 2026-06 上线 Andrew Garfield 领衔的全球战役「Do It Like An Italian」，并披露 2026 官网价格带（£35–190），网球基因营销延续（维基奇联名战服）。

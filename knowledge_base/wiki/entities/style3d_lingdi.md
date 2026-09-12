@@ -11,8 +11,13 @@ sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21
 updated: 2026-07-26
 cross_refs: [[apparel_ai_agents_2026]], [[ai_fashion_design_cases_2026]], [[baoxiniao]], [[semir]], [[ai_virtual_tryon_2026]], [[2026-07-26_Style3D_Blog_AgenticAI时尚科技行业标准]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-26
+expires_at: 2027-01-22
+status: active
 ---
-
 # 凌迪科技 / Style3D
 
 > **一句话摘要**：全球领先的时尚产业AI+3D数字孪生平台，发布服装行业AI中台StyleClaw数字伙伴，服务报喜鸟/森马/望思达/The Very Group等全球品牌，2026年定位"物理AI元年+智能体AI落地元年"。

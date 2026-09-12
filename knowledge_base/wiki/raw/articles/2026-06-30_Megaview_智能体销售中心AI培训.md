@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
+---
+
 # 智能体销售中心AI培训 — 零售导购"AI筑基+人工赋能"新模式
 
 > 来源：知乎/Megaview 销研院 2026-06-30

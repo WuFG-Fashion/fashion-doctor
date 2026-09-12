@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-09
+expires_at: 2026-09-07
+status: active
+---
+
 # RetailBoss: Inditex Q1 2026 Results — 8 Key Numbers From Zara's Best Quarter Yet
 
 > 来源：https://retailboss.co/inditex-q1-2026-results-zaras-best-quarter-yet/

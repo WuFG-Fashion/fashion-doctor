@@ -10,8 +10,13 @@ sources: [2026-08-15_KING_BABY_中国摇滚银饰与渠道速览_2026.md, 品牌
 created: 2026-08-14
 updated: 2026-08-31
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-31
+expires_at: 2027-02-27
+status: active
 ---
-
 # KING BABY
 
 > **一句话摘要**：美国摇滚风银饰与皮具品牌，2000 年洛杉矶创立，以哥特摇滚+手工银饰著称，中国由金北陛（上海）贸易运营。

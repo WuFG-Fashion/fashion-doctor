@@ -10,8 +10,13 @@ cross_refs: [[dkny], [diesel]]
 confidence: 品牌自宣
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # DKNY 上海首店与 Hailey Bieber Campaign
 
 > **一句话摘要**：DKNY 于 2026-05-16 在上海淮海中路 Lady Huaihai 开中国首店（245㎡），以纽约为魂、Hailey Bieber 演绎 2026 春夏大片，由 G-III Apparel Group 操盘中国扩张。

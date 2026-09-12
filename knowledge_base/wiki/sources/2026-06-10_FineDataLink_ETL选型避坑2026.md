@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-10
 updated: 2026-06-10
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_quality_governance]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-10
+expires_at: 2026-09-08
+status: active
 ---
-
 # 2026年数据仓库ETL选型避坑指南
 
 > **一句话摘要**：2026年ETL选型核心词从"功能齐全"转为"低代码+高时效+国产化"，80%以上企业踩过坑，五大典型坑和五步选型流程为多品牌服装数据系统提供实操框架。

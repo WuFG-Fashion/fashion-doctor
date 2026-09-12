@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 太平鸟会员运营与私域体系佐证（B轮品牌上下文）
 
 > 来源：今日头条/微信营销拆解文章（2025 财报+2026Q1 营销现状拆解）、太平鸟 30 周年全域营销报道、同花顺问财品牌资料

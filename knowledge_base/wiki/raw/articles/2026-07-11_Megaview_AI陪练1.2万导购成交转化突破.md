@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-11
+expires_at: 2026-10-09
+status: active
+---
+
 # Megaview AI陪练：1.2万导购成交转化瓶颈突破
 
 > **来源**：Megaview 销研院 (https://blog.megaview.com/?p=23153)

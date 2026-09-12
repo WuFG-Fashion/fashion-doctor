@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
 ---
-
 # SQL查询优化十大最佳实践2026 + 服装零售对照
 
 > **来源**：GeeksforGeeks, 2026-06-11更新

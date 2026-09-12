@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # Tommy Hilfiger：PVH 2026Q2 营销加投与联名矩阵（Peanuts / Cadillac F1 / 台北101快闪）
 
 > 来源：买得易/时尚产业一周要事（WWD 转述）+ Oui Speak Fashion（F1）+ iGorgeous（Peanuts 童装）+ POPO笔记（台北101快闪）

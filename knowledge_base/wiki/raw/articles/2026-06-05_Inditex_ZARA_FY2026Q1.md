@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-05
+expires_at: 2026-09-03
+status: active
+---
+
 # Inditex/ZARA FY2026 Q1 财报摘要
 
 > 来源：新浪财经/TOM生活，2026-06-03

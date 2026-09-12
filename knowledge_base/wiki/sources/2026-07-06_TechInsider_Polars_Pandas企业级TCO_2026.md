@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[ETL架构选型]], [[data_library_selection_guide_2026]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
 ---
-
 # Tech Insider Polars vs Pandas 2026 企业级案例与TCO
 
 > **一句话摘要**：Tech Insider 2026-04发布Polars 1.24.0 vs Pandas 2.2.3全面基准，10亿行GroupBy 29x加速/TPC-H Q5五表Join 17x/能耗3-5x更低，含GitHub/JPMorgan/Cheddar/Netflix/H2O.ai五大企业案例及TCO分析。

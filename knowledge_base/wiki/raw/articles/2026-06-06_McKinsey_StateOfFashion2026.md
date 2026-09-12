@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
+---
+
 # McKinsey State of Fashion 2026 报告核心发现
 
 > 来源：McKinsey & Company / BoF Insights 2026-02

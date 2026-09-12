@@ -8,8 +8,13 @@ sources: [2026-06-09_解码数据局_数据治理平台四大技术路线2026, 2
 created: 2026-06-09
 updated: 2026-08-15
 cross_refs: [[data_quality_governance]], [[data_lakehouse_2026]], [[multi_brand_unified_analytics]], [[ETL架构选型]], [[apparel_ai_agents_2026]], [[retail_analytics_reporting_2026]], [[retail_bi_visualization_2026]], [[python_data_stack_decision_2026]], [[data_asset_management_2026]], [[2026-06-27_搜狐_数据治理平台TOP榜2026年5月]], [[2026-06-27_IT之家_数据治理选型2026年5月]], [[2026-07-15_Gartner_2026数据治理四大趋势与CIO_IN_OUT]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-08-03_数据治理五大平台AI原生横评2026|数据治理五大平台AI原生横评2026]], [[2026-08-15_语义层与数据契约治理2026]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 2026数据治理平台技术路线选型
 
 > **一句话摘要**：2026年数据治理平台市场达920亿/年增31.2%，分化成四条清晰技术路线——AI原生/云生态协同/分布式实战/模块化轻量。企业选型核心已从"哪家功能全"转向"哪条路线最匹配自身数据建设阶段"。

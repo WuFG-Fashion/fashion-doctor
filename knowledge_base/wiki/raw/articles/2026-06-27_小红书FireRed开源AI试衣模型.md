@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
+---
+
 # 小红书"AI试衣"真能降低退货率吗？
 
 > **来源**：小多AI电商洞察 · 2026-06-27

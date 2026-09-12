@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-13
+expires_at: 2026-09-11
+status: active
+---
+
 # lululemon FY2026 Q1 业绩更新（6月确认）
 
 > 来源：CFW时尚

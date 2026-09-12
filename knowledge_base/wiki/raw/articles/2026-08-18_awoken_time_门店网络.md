@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
+---
+
 # 原始资料 — AWOKEN TIME 武汉门店网络与集合店模式
 
 来源：

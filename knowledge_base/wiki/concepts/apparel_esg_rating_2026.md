@@ -10,8 +10,13 @@ sources: [2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名.md
 created: 2026-08-10
 updated: 2026-08-10
 cross_refs: [[peacebird]], [[semir]], [[baoxiniao]], [[bienlefen]], [[bosideng]], [[服装行业竞争格局]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-10
+review_due_at: 2027-02-06
+status: active
 ---
-
 # 服装行业ESG评级体系2026
 
 > **一句话摘要**：秩鼎发布 2026 年 A 股 GICS 三级"纺织品、服装与奢侈品"行业 ESG 评级，**110 家**样本中**森马服饰、报喜鸟并列 AAA 第一**，桐昆/雅戈尔/老凤祥 AA 并列第三；**太平鸟维持 BBB、居第 71 名**，其中**环境（E）单项仅 36.36 分、第 95 名**为最大拖累——揭示"ESG 领先者与财务领先者不完全重合"、"环境项是国内服装企业普遍短板"两条结构性规律。ESG 可作为竞品分析的**第五维度**（营收/利润/渠道/AI 之外）。

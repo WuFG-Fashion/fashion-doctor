@@ -12,8 +12,13 @@ sources: [2026-05-30_安踏_灵犀穿搭大模型.md, 2026-07-15_火山引擎_�
 created: 2026-07-12
 updated: 2026-08-07
 cross_refs: [[ai_virtual_tryon_2026]], [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]], [[ai_fashion_consumer_2026]], [[bienlefen]], [[2026-07-07_安踏灵犀穿搭大模型火山引擎]], [[six_brands_2026q1]], [[2026-08-07_商业新知_2026Q1服装业绩排行]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-07
+expires_at: 2027-02-03
+status: active
 ---
-
 # 安踏集团 (ANTA)
 
 > **一句话摘要**：中国最大体育用品集团，发布行业首个穿搭大模型"灵犀"，完成"灵龙(设计)+灵犀(穿搭)"双模型AI全链路闭环，AI辅助设计订货>90亿，数字人直播GMV>3亿。

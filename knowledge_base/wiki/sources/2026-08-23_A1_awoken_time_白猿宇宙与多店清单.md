@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[awoken_time]], [[awoken_space]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # AWOKEN TIME 白猿宇宙 IP / 武汉多店清单 / 外拓（A1·2026-08-23）
 
 > **一句话摘要**：AWOKEN TIME 以自有 IP「白猿宇宙」（武商梦时代 8.7 米白猿装置）构建场景化打卡心智，武汉单城 4 家店（梦时代/武商MALL国广800㎡/江宸天街/经开永旺/江夏永旺）+ 外拓襄阳武商/宜昌国贸/南昌武商，靠"服装+咖啡+潮玩"集合店模式区域深耕。

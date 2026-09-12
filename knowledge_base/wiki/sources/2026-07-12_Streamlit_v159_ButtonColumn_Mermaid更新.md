@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[python_dashboard_ecosystem_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
 ---
-
 # Streamlit v1.59.0 ButtonColumn/Mermaid/文件粘贴更新
 
 > **一句话摘要**：Streamlit v1.59.0（2026-07-06）新增ButtonColumn列类型、Mermaid图表原生渲染、chat_input文件粘贴；v1.58引入并行Fragment（parallel=True）和st.pagination；v1.57正式切换Starlette/ASGI架构。

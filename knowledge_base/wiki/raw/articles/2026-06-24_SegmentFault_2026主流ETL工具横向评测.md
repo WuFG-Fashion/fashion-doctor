@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-24
+expires_at: 2026-09-22
+status: active
+---
+
 # 2026主流ETL工具横向评测：Kettle、DataX、Informatica与ETLCloud深度对比
 
 > **来源**: https://segmentfault.com/a/1190000047636339

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-02
 updated: 2026-09-02
 cross_refs: [[nautica]], [[lacoste]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-02
+expires_at: 2027-03-01
+status: active
 ---
-
 # 2026-09-02 A3 Nautica × Interparfums 组合视角：Lacoste 先例与 2027 首发计划
 
 > **一句话摘要**：Interparfums 2026-06-30 10-Q 与 Q2 电话会补充 Nautica 授权在 IPAR 组合中的位置——以 Lacoste 香水 2024 接管后 2025 销售 +28% 至 $108M 的"先例剧本"作为 Nautica 首年 >$70M 目标的参照系，并确认 2027 为新品首发窗口。

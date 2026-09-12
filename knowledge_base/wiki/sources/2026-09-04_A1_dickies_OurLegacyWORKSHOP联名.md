@@ -9,8 +9,13 @@ updated: 2026-09-04
 cross_refs: [[dickies]], [[2026-08-31_A1_dickies_UNION_INVERSE联名胶囊]], [[2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张]], [[品牌墙概念与代理模式]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-04
+expires_at: 2026-12-03
+status: active
 ---
-
 # Dickies × Our Legacy WORK SHOP 2026 秋季联名
 
 > **一句话摘要**：瑞典 Our Legacy 实验支线 WORK SHOP × Dickies 2026 秋季限量联名（2026-08-28 发售）——以有机棉斜纹布 + WORK SHOP 招牌套染工艺重塑 Eisenhower Jacket 与 874 Pant 两件"Dickies Suit"档案双基石，呈现日晒褪色般的"Already Looks Lived-in"做旧质感，登陆 OUR LEGACY WORK SHOP 官网/实体店及 Dover Street Market。

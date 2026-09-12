@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[g_star_raw]], [[服装行业竞争格局]], [[2026-08-30_A2_g_star_raw_济南城市限定与NFC溯源]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # G-Star RAW 再生棉新丹宁（75% 再生棉 + 25% 回收棉）与 Elwood 建筑感廓形
 
 > **一句话摘要**：行业媒体 Textile Today 将 G-Star RAW 列为"再生棉驱动下一代丹宁"的领先案例——其新丹宁结构采用 **75% 再生棉 + 25% 回收棉**，把再生农业与循环材料在同一条丹宁中结合；产品侧 2026 夏季主推 Elwood 系列保留膝盖 3D 立体褶线（骑行/下蹲减压），部分款式 CORDURA 混纺，价位 1000-2000 元。

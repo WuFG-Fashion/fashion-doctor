@@ -12,8 +12,13 @@ created: 2026-08-16
 updated: 2026-09-12
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-12
+review_due_at: 2027-03-11
+status: active
 ---
-
 # 36品牌门店策略与渠道结构对比（2026 S轮合成）
 
 > **一句话摘要**：对 36 个 focus_brands 的门店策略（直营/加盟/混合）与渠道结构（DTC/线上/全渠道）做横向对比——识别出"直营化与大店模型是高增长品牌的共同选择""加盟/代理轻资产是品牌墙集合的主流但暗藏管控风险""双核是全组合唯一具备完整全渠道拆解的品牌"三条模式。

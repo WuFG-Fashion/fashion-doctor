@@ -11,8 +11,13 @@ sources: [2026-08-15_ADLV_acme_de_la_vie_中国门店与品牌速览_2026.md, �
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[chuu]], [[awoken_time]], [[2026-08-20_A1_adlv_LINE_FRIENDS与海绵宝宝联名]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # ADLV (acme de la vie)
 
 > **一句话摘要**：韩国潮流品牌，由双胞胎兄弟 2017 年创立，以'大脸宝宝'系列 T 恤蹿红，主打无性别可爱街头。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 太平鸟：2026Q1 组织架构调整与门店轨迹序列
 
 > 来源：腾讯财经（北京商报，2026 Q1 财报组织架构）+ 新浪财经（30周年/国货匠心工程品牌档案）+ 腾讯新闻（H1 渠道深化）

@@ -11,8 +11,13 @@ created: 2026-08-16
 updated: 2026-09-06
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[levis]], [[crocs]], [[tommy_hilfiger]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-06
+review_due_at: 2027-03-05
+status: active
 ---
-
 # 36品牌毛利率分层（2026 S轮合成）
 
 > **一句话摘要**：对 36 个 focus_brands 的毛利率做分层——已披露的聚焦品牌集中在中高段（46%-62%），但 36 个品牌中仅 5 个有可靠毛利率数据，其余 31 个（含全部品牌墙小众牌与多数全球品牌的中国区）均无披露，毛利率维度实质是"数据黑箱最严重的维度之一"。

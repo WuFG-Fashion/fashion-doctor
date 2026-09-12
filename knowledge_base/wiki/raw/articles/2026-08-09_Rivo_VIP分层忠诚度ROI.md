@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
+---
+
 # Rivo VIP分层忠诚度ROI（原始采集 2026-08-09）
 
 来源：Rivo loyalty report / 忠诚度市场研究（WebSearch 2026-08-09，Round B / L2_03）

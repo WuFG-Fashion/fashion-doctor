@@ -9,8 +9,13 @@ updated: 2026-08-31
 cross_refs: [[dickies]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]], [[adlv]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-31
+expires_at: 2026-11-29
+status: active
 ---
-
 # 2026-08-31 A1 Dickies × UNION「INVERSE」FW2026 联名胶囊
 
 > **一句话摘要**：工装老牌 Dickies 与洛杉矶西海岸街头名所 **UNION** 推出 FW2026 联名胶囊「**INVERSE**」，以"内外翻转 / 外露缝线"解构经典工装（chore jacket、Eisenhower 上衣、双膝工装裤），2026-08-21 起登陆 UNION 官网及洛杉矶 / 东京旗舰店——是 Bluestar Alliance 收购后"文化联名驱动重启"策略的又一落地，与 Pitti Uomo 2027 首秀（08-30 源）构成"欧洲走秀 + 美日联名"双线。

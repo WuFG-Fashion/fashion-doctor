@@ -10,8 +10,13 @@ cross_refs: [[awoken_time], [awoken_space]]
 confidence: 品牌自宣
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # AWOKEN TIME 武汉本土潮流集合店扩张
 
 > **一句话摘要**：武汉本土潮流生活方式品牌 AWOKEN TIME 以"极简/先锋/白猿宇宙/潮流户外"为主题，做 800+㎡ 潮流集合店（服饰+潮玩+咖啡），已在武汉/南昌/襄阳/宜昌多店布局。

@@ -12,8 +12,13 @@ created: 2026-08-16
 updated: 2026-09-06
 confidence: 第三方数据
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[ariose_years]], [[salomon]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_store_channel_2026]], [[brand_lifecycle_capital_events_2026]], [[RFM会员分层运营实战]], [[私域运营方法论]], [[会员与VIP运营体系2026]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[data_quality_governance]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-09-06
+review_due_at: 2027-03-05
+status: active
 ---
-
 # 36品牌运营策略与数据基建适配（2026 S轮合成）
 
 > **一句话摘要**：把 B轮（品牌怎么运营）与 C轮（用什么工具分析）的方法论沉淀，反向映射到 36 个 focus_brands——识别出"会员/社群运营仅在双核+少数标杆有实质信号，品牌墙普遍缺位""数据基建适配度随数据可得性断崖：双核可直接接入多品牌统一分析，黑箱品牌只能做渠道信号监测"两条跨维度模式。

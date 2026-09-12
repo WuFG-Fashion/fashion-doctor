@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # ellesse 价格带与 Smiley 联名续报（A1·2026-08-21）
 
 > **一句话摘要**：补齐 ellesse 分品类价格带（英国官网 T 恤 £22-55 / Polo £50-85 / 外套 £75-120，约合 200-1100 元，中端运动时尚定位），并补充 Smiley × Rave 联名零售价（微笑登山帽 1,280 元）。

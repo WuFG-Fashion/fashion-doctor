@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[salomon]], [服装行业竞争格局], [ai_fashion_market_2026], [peacebird], [cabbeen]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # 2026-08-23 A3 Salomon Jisoo全球大使与纽约首店国际化扩张
 
 > **一句话摘要**：Salomon 在 2026 年 5 月任命 BLACKPINK 的 Jisoo 为全球品牌大使、Q2 于纽约 Fifth Avenue 开北美首店、并推行"Epicenter"核心城市旗舰战略，以"品牌势能"而非单纯铺货驱动全球化。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 迪卡轩（DEKASHELL）品牌档案（原始剪藏）
 
 > 来源：猎聘招聘公司简介、DEKASHELL 官网 about、高校就业网

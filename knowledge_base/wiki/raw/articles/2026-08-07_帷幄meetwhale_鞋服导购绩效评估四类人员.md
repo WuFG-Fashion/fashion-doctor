@@ -4,8 +4,13 @@ title: 帷幄meetwhale — 鞋服门店导购绩效评估与四类人员识别
 source: meetwhale.com（帷幄 Whale）
 captured: 2026-08-07
 tags: [guide, performance, evaluation, ai, retail, footwear_apparel]
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-07
+expires_at: 2026-11-05
+status: active
 ---
-
 # 鞋服门店导购绩效评估：从"看销售额"到"看行为过程"
 
 ## 传统评估的三个失效点

@@ -9,8 +9,13 @@ sources: [2026-06-14_AIFutureThinkers_uv_Ruff_Ty_Polars_2026默认技术栈.md]
 created: 2026-06-14
 updated: 2026-08-06
 cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # Python项目默认技术栈2026 — uv+Ruff+Ty+Polars
 
 > **一句话摘要**：2026年Python数据项目从传统8+工具链收敛到 uv+Ruff+Ty+Polars 四件套（同出Astral公司），所有配置集中 pyproject.toml，uv run 一站式管理从未如此简洁。

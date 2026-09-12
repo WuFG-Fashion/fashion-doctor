@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 卡骆驰（Crocs）2026 Q1 与中国市场动态（原始剪藏）
 
 > 来源：雪球 Crocs 2025 财年四季报总结、经济观察网 2026-05-25、新浪 2026-07-17 樊振东代言

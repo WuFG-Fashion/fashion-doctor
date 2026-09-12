@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-12
 updated: 2026-06-12
 cross_refs: [[inditex_zara]], [[fast_retailing]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: slow
+as_of: 2026-06-12
+expires_at: 2026-12-09
+status: active
 ---
-
 # Inditex/ZARA FY2026Q1运营深度
 
 > **一句话摘要**：Inditex FY2026Q1（截至2026.4.30）净利14亿€(+5.4%)，毛利率61.2%(+67bp)，全球门店5,456(-106)，Zara-50家，Lefties唯一逆势扩张(+8)，资本支出23亿€投向门店优化+技术+线上。

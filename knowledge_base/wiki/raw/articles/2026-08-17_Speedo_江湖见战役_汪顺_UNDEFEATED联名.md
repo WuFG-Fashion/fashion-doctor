@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：Speedo — 2026「江湖见」战役 / 汪顺代言 / UNDEFEATED 联名
 
 - 来源1（界面新闻，江湖见战役）：https://www.jiemian.com/article/14498588.html

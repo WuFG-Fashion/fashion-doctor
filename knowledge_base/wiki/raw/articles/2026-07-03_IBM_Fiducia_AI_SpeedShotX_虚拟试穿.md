@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
+---
+
 # Fiducia AI × IBM: SpeedShotX 虚拟试穿体验
 
 > **来源**: IBM 官方博客 (www.ibm.com/cn-zh)

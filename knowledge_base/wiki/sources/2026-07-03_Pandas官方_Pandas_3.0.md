@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[streamlit_dashboard_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
 ---
-
 # Pandas 3.0 重大变革
 
 > **一句话**：Pandas 3.0（2026-01-21首发，最新3.0.4）是历史上最大一次主版本升级，核心变化为 Arrow-backed Dtypes 默认启用、Copy-on-Write 默认开启、API 现代化。

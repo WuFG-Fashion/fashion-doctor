@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[lacoste]], [[品牌联名策略]], [[服装行业竞争格局]], [[brand_store_channel_2026]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # A2轮·Lacoste FW26 联名矩阵再扩容（× Lamarel 瑞士 90s 网球 20 件含童装 · × JOURNAL STANDARD relume 日本 Milano rib）
 
 > **一句话摘要**：Lacoste 在 FW26 追加两条非亚洲街头向的联名——**× 瑞士品牌 Lamarel** 以 1990 年代网球文化为主题做 **20 件胶囊**（含男/女/童装，9-19 起进入 Lacoste 官网与精选门店）；**× 日本 JOURNAL STANDARD relume** 做 Milano rib 材质限定（拉链开衫 ¥27,500 / 长袖 T ¥15,400，8-14 起预订、9 月起交付）——联名谱系在"流量/工艺/生态/区域试探/场景"五型之外，新增**"渠道共营型"（借合作方既有渠道进新市场）**与**"童装扩龄型"**。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 卡宾（Cabbeen）会员与VIP运营佐证（B轮品牌上下文）
 
 > 来源：卡宾服饰 2025 年报（HK 02030）+ 2026 中期报告、品牌官方会员体系说明、京东开普勒（EZR 消费者管理平台）合作披露

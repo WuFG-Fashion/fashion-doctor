@@ -9,8 +9,13 @@ updated: 2026-09-07
 cross_refs: [[mlb]], [[服装行业竞争格局]], [[lacoste]], [[品牌墙概念与代理模式]], [[2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-07
+expires_at: 2026-12-06
+status: active
 ---
-
 # F&F 旗下 Sergio Tacchini 财务轨迹与网球时装化行业窗口（2026）
 
 > **一句话摘要**：韩国财经媒体 Chosun Biz（2026-08-18）首次给出 F&F 收购的网球品牌 Sergio Tacchini 的量化营收轨迹——Sergio Tacchini Operations 2023 ₩32.9B → 2024 ₩37.1B → 2025 ₩48.6B（+31%），2022 收购价 ₩82.7B/100%；F&F 以复制 MLB 的"授权 IP → lifestyle 品牌"打法培育其成为"下一个 MLB"，叠加网球参与人口与奢侈品牌大使双升的"tennis chic"行业窗口。

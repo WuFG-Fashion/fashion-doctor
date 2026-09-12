@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # AWOKEN TIME — 武汉门店网络与潮流集合店模式
 
 > **一句话摘要**：AWOKEN TIME 作为中国新兴潮流集合店，武汉已布局 4 家门店（武商梦时代/经开永旺/龙湖江宸天街/武商MALL 国广店 800㎡），并扩展至南昌、襄阳，以"运动休闲×辣妹剪裁 + 咖啡区 + 潮玩"场景化模式切入 Z 世代。

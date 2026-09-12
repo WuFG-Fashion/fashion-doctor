@@ -5,8 +5,13 @@ collected: 2026-08-01 Round B
 topic: 商品企划 / 售罄率与库存风险
 source_type: retailnorthstar.ai（Markdown & Inventory Risk）
 tags: [sell_through, merchandise, inventory, otb, benchmark, risk]
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
 ---
-
 # retailnorthstar——分品类正价售罄率基准与期初库存校验
 
 > 采集：2026-08-01 Round B（商品企划主题·联网检索提炼，非原文粘贴）

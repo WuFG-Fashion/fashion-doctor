@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[streamlit_dashboard_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # Streamlit v1.60 安全加固与企业级部署（2026-07-21）
 
 > **一句话摘要**：Streamlit v1.60（2026-07-21）以安全加固为核心——拒绝子 iframe/注入脚本的 origin 伪造（CWE-346）、query string 上限 512KiB/1000 字段、widget state 上限 25MB，并新增全局数据导出禁用开关，适合多品牌敏感看板的生产部署。

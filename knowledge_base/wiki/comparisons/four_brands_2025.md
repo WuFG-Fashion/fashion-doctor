@@ -9,8 +9,13 @@ sources: [2026-06-05_太平鸟_2025年报2026Q1.md, 2026-06-05_慕尚集团_GXG2
 created: 2026-06-05
 updated: 2026-06-25
 cross_refs: [[peacebird]], [[muson_gxg]], [[fast_retailing]], [[inditex_zara]], [[服装行业竞争格局]], [[china_apparel_industry_2026q1|行业KPI基准]], [[2026-06-10_观察者网_ZARA中国旗舰店战略转型]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-06-25
+review_due_at: 2026-12-22
+status: active
 ---
-
 # 四大品牌 2025/2026 财务对比
 
 > **一句话摘要**：优衣库一骑绝尘(半年884亿)、Inditex稳中有进(Q1 684亿)、太平鸟品牌升级见效(Q1毛利率62.87%)、GXG萎缩承压(年营收仅20.56亿)，中端男装赛道正拉开差距。

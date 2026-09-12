@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # Salomon 北京国贸旗舰店启幕 + 亚玛芬中国加速扩张（剪藏）
 
 > 来源：China Daily / 赢商网 / 南方都市报 等多源综合，2026-02 至 2026-08

@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[quantified_aesthetics]], [[3c_operation_system]], [[weifu_consulting]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 美学零售（Aesthetic Retail）
 
 > **一句话摘要**：韦孚国际（韩久九美学咨询顾问团队）的**服饰零售美学化运营**方法论——以"美学营销+零售终端体验"为核心，强调"美学可以卖货"、"体验式教学+教练式跟进"的服务理念，是量化美学体系在零售终端的落地形态。**核心方法包括：感性工学©、美学精准订货（科学订货）、服饰科学连带、美学营销之陈列规划**。

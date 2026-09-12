@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[awoken_time]], [[服装行业竞争格局]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # AWOKEN TIME 武汉多店清单与白猿宇宙（A1·2026-08-23）
 
 > **一句话摘要**：AWOKEN TIME 武汉 5 店 + 外拓襄阳/宜昌/南昌 3 店具名清单补全，白猿宇宙 IP 是核心差异化资产（空间叙事替代卖货）。

@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[salomon]], [[服装行业竞争格局]], [[2026-09-05_A3_salomon_XT-EVO与联名代言矩阵]], [[品牌联名策略]], [[服装价格带管理与价格真空区]], [[hoka_one_one]], [[peacebird]], [[cabbeen]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # 2026-09-11 A3 Salomon：XT-EVO 发售首周实证 + 米兰时装周激活（9/25 Brera）
 
 > **一句话摘要**：XT-EVO（9/2-9/3 中国首发）进入**发售首周**——小红书关键词首页 40 条结果几乎全部产生于这半个月内，密度为萨洛蒙今年推新最高的一波；产品侧经开箱与门店口径确认**"进化全在鞋面、大底与 XT-6 完全一致"**，官方定位是"面向先锋潮流群体的机能球鞋（潮流生活鞋）"而非越野跑鞋迭代；**截至 9/9 萨洛蒙中国官网未公布全国统一标价**（海外为 $190/$200/€190 三口径）；品牌将于 **9/25 米兰时装周**把 Salomon Store Brera 改造成沉浸式体验空间（特别嘉宾：残奥运动员 Veronica Yoko Plebani）。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-18
+expires_at: 2026-09-16
+status: active
+---
+
 # 企业该选ETL还是ELT？2026年数据处理最佳实践推荐
 
 > **来源**：FineDataLink 数据集成平台 (www.finedatalink.com)

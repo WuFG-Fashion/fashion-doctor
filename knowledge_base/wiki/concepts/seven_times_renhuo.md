@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[3c_operation_system]], [[weifu_consulting]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 七次人货对接（韦孚 3C 核心流程）
 
 > **一句话摘要**：韦孚 3C 经营体系**最核心的流程框架**——"品牌定位→产品战略→设计研发→样衣评审→订货采买→零售渠道→顾客"七次人货对接；每一次对接都应是**毛利的形成**，每一次偏离都会形成**未来的库存**。该框架把"端到端"业务流（顾客↔顾客）分解为 6 个可量化、可管控的中间环节。

@@ -11,8 +11,13 @@ sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发�
 created: 2026-06-06
 updated: 2026-08-15
 cross_refs: [[零售数据仓库SQL实践]], [[data_quality_retail_practice|数据质量零售实操规范]], [[ETL架构选型]], [[retail_data_workflow_2026|零售数据分析工作流]], [[duckdb_olap_engine_2026]], [[2026-07-03_腾讯云_PostgreSQL_19_Beta1]], [[2026-07-31_SQL性能优化2026原理驱动实战]], [[2026-08-03_服装零售指标口径统一与进销存SQL]], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # SQL查询性能优化
 
 > **一句话**：通过索引设计、SQL改写和参数调优三大维度，可实现零售数据查询10-40倍性能提升。

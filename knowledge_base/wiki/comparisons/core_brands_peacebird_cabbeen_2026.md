@@ -10,8 +10,13 @@ sources: [品牌墙图_2026-08-14, 太平鸟公开财报, 2026-08-15_卡宾2026�
 created: 2026-08-14
 updated: 2026-08-15
 cross_refs: [[peacebird]], [[cabbeen]], [[muson_gxg]], [[hla]], [[lilanz]], [[semir]], [[menswear_brands_2026q1]], [[four_brands_2025]], [[three_brands_mid2026]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]]
+layer: T1
+scope: public
+volatility: slow
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 太平鸟 vs 卡宾 — 核心品牌对标
 
 > **一句话摘要**：太平鸟是国内全品类时尚集团龙头（A股 603877），卡宾是设计师男装起源的潮流品牌（港交所 02030.HK）；二者在男装赛道中形成"规模龙头 + 设计师差异化"的核心对标组合，2026H1 营收体量约为 6:1。

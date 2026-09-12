@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A2轮·MARCELO BURLON 2026 全维度动态
 
 > **一句话摘要**：品牌 2026 以 "County of Milan"（DADDATO NEXT SRL，米兰 Corso Concordia 5）为主体运营，定位"streetwear+sartoriality"全球创意平台；2026-04 米兰设计周与 Driade 合作发布巴塔哥尼亚十字镜面装置（4cm 厚、深蓝紫渐变）；童装线 Kids of Milan 由 LAB FASHION AGENCY 代理全球分销（俄/乌/东欧/中东/亚洲/大洋洲/欧洲/美非）；历史联名含 FILA FUSION/Reebok/Kappa/G-SHOCK/兰博基尼/酩悦香槟。

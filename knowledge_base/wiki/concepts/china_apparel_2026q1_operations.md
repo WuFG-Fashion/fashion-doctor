@@ -9,8 +9,13 @@ sources: [2026-06-07_2026Q1服装行业运行扫描.md, 2026-06-05_中国服装�
 created: 2026-06-07
 updated: 2026-06-07
 cross_refs: [[china_apparel_industry_2026q1]], [[china_apparel_industry_scale_2026]], [[男装品牌竞争格局2026Q1]], [[apparel_inventory_benchmark_2026]], [[apparel_supply_chain_profit_chasm_2026q1]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-06-07
+review_due_at: 2026-12-04
+status: active
 ---
-
 # 中国服装行业2026Q1运行基准
 
 > **一句话摘要**：2026Q1服装业核心运行基准：零售+9.4%、网上+11.6%、出口-0.4%量升价跌、营收-1.71%、利润-17.76%、利润率2.23%、投资-4.1%。

@@ -8,8 +8,13 @@ brand_specific: false
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[sell_through_examination_standard_2026]], [[sell_through_examination_standard_2026]], [[柔性供应链与商品企划]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # aislestock：2026售罄率公式与周度基准——服装8-12%/季末60-80%
 
 > **一句话摘要**：aislestock 2026 售罄率基准：公式=售出/期初收货；服装 specialty 周度 8-12%/季末 60-80%（<8% 第4周触发降价），快时尚 15-25%/85-95%，鞋类 6-10%/55-75%。

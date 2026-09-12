@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[retail_ai_adoption_2026]], [[data_quality_governance]], [[2026-06-06_NVIDIA零售AI规模化落地|NVIDIA零售AI规模化落地]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
 ---
-
 # Capgemini 2026零售AI信任与落地
 
 > **一句话摘要**：71%消费者担忧AI数据使用，但统一数据基础可使AI成功率提升2.3倍，GenAI渗透率将突破40%。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-26
+expires_at: 2026-09-24
+status: active
+---
+
 # 2026年电商AI导购：高价值应用场景、成功案例及Agentic Commerce趋势
 
 > 来源：TMO Group (https://www.tmogroup.com.cn/insights/ai-shopping-assistant/)

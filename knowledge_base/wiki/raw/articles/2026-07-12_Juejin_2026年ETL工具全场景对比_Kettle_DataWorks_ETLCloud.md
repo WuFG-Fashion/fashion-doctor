@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
+---
+
 # 2026最新ETL工具横向对比：Kettle、DataWorks、ETLCloud全场景选型
 
 > 来源：https://juejin.cn/post/7652581847889739802 + https://www.finedatalink.com/blog/article/69e57f371916e24b220a53e7

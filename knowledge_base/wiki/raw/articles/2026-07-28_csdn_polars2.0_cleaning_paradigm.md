@@ -4,8 +4,14 @@ source: CSDN《Polars 2.0正式版深度评测》(2026-04-02) + CSDN《Polars 2.
 url: https://blog.csdn.net/VarPerch/article/details/159739590, https://blog.csdn.net/codeisle/article/details/159620921
 date: 2026-07-28
 tags: [polars, etl, data_cleaning, streaming, rust, arrow, performance]
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # Polars 2.0 大规模数据清洗范式跃迁
 
 ## 核心要点

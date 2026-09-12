@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # ellesse — 2026-08-23 联网检索原始素材（Andrew Garfield 全球战役 + 价格带）
 
 ## 来源1：Pentland Brands / FashionNetwork（2026-06）

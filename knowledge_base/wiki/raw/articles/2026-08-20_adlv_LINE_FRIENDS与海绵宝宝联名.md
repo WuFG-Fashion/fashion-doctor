@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-20
+expires_at: 2026-11-18
+status: active
+---
+
 # ADLV LINE FRIENDS 与海绵宝宝联名（剪藏 2026-08-20）
 
 - 来源1：ADLV 品牌官微（新浪）2026-03 系列微博（LINE FRIENDS 联名）

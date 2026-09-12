@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-30
 updated: 2026-08-30
 cross_refs: [[ariose_years]], [[会员与VIP运营体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 > **一句话摘要**：艾诺丝（杭州爱唯）定位 25-40 岁都市女性、年销约 10 亿、超百万会员、单店月销破百万，被视为"EP 雅莹平替"；门店数 1700+（口径存异）。
 > **置信度**：媒体估算（门店数/年销售含"约/估"，1700 vs 2890 口径待核）
 > **来源**：wiki/raw/articles/2026-08-30_ariose_years_会员私域运营.md（WebSearch 聚合）

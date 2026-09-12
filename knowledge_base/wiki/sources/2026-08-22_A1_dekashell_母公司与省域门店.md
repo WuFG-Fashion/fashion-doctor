@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[dekashell]], [[ariose_years]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # 迪卡轩 DEKASHELL 母公司与省域门店分布（A1·2026-08-22）
 
 > **一句话摘要**：迪卡轩（DEKASHELL）隶属于杭州佰加服饰有限公司，定位轻淑女装（法式优雅 + 珍珠元素）；省域加盟目录合计约 290 家（仅加盟口径），与"600+ 店"全渠道口径存在差异，规模以全渠道 600+ 为准。

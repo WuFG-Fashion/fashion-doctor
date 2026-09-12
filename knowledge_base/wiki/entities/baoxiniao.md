@@ -11,8 +11,13 @@ sources: [2026-07-21_Style3D伙伴大会2026]
 created: 2026-07-21
 updated: 2026-08-10
 cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]], [[six_brands_2026q1]], [[2026-07-21_Style3D伙伴大会2026]], [[apparel_esg_rating_2026]], [[2026-08-10_新浪财经鹰眼_秩鼎ESG评级A股纺服110家排名]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-10
+expires_at: 2027-02-06
+status: active
 ---
-
 # 报喜鸟 (002154.SZ)
 
 > **一句话摘要**：A股男装集团，2026Q1营收14.40亿(+10.46%)/净利2.37亿(+39.03%)，与Style3D共创AI Agent定制服务大模型，量体精度+50%/决策-30%/转化+25%/退货-10%。

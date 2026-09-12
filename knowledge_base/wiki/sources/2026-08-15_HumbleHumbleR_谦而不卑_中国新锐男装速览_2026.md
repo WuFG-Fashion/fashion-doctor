@@ -10,8 +10,13 @@ created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_humble_humble_r_全维度动态]]"
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # 2026-08-15 HumbleHumbleR 谦而不卑 中国新锐男装速览 2026
 
 > **一句话摘要**：中国本土设计师潮流男装，2025 年创立，以'BE HUMBLE/谦而不卑'中性情绪与高质价比切入 Z 世代。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[humble_humble_r]]。

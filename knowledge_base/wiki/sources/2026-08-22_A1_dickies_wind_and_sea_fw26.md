@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[dickies]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # WIND AND SEA × Dickies 2026 秋冬联名（A1·2026-08-22）
 
 > **一句话摘要**：美国经典工装品牌 Dickies（1922）与日本潮流品牌 WIND AND SEA 推出 2026 秋冬联名胶囊系列，2026-08-15 在线发售，涵盖工装夹克、工装裤与联名 T 恤，将日系街头融入美式工装廓形。

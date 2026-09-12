@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · HUMBLE 街头服饰渠道/营销（WebSearch 2026-08-22）
 
 - 台湾 NIL Official 上架 HUMBLE 图形 Tee（NT$2,680-3,680）：Smiley Face、Paisley Stars、slogan 等款。

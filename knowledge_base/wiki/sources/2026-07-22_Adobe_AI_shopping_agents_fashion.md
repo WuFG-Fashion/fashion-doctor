@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[apparel_ai_agents_2026]], [[retail_ai_adoption_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # AI购物Agent重塑时尚搜索 — Adobe 2026 Q1数据
 
 > **一句话摘要**：Adobe 2026 Q1数据显示AI来源零售流量同比+393%，AI访客转化率已超非AI流量42%，标志时尚电商竞争单元从"关键词竞价"迁移至"机器可读产品数据"。

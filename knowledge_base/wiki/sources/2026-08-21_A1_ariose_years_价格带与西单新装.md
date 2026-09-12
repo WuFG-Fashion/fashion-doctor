@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]], [[dekashell]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # 艾诺丝雅诗 价格带与西单新装（A1·2026-08-21）
 
 > **一句话摘要**：补齐艾诺丝雅诗分品类价格带（衬衫 789-1380 元/半身裙 1280 元/牛仔外套 980 元，奥莱 5-6 折），并记录 8 月西单大悦城 3F 新装开业与金山万达焕新——一线商圈渠道仍在加密，AW PROJECT 2024 线上 GMV 接近 3500 万。

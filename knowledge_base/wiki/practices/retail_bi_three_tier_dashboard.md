@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[retail_bi_visualization_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]], [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[sku_inventory_sql_operations]], [[bi_dashboard_retail_deployment]]
 confidence: 媒体估算
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 服装全渠道 BI 三层角色看板实践
 
 > **一句话摘要**：服装零售集团 BI 看板的"总部看全局、区域看趋势、门店看自己"三层分角色设计 + 预警分级上报 + 每视图 ≤7 指标的落地实操，可直接映射到 focus_brands 35 品牌（双核 cabbeen/peacebird + 品牌墙 + 女装补充）。

@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # Dickies 易主 Bluestar 后的 2026 渠道扩张
 
 > **一句话摘要**：VF Corp 以 6 亿美元将百年工装品牌 Dickies 出售给品牌管理公司 Bluestar Alliance（2025 交割），新东家 2026 年加速英国/爱尔兰与澳新(ANZ)渠道扩张，标志品牌进入"后 VF"独立运营新阶段。

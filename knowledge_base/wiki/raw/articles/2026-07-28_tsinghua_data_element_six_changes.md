@@ -4,8 +4,14 @@ source: 同花顺《2026快消零售数智创新峰会》+ 火山引擎《零售
 url: https://m.10jqka.com.cn/20260708/c678033269.shtml, https://developer.volcengine.com/articles/7655232412117139465
 date: 2026-07-28
 tags: [data_element, data_asset, high_quality_dataset, ai_agent, policy, fifteenth_five]
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # 数据要素流通六大变化与高质量数据集建设（十五五）
 
 ## 核心要点

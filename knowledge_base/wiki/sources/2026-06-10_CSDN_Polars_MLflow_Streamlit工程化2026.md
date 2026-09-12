@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-10
 updated: 2026-06-10
 cross_refs: [[polars_vs_pandas_2026]], [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-10
+expires_at: 2026-09-08
+status: active
 ---
-
 # Polars + MLflow + Streamlit 工程化三件套实战
 
 > **一句话摘要**：Polars保证数据可信、MLflow保证模型可信、Streamlit保证交付可信——三者构建从原始日志到业务决策的全链路可追溯数据科学工程化体系。

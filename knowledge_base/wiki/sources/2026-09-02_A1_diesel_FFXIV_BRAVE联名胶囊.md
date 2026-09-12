@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[diesel]], [[服装行业竞争格局]], [[2026-08-28_A1_diesel_马年胶囊与首发行李箱]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # Diesel × Final Fantasy XIV「BRAVE」联名胶囊
 
 > **一句话摘要**：Diesel 与 Square Enix《最终幻想 XIV》推出 27 件「BRAVE」联名胶囊（¥11,000-207,900），2026-09-16 东京伊势丹新宿 pop-up 首发、10-02 全球上线，并同步涩谷 Art Gallery 拼贴艺术展。

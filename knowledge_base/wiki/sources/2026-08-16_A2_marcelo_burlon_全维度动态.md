@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[marcelo_burlon]], [[男装品牌竞争格局2026Q1]], [[服装企划趋势渠道]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # A2轮·Marcelo Burlon County of Milan 2025-2026 全维度动态
 
 > **一句话摘要**：意大利奢潮品牌 Marcelo Burlon County of Milan 推出 FW2026/27 系列（再生羊毛针织 €164），中国区借 FILA FUSION 联名（蔡徐坤站台）持续分销；私牌无公开财报，营销以"翅膀"图腾与音乐/街头文化为核心。

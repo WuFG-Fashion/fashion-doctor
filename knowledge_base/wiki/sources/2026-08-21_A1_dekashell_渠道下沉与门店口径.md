@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[dekashell]], [[服装行业竞争格局]], [[ariose_years]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # 迪卡轩 渠道下沉与门店口径（A1·2026-08-21）
 
 > **一句话摘要**：迪卡轩门店口径出现新版本（店长直聘"杭州向星实业"词条称 900+ 店 vs 库内旭弘实业 600+ 店，疑似主体/口径差异待官方统一）；招聘信息确认加盟已下沉至四川苍溪、黑龙江桦南等县城市场，加盟费 9-15 万。

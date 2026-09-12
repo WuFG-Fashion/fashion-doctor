@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-14
+expires_at: 2026-09-12
+status: active
+---
+
 # Python项目默认技术栈2026：uv + Ruff + Ty + Polars
 
 > 来源：AI Future Thinkers (https://aifuturethinkers.com/python-project-setup-2026-uv-ruff-ty-polars/)

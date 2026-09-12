@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # retailnorthstar：服装降价风险与OTB期初库存——分类正价售罄基准
 
 > 来源剪藏：https://retailnorthstar.ai/resources/research/markdown-inventory-risk-apparel

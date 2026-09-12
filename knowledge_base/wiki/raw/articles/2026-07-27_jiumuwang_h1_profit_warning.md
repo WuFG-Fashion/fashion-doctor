@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-27
+expires_at: 2026-10-25
+status: active
+---
+
 # 九牧王H1业绩预告：主业赚钱、投资亏钱，服装行业上半年承压
 
 > 来源：世界服装鞋帽网（tz.sjfzxm.com）/ 2026-07-15

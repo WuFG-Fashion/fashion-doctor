@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 剪藏：DIESEL 在华 20 周年 / Unicorn 行李授权 / Pride 公益（A1·2026-08-23）
 
 - 来源：品牌官宣 / 行业媒体

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # $5B at Risk：零售尺码曲线正在漂移（Impact Analytics，2026）
 
 > 来源：impactanalytics.ai/blog/apparel-size-shift-analysis-2026（Impact Analytics，2026）

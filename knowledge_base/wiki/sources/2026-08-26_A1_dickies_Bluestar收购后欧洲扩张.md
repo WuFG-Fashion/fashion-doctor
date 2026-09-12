@@ -8,8 +8,13 @@ confidence: 官方公告
 brand_specific: true
 created: 2026-08-26
 updated: 2026-08-26
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # Dickies 被 Bluestar 收购后欧洲扩张：SportLux 授权联盟与 Just Now Distribution
 
 > **一句话摘要**：VF 于 2025-11-12 以 6 亿美元现金完成向 Bluestar Alliance 出售 Dickies；收购后首个运营动作是欧洲 master-licensing（SportLux 主导 + Just Now Distribution 负责英爱批发扩张，2026-07）——「管理与授权」模式下的区域批发提速。

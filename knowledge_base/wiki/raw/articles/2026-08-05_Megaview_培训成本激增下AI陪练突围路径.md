@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-05
+expires_at: 2026-11-03
+status: active
+---
+
 # Megaview AI 陪练案例：连锁门店导购培训成本激增下的实战突围路径
 
 > 来源：深维智信 Megaview https://www.megaview.com/resource/archives/31585

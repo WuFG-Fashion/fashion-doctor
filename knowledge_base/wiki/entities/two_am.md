@@ -10,8 +10,13 @@ sources: [2026-08-15_卡宾2026中期业绩与2025年报, 品牌墙图_2026-08-1
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[cabbeen]], [[peacebird]], [[服装行业竞争格局]], [[2026-08-21_A3_two_am_卡宾H1占比与中期股息]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # 2AM
 
 > **一句话摘要**：卡宾（Cabbeen）旗下年轻潮流副线（品牌矩阵 Cabbeen / 2AM / Cabbeen Urban 之一），定位更年轻、更街头化的男装客群；公开独立财务缺位，作为卡宾多品牌矩阵的生长点而非独立竞品看待。

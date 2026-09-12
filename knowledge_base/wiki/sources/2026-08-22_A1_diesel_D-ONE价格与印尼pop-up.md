@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[diesel]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # Diesel D-ONE 手袋价格带与印尼雅加达 pop-up（A1·2026-08-22）
 
 > **一句话摘要**：Diesel 2026 秋冬首推 D-ONE 手袋系列（金属扣环/皮带孔/铆钉工业美学），香港/新加坡/澳门专店定价 HKD 5,200–9,700；同期在印尼雅加达 Senayan City 开 3 个月 pop-up 并首发 Jewellery Collection，加速亚洲零售下沉。

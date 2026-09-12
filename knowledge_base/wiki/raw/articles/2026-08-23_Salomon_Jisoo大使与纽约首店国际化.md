@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # Salomon 2026 品牌营销与国际化扩张（Jisoo 全球大使 / 纽约 Fifth Avenue 首店 / Epicenter 战略）
 
 > 剪藏日期：2026-08-23 | 原始来源：Snowsportsnews（2026-08）、Amer Sports 财报电话会与管理层表述、品牌官方披露

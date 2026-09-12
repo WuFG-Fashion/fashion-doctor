@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-29
+expires_at: 2026-09-27
+status: active
+---
+
 # 2026私域破局：社群会员统一身份运营体系
 
 > 来源：tech.china.com | 日期：2026-05-27

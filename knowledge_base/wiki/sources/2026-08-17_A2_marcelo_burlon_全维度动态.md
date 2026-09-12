@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[marcelo_burlon]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # A2轮·Marcelo Burlon 2025-2026 全维度动态
 
 > **一句话摘要**：意大利奢潮设计师品牌 Marcelo Burlon（County of Milan）许可运营权 2025 秋转至 Daddato Next，Burlon 100% 持股，约 €40M 营业额、400+ 店；借 FILA FUSION 联名（蔡徐坤）、北京老佛爷/澳门银河独立店重启中国。

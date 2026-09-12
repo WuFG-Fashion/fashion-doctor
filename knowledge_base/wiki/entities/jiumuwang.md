@@ -10,8 +10,13 @@ sources: [2026-07-27_九牧王H1业绩预告_美邦由盈转亏]
 created: 2026-07-27
 updated: 2026-07-29
 cross_refs: [[china_apparel_industry_2026q1]], [[septwolves]], [[hla]], [[lilanz]], [[男装品牌竞争格局2026Q1]], [[2026-07-27_九牧王H1业绩预告_美邦由盈转亏]], [[earnings_quality_nonrecurring_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-29
+expires_at: 2027-01-25
+status: active
 ---
-
 # 九牧王 (601566.SH)
 
 > **一句话摘要**：A股男裤龙头（JOEONE），2026H1预告归母净利3000-4500万(-74%~-83%)，但扣非主业+24%~+49%，"炒股"浮亏-1.1亿拖累整体利润；主业稳健、投资波动大。

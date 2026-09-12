@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-02
+expires_at: 2026-10-31
+status: active
+---
+
 # 当网购试衣间成为现实：NXN Labs 的 AI 技术如何让你"穿上"任何一件衣服
 
 > 来源：腾讯新闻（new.qq.com）转载，2026-07-23

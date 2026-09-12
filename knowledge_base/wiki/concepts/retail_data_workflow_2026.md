@@ -10,8 +10,13 @@ sources: [2026-06-12_CSDN_Python数据分析工作流2026, 2026-06-15_CSDN_Pytho
 created: 2026-06-12
 updated: 2026-08-09
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_analytics_reporting_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]], [[2026-08-09_CSDN_服装行业指标体系五维框架与电商数仓分层建设]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-09
+review_due_at: 2027-02-05
+status: active
 ---
-
 # 零售数据分析完整工作流(CRISP-DM)
 
 > **一句话摘要**：CRISP-DM 七步数据分析工作流映射到服装零售场景，配合 Pandas/Polars/DuckDB 三引擎按数据规模选型，EDA 三类分析 + 可视化全家桶快速定位业务问题。

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-02
 updated: 2026-09-02
 cross_refs: [[karl_lagerfeld]], [[库存清仓策略]], [[导购培训闭环体系]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-02
+expires_at: 2027-03-01
+status: active
 ---
-
 # Karl Lagerfeld 奥莱渠道门店实证（B轮·2026-09-02）
 
 > **一句话摘要**：KL 依托七匹狼体系"深耕华东华南 + 加速奥莱渠道拓展"，雄安奥莱、砂之船西安奥莱门店落地——奥莱从去库存渠道升级为轻奢品牌下沉的增长抓手，正价店与奥莱店需分层运营。

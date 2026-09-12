@@ -9,8 +9,13 @@ sources: [2026-07-25_十五五60万亿消费规划.md]
 created: 2026-07-25
 updated: 2026-07-25
 cross_refs: [[china_apparel_2025_annual]], [[china_apparel_industry_2026q1]], [[apparel_ai_policy_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-07-25
+review_due_at: 2027-01-21
+status: active
 ---
-
 # 扩大消费"十五五"规划（2026-2030）
 
 > **一句话摘要**：国务院2026-07-13批复《扩大消费"十五五"规划》，2030年社零目标60万亿（CAGR≈3.7%），纺织服装被升格为品质/文化/场景/生命周期消费综合载体，标志行业从"同质化价格战"转向"供给创新"新周期。

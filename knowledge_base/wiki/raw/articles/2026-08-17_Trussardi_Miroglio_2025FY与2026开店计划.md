@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：Trussardi — Miroglio 2025FY 与 2026 开店计划
 
 - 来源1（新浪/时尚无国界，2025FY）：https://www.sina.cn/news/detail/5321101610584733.html

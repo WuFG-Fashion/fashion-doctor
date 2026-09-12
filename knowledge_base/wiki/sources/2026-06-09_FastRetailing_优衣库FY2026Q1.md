@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-09
 updated: 2026-06-09
 cross_refs: [[fast_retailing]], [[six_brands_2026q1]]
+layer: T2
+scope: public
+volatility: slow
+as_of: 2026-06-09
+expires_at: 2026-12-06
+status: active
 ---
-
 # 2026-06-09 迅销/优衣库 FY2026 Q1
 
 > **一句话摘要**：迅销FY2026Q1（截至2025.11）集团营收¥1.0277万亿(+14.8%)/营业利润¥2056亿(+31%)，UNIQLO国际+20.3%全线两位数增长，中国大陆利润两位数增长，全年指引上调。

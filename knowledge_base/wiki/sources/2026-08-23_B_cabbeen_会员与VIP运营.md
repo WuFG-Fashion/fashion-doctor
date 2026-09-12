@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[cabbeen]], [[会员与VIP运营体系2026]], [[会员复购率提升策略]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 > **一句话摘要**：卡宾会员约 410 万（2025 年报，近一年持平），VIP 仍处"积分+等级折扣"传统阶段（金卡 8.8 折），尚未演进到付费会员制——是设计师男装"折扣驱动复购"的典型样本。
 > **来源**：wiki/raw/articles/2026-08-23_B_cabbeen_会员与VIP运营.md（卡宾 2025 年报 + 2026 中期报告 + 品牌会员体系说明）
 > **置信度**：财报（会员规模/财务/折扣）/ 品牌自宣（VIP 等级权益、EZR 平台）

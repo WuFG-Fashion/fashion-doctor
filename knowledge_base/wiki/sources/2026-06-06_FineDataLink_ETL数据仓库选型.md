@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
 ---
-
 # 2026-03-27 FineDataLink 2026年ETL数据仓库选型指南
 
 > **一句话**：2026年ETL三大趋势（高时效/低代码/智能化），60%企业踩坑，7维度选型框架可指导多品牌服装系统ETL架构设计。

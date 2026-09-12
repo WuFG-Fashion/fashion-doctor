@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-27
 updated: 2026-06-27
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[data_library_selection_guide_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-27
+expires_at: 2026-09-25
+status: active
 ---
-
 # Polars/DuckDB/Pandas三引擎实测对比2026
 
 > **一句话摘要**：1000万行/5GB CSV三引擎实测——DuckDB加载3.8秒(126x)、Polars 9秒(54x)、Pandas 8分12秒，2026年最优解是DuckDB扛体量+Polars提速度+Pandas连生态的Arrow零拷贝混合栈。

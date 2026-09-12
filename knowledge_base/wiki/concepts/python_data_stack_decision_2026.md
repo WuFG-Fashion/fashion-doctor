@@ -9,8 +9,13 @@ sources: [2026-06-15_CSDN_Python数据栈边界决策框架, https://blog.csdn.n
 created: 2026-06-15
 updated: 2026-08-26
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]], [[SQL查询性能优化]], [[data_library_selection_guide_2026]], [[streamlit_dashboard_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-07-06_腾讯云_Polars_Pandas千万级实测]], [[2026-07-06_TechInsider_Polars_Pandas企业级TCO_2026]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_今日头条_Polars_Pandas_2026混合用范式]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]], [[2026-09-06_零售数据分析技术栈按量分层选型与多品牌指标口径治理2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # Python数据栈边界决策框架2026
 
 > **一句话摘要**：Python数据栈的三重边界(内存/并发/分布式)清晰定义了何时用Pandas、何时切Polars/DuckDB、何时上Spark，Benchmark实测Polars 6.7x/ClickHouse 10x，电商实战4h→15min(16x提升)成本降60%。

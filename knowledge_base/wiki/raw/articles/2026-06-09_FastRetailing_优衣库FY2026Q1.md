@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-09
+expires_at: 2026-09-07
+status: active
+---
+
 # 迅销集团 FY2026 Q1 财报（截至2025年11月）
 
 > 来源：https://www.fastretailing.com/eng/ir/news/2601081800.html

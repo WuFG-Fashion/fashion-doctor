@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-02
 updated: 2026-07-02
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-02
+expires_at: 2026-09-30
+status: active
 ---
-
 # AI时尚消费入口争夺 — Phia/Daydream/Alta/Vêtir + 数字人直播
 
 > **一句话摘要**：2026年AI从时尚B2B幕后走向C端前台——Phia(Daydream/Gensmo)争夺购物入口、Alta做AI穿搭数字分身、Vêtir/Acloset做数字衣橱管理、安踏数字人直播>10万小时/GMV>3亿，消费入口逻辑从"流量竞争"转向"决策权竞争"。

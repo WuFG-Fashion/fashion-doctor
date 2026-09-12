@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[apparel_inventory_benchmark_2026]], [[china_apparel_industry_2026q1]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-16
+expires_at: 2026-10-14
+status: active
 ---
-
 # Eightx全球服装品牌财务基准2026
 
 > **一句话摘要**：Eightx基于8家全球上市服装公司+NYU Stern 35家数据，揭示毛利率55.3%→运营利润6.7%的48pp"蒸发法则"，提供库存周转/CAC/LTV/退货率全套健康基准。

@@ -4,8 +4,13 @@ title: SKU Rationalization — 服装 SKU 合理化的减法流程与复杂度�
 source: retailnorthstar.ai
 captured: 2026-08-07
 tags: [merchandise, sku, rationalization, assortment, complexity_cost]
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-07
+expires_at: 2026-11-05
+status: active
 ---
-
 # SKU Rationalization：为什么"加法"永远比"减法"容易
 
 ## 问题的结构性根源

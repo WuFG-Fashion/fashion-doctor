@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-24
+expires_at: 2026-09-22
+status: active
+---
+
 # Polars 2.0与Arrow 18.0深度协同清洗架构（零序列化+GPU Offload）
 
 > **来源**: https://blog.csdn.net/FastDebug/article/details/159518630

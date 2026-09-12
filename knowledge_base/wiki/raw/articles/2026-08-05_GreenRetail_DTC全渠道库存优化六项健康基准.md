@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-05
+expires_at: 2026-11-03
+status: active
+---
+
 # Retail Inventory Optimization: The Complete Guide for DTC and Omnichannel Brands
 
 > 来源：Green Retail Consulting https://www.greenretailconsulting.com/blog/retail-inventory-optimization-the-complete-guide-for-dtc-and-omnichannel-brands

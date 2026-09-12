@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # Megaview AI陪练重塑成交链路
 
 > **一句话摘要**：深维智信Megaview的Agent Team多智能体AI陪练系统，知识留存率20%→72%，新人上岗6个月→2个月，转化率+40%。

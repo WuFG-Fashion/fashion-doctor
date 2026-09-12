@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[dekashell]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # 艾诺丝 ARIOSE YEARS 门店口径冲突与母公司更名（A1·2026-08-22）
 
 > **一句话摘要**：艾诺丝（ARIOSE YEARS）门店数出现 1800（百度百科，2026-03）vs 2800（爱企查市场页）口径冲突；母公司杭州爱唯服饰有限公司于 2025-12-17 更名为杭州爱唯时尚集团有限公司；轻奢副线 AW PROJECT 2024 线上 GMV 近 3500 万。

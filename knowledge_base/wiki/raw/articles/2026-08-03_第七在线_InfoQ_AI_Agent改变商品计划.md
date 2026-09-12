@@ -5,8 +5,14 @@ source_date: 2026-07-10
 author: 第七在线
 topic: 商品企划 / AI Agent / 商品计划 / 可销周数 / OTB
 quality: [有具体数据, 来源可信, 与服装零售相关, 时效2025-2026, 可操作]
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-03
+expires_at: 2026-11-01
+status: active
 ---
-
 # AI Agent 正在改变商品计划：从事后复盘到提前决策
 
 > 一句话摘要：AI Agent 不替商品团队做决定，而是把商品计划从"一次性作业"推向"持续推演"，实现 7×24 小时监控、动态推演与提前决策，让决策窗口从"事后"拉到"事前"。

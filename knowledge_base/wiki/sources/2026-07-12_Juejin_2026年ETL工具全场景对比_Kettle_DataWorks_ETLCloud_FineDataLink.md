@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics]], [[data_lakehouse_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
 ---
-
 # 2026年ETL工具全场景对比 — Kettle/DataWorks/ETLCloud/FineDataLink
 
 > **一句话摘要**：2026年ETL工具选型核心从"能不能跑"升级为"是否开放中立"——Kettle（开源传统）、DataWorks（阿里云锁定）、ETLCloud（中立全场景）、FineDataLink（低代码国产第一），四维度选型：开放度×实时能力×部署灵活×AI集成×国产化。

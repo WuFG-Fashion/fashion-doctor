@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-09
+expires_at: 2026-10-07
+status: active
+---
+
 # PostgreSQL 2026 性能调优完整清单
 
 > 来源：https://dev.to/_d7eb1c1703182e3ce1782/postgresql-performance-tuning-checklist-2026-complete-guide-65a

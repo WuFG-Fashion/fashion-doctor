@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[karl_lagerfeld]], [[男装品牌竞争格局2026Q1]], [[light_luxury_brand_framework_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # A2轮·KARL LAGERFELD 2025-2026 全维度动态
 
 > **一句话摘要**：KARL LAGERFELD 大中华区由七匹狼（002029.SZ）运营；七匹狼 2026Q1 营收 8.85 亿元（+4.9%）、扣非净利 1.56 亿元（+302.63%），2025 全年营收 30.04 亿元（-4.35%）；品牌端 2026 年密集快闪（上海 HOW COFFEE、深圳万象天地巴黎俱乐部、重庆 LIUNIC×Choupette）。

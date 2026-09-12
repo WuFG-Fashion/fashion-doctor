@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # 原始剪藏 — 迪卡轩 DEKASHELL 母公司与省域门店分布（A1·2026-08-22）
 
 - 来源：https://anxjm.com/mendian/160853.html （安心加盟网·迪卡轩女装加盟，省域门店目录）

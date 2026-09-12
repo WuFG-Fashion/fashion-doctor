@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-10
+expires_at: 2026-09-08
+status: active
+---
+
 # Polars+MLflow+Streamlit：数据科学工程化三件套实战指南
 
 > **来源**：CSDN博客 (bbs.csdn.net)

@@ -10,8 +10,13 @@ created: 2026-09-05
 updated: 2026-09-05
 superseded_by: ""
 cross_refs: [[salomon]], [[服装行业竞争格局]], [[hoka_one_one]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-05
+expires_at: 2026-12-04
+status: active
 ---
-
 # 2026-09-05 A3 Salomon：XT-EVO 新鞋型 9/2 首发 + Goodbai 二度联名 9/5 + 杨祐宁品牌挚友 8/24
 
 > **一句话摘要**：Salomon 于 9 月密集投放鞋类新品与代言资产——全新鞋型 **XT-EVO** 9/2 起抖音旗舰店+线下精选店首发（赤焰红/量子黑/冷峻灰三色致敬 XT-6 初代，Kith FW26 联名先行售罄）；与 **Goodbai** 二度联名 **XT-RIDGE**「盛放未止 ALWAYS BLOOM INSIDE」9/5 发售；8/24 官宣**杨祐宁为品牌挚友**并出战 2026 UTMB ETC（15km 首野）。中国区延续"专业越野 + 潮流化"双叙事。

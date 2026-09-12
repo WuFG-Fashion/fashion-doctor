@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 迪卡轩加盟培训与终端运营体系佐证（B轮品牌上下文）
 
 > 来源：加盟招商平台（jiamengfei、1637 一路商机网、8158 招商网、51ef 丽人服装网）——品牌自宣/招商口径

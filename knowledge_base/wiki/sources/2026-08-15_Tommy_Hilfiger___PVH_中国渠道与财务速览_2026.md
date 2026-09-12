@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-15
 updated: 2026-08-15
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # 2026-08-15 Tommy Hilfiger / PVH 中国渠道与财务速览 2026
 
 > **一句话摘要**：美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[tommy_hilfiger]]。

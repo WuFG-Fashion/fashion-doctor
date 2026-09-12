@@ -9,8 +9,13 @@ sources: [2026-07-02_搜狐_AI时尚消费创业公司_消费入口争夺.md, 20
 created: 2026-07-02
 updated: 2026-08-06
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]], [[ai_fashion_market_2026]], [[2026-05-30_安踏灵犀穿搭大模型]], [[2026-06-30_VOGUE_Business_AI时尚消费入口2026]], [[burberry]], [[2026-07-31_全球AI时尚零售落地信号2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # AI时尚消费2026 — 购物入口、数字穿搭与衣橱管理
 
 > **一句话摘要**：2026年AI从时尚B2B幕后全面走向C端前台：AI购物入口(Phia/Daydream/Gensmo)+AI穿搭数字分身(Alta)+数字衣橱管理(TheRealReal/Vêtir)+AI数字人直播(安踏>10万h/GMV>3亿)，消费入口逻辑从"流量竞争"转向"决策权竞争"。

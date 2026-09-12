@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 原始剪藏：Lacoste 新 CEO、增长目标与香港旗舰（2026-08-23 采集）
 
 > 来源（WebSearch 2026-08-23）：

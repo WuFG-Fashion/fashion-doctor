@@ -10,8 +10,13 @@ cross_refs: [[awoken_space], [awoken_time]]
 confidence: 媒体估算
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # AWOKEN SPACE 资料稀缺与同名混淆标注
 
 > **一句话摘要**：本轮检索未能定位到独立的"AWOKEN SPACE"时尚品牌实体——网络结果主要指向美国加州 Malibu 一家同名瑜伽/疗愈空间，以及武汉潮流集合店 AWOKEN TIME，awoken_space 作为服装品牌资料极稀缺，需标注待核验。

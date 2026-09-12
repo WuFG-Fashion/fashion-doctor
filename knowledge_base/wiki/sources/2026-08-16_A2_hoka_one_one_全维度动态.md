@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[hoka_one_one]], [[china_apparel_2026q1_operations]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # A2轮·HOKA（Deckers）2025-2026 全维度动态
 
 > **一句话摘要**：Deckers FY2026（截至 2026-03-31）HOKA 营收 25.87 亿美元（+15.9%）创纪录，中国门店超 230 家（超任一单一市场），计划每年 20-25 家新店（亚太/中国重心），杭州湖滨 in77 "羚感空间"快闪（2026-04-29~05-05）。

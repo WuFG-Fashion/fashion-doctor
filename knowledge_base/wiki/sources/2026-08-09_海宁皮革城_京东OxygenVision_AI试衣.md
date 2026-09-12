@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
 ---
-
 # 海宁皮革城AI试衣镜 + 京东大时尚Oxygen Vision（虚拟试衣双线落地）
 
 > **一句话摘要**：海宁中国皮革城（浙江移动"AI商圈"，2026-08-06）落地云-边-端AI试衣镜，深度摄像头实时骨骼捕捉、数字皮装"衣随人动"，1小时试数十款、试穿效率数倍、成交率升/退货率降；京东大时尚 Oxygen Vision 为零售首个AI全自动素材平台，NIKE/Adidas/海澜之家应用后上架速度+90%、转化+29.03%，AI穿搭覆盖200万款/75类目/1000品牌。

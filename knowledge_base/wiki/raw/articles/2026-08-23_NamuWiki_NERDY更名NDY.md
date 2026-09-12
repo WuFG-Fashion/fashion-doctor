@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # NERDY 品牌更名 NDY 与韩国本土门店现状（Namu Wiki）
 
 > **来源**：Namu Wiki 英文版 NDY 词条（2026-08-05 更新）+ 网易《韩流，又回来了！》2026-08-18 + 品牌网韩版外套排行榜 2026（WebSearch 2026-08-23）

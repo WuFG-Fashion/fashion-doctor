@@ -10,8 +10,13 @@ created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_koyo_全维度动态]]"
 cross_refs: [[koyo]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # 2026-08-15 KOYO JEANS Koyo William 中国欧式街头牛仔速览 2026
 
 > **一句话摘要**：香港设计师 Koyo William 2002 年创立的欧式街头牛仔品牌，哥特摇滚+施华洛世奇钉珠，'Destroy & Reborn' 风格，广州高龙贸易运营。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[koyo]]。

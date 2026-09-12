@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-31
+expires_at: 2026-10-29
+status: active
+---
+
 # LOOK AI 在 BEYOND EXPO 2026 发布面向时尚行业的 AI Agent — 采集剪藏
 
 > 来源：凤凰网（sz.ifeng.com 2026，BEYOND EXPO 2026 现场报道）

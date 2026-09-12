@@ -8,8 +8,13 @@ sources: [L3_07_02_品牌配置管理, L3_07_03_跨品牌数据整合, 2026-08-0
 created: 2026-06-08
 updated: 2026-08-26
 cross_refs: [[multi_brand_unified_analytics]], [[streamlit_production_dashboard]], [[data_quality_governance]], [[ETL架构选型]], [[data_lakehouse_2026]], [[全渠道会员一体化]], [[丽晶]], [[2026-08-03_多品牌服装集团数据中台架构|多品牌服装集团数据中台架构]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 品牌配置驱动多品牌系统
 
 > **一句话摘要**：基于Python Dict配置驱动的多品牌数据分析系统实践——通过品牌注册/品类映射/字段映射三层抽象，实现"一次开发、多品牌复用"，新增品牌仅需配置无需改代码。

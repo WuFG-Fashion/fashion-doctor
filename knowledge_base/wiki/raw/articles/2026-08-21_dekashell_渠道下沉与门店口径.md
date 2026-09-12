@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 迪卡轩 DEKASHELL：渠道下沉证据 + 门店口径
 
 > 来源：店长直聘杭州向星实业词条；加盟星迪卡轩女装项目页；苍溪/桦南门店招聘信息

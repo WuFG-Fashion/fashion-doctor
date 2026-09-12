@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
+---
+
 # 奥康国际：AI服务全链路升级 在交互中传递"舒适"
 
 > 来源：今日头条 / 2026-07（https://www.toutiao.com/article/7660442963256672774）

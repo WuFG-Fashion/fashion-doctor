@@ -9,8 +9,13 @@ sources: [2026-06-10_Veeton_AI时尚2026能力报告.md]
 created: 2026-06-10
 updated: 2026-06-19
 cross_refs: [[ai_fashion_design_cases_2026]], [[ai_virtual_tryon_2026]], [[ai_fashion_market_2026]], [[retail_ai_adoption_2026]], [[agentic_commerce_fashion_2026]], [[2026-06-19_新华社_AI改写衣橱服装产业革命]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-06-19
+review_due_at: 2026-12-16
+status: active
 ---
-
 # AI时尚六大能力2026全景
 
 > **一句话摘要**：2026年AI已渗透时尚全价值链六大环节——设计(ASOS 75-80%提效)、拍摄(Mango全面替代)、试穿(Zara 2张照片)、客服(WhatsApp 36.8x ROAS)、推荐(亚马逊35%来自推荐)、供应链(预测性管理)——每个环节均已量化ROI，从"试点"到"标配"拐点已过。

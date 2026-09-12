@@ -12,8 +12,13 @@ sources: [2026-06-05_慕尚集团_GXG2025年报.md, 2026-08-02_慕尚集团GXG_2
 created: 2026-06-05
 updated: 2026-08-02
 cross_refs: [[peacebird]], [[fast_retailing]], [[four_brands_2025]], [[three_brands_mid2026]], [[服装行业竞争格局]], [[six_brands_2026q1]], [[2026-08-02_慕尚集团GXG_2025年报深化]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-02
+expires_at: 2027-01-29
+status: active
 ---
-
 # 慕尚集团/GXG (01817.HK)
 
 > **一句话摘要**：国内通勤男装龙头，2025营收20.56亿(-9.4%)，净利润仅3160万，gxg.kids终止、质量危机频发、规模持续萎缩。

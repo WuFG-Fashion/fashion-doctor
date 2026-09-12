@@ -10,8 +10,13 @@ created: 2026-09-04
 updated: 2026-09-05
 superseded_by: ""
 cross_refs: [[tommy_hilfiger]], [[2026-09-02_A3_tommy_hilfiger_PVH_Q2财报发布前瞻]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[服装行业竞争格局]], [[brand_risk_signals_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-04
+expires_at: 2027-03-03
+status: active
 ---
-
 # 2026-09-04 A3 PVH 2026Q2 财报落地（官方实绩）：TH 持平 / EMEA 减值 $439M / 指引重申
 
 > **一句话摘要**：PVH 于美东 2026-09-02 盘后发布 2026 财年 Q2（13 周截至 2026-08-02）实绩——集团营收 $20.97 亿（-3%，符合指引区间上沿）、non-GAAP EPS $3.70（+46.8%，超 Zacks 共识 $3.08 达 20.1%）；Tommy Hilfiger 品牌收入 **$11.32 亿、同比基本持平**（含收回北美授权女装品类约 +3pp 提振）；Q2 含 EMEA 报告单元 **$4.39 亿税前非现金商誉减值**；全年 non-GAAP 指引（EPS $11.80-12.10 / OP margin ~8.8%）**重申不变**。本页为 09-02 前瞻源（媒体估算级）的官方实绩落地页，并裁定 08-19/08-26 媒体链 Q2 数字失真问题。

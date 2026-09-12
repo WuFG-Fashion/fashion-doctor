@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[会员复购率提升策略]], [[私域运营方法论]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-29
+expires_at: 2026-09-27
+status: active
 ---
-
 # 社群会员统一身份运营体系
 
 > **一句话摘要**：2026年私域运营从"流量粗放"升级为"社群+会员统一身份"一体化管理，以统一ID打通群聊行为与消费数据，实现全链路精细化运营。

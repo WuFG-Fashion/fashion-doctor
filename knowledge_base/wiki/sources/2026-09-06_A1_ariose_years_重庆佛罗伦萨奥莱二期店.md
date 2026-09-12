@@ -10,8 +10,13 @@ cross_refs: [[ariose_years]], [[服装行业竞争格局]], [[服装价格带管
 confidence: 媒体估算
 brand_specific: true
 superseded_by: "[[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]]"
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-06
+expires_at: 2026-12-05
+status: active
 ---
-
 # 艾诺丝雅诗 进驻重庆佛罗伦萨小镇奥莱二期
 
 > **一句话摘要**：重庆 FV 佛罗伦萨小镇名品奥特莱斯二期于 2026-08-13 试营业（预计 09-10 正式启幕），**ARIOSE YEARS（艾诺丝雅诗）位列二期 18 家「重庆奥莱独家品牌」之一**（与 JORYA/MOUSSY/EVISU 并列潮流男女装），与 09-02 悦荟 L1 北区旗舰店构成同城「购物中心旗舰 + 名品奥莱」双店布局。

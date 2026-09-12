@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
+---
+
 # Pandas 3.0 正式发布 — 重大变革与生态演进
 
 > 来源：Pandas 官方文档（pandas.pydata.org），2026-01-21 首发，最新 3.0.4（2026-06-28）

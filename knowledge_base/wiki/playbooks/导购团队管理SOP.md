@@ -9,8 +9,13 @@ sources: [导购培训闭环体系, AI导购陪练, top_guide, selling_ability]
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[导购培训闭环体系]], [[AI导购陪练]], [[top_guide|明星导购识别]], [[selling_ability|推销能力关键指标]], [[导购培训SOP]], [[导购能力提升打法]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-22
+review_due_at: 2027-02-18
+status: active
 ---
-
 # 导购团队组织能力 SOP
 
 > **一句话价值**：把"明星导购的方法"复制成"团队默认能力"，靠 4 条硬约束节奏把个人优势沉淀为组织能力；不要靠师傅心情、靠自觉。

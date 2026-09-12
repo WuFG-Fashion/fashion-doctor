@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # Crocs 2026 Q2 — HEYDUDE 困境、关税毛利承压与 20 亿回购
 
 > **一句话摘要**：Crocs 集团 2026 Q2 营收 11.79 亿美元创纪录、Crocs 品牌单季首破 10 亿，但 HEYDUDE 仍 -5.7%、毛利率因关税收窄 170bp，集团以 20 亿美元回购+上调全年指引展现信心——"可持续性"成核心考验。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-26
 updated: 2026-07-26
 cross_refs: [[apparel_ai_agents_2026]], [[style3d_lingdi]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-26
+expires_at: 2026-10-24
+status: active
 ---
-
 # Style3D Blog — Agentic AI Workflows 成为全球时尚科技标准（Q1 2026）
 
 > **一句话摘要**：BoF+McKinsey Q1 2026 数据显示 63% 时尚品牌已将 AI 设计工作流嵌入至少一个生产环节，样衣开发从 3 天压缩至 6 小时、实物样衣成本 -70%、设计迭代 4x，Agentic AI 从试点走向产业主线。

@@ -10,8 +10,13 @@ cross_refs: [[dickies], [crocs]]
 confidence: 官方公告
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Dickies 易主 Bluestar 与 2026 密集联名
 
 > **一句话摘要**：工装老牌 Dickies 于 2025-09 被 VF 集团以 6 亿美元现金卖给品牌管理公司 Bluestar Alliance，2026 年以每月多起联名（UNION/White Mountaineering/哈雷）密集造势重启。

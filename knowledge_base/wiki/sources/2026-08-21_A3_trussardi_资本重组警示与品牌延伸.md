@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[trussardi]], [[2026-08-19_A3_trussardi_全维度动态]], [[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划]], [[nautica]], [[brand_risk_signals_2026]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A3轮·Trussardi 资本重组风险警示与品牌延伸
 
 > **一句话摘要**：Miroglio 集团 CEO / Trussardi CEO Alberto Racca 明确警示——若 Trussardi 2026 财年末仍持续扩大亏损，股东将采取清算或资本重组措施（当前态势资本重组可能性更大）；同时品牌推进迪拜 Trussardi Residences 住宅项目与 10 月热那亚游艇展合作，目前 11 家独立门店。品牌延伸投入与亏损红线并存。

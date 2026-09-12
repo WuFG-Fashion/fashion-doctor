@@ -9,8 +9,13 @@ updated: 2026-09-03
 cross_refs: [[dkny]], [[2026-09-02_A1_dkny_G-III_FY2027Q2财报预告]], [[服装行业竞争格局]], [[brand_risk_signals_2026]], [[karl_lagerfeld]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-03
+expires_at: 2027-03-02
+status: active
 ---
-
 # DKNY 母公司 G-III FY2027 Q2 财报实际 + Marc Jacobs 收购完成
 
 > **一句话摘要**：G-III（NASDAQ:GIII）FY2027 Q2（截至 2026-07-31）实际营收 $554.1M（-10%，略逊一致预期 $570M），non-GAAP EPS $0.26 超预期且**上调全年指引**；毛利率扩张 440bp 至 45.2%；**2026-09-01 完成 Marc Jacobs 运营业务收购**（目标长期年营收 $1B，FY2027 小幅摊薄）。

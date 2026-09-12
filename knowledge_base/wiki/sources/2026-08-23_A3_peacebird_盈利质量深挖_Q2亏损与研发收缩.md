@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[peacebird]], [[2026-08-22_A3_peacebird_2026门店净增长指引与股权激励]], [[earnings_quality_nonrecurring_2026]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-23
+expires_at: 2027-02-19
+status: active
 ---
-
 # A3轮·太平鸟 2026H1 盈利质量深挖
 
 > **一句话摘要**：太平鸟 2026H1 归母净利 1.02 亿（+30.89%）中非经常性损益占半壁、Q2 单季亏损 3492 万，靠 Q1 托底；研发费用同比 -20.43% 至 5901 万（费率 2.05% 低于行业）、经营现金流 2.41 亿由负转正、货币资金 -62.5% 且新增 4 亿短期借款；张江平提出"弱化大众化、重点打造个性化产品"并发布"2-5-10 战略愿景"。

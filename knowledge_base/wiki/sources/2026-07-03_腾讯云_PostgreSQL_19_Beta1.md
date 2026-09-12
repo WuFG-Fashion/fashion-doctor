@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
 ---
-
 # PostgreSQL 19 Beta 1 新特性
 
 > **一句话**：PG19 Beta 1 带来 60+ 项新特性，包括 SQL/PGQ 图查询、GROUP BY ALL、Anti-Join 优化、SIMD COPY、窗口函数 IGNORE NULLS 等，预计 2026 年 9-10 月正式发布。

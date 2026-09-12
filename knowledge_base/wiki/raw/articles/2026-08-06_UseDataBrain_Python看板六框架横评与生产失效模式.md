@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
+---
+
 # Python 看板六框架横评与生产三大失效模式（2026）
 
 **采集日期**：2026-08-06

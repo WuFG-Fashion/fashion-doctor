@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-18
 updated: 2026-06-18
 cross_refs: [[ETL架构选型]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_lakehouse_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-18
+expires_at: 2026-09-16
+status: active
 ---
-
 # 2026 ETL vs ELT 选型与FineDataLink双模式最佳实践
 
 > **一句话摘要**：2026年ETL vs ELT选型已从"二选一"转向"场景驱动动态组合"，FineDataLink支持双模式灵活切换，零售企业实测处理时间从4小时降至30分钟（提速8倍）。

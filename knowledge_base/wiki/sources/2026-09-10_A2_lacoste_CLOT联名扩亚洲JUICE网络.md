@@ -10,8 +10,13 @@ cross_refs: [[lacoste]], [[服装行业竞争格局]], [[品牌联名策略]], [
 confidence: 品牌自宣
 brand_specific: true
 superseded_by:
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-10
+expires_at: 2026-12-09
+status: active
 ---
-
 # LACOSTE × CLOT 联名扩亚洲——JUICE 门店网络全面上架
 
 > **一句话摘要**：CLOT × LACOSTE 秋冬联名（09-06 首发美 3 店）在 09-10 前后扩展至**亚洲 JUICE 门店网络**（香港铜锣湾/K11 MUSEA + 上海/广州/深圳 + CLOT 官方旗舰店 + JUICESTORE 官网；洛杉矶/台北/台中即将登陆），Lacoste 官网同步在售——09-07 实体观察"联名是否扩亚洲"条件成立，升级入源。

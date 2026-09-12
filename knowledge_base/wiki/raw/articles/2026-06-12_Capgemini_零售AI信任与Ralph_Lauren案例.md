@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-12
+expires_at: 2026-09-10
+status: active
+---
+
 # Capgemini 2026零售AI报告 — 信任鸿沟与Ralph Lauren案例
 
 > 来源：SegmentFault精华解读版，原报告Capgemini《从概念炒作到价值落地：2026年零售业AI趋势报告》

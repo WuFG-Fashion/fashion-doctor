@@ -6,8 +6,13 @@ sources: [2026-06-05_丽晶_全渠道会员一体化, 2026-06-05_探马SCRM_RFM�
 created: 2026-06-05
 updated: 2026-08-07
 cross_refs: [[全渠道会员一体化]], [[会员复购率提升策略]], [[sleeping_member_reactivation|沉睡会员唤醒策略]], [[探马SCRM]], [[丽晶]], [[2026-06-29_cnblogs_CLV全生命周期优化指南]], [[2026-06-27_RFM客户分层5步落地模型]], [[2026-06-29_好衣库VIP复购训练营]], [[2026-08-07_MOCo_EPO会员五级分层与VIP复购基准]], [[moco_epo]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-07
+review_due_at: 2027-02-03
+status: active
 ---
-
 # RFM会员分层运营实战
 
 > **一句话摘要**：基于R(Recency)/F(Frequency)/M(Monetary)三维交叉分析的会员分层模型，2026年最新实践涵盖RFM八类人群分层+四步搭建自动化体系+三大阵营会员系统选型。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-17
 updated: 2026-07-17
 cross_refs: [[ai_virtual_tryon_2026]], [[agentic_commerce_fashion_2026|agentic_commerce]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
 ---
-
 # IBM × Fiducia AI — SpeedShotX 虚拟试穿
 
 > **一句话摘要**：Fiducia AI 基于 IBM watsonx.ai 为纽约设计师品牌 Kate Barton 打造 SpeedShotX AI 虚拟试穿体验，NYFW 首秀后 5+2 天部署 Shopify，2 个月 2500+ 客户使用，展现奢侈品 AI 虚拟试穿的低门槛落地路径。

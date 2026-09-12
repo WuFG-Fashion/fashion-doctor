@@ -8,8 +8,13 @@ updated: 2026-08-24
 confidence: 官方公告
 brand_specific: false
 cross_refs: [[服装行业竞争格局]], [[2026-08-18_crocs_HEYDUDE困境与回购资本配置]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-24
+review_due_at: 2027-02-20
+status: active
 ---
-
 # 知识库基准文件（kb_benchmarks.json）
 
 > **一句话摘要**：`knowledge_base/kb_benchmarks.json` 是知识库的结构化基准库，集中存放行业 KPI 阈值、竞品财务、会员/导购/商品企划基准等可机读数据，供 API 与 RAG 检索引用。

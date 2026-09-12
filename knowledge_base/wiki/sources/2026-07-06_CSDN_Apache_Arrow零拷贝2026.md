@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-06
 updated: 2026-07-06
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
 ---
-
 # CSDN Apache Arrow 零拷贝与跨语言互操作 2026
 
 > **一句话摘要**：CSDN 2026-07-04发布Apache Arrow深度解析，Arrow IPC反序列化0.05s（比Protobuf快48x）、零拷贝类型转换90x加速(1.8s→0.02s)、Arrow Flight 12ms延迟（比REST快17.5x）、DuckDB+Arrow聚合0.32s（比Pandas快8.75x），定义跨语言统一内存布局标准。

@@ -10,8 +10,13 @@ sources: [2026-06-06_FineDataLink_ETL数据仓库选型, 2026-06-10_FineDataLink
 created: 2026-06-06
 updated: 2026-08-06
 cross_refs: [[multi_brand_unified_analytics|多品牌统一数据分析架构]], [[data_quality_retail_practice|数据质量零售实操规范]], [[streamlit_production_dashboard|Streamlit生产级多品牌看板]], [[data_library_selection_guide_2026|数据分析库选型决策指南]], [[data_quality_governance|数据质量常态化治理]], [[2026-06-11_FineDataLink_数据中台搭建方案2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[2026-06-18_FineDataLink_ETL_vs_ELT_2026选型]], [[data_lakehouse_2026]], [[data_asset_management_2026]], [[2026-06-24_2026主流ETL工具横向评测]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-06
+review_due_at: 2027-02-02
+status: active
 ---
-
 # ETL架构选型
 
 > **一句话**：2026年ETL三大趋势（低代码/高时效/国产化），80%+企业踩坑，五步选型流程+五大避坑+多品牌融合三原则，指导服装数据系统架构设计。

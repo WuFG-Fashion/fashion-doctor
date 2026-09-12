@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[hoka_one_one]], [[服装行业竞争格局]], [[global_apparel_financial_benchmarks_2026]], [[男装品牌竞争格局2026Q1]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A2轮·HOKA（Deckers）2026 全维度动态
 
 > **一句话摘要**：Deckers FY27Q1（截至 2026-06-30）集团净销售 +5.7% 至 $1.02B；HOKA +7.7% 至 $7.04 亿（**首次落入个位数增长**），中国增速降温至 +8.4%；全年指引 $5.86-5.91B；Clifton PRO 7-10 上市；财报后股价 -7.5%。

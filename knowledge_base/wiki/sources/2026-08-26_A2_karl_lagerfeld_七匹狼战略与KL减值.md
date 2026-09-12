@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[karl_lagerfeld]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-26
+expires_at: 2027-02-22
+status: active
 ---
-
 # 七匹狼 2026 三大战略维度与 KL 轻奢授权对照
 
 > **一句话摘要**：七匹狼 2026H1 归母预亏 1950-2900 万（金融资产波动）但扣非预盈 1.17-1.73 亿（+302%~494%），"夹克专家"主业修复；KL 大中华区 2025 净亏 6649 万（+142% 扩大）、净资产转负，仍是减值包袱而非增长引擎。

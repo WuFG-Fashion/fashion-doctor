@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[duckdb_olap_engine_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[data_library_selection_guide_2026]]
 confidence: 第三方数据
 brand_specific: false
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # 2026 数据分析技术栈盘点与 Polars/DuckDB 性能基准
 
 > **一句话摘要**：2026 年 Python 数据分析引擎的最新基准与选型逻辑——Pandas 3.0.1 / Polars 2.1.0 / DuckDB 1.2.3 / Spark 4.0.2 / DataFusion 0.12.1 五引擎同测，以及"数据规模决定工具选型"的价值链决策框架。

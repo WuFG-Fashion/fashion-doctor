@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[no_one_else]], [[服装行业竞争格局]]
 confidence: 媒体估算
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # NO ONE ELSE 全维度动态（2026-08-29 A3）
 
 > **一句话摘要**：2020/2021 年创立的韩国设计师品牌（与 chuu 同属 PPB STUDIO），主打无性别+千禧混搭风，中国已开 40+~48 家门店（北京/上海/广深/成都/武汉/西安/合肥等），客单价 400-600 元；借韩流东风与性价比突围。

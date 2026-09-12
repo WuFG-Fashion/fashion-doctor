@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-09
+expires_at: 2026-10-07
+status: active
+---
+
 # DuckDB vs Polars 2026：性能、内存与选型基准
 
 > 来源：https://www.danilchenko.dev/posts/duckdb-vs-polars/

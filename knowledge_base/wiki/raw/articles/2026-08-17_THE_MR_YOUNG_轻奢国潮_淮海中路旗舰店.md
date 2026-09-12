@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：THE MR YOUNG（密特扬）— 轻奢国潮 / 淮海中路旗舰店
 
 - 来源1（微博探店）：https://www.weibo.com/5427421379/L37hFwM5y

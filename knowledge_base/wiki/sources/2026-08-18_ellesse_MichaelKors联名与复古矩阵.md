@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # ellesse 2026 复古联名矩阵 — Michael Kors 联名与 Smiley/JieDa
 
 > **一句话摘要**：ellesse 2026 以"70 年代复古运动"为主线，继 Smiley/Garfield 后推出 Michael Kors × ellesse 限量联名（5/9 全球上市）并联动 JieDa，延续复古 IP 联名矩阵，强化运动时尚的潮流辨识度。

@@ -9,8 +9,13 @@ updated: 2026-09-12
 cross_refs: [[nautica]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[品牌墙概念与代理模式]], [[服装行业竞争格局]], [[brand_portfolio_tiers_2026]], [[brand_store_channel_2026]], [[dkny]], [[karl_lagerfeld]], [[lacoste]]
 confidence: 官方公告
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-12
+expires_at: 2026-12-11
+status: active
 ---
-
 # 2026-09-12 A3 Nautica：家居窗饰品类授权扩张 + ABG 集团底座量化
 
 > **一句话摘要**：Nautica 于 **2026-09-08** 新增**家居窗饰品类授权**——由 **SelectBlinds**（2023 年被 Hunter Douglas 收购的线上定制窗饰商）推出 **Nautica Home** 系列（卷帘/罗马帘/窗帘，仅 SelectBlinds.com 独家）；同步经 ABG 官方 PR 取得**集团底座量化**（ABG 年系统零售额 **超 $380 亿** / **1,700+ 授权商** / **150 国** / **50+ 品牌**）与 Nautica 自身"**70+ 品类**"口径——本页把 Nautica 从"服装品牌"重新定位为"**ABG 体系下的多品类品牌资产**"，并给出授权方/被授权方/运营方三层结构的最新样本。

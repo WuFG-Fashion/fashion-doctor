@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
+---
+
 # Polars + Apache Arrow 零拷贝互操作指南 2026
 
 > 来源：PyTutorial，2026-05-11

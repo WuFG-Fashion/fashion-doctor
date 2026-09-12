@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-06
+expires_at: 2026-10-04
+status: active
+---
+
 # Polars vs Pandas：2026年15x加速+企业级案例
 
 > 来源：Tech Insider，2026-04-22

@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[humble_humble_r]], [[中国服装零售基准体系2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # A2轮·HumbleHumbleR 2025-2026 全维度动态
 
 > **一句话摘要**：新兴 Z 世代极简潮牌 HumbleHumbleR 自 2025-09-05 宁波鄞州万达首店开业（3 天销售 46 万元）起步，2026-05-23 武汉万象城华中首店落地，借翟潇闻/周诚等明星同款营销，计划拓店杭州/上海/武汉/长沙/太原。

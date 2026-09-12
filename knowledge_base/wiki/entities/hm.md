@@ -11,8 +11,13 @@ sources: [wiki/raw/articles/2026-06-14_百家号_H&M2026Q1库存降16%.md, wiki/
 created: 2026-06-14
 updated: 2026-07-11
 cross_refs: [[inditex_zara]], [[fast_retailing]], [[服装行业竞争格局]], [[apparel_inventory_benchmark_2026]], [[2026-06-21_雪球_服饰行业冰火两重天2026]], [[2026-06-24_RetailWatch_29品牌2026Q1业绩更新]], [[2026-07-07_广发证券_H&M_FY2026Q2]], [[2026-07-08_迅销_优衣库日本2026年6月同店]], [[2026-07-03_H&M_Q2门店收缩与营业利润率]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-11
+expires_at: 2027-01-07
+status: active
 ---
-
 # H&M（Hennes & Mauritz AB）
 
 > **一句话摘要**：瑞典快时尚巨头，2026Q1营收496亿SEK(-10.3%)/营业利润+26%/库存-16% → 2026Q2营收548亿SEK(-3%)/毛利率暴涨至56.62%(+8.72pct)/净利39.63亿趋稳 —— "降收增利"进入毛利率修复新阶段，但降本红利渐尽

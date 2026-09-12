@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-15
 updated: 2026-07-15
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[multi_brand_unified_analytics|多品牌统一数据分析架构]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-15
+expires_at: 2026-10-13
+status: active
 ---
-
 # DuckDB vs Polars 2026：共存模式与生产决策
 
 > **一句话摘要**：Danilchenko 基于数百 GB Parquet 管道迁移实战，核心结论：停止对立，DuckDB 做聚合（SQL）、Polars 做变换（表达式），Arrow 做桥梁，零拷贝互操作。分区比引擎选择更影响内存（8x/4x）。

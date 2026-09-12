@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
+---
+
 # Streamlit v1.59.0 发布：ButtonColumn、Skeleton、Mermaid、App.run()
 
 > **来源**: Streamlit 官方 Changelog (docs.streamlit.io/en/stable/changelog.html)

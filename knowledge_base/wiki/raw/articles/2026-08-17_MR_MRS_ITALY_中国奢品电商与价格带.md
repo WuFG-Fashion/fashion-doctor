@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # 原始剪藏：MR&MRS ITALY（皮草夫妇）— 中国奢品电商与价格带
 
 - 来源1（别样/Bybieyang 价格）：https://baleen-cdn.bybieyang.com/static/curation/dealhound_f6a92_394/...

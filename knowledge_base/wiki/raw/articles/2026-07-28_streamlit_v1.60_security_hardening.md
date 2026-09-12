@@ -4,8 +4,14 @@ source: Streamlit 官方 Discuss《Version 1.60》+ Release Notes
 url: https://discuss.streamlit.io/t/version-1-60/122051, https://docs.streamlit.io/en/stable/changelog.html
 date: 2026-07-28
 tags: [streamlit, security, production, dashboard, hardening, v1.60]
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # Streamlit v1.60 安全加固与企业级部署
 
 ## 核心要点

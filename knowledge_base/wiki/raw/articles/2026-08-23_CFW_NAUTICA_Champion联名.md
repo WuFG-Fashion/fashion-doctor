@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # NAUTICA × Champion 2026 秋季联名系列（7 款）
 
 > **来源**：CFW 服装设计网 2026（WebSearch 2026-08-23）

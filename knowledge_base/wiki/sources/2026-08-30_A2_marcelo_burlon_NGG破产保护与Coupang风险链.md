@@ -9,8 +9,13 @@ updated: 2026-08-30
 cross_refs: [[marcelo_burlon]], [[brand_risk_signals_2026]], [[服装行业竞争格局]], [[king_baby]]
 confidence: 官方公告
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 # Marcelo Burlon 母公司风险链：NGG 2024-11 意大利破产保护、Coupang 全资 Farfetch、Farfetch 裁员至约 3,000 人（2026）
 
 > **一句话摘要**：Marcelo Burlon County of Milan 的经营主体 **New Guards Group（NGG）于 2024-11 在意大利申请破产保护**（直接触发因素：失去 Reebok 欧洲市场分销许可权 + 财务困境）；上游 Farfetch 资产已由 **Coupang 全资持有**（Coupang 收购了 Greenoaks 在 Surpique LP 的全部股权，成为唯一所有者），并大幅收缩——关闭洛杉矶/中国香港/莫斯科办公室，东京与迪拜缩至骨干编制，**人员规模腰斩至约 3,000 人（2026 年初）**；Coupang Q1 2026 含 Farfetch 的 Developing Offerings 分部营收 **$13.28 亿 +28%**，但分部调整后 EBITDA **-$3.29 亿（亏损同比扩大 96%）**。这构成 Marcelo Burlon 的三层结构性风险链。

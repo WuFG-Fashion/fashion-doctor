@@ -8,8 +8,13 @@ sources: [2026-06-07_Python看板框架对比2026, streamlit_multitab (L3_07_04)
 created: 2026-06-07
 updated: 2026-08-26
 cross_refs: [[streamlit_dashboard_2026]], [[multi_brand_unified_analytics]], [[python_dashboard_ecosystem_2026]], [[polars_vs_pandas_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[retail_data_workflow_2026]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_Streamlit_v1.59.0]], [[2026-07-28_Streamlit_v1.60_安全加固]], [[2026-07-31_Streamlit_2026生产部署与Cloud零门槛]], [[2026-08-06_Python看板六框架横评与生产三大失效模式]], [[2026-08-15_Streamlit_1.59新特性与LLM集成]], [[2026-08-26_服装全渠道BI看板三层角色设计与零售库存分析KPI]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # Streamlit生产级多品牌看板构建
 
 > **一句话摘要**：从原型到生产的Streamlit多品牌看板完整实操——基于pages/模块化架构、缓存体系、品牌配置驱动、7项生产检查。

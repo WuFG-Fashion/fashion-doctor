@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-12
+expires_at: 2026-09-10
+status: active
+---
+
 # Inditex/ZARA FY2026Q1 运营深度更新
 
 > 来源：北京商报/同花顺，2026年6月3日，基于Inditex官方财报(FY2026Q1截止2026.4.30)

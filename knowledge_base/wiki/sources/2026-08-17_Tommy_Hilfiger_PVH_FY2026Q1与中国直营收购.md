@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-17
+expires_at: 2027-02-13
+status: active
 ---
-
 # Tommy Hilfiger — PVH FY2026Q1 与中国直营收购
 
 > **一句话摘要**：PVH 将 Tommy Hilfiger 中国业务收回直营（一次性 $1.53 亿费用），FY2026Q1 集团营收 $20.25 亿（+2%），TH 品牌 $10.77 亿（+3%），中国 D2C 双位数增长；借 Travis Kelce、凯迪拉克 F1 推进"时尚娱乐化"。

@@ -9,8 +9,13 @@ updated: 2026-09-09
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]], [[earnings_quality_nonrecurring_2026]], [[levis]]
 confidence: 官方公告
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-09
+expires_at: 2026-12-08
+status: active
 ---
-
 # 2026-09-09 A3 Tommy Hilfiger：campaign 首个量化实效（Always Denim 首月 D2C 牛仔 +30%）+ shop-in-shop 试点 + NYFW 秀场回归
 
 > **一句话摘要**：PVH CEO 在 2026-09-02 Q2 财报电话会披露 Tommy Hilfiger **牛仔子战役 "Always Denim"（Romeo Beckham 领衔，2026 年 7 月发布）上线首月即拉动北美+欧洲 D2C 牛仔销售约 +30%**——这是 TH 秋季双 campaign 落地后**首个官方量化的 campaign 商业实效**；同时披露 TH "shop-in-shop（Shopping Shop 概念店）"在全球主要城市试点开店、Kelce 主线 campaign 早期消费者反响正面、秋季开季全区域积极；同期（9/9-15）Tommy 重返 NYFW 秀场，处于"美国传承复兴"（Coach/Ralph Lauren 双位数增长 vs TH 收入持平）的行业窗口。

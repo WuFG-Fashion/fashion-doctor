@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-21
+expires_at: 2026-09-19
+status: active
+---
+
 # DuckDB 1.5 + Sirius：GPU加速嵌入式分析数据库的性能革命
 
 > 来源：chenxutan.com（程序员茄子），2026-04-08

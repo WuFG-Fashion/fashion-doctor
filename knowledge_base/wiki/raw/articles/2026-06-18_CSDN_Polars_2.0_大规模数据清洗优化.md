@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-18
+expires_at: 2026-09-16
+status: active
+---
+
 # Polars 2.0 大规模CSV/Parquet清洗新API与旧版对比实测
 
 > **来源**：CSDN (blog.csdn.net/CompiShoal)

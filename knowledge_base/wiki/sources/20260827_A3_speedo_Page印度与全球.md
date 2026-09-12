@@ -9,8 +9,13 @@ updated: 2026-08-27
 cross_refs: [[speedo], [服装行业竞争格局]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-27
+expires_at: 2026-11-25
+status: active
 ---
-
 # Speedo 速比涛 全球与印度市场全维度动态
 
 > **一句话摘要**：Speedo 印度(Page Industries 授权)覆盖 1096+ 门店、FY25 EBITDA margin 19-21%；全球 177 国，美国电商 GMV $22M(2025)，并推 Eco Fastskin 可持续线。

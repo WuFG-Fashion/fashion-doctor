@@ -8,8 +8,13 @@ sources: [2026-06-07_零售数据分析框架2026, cross_brand_integration (L3_0
 created: 2026-06-07
 updated: 2026-09-09
 cross_refs: [[ETL架构选型]], [[零售数据仓库SQL实践]], [[python_dashboard_ecosystem_2026]], [[data_quality_governance]], [[data_quality_retail_practice]], [[data_lakehouse_2026]], [[retail_analytics_reporting_2026]], [[brand_config_driven_system|品牌配置驱动多品牌系统]], [[etl_governance_convergence_2026|ETL治理一体化]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[data_governance_tech_routes_2026]], [[arrow_zero_copy_interop_2026]], [[semantic_layer_metrics_2026|语义层与指标层2026]], [[2026-07-18_FineDataLink_2026数据治理九平台评估]], [[2026-07-18_Johal_2026生产力数据分析七栈基准]], [[2026-07-22_2026现代Python数据栈]], [[2026-07-25_fjcio_finedatalink_零ETL湖仓一体极简架构2026]], [[2026-07-25_未央网_cww_数据治理DataAgent新范式2026]], [[2026-07-31_湖仓一体Lakehouse_2026主流方案选型]], [[2026-08-03_AI驱动数据质量管理_从规则到智能预防]], [[2026-08-03_多品牌服装集团数据中台架构]], [[2026-08-06_ETL_ELT_ETLT混合架构与电商数据工程四层]], [[2026-08-06_AgenticBI与ChatBI零售落地实测]], [[2026-08-15_主动元数据与多品牌数据目录2026]], [[2026-08-26_数据分析技术栈盘点与Polars_DuckDB性能基准]], [[2026-08-26_多品牌零售数据中台与全域用户治理实践2026]], [[2026-08-26_太平鸟数字化与数据分析体系2026]], [[2026-08-29_DuckLake_1.0_数据湖格式生产就绪]], [[2026-08-29_零售数据质量可观测性_Great_Expectations_dbt]], [[2026-08-29_多品牌服装零售数据中台案例_会员OneID跨品牌复购]], [[brand_level_data_analysis_gap_matrix|品牌级数据分析缺口矩阵]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # 多品牌统一数据分析架构
 
 > **一句话摘要**：多品牌服装数据分析系统的核心架构——从数据摄取到统一分析层的四层设计，遵循"指标定义与数据摄取分离、集中拥有分布使用"原则。

@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[2026-09-10_B_VIP分层权益成本收益测算与会员预算分配]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # VIP分层模型
 
 > **来源**：Fashion Doctor 实战 + RFM模型改良

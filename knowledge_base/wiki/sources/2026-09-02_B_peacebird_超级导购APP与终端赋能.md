@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-02
 updated: 2026-09-02
 cross_refs: [[peacebird]], [[AI导购陪练]], [[导购培训闭环体系]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # 太平鸟超级导购 APP 与终端赋能（B轮·2026-09-02）
 
 > **一句话摘要**：太平鸟以"超级导购 APP"（智能商品 + 任务驱动 + 岗位培养）构建零售终端生态，叠加 2026 经营计划"零售运营提质 + 区域化企划 + PLM 数字化看板"——导购赋能与商品数字化联动。

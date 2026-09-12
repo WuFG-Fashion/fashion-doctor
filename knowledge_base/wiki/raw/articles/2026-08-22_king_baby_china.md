@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · KING BABY 银饰生活方式牌中国动态（WebSearch 2026-08-22）
 
 - 2000 年由 Mitchell Jacobs（米歇尔·拜因德）创立，美国银饰/生活方式品牌；925 银骷髅/玫瑰经项链、皮带、太阳镜（日本手工）。

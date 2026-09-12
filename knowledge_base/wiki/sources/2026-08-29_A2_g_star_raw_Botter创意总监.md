@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[g_star_raw]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # G-Star RAW 新创意总监 Botter 与 FW26「Hardcore Denim」重置（2026）
 
 > **一句话摘要**：G-Star RAW 在阿姆斯特丹 RAWFACTORY 发布 FW26「Spotlight Returns」，由新创意总监——Botter 创始人 Lisi Herrebrugh 与 Rushemy Botter 操刀，以 RAW RESEARCH 实验系列 + ARCHETYPES 档案线 + Arc 牛仔裤（2007 经典，近 20 年回归）三线重置品牌；女装被置于核心，强调"硬核丹宁"而非追逐 quiet luxury。

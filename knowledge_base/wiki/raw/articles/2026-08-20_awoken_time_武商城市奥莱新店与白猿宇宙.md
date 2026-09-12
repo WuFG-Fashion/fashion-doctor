@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-20
+expires_at: 2026-11-18
+status: active
+---
+
 # AWOKEN TIME 武商城市奥莱新店与白猿宇宙（剪藏 2026-08-20）
 
 - 来源1：微博 @许愿（AWOKEN TIME 武商梦时代店 8.7 米白猿打卡装置）

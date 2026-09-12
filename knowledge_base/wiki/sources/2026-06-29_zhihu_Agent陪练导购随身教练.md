@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-29
+expires_at: 2026-09-27
+status: active
 ---
-
 # Agent陪练导购随身实战教练
 
 > **一句话摘要**：基于大模型技术的Agent陪练系统，以8类虚拟客户+个性化赋能+实时数据反馈，打破导购"培训与实战脱节"的传统困境，实现成交率+18%、客单价+12%的效果。

@@ -6,8 +6,13 @@ sources: [CLAUDE.md]
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[决策日志_模板]], [[清仓决策树]], [[导购培训SOP]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-09
+review_due_at: 2027-02-05
+status: active
 ---
-
 # 作战手册模板（Playbook Template）
 
 > 本文件是 `wiki/playbooks/` 下所有作战手册的写作模板。复制本文件、改名、填充内容即可新建一篇手册。

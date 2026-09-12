@@ -9,8 +9,13 @@ updated: 2026-09-02
 cross_refs: [[levis]], [[服装行业竞争格局]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-02
+expires_at: 2026-12-01
+status: active
 ---
-
 # Levi's 文化营销双连击（Big Tex 德州州博会官方牛仔裤 + Made & Crafted® × White Mountaineering 联名）
 
 > **一句话摘要**：Levi's 本土文化层签下德州州博会吉祥物 Big Tex 的官方牛仔裤（定制 501s + LS Service Station 快闪 + Red Tab 会员专属定制），产品层推出 Made & Crafted® × White Mountaineering 日本联名迷你系列（9/4 上市，505™ 异材质拼接原色牛仔裤），双线延续"文化资产 + 设计联名"的营销节奏。

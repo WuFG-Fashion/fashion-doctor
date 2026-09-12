@@ -9,8 +9,13 @@ updated: 2026-09-04
 cross_refs: [[dkny]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[服装行业竞争格局]], [[brand_risk_signals_2026]], [[品牌墙概念与代理模式]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-04
+expires_at: 2027-03-03
+status: active
 ---
-
 # DKNY 母公司 G-III Q2 电话会品牌经营颗粒 + Marc Jacobs 整合结构
 
 > **一句话摘要**：G-III FY2027 Q2（2026-09-02 08:30 ET）财报电话会补录品牌级颗粒——DKNY 官网销售 +20% 中段、门店同店中单位数增长、Kendall Jenner FW26 战役 + 鞋类分销扩至 Nordstrom/Macy's/Dillard's；Donna Karan 销售 +45%+；Marc Jacobs 约 2/3 收入来自 DTC、>100 家直营店（多数奥莱）、约 90% 收入来自手袋/配饰，管理层称今年全球销售约 $360M（不含 IPCo 授权），12 月 Q3 财报纳入正式指引。

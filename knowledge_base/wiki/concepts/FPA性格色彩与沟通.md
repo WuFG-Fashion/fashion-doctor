@@ -14,8 +14,13 @@ updated: 2026-08-25
 cross_refs: [[店长现场与会议管理]], [[销售九部曲]], [[导购培训SOP]], [[导购团队管理SOP]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # FPA性格色彩与沟通
 
 > **一句话摘要**：用性格色彩（红蓝黄绿/DISC）识别自我与他人、调整沟通方式的沟通方法论——"色眼识人"：测试→计分→识人→沟通，是店长管理沟通与导购识客的共用工具。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # 2026-08-15 HumbleHumbleR 谦而不卑 中国新锐男装速览 2026（raw 剪藏）
 
 > 采集方式：WebSearch 提炼，Round A 少源品牌补齐。

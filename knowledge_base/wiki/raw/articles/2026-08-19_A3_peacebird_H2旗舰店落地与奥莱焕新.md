@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — 太平鸟 2026H2 渠道落地：武汉品牌旗舰店与奥莱店焕新
 
 来源：

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # DEKASHELL 迪卡轩 — 2026-08-23 联网检索原始素材（南溪/贺州新店 + 母公司口径）
 
 ## 来源1：南溪在线（招聘，2026-05-26）

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
+---
+
 # 数据治理迎来"可插拔"时代：MCP协议驱动六大厂商2026横评
 
 > 来源：https://www.datahunter.cn/news/shu-ju-zhi-li-ying-lai-ke-cha-ba-shi-dai-2026zhu-liu-han-shang-kai-fang-sheng-tai-yu-aineng-li-heng-xiang-ce-ping

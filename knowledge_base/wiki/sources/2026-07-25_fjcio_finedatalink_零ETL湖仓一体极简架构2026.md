@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-25
 updated: 2026-07-25
 cross_refs: [[data_lakehouse_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-25
+expires_at: 2026-10-23
+status: active
 ---
-
 # 2026 数据战略极简主义：零 ETL + 湖仓一体成为架构北极星
 
 > **一句话摘要**：2026 数据战略回归极简——Lakehouse 成架构北极星、零 ETL 成新理想、对话式分析取代静态仪表盘、Apache Iceberg 成开放表格式标准；FineDataLink 实测 90% 企业要求分钟/秒级同步、低代码提效 50%+。

@@ -10,8 +10,13 @@ created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_karl_lagerfeld_全维度动态]]"
 cross_refs: [[karl_lagerfeld]], [[ariose_years]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # KARL LAGERFELD 上海快闪与生活方式跨界（2026）
 
 > **一句话摘要**：KARL LAGERFELD 2026 在中国以"高频快闪 + 生活方式跨界（咖啡馆/下午茶）"替代传统铺货，把奢侈资产转译为可打卡社交场景，全球逾 500 家精品店、明星矩阵维持声量；公开财务缺位。

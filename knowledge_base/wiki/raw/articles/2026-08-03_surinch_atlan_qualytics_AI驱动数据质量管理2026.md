@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-03
+expires_at: 2026-11-01
+status: active
+---
+
 # AI 驱动数据质量管理 2026：从规则驱动到智能预防
 
 **采集日期**：2026-08-03

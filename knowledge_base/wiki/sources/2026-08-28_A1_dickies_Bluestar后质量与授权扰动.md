@@ -10,8 +10,13 @@ brand_specific: true
 created: 2026-08-28
 updated: 2026-08-28
 sources: [https://carlmurawski.com/what-happened-to-dickies-874, https://post.m.smzdm.com/p/anvxmrm0, https://hnvh.io.vn/article/dickies-sundek-philippe-model-paris-revitalizing-fashion-icons-under-new-ownership/]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-28
+expires_at: 2026-11-26
+status: active
 ---
-
 # Dickies Bluestar 收购后质量争议与澳新授权扰动
 
 > **摘要**：Bluestar Alliance 于 2025-11 完成收购 Dickies 后，"品牌管理/授权"模式暴露两端风险——产品端 874 经典款出现代际漂移争议、渠道端澳新关店被误读为退出（实为授权扰动）。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-26
+expires_at: 2026-10-24
+status: active
+---
+
 # Style3D Blog — Agentic AI Workflows Become Industry Standard in Fashion Tech
 
 > 来源：Style3D Blog（style3d.com/blog），2026 年发布

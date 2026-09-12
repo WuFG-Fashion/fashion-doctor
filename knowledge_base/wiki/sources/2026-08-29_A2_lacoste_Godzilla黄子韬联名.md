@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[lacoste]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # LACOSTE 哥斯拉联名 + 黄子韬代言与 ALPHA/TAILOR TOYO 联名（2026）
 
 > **一句话摘要**：LACOSTE 2026 下半年营销密集：与哥斯拉（Godzilla）独家联名胶囊 9 月 1 日发售；新任代言人黄子韬演绎 LACOSTE × ALPHA INDUSTRIES 飞行员夹克（¥11,000）与 LACOSTE × TAILOR TOYO 横须贺刺绣夹克（¥25,000）；香港 Pedder Building 历史建筑旗舰（3,750 sq ft、第 7 个香港地址）已于春季开业并推专属胶囊；4 月完成新视觉识别（衬线 logo + 初代绿）。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-22
 updated: 2026-07-22
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[python_dashboard_ecosystem_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-22
+expires_at: 2026-10-20
+status: active
 ---
-
 # Streamlit v1.59.0 — ButtonColumn、Skeleton、Mermaid、App.run()
 
 > **一句话摘要**: Streamlit v1.59.0(2026.7.6): ButtonColumn表格内按钮、st.skeleton加载骨架屏、st.mermaid_chart流程图、chat_input文件粘贴、App.run()无CLI启动。

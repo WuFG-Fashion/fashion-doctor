@@ -10,8 +10,13 @@ created: 2026-08-15
 updated: 2026-08-15
 superseded_by: "[[2026-08-16_A2_marcelo_burlon_全维度动态]]"
 cross_refs: [[marcelo_burlon]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
 ---
-
 # 2026-08-15 Marcelo Burlon County of Milan 中国渠道与香港首店速览 2026
 
 > **一句话摘要**：意大利（阿根廷裔主理人）潮流时装屋，2012 年前后创立，Mapuche 十字/巴塔哥尼亚元素，全球首店 2017 香港（已关），中国借 D-mop 多品牌店铺货。 本页为 Round A（少源品牌补齐）WebSearch 提炼，落位实体 [[marcelo_burlon]]。

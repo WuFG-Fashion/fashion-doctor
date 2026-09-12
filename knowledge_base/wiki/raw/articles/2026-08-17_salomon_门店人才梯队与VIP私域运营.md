@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
+---
+
 # Salomon 门店人才梯队与 VIP 私域运营（2026，品牌特有）
 
 > 原始资料汇编，供 wiki/sources/2026-08-17_salomon_门店人才梯队与VIP私域运营.md 提炼使用。品牌特有数据，双链到 [[salomon]]。

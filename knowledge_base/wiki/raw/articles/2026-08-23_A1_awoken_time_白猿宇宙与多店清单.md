@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # 剪藏：AWOKEN TIME 白猿宇宙 IP / 武汉多店清单 / 外拓（A1·2026-08-23）
 
 - 来源：品牌官宣 / 赢商网等商业地产媒体

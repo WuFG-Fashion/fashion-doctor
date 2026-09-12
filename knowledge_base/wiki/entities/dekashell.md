@@ -13,8 +13,13 @@ relations:
   - type: benchmark_of
     target: "[[ariose_years]]"
     note: "同杭州女装，迪卡轩对标中淑定位"
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # 迪卡轩 (DEKASHELL)
 
 > **一句话摘要**：杭州旭弘实业（2007 成立）旗下轻淑女装品牌 DEKASHELL（2013 推出，"Style by Me"，定位 25-38 岁都市新女性），遍布全国 30 省、超 600 家门店（第三方 corroborate 600–800 区间），战略"三年内冲进杭州女装头部阵营"；非上市、无公开财报，代表中国区域女装品牌的"规模可观但数据黑箱"样本。

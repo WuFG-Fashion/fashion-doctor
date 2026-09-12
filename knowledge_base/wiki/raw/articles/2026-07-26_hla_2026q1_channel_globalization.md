@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-26
+expires_at: 2026-10-24
+status: active
+---
+
 # 海澜之家 2026Q1 渠道深化与全球化（研报 + A股财务指标）
 
 > 来源：A股财务指标（财报截止 2026-03-31）、券商研报《海澜之家(600398):红利价值强化》（2026-07）

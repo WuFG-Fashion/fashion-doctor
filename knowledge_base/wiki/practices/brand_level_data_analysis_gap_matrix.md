@@ -10,8 +10,13 @@ sources: [2026-08-29_DuckLake_1.0_数据湖格式生产就绪, 2026-08-29_零售
 created: 2026-08-29
 updated: 2026-09-09
 cross_refs: [[cabbeen]], [[peacebird]], [[crocs]], [[muson_gxg]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_config_driven_system]], [[peacebird_brand_analytics_2026]], [[cabbeen_brand_analytics_2026]], [[crocs_financial_benchmark_template_2026]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # 品牌级数据分析覆盖缺口矩阵（focus_brands 35）
 
 > **一句话摘要**：对 `kb_benchmarks.json` 的 **focus_brands 35 品牌**做"数据分析视角覆盖"审计——区别于 L2 域级缺口，本页专门识别**品牌级**缺口：哪些品牌有 A轮财务/门店数据、却缺 L2_06/07 的数据分析视角（BI 指标、售罄率趋势 SQL、渠道结构分析）。这是 C轮"查漏须覆盖品牌级数据分析缺口"的落地清单。

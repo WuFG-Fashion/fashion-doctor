@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[hoka_one_one]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # A2轮·HOKA 2026 全维度动态
 
 > **一句话摘要**：Deckers FY2027Q1（截至 2026-06-30）集团营收 10.2 亿美元 +5.7%、毛利率 56.4%，其中 HOKA 7.035 亿美元 +7.7%——增速首次落入个位数；中国以直营+代言（侯明昊）维持热度，但第三方样本显示 4 月线下客流承压，属“高增品牌回归常态”信号。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # PVH / Tommy Hilfiger 2026Q2：618 天猫表现、关税冲击与中国/APAC 承压（2026-08-22 摘录）
 
 ## 来源

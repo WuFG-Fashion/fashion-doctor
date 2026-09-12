@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-18
 updated: 2026-08-18
 cross_refs: [[humble_humble_r]], [[中国服装零售基准体系2026]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
 ---
-
 # A2轮·HUMBLE 2026 全维度动态
 
 > **一句话摘要**：HUMBLE 于 2026-01-24 在宁波阪急开出全国首家“臻选店”（较鄞州万达标准店为升级店型），走的是“少量门店 + 单店店型升级”路线，无财务披露，属小体量本土品牌的“标杆店驱动”扩张。

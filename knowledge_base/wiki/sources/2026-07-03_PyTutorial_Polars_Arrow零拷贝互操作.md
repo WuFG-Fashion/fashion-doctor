@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-03
 updated: 2026-07-03
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[python_data_stack_decision_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-03
+expires_at: 2026-10-01
+status: active
 ---
-
 # Polars + Arrow 零拷贝互操作指南
 
 > **一句话**：Polars 与 Apache Arrow 生态（PyArrow/DuckDB/cuDF/Pandas 3.0）之间可实现零拷贝数据共享——数据不移动，只传递指针，全链路无序列化开销。

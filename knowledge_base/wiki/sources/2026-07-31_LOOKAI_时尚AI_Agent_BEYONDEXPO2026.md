@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-31
 updated: 2026-07-31
 cross_refs: [[ai_fashion_ecommerce_tryon_tools_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-31
+expires_at: 2026-10-29
+status: active
 ---
-
 # LOOK AI 在 BEYOND EXPO 2026 发布时尚行业 AI Agent
 
 > **一句话摘要**：LOOK AI 于 BEYOND EXPO 2026 发布面向时尚行业的 Fashion AI Agent，覆盖趋势研究/虚拟试穿/视觉陈列/营销大片/SKU管理五大场景，并计划下半年开放面辅料供应商平台、以5微米金属3D打印打通"AI创意→实体制造"闭环。

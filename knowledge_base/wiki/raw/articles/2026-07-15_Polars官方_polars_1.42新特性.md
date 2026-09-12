@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-15
+expires_at: 2026-10-13
+status: active
+---
+
 # Polars 1.42 官方发布：自适应云 I/O、矛盾过滤器消除、排序检测
 
 > **来源**：https://pola.rs/posts/polars-1-42 (Polars 官方博客)

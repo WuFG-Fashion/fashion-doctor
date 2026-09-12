@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[dickies]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # Dickies VF 出售 Bluestar / UTG 中国主授权 / Harley-Davidson 联名（A1·2026-08-23）
 
 > **一句话摘要**：VF 集团将 Dickies 以约 6 亿美元现金出售给 Bluestar Alliance（Bluestar 组合零售规模 130 亿美元+）；中国区由 UTG（2025-11-12 起主授权）运营；2026-04-22 推出 x Harley-Davidson「Built to Outlast」联名，后 VF 时代以"资本易主 + 高频联名"维持工装潮牌心智。

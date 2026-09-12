@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-16
 updated: 2026-08-16
 cross_refs: [[awoken_space]], [[dkny]], [[ellesse]], [[koyo]], [[mr_mrs]], [[nerdy]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-16
+expires_at: 2026-11-14
+status: active
 ---
-
 # S3·6黑箱品牌渠道信号补全
 
 > **一句话摘要**：针对 S轮遗留的 6 个"门店数黑箱"品牌（awoken_space / dkny / ellesse / koyo / mr_mrs / nerdy），做定向第三方检索补全渠道信号——nerdy 经历"爆发→2024代理危机→大撤退"、mr_mrs 经历"进入→扩张→疫情退出→2023回归"过山车、koyo 50+ 一线商场获多源 corroborate；awoken_space 副线仍黑箱（仅同体系 AWOKEN TIME 集合店可间接推断）。

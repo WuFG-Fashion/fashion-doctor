@@ -9,8 +9,13 @@ sources: [2026-07-06_CSDN_Apache_Arrow零拷贝2026, 2026-07-03_PyTutorial_Polar
 created: 2026-07-06
 updated: 2026-08-12
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[multi_brand_unified_analytics]], [[streamlit_dashboard_2026]], [[ETL架构选型]], [[data_lakehouse_2026]], [[2026-08-06_Pandas_3.0_CoW与Arrow字符串后端落地基准]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-12
+review_due_at: 2027-02-08
+status: active
 ---
-
 # Apache Arrow 零拷贝互操作 2026
 
 > **一句话摘要**：Apache Arrow是数据栈的"USB-C接口标准"——不是数据库/不替代工具，而是定义跨语言统一列式内存布局，让Polars/DuckDB/Pandas/PySpark等工具共享同一份物理内存，消除序列化/反序列化的"三重浪费"。

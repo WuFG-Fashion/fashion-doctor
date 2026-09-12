@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-06
 updated: 2026-08-06
 cross_refs: [[retail_analytics_reporting_2026]], [[retail_bi_visualization_2026]], [[bi_dashboard_retail_deployment]], [[multi_brand_unified_analytics]], [[data_quality_governance]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-06
+expires_at: 2026-11-04
+status: active
 ---
-
 # Agentic BI 与 ChatBI 零售落地实测 — 取数 1-2 天到 30 秒（2026）
 
 > **一句话摘要**：2026 年零售 BI 的价值锚点从"做报表"转为"消灭取数排队"——恒石 200+ 门店案例用 **10 周三阶段**（指标中台 4 周 + 看板嵌入 3 周 + ChatBI 3 周）把取数响应从 1-2 天压到 **30 秒内**、业务自主取数比例从 **30% 提到 85%**、年省研发 **300 万元**；观远在 8 家区域连锁超市实测数据团队临时取数需求**下降 42%**。

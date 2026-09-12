@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-09
 updated: 2026-08-09
 cross_refs: [[会员复购率提升策略]], [[全渠道会员一体化]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-09
+expires_at: 2026-11-07
+status: active
 ---
-
 # Rivo VIP分层忠诚度ROI
 
 > **一句话摘要**：VIP分层带来 1.8X ROI、AOV 高 73%（$435 vs $291）、Top5% 贡献 35% 收入；服装复购率 25–26%。

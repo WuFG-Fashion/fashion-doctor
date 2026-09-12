@@ -9,8 +9,13 @@ sources: [WorldMetrics.org 2026-02]
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[中国服装零售基准体系2026]], [[china_apparel_industry_2026q1]], [[服装行业竞争格局]], [[2026-06-06_中国服装行业统计2026]], [[china_apparel_export_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-06-06
+review_due_at: 2026-12-03
+status: active
 ---
-
 # 中国服装行业规模与结构（2026）
 
 > **一句话摘要**：中国服装产值3.8万亿、出口占全球35%、2500万从业者，数字化制造70%但AI设计仅25%，研发人才仅3%。

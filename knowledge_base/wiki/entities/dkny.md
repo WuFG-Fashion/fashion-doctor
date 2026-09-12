@@ -9,8 +9,13 @@ sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[brand_risk_signals_2026]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # DKNY
 
 > **一句话摘要**：美国都市生活方式品牌，Donna Karan 旗下副线，定位摩登都市通勤。

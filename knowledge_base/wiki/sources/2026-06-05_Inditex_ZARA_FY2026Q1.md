@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-05
 updated: 2026-06-05
 cross_refs: [[inditex_zara]], [[four_brands_2025]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: slow
+as_of: 2026-06-05
+expires_at: 2026-12-02
+status: active
 ---
-
 # Inditex/ZARA FY2026 Q1财报
 
 > **一句话摘要**：ZARA母公司Inditex FY2026Q1营收684亿人民币(+5.8%)，净利110亿(+5.4%)，毛利率57.8%稳定，但中国门店不足60家（截至2026.4）持续收缩，全球门店-106家。

@@ -10,8 +10,13 @@ sources: [2026-08-15_AWOKEN_TIME_中国潮流集合店门店与运营速览_2026
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[humble_humble_r]], [[2026-08-18_awoken_time_武汉门店网络与集合店模式]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # AWOKEN TIME
 
 > **一句话摘要**：中国本土潮流集合店品牌 AWOKEN 的'时间/生活馆'线，以潮玩+咖啡+服饰的场景化门店出圈。

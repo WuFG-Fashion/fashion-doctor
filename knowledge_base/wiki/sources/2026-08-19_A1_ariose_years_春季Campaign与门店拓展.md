@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # 艾诺丝·雅诗 2026 春季 Campaign 与区域门店拓展
 
 > **一句话摘要**：艾诺丝·雅诗（ARIOSE YEARS，杭州爱唯时尚集团）2026 以"米兰灵感"春季 Campaign 强化设计调性，并加速区域下沉——山东代理网点 60+ 店年均 +15%、蒙阴旗舰店 3-8 开业，与 [[2026-08-18_ariose_years_门店规模与价格带]] 的"全国 2800+ 店 / 衬衫 789-1380 元"形成区域拓展维度的补充。

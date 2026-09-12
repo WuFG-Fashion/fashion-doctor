@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # ellesse Andrew Garfield 全球战役量化 / Smiley / 价格带（A1·2026-08-23）
 
 > **一句话摘要**：ellesse 2026-06 启动 Andrew Garfield「Do It Like An Italian」全球战役（三章结构、预算约 3,000 万美元），强化意大利 heritage 叙事；× Smiley（70s Rave）联名延续"表达性运动"；价格带英国官网 T 恤 £22–55 / 外套 £75–120（约 200–1,100 元），APAC 女装占比目标 40%→60%。

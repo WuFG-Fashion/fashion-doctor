@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-30
 updated: 2026-08-30
 cross_refs: [[peacebird]], [[会员与VIP运营体系2026]], [[全渠道会员一体化]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 > **一句话摘要**：太平鸟会员 2600 万、贡献 68% 销售、复购率 41%（非会员 3 倍）、私域复购 +35%；PBClub 黑卡年均 8600 元、复购率 78%——会员是增长主引擎。
 > **置信度**：品牌自宣（会员运营/复购为品牌官方口径；营收 87.16 亿/净利 5.32 亿为财报级，已内联标注）
 > **来源**：wiki/raw/articles/2026-08-30_peacebird_会员运营与私域复购.md（WebSearch 聚合）

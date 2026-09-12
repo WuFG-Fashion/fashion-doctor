@@ -9,8 +9,13 @@ updated: 2026-08-26
 cross_refs: [[crocs]], [[会员与VIP运营体系2026]], [[2026-08-26_时尚忠诚度计划国际标杆2026]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # B轮佐证：Crocs Club 忠诚度计划与折扣策略（轮换品牌）
 
 > **一句话摘要**：Crocs Club 免费忠诚度计划——注册即得 15% 折扣码、抢先购限量联名、生日折扣、专属优惠；叠加学生/教师/军人/医护等"身份折扣"（15-25%），配合 Croctober 十月大促，构成"轻量忠诚度+全人群折扣矩阵"策略。

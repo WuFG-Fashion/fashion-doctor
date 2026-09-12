@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · Lacoste 2026 目标/门店/联名（WebSearch 2026-08-22）
 
 - 全球营收目标 $3.9B（Maus Frères）；当前约 €3B 营收、1,100+ 直营店、约 18% 线上、DTC 导向。

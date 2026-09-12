@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-24
 updated: 2026-06-24
 cross_refs: [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-24
+expires_at: 2026-09-22
+status: active
 ---
-
 # DuckDB vs Polars 2026基准对比
 
 > **一句话摘要**：PyInns 2026年3月实测 DuckDB 1.2+ vs Polars 1.x，覆盖1亿-10亿行数据集，提供SQL vs表达式API双视角选型指南。

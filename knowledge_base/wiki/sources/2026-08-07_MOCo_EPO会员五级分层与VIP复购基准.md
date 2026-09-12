@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-07
 updated: 2026-08-07
 cross_refs: [[moco_epo]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[jnby]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-07
+expires_at: 2026-11-05
+status: active
 ---
-
 # MO&Co./EPO集团会员五级分层与VIP复购基准
 
 > **一句话摘要**：EPO集团（MO&Co./edition）以"价值+活跃度"双维五级体系（银5千/金1.5万/白金3万/黑金5万/钻石10万+，每季升降级）+三层权益+三项增值服务，做到会员销售贡献82%、老客复购率>51%、会员资产288万(+16%)，并给出行业口径"优质服装品牌VIP复购率35-45% vs 普通会员15-25%"。

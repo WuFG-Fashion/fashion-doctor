@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-30
 updated: 2026-06-30
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[ETL架构选型]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-30
+expires_at: 2026-09-28
+status: active
 ---
-
 # SQL查询优化2026：PostgreSQL 18 + AI工具 + 五步诊断法
 
 > **来源**：Dupple Blog — Louis Corneloup, 2026-03-26

@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[3c_operation_system]], [[weifu_consulting]], [[2026-09-10_B_导购客户资产经营与企微加微SOP]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 客资经营体系（韦孚 3C 子系统）
 
 > **一句话摘要**：韦孚 3C 经营体系两大子系统之一（另一为[[3c_operation_system|商品经营体系]]），覆盖新客开发与老客维护全链路，核心理念是"**价值关系 > 情感关系**"，从"邀约/引流→回店→大单→情感→分类→成交"价值链出发，最终目标是"精准人货对接"驱动客单件与连带提升。

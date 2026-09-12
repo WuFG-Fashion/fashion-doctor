@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Trussardi 退出俄罗斯市场收尾（2026-04 法律清盘）（2026-08-22 摘录）
 
 ## 来源

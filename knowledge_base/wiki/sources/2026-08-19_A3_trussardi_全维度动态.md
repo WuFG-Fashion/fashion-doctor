@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[trussardi]], [[2026-08-17_Trussardi_Miroglio_2025FY与2026开店计划]], [[2026-08-15_楚萨迪2026重启开店计划]], [[nautica]], [[peacebird]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A3轮·Trussardi 2026 全维度动态
 
 > **一句话摘要**：2026-08-05，香港海港城 TRU TRUSSARDI 旗舰店以品牌新形象重新开幕。这与上轮入库的 Miroglio 方面"暂不考虑中国市场"表述形成直接张力——香港属中国市场范畴。本轮判断该张力应解读为**"中国内地 vs 港澳"的口径边界问题**，而非表述失实；同时确认该店为既有点位形象升级（re-opening），与"2026 年底前新开 10 店"的净新增计划不必然重叠。

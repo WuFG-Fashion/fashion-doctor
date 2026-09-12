@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # 艾诺丝雅诗 ARIOSE YEARS：价格带补充 + 西单大悦城新装开业
 
 > 来源：爱企查品牌词条（2026-08）；微博西单大悦城新装开业（8-13~8-15）；新浪金山万达焕新开业

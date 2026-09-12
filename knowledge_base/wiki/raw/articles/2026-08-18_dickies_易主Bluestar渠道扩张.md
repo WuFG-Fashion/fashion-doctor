@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-18
+expires_at: 2026-11-16
+status: active
+---
+
 # 原始资料 — Dickies 易主 Bluestar 后 2026 渠道扩张
 
 来源：

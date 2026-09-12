@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-12
 updated: 2026-08-12
 cross_refs: [[streamlit_dashboard_2026]], [[streamlit_production_dashboard]], [[multi_brand_unified_analytics]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-12
+expires_at: 2026-11-10
+status: active
 ---
-
 # Streamlit 企业级架构与生产部署路线（2026）
 
 > **一句话摘要**：2026 生产部署矩阵：Streamlit Share / 私有 Docker / 传统服务器；生产推荐 Nginx(SSL/Auth)→Docker(Streamlit)→DB 拓扑 + K8s 多实例会话亲和；streamlit-elements 突破线性布局；OAuth2.0/SAML RBAC + Prometheus/Grafana 监控；Community Cloud 有 1GB 上限+12h 休眠，livemy.app $10/月、Railway/Render $5–7/月、Docker VPS $5–20/月。

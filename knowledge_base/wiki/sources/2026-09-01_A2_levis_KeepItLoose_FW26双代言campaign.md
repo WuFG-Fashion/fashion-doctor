@@ -9,8 +9,13 @@ updated: 2026-09-01
 cross_refs: [[levis]], [[服装行业竞争格局]], [[2026-08-31_A2_levis_印度500店与日本联名]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-01
+expires_at: 2026-11-30
+status: active
 ---
-
 # Levi's「Keep it Loose」FW2026 双代言 Campaign（ROSÉ × Shai Gilgeous-Alexander）
 
 > **一句话摘要**：Levi's 2026 秋冬全球 campaign「Keep it Loose」由 BLACKPINK 成员 ROSÉ 与 NBA 现役 MVP Shai Gilgeous-Alexander 双代言，聚焦 Loose Prep 趋势（501 Loose / Baggy Barrel / Loose Taper / Loose Boot），以"松开校服规则"对抗算法穿搭扁平化，旗舰店配套专属造型编辑。

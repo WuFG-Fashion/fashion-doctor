@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · Études Studio 2026 商业化动态（WebSearch 2026-08-22）
 
 - 配饰目标占销售 ~50%；首款包 "Studio" 信使包 2026-01 上市（把艺术/出版资产变现为高毛利配饰）。

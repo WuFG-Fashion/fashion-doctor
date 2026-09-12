@@ -9,8 +9,13 @@ sources: [2026-08-15_AWOKEN_SPACE_中国潮流副线速览_2026.md, 品牌墙图
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # AWOKEN SPACE
 
 > **一句话摘要**：中国本土潮流品牌 AWOKEN 的'空间/场景'概念副线，与 AWOKEN TIME 共享品牌哲学与武汉集群。

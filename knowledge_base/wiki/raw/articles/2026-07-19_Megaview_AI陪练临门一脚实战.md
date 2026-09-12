@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-19
+expires_at: 2026-10-17
+status: active
+---
+
 # Megaview AI陪练 — 临门一脚从退缩到肌肉记忆
 
 > **来源**: Megaview 官方博客 2026

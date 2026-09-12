@@ -9,8 +9,13 @@ sources: [2026-06-08_知衣FD_AI试衣工具选型.md, 2026-07-31_LOOKAI_时尚A
 created: 2026-06-08
 updated: 2026-08-09
 cross_refs: [[ai_virtual_tryon_2026|AI虚拟试衣技术2026]], [[ai_fashion_design_cases_2026]], [[retail_ai_adoption_2026|2026零售AI采纳全景]], [[2026-06-17_FlowpixAI_AI虚拟试衣工具横评2026]], [[2026-06-17_搜狐_618服装AI商拍工具测评即梦双模型]], [[2026-06-22_Genlook_12大AI时尚趋势2026]], [[2026-05-25_知衣FD+2.0_AI商拍]], [[2026-01-28_微盟AI试衣方案]], [[2026-06-27_小红书FireRed开源AI试衣模型]], [[2026-07-27_虹软ArcMuse_AI商拍平台]], [[2026-07-31_LOOKAI_时尚AI_Agent_BEYONDEXPO2026]], [[2026-08-02_NXN_Labs_CtrlVTON_可控虚拟试衣]], [[2026-08-03_京东京点点OxygenVision_素材生产]], [[2026-08-03_抖音虚拟上身与衣识科技AI试衣SaaS]], [[2026-08-05_佛山张槎帮衣帮_服装专用AI平台成本基准]], [[apparel_ai_agents_2026]], [[2026-08-09_海宁皮革城_京东OxygenVision_AI试衣]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-09
+review_due_at: 2027-02-05
+status: active
 ---
-
 # 服装AI试衣工具选型与落地（2026）
 
 > **一句话摘要**：2026年服装AI试衣进入商用成熟期，知衣FD等工具实现商拍成本降80-92%、设计效率+77%、商拍1天→30秒，五步标准化流程可落地。

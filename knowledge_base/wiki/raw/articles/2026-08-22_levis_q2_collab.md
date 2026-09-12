@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · Levi's Q2 FY2026 + 2026 联名（WebSearch 2026-08-22）
 
 - Q2 FY2026（截至 2026-05-31）：营收 +8% 至 $1.56B；净利润 $87.3M；调整后 EPS $0.28；毛利率 62.7%。

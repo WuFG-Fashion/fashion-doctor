@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-09-04
 updated: 2026-09-04
 cross_refs: [[nerdy]], [[2026-09-02_A3_nerdy_APR母公司财务颗粒与门店矩阵]], [[服装行业竞争格局]], [[brand_risk_signals_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-04
+expires_at: 2026-12-03
+status: active
 ---
-
 # 2026-09-04 A3 NDY(NERDY) 门店口径裁定：249 家归属 PHOTOGRAY + 中国退潮佐证
 
 > **一句话摘要**：APR 集团官网门店目录"韩国国内 249 家+海外 9 家"（2026-08-06 快照）经时间线交叉验证，**判为以 PHOTOGRAY 拍贴加盟网络为主的点数口径**（2022→111 店、2024 末→154 店、2026-08→249 店的增长轨迹完美匹配 PHOTOGRAY），**不是 NERDY/NDY 服装单品牌门店数**——NDY 服装线下仍维持"约 10 家（含百货专柜/弘大旗舰）"口径；同时佐证 NERDY 中国退潮（Jing Daily：巅峰 60+ 店 → 2025 年末基本退出）。

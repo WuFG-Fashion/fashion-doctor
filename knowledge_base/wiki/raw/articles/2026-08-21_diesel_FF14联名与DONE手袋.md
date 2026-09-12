@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # Diesel ×《最终幻想14》联名落地细节 + D-ONE 手袋
 
 > 来源：CFW 2026-08《DIESEL 将与《最终幻想 14》展开跨界联名合作》；ELLE 香港 D-ONE 手袋系列；POPBEE Y2K 耳机新配色

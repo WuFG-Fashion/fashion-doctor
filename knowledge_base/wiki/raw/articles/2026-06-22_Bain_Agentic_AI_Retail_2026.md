@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-22
+expires_at: 2026-09-20
+status: active
+---
+
 # Bain - Agentic AI in Retail: How Autonomous Shopping is Redefining the Customer Journey
 
 > **来源**: https://www.bain.com/insights/agentic-ai-in-retail-how-autonomous-shopping-redefining-customer-journey/

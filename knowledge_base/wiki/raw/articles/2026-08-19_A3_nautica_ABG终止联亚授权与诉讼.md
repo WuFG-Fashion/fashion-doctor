@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — Nautica 中国代理权结构性变更：ABG 终止联亚授权、联亚起诉、上海荟众接手
 
 来源：

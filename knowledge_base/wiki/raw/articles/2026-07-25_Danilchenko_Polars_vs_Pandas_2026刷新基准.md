@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-25
+expires_at: 2026-10-23
+status: active
+---
+
 # Danilchenko：Polars vs Pandas 2026 真实基准刷新（2026-07）
 
 > 来源：https://danilchenko.dev/posts/polars-vs-pandas/ （Last updated: July 2026，refreshed for Pandas 3.0）

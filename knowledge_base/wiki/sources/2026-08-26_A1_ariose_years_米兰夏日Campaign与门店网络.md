@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-26
 updated: 2026-08-26
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # 艾诺丝雅诗 2026 夏日米兰 Campaign 与精选店铺网络
 
 > **一句话摘要**：艾诺丝雅诗 2026 SUMMER Campaign 首度以米兰斯福尔扎古堡为拍摄地强化欧式基因，官方精选店铺网络覆盖上海/北京/天津/合肥/西安/长沙等高端购物中心，与 08-20 重奢商圈拓店形成「重奢 + 高端 mall 基本盘」双线。

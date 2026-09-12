@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-29
+expires_at: 2027-02-25
+status: active
 ---
-
 # Tommy Hilfiger 全维度动态（2026-08-29 A3）
 
 > **一句话摘要**：PVH 集团（NYSE:PVH）旗下核心品牌，FY2025/26 集团营收 +3.4% 至 90 亿美元（恒定汇率 +0.5%），Tommy Hilfiger 全年 +3.9%（含 3% 汇率利好）；Q1 FY2026/27 Tommy +2.8% 报收、APAC 逆势 +5.8%（中国/日本复苏），PVH 收回此前授权品类以强化直营。

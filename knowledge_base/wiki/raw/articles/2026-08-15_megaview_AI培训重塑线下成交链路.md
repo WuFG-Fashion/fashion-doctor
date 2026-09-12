@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # Megaview：AI培训重塑线下成交链路——转化率+40%/知识留存72%/上岗6→2月
 
 > 来源剪藏：https://www.megaview.com/resource/archives/23840

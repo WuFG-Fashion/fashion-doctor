@@ -10,8 +10,13 @@ sources: [2026-06-08_Polars_DuckDB_Pandas三大引擎对比, https://blog.csdn.n
 created: 2026-06-08
 updated: 2026-08-15
 cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[ETL架构选型]], [[零售数据仓库SQL实践]], [[data_library_selection_guide_2026]], [[arrow_zero_copy_interop_2026]], [[2026-06-09_Scopir_Python数据分析库2026横评]], [[2026-06-11_chenxutan_Polars深度实战Rust架构]], [[retail_data_workflow_2026|零售数据分析工作流]], [[python_dev_stack_2026]], [[python_data_stack_decision_2026]], [[2026-06-18_CSDN_Polars_2.0_大规模清洗优化]], [[2026-06-21_DuckDB_1.5_Sirius_GPU加速]], [[2026-06-24_DuckDB_vs_Polars_2026基准对比]], [[2026-07-03_PyTutorial_Polars_Arrow零拷贝互操作]], [[2026-07-06_CSDN_Apache_Arrow零拷贝2026]], [[2026-07-09_Danilchenko_DuckDB_vs_Polars_2026基准]], [[2026-07-15_DuckDB_vs_Polars_共存模式与生产决策]], [[2026-07-22_DuckDB_1.5.4_Quack_DuckLake]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # DuckDB嵌入式OLAP分析引擎
 
 > **一句话摘要**：DuckDB是"分析型SQLite"——零配置嵌入式OLAP引擎，直接查询CSV/Parquet/JSON文件，窗口函数比Pandas快10x，三引擎混合栈（DuckDB→Polars→Pandas）是2026年最佳实践。

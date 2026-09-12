@@ -26,8 +26,13 @@ relations:
   - type: competitor_of
     target: "[[humble_humble_r]]"
     note: "谦而不卑：新锐街头男装，同调性"
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # 卡宾（Cabbeen）
 
 > **一句话摘要**：中国设计师男装品牌（卡宾服饰 HK 02030），杨紫明 1997 年创立；2026H1 营收 4.53 亿（+7.24%）走出 2025FY 下滑（-8.80%），毛利率升至 46.3%（+2.5pp）为最大亮点，但经营溢利 -24.7%、存货周转 246 天（+38 天）揭示"增收增利、效率承压"的真实体质。

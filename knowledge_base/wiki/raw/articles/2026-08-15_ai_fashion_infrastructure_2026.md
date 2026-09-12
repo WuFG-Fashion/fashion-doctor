@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # AI 时尚 2026：从实验到基础设施（原始剪藏）
 
 > 来源：fashioninsta.ai Blog「AI in Fashion 2026」、fashiolabs「State of AI in Fashion 2026」、textilevaluechain「Retail-Tech Merge」、VOGUE 2026-01

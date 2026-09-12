@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
+---
+
 # AWOKEN TIME 唤醒时刻 — 2026-08-23 联网检索原始素材
 
 ## 来源1：今日头条/大众点评（武汉门店清单，具名）

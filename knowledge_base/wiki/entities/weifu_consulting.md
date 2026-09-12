@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[3c_operation_system]], [[quantified_aesthetics]], [[customer_asset_system]], [[retail_sales_force_system]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-25
+expires_at: 2027-02-21
+status: active
 ---
-
 # 韦孚咨询（韦孚国际）
 
 > **一句话摘要**：中国服饰行业头部管理咨询公司，旗下"3C 经营体系（李炳辰创立）"+"量化美学体系（韩久九创立）"两大方法论，长期服务地素、安踏、艾诺丝雅诗、赢家、歌力思、VERRI 等 10+ 上市公司、100+ 品牌、累计培养 10 万专业人员。

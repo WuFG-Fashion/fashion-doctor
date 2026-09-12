@@ -9,8 +9,13 @@ updated: 2026-09-01
 cross_refs: [[dekashell]], [[服装价格带管理与价格真空区]], [[ariose_years]]
 confidence: 第三方数据
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-01
+expires_at: 2026-11-30
+status: active
 ---
-
 # 迪卡轩 DEKASHELL：价格带与加盟模式口径
 
 > **一句话摘要**：迪卡轩 2026 价格带披露——春夏 ¥179–1299、秋冬 ¥239–2599；加盟费用平台口径差异大（2–5 万 vs 9–15 万），门店数口径 102→400→600+ 分层并存；县域新店出现"穿搭模特+抖音/视频号"新媒体化运营。

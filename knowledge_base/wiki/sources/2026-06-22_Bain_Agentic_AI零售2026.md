@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-22
 updated: 2026-06-22
 cross_refs: [[agentic_commerce_fashion_2026]], [[retail_ai_adoption_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-22
+expires_at: 2026-09-20
+status: active
 ---
-
 # Bain: Agentic AI在零售业 — 自主购物重构客户旅程
 
 > **一句话摘要**：Bain 2026年5月发布Agentic AI零售深度报告，揭示AI代理正从搜索、比价到交易全链路重构消费者旅程，Amazon Rufus创造$120亿增量销售，并提出零售商三大战略回应。

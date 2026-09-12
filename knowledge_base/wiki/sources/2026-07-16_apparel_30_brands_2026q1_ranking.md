@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-16
 updated: 2026-07-16
 cross_refs: [[peacebird]], [[hla]], [[semir]], [[bienlefen]], [[服装行业竞争格局]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-16
+expires_at: 2026-10-14
+status: active
 ---
-
 # 2026Q1服装家纺30强全景排名
 
 > **一句话摘要**：2026Q1服装家纺30家A股上市公司合计营收370.74亿（22家正增长），海澜之家66.61亿居首，森马净利+45.25%领跑，行业整体呈"营收修复、净利分化"格局。

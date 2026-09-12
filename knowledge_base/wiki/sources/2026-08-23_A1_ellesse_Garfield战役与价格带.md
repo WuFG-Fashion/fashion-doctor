@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[ellesse]], [[服装行业竞争格局]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # ellesse Garfield 全球战役与价格带（A1·2026-08-23）
 
 > **一句话摘要**：ellesse「Do It Like An Italian」全球战役（Andrew Garfield，2026-06 起，三章贯穿 SS26+AW26）+ Smiley 联名（1,280 元登山帽）；价格带 £22-120（约 200-1100 元）corroborate 中端运动时尚。

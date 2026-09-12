@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[trussardi]], [[服装行业竞争格局]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # Trussardi — Miroglio 2025FY 与 2026 开店计划
 
 > **一句话摘要**：意大利奢侈品牌 Trussardi（Miroglio 旗下）2025FY 营收 €2880 万（+67.4%）但 EBITDA 转亏、净亏扩至 €510 万；2026 底前计划新开 10 店（含 5 海外），明确"暂不考虑中国市场"。

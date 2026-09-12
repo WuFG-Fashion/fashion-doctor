@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-22
 updated: 2026-08-22
 cross_refs: [[trussardi]], [2026-08-21_A3_trussardi_资本重组警示与品牌延伸], [brand_risk_signals_2026], [nautica], [服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
 ---
-
 # A3轮·Trussardi 退出俄罗斯市场收尾
 
 > **一句话摘要**：Trussardi 于 2026 年 4 月初正式退出俄罗斯市场、关闭剩余业务单元；实体零售已于 2025Q3 全部关停，运营实体 T.R.S. Distribution LLC 法律清盘于 2025 年完成。退出是地缘政治驱动（非业绩），与"2026 财年末亏损红线"并行，属非核心市场的资产瘦身。

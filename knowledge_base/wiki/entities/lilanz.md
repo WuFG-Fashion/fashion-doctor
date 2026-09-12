@@ -11,8 +11,13 @@ sources: [2026-06-13_STM翔蓝_2026抗跌品牌江南布衣利郎.md, 2026-07-27
 created: 2026-06-13
 updated: 2026-07-27
 cross_refs: [[jnby]], [[hla]], [[semir]], [[peacebird]], [[服装行业竞争格局]], [[男装品牌竞争格局2026Q1]], [[2026-07-27_中国利郎H1低双位数增长_男装K型分化]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-27
+expires_at: 2027-01-23
+status: active
 ---
-
 # 利郎 (LILANZ, 01234.HK)
 
 > **一句话摘要**：中国商务男装龙头，2025年营收首破40亿(+11.5%)，轻商务系列LESS IS MORE暴增28.4%占比首破30%，线上+25%，以6.9%研发占比建立技术壁垒。

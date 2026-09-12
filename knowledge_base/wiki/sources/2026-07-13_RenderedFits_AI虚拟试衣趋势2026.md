@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-14
 updated: 2026-07-14
 cross_refs: [[ai_virtual_tryon_2026]], [[ai_fashion_ecommerce_tryon_tools_2026]], [[agentic_commerce_fashion_2026]], [[ai_fashion_market_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-13
+expires_at: 2026-10-11
+status: active
 ---
-
 # RenderedFits AI虚拟试衣产业趋势2026
 
 > **一句话摘要**：2026 AI虚拟试衣全球产业全景——McKinsey估计GenAI可增$150-275B时尚利润，55%奢侈品消费者使用VTO，DressX转化10x/Saiz+70%，CAGR趋势确认虚拟试衣已从实验品变为品牌标配。

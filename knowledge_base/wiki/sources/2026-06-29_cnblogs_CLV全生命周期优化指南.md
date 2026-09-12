@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-29
 updated: 2026-06-29
 cross_refs: [[会员复购率提升策略]], [[RFM会员分层运营实战]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-29
+expires_at: 2026-09-27
+status: active
 ---
-
 # CLV全生命周期优化指南
 
 > **一句话摘要**：2026年CLV全生命周期六阶段模型（获取→激活→成长→成熟→衰退→召回），配合RFM四层分层+七日成长阶梯，实现复购率25%→70%、CLV+60%的实战效果。

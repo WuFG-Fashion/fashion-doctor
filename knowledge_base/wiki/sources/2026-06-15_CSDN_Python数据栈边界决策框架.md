@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-15
 updated: 2026-06-15
 cross_refs: [[polars_vs_pandas_2026]], [[duckdb_olap_engine_2026]], [[retail_data_workflow_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-15
+expires_at: 2026-09-13
+status: active
 ---
-
 # CSDN — Python数据栈边界决策框架2026
 
 > **一句话摘要**：Python数据栈三重边界清晰定义——<5GB用Pandas/5-100GB用Polars+DuckDB/>100GB用Spark，实战案例4h→15min(16x)。

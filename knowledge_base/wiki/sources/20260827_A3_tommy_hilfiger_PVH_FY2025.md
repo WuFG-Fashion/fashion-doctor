@@ -9,8 +9,13 @@ updated: 2026-08-27
 cross_refs: [[tommy_hilfiger], [服装行业竞争格局]]
 confidence: 财报
 brand_specific: true
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-27
+expires_at: 2027-02-23
+status: active
 ---
-
 # Tommy Hilfiger PVH FY2025 全维度动态
 
 > **一句话摘要**：PVH 旗下 Tommy Hilfiger 2025 财年营收 47.71 亿美元(+4%)，但亚太(含中国)下滑 4.2%，靠 Travis Kelce/Cadillac F1 等联名撑增长，2026 受关税约 215bp 拖累。

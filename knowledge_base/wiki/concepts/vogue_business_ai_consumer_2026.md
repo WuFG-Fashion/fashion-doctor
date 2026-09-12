@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[ai_fashion_consumer_2026]], [[ai_fashion_market_2026]], [[retail_ai_adoption_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # VOGUE Business — 2026年AI时尚消费入口全景
 
 > 来源：[[2026-06-30_VOGUE_Business_AI时尚消费入口2026]]

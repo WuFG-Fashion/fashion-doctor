@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-19
 updated: 2026-07-19
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]], [[深维智信]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-19
+expires_at: 2026-10-17
+status: active
 ---
-
 # Megaview AI陪练 — 临门一脚从退缩到肌肉记忆
 
 > **一句话摘要**：Megaview通过三阶段AI对练（压力暴露→模式识别→情境迁移），将导购主动推进率从23%提升至61%，上岗周期从6个月压缩至2个月。

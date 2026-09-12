@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-22
+expires_at: 2026-11-20
+status: active
+---
+
 # Raw · KOYO 实体消歧（WebSearch 2026-08-22）
 
 - 候选（最可能·品牌墙语境）：中国中端潮牌 "koyo潮牌"——中端偏上、100-300 元、18-30 岁街头文化、T恤/卫衣/外套/帽子。

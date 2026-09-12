@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
+---
+
 # AI Checkout 已在时尚零售落地：Gap / Ulta / JD Sports 实战
 
 > 来源：Fashion News GF《AI Checkout Has Arrived in Fashion Retail: What's Actually Live in 2026》

@@ -8,8 +8,13 @@ sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌�
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[brand_store_channel_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # ellesse
 
 > **一句话摘要**：意大利运动复古品牌，以网球与滑雪基因、半圆标志著称。

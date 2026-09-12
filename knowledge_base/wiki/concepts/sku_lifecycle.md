@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[2026-09-10_B_直播内容电商渠道商品企划差异]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # SKU生命周期管理
 
 > **分类**: L2_05 商品企划 > L3_05_03 SKU生命周期管理

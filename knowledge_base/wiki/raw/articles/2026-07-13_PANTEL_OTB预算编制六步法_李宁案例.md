@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-13
+expires_at: 2026-10-11
+status: active
+---
+
 # OTB预算编制六步法 + 李宁OTB改革案例
 
 > **来源**: PANTEL时尚 (toutiao.com), 2026-06-29

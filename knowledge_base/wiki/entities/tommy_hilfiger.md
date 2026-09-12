@@ -10,8 +10,13 @@ sources: [2026-08-15_Tommy_Hilfiger___PVH_中国渠道与财务速览_2026.md, �
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-21_A3_tommy_hilfiger_营销联名矩阵_PVH指引上调]], [[earnings_quality_nonrecurring_2026]], [[speedo]], [[2026-08-22_A3_tommy_hilfiger_618与关税冲击]], [[2026-08-26_A3_tommy_hilfiger_PVH_Q2财报]], [[brand_risk_signals_2026]], [[品牌联名策略]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[listed_brand_metrics_template_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # Tommy Hilfiger
 
 > **一句话摘要**：美国经典休闲品牌，以红白蓝旗标与学院风、美式休闲著称，PVH 集团旗下。

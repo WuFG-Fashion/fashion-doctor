@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-09
 updated: 2026-07-09
 cross_refs: [[SQL查询性能优化]], [[零售数据仓库SQL实践]], [[data_quality_retail_practice]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-09
+expires_at: 2026-10-07
+status: active
 ---
-
 # PostgreSQL 2026性能调优完整清单
 
 > **一句话摘要**：2026年PostgreSQL全面性能调优指南——覆盖硬件配置、内存参数、索引策略、查询优化、连接池、VACUUM调优、分区、监控和复制，含64GB RAM专用服务器完整配置方案。

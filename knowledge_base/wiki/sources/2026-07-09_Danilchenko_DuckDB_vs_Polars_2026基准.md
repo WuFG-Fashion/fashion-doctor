@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-09
 updated: 2026-07-09
 cross_refs: [[duckdb_olap_engine_2026]], [[polars_vs_pandas_2026]], [[python_data_stack_decision_2026]], [[data_library_selection_guide_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-09
+expires_at: 2026-10-07
+status: active
 ---
-
 # Danilchenko DuckDB vs Polars 2026基准评测
 
 > **一句话摘要**：2026年7月最新DuckDB 1.5.4 vs Polars 1.42.1深度对比——2TB Parquet扫描、12GB订单实测、内存模型剖析，结论：差异在舍入误差级别，文件分区比引擎选择对性能影响更大。

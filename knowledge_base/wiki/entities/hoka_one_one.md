@@ -10,8 +10,13 @@ sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌�
 created: 2026-08-14
 updated: 2026-09-11
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-11
+expires_at: 2027-03-10
+status: active
 ---
-
 # HOKA ONE ONE
 
 > **一句话摘要**：美国厚底跑鞋品牌，Deckers 旗下，近年从专业跑圈破圈至潮流穿搭。

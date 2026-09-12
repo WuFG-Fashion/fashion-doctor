@@ -4,8 +4,14 @@ source: 金融界《直击WAIC2026多点数智张宇》+ 腾讯新闻(2026-07-21
 url: https://finance.jrj.com.cn/2026/07/21133557853894.shtml, https://new.qq.com/rain/a/20260721A06BHK00
 date: 2026-07-28
 tags: [ai_agent, retail, data_governance, multi_brand, embodied_ai, waic2026]
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # WAIC2026 多点数智 零售AI智能体三层架构与结果交付闭环
 
 ## 核心要点

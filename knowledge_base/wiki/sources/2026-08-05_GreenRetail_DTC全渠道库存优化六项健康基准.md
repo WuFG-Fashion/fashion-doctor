@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-05
 updated: 2026-08-05
 cross_refs: [[动态OTB管理]], [[柔性供应链与商品企划]], [[sku_fine_management|服装SKU精细化管理]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-05
+expires_at: 2026-11-03
+status: active
 ---
-
 # DTC全渠道库存优化六项健康基准（Green Retail Consulting）
 
 > 一句话摘要：Green Retail 为客户实现平均库存改善28%；提出六项健康基准——季末售罄率80%+、WOS 6-8周、周转4-6次/年、在库率95%+、折扣率<20%、OTB按销售预测编制；并给出六步实操（审计SKU→精简货盘→需求预测→设定OTB→每周复盘→提前规划折扣）。

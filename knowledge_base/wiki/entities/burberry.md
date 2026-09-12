@@ -11,8 +11,13 @@ sources: [2026-06-28_贝尔财经_Burberry_FY2026年报, 2026-06-30_VOGUE_Busine
 created: 2026-06-30
 updated: 2026-07-20
 cross_refs: [[light_luxury_brand_framework_2026]], [[lululemon]], [[jnby]], [[bienlefen]], [[ai_fashion_consumer_2026]], [[agentic_commerce_fashion_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-07-20
+expires_at: 2027-01-16
+status: active
 ---
-
 # Burberry 博柏利
 
 > **一句话摘要**：英国奢侈品牌，FY2026（截至2026年3月）营收24.20亿英镑(-2%)，毛利率67.9%，通过"Burberry Forward"战略聚焦风衣+围巾核心品类，大中华区Q4逆势+10%为全球增长引擎。

@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-25
 updated: 2026-08-25
 cross_refs: [[零售数据仓库SQL实践]], [[data_quality]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-25
+expires_at: 2026-11-23
+status: active
 ---
-
 # EXCLE学习（Excel基础认知）
 
 > **一句话摘要**：Excel 基础认知培训课件（"EXCLE认知｜EXCEL基础认知"）——面向门店人员的表格工具基础课，为销售数据整理/报表制作打底；⚠️ 原文件为 xlsx 表格结构，正文以表格单元格形式存在。

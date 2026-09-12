@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-31
+expires_at: 2026-10-29
+status: active
+---
+
 # Streamlit 2026 生产部署与 Cloud 零门槛上线
 
 > 采集日期：2026-07-31 · 来源：Snowflake Docs（2026-03-09 Streamlit in Snowflake container runtime GA）、CSDN（Streamlit Cloud 免邀请部署 2026-07-07）、wenku（Streamlit 数据应用开发零前端）、xxmr（Streamlit 完整介绍 2026）（synthesized）

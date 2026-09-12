@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-21
+expires_at: 2026-09-19
+status: active
+---
+
 # Streamlit 2026 H2 关键架构升级：Starlette正式化、Polars零拷贝、并行Fragment
 
 > 来源：Streamlit官方Release Notes (docs.streamlit.io)，汇总v1.53-v1.58

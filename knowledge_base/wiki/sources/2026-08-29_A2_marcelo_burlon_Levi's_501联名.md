@@ -9,8 +9,13 @@ updated: 2026-08-29
 cross_refs: [[marcelo_burlon]], [[levis]], [[服装行业竞争格局]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Marcelo Burlon × Levi's 501 upcycling 胶囊 + Fila Fusion 联名（2026）
 
 > **一句话摘要**：为纪念 Levi's 501 诞生 150 周年，Levi's 与 Marcelo Burlon County of Milan 推出 upcycling 限量胶囊（Milano Moda Uomo 发布）：激光处理的同色调 patchwork Vintage Trucker Jacket（有机棉 Type II）+ Authentic Straight Jeans 551Z（日本 Kaihara Mills），配 County blue 标与十字旗；另 Fila Fusion × Marcelo Burlon 联名（蔡徐坤，上海 TX 淮海）将音乐与米兰街头融合。

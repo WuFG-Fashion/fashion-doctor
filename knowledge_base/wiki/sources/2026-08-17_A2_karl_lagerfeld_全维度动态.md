@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[karl_lagerfeld]], [[中国服装零售基准体系2026]], [[global_apparel_financial_benchmarks_2026]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # A2轮·Karl Lagerfeld（G-III/七匹狼）2025-2026 全维度动态
 
 > **一句话摘要**：G-III FY2026 Karl Lagerfeld 净销售约 $630M、全球零售 >$1.7B、170+ 店（+15 新开、Jeans +30%）；中国区由七匹狼运营，2025 大中华区营收 ¥377M、净亏 ¥66.49M（亏损扩大 +142%）。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-08-15
+expires_at: 2026-11-13
+status: active
+---
+
 # aislestock：2026售罄率公式与周度基准——服装8-12%/季末60-80%
 
 > 来源剪藏：http://aislestock.com/sell-through-rate

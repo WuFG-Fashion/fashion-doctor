@@ -9,8 +9,13 @@ updated: 2026-08-25
 cross_refs: [[3c_operation_system]], [[weifu_consulting]], [[aesthetic_retail]]
 confidence: 品牌自宣
 brand_specific: false
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-25
+review_due_at: 2027-02-21
+status: active
 ---
-
 # 量化美学体系（Quantified Aesthetics）
 
 > **一句话摘要**：韦孚咨询旗下由**韩久九创立**的"以消费者美学数据为底层"的服饰设计企划与商品企划方法论，**核心 3 件套：感性工学©（设计管理）+ 科学订货（商品二次企划）+ 美学营销**，已导入珂莱蒂尔、娜尔思、奈蔻、七匹狼、ROLAND BARTHES 男装、安踏 等众多品牌。

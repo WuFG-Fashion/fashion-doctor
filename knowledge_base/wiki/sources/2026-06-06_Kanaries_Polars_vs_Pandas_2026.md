@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-06
 updated: 2026-06-06
 cross_refs: [[polars_vs_pandas_2026|Polars vs Pandas 2026选型指南]], [[SQL查询性能优化]], [[零售数据仓库SQL实践]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-06
+expires_at: 2026-09-04
+status: active
 ---
-
 # Polars vs Pandas 2026选型指南
 
 > **一句话摘要**：Kanaries 2026年发布的Polars vs Pandas性能基准——Polars在1000万行数据集上比Pandas快5-11倍，内存节省87%，数据>100万行时应优先选Polars。

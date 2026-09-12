@@ -10,8 +10,13 @@ created: 2026-09-08
 updated: 2026-09-08
 superseded_by: ""
 cross_refs: [[tommy_hilfiger]], [[服装行业竞争格局]], [[品牌联名策略]], [[salomon]], [[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-08
+expires_at: 2026-12-07
+status: active
 ---
-
 # 2026-09-08 A3 Tommy Hilfiger：2026 秋季双 campaign 落地（"Only in New York" 名人地标叙事 + "Always Denim" 牛仔战役）
 
 > **一句话摘要**：Tommy Hilfiger（PVH 旗下）于 **2026-09-01** 发布 2026 秋季主线 campaign **"Only in New York"**——Travis Kelce（全球大使首秀）以 The Plaza 酒店（Tommy 曾居十余年的纽约旧居）为场景，携 Gigi Hadid / JISOO / Peggy Gou / Frances Tiafoe / Carmelo Anthony 全明星阵容演绎 "Prep Made Current"；同期发布牛仔子战役 **"Always Denim"**（Romeo Beckham 领衔、The Mark Hotel 场景）；并披露 Kelce 合作管线含 2027 春季第二支 campaign 与独立设计联名。

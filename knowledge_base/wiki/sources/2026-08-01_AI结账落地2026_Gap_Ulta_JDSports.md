@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-08-01
 updated: 2026-08-01
 cross_refs: [[agentic_commerce_fashion_2026]], [[apparel_ai_agents_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-08-01
+expires_at: 2026-10-30
+status: active
 ---
-
 # AI结账2026落地：Gap / Ulta / JD Sports 实战（2026-08-01）
 
 > **一句话摘要**：2026 上半年多家时尚/美妆零售商把"对话式导购"升级为"对话内结账"——Gap/Ulta 经 Google Gemini+UCP，JD Sports 经 Stripe Agentic Commerce Suite，Agentic Commerce 成真实销售通道。

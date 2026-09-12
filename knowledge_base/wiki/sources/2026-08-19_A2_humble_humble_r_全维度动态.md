@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-19
 updated: 2026-08-19
 cross_refs: [[humble_humble_r]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
 ---
-
 # A2轮·HumbleHumbleR（谦而不卑）2026 全维度动态
 
 > **一句话摘要**：2026 年以"臻选店标杆化"替代数量扩张——宁波万象城全国臻选店首店、宁波阪急全国首家臻选店（2026-01-24）、长沙杉杉奥莱华中首店、杭州湖滨银泰首店相继落地；主理人舒德，"BE HUMBLE" 中性情绪，Z 世代极简街头。

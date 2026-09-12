@@ -8,8 +8,13 @@ sources: [2026-06-15_aimojo_Python_Pandas_SQL集成指南, https://aimojo.io/zh-
 created: 2026-06-15
 updated: 2026-08-15
 cross_refs: [[polars_vs_pandas_2026]], [[SQL查询性能优化]], [[retail_data_workflow_2026]], [[零售数据仓库SQL实践]], [[duckdb_olap_engine_2026]], [[arrow_zero_copy_interop_2026]], [[2026-08-09_DuckDB官方_v1.5系列与Python嵌入式分析范式]], [[2026-08-15_SQL优化2026向量化执行与PG18_DuckDB基准]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # Python Pandas+SQL集成实战模式
 
 > **一句话摘要**：Python Pandas与SQL融合三模式——pandasql快速原型/SQLAlchemy生产集成/ETL管道分层，可缩短分析时间50%，覆盖服装零售数据全场景。

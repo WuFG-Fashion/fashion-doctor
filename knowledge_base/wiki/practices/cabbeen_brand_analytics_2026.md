@@ -11,8 +11,13 @@ sources: [2026-08-21_A1_cabbeen_中期报告售罄率与会员数据, 2026-08-26
 created: 2026-09-03
 updated: 2026-09-09
 cross_refs: [[cabbeen]], [[peacebird]], [[crocs_financial_benchmark_template_2026]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[sell_through_examination_standard_2026]], [[零售数据仓库SQL实践]], [[sku_inventory_sql_operations]], [[peacebird_brand_analytics_2026]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # 卡宾品牌级数据分析实践（售罄率趋势/渠道结构/存货健康/门店绩效）
 
 > **一句话摘要**：双核 [[cabbeen|卡宾]]（HK 02030）的**品牌级数据分析实践页**——把 A 轮已入库的 2026H1 财报颗粒（售罄率 73.8%/48.4%、折扣 27.9%、会员 410 万、代销 47.4%、存货 246 天）编译成可复用的 SQL/BI/分析决策模板，是 [[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]] 中 cabbeen 行（P0 高优先缺口）的闭环交付。

@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-07-27
+expires_at: 2026-10-25
+status: active
+---
+
 # 中国利郎2026H1零售低双位数增长，男装K型分化下中高端价值重估
 
 > 来源：中国利郎（01234.HK）2026年第二季度及上半年营运表现公告（2026-07-09）+ 媒体解读（2026-07-16）

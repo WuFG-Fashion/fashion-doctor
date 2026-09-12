@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-09-12
+expires_at: 2026-12-11
+status: active
+---
+
 # 原始资料 · 20260827_A3_tommy_hilfiger_PVH_FY2025
 
 PVH Corp. FY2025(截至2026-02-01)：

@@ -11,8 +11,13 @@ sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2
 created: 2026-08-15
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_no_one_else_全维度动态]], [[chuu]], [[服装价格带管理与价格真空区]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # NO ONE ELSE
 
 > **一句话摘要**：韩国 PPB STUDIO 旗下无性别设计师潮牌（chuu 姐妹品牌），2012 年创立，千禧混搭风，2021 随 chuu 入华由杭州黯涉运营。

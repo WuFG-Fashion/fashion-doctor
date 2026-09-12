@@ -9,8 +9,13 @@ updated: 2026-09-11
 cross_refs: [[tommy_hilfiger]], [[2026-09-08_A3_tommy_hilfiger_Fall2026双campaign与名人地标叙事]], [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]], [[2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩]], [[服装行业竞争格局]], [[品牌联名策略]], [[salomon]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-09-11
+expires_at: 2026-12-10
+status: active
 ---
-
 # 2026-09-11 A3 Tommy Hilfiger：NYFW 2027 春季大秀「Plaza Prep」（9/10 · The Plaza）
 
 > **一句话摘要**：Tommy Hilfiger 于 **2026-09-10**（NYFW 官方首日）在**纽约 The Plaza Hotel** 发布 **2027 春季系列**，主题 **"Plaza Prep"**——这是品牌**暂停后重返纽约时装周**的一季，且场地选在创始人本人曾居住十余年的地标（同时也是 8 月秋季 campaign 的拍摄地）；Gigi Hadid 开场、Romeo Beckham 走闭场，Kate Moss/Camila Cabello/JISOO/少女时代三位成员/多位 NBA 球星坐头排，Slayyyter 惊喜演出；官方口径全球零售额（TOMMY HILFIGER 产品，2025）约 **$90 亿**。

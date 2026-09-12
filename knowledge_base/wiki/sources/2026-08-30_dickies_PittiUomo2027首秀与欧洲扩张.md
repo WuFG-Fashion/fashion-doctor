@@ -9,8 +9,13 @@ updated: 2026-08-30
 cross_refs: [[dickies]], [[服装行业竞争格局]], [[品牌墙概念与代理模式]]
 confidence: 品牌自宣
 brand_specific: true
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-30
+expires_at: 2026-11-28
+status: active
 ---
-
 # Dickies Pitti Uomo 2027 首秀与欧洲扩张（Bluestar 操盘）
 
 > **一句话摘要**：Bluestar Alliance（2025-09 以 $600M 从 VF 收购 Dickies）旗下 SportLux 操盘欧洲，2026-05 米兰"From Industry to Icon"三天 takeover 发布 SS2027，2026-06 亮相 Pitti Uomo（Sala Ottagonale 155㎡ 专属空间），2026-07 任命英爱批发伙伴，重启文化驱动增长。

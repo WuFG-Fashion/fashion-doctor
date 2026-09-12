@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-12
 updated: 2026-07-12
 cross_refs: [[data_governance_tech_routes_2026]], [[data_lakehouse_2026]], [[etl_governance_convergence_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-12
+expires_at: 2026-10-10
+status: active
 ---
-
 # 数据治理可插拔架构 — MCP协议驱动六大厂商2026横评
 
 > **一句话摘要**：2026年数据治理"可插拔"时代开启——MCP标准协议推动平台从"封闭一体化"走向"开放集成"，IDC预测2027年85%治理项目模块化部署、2028年60%中国500强部署Data Agent；六厂商从智能化深度×平台开放度双维度横评。

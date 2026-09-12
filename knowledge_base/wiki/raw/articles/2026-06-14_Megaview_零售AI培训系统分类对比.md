@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: public
+volatility: fast
+as_of: 2026-06-14
+expires_at: 2026-09-12
+status: active
+---
+
 # 2026年零售AI培训系统分类对比：选对工具少走弯路
 
 > 来源：Megaview官方资源 (megaview.com)

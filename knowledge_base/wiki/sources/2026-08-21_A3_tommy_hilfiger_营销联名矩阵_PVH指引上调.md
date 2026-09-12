@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-21
 updated: 2026-08-21
 cross_refs: [[tommy_hilfiger]], [[2026-08-19_A3_tommy_hilfiger_全维度动态]], [[2026-08-17_Tommy_Hilfiger_PVH_FY2026Q1与中国直营收购]], [[peacebird]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
 ---
-
 # A3轮·Tommy Hilfiger 2026 营销与联名矩阵
 
 > **一句话摘要**：PVH 在 2026Q2 财报中披露对 Calvin Klein 与 Tommy Hilfiger 追加 2500 万美元（年内再 +1000 万）品牌营销投入并上调全年 EPS 指引；Tommy 本季营销动作包括 Peanuts 童装联名、Cadillac F1 秋季 Fanwear 系列、台北101"夏日航海假期"快闪——Q2 品牌收入 8.92 亿美元 +4% 已在库，本轮补齐营销/联名维度。

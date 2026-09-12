@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-06-11
 updated: 2026-06-11
 cross_refs: [[AI导购陪练]], [[导购培训闭环体系]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-06-11
+expires_at: 2026-09-09
+status: active
 ---
-
 # Megaview零售门店AI陪练实战方法论
 
 > **一句话摘要**：Megaview AI陪练基于MegaRAG 10万+对话数据，实现导购达标-42%/遗忘-35%，场景真实度8.7/10，覆盖12类客户画像×6大核心场景。

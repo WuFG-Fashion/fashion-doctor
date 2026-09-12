@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-17
 updated: 2026-08-17
 cross_refs: [[the_mr_young]], [[服装行业竞争格局]], [[peacebird]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-17
+expires_at: 2026-11-15
+status: active
 ---
-
 # THE MR YOUNG（密特扬）— 轻奢国潮 / 淮海中路旗舰店
 
 > **一句话摘要**：生于上海的轻奢国潮品牌 THE MR YOUNG（密特扬，IP「扬仔」），由上海艾动实业运营，淮海中路 518 号开潮流艺术体验店，并借艺术家/鲸鱼赛车俱乐部联名强化"潮奢+艺术"定位。

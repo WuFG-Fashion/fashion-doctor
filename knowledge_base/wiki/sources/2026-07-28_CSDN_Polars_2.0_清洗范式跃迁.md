@@ -9,8 +9,13 @@ brand_specific: false
 created: 2026-07-28
 updated: 2026-07-28
 cross_refs: [[polars_vs_pandas_2026]]
+layer: T2
+scope: public
+volatility: fast
+as_of: 2026-07-28
+expires_at: 2026-10-26
+status: active
 ---
-
 # CSDN Polars 2.0 大规模数据清洗范式跃迁（42.6× / 68% 内存）
 
 > **一句话摘要**：Polars 2.0 用零拷贝内存 + LazyFrame 全链路惰性执行 + 原生并行流式 I/O，把 TB 级清洗拉到单机亚秒级；CSDN 深度评测实测比 Pandas 最高快 42.6×、比 Dask 低 68.7% 内存。

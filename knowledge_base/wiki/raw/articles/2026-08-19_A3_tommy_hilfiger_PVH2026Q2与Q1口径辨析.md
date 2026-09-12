@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-19
+expires_at: 2026-11-17
+status: active
+---
+
 # 原始资料 — Tommy Hilfiger / PVH 2026 Q2 业绩与上轮 Q1 两口径辨析
 
 来源：

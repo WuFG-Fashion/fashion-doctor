@@ -8,8 +8,13 @@ confidence: 品牌自宣
 brand_specific: true
 created: 2026-08-26
 updated: 2026-08-26
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-26
+expires_at: 2026-11-24
+status: active
 ---
-
 # ADLV Rolling Stones 26SS 联名与 Garnier 越南促销
 
 > **一句话摘要**：ADLV 2026 联名矩阵新增经典摇滚乐队 IP（The Rolling Stones 26SS）与美妆跨界（Garnier 越南促销），叠加既有 LINE FRIENDS/海绵宝宝/巴斯奎特，呈「IP 泛化 + 东南亚落地」双主线。

@@ -10,8 +10,13 @@ sources: [2026-08-15_KARL_LAGERFELD上海快闪与生活方式跨界.md, 品牌�
 created: 2026-08-14
 updated: 2026-09-12
 cross_refs: [[服装行业竞争格局]], [[ariose_years]], [[peacebird]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒]], [[2026-09-12_A2_karl_lagerfeld_G-III_Q2电话会KL全球经营与酒店管线]], [[品牌墙概念与代理模式]], [[brand_risk_signals_2026]], [[global_apparel_financial_benchmarks_2026]], [[listed_brand_metrics_template_2026]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-12
+expires_at: 2027-03-11
+status: active
 ---
-
 # KARL LAGERFELD
 
 > **一句话摘要**：以老佛爷命名的轻奢品牌（1984 创立），全球逾 500 家精品店；2026 在中国以"高频快闪 + 生活方式跨界（咖啡馆/下午茶）"替代传统铺货，把奢侈资产转译为可打卡社交场景，公开财务缺位。

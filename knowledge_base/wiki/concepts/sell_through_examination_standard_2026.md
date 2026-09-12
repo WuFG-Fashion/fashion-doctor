@@ -12,8 +12,13 @@ sources: [2026-06-27_百度文库_2026服装零售售罄率考核制度.md]
 created: 2026-06-27
 updated: 2026-08-15
 cross_refs: [[动态OTB管理]], [[服装订货会精准策划]], [[sku_fine_management]], [[china_apparel_industry_2026q1]], [[2026-08-03_服装零售指标口径统一与进销存SQL|服装零售指标口径统一与进销存SQL]], [[2026-08-07_retailnorthstar_SKU合理化五步减法与复杂度五区间]], [[2026-08-15_aislestock_售罄率周度基准]], [[2026-08-15_retailnorthstar_降价风险与OTB期初库存]], [[peacebird_brand_analytics_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-15
+review_due_at: 2027-02-11
+status: active
 ---
-
 # 售罄率考核基准2026
 
 > **一句话摘要**：2026年服装零售售罄率正式考核标准：服装类30天≥45%/60天≥65%/90天≥80%，鞋类50天≥45%/100天≥65%，由商品管理中心主责，POS+WMS+财务三方数据联动考核。

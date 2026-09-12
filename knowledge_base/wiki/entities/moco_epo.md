@@ -13,8 +13,13 @@ sources: [2026-08-07_10100_MOCo_EPO集团会员五级分层体系.md]
 created: 2026-08-07
 updated: 2026-08-07
 cross_refs: [[jnby]], [[peacebird]], [[会员复购率提升策略]], [[RFM会员分层运营实战]], [[全渠道会员一体化]], [[2026-08-07_MOCo_EPO会员五级分层与VIP复购基准]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-08-07
+expires_at: 2027-02-03
+status: active
 ---
-
 # MO&Co. / EPO集团
 
 > **一句话摘要**：EPO 集团旗下中高端设计师女装 MO&Co.，以"五级会员分层 + 门店私域强绑定"驱动，会员销售贡献约 82%、老客复购率约 51%、VIP 段复购率 35%–45%，是中高端女装会员运营的对标样本。

@@ -10,8 +10,13 @@ cross_refs: [[ellesse], [crocs]]
 confidence: 品牌自宣
 brand_specific: true
 superseded_by: ""
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-29
+expires_at: 2026-11-27
+status: active
 ---
-
 # Ellesse 鞋履全球授权与 Smiley 联名
 
 > **一句话摘要**：意大利运动时尚品牌 Ellesse（Pentland 旗下）借 Nice Brand Lab 全球鞋履授权，目标 2026 鞋履营收翻倍、2026-27 进中美亚太开单品牌店；2026-08 联手 Smiley、与 Michael Kors 联名。

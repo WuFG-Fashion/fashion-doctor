@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[2026-09-10_B_低绩效导购辅导与绩效面谈机制]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 导购培训体系
 
 > **分类**: L2_04 导购能力评估 > L3_04_03 导购培训体系

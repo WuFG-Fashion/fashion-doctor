@@ -1,3 +1,13 @@
+---
+type: raw
+layer: T3
+scope: brand
+volatility: fast
+as_of: 2026-08-21
+expires_at: 2026-11-19
+status: active
+---
+
 # Dickies × WIND AND SEA 2026 秋冬联名
 
 > 来源：Hypebeast 2026-08《WIND AND SEA x Dickies 2026 秋冬联名系列发布》

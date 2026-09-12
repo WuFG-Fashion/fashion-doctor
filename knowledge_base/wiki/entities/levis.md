@@ -10,8 +10,13 @@ sources: [2026-08-15_Levi's___LS&Co_中国战略与财务速览_2026.md, 品牌�
 created: 2026-08-14
 updated: 2026-09-11
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-26_B佐证_Levi商品结构与品类聚焦]], [[2026-09-01_A2_levis_KeepItLoose_FW26双代言campaign]], [[2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑]], [[listed_brand_metrics_template_2026]], [[brand_store_channel_2026]], [[lacoste]], [[g_star_raw]], [[2026-09-11_A3_trussardi_威尼斯影展1987档案裙与品牌资产活化]]
+layer: T2
+scope: brand
+volatility: slow
+as_of: 2026-09-11
+expires_at: 2027-03-10
+status: active
 ---
-
 # Levi's
 
 > **一句话摘要**：美国丹宁鼻祖，牛仔裤品类全球标杆，Levi Strauss & Co. 旗下。

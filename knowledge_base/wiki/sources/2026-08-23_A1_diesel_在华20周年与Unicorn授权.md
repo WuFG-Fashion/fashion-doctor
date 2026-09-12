@@ -9,8 +9,13 @@ brand_specific: true
 created: 2026-08-23
 updated: 2026-08-23
 cross_refs: [[diesel]], [[服装行业竞争格局]]
+layer: T2
+scope: brand
+volatility: fast
+as_of: 2026-08-23
+expires_at: 2026-11-21
+status: active
 ---
-
 # DIESEL 在华 20 周年 / Unicorn 行李授权 / Pride 公益（A1·2026-08-23）
 
 > **一句话摘要**：DIESEL 2025-10 庆祝入华 20 周年并于上海设新总部（大中华区 113 家直营店）；2026-01 起与 Unicorn 签 5 年行李授权扩展配件线；x Tinder Pride 2026「For Successful Loving」胶囊捐 Outright 20 万美元，延续 Glenn Martens 主导的"丹宁→生活方式"延伸。

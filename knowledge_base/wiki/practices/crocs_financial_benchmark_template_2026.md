@@ -11,8 +11,13 @@ sources: [2026-08-30_crocs_Q2财报电话会财务细节, 2026-08-26_A1_crocs_Q2
 created: 2026-09-03
 updated: 2026-09-09
 cross_refs: [[crocs]], [[cabbeen_brand_analytics_2026]], [[peacebird]], [[服装行业竞争格局]], [[multi_brand_unified_analytics]], [[brand_level_data_analysis_gap_matrix]], [[brand_gross_margin_2026]], [[brand_store_channel_2026]], [[peacebird_brand_analytics_2026]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-09-09
+review_due_at: 2027-03-08
+status: active
 ---
-
 # Crocs 品牌级财报对标分析（上市鞋服品牌通用模板·2026Q2 工作例）
 
 > **一句话摘要**：[[brand_level_data_analysis_gap_matrix|品牌级缺口矩阵]] 中 crocs 行（P0：建 GMROI/售罄/周转对标模板）的闭环交付——设计一套**上市鞋服品牌财报五维对标模板**（规模增速/盈利质量/库存现金/渠道结构/资本配置），并以 Crocs 2026Q2 为工作例跑通，可直接复用于 dkny/tommy_hilfiger/levis/salomon/hoka 等 L2 上市公司（P1 中优先缺口）。

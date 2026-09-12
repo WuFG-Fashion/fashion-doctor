@@ -7,8 +7,13 @@ sources: []
 created: 2026-06-05
 updated: 2026-08-26
 cross_refs: [[bosideng]], [[服装行业竞争格局]], [[listed_brand_metrics_template_2026]]
+layer: T1
+scope: public
+volatility: evergreen
+as_of: 2026-08-26
+review_due_at: 2027-02-22
+status: active
 ---
-
 # 波司登FY2026深层分析 — 同步自 wiki/sources/2026-07-02_波司登FY2026深层分析_非羽绒板块承压.md
 
 > 📌 已迁移到 [[2026-07-02_波司登FY2026深层分析_非羽绒板块承压]] + [[bosideng]]
