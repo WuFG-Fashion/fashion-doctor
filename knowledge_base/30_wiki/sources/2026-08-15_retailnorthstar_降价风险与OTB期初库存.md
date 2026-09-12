@@ -50,3 +50,13 @@ status: active
 
 ## 待办 / 待验证
 > ℹ️ **基准核对**：新款正价售罄 60-75% 在 kb `lifecycle_sell_through.normal_sale_range=[0.5,0.8]` 内、核心款 80-90% 与 kb `hot_sale_min=0.8` 一致，无硬冲突。注：retailnorthstar 提供 kb 尚未固化的'按品类正价售罄'细分基准，建议下轮补入 kb_benchmarks（markdown_inventory_risk 分组）。
+
+## 前沿
+
+待核实：本页分品类正价售罄基准（核心/补货 80-90%、延续时尚 65-78%、新款 60-75%、季节/场景 70-85%）与 OTB 期初库存 48-72h 校验规则均来自单一来源 retailnorthstar，未与库内 [[2026-08-15_aislestock_售罄率周度基准]] 的季度口径交叉验证；两套基准的品类划分并不一致（一个是 specialty/快时尚/鞋/美妆，一个是核心/延续/新款/季节），不可直接互换。
+
+跨页提示：本页自注新款正价售罄 60-75% 落在 kb lifecycle_sell_through.normal_sale_range=[0.5,0.8] 内、核心款 80-90% 与 kb hot_sale_min=0.8 一致，判为无硬冲突；但「正价售罄」与 kb 的「售罄」是否同口径（是否剔除降价、是否含店调拨）未界定，两页并列前须先统一。
+
+待核实：48-72h 的 recency 窗口是流程建议值，本页未给出其来源（行业惯例还是企业实测）；「手工 reconciled 不可靠」为经验判断。
+
+待观察：本页建议把「按品类正价售罄+降价归因」补入 kb_benchmarks 的 markdown_inventory_risk 分组，属待落地的建议，尚未生效；方法论页的适用边界是具备 ERP 系统 of record 的企业。

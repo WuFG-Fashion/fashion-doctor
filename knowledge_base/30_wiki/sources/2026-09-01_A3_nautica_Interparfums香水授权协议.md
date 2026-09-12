@@ -54,3 +54,13 @@ status: active
 ## 来源链接
 - https://www.hongkongpoliticalwire.com/article/887407447-interparfums-inc-announces-exclusive-worldwide-license-agreement-with-nautica
 - https://www.pvh.com/ （对照：PVH 直营模式 vs ABG 授权模式差异）
+
+## 前沿
+
+待核实：① 官宣时点为 2026-01-28，本页入库为 09-01，中间近七个月无更新，须确认协议是否已有修订或第一批品类披露；② 首年销售预估 >$70M 明确是 Interparfums 管理层预估口径（非已实现），本页已自标，但实体页 [[nautica]] 若引用需保留该限制。
+
+跨页提示：Interparfums 组合内同时操盘 DKNY / Karl Lagerfeld / Lacoste（见 [[dkny]]、[[karl_lagerfeld]]、[[lacoste]]），Nautica 香水线与之共享授权方——同一天平上的品牌多寡会稀释单品牌资源投放，评估 Nautica 香水实际动能时不能只看这一纸合约。
+
+来源存疑：授权生效日为 2030-01-01，属远期安排；本页「低波动授权收入」的判断建立在过渡期现有运营方继续经营的假设上，若过渡期运营方生变，该结论需重估。
+
+待观察：Nautica 中国服装业务正处运营方更替（ABG 改任上海汇众、原代理联亚进入法律程序，见 Nautica 相关源），香水合约为 2030 年后事项，与中国市场短期业绩无关，勿混入同一时间轴。

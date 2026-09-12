@@ -56,3 +56,11 @@ status: active
 
 - ellesse 中国门店/营收无公开数据，待品牌墙渠道信号补全。
 - Smiley/Garfield campaign 实际转化未披露。
+
+## 前沿
+
+待核实：库内对 ellesse 的置信度标注存在不一致——页面底部标「媒体估算」而 frontmatter 标「品牌自宣」，须统一口径。详见本页与 [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]]。
+
+跨页提示：本页与 [[2026-08-19_A1_ellesse_AndrewGarfield全球战役]] 同属 2026 营销矩阵，代言人与联名方存在交叉，须整体确认而非各自独立记录。
+
+待观察：联名与代言密集但未见对应销售转化披露。

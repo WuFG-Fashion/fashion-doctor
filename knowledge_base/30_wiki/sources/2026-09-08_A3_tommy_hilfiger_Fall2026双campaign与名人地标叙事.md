@@ -55,3 +55,11 @@ status: active
 - PVH Corp 2026 Q2 发布（CEO 对 campaign 反响背书）：https://finance.yahoo.com/markets/stocks/articles/pvh-corp-reports-2026-second-201500679.html
 
 > ℹ️ **基准核对**：本页为营销执行维度（campaign 阵容/叙事/定价），与 09-04/09-05 已入库 PVH Q2 财务数字（$2,097M/EPS $3.70/TH $1,132M）无同指标冲突；"Tommy Icons <£79"为媒体转述价格带（约 $100），非官方零售指引，不入硬基准。
+
+## 前沿
+
+待核实：① 本页为**品牌自宣**（Tommy 官方 Newsroom + PVH Business Wire 新闻稿），产品定价（「Tommy Icons 胶囊部分定价 <£79 / ~$100」）与阵容细节为新闻稿口径，未经第三方核验。② 「Kelce 合作管线含 2027 春季第二支 campaign 与独立设计联名」为前瞻披露，**属计划而非既成**。
+
+跨页提示：**本页的「Always Denim」部分已在 09-09 页获得官方量化实效（首月 D2C 牛仔 +30%）**——两页存在「campaign 发布」vs「campaign 实效」的分工，建议并读；本页 frontmatter 有空的 superseded_by 字段（值为空串），若日后 09-09 页完全覆盖本页营销信息，可考虑回填。
+
+来源存疑：The Plaza（Kelce「驻店嘉宾」场景）与 The Mark Hotel（Always Denim 场景）均为**品牌付费合作场景**，「Tommy 本人曾居住 10 余年」的历史事实与商业合作被并置叙述，阅读时须区分品牌叙事与史实。

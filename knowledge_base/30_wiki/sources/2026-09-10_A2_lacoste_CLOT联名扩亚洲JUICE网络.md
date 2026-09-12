@@ -71,3 +71,9 @@ status: active
 ## 后续源（回链）
 
 - [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]]（2026-09-11·A2 轮：同品牌联名矩阵再扩容——Lamarel 沿用同一"先合作方渠道、后自有渠道"模板，可作为本页"借网进华"路径的同源验证）
+
+## 前沿
+
+待核实：① 本页 frontmatter 的 `superseded_by` 字段**为空**，但正文已声明为「09-07 观察项闭环」——若后续有更新的 lacoste×CLOT 页出现，须回填 superseded_by，否则 RAG 会同时命中两页；② 「洛杉矶/台北/台中即将登陆」为 JUICE 公告口径，尚未落地。
+
+跨页一致性（提示）：本页记 lacoste×CLOT 走**合作方渠道（JUICE）**进中国，与 [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]] 记的「渠道共营型」同属「借渠道进市场」逻辑——做 lacoste 渠道策略分析时可归为一类，但两者市场（中国 vs 瑞士/日本）不同。

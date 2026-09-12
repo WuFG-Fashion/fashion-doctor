@@ -97,3 +97,13 @@ status: active
 - Marcelo Burlon 品牌**自身**的营收、门店数、中国市场存在感均无独立披露（并入 NGG，NGG 又并入 Farfetch/Coupang 分部）→ 无法进入数值基准，只能做定性风险标注。
 - 是否有第二个设计师从 NGG 赎回品牌 → 作为风险哨兵持续监测。
 - Off-White 授权是否被单独处置 → 关键节点。
+
+## 前沿
+
+待核实：① NGG「2024-11 在意大利申请破产保护」为百度百科引多方报道的汇总，具体程序类型（破产保护 vs 司法清算）与现状未由法院或官方文件确认；② Farfetch 裁员「腰斩至约 3,000 人」为媒体估算，非公司披露。
+
+跨页提示：本页给 Marcelo Burlon 叠加三层结构风险（品牌自身 → NGG 设计/生产/批发主体 → Farfetch/Coupang 上游）。引用 [[marcelo_burlon]] 的联名与合作叙事（如 Levi's 501 upcycling、Fila Fusion）时必须同步此风险链，否则会高估该品牌履约稳定性。
+
+来源存疑：Coupang Q1 2026 分部数据来自 SEC 8-K（可靠性高），但 Developing Offerings 非 Farfetch 单列，EBITDA -$3.29 亿不能直接等于 Farfetch 亏损；NGG 相关细节则多为媒体估算，两层级差异显著。
+
+待观察：Off-White 授权「签至 2035 年底」与「至少锁定至 2026 年」两说并存，直接决定 NGG 剩余价值判断；Heron Preston 收回自有权利退出组合是同类风险的先行指标，须追踪后续是否有其他品牌跟进。

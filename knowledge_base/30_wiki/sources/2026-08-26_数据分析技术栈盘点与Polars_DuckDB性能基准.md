@@ -78,3 +78,11 @@ DuckDB 调优三件套：`SET threads=8`（并行）、Zstd 解压加速（压�
 ## 待办 / 待验证
 
 - Johal 基准的 Pandas 3.0.1 与既有库中 Polars vs Pandas 数据（08-12 源 Join 12.4x）口径不同（本轮为三引擎全谱对比），非矛盾，注意引用时标注基准集。
+
+## 前沿
+
+待核实：五引擎基准（Pandas 3.0.1 / Polars 2.1.0 / DuckDB 1.2.3 / Spark 4.0.2 / DataFusion 0.12.1）出自单一第三方基准（Johal 2026），测试环境为 1TB 月处理、AWS EC2 on-demand，其结论强依赖于数据形态（CSV 读取、宽表 Join、Groupby）与硬件配置——换到本项目实际的 parquet 分区表与 16GB 单机，排序可能不同，不能直接照搬选型。
+
+跨页提示：本页的规模决策框架（<100GB 用 PostgreSQL、100GB-10TB 用云数仓、>10TB 才考虑湖仓一体；单表 10GB 内 Polars 性价比最高）与 [[duckdb_olap_engine_2026]]、[[polars_vs_pandas_2026]]、[[python_data_stack_decision_2026]] 属同一选型空间的多个视角，四页的阈值需交叉核对，若不一致应说明各自依据的负载假设。
+
+来源存疑：零售迁移案例（p99 2.4s→120ms、报表 47min→2.3min、成本 -82%）为单一公司自述，无对照与复现；dbt「已成为事实标准」为行业观察而非量化结论，不宜作为技术选型的硬依据。

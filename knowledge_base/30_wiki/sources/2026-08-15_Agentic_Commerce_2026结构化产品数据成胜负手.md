@@ -50,3 +50,13 @@ status: active
 
 ## 待办 / 待验证
 - 393% / 42% 与 KB 既有 08-01 Adobe 源同源；本源新增 5.6M Shopify、900M ChatGPT WAU 与"catalog discipline 成 floor"论点，非矛盾。
+
+## 前沿
+
+跨页提示：本页自注 393%/42% 与 KB 既有 08-01 Adobe 源同源，新增 5.6M Shopify 与 900M ChatGPT WAU——同源数据在两页重复出现，属同源而非交叉验证；若两页在不同时点引用同一 Adobe 口径，数值漂移即说明口径已变，须回溯原报告。
+
+待核实：本页属方法论页（brand_specific: false），核心指标多为媒体估算与企业自宣——ChatGPT 周活 9 亿、每日 5000 万次购物查询来自 OpenAI 2026 初披露；Shopify 5.6M 门店覆盖 ChatGPT/Copilot/Google AI Mode/Gemini 为平台公告；AI 流量 +393%、Black Friday +805% 为 Amazon/Adobe 类统计，四者量纲与统计范围各不相同，并列于一表会掩盖口径差。
+
+待观察：协议层（ACP、Stripe Agentic Commerce Suite 2025-12、Google UCP）处于快速变动期，2026 年内的标准更迭即可使本页结论失效；本页 expires_at 2026-11-13，属 fast 波动，应按季复核。
+
+待核实：结论把「结构化目录质量决定 AI 推荐权重」推及 [[data_quality_governance]] 的治理价值，属合理推演但尚无关税/平台侧验证；在无品牌实测对照前，不宜作为可量化因果陈述。

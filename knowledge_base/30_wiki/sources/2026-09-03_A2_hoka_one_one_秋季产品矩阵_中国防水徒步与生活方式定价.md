@@ -60,3 +60,13 @@ status: active
 
 - Transport 2 GTX 中国定价/首发渠道（滔搏门店清单）→ 待官方公告核验。
 - Mach Remastered 中国是否引入（$145 对应中国定价）→ 下轮核验。
+
+## 前沿
+
+跨页一致性：本页 Transport 2 GTX 中国首发与 09-02 源 Speedgoat 7 Hike GTX（$190 / 10-01）同属 2026 秋季矩阵，产品维度无数值冲突；但本页未给 Transport 2 GTX 的中国零售价，与 Mach Remastered 的 $145、Speedgoat 的 $190 无法构成完整价格带，矩阵价格区间 $145-190 实为缺一角的推断。
+
+待核实：Mach Remastered 定价 $145 与 Tecton X 4 的 275g/5mm 落差均来自评测与行业盘点转述，未见品牌官方规格页，属媒体估算级；Tecton X 4 的「2026-08 UTMB 前后亮相」为时间区间而非确定日期。
+
+来源存疑：三款产品信息分别来自潮男网、MiraiTalk、什么值得买，均为第三方媒体；「防水 GTX 成为本季核心关键词」是本页基于三源归纳的判断，非品牌发布口径。
+
+时效衰减：volatility fast、expires_at 2026-12-02，秋季系列上市价与配色在开季后常被调整，本页价格信息三个月内应重取。

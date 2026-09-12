@@ -42,3 +42,13 @@ status: active
 - Carl Murawski《What Happened to Dickies? The Truth About the 874》(2026-06)
 - 什么值得买《Dickies被卖了：6亿美元卖给一家"品牌管理"公司》(2026)
 - HNVH《Dickies, Sundek, Philippe Model Paris: Revitalizing Fashion Icons Under New Ownership》(2026)
+
+## 前沿
+
+跨页提示：本页与 [[2026-08-29_dickies_易主Bluestar与密集联名]] 为同一品牌的不同切面——本页提供质量与授权结构侧证据（874 代际对比、澳新退出属误读、多运营方分治），后者提供资本与联名声量侧证据；两页合并才构成完整判断，单读任一页都会偏。
+
+待核实：874 代际对比（Carl Murawski，2026-06）为独立评测，本页置信度第三方数据；但结论为多维混合（口袋袋布现任胜、抗污/防水 vintage 胜、版型更瘦窄）。该评测基于单件样本，不能代表全量品控水平，本页已自标第三方数据但未提样本量。
+
+跨页口径：本页指出「澳新 closing-down 销售被误读为退出、实为授权扰动」，这是典型的媒体叙事与运营事实落差；与 Bluestar「收购后靠区域授权商深耕」打法一致。该辨正应保留，防止 RAG 把区域调整读成品牌退出。
+
+待观察：本页记录 UTG 中国主授权自 2025-11-12 起，品控与价格管理存在不确定性，属未落地结论；国内渠道表现需后续实销数据验证。

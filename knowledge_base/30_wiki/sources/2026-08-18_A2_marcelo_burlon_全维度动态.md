@@ -51,3 +51,11 @@ status: active
 
 ## 待办 / 待验证
 > ⚠️ **矛盾待核（P1）**：运营/许可主体存在两种口径（New Guards Group vs Daddato Next）。二者均为媒体级，无官方公告可判定；下轮须以 New Guards/Coupang 公告或意大利工商信息定案，定案后回填 `superseded_by`。
+
+## 前沿
+
+待核实（优先级高）：Marcelo Burlon 的运营主体在库内存在 New Guards Group 与 Daddato Next 两种说法，两者的关系（收购、授权还是代理）尚未确认。须以官方公告或可靠商业媒体为准，详见本页与 MR MRS 相关页的归属描述。
+
+跨页提示：与 [[2026-08-17_A2_marcelo_burlon_全维度动态]] 构成连续采集，主体归属类信息不可跨页混用。
+
+来源存疑：品牌规模与渠道数据无审计来源。

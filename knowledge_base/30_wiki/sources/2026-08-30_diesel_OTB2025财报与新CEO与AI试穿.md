@@ -57,3 +57,13 @@ status: active
 - [[cabbeen]]（AI 虚拟试穿对照）
 
 > ℹ️ **基准核对**：本源"Diesel 十年最佳年 €44M 利润 / Andrea Rigogliosi 2026-01-14 CEO"与 2026-08-29 源"OTB 业绩 + 新 CEO"方向一致（该源未含具体利润额与 AI 试穿），属增量补充，非矛盾。
+
+## 前沿
+
+待核实：① OTB 为非上市私营集团，「营收约 €1.7B（-4.8%）」「消除净债务」「Diesel 贡献 €44M 利润」均无审计财报可核，来源为 nss magazine / TheFashionDB 等媒体转述；② 「Diesel 十年最佳财务年」是集团 CEO 表述口径，非可比的财务指标。
+
+跨页提示：本页与库内更早的 OTB 源（08-29，记为「OTB 业绩 + 新 CEO」）方向一致，本页为其增量补充（利润额、AI 试穿），非数值替代——但「十年最佳」这类定性表述在两页复用后会被误读为独立佐证。
+
+来源存疑：OTB × Google Cloud Virtual Try-On 属公司合作公告级（可靠度较高），但与「首发于 Diesel + Jil Sander」的实际门店渗透率、使用率无任何数据，与 [[ai_virtual_tryon_2026|零售AI试穿与虚拟穿搭2026]] 对照时须区分「已宣布」与「已规模化」。
+
+待观察：新 CEO Andrea Rigogliosi（2026-01-14 上任，财务背景）的战略落地与其前任对批发渠道清理的延续性，须等 2026 全年数据；AI 试穿是否扩至 Marni / Maison Margiela 待确认。

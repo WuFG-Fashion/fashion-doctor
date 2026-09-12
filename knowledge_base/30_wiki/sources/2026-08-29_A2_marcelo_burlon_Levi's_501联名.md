@@ -63,3 +63,13 @@ status: active
 
 - Levi's × MB 胶囊实际发售量与售罄待补。
 - Fila Fusion × MB 中国销售与蔡徐坤转化待补。
+
+## 前沿
+
+待核实：① 联名胶囊（Vintage Trucker Jacket 有机棉 Type II + Authentic Straight Jeans 551Z 日本 Kaihara Mills）为品牌自宣 + 媒体转述（Pambianco / WWD），产量与售罄未披露；② 「501 诞生 150 周年」是 Levi's 全球叙事，本页作为联名动机引用合理，但联名限量数未公布。
+
+跨页提示（须并读风险链）：本页记录 Marcelo Burlon 的联名能力（Levi's 501 upcycling + Fila Fusion × 蔡徐坤），但该品牌母公司 NGG 已于 2024-11 进入意大利破产保护、上游 Farfetch 由 Coupang 收缩（见 [[2026-08-30_A2_marcelo_burlon_NGG破产保护与Coupang风险链]]）——只读本页会高估该品牌履约稳定性与授权变现的持续性。
+
+来源存疑：Fila Fusion × MB 落地于安踏体系，本页解读为「小众设计师牌借本土运动集团渠道低成本触达 Z 世代」，属本页归纳；品牌资产是否因此沉淀于 Marcelo Burlon 自身仍存疑（渠道方品牌可能更受益）。
+
+待观察：upcycling 工艺（激光 patchwork）的量产成本与补单能力，在 NGG 破产保护背景下的供应链稳定性未验证。

@@ -49,3 +49,9 @@ status: active
 
 ## 关联页面
 - [[speedo]] · [[服装行业竞争格局]] · [[peacebird]] · [[cabbeen]]
+
+## 前沿
+
+待核实：① 印度「1096+ 门店」为 Page Industries 年报口径，须辨别是否含多品牌共用网点（Page 同时授权 Jockey/Speedo），若为共用则不能直接作为 Speedo 独立门店数；② 美国电商 GMV $22M 为第三方 ECDB 估算，非品牌披露。
+
+口径提示：「EBITDA margin 19-21%」是 Page Industries 公司整体还是 Speedo 授权业务单独口径，库内未说明——跨品牌毛利对比时须谨慎。
