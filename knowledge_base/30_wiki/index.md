@@ -1400,3 +1400,20 @@ updated: 2026-09-05
 - **nerdy**：APR（278470.KS）市值 13.216 万亿韩元（新时点）、FY2026 一致预期 3.08 万亿、Q3 EPS 预期 4,026、**财报日确认 2026-11-05**；**NDY 服装线无新业务信号**。
 - **trussardi**：仅命中 2024 年 Milan Design Week 旧文（Casa × Luxury Living Group 等，库内已记）→ **无新增**；档案裙仍无品牌官方背书。
 - **mr_mrs / no_one_else / thisisizi8 / the_mr_young**：检索污染延续（**the_mr_young 第 12 轮**，卡宾 / 2AM 路径亦失败）→ 均记"核验一致·无新增"；the_mr_young 建议**降频为月度核验**。
+
+## A2轮 2026-09-13 新增来源（分组A2·品牌全维度）
+
+- [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]] — **HOKA 越野跑线 GTX 中国上市（品牌自宣）**：**Speedgoat 7 GTX 飞速羚羊防水越野跑鞋** 男女款 **3 配色**、**2026 年 9 月国内上市**、京东 HOKA 官方旗舰店 **¥1,499**；GORE-TEX® Invisible Fit + **100% 再生 Cordura®** 鞋面 + 超临界 EVA 中底 + **Vibram Megagrip 5mm** 大底 + 快拆抽绳鞋带 / 360° 反光 / 鞋侧鞋套挂点 —— 与 09-01 上市的 Transport 2 GTX（城市轻户外）、10-01 的 Speedgoat 7 Hike GTX（多日徒步）构成**中国秋季「防水（GTX）三线矩阵」**，「技术标签复用」的低成本品类扩张；**无销量/铺货口径**。
+- [[2026-09-13_A2_humble_humble_r_南昌杉杉奥莱店开业]] — **HumbleHumbleR 奥莱连锁第 3 落点（品牌自宣）**：南昌杉杉奥特莱斯店 **2026-09-13 开业**（铺位 1-1015）；2026 Autumn Collection；开业促销 = 注册会员赠 MBTI 礼品（200 份）/ 指定商品 **99 元起** / 每满 **1000-100** / 新会员叠加 30 元无门槛券 / 实付满 980 赠信封包、满 1580 赠斜挎包；同场 CK / TH / SMFK / Onitsuka Tiger / mont-bell / saucony / chuu / 中国李宁 —— **杉杉系奥莱 3 周内第 3 落点**（山西天美 08-21 → 沈阳 08-26 → 南昌 09-13），印证「奥莱连锁 = 新锐品牌可批量复制的低成本铺货通道」+ 标准折扣促销组合（价格带实际百元级）；**无门店总数/坪效口径**。
+
+### 本轮实体页核验登记（2026-09-13 · 无新 source 页）
+
+- **karl_lagerfeld**：FW26 + NOT-KARL campaign（Paris Hilton 续任至 FW26+SS27、Kit Butler 男装、9/1 全球上线）= 09-03 源 corroborate；**PFW 特别活动仍「details early September」无落地细节**；AOL 转载补品牌 boilerplate（全球 **200+ 门店**含批发加盟、关键城市巴黎/伦敦/慕尼黑/迪拜/上海、创意总监 Hun Kim、品牌大使 Sebastien Jondeau / 影响力大使 Amber Valletta）= 库内既有口径；NOT-KARL 技术机制（配音 2 小时录音 + AI/人工精修、互动形象）仅见低质聚合站（arrived-now.com）→ **维持不入库判定**。
+- **levis**：Keep it Loose = 09-11 实体页已录增量 corroborate（ROSÉ 演绎 Loose Taper / Loose Boot / Loose Crop Trucker；**9/15 门店 + 官网 + 东京快闪同日开幕**，Hypebeast 中/菲/印尼多语版确认亚洲快闪含**东京 + 香港**）；ROSÉ 用 iPhone 18 Pro 拍 MV 为花絮；**无中国大陆落点新增**。
+- **mlb**：RESCENE × SLEEK 系列 = 09-08 源 corroborate（薄底鞋 + 洋基/道奇 logo + 韩国开发亚洲脚型 + 台湾官网在售 + 26FW 动物帽款）；F&F 中国官网 **1015 家**门店口径延续；亚洲日报（2026-07-02）记 **MLB 在中国运动品牌榜第 18 位**（另 Hazzys 男装第 3）——**7 月旧文 + 排名口径，登记不入源**；**中国平移仍无信号**。
+- **lacoste**：上海七宝领展广场「网球假日·法式邂逅」香氛快闪（9/1-9/30，L.12.12 全系列 + 白露玫瑰/日光白朗 + 网球主题限定周边）= 09-03 判定维持（单城月度弱信号）；**Café Lacoste 亚洲落点 / 香水 Q3 仍无口径**；Lamarel 9-19 自有渠道无新细节。
+- **g_star_raw**：**Fluid Denim 价格/区域仍无公开口径**；命中百度百科品牌史（1989 荷兰 Jos van Tilburg、1995 Elwood 3D 剪裁、2012 香港铜锣湾全球最大旗舰店）+ 爱企查（2023-12 WHP Global 多数股权、中国由广州番禺翡翠制衣运营、1998 入华）+ 优惠券站（UK 学生 20%/首单 15%）——**均为背景/促销噪声非 2026 事件**。
+- **etudes**：Études Studio **S/S 27 Show 2026-06-23**（巴黎男装周 16:00 场）= 08-26 源 corroborate；D2C Times「视频广告重构」（Margaux Lefebvre / 20-30 支模块化 clip / ROAS 等）**与 09-12 判定同源，创意总监姓名与品牌实际团队不符 → 维持低质不入库**。
+- **marcelo_burlon**：仅百度百科（FILA FUSION / G-SHOCK / 兰博基尼 / Moët / Kappa 联名史，含「品牌衰落源于设计单一」评述）+ 爱企查（翅膀图案 / MC 简称 / 勿与 Marc O'Polo 混淆）——**无 2026 事件，探针污染延续**。
+- **king_baby**：**连续多轮探针污染**（韩国童装店名大全 / K-fashion 导购 / PawInPaw 衣恋 / KGB 澳洲救生衣）——**无 2026 事件**。
+- **mlb_kids**：MLBKIDS ACE 跑鞋 + 学院系列卫衣（官方社媒/天猫在售，26FW）= 09-02 mlb 源已覆盖；爱企查 rank 页复述（潮流代言人汪苏泷/章若楠、青春代言人林一、全球 1500+ 店/大陆 1100+，截至 2024-08）——**产品层弱信号不入源，建议并入 mlb 子项**。
