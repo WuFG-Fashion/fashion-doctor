@@ -9,13 +9,13 @@ aliases:
 tags: [no_one_else, competitor, streetwear, korean, unisex, womenswear]
 sources: [2026-08-15_NO_ONE_ELSE_PPB_STUDIO_无性别潮牌_中国门店速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_NO_ONE_ELSE_门店矩阵与明星代言.md, 2026-08-19_A3_no_one_else_全维度动态, 2026-08-29_A3_no_one_else_全维度动态.md]
 created: 2026-08-15
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_no_one_else_全维度动态]], [[chuu]], [[服装价格带管理与价格真空区]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-12
-expires_at: 2027-03-11
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # NO ONE ELSE
@@ -180,6 +180,20 @@ status: active
 
 ### 信息链（本轮）
 - 上游来源：本轮 WebSearch 核对（无新增） → 本页 → 下游应用：[[服装行业竞争格局]]
+
+## 近期动态刷新（2026-09-13 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库源页**（非静默跳过）。
+- **核验一致项（背景层）**：爱企查——NO ONE ELSE 属韩国 **PPB STUDIO**，与 **chuu** 为姐妹品牌（chuu 2012 创立，2015 与 PPB Studio 合并）；大陆 chuu 与 NO ONE ELSE 业务由同一家公司运营；定价 200–800 元（基础 T 恤 130–250 元）；线下已进深圳/杭州/重庆/南京等万象城系商圈——**均为既有背景，非 2026-09 新事件**。
+- **污染延续**：检索命中**俄罗斯 NO ONE 多品牌集合店**（shoes-report，米兰 Villa Arconati 巴洛克秋季 campaign）、Nitori 旗下 N+ 品牌——**均为无关实体**。
+- **旁证（非本品牌）**：**chuu Lens** 官宣 ILLIT 成员沅禧为首位品牌缪斯（PPB Studios，09-04）——属 **chuu 系美妆线**，与 NO ONE ELSE 服装线无直接关系，不并入本页。
+- 处置：`updated` 前推至 2026-09-13。
+- **下轮优先**：NO ONE ELSE 大陆门店净变化（含万象城系落点）；是否跟随 chuu 的联名/代言节奏。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 全维度核对 → 本页 → 下游应用：[[服装行业竞争格局]] · [[chuu]] · [[peacebird]]
 
 ## 前沿
 

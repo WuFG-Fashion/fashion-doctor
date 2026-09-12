@@ -7,13 +7,13 @@ aliases:
 tags: [nautica, competitor, menswear, sportswear, usa]
 sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景, 2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络, 2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]
 created: 2026-08-14
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]], [[brand_portfolio_tiers_2026]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-12
-expires_at: 2027-03-11
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # NAUTICA
@@ -206,6 +206,19 @@ status: active
 
 ### 信息链（本轮）
 - 上游来源：[[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]] → 本页（[[nautica]]）→ 下游应用：[[品牌墙概念与代理模式]] · [[brand_portfolio_tiers_2026]] · [[brand_store_channel_2026]] · [[服装行业竞争格局]] · [[dkny]] · [[karl_lagerfeld]] · [[lacoste]]
+
+## 近期动态刷新（2026-09-13 · A3轮·品牌全维度）
+
+> 本轮按 A3 规范以品牌主体为中心全维度检索核验；按规范显式登记，不做静默跳过、不造重复源页。
+
+- **本轮检索结论：已核对，无新增可入库源页**（非静默跳过）；**新增单城弱信号 1 条记观察**。
+- **核验一致项**：SelectBlinds × Nautica Home 家居窗饰（09-12 源已入库）、巴西电商 TRM 运营、ABG 底座（1,700+ 授权商 / 150 国 / $380 亿 / 30+ 国近 1,300 店含店中店）、润泰 GETAWAY FW26——均 corroborate。
+- **观察项（新，台湾单城弱信号，低于入源门槛）**：台湾市场 **NAUTICA Competition** 代言人 **JR 纪言恺** 推出联名款（三款服装，装饰「箭头」=方向 /「闪电」=能量），并进驻 **复兴 SOGO** 柜点（2026-09-08 台湾媒体）——台湾授权运营方（润泰）的本地联名动作，**大陆无对应落点**，记观察不造源。
+- 处置：`updated` 前推至 2026-09-13。
+- **下轮优先**：SelectBlinds 窗饰上市时间与价格带；Altomax 内衣袜渠道；家居品类是否引入中国（联亚是否获家居授权）。
+
+### 信息链（本轮）
+- 上游来源：本轮 WebSearch 全维度核对 → 本页 → 下游应用：[[brand_store_channel_2026]] · [[品牌墙概念与代理模式]] · [[服装行业竞争格局]] · [[dkny]]
 
 ## 前沿
 
