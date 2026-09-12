@@ -95,7 +95,7 @@ B轮的品牌搜索范围 = `kb_benchmarks.json` 的 `focus_brands`（当前 36 
 
 ## 第七步：索引重建 + Git 推送
 
-0. **索引重建（RAG 必需）**：写入全部完成后运行 `python knowledge_base/tools/kb_updater.py` 重建 master_index.json（纳入 wiki/ 新架构），确认输出「1082+ 个L3条目」后再提交。
+0. **索引重建（RAG 必需）**：写入全部完成后运行 `python knowledge_base/tools/kb_updater.py` 重建 master_index.json（纳入 wiki/ 新架构），确认输出「1400+ 个L3条目」且 kb_version 3.1（含契约字段）后再提交。
 
 ```
 git pull --ff-only || true
@@ -128,3 +128,20 @@ git add knowledge_base/ && git commit -m "[auto] Round B — L2_03/04/05 (品牌
 ### 9.3 分段提交
 - 前半程（3 域通用方法论写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round B — 前半程(通用方法论)"`
 - 后半程（品牌上下文 + 补充写完）：`git pull --ff-only || true && git add knowledge_base/ && git commit -m "[auto] Round B — 后半程(品牌佐证)" && git push`
+
+## 第十步：v2.1 数据契约（2026-09-12 起强制）
+
+> 依据 `specs/知识库v2架构方案_讨论稿.md` §13.2。索引已升级 kb_version 3.1：缺契约字段的存量页由索引器按默认值放行，但**新建页必须写全**。
+
+1. **frontmatter 契约字段**（新建 wiki/ 页，在原有 aliases/confidence/brand_specific 之外补齐）：
+   - `layer: T1 | T2`——判断/方法论/结论块/打法 = T1；来源摘要/事实页 = T2（layer 管知识角色，confidence 管数据可信度，互不替代）
+   - `scope: public | brand | company`——行业通用 = public；品牌页 = brand；公司专属 = company
+   - `volatility: evergreen | slow | fast | perishable`——方法论/框架 = evergreen；财报/季度经营 = slow；门店/渠道/联名/人事 = fast；价格/促销/库存状态 = perishable
+   - `as_of: YYYY-MM-DD`——信息观察时点（**不是写入日期**；如"2025 财年门店数"观察时点=披露日）
+   - `expires_at: YYYY-MM-DD`——volatility ∈ {slow,fast,perishable} 必填（fast 默认 as_of+90 天；perishable 默认 as_of+7~30 天；slow 填下期披露日，未知则 as_of+180 天保守值）
+   - `review_due_at: YYYY-MM-DD`——volatility = evergreen 时必填（默认 as_of+180 天复核，不自动过期）
+   - `status: active`——自动化只允许写 active（stale/expired 由 TTL 报告标注；retired 仅人批）
+2. **`## 前沿` 区块**：每个新建/更新页必须有（合并原「待办/待验证」，不得两套并存）——本页还缺什么信息 / 下一步该查什么 / 哪个假设待验证；此区块是下一轮采集的直接输入。
+3. **链接规则（废除伪链机制）**：`## 信息链` 完整 = 上游来源→本页→下游应用（下游暂无写 `(open: 待谁用)`）；`[[双链]]` 有自然目标才加，**不再强制每页一条**；脚本只校验链接有效+无断链（CLAUDE.md 5.1 R1-R3）。
+4. **范围红线**：本轮只写 `knowledge_base/raw/`、`knowledge_base/wiki/`、`knowledge_base/_health/`、`knowledge_base/__index__/`；**绝不触碰个人域（20_personal/）与 `临时收集/`**。
+5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。

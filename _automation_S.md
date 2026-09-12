@@ -94,7 +94,7 @@
 
 ```
 git pull --ff-only || true
-git add knowledge_base/ && git commit -m "[auto] Round S — 跨品牌模式识别（合成轮）" && git push
+git add knowledge_base/wiki knowledge_base/_health knowledge_base/__index__ && git commit -m "[auto] Round S — 跨品牌模式识别（合成轮）" && git push
 ```
 
 ## 第七步：写日志 + 健康快照
@@ -115,3 +115,11 @@ git add knowledge_base/ && git commit -m "[auto] Round S — 跨品牌模式识�
 | C轮 | 采集（用什么工具分析） | 每 72h | 品牌感知 |
 | **S轮** | **合成（品牌放在一起说明什么）** | **每周 1 次** | **跨品牌** |
 | optimize | 维护（去重/修链/索引） | 每 6 天 | 品牌无关 |
+
+## v2.1 数据契约补充（2026-09-12 起强制，specs/知识库v2架构方案_讨论稿.md §13.2）
+
+1. S 轮**新建**的 comparison/concept 页 frontmatter 补齐契约字段：`layer: T1`、`scope`（跨品牌对比 = public 或 brand）、`volatility: slow`（对比页默认，含时效数据的按实际定）、`as_of`（本轮合成时点）、`review_due_at`（as_of+180 天）、`status: active`。
+2. S 轮**更新**旧页：frontmatter `updated` 必须刷新，正文标注本轮核验日期即可，**不强制**回填全部契约字段（存量页批量补齐另行处理）。
+3. 每个新建/更新页必须有 `## 前沿` 区块（合并原「待办/待验证」，不得两套并存）：本次合成还缺哪个品牌的哪类数据 / 下轮 S 该验证什么模式——这是下轮 S 的直接输入。
+4. **范围红线**：本轮只写 `knowledge_base/wiki/`、`knowledge_base/_health/`、`knowledge_base/__index__/`；**绝不触碰个人域（20_personal/）与 `临时收集/`**。
+5. **提交纪律**：一律用精确路径 `git add`，禁止 `git add knowledge_base/`（CLAUDE.md §4.4/L284）。

@@ -25,7 +25,7 @@ knowledge_base/
 │   ├── comparisons/       ← 对比页：跨实体/概念的综合分析
 │   ├── sources/           ← 来源摘要：每篇 raw/ 文章的提炼
 │   ├── playbooks/         ← 作战手册：SOP/决策树/复盘/决策日志（type: playbook）
-（L2_00~L2_07 历史目录已于 2026-08-24 迁移至 wiki/ 并退役：32 个核心概念页并入 wiki/concepts+entities，383 个历史快照归档于 wiki/_archive/l2_history/；新内容一律写入 wiki/）
+（L2_00~L2_07 历史目录已于 2026-08-24 迁移至 wiki/ 并退役：32 个核心概念页并入 wiki/concepts+entities；历史快照未单独落盘归档——wiki/_archive/l2_history/ 实为空壳，809 个 L2 历史路径可在 git 历史（git log --all）中随时找回；新内容一律写入 wiki/）
 ├── tools/kb_updater.py    ← 索引扫描器（已纳入 wiki/ 新架构；每次采集收尾必须运行重建 master_index.json）
 ├── tools/retrieval_mod.py ← 检索模块（支持 aliases 命中；extract_md 自动跳过 frontmatter）
 ├── tools/_backfill_source_fields.py ← 老 source 字段回填工具（aliases/confidence/brand_specific）
@@ -55,6 +55,15 @@ cross_refs: [[引用页1]], [[引用页2]]
 confidence: 财报 | 官方公告 | 第三方数据 | 品牌自宣 | 媒体估算   # 数据可信度分级（RAG 检索质量关键，见 2.4）
 brand_specific: true | false   # 仅 source 页：true=品牌特有数据（双链到品牌实体），false=行业通用方法论（双链到 concept，不链品牌），见 2.5
 superseded_by: "[[YYYY-MM-DD_更新source]]"   # 可选：当本页数据被更新 source 替代时填写，RAG 检索应优先取 superseded_by 指向的页面，见 2.5
+# ── v2.1 数据契约（2026-09-12 起新建页必填；specs/知识库v2架构方案_讨论稿.md §13.2）──
+layer: T1 | T2                # 知识角色：判断/方法论/结论块/打法=T1；来源摘要/事实=T2（layer 管角色，confidence 管可信度，互不替代）
+scope: public | brand | company | personal   # 权限域：行业通用=public；品牌页=brand；公司专属=company；个人=personal（never 进 RAG）
+volatility: evergreen | slow | fast | perishable   # 衰减档：方法论/框架=evergreen；财报/季度经营=slow；门店/渠道/联名/人事=fast；价格/促销/库存状态=perishable
+as_of: YYYY-MM-DD             # 信息观察时点（不是写入日期；如"2025 财年门店数"的观察时点是披露日）
+review_due_at: YYYY-MM-DD     # volatility=evergreen 时必填（默认 as_of+180 天复核，不自动过期）
+expires_at: YYYY-MM-DD        # volatility ∈ {slow,fast,perishable} 时必填（fast 默认 as_of+90 天；perishable 默认 as_of+7~30 天；slow 填下期披露日或保守 180 天）
+status: active                # 生命周期 active|stale|expired|retired；自动化只允许写 active（stale/expired 由 TTL 报告标注，retired 仅人批）
+retrieval: eligible           # eligible|explicit_only|never；个人域与临时收集=never（索引器双保险强制），T4 视图=explicit_only
 relations:                     # 可选，仅 entity 页：类型化关系（补充 cross_refs 的"什么关系"，见 2.6 本体关系试点）
   competitor_of: [目标文件名]  # 直接竞品（同赛道同客群）
   benchmark_of: [目标文件名]   # 对标/学习对象
@@ -318,7 +327,8 @@ DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[M
 ### 5.1 必须包含
 
 - [ ] 有效的一句话说清这页是什么
-- [ ] 至少一条 `[[双链]]`
+- [ ] `## 信息链` 完整（上游来源→本页→下游应用；下游暂无必须显式写 `(open: 待谁用)`）—— R1 信息链完整
+- [ ] 所有 `[[链接]]` 指向真实存在的页面（无断链，脚本校验）—— R3 链接有效（原「至少一条双链」硬门槛已废除：有自然目标才链，不为凑数造伪链）
 - [ ] 正确的 `type` frontmatter
 - [ ] `aliases` 别名（实体/概念页必填，支撑 RAG 实体解析）
 - [ ] 可追溯的来源标注
