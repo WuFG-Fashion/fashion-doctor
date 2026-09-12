@@ -6,15 +6,15 @@ aliases:
   - "Hoka"
   - "霍伽"
 tags: [hoka_one_one, competitor, sportswear, running, footwear, usa]
-sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14]
+sources: [2026-08-15_HOKA___Deckers_中国增长与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市.md]
 created: 2026-08-14
-updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]
+updated: 2026-09-13
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[2026-09-04_A2_hoka_one_one_TorUltraLo复刻与CliftonUTL_Archive复刻与潮流化]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]]
 layer: T2
 scope: brand
 volatility: slow
-as_of: 2026-09-11
-expires_at: 2027-03-10
+as_of: 2026-09-13
+expires_at: 2027-03-12
 status: active
 ---
 # HOKA ONE ONE
@@ -254,6 +254,18 @@ status: active
 
 - [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]]：同赛道（户外→潮流）两种品牌资产路径对照——HOKA 走"**专业跑者社群**（Run Club / Run It Again）+ 精选店 + 复刻档案鞋型（Tor Ultra Lo）"，Salomon 走"**潮流联名**（Kith / Goodbai）+ 时装周门店激活 + 致敬初代配色"。HOKA 用社群沉淀复购，Salomon 用联名换声量——**同一赛道的两种增长引擎**，可用于判断"社群型 vs 联名型"在不同客群下的适配。
 - 另注：Salomon XT-EVO 的"底台复用 + 鞋面重造"与 HOKA Tor Ultra Lo 的"档案鞋型复刻"同属**降低开发风险的成熟资产复用**，区别在于一个改鞋面、一个改配色。
+
+## 近期动态刷新（2026-09-13 · A2 轮全维度）
+
+> 本段为 A2 轮（本组 11 品牌·品牌主体全维度）对 [[hoka_one_one]] 的 2025-2026 增量采集；本轮新增越野跑线 GTX 版中国上市（见 [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]]）。
+
+- **产品 + 中国上市（新增）**：**Speedgoat 7 GTX 飞速羚羊防水越野跑鞋**，男女款 **3 配色**，**2026 年 9 月国内正式上市**；**京东 HOKA 官方旗舰店 ¥1,499**（男款星陨灰/星际灰 9/12 10:00 发售、女款雅石白/黑色、男款暖巧克力色/河岩灰-宽版）（置信度：品牌自宣）。
+- **技术配置（新增）**：GORE-TEX® Invisible Fit ＋ **100% 再生 Cordura®** 鞋面 ＋ 超临界 EVA 中底 ＋ **Vibram Megagrip 5mm 齿纹**大底 ＋ 快拆抽绳鞋带 / 360° 反光 / 鞋侧鞋套挂点（置信度：品牌自宣）。
+- **矩阵成形（判断）**：三条 GTX 防水线 6 周内密集落地——**Transport 2 GTX**（城市轻户外，09-01 中国，09-03 源）→ **Speedgoat 7 GTX**（专业越野，09 月中国，本轮）→ **Speedgoat 7 Hike GTX**（多日徒步，$190，10-01，09-02 源）。
+- **核验一致**：Tor Ultra Lo 四配色复刻（09-04/09-07/09-08）、Clifton UTL（09-04）、Mach Remastered $145（09-03）、Deckers FY27Q1 财务颗粒（09-02/08-26）维持，未重复；**Tor Ultra Black 中国仍无新增官方信号**。
+
+**结论（刷新）**：HOKA 中国秋季主题已清晰为「**防水（GTX）**」——用同一 GORE-TEX 技术标签横向覆盖 **城市轻户外（Transport 2 GTX）/ 专业越野（Speedgoat 7 GTX，¥1,499）/ 多日徒步（Speedgoat 7 Hike GTX）** 三种场景，是「技术标签复用」的低成本品类扩张；与 [[salomon]] 的「单品类纵深 + 联名换声量」形成对照。定价策略上，**专业线（¥1,499 级）守价格心智、lifestyle 线（Clifton UTL / Tor Ultra Lo 复刻）守潮流破圈**，双线分工明确——但三条 GTX 线**均无销量/铺货门店口径**，「渠道 → 销量」转化层缺口延续。
+**信息链（刷新）**：[[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]]（来源摘要） → 本页（[[hoka_one_one]]） → 下游 [[服装行业竞争格局]] / [[salomon]] / [[brand_store_channel_2026]]
 
 ## 前沿
 
