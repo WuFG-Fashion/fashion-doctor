@@ -6,7 +6,7 @@ aliases:
 tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带, 2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图, 2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道.md]
 created: 2026-08-14
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[brand_store_channel_2026]]
 layer: T2
 scope: brand
@@ -153,6 +153,15 @@ status: active
 
 **结论（织入）**：ellesse 美国回归是**"渠道借用型"轻资产样本**——旗舰店推到 2027H2，但同期用俱乐部合作、赛事合作、B2B 批发三条"借网"路径铺开触点，**用别人的场地与分销网络换曝光铺货、把资本开支推后到品牌验证之后**。"专业垂直 B2B 平台"（RepSpark 属高尔夫行业、Catapult 的 Apparel Magic ERP 已与之集成）是品牌墙代理方最被低估的通道——进入成本远低于自建加盟体系（对照 [[dekashell]] 的督导+招商+爆破模式）。代言人（Garfield）+ 职业球员（Vekić/Tabilo）+ 赛事（辛辛那提/WTA）三线并进，卖的是**"网球文化身份"**，方向与 [[salomon]] 的"专业场景外扩"相反（ellesse 是文化身份内收）。**旗舰店候选点位公开化**本身是向业主方释放的招商信号，同时说明选址未锁定、2027H2 存在滑动风险（置信度：推断）。
 **信息链（织入）**：[[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] → [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]] → 本页（[[ellesse]]） → 下游 [[品牌墙概念与代理模式]] / [[brand_store_channel_2026]] / [[服装行业竞争格局]]
+
+
+## A1轮核验登记（2026-09-13）
+
+> 本轮 A1 对本品做 2026 全维度核验，**无新增硬信号**，但拿到了 **09-12 源"第六条通道 RepSpark"的原文出处**及 Dallas 落地活动的完整报道。
+- **RepSpark 原文级补全（与 09-12 源同事件）**：ellesse 官方登陆 **RepSpark**（高尔夫行业领先 B2B 批发电商平台），面向**俱乐部 / pro shops / 专业零售商**开放订货；属 **Catapult Brand Group** 组合（同组合含 **Cole Haan Footwear & Apparel、Bombas、Knockaround、Fair Harbor、BrüMate、Native、Superfeet、Pin Hunters、Wyld1、Speaqua、Surface Sunscreen、Foxden Fairways、SMF Prints** 等）；**Catapult 自研 ERP（Apparel Magic）已与 RepSpark 集成**，库存 / 定价 / 订单数据打通；并延伸至**赛事与礼品定制的多品牌 microsites**；CEO **Duwayne Miller** 具名："与 Catapult 深化合作是 ellesse 追求美国高端分销的自然补充"；官方定位"**2026 春季重返美国市场**"，产品技术卖点为吸湿排汗 / 四面弹 / 透气 / 快干（置信度：品牌自宣 / 官方稿）。
+- **Dallas 落地活动（09-12 源 Banner House 合作的事件化落地）**：Dallas **Banner House at T Bar M** 举办「**After the Match**」relaunch party（约 **150 人**，Aperol 赞助、DJ RomiQ）；**Wimbledon 俱乐部总监 Martin Guntrip** 出席做 Q&A；抽奖奖品含 **Jannik Sinner 签名网球、Roger Federer 签名自传、2027 温网女单决赛门票 2 张**；Banner House 为美国首个销售 ellesse 回归系列的门店，并作其**官方服装合作伙伴三年**（置信度：媒体估算 / 生活方式媒体）。
+- **旗舰店与大使口径复核**：Dallas Morning News / Sports Business Journal 复核「**Dallas 地区旗舰店预计 2027 年后段**，候选 **Knox Street / Henderson / Design District**」；**Donna Vekić + Alejandro Tabilo** 为品牌大使；已落地合作含 **2026 辛辛那提公开赛 + 2027 WTA 查尔斯顿公开赛**——与 09-11 / 09-12 源全 corroborate。
+- **结论（登记）**：ellesse 的"**轻资产渠道借用**"路径在本轮获得完整证据链——**DTC 官网 + 顶级网球俱乐部（Banner House 三年）+ 滑雪度假村 + pop-up + B2B 专业批发平台（RepSpark，借 Catapult 组合与 ERP）+ 自有旗舰店延后 2027H2**，六通道中**仅自有旗舰店需重资产**，其余全部借道。**但"渠道铺开 ≠ 销售落地"**：本轮仍未获得任何美国区销售 / 订货量 / 复购口径，全部为渠道开通公告。**下轮优先**：① RepSpark 实际铺货与订货量（区分"已上架"与"已出货"）；② 旗舰店点位锁定与时间窗统一（当前 2027H2 vs 2027 后段两种表述）；③ 中国区是否有对应动作（当前 ellesse 在华信息为空白）。
 
 ## 前沿
 

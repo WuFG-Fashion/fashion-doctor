@@ -8,7 +8,7 @@ aliases:
 tags: [dickies, competitor, workwear, american, casual]
 sources: [2026-08-15_Dickies___VF_中国工装市场与出售速览_2026.md, 品牌墙图_2026-08-14, 2026-08-22_A1_dickies_wind_and_sea_fw26.md, 2026-08-23_A1_dickies_Bluestar收购与Harley联名.md, 2026-08-26_A1_dickies_Bluestar收购后欧洲扩张.md, 2026-08-28_A1_dickies_Bluestar后质量与授权扰动.md, 2026-08-29_dickies_易主Bluestar与密集联名, 2026-08-30_dickies_PittiUomo2027首秀与欧洲扩张, 2026-08-31_A1_dickies_UNION_INVERSE联名胶囊.md, 2026-09-04_A1_dickies_OurLegacyWORKSHOP联名, 2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]
 created: 2026-08-14
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-17_dickies_2026联名矩阵]], [[2026-08-18_dickies_易主Bluestar后2026渠道扩张]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[2026-09-04_A1_dickies_OurLegacyWORKSHOP联名]], [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]]
 layer: T2
 scope: brand
@@ -164,6 +164,14 @@ status: active
 
 > 本轮 A1 对本品做 2026 全维度核验。Saturdays NYC × Dickies FW26 获 **Hypebeast 多语版（英/中/繁/葡）+ Selecta Bisso** 报道，**09-11 起仅于 Saturdays NYC 门店与官网 saturdaysnyc.com 发售**——新增颗粒：875 Slacks 提供**黑色 + 黑/藏青条纹**两色、**中缝由明线（topstitch）固定**以长期维持裤线结构；873 Slim Fit 改为**更宽松廓形 + 更含蓄收尾**；尺码 **28-36**（置信度：品牌自宣）。
 - **结论（登记）**：**发售渠道确认仅 Saturdays NYC 自有渠道 → 中国区零落点得到二次确认**（09-11 源判断"联名资源系统性偏向欧美日、中国区无同量级动作"成立）；且本页仍未获得**定价**（Hypebeast/Selecta Bisso 均未列价）→ 875 Slacks 定价待办延续。**下轮优先**：875 Slacks 定价 + 是否进入中国渠道 + 第 5 条联名线是否延续。
+
+
+## A1轮核验登记（2026-09-13）
+
+> 本轮 A1 对本品做 2026 全维度核验，**无新增硬信号**。Saturdays NYC × Dickies FW26 胶囊获**中英文多源复核**：英文口径 **09-11 发售**（Hypebeast）、繁体中文口径 **09-15 发售**（Hypebeast 台湾）——**分渠道滚动上架**，与 [[2026-09-11_A1_dickies_SaturdaysNYC_FW26联名]] 记录一致，非矛盾。
+- **细节复核**：两款核心裤型 **875 Slacks（利落直筒、都市精裁）** 与 **873 Slim Fit Work Pants（更修长线条）**；工艺为**成衣染色 + 低调褶裥 + 考究腰头**，把挺括 TC 斜纹布做出做旧柔和质感；**发售渠道仅 Saturdays NYC 线下门店 + saturdaysnyc.com**——**中国区零落点二次确认**（置信度：品牌自宣 / 媒体）。
+- **OLWS 线 corroborate**：Our Legacy WORK SHOP × Dickies（08-28 发售，Eisenhower Jacket + 874 Pant，套染做旧 + 阴阳徽标）获东方财富 / 网易营销周报转载，与 09-04 源一致。
+- **结论（登记）**：Dickies 2026 联名线维持"**四条线（Bluestar / WIND AND SEA / OLWS / Saturdays NYC）+ 中国区零落点**"的判断；本轮无新线、无中国渠道突破。**下轮优先**：① **875 Slacks 定价**（连续多轮未获得）；② 中国区是否有任何联名 / 门店落点（当前为结构性空白）；③ 2026 第四条线之后是否出现第五条。
 
 ## 前沿
 

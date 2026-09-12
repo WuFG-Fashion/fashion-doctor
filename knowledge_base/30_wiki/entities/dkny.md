@@ -7,7 +7,7 @@ aliases:
 tags: [dkny, competitor, womenswear, menswear, lifestyle, usa]
 sources: [2026-08-15_DKNY___G-III_中国首店与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_dkny_上海首店与中国战略.md, 2026-08-23_A1_dkny_中国授权伙伴与上海首店运营.md, 2026-08-23_A1_dkny_GIII财报与上海首店运营.md, 2026-08-29_dkny_上海首店与HaileyBieber, 2026-08-31_A1_dkny_母公司G-III_FY2027财务与组合调整.md, 2026-09-01_A1_dkny_DonnaKaran卸任与FW26系列, 2026-09-02_A1_dkny_G-III_FY2027Q2财报预告, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购, 2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合, 2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略, 2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役.md]
 created: 2026-08-14
-updated: 2026-09-12
+updated: 2026-09-13
 cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[karl_lagerfeld]], [[nautica]], [[品牌墙概念与代理模式]], [[2026-08-17_dkny_上海首店与2026营销]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]], [[2026-09-04_A1_dkny_G-III_Q2电话会品牌经营颗粒与MarcJacobs整合]], [[listed_brand_metrics_template_2026]], [[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]], [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]], [[brand_risk_signals_2026]], [[global_apparel_financial_benchmarks_2026]]
 layer: T2
 scope: brand
@@ -170,6 +170,15 @@ status: active
 
 **结论（织入）**：**DKNY 的"授权分层"结构被首次实证**——品牌方 G-III（09-11 源：授权依赖度 CK+Tommy 28.0%、2026-12-31 到期、自有品牌战略）与鞋类授权商 DBI（本页：品牌组合 +17.9%、门店持平、毛利率 +640bp）**同期披露、口径完全独立**，因此 **+17.9% 是"品牌组合整体"增速、不可当作 DKNY 增速引用**，评估 DKNY 必须分层标注来源主体。DBI 盈利改善含关税退款一次性项，鞋类零售大盘（Retail 同店 -2.4%、凉鞋拖累约 200bp）仍在收缩——DKNY 鞋类受益于**品牌组合结构**而非渠道扩张。秋季战役换人不换方向（Hailey Bieber → 更年轻的 Iris Law/Amelia Gray）= DKNY 客群下探是既定路线。DBI "品牌组合 + 668 店网络"的 Power of the Pair 模型为国内品牌墙代理方回答"多品牌如何摊薄渠道成本"提供实证（置信度：财报/推断）。
 **信息链（织入）**：[[2026-09-11_A1_dkny_G-III_FY2027Q2_10-Q授权依赖度与自有品牌战略]] → [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]] → 本页（[[dkny]]） → 下游 [[品牌墙概念与代理模式]] / [[global_apparel_financial_benchmarks_2026]] / [[listed_brand_metrics_template_2026]] / [[brand_risk_signals_2026]]
+
+
+## A1轮核验登记（2026-09-13）
+
+> 本轮 A1 对本品做 2026 全维度核验，**无新增硬信号**，两处为**同事件细节补全**。
+- **Marc Jacobs 交易结构补全（与 09-03 源同事件）**：LVMH 将 Marc Jacobs 出售给 **WHP Global 与 G-III**，**交易额约 $9.25 亿**；双方成立**各持股 50% 的合资公司**共同持有 MJ 知识产权，**WHP 负责全球授权、G-III 直接运营批发 / 零售 / 电商**；创始人 Marc Jacobs 留任创意总监；**G-III 与合资公司签的独家授权初始有效期至 2041，可自动续期 10 次（若续满运营权至 2091）**；MJ 在欧洲与美国有 **100+ 门店**，商业重心已集中于手袋配饰。此为 09-03 源"09-01 交割"的**金额与授权期限细化**，非新事件（置信度：官方公告 / 财经媒体）。
+- **DKNY FW26 战役细节（与 09-12 源同事件）**：Iris Law × Amelia Gray 出镜，**2026-09-01 全球上市**；创意 Trey Laird / 摄影 Mikael Jansson / 造型 Clare Richardson；主推 tailored vests、blazers、**vegan leather bomber**、针织，以及 **Rivington Satchel / Bryar Satchel** 两款手袋（置信度：品牌自宣 / 官方 PR）。
+- **中国门店黑箱延续**：检索仍只能命中上海淮海中路首店（2026-05-16）的复述稿（含低质聚合站 hnvh），**首店之后的扩张粒度仍无任何披露**——黑箱状态自 08-15 起延续未破（置信度：媒体估算）。
+- **结论（登记）**：**"70 年运营窗口（2041→2091）"是理解 G-III 战略的关键**——G-III 对 MJ 的授权期限远长于常规并购（行业咨询方评价"在品牌并购中并不多见"），叠加其对 DKNY 的"接盘—重塑—增长"路径，说明 G-III 的**自有品牌战略是超长期持有 + 运营权锁定**，而非财务性转手；这对 [[diesel]] 母公司 OTB 的"重资产押直营 + 创意换血"构成清晰的资本配置对照。**下轮优先**：① DKNY 中国门店换词检索（"DKNY 代理商 / 中国扩张 / 门店数"）；② **12 月 G-III Q3 财报**（CK / Tommy 授权到期后首季 + MJ 首个完整季 + 正式指引）。
 
 ## 前沿
 
