@@ -227,3 +227,11 @@ fig.update_layout(width=800)  # 不要固定宽度
 ## 关联页面
 
 [[2026-09-04_三款极简图表可视化Skill工具清单]] / [[retail_bi_visualization_2026]] / [[streamlit_dashboard_2026]] / [[bi_dashboard_retail_deployment]] / [[python_dashboard_ecosystem_2026]]
+
+## 前沿
+
+**页面性质说明**：本页无可机读摘要行（`## 一句话摘要` 缺失），正文若为可视化设计准则类内容，属「长寿方法论」——时效压力小，但**通用准则多、行业实例少**是此类页的通病。
+
+**适用边界**：可视化准则需与本系统 UI 约定（暖色系、红色涨绿色跌的中国市场惯例）协同——通用准则若与本系统色板冲突（如国外模板默认的冷蓝色系），以本系统约定为准。
+
+**下轮核查**：① 补 `## 一句话摘要` 行（本页是段内唯一缺摘要行的页面，影响 RAG 检索命中率）；② 与 `retail_bi_visualization_2026`、`python_dashboard_ecosystem_2026` 的互链；③ 准则是否已按本系统仪表盘实例化（如 pdca 报告的图表规范）。

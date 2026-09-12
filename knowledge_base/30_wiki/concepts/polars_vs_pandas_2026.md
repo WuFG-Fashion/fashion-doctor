@@ -1018,3 +1018,13 @@ pandas 3.0.0（2026-01-21 GA / 3.0.4 于 06-28）落地后，此前多数 "Polar
 - 零售迁移案例：80GB/日 parquet，Fivetran+Snowflake → 自托管 Polars+DuckDB on K8s，p99 2.4s→120ms、报表 47min→2.3min、成本 -82%（$12k→$2.1k/月）。
 - 选型结论：服装零售 35 品牌明细数据量 <10GB，**Polars+DuckDB 双引擎即全场景最优**；>100GB 才考虑 Spark。
 - 与既有基准关系：08-12 源（Polars Join 12.4x vs Pandas）为两引擎专项对比，本轮为五引擎全谱，口径不同非矛盾。
+
+## 前沿
+
+**本页另有未闭合项**：`## 结论` 仍为模板引导语，未产出合成判断，需另开一轮处置。
+
+**待核口径（知识库已知矛盾项）**：Polars GitHub Stars 存在 **32,000（TechInsider）vs 80,000+（概念页引用）** 两说，差 2 倍以上——开源项目 star 数公开可查，建议以 GitHub 官方仓库实时数为准并标注查询日期。
+
+**适用边界**：「三引擎协同」结论成立，但分工边界按数据量划分——本系统当前量级（单机 SQLite）下 Pandas 即够用，Polars / DuckDB 的收益触发点是百万行级 ETL；「Polars K8s 分布式」对本系统属于远期储备。
+
+**下轮核查**：Stars 数裁定；与 `duckdb_olap_engine_2026`、`arrow_zero_copy_interop_2026`、`python_data_stack_decision_2026` 的四页互链完整性；Polars 版本号（1.42）时效。

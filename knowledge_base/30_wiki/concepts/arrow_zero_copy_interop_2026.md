@@ -220,3 +220,11 @@ ima.qq.com 内存对比（Polars vs Pandas）：1000 万行混合 3.2GB→1.1GB�
 - [[python_sql_integration_patterns_2026]]
 
 - [[2026-08-12_Polars2.1_Pandas3.0_生产级性能对比]]
+
+## 前沿
+
+**适用边界**：Arrow 零拷贝的价值随数据量与工具间交换频率增长——本系统当前数据量级（SQLite 单机 + Python 轻量栈）下，Arrow 的收益尚未触发；该页价值是「架构储备知识」，当下不应为用而用。
+
+**可迁移性**：「USB-C 接口标准」的类比准确，可作为向非技术同事解释的固定话术；若未来迁移到 Polars / DuckDB 栈（本系统评估中的方向），Arrow 将成为默认底座，届时本页自动升级为「在用技术」。
+
+**下轮核查**：与 `polars_vs_pandas_2026`、`duckdb_olap_engine_2026`、`python_data_stack_decision_2026` 的选型链关系（Arrow 是三者的共同底座，应互链）；版本时效（Arrow 生态迭代快，性能对比数字会过期）。

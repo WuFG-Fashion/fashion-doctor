@@ -90,3 +90,9 @@ status: active
 
 - ✅ **计数统一**：focus_brands 计数曾在本页与 [[multi_brand_unified_analytics|多品牌统一分析架构]] 间出现 35 vs 36 分歧（2026-08-29 曾误记 36"新增 humble"）——2026-09-06 核对 `kb_benchmarks.json` 权威为 **35 个（已含 humble_humble_r）**，两页已同步修正为 35，口径分歧关闭。
 - 品牌级覆盖率（3/35）为截至 2026-09-06 快照，随 A/C 轮增长须动态更新，避免与本页快照失同步。
+
+## 前沿
+
+**页面性质说明（C 轮枢纽实操页）**：本页把 35 品牌的「数据分析视角覆盖」做成缺口矩阵，是 practices 层三个模板页（cabbeen / peacebird / crocs）的母页——缺口矩阵的行状态变化应反向更新本页。
+
+**下轮核查**：① 矩阵状态与三个已交付模板页的同步——cabbeen / peacebird（P0 双核）与 crocs（P0 模板）已闭环，矩阵中这三行应标记「已交付」；② P1 路由表（dkny / tommy / karl / salomon / hoka / levis / diesel 七个上市系品牌）的下一批优先级是否由老板拍板；③ 与 `kb_benchmarks.json` focus_brands 清单的同步机制——koyo 移除后矩阵行数应为 35，若仍 36 需更新。

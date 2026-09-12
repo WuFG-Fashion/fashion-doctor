@@ -172,3 +172,11 @@ status: active
 - [[brand_gross_margin_2026]]
 - [[brand_ops_data_infra_2026]]
 - [[brand_store_channel_2026]]
+
+## 前沿
+
+**页面性质说明（S 轮合成页 · 全景枢纽）**：36 品牌六维分层是知识库品牌域的**顶层合成**，四条跨品牌模式（DTC 与高增长强相关 / 运动户外唯一确定性 / 韩潮两极分化 / 数据黑箱系统性约束）是全局结论——修改任一实体页的关键数字时，须评估是否推翻本页分层。
+
+**待核口径**：① 「36 个 focus_brands」与 `kb_benchmarks.json` focus_brands 35 个的数字差（koyo 移除后应为 35）——本页若仍写 36，需与 json 同步（历史合成保留 36 可接受，但页内应注明 koyo 已移出）；② 六维中「数据可得性」维度的分档标准是否明示。
+
+**下轮核查**：① 季度刷新节奏——分层结论对 Q 财报敏感（2026 中报季后「运动户外唯一确定性」「韩潮分化」两条都需重估）；② 与 [[brand_risk_signals_2026]]、[[brand_store_channel_2026]]、[[brand_gross_margin_2026]]、[[brand_ops_data_infra_2026]] 的四页族互链完整性；③ [[core_brands_peacebird_cabbeen_2026]] 双核页作为分层锚点的一致性。
