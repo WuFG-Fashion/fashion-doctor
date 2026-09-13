@@ -8,7 +8,7 @@ tags: [nautica, competitor, menswear, sportswear, usa]
 sources: [2026-08-15_NAUTICA___ABG_中国运营切换速览_2026.md, 品牌墙图_2026-08-14, 2026-08-17_Nautica_ABG_联亚中国124店_2026春夏.md, 2026-08-19_A3_nautica_全维度动态, 2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对.md, 2026-08-23_A3_nautica_Champion秋季联名.md, 2026-08-29_A3_nautica_全维度动态.md, 2026-09-01_A3_nautica_Interparfums香水授权协议.md, 2026-09-02_A3_nautica_Interparfums组合视角与Lacoste先例, 2026-09-04_A3_nautica_转授权时间线精化与IPAR财务背景, 2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络, 2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]
 created: 2026-08-14
 updated: 2026-09-13
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]], [[brand_portfolio_tiers_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[2026-08-19_A3_nautica_全维度动态]], [[2026-08-21_A3_nautica_2025年报门店结构_124vs114口径核对]], [[salomon]], [[trussardi]], [[dickies]], [[tommy_hilfiger]], [[dkny]], [[karl_lagerfeld]], [[lacoste]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]], [[brand_store_channel_2026]], [[品牌墙概念与代理模式]], [[brand_portfolio_tiers_2026]], [[brand_internationalization_2026]]
 layer: T2
 scope: brand
 volatility: slow

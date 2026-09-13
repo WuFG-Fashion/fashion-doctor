@@ -9,7 +9,7 @@ tags: [lacoste, competitor, sportswear, premium, france]
 sources: [2026-08-15_LACOSTE_中国运营与财务速览_2026.md, 品牌墙图_2026-08-14, 2026-08-30_A2_lacoste_Alpine_A290整车联名生态.md, 2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名.md, 2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络.md, 2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴.md, 2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD.md]
 created: 2026-08-14
 updated: 2026-09-11
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[品牌联名策略]], [[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]], [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]], [[brand_store_channel_2026]], [[brand_risk_signals_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[nautica]], [[2026-09-01_A3_nautica_Interparfums香水授权协议]], [[2026-09-09_A2_lacoste_TheHoxton房内胶囊酒店渠道联名]], [[2026-09-10_A2_lacoste_CLOT联名扩亚洲JUICE网络]], [[品牌联名策略]], [[2026-09-11_A2_lacoste_全维度直营70与巴西咖啡第三店税务补缴]], [[2026-09-11_A2_lacoste_FW26联名矩阵Lamarel与JOURNALSTANDARD]], [[brand_store_channel_2026]], [[brand_risk_signals_2026]], [[brand_internationalization_2026]]
 layer: T2
 scope: brand
 volatility: slow

@@ -9,7 +9,7 @@ tags: [two_am, competitor, menswear, streetwear, cabbeen_subbrand]
 sources: [2026-08-15_卡宾2026中期业绩与2025年报, 品牌墙图_2026-08-14, 2026-08-15_R4_2AM卡宾3D打印鞋, 2026-08-17_2AM_卡宾_吉隆坡快闪_3D打印鞋.md, 2026-08-21_A3_two_am_卡宾H1占比与中期股息.md, 2026-08-26_A3_two_am_卡宾渠道转型与2AM增长.md, 2026-08-29_A3_two_am_全维度动态.md, 2026-09-04_A3_two_am_马来独立店与扩张管线]
 created: 2026-08-14
 updated: 2026-09-13
-cross_refs: [[cabbeen]], [[peacebird]], [[服装行业竞争格局]], [[2026-08-21_A3_two_am_卡宾H1占比与中期股息]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]]
+cross_refs: [[cabbeen]], [[peacebird]], [[服装行业竞争格局]], [[2026-08-21_A3_two_am_卡宾H1占比与中期股息]], [[2026-08-26_A3_two_am_卡宾渠道转型与2AM增长]], [[brand_internationalization_2026]]
 layer: T2
 scope: brand
 volatility: slow

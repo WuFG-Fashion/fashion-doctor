@@ -10,7 +10,7 @@ tags: [mlb, competitor, streetwear, sportswear, korean_wave, focus_brand, brand_
 sources: [2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报.md, 品牌墙图_2026-08-14, 2026-08-15_R4_MLB_FF_2026中国万亿]
 created: 2026-08-14
 updated: 2026-09-11
-cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]], [[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]], [[2026-09-08_A2_mlb_RESCENE女团26AW品牌模特与SLEEK系列]], [[hoka_one_one]]
+cross_refs: [[peacebird]], [[cabbeen]], [[服装行业竞争格局]], [[2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报]], [[2026-09-07_A2_mlb_SergioTacchini财务轨迹与网球时装化]], [[2026-09-08_A2_mlb_RESCENE女团26AW品牌模特与SLEEK系列]], [[hoka_one_one]], [[brand_internationalization_2026]]
 layer: T2
 scope: brand
 volatility: slow

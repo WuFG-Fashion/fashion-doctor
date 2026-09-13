@@ -7,7 +7,7 @@ tags: [ellesse, competitor, sportswear, retro, italy]
 sources: [2026-08-15_ellesse_中国复古潮流与渠道速览_2026.md, 品牌墙图_2026-08-14, 2026-08-16_S3_blackbox_channel_signals, 2026-08-22_A1_ellesse_Smiley与Garfield_campaign.md, 2026-08-23_A1_ellesse_Garfield全球战役量化.md, 2026-08-23_A1_ellesse_Garfield战役与价格带.md, 2026-08-29_ellesse_鞋履全球授权与Smiley联名, 2026-08-30_ellesse_美国市场回归, 2026-09-01_A1_ellesse_Garfield全球战役与2026价格带, 2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图, 2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道.md]
 created: 2026-08-14
 updated: 2026-09-13
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[brand_store_channel_2026]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[speedo]], [[服装价格带管理与价格真空区]], [[2026-08-17_ellesse_Smiley联名与Garfield代言]], [[2026-08-18_ellesse_MichaelKors联名与复古矩阵]], [[2026-08-30_ellesse_美国市场回归]], [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[brand_store_channel_2026]], [[brand_internationalization_2026]]
 layer: T2
 scope: brand
 volatility: slow

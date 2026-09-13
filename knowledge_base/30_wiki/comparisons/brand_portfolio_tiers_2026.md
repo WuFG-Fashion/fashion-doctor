@@ -9,21 +9,21 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, tiers, growth, category, internationalization, 2026]
 sources: [kb_benchmarks.json, 36个品牌实体页, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-15_R4_卡骆驰2026Q2中国, 2026-08-16_A2_levis_全维度动态, 2026-08-16_A2_hoka_one_one_全维度动态, 2026-08-15_R4_艾诺丝雅诗2026动态, 2026-08-15_R4_卡尔拉格斐2026中国, 2026-08-23_A1_crocs_2026H2联名营销矩阵与HEYDUDE, 2026-08-23_A1_dickies_Bluestar收购与Harley联名, 2026-08-23_A3_nerdy_更名NDY与韩国现状, 2026-08-23_A3_peacebird_盈利质量深挖_Q2亏损与研发收缩, 2026-08-23_A3_nautica_Champion秋季联名, 2026-09-01_A2_karl_lagerfeld_KL大中华主体扭亏颗粒, 2026-09-02_A2_mlb_F&F_2026战略展望_中国周期反转与组合多元化, 2026-09-05_A1_chuu_迪士尼联名三弹与IP节奏化运营, 2026-09-04_A3_tommy_hilfiger_PVH_2026Q2财报落地_官方实绩, 2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海, 2026-09-04_A3_two_am_马来独立店与扩张管线, 2026-09-06_A2_levis_RED系列三度复刻与循环丹宁_档案资产重启与永续里程碑, 2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]
 created: 2026-08-16
-updated: 2026-09-06
+updated: 2026-09-13
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[ariose_years]], [[karl_lagerfeld]], [[nerdy]], [[dickies]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[core_brands_peacebird_cabbeen_2026]], [[six_brands_2026q1]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[mlb]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[diesel]], [[ariose_years]], [[karl_lagerfeld]], [[nerdy]], [[dickies]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[brand_internationalization_2026]], [[core_brands_peacebird_cabbeen_2026]], [[six_brands_2026q1]]
 layer: T1
 scope: public
 volatility: slow
-as_of: 2026-09-06
-review_due_at: 2027-03-05
+as_of: 2026-09-13
+review_due_at: 2027-03-12
 status: active
 ---
 # 36品牌组合分层矩阵（2026 S轮合成）
 
 > **一句话摘要**：对全部 36 个 focus_brands 做首轮全景合成——按营收规模、增长模式、品类定位、国际化程度、渠道结构、数据可得性六个维度分层，识别出"DTC 直营化与高增长强相关""运动户外是唯一确定性赛道""韩潮两极分化""数据黑箱是系统性约束"四条跨品牌模式。
 > **合成方式**：S轮（合成轮）不采集新数据，仅从 36 个已有实体页提炼；各数字的置信度以实体页内联标注为准。
-> **最后更新**：2026-09-06（S轮增量：S1 首轮 08-16 → S4 08-23 → S5 08-30 → S6 09-06 织入 08-31~09-06 A轮新 source，详见文末"S轮增量刷新"）
+> **最后更新**：2026-09-13（S轮增量：S1 首轮 08-16 → S4 08-23 → S5 08-30 → S6 09-06 → S7 09-13 织入 09-07~09-13 A轮新 source，详见文末"S轮增量刷新"）
 
 ## 一、营收规模分层（中国口径为主）
 
@@ -140,6 +140,21 @@ status: active
 | 资本事件 | [[dkny]] 母公司 G-III FY2027Q2 落地 + **收购 Marc Jacobs**（组合调整，授权品牌矩阵扩张）——品牌墙/授权系资本动作延续 | [[2026-09-03_A1_dkny_G-III_FY2027Q2财报实际与MarcJacobs收购]] |
 
 **增量结论**：① "档案复刻 + 循环材料"在 08-31~09-06 成为国际头部品牌（Levi's/Salomon/HOKA/G-Star）的共同产品叙事，与 S5"高增长后修正"并列为两种增长引擎——成熟品牌用档案重启保溢价、用循环材料讲 ESG 故事；② 韩潮叙事内部现分化：MLB（F&F）官方判"中国周期反转"，chuu 以 IP 连续剧化自救，NERDY 中国仅剩 1 店——"韩潮退潮"不再是单一结论；③ 出海模式升级：从品牌墙的授权/快闪（ADLV 澳门专柜）到双核的独立店落地（卡宾马来第三店/2AM），出海真实性分层更清晰。
+
+## S轮增量刷新（2026-09-13 · 织入 09-07~09-13 A轮新 source · S7）
+
+> 本小节为 S轮第七遍（S7）按周增量合成，织入 09-07~09-13 A1/A2/A3 轮新 source 的关键增量，不重复既有分层表格。
+
+| 维度 | 增量信号 | 落位实体/源 |
+|------|----------|--------------|
+| 营收规模 | [[diesel]] OTB 2025 年报细化：营收约 **€1.7B（-4.8%）** / 净销售 **€1.6B（-5.9%）** / EBITDA **€237.3M（-14%，利润率 15.1%）** / **营业利润 €44M→€10.1M（-77%）** / 净财务状况 +29% 至 €40M（**无净负债**）——「营收小跌、利润崩塌、现金改善」反直觉组合 | [[2026-09-13_A1_diesel_OTB2025年报财务细化与大中华区113店]] |
+| 增长模式 | [[peacebird]] 2026H1 营收 **28.78 亿 -0.72%**，管理层首次显式归因「**主要受加盟收入下降影响**」（直营 +2.73% / 线上 +3.06% / **加盟 -10.32%** 单点失速）；太平转债触发回售但**零申报** | [[2026-09-12_A3_peacebird_半年度业绩说明会问答口径与股东回报结构]] · [[2026-09-13_A3_peacebird_太平转债回售结果与股价]] |
+| 品类定位 | [[hoka_one_one]] **GTX 三线矩阵**（Transport 2 GTX 城市轻户外 / Speedgoat 7 GTX 中国 9 月 ¥1,499 / Speedgoat 7 Hike GTX 10-01 $190）=**技术标签复用**的低成本品类扩张；[[salomon]] XT-EVO 大底与 XT-6 完全一致（同策略） | [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]] · [[2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术]] |
+| 国际化 | 新建独立页 [[brand_internationalization_2026]]（补齐十维度缺口）：出海「真实性」三档标尺（**授权专柜 < 快闪 < 独立店**）；[[diesel]] 大中华 113 店继续扩张 / [[tommy_hilfiger]] Residence 都柏林→广州→开普敦 / [[ellesse]] 重返美国 | [[brand_internationalization_2026]] |
+| 渠道结构 | [[tommy_hilfiger]] 'Residence' 重资产店型（欧洲验证→中国复制）与 Shop-in-Shop 轻资产店中店**双线并行**；[[humble_humble_r]] 杉杉系奥莱 **3 周内第 3 落点**（奥莱连锁=新锐品牌可复制铺货通道） | [[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]] · [[2026-09-13_A2_humble_humble_r_南昌杉杉奥莱店开业]] |
+| 数据可得性 | **授权结构三层**（品牌所有者 ABG → 品类授权商 → 区域运营方）使「品牌全貌不可还原」——[[nautica]] 三层三套披露、[[dkny]] 三层主体（G-III/DBI/中国运营方）；ABG 底座 1,700+ 授权商 / 150 国 / 年零售额 >$380 亿 | [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]] · [[2026-09-12_A1_dkny_鞋类授权商DBI_Q2财报与秋季战役]] |
+
+**增量结论**：① **「营收小跌、利润崩塌、现金改善」是 2026 资本配置的新读法**——[[diesel]] OTB 用「净财务状况 +29% / 无净负债」而非「营收/利润」体现经营质量，跨品牌比较若只看营收/利润会误判（详见 [[brand_risk_signals_2026]] S7 小节）；② **品类扩张进入「技术标签复用」范式**——[[hoka_one_one]] 用 GTX 标签横向铺三条产品线、[[salomon]] 复用 XT-6 大底，均属低成本 SKU 扩展而非新品研发，是成熟品牌在增长放缓期的共同选择；③ **「授权结构三层化」使品牌全貌不可还原**——ABG 体系（[[nautica]]）与 G-III 体系（[[dkny]]）都是「品牌所有者 / 品类授权商 / 区域运营方」三层三套披露，任何单层数据都不足以判断品牌整体，本页「数据可得性」维度的分层标准须新增「授权层级」子维度；④ **中国区「渠道→销量转化层」是全库系统性缺口**（详见 [[brand_internationalization_2026]] §三）。
 
 ## 信息链
 

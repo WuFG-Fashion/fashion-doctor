@@ -9,21 +9,21 @@ aliases:
 tags: [comparison, focus_brands, synthesis, s_round, store, channel, dtc, franchise, 2026]
 sources: [kb_benchmarks.json, 36个品牌实体页, 2026-07-31_太平鸟2026半年报_净关店137家净利增30.89%, 2026-08-05_太平鸟2026H1_品牌渠道拆解与弱化大众化战略, 2026-08-15_卡宾2026中期业绩与2025年报, 2026-08-15_R4_萨洛蒙2026Q1中国, 2026-08-16_A2_hoka_one_one_全维度动态, 2026-08-16_A2_levis_全维度动态, 2026-08-15_R4_卡骆驰2026Q2中国, 2026-08-15_MLB_FF中国业绩破万亿与Q2减速警报, 2026-08-23_A1_chuu_城市门店数与客单价验证, 2026-08-23_A1_awoken_time_白猿宇宙与多店清单, 2026-08-23_A1_crocs_2026H2联名营销矩阵与HEYDUDE, 2026-08-31_A1_cabbeen_马来西亚第三店与2AM出海, 2026-09-04_A3_two_am_马来独立店与扩张管线, 2026-08-31_A2_levis_印度500店与日本联名, 2026-09-06_A1_ariose_years_重庆佛罗伦萨奥莱二期店, 2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]
 created: 2026-08-16
-updated: 2026-09-12
+updated: 2026-09-13
 confidence: 第三方数据
-cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]]
+cross_refs: [[服装行业竞争格局]], [[peacebird]], [[cabbeen]], [[salomon]], [[hoka_one_one]], [[levis]], [[crocs]], [[mlb]], [[ariose_years]], [[dekashell]], [[chuu]], [[awoken_time]], [[two_am]], [[brand_portfolio_tiers_2026]], [[brand_internationalization_2026]], [[brand_risk_signals_2026]], [[brand_lifecycle_capital_events_2026]], [[2026-09-11_A3_nautica_巴西电商上线与全球1300门店网络]], [[2026-09-11_A3_salomon_XT-EVO发售首周与米兰时装周激活]], [[2026-09-11_A3_tommy_hilfiger_NYFW2027春季PlazaPrep大秀]], [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]], [[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]], [[2026-09-13_A2_humble_humble_r_南昌杉杉奥莱店开业]], [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]], [[2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术]]
 layer: T1
 scope: public
 volatility: slow
-as_of: 2026-09-12
-review_due_at: 2027-03-11
+as_of: 2026-09-13
+review_due_at: 2027-03-12
 status: active
 ---
 # 36品牌门店策略与渠道结构对比（2026 S轮合成）
 
 > **一句话摘要**：对 36 个 focus_brands 的门店策略（直营/加盟/混合）与渠道结构（DTC/线上/全渠道）做横向对比——识别出"直营化与大店模型是高增长品牌的共同选择""加盟/代理轻资产是品牌墙集合的主流但暗藏管控风险""双核是全组合唯一具备完整全渠道拆解的品牌"三条模式。
 > **合成方式**：S轮不采集新数据，仅从 36 个实体页提炼；门店数为中国/主市场口径，含专柜与伙伴店者已在原页标注，引用须注意口径。
-> **最后更新**：2026-09-06（S6 增量：卡宾马来第三店+2AM 独立店出海 / 艾诺丝奥莱渠道 / tommy 收回直营代价显性化；09-11 A1 回填：艾诺丝 FV 二期开业+客流/销售量化）
+> **最后更新**：2026-09-13（S7 增量：tommy Residence 重资产×Shop-in-Shop 轻资产双线 / humble 奥莱连锁 3 周 3 落点 / salomon 渠道价格话语权外流 / hoka 专业线 DTC×潮流线精选店分层）
 
 ## 一、门店所有权结构（直营 / 加盟 / 混合 / 代理）
 
@@ -176,6 +176,21 @@ status: active
 
 - **结构判断（新增）**：同一品牌可同时跑**重资产独立店型**（树品牌、强体验）与**轻资产店中店**（铺覆盖、借渠道）——渠道结构不再是单选，而是**按商圈层级配置资本强度**。
 - **中国落点**：广州 Residence 9 月底（本轮唯一新增中国渠道落点）；其余 11 品牌本轮无新增渠道事件。
+
+## S轮增量刷新（2026-09-13 · 织入 09-07~09-13 A轮新 source · S7）
+
+> 本小节为 S轮第七遍（S7）按周增量合成，织入 09-07~09-13 A1/A2/A3 轮新 source 的关键渠道增量；A 轮已在本页「渠道信号补充」小节逐条登记，本节只做**跨品牌模式提炼**，不重复明细。
+
+| 模式 | S7 增量信号 | 落位实体/源 |
+|------|-------------|--------------|
+| **店型组合：重资产 × 轻资产双线** | [[tommy_hilfiger]] 'Residence' 重资产独立店型（都柏林 2,088 sq ft 首发 → 广州 9 月底 → 开普敦）× Shop-in-Shop 轻资产店中店——**按商圈层级配置资本强度**，渠道结构不再是单选 | [[2026-09-13_A3_tommy_hilfiger_Residence店型概念全球铺开]] · [[2026-09-09_A3_tommy_hilfiger_AlwaysDenim首月D2C牛仔增30与shop-in-shop试点]] |
+| **奥莱连锁 = 新锐品牌可复制铺货通道** | [[humble_humble_r]] 杉杉系奥莱 **3 周内第 3 落点**（山西天美 08-21 → 沈阳 08-26 → 南昌 09-13）；[[ariose_years]] 重庆 FV 奥莱二期开业 | [[2026-09-13_A2_humble_humble_r_南昌杉杉奥莱店开业]] · [[2026-09-11_A1_ariose_years_重庆FV奥莱二期开业与客流销售量化]] |
+| **渠道价格话语权外流** | [[salomon]] 官方不公布全国统一标价 → 渠道价由柜姐号/门店号/奥莱号/拼单号自行释放，一周五价并行 | [[2026-09-13_A3_salomon_XT-EVO中国定价落地与渠道价格话术]] |
+| **渠道分层：专业线走 DTC、潮流线走精选店** | [[hoka_one_one]] Speedgoat 7 GTX（¥1,499）走京东官方旗舰店，而 Tor Ultra Lo 复刻（¥1,899）走潮流精选店（SOULGOODS/Z-ONE/FLOE/IDIFF） | [[2026-09-13_A2_hoka_one_one_Speedgoat7GTX中国上市]] |
+| **品牌墙出海：借网验证优先于自持** | [[ellesse]] 美国回归经 Catapult Brand Group 上线 RepSpark B2B 批发平台，**自有旗舰店延后 2027H2**——先用借网路径验证需求 | [[2026-09-11_A1_ellesse_美国回归运营主体与渠道品类路线图]] · [[2026-09-12_A1_ellesse_美国回归渠道细化与B2B批发新通道]] |
+| **跨行业品类渠道** | [[nautica]] 家居窗饰经 SelectBlinds.com 独家销售——**不进服装渠道、不依赖时尚周期**（渠道光谱新增一档） | [[2026-09-12_A3_nautica_家居窗饰授权扩张与ABG集团底座]] |
+
+**增量结论**：① **渠道结构从「单选」走向「组合」**——[[tommy_hilfiger]] 重资产 Residence × 轻资产 Shop-in-Shop、[[hoka_one_one]] 专业线 DTC × 潮流线精选店，证明同一品牌可按**商圈层级/产品线**配置不同资本强度的渠道，判断品牌渠道策略须看「组合」而非「单一模式」；② **奥莱连锁是新锐品牌唯一可批量复制的低成本铺货通道**（[[humble_humble_r]] 3 周 3 落点），对比早期商场店路线，是「先铺覆盖、后建品牌」的务实路径；③ **渠道价格话语权是新增监测项**——[[salomon]] 五价并行说明「不控价」短期换渠道积极性、长期侵蚀价格带，本页「渠道结构」维度建议补入「价格管控强度」子维度；④ **出海渠道「借网优先于自持」**（[[ellesse]] RepSpark + 旗舰店后置）与 §三 出海真实性三档标尺（授权专柜 < 快闪 < 独立店）互为印证。
 
 ## 前沿
 

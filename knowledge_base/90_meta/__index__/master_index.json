@@ -2,8 +2,8 @@
   "kb_version": "3.1",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-13",
-  "generated_at": "2026-09-13 07:26:23",
-  "total_entries": 1414,
+  "generated_at": "2026-09-13 08:09:13",
+  "total_entries": 1415,
   "levels": {
     "L1": {
       "name": "知识库总库",
@@ -59,14 +59,37 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-06",
-          "review_due_at": "2027-03-05",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
           "id": "WIKI_P_comparisons_1",
+          "name": "brand_internationalization_2026",
+          "path": "30_wiki/comparisons/brand_internationalization_2026.md",
+          "file_count": 1,
+          "status": "ok",
+          "lifecycle": "active",
+          "aliases": [
+            "国际化程度对比2026"
+          ],
+          "confidence": "第三方数据",
+          "brand_specific": null,
+          "type": "comparison",
+          "layer": "T1",
+          "scope": "public",
+          "company": null,
+          "volatility": "slow",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
+          "expires_at": null,
+          "superseded_by": null,
+          "retrieval": "eligible"
+        },
+        {
+          "id": "WIKI_P_comparisons_2",
           "name": "brand_lifecycle_capital_events_2026",
           "path": "30_wiki/comparisons/brand_lifecycle_capital_events_2026.md",
           "file_count": 1,
@@ -82,14 +105,14 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-06",
-          "review_due_at": "2027-03-05",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_2",
+          "id": "WIKI_P_comparisons_3",
           "name": "brand_ops_data_infra_2026",
           "path": "30_wiki/comparisons/brand_ops_data_infra_2026.md",
           "file_count": 1,
@@ -105,14 +128,14 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-06",
-          "review_due_at": "2027-03-05",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_3",
+          "id": "WIKI_P_comparisons_4",
           "name": "brand_portfolio_tiers_2026",
           "path": "30_wiki/comparisons/brand_portfolio_tiers_2026.md",
           "file_count": 1,
@@ -128,14 +151,14 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-06",
-          "review_due_at": "2027-03-05",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_4",
+          "id": "WIKI_P_comparisons_5",
           "name": "brand_risk_signals_2026",
           "path": "30_wiki/comparisons/brand_risk_signals_2026.md",
           "file_count": 1,
@@ -151,14 +174,14 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
-          "review_due_at": "2027-03-11",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_5",
+          "id": "WIKI_P_comparisons_6",
           "name": "brand_store_channel_2026",
           "path": "30_wiki/comparisons/brand_store_channel_2026.md",
           "file_count": 1,
@@ -174,14 +197,14 @@
           "scope": "public",
           "company": null,
           "volatility": "slow",
-          "as_of": "2026-09-12",
-          "review_due_at": "2027-03-11",
+          "as_of": "2026-09-13",
+          "review_due_at": "2027-03-12",
           "expires_at": null,
           "superseded_by": null,
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_6",
+          "id": "WIKI_P_comparisons_7",
           "name": "core_brands_peacebird_cabbeen_2026",
           "path": "30_wiki/comparisons/core_brands_peacebird_cabbeen_2026.md",
           "file_count": 1,
@@ -204,7 +227,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_7",
+          "id": "WIKI_P_comparisons_8",
           "name": "four_brands_2025",
           "path": "30_wiki/comparisons/four_brands_2025.md",
           "file_count": 1,
@@ -227,7 +250,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_8",
+          "id": "WIKI_P_comparisons_9",
           "name": "menswear_brands_2026q1",
           "path": "30_wiki/comparisons/menswear_brands_2026q1.md",
           "file_count": 1,
@@ -250,7 +273,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_9",
+          "id": "WIKI_P_comparisons_10",
           "name": "six_brands_2026q1",
           "path": "30_wiki/comparisons/six_brands_2026q1.md",
           "file_count": 1,
@@ -273,7 +296,7 @@
           "retrieval": "eligible"
         },
         {
-          "id": "WIKI_P_comparisons_10",
+          "id": "WIKI_P_comparisons_11",
           "name": "three_brands_mid2026",
           "path": "30_wiki/comparisons/three_brands_mid2026.md",
           "file_count": 1,
@@ -32912,7 +32935,7 @@
           "as_of": "2026-09-04",
           "review_due_at": null,
           "expires_at": "2026-12-03",
-          "superseded_by": null,
+          "superseded_by": "[[2026-09-13_A1_crocs_游戏王首发后售罄实证与股价]]",
           "retrieval": "eligible"
         },
         {
