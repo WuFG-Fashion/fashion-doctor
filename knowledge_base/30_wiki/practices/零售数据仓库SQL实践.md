@@ -1,6 +1,7 @@
 ---
 type: practice
 title: 零售数据仓库SQL实践
+aliases: [零售数仓, 数据仓库SQL, 零售SQL, 零售数据仓库]
 tags: [sql, optimization, retail_data, data_warehouse, practice, postgresql, ai_tool]
 sources: [2026-06-06_腾讯云社区_MySQL查询优化, 2026-06-06_百度开发者_SQL优化实战, 2026-06-30_Dupple_SQL查询优化2026_PostgreSQL18, 2026-06-30_GeeksForGeeks_SQL查询优化十大实践2026]
 created: 2026-06-06

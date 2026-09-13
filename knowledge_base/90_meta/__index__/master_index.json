@@ -2,7 +2,7 @@
   "kb_version": "3.1",
   "kb_root": "D:\\Fashion Doctor\\fashion-doctor\\knowledge_base",
   "last_updated": "2026-09-13",
-  "generated_at": "2026-09-13 08:09:13",
+  "generated_at": "2026-09-13 09:09:36",
   "total_entries": 1415,
   "levels": {
     "L1": {
@@ -4478,7 +4478,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "KPI经营应对, 行业KPI应对, 2026H1 KPI"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -4520,7 +4522,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "会员价值提升, VIP价值提升, 会员价值打法"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -4614,7 +4618,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "商品企划落地, MD企划, 商品企划打法"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -4661,7 +4667,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "季初订货, 订货节奏, 首单节奏"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -4728,7 +4736,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "导购能力提升, 导购提升, 导购培训打法"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -4827,7 +4837,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "清仓决策, 清货决策树, 清仓打法"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "playbook",
@@ -5158,7 +5170,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "RFM分层, RFM模型, RFM Segmentation, 会员分层运营"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "practice",
@@ -5225,7 +5239,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "订货会策划, OTB订货, 订货会, 商品订货"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "practice",
@@ -5246,7 +5262,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "私域运营, 私域流量, 私域会员运营, Private Traffic"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "practice",
@@ -5267,7 +5285,9 @@
           "file_count": 1,
           "status": "ok",
           "lifecycle": "active",
-          "aliases": [],
+          "aliases": [
+            "零售数仓, 数据仓库SQL, 零售SQL, 零售数据仓库"
+          ],
           "confidence": null,
           "brand_specific": null,
           "type": "practice",

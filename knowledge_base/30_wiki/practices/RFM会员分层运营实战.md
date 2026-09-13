@@ -1,6 +1,7 @@
 ---
 type: practice
 title: RFM会员分层运营实战
+aliases: [RFM分层, RFM模型, RFM Segmentation, 会员分层运营]
 tags: [vip, rfm, retail, membership, operational]
 sources: [2026-06-05_丽晶_全渠道会员一体化, 2026-06-05_探马SCRM_RFM分层运营, 2026-06-07_RFM分层与自动化触达2026, 2026-06-07_服装会员系统TOP榜2026, 2026-06-08_有赞_RFM分层自动化触达2026, 2026-06-11_百家号_私域会员复购权益设计三大逻辑]
 created: 2026-06-05
