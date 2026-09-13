@@ -52,7 +52,7 @@ status: active
 
 ## 前沿
 
-待核实（优先级高）：Marcelo Burlon 的运营主体在库内存在 New Guards Group 与 Daddato Next 两种说法，两者关系（收购、授权还是代理）未确认。须以官方公告或可靠商业媒体为准，详见本页与 MR MRS 相关页。
+待核实（优先级高）：Marcelo Burlon 的运营主体在库内存在 New Guards Group 与 Daddato Next 两种说法，两者关系（收购、授权还是代理）未确认。须以官方公告或可靠商业媒体为准，详见本页与 MR MRS 相关页。**→ 已核实收敛（遗留核实 · 2026-09-13）：两说为时间线演变，当前许可运营主体 = Daddato Next，详见 [[2026-08-18_A2_marcelo_burlon_全维度动态]] 前沿裁定行。**
 
 跨页提示：与 [[2026-08-18_A2_marcelo_burlon_全维度动态]] 构成连续采集，主体归属类信息不可跨页混用。
 
