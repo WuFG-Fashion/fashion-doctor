@@ -1,3 +1,16 @@
+---
+type: practice
+title: README_human
+layer: T3
+scope: company
+company: dongshang
+volatility: evergreen
+as_of: 未知
+review_due_at: 2027-03-12
+status: active
+retrieval: eligible
+# v2.1 contract (2026-09-13 batch, §13.9④: scope=company metadata prerequisite)
+---
 # 人工区 / Human Notes
 
 本目录为**人工专属区**：由你（人类）手动编辑的运营手册、复盘、灵感、草稿等。

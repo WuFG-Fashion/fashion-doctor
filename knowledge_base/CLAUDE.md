@@ -12,6 +12,7 @@
 knowledge_base/            ← v2.1 物理架构（2026-09-12 落地，按「谁产生+寿命+权限」分区）
 ├── CLAUDE.md              ← 本文件：你的操作手册（T0 规则层，只能人改）
 ├── kb_benchmarks.json     ← KPI 阈值基准（T0，机器只读元数据、人控阈值）
+├── config/                ← KB 级配置（T0）：semantic_source.yaml = 语义层真源版本指针（§13.9⑤，规则/脚本只准引用 version_pointer: current）
 ├── 00_inbox/              ← 临时收集（老板随手丢，AI 只读；周五提炼任务清空）TTL 14 天
 ├── 10_web/                ← 网络采集原文原料层（机器写；2026-09-12 由根 raw/+wiki/raw 双入口合并）
 │   └── articles/          ← 网页剪藏、PDF 导出的 Markdown（883 篇 + weifu_consulting 图片库）
@@ -74,7 +75,7 @@ as_of: YYYY-MM-DD             # 信息观察时点（不是写入日期；如"20
 review_due_at: YYYY-MM-DD     # volatility=evergreen 时必填（默认 as_of+180 天复核，不自动过期）
 expires_at: YYYY-MM-DD        # volatility ∈ {slow,fast,perishable} 时必填（fast 默认 as_of+90 天；perishable 默认 as_of+7~30 天；slow 填下期披露日或保守 180 天）
 status: active                # 生命周期 active|stale|expired|retired；自动化只允许写 active（stale/expired 由 TTL 报告标注，retired 仅人批）
-retrieval: eligible           # eligible|explicit_only|never；个人域与 00_inbox=never（索引器双保险强制），T4 视图=explicit_only
+retrieval: eligible           # eligible|explicit_only|never；个人域与 00_inbox=never（索引器双保险强制），T4 视图=explicit_only（不进召回，可经 retrieval_mod.py --inject 显式注入；never 连显式注入也拒绝——个人域隔离红线，§13.9②③）
 relations:                     # 可选，仅 entity 页：类型化关系（补充 cross_refs 的"什么关系"，见 2.6 本体关系试点）
   competitor_of: [目标文件名]  # 直接竞品（同赛道同客群）
   benchmark_of: [目标文件名]   # 对标/学习对象
@@ -384,6 +385,7 @@ DB_PATH = os.environ.get("CABBEEN_DB") or str(Path(__file__).resolve().parents[M
 |------|------|---------|
 | `retrieval_mod.py` | 程序检索 | wiki/ 是语义层，retrieval_mod 是关键词层，互补 |
 | `master_index.json` | 索引 | 每次新增/修改 wiki 页面后，同步更新 index.json |
+| `config/semantic_source.yaml` | 语义层真源指针 | 规则/脚本/RAG 一律引用 `version_pointer: current`，引用解析结果视为违规（§13.9⑤） |
 | `kb_updater.py` | 扫描器 | 保留原有自动扫描功能 |
 | WorkBuddy `.workbuddy/memory/` | 会话记忆 | 知识库变更写入 daily log |
 

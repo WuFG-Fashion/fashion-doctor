@@ -1,0 +1,12 @@
+# 语义层唯一真源指针（specs/知识库v2架构方案_讨论稿.md §13.7；§13.9⑤ 老板拍板 2026-09-13）
+#
+# 铁律：规则、脚本、RAG 注入一律引用 version_pointer: current；
+#       任何地方直接引用解析结果（dongshang-v3/V4/V5）视为违规。
+#       升级主版本时只改 resolved: 一行 + 重跑镜像生成脚本，规则零改动。
+semantic_layer_source:
+  system: dongshang            # 系统名，永不变
+  version_pointer: current     # 固定写 current，跟随东尚系统当前主版本
+  resolved: dongshang-v3       # 当前解析结果（唯一需要随升级改的行）
+  mirror: 40_companies/dongshang/04_语义层/   # KB 侧只读镜像（生成物 + hash 校验）
+  mirror_status: pending       # 镜像尚未生成（P4 阶段落地：镜像生成脚本 + hash 校验；company.yaml semantic_layer 同指向）
+  updated_at: 2026-09-13

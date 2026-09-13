@@ -1,3 +1,16 @@
+---
+type: practice
+title: 卡宾店铺制度(ok)
+layer: T3
+scope: company
+company: dongshang
+volatility: evergreen
+as_of: 未知
+review_due_at: 2027-03-12
+status: active
+retrieval: eligible
+# v2.1 contract (2026-09-13 batch, §13.9④: scope=company metadata prerequisite)
+---
 卡宾店铺卖场制度
 
 1. 上班必须用普通话交流，不准讲方言，有顾客的情况下不允许私自讲话，无顾客情况下不准在店内聊天、说笑、打闹。

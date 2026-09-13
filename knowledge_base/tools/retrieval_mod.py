@@ -771,6 +771,76 @@ def add_kb_entry(L2_id: str, L3_name: str, content: str,
 
 
 # ══════════════════════════════════════════════════════
+# 第五部分之A：T4 显式注入通道（v2.1 §13.6 / §13.9③ 老板拍板 2026-09-13）
+# ══════════════════════════════════════════════════════
+
+def load_explicit(rel_path: str, max_chars: int = 6000) -> dict:
+    """
+    显式注入：按路径直接加载 KB 文件作为上下文，绕过召回但不绕过隔离红线。
+
+    准入规则（specs §13.6）：
+      - retrieval: explicit_only（T4 视图，如 Home.md）→ 允许显式注入
+      - retrieval: never / scope: personal / 路径在 20_personal/ → 拒绝（个人域永不召回，§13.9②）
+      - 其他 eligible 页面 → 允许（人工明确指定的显式行为）
+
+    防幻觉：返回内容带来源路径；不做任何内容加工。
+    """
+    p = (KB_ROOT / rel_path).resolve()
+    # 路径越界防护：必须仍在 KB_ROOT 内
+    try:
+        p.relative_to(KB_ROOT.resolve())
+    except ValueError:
+        return {"allowed": False, "reason": f"路径越界（KB 外）: {rel_path}"}
+    if not p.exists():
+        return {"allowed": False, "reason": f"文件不存在: {rel_path}"}
+
+    rel_posix = str(p.relative_to(KB_ROOT.resolve())).replace("\\", "/")
+    if rel_posix.startswith("20_personal/"):
+        return {"allowed": False, "reason": "个人域（20_personal/）永不注入（§13.9② 隔离红线）"}
+
+    text, enc_used = None, None
+    with open(p, "rb") as f:
+        raw = f.read()
+    for enc in ("utf-8", "gbk"):
+        try:
+            text = raw.decode(enc)
+            enc_used = enc
+            break
+        except UnicodeDecodeError:
+            continue
+    if text is None:
+        return {"allowed": False, "reason": "无法解码（utf-8/gbk 均失败）"}
+
+    # frontmatter 检查：retrieval/scope 门禁
+    m = re.match(r"^---\r?\n(.*?)\r?\n---", text, re.S)
+    retrieval_val, scope_val = "eligible", None
+    if m:
+        rm = re.search(r"^retrieval\s*:\s*(\S+)", m.group(1), re.M)
+        sm = re.search(r"^scope\s*:\s*(\S+)", m.group(1), re.M)
+        if rm:
+            retrieval_val = rm.group(1)
+        if sm:
+            scope_val = sm.group(1)
+    if retrieval_val == "never" or scope_val == "personal":
+        return {"allowed": False,
+                "reason": f"retrieval={retrieval_val}/scope={scope_val} → 拒绝注入（个人域隔离，§13.9②）"}
+
+    # 跳过 frontmatter 再输出正文
+    body = text[m.end():] if m else text
+    return {
+        "allowed": True,
+        "path": str(p),
+        "rel_path": rel_posix,
+        "retrieval": retrieval_val,
+        "scope": scope_val or "unknown",
+        "content": body.strip()[:max_chars],
+        "total_chars": len(body.strip()),
+        "encoding": enc_used,
+        "note": "显式注入内容（人工指定路径，未经召回打分）；来源必须随答案保留",
+    }
+
+
+# ══════════════════════════════════════════════════════
 # 第五部分：主检索函数（对外接口）
 # ══════════════════════════════════════════════════════
 
@@ -912,6 +982,7 @@ def main():
   python retrieval_mod.py --hot            # 查看热门查询
   python retrieval_mod.py --list [L2]     # 列出条目
   python retrieval_mod.py --stat           # 统计摘要
+  python retrieval_mod.py --inject <路径>  # 显式注入（T4 视图/人工指定页；never 拒绝）
 
 选项:
   --type md|excel|pdf|image|ppt|link       # 内容类型筛选
@@ -928,6 +999,24 @@ def main():
         return
 
     args = sys.argv[1:]
+
+    # 显式注入通道（v2.1 §13.9③：T4 视图不进召回，但可按路径显式附加）
+    if "--inject" in args:
+        i = args.index("--inject")
+        if i + 1 >= len(args):
+            print("❌ 用法: python retrieval_mod.py --inject <KB相对路径>  例: --inject Home.md")
+            return
+        r = load_explicit(args[i + 1])
+        if not r.get("allowed"):
+            print(f"🚫 注入被拒绝：{r.get('reason')}")
+            return
+        print(f"[显式注入] {r['rel_path']}  (retrieval={r['retrieval']}, scope={r['scope']})")
+        print(f"[来源] {r['path']}  ← 来源必须随答案保留（零幻觉铁律）")
+        print("-" * 60)
+        print(r["content"])
+        if r["total_chars"] > len(r["content"]):
+            print(f"...（截断，共 {r['total_chars']} 字符）")
+        return
 
     # 特殊命令
     if "--suggest" in args:

@@ -1,3 +1,16 @@
+---
+type: practice
+title: FPA性格色彩快速测试
+layer: T3
+scope: company
+company: dongshang
+volatility: evergreen
+as_of: 未知
+review_due_at: 2027-03-12
+status: active
+retrieval: eligible
+# v2.1 contract (2026-09-13 batch, §13.9④: scope=company metadata prerequisite)
+---
 **DISC快速测试**
 
 　 填写速写时，请注意以下事项：

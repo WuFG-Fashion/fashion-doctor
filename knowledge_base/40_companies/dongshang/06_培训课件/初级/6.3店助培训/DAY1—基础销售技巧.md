@@ -1,3 +1,16 @@
+---
+type: practice
+title: DAY1—基础销售技巧
+layer: T3
+scope: company
+company: dongshang
+volatility: evergreen
+as_of: 未知
+review_due_at: 2027-03-12
+status: active
+retrieval: eligible
+# v2.1 contract (2026-09-13 batch, §13.9④: scope=company metadata prerequisite)
+---
 <!-- Slide number: 1 -->
 卡宾服饰终端基础销售课程
 基础销售技巧
