@@ -188,3 +188,21 @@
 **下轮优先**：karl NOT-KARL **销售侧归因**（当前零口径）+ 酒店 5 项目城市/时间表（G-III Q3，12 月初）+ PFW 特别活动（9 月下旬）；hoka Tor Ultra Black 中国实证 + Deckers FY27 Q2（10 月下旬）；levis Keep it Loose 9-15 首周 + 香港快闪是否辐射深圳/广州；mlb RESCENE/SLEEK 中国平移；lacoste Café Lacoste 是否进亚洲；humble 天一旗舰店官宣；king_baby 重设检索词；marcelo 建议降频月度探针；mlb_kids 建议并入 mlb 子项。
 
 **注意**：kb_benchmarks A2 组 11 品牌条目仍全为 `{}`（独立数据录入任务，已连续多轮列为待办）；本轮 WebSearch 15 次（11 品牌全覆盖·karl 2/hoka 2/其余各 1·上限 3 ✅）；健康快照 `_health/2026-09-12_daily_health_A2.md`；⚠️ 数据矛盾 57 页与 09-06 optimize 基线**持平未变**。
+
+## 2026-09-13 07:05 执行摘要
+
+**结果**：A2 固定分组 11 品牌**以品牌主体为中心·全维度综合采集**轮完成（库已高度覆盖·**2 真新增 / 9 显式无新增**非静默跳过·权威 _automation_A2.md 定 11 品牌·未越界 A1/A3）。索引 **1411 L3**（+2 较 A1 的 1409）。孤岛 0。断链 0（本轮 8 页实测）。矛盾 0 硬矛盾（ℹ️ 基准核对 3 项均页内标注）。已分段 2 次提交并推送 main（286d885 前半程 → 12f463b 后半程），本地与 origin/main HEAD 一致（12f463b）。
+
+**⚠️ 口径提示**：用户指令写「12 品牌」，但权威文件 `_automation_A2.md` 第 8-9 行与历史各轮均为 **11 品牌**，本轮按 11 执行（差异已在回复开头显式说明）。
+
+**新增 2 源**（raw2→s2，均含「结论」「信息链」+ confidence 品牌自宣 + brand_specific:true + 「## 前沿」+ v2.1 契约字段 layer/scope/volatility/as_of/expires_at/status）：
+- **hoka_one_one**：Speedgoat 7 GTX 飞速羚羊防水越野跑鞋——男女款 **3 配色**·**2026 年 9 月国内正式上市**·京东 HOKA 官方旗舰店 **¥1,499**·GORE-TEX® Invisible Fit + 100% 再生 Cordura® + 超临界 EVA + Vibram Megagrip 5mm + 快拆抽绳/360° 反光/鞋套挂点 → 与 09-01 Transport 2 GTX、10-01 Speedgoat 7 Hike GTX $190 构成**中国秋季「防水 GTX 三线矩阵」**（技术标签复用）；三者**为不同 SKU 非重复**。
+- **humble_humble_r**：**南昌杉杉奥特莱斯店 2026-09-13 开业**（铺位 1-1015）+ 2026 Autumn Collection + 标准折扣场开业促销组合（99 元起/满 1000-100/满额赠包）→ **杉杉系奥莱 3 周内第 3 落点**（山西天美 08-21 → 沈阳 08-26 → 南昌 09-13）=「奥莱连锁 = 新锐品牌可批量复制的低成本铺货通道」。
+
+**9 无新增**：karl（FW26+NOT-KARL 复述·PFW 特别活动仍无落地·NOT-KARL 技术机制仅低质聚合站维持不入库）、levis（Keep it Loose 09-11 已录·9/15 东京+香港快闪 corroborate·无大陆落点）、mlb（RESCENE×SLEEK 复述·亚洲日报 7 月旧文记运动榜第 18 登记不入源·中国平移无信号）、lacoste（七宝快闪判定维持·Café 亚洲/香水 Q3 无口径）、g_star_raw（Fluid Denim 价格/区域仍无口径·背景噪声）、etudes（SS27 复述·D2C 低质文维持不入库）、marcelo_burlon / king_baby（探针污染延续）、mlb_kids（产品层弱信号·建议并入 mlb 子项）。
+
+**织网**：≈14 条双向（2 源出链全验证存在；实体 2 UPDATED[hoka/humble 各追加 09-13 小节 + frontmatter sources/updated/cross_refs/as_of/expires_at]；概念 1 回链[服装行业竞争格局「2026-09-13·A2 轮」含 4 条跨品牌判断]；对比 1 回链[brand_store_channel_2026「渠道信号补充 2026-09-13·A2 轮」]；上游源 2 回链[09-03 hoka / 08-29 humble 各补「后续源(回链)」]；index 2 源行 + 9 品牌核验登记）。
+
+**下轮优先**：hoka Speedgoat 7 GTX 中国铺货渠道/销量 + 与 Hike GTX SKU 关系 + Deckers FY27 Q2（10 月下旬）；humble 宁波天一·和义旗舰店官宣 + 门店总数汇总 + 南昌店销售口径；karl PFW 9 月下旬特别活动 + NOT-KARL 销售归因（零口径）+ 酒店 5 项目（G-III Q3 12 月初）；levis Keep it Loose 9-15 首周 + 香港快闪辐射深广；mlb RESCENE/SLEEK 中国平移 + ST 分部；lacoste Café 亚洲 + 香水 Q3。
+
+**注意**：kb_benchmarks A2 组 11 品牌条目仍全为 `{}`（独立数据录入任务）；本轮 WebSearch 24 次（11 品牌全覆盖·每品牌 ≤3 上限 ✅）；**raw 存档 2 篇**（本轮按文件第四步落 raw，与历史 A2「raw0 约定」不同，后续可统一口径）；健康快照 `_health/2026-09-13_daily_health_A2.md`；⚠️ 全库数据矛盾与历史基线持平未变。

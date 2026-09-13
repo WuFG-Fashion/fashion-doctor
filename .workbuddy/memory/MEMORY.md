@@ -32,14 +32,16 @@
 - 四支柱：aliases 必填（中/英/代码/别称）、结论块（合成判断）、信息链、零孤岛。entities/concepts/comparisons 100% 达标；sources 全有出链。技能 `obsidian-kb-rag-readiness`。
 - git 协调：.obsidian volatile 与 .claudian 不入库、稳定设置保留；行尾 index=LF+autocrlf=true，勿加 .gitattributes。
 
-## 知识库 v2 方案（讨论稿已定 · 原 8 问 2026-09-11 拍板，v2.1 六点待批）
-- `specs/知识库v2架构方案_讨论稿.md`：按「谁产生+寿命+权限」分区；重要性三维度（Tier×volatility×权限域）；TTL 到期软化不删除；双链废「零孤岛」硬门槛改 R1-R3+`## 前沿`；40_companies 语义层与 dongshang-v3 共用真源（版本指针 current，不钉死 V3）；视图一律脚本生成。
-- **原 8 问已于 2026-09-11 全部拍板**（§11 记录）：TTL 分档（易腐 7-30/快变 90/慢变下期披露/常青 180 复核）、自动化永不删除、公司域=dongshang 且品牌墙非公司域、个人域不进 RAG、课件归东尚域（34 篇非 322）、感性言论=只读素材、视图按业务主体慢生成不日维护、先逻辑分层→提示词→最后物理。
-- **真正待批 = §13.9 六点（2026-09-12 v2.1 修订新增）**：①保留 T0-T4 ②个人域完全独立索引 ③T4 允许显式注入 ④公司隔离仅 RAG（非文件 ACL）⑤语义层真源=「当前主版本」指针 ⑥物理迁移无限期延后。
-- 旧账：MOC+L3 死层、raw 两处合并延后。
+## 知识库 v2 方案（v2.1 六点已拍板落地 2026-09-13）
+- `specs/知识库v2架构方案_讨论稿.md`：按「谁产生+寿命+权限」分区；重要性三维度（Tier×volatility×权限域）；TTL 到期软化不删除；双链废「零孤岛」硬门槛改 R1-R3+`## 前沿`；40_companies 语义层与 dongshang-v3 共用真源；视图一律脚本生成。
+- 原 8 问 2026-09-11 拍板；**v2.1 §13.9 六点 2026-09-13 老板批准并落地**（`specs/决策记录_2026-09-13_v2.1六点拍板.md`）：①T0-T4 保留（CLAUDE.md 2.1 全档+五档目录映射）②个人域完全独立索引 ③T4 显式注入=`retrieval_mod.py --inject`（never/scope=personal 代码级拒绝）④公司隔离仅 RAG（40_companies 40 页已铺 scope:company+company:dongshang）⑤语义层真源=`config/semantic_source.yaml` 版本指针（规则只准引用 version_pointer: current，引用 resolved 视为违规）⑥物理迁移终态=09-12 八分区、此后不再迁移。
+- 隔离验证工具 `knowledge_base/tools/_v21_isolation_check.py`（幂等可复跑，四象限 PASS）。
+- 旧账：raw 两处合并已完成（09-12 并入 10_web）；MOC+L3 已入 50_legacy。
 
 ## 遗留待办
 - ~~批次 12 矛盾清单回写~~ ✅ 2026-09-13 完成（36 条/25 文件，见执行记录）。
 - ~~批次 12 范围外同型残留：comparisons/practices 层 6 页同步~~ ✅ 2026-09-13 完成（执行记录 §8；47.4% 归属仍标待核）。
-- 编译层 aliases 覆盖审计；v2.1 §13.9 六点拍板（材料已呈，待批复）。
+- ~~编译层 aliases 覆盖审计~~ ✅ 2026-09-13 完成（10 页补齐/2 模板豁免，实页 100%，见决策记录 §3）。
+- ~~v2.1 §13.9 六点拍板~~ ✅ 2026-09-13 批准并落地（见决策记录；04_语义层镜像 P4 待落地）。
 - trussardi 地理口径标注行（交接定性不动）。
+- 批次12 保留的真未闭环 4 项（cabbeen 现金流 / peacebird 待验证④+减值 / Marcelo 两说）+ 47.4% 归属——待专项核实。
